@@ -1,1 +1,1 @@
-# Reliabilit-t-graphemischer-Repr-sentationen-in-indirekten-Spracherhebungen
+# Reliabilitaet-graphemischer-Repraesentationen-in-indirekten-Spracherhebungen
