@@ -1,6 +1,0 @@
-für kartierung 
-r bind -> alle messwerte in einer tabelle und normieren z-werte
-levenshtein distanz relational zum nullpunkt
-
-levenshtein distanz änderungen ausgeben lassen
-für jeden laut -> wie oft ist ein laut different und wie oft ist er nicht different
