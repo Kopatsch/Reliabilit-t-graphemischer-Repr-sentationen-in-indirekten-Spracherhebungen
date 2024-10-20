@@ -1,0 +1,80 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	TUTT G7	na	Wiechs a. R.	8.64153, 47.78137	gegerst	na	999	kegerst	na	999	Kagerst	na	999
+1	TUTT A3	na	Stetten (bei Engen)	8.71683, 47.87248	gägerschd	na	999	kägerscht	na	999	Kagerst	na	999
+2	TUTT P2	III_37_0014	Bietingen, Bietingen	8.73023, 47.73862	gegerst	gägerscht	3	kegerst	kägerscht	3	Kagerst	Kagerst	0
+3	TUTT A4	III_35_0028	Zimmerholz, Zimmerholz	8.74175, 47.86811	gägest	gägest	0	kägescht	kägescht	0	Kagerst	Kagerst	0
+4	TUTT P1	na	Ebringen	8.75733, 47.75075	gägest	na	999	kägescht	na	999	Kagerst	na	999
+5	TUTT H10	na	Welschingen	8.75772, 47.82306	gäggeͣ̈rsch	na	999	kägersch	na	999	Kagerst	na	999
+6	TUTT A8	III_35_0029	Anselfingen, Anselfingen	8.76516, 47.84558	gäggerscht	gäggerst	2	kägerscht	kägerscht	0	Kagerst	Kagerst	0
+7	TUTT A7	III_35_0033, III_35_0032, III_35_0034	Engen, Engen	8.76853, 47.85186	gägescht	gägerst	3	kägescht	kägerscht	1	Kagerst	Kagerst	0
+8	TUTT H11	na	Weiterdingen	8.76917, 47.79954	gägerst	na	999	kägerscht	na	999	Kagerst	na	999
+9	TUTT H3	III_36_0034	Duchtlingen, Duchtlingen	8.79029, 47.79154	gägerscht	gägerscht	0	kägerscht	kägerscht	0	Kagerst	Kagerst	0
+10	TUTT H2	na	Mühlhausen	8.81866, 47.80792	gegerst	na	999	kegerst	na	999	Kagerst	na	999
+11	TUTT J4	III_36_0150	Singen, Singen	8.83317, 47.76378	geggerschd, geggerst	gägerscht	3	kägerscht	kägerscht	0	Kagerst	Kagerst	0
+12	TUTT J2 /1	III_36_0052	Schlatt (unter Krähen), Schlatt	8.83529, 47.80435	gägersch	gägerst	2	kägersch	kägerscht	1	Kagerst	Kagerst	0
+13	TUTT J3	na	Hausen an der Aach	8.84574, 47.7917	gägerst	na	999	kägerscht	na	999	Kagerst	na	999
+14	TUTT u5	III_34_0119	Emmingen, Emmingen	8.85302, 47.92883	gäggerschd	gäggerschd	0	kägerscht	kägerscht	0	Kagerst	Kagerst	0
+15	TUTT Q3	na	Worblingen	8.86677, 47.72492	gäggerscht	na	999	kägerscht	na	999	Kagerst	na	999
+16	TUTT X1	III_38_0024	Öhningen, Öhningen	8.89136, 47.66162	gä̆gerst	gäggerscht	3	kägerscht	kägerscht	0	Kagerst	Kagerst	0
+17	TUTT Q4	III_37_0021	Bohlingen, Bohlingen	8.8965, 47.72199	gegerst	gägerscht	3	kegerst	kägerscht	3	Kagerst	Kagerst	0
+18	TUTT B2	III_35_0041	Rorgenwies, Rorgenwies	8.92043, 47.90334	gegeschd	gegeschd	0	kegescht	kegescht	0	Kagerst	Kagerst	0
+19	TUTT Q7	na	Bankholzen	8.92989, 47.7082	gäggerschd	na	999	kägerscht	na	999	Kagerst	na	999
+20	TUTT X2	na	Wangen	8.93161, 47.6599	gäggerst	na	999	kägerscht	na	999	Kagerst	na	999
+21	TUTT Q5	III_37_0024	Moos, Moos	8.93316, 47.7259	gägescht	gägescht	0	kägescht	kägescht	0	Kagerst	Kagerst	0
+22	TUTT B1	na	Heudorf	8.93517, 47.91373	gägescht	na	999	kägescht	na	999	Kagerst	na	999
+23	TUTT B9	III_35_0049	Homberg Münchhof, Münchhöf	8.95295, 47.88032	gäggescht	gägerscht	2	kägescht	kägerscht	1	Kagerst	Kagerst	0
+24	TUTT Q8	na	Weiler und Iznag	8.95347, 47.70847	geggest	na	999	kegest	na	999	Kagerst	na	999
+25	TUTT B10	na	Raithaslach	8.96262, 47.88125	gägerscht	na	999	kägerscht	na	999	Kagerst	na	999
+26	TUTT J9	na	Stahringen	8.97547, 47.78849	gägest	na	999	kägescht	na	999	Kagerst	na	999
+27	TUTT B11	na	Mahlspüren	8.97748, 47.87563	gägescht	na	999	kägescht	na	999	Kagerst	na	999
+28	TUTT u3	na	Gallmannsweil	8.99683, 47.92357	gägeschd	na	999	kagescht	na	999	Kagerst	na	999
+29	TUTT C8	na	Zizenhausen	9.0005, 47.87365	gägescht	na	999	kägescht	na	999	Kagerst	na	999
+30	TUTT R3	na	Markelfingen	9.00452, 47.74143	gägerscht	na	999	kägerscht	na	999	Kagerst	na	999
+31	TUTT C7	III_35_0039	Hindelwangen, Hindelwangen	9.00909, 47.86237	gägest	gäägescht	3	kägescht	kägescht	0	Kagerst	Kagerst	0
+32	TUTT o3	III_33_0047	Leibertingen, Leibertingen	9.01551, 48.04265	kǟgisch	kägisch	1	kägisch	kägisch	0	Kagerst	Kagerst	0
+33	TUTT C1	III_35_0054	Schwackenreute, Schwackenreute	9.04401, 47.91392	käkisch	gäges	5	kägisch	gäges	4	Kagerst	Kagerst	0
+34	TUTT o4	III_33_0042	Kreenheinstetten, Kreenheinstetten	9.05221, 48.0555	kägīsch	kägisch	1	kägisch	kägisch	0	Kagerst	Kagerst	0
+35	TUTT C5	na	Winterspüren	9.05857, 47.85618	geggest	na	999	kegest	na	999	Kagerst	na	999
+36	TUTT R6	na	Reichenau	9.06125, 47.69789	gagescht	na	999	kagescht	na	999	Kagerst	na	999
+37	TUTT v10	na	Messkirch	9.11537, 47.99484	kägisch	na	999	kägisch	na	999	Kagerst	na	999
+38	TUTT R7	na	Dingelsdorf	9.15648, 47.7384	kägerscht	na	999	kägerscht	na	999	Kagerst	na	999
+39	TUTT K9	na	Überlingen	9.1592, 47.76732	kägescht	na	999	kägescht	na	999	Kagerst	na	999
+40	SIG n16	III_36_0075	Nußdorf, Nußdorf	9.19513, 47.75277	gägäscht	kägäst	3	kägescht	kägescht	0	Kagerst	Kagerst	0
+41	SIG n9	na	Rickenbach	9.26015, 47.7972	kägersch	na	999	kägersch	na	999	Kagerst	na	999
+42	SIG n7	III_36_0078	Frickingen, Frickingen	9.27056, 47.81023	kāgesch	kägesch	1	kagesch	kägesch	1	Kagerst	Kagerst	0
+43	SIG n13	na	Mimmenausen	9.2852, 47.76025	kägisch	na	999	kägisch	na	999	Kagerst	na	999
+44	SIG n6	III_36_0079	Leustetten, Leustetten	9.29433, 47.80634	kägerst	kägerscht, kägesch, kägersch	2	kägerscht	kägerscht, kägesch, kägersch	0	Kagerst	Kagerst	0
+45	SIG q5	III_37_0044	Grasbeuren, Grasbeuren	9.29766, 47.73029	kägersch	kägisch	2	kägersch	kägisch	2	Kagerst	Kagerst	0
+46	SIG q4	na	Buggensegel	9.29936, 47.74645	kägescht	na	999	kägescht	na	999	Kagerst	na	999
+47	SIG q9	na	Stetten	9.2999, 47.69243	kǟgersch	na	999	kägersch	na	999	Kagerst	na	999
+48	SIG q6	III_37_0045	Ahausen, Ahausen	9.32247, 47.72502	ghägschd, ghägeschd	ghägesch	1	kägescht	kägesch	1	Kagerst	Kagerst	0
+49	SIG k4	na	Echbeck/Rickertsreute/Boshasel	9.32995, 47.85865	kägrsch	na	999	kägersch	na	999	Kagerst	na	999
+50	SIG r1	na	Mittelstenweiler	9.33753, 47.75241	kägersch	na	999	kägersch	na	999	Kagerst	na	999
+51	SIG l1	na	Burgweiler	9.35318, 47.91762	kägisch	na	999	kägisch	na	999	Kagerst	na	999
+52	SIG r6	na	Hepbach	9.43103, 47.7193	gägest	na	999	kägescht	na	999	Kagerst	na	999
+53	na	III_14_0041	Fessenheim	7.53712, 47.91578	na	gaste	999	na	gaschte	999	na	Kagerst	999
+54	na	III_14_0147	Malsburg	7.70866, 47.73257	na	gägerscht	999	na	kägerscht	999	na	Kagerst	999
+55	na	III_13_0079	St. Märgen	8.09239, 48.00756	na	gagescht, agescht	999	na	kagescht, agescht	999	na	Kagerst	999
+56	na	III_36_0042	Hausen	8.67575, 47.91421	na	gägerst	999	na	kägerscht	999	na	Kagerst	999
+57	na	III_37_0015	Gailingen	8.75499, 47.69685	na	gäggerscht	999	na	kägerscht	999	na	Kagerst	999
+58	na	III_35_0031, III_35_0030	Neuhausen	8.77423, 47.8379	na	gäggerscht	999	na	kägerscht	999	na	Kagerst	999
+59	na	III_34_0042	Hattingen	8.78447, 47.92082	na	gägerscht	999	na	kägerscht	999	na	Kagerst	999
+60	na	III_35_0043	Eigeltingen	8.8974, 47.85806	na	gägerst	999	na	kägerscht	999	na	Kagerst	999
+61	na	III_36_0046	Wiechs	8.90712, 47.81585	na	gäggerscht	999	na	kägerscht	999	na	Kagerst	999
+62	na	III_34_0047	Liptingen	8.90748, 47.93756	na	gägerst	999	na	kägerscht	999	na	Kagerst	999
+63	na	III_35_0038	Orsingen	8.92977, 47.83688	na	gägerst	999	na	kägerscht	999	na	Kagerst	999
+64	na	III_35_0051	Nenzingen	8.95914, 47.84256	na	gägerscht	999	na	kägerscht	999	na	Kagerst	999
+65	na	III_36_0045	Möggingen	9.00337, 47.76589	na	gägest	999	na	kägescht	999	na	Kagerst	999
+66	na	III_36_0053	Espasingen	9.01058, 47.82135	na	gägerst	999	na	kägerscht	999	na	Kagerst	999
+67	na	III_34_0054	Altheim	9.03387, 47.99511	na	kägesch	999	na	kägesch	999	na	Kagerst	999
+68	na	III_35_0052	Zoznegg	9.04053, 47.89958	na	kägrätsch	999	na	kägrätsch	999	na	Kagerst	999
+69	na	III_36_0059	Ludwigshafen	9.05916, 47.8189	na	kächerschd	999	na	kächerscht	999	na	Kagerst	999
+70	na	III_35_0066	Herdwangen	9.16937, 47.8629	na	kägisch	999	na	kägisch	999	na	Kagerst	999
+71	na	III_38_0131	Konstanz	9.17758, 47.66385	na	kägescht	999	na	kägescht	999	na	Kagerst	999
+72	na	III_34_0063	Pfullendorf	9.25466, 47.92614	na	kägisch	999	na	kägisch	999	na	Kagerst	999
+73	na	III_35_0075	Hattenweiler	9.27568, 47.85957	na	kägisch	999	na	kägisch	999	na	Kagerst	999
+74	na	III_35_0081	Echbeck	9.32995, 47.8587	na	kägerscht	999	na	kägerscht	999	na	Kagerst	999
+75	na	III_35_0079	Burgweiler	9.35318, 47.9176	na	kägescht	999	na	kägescht	999	na	Kagerst	999
+76	na	III_36_0098	Lellwangen	9.36523, 47.79833	na	kägescht	999	na	kägescht	999	na	Kagerst	999
+77	na	III_35_0080	Illmensee	9.37456, 47.86209	na	kägesch	999	na	kägesch	999	na	Kagerst	999
+78	na	III_36_0096	Urnau	9.43083, 47.76354	na	gägerst	999	na	kägerscht	999	na	Kagerst	999

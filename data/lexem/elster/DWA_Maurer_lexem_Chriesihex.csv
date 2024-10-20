@@ -1,0 +1,5 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Co K12, TUTT D5	na	Todtmoos (-Rütte), Todtmoos	8.00438, 47.74133	chriesihex, chrisihäxle	na	999	chrisiheksle, chrisiheks	na	999	Chriesihex	na	999
+1	TUTT D4	na	St. Blasien	8.12792, 47.76144	chriesihäks	na	999	chrisiheks	na	999	Chriesihex	na	999
+2	TUTT L15	na	Tiefenhäusern	8.14547, 47.70277	chrisihätzle	na	999	chrisihetsle	na	999	Chriesihex	na	999
+3	TUTT E1	na	Fischbach	8.16112, 47.84388	griesihäxle	na	999	grisiheksle	na	999	Chriesihex	na	999

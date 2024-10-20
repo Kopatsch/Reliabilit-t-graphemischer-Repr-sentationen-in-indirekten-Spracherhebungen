@@ -1,0 +1,59 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_maurer_align	item_DWA	item_DWA_align	Levenshtein_item
+0	Co Vc 2	III_16_0011	Hindlingen, Hindlingen	7.13734, 47.57341	omaisalla	o m a i s a ll a	omaisala	o m a i s a l a	1
+1	Co T14	III_16_0006	Füllern (Fulleren), Füllern	7.14596, 47.59468	omeisala	o m ei s a l a	ameisala	a m ei s a l a	1
+2	Co Vc 1	III_17_0002	Friesen, Friesen	7.15001, 47.56535	oͣmeisela	o ͣ m ei s e l a	omeisela	o m ei s e l a	1
+3	Co Ua 11	III_17_0031	Pfetterhausen (Pfetterhouse), Pfetterhausen	7.16635, 47.50105	ameisela	a m ei s e l a	omeisela	o m ei s e l a	1
+4	Co U 12	III_16_0021, III_16_0020	Hirzbach (Hirtzbach), Hirzbach	7.22017, 47.59449	ameisele	a m ei s e l e	omeisele	o m ei s e l e	1
+5	Co Ua 6	III_17_0013	Bisel, Bisel	7.22032, 47.53456	omaissala	o m a i ss a l a	omeisala	o m ei s a l a	2
+6	Co Ub 1	III_17_0063	Dürlinsdorf (Durlinsdorf), Dürlinsdorf	7.24121, 47.48531	omaisele	o m a i s e l e	omeisele	o m ei s e l e	1
+7	Co Ua 1	III_17_0005	Heimersdorf, Heimersdorf	7.24206, 47.57224	omeisle	o m ei s l e	omeisele	o m ei s e l e	1
+8	Co U 13	III_16_0034	Hisingen (Hirsingue), Hirsingen	7.25483, 47.58601	ohmeisela	o h m ei s e l a	omeisala	o m ei s a l a	2
+9	Co Ua 10	III_17_0006	Rüderbach (Ruederbach), Rüderbach	7.26824, 47.56144	omaisala	o m a i s a l a	omeisala	o m ei s a l a	1
+10	Co Ua 13	III_17_0010	Köstlach (Kœstlach), Köstlach	7.27085, 47.5062	omēisela	o m ē i s e l a	omeisele	o m ei s e l e	2
+11	Co Ua 4	III_17_0007	Grenzingen, Grenzingen	7.30068, 47.56354	omeisela	o m ei s e l a	omeisele	o m ei s e l e	1
+12	Co Ub 5	III_17_0066	Lüxdorf (Ligsdorf), Lüxdorf	7.3091, 47.47235	omeisala	o m ei s a l a	ameisele	a m ei s e l e	3
+13	Co Ua 3	III_16_0035	Weiler (Kreis Altkirch), Weiler	7.31925, 47.5857	omaisele	o m a i s e l e	omeisala	o m ei s a l a	3
+14	Co V 10	III_16_0043	Franken, Franken	7.35483, 47.59947	omaisala	o m a i s a l a	omaisele	o m a i s e l e	2
+15	Co Va 11	III_17_0015	Werenzhausen (Werentzhouse), Werenzweiler	7.3579, 47.51688	omaisle	o m a i s l e	omaisale	o m a i s a l e	1
+16	Co V 18	III_16_0042	Zässingen (Zaessingue), Zässingen	7.3676, 47.62375	omeisle	o m ei s l e	omeisela	o m ei s e l a	2
+17	Co Vd 6	III_17_0074	Lutter, Lutter	7.38095, 47.46702	omeisale	o m ei s a l e	omeisala	o m ei s a l a	1
+18	Co V 17/2, Co V 17/1	III_16_0050	Kötzingen (Kœtzingue), Kötzingen	7.394, 47.65091	ůmeisla	ů m ei s l a	umeisle	u m ei s l e	2
+19	Co Vd 2/2, Co Vd 2/1	III_17_0072	Oltingen (Oltingue), Oltingen	7.39411, 47.48862	omeisale	o m ei s a l e	omeisala	o m ei s a l a	1
+20	V	III_17_0025	Knöringen  (Knœringue) (im Elsass), Knöringen	7.4042, 47.5624	omeisele	o m ei s e l e	omeisala	o m ei s a l a	2
+21	Co V 7	III_16_0052	Niedermagstatt (Magstatt-le-Bas), Niedermagstatt	7.41155, 47.6393	ōmaisla	ō m a i s l a	omeisle	o m ei s l e	3
+22	Co V 8	III_16_0053	Stetten, Stetten	7.42942, 47.6261	ōmaisala	ō m a i s a l a	omaisla	o m a i s l a	2
+23	Co V 14	III_16_0054	Kappeln (Kappelen), Kappeln	7.44156, 47.61975	omaisla	o m a i s l a	omeisle	o m ei s l e	2
+24	Co Vd 4	III_17_0073	Leimen (Leymen), Leimen	7.48218, 47.4954	omeisala	o m ei s a l a	omeisela	o m ei s e l a	1
+25	Co Wa 5	III_17_0028	Neuweiler (Neuwiller), Neuweiler	7.51526, 47.52439	omeisele	o m ei s e l e	ameisala	a m ei s a l a	3
+26	Co Wa 1	III_17_0026	Häsingen (Hésingue), Häsingen	7.5211, 47.57633	omeisele	o m ei s e l e	aumeisala	a u m ei s a l a	4
+27	Co Wa 3	III_17_0035	Hegenheim (Hégenheim), Hegenheim	7.52344, 47.56115	omeisalla	o m ei s a ll a	aumasala	a u m a s a l a	5
+28	TUTT y3	III_35_0003	Seppenhofen, Seppenhofen	8.34864, 47.8748	amosele	a m o s e l e	umoselen	u m o s e l e n	2
+29	TUTT y4	III_35_0002	Reiselfingen, Reiselfingen	8.35108, 47.85467	amåsele	a m å s e l e	umosele	u m o s e l e	2
+30	TUTT y1	III_35_0004	Dittishausen, Dittishausen	8.36266, 47.90077	umoͦsele	u m o ͦ s e l e	umosele	u m o s e l e	1
+31	TUTT y11	III_35_0009	Bachheim, Bachheim	8.4031, 47.85931	umosele	u m o s e l e	amo͡asele	a m o ͡ a s e l e	3
+32	TUTT Q3	III_37_0019	Worblingen, Worblingen	8.86677, 47.72492	rumbosala	r u m b o s a l a	rumboasala	r u m b o a s a l a	1
+33	TUTT J6	III_36_0044	Beuren an der Aach, Beuren	8.87459, 47.79932	rambåsel	r a m b å s e l	rumboasele	r u m b o a s e l e	4
+34	TUTT X1	III_38_0024	Öhningen, Öhningen	8.89136, 47.66162	umbāsle	u m b ā s l e	umbasle	u m b a s l e	1
+35	TUTT Q4	III_37_0021	Bohlingen, Bohlingen	8.8965, 47.72199	umboesele	u m b o e s e l e	ambösele	a m b ö s e l e	3
+36	TUTT Q7	III_37_0025	Bankholzen, Bankholzen	8.92989, 47.7082	ameisele	a m ei s e l e	umboaßeͣ̈leͣ̈	u m b o a ß e ͣ ̈ l e ͣ ̈	9
+37	TUTT X2	III_38_0025	Wangen, Wangen	8.93161, 47.6599	umbasla	u m b a s l a	umbasele	u m b a s e l e	2
+38	TUTT Q5	III_37_0024	Moos, Moos	8.93316, 47.7259	umbåssele	u m b å ss e l e	umboasele	u m b o a s e l e	2
+39	TUTT Q8	III_37_0028	Weiler und Iznag, Weiler	8.95347, 47.70847	hamboisele	h a m b o i s e l e	humbaisele	h u m b a i s e l e	2
+40	TUTT Q10	III_37_0026	Gaienhofen, Gaienhofen	8.9829, 47.68263	umboasēͣlēͣ	u m b o a s ē ͣ l ē ͣ	umboassele	u m b o a ss e l e	4
+41	TUTT Q9	III_37_0027	Horn, Horn	8.99438, 47.69562	humboasä̆lä̆	h u m b o a s ä ̆ l ä ̆	humboaselä̆	h u m b o a s e l ä ̆	2
+42	Co U 12	III_16_0021, III_16_0020	Hirzbach (Hirtzbach), Hirzbach	7.22017, 47.59449	ameisele	a m ei s e l e	omeisela	o m ei s e l a	2
+43	Co U 12	III_16_0021, III_16_0020	Hirzbach (Hirtzbach), Hirzbach	7.22017, 47.59449	ameisele	a m ei s e l e	omeisele	o m ei s e l e	1
+44	Co V 17/2, Co V 17/1	III_16_0050	Kötzingen (Kœtzingue), Kötzingen	7.394, 47.65091	omeisle	o m ei s l e	umeisle	u m ei s l e	1
+45	Co V 17/2, Co V 17/1	III_16_0050	Kötzingen (Kœtzingue), Kötzingen	7.394, 47.65091	ůmeisla	ů m ei s l a	umeisle	u m ei s l e	2
+46	Co Vd 2/2, Co Vd 2/1	III_17_0072	Oltingen (Oltingue), Oltingen	7.39411, 47.48862	omaisale	o m a i s a l e	omeisala	o m ei s a l a	2
+47	Co Vd 2/2, Co Vd 2/1	III_17_0072	Oltingen (Oltingue), Oltingen	7.39411, 47.48862	omeisale	o m ei s a l e	omeisala	o m ei s a l a	1
+48	TUTT y4	III_35_0002	Reiselfingen, Reiselfingen	8.35108, 47.85467	umåsele	u m å s e l e	umosele	u m o s e l e	1
+49	TUTT y4	III_35_0002	Reiselfingen, Reiselfingen	8.35108, 47.85467	amåsele	a m å s e l e	umosele	u m o s e l e	2
+50	TUTT y11	III_35_0009	Bachheim, Bachheim	8.4031, 47.85931	umosele	u m o s e l e	umo͡asele	u m o ͡ a s e l e	2
+51	TUTT y11	III_35_0009	Bachheim, Bachheim	8.4031, 47.85931	umosele	u m o s e l e	amo͡asele	a m o ͡ a s e l e	3
+52	TUTT J6	III_36_0044	Beuren an der Aach, Beuren	8.87459, 47.79932	rambåsel	r a m b å s e l	amoasele	a m o a s e l e	4
+53	TUTT J6	III_36_0044	Beuren an der Aach, Beuren	8.87459, 47.79932	rambåsel	r a m b å s e l	rumboasele	r u m b o a s e l e	4
+54	TUTT Q7	III_37_0025	Bankholzen, Bankholzen	8.92989, 47.7082	umboassele	u m b o a ss e l e	umboaßeͣ̈leͣ̈	u m b o a ß e ͣ ̈ l e ͣ ̈	6
+55	TUTT Q7	III_37_0025	Bankholzen, Bankholzen	8.92989, 47.7082	ameisele	a m ei s e l e	umboaßeͣ̈leͣ̈	u m b o a ß e ͣ ̈ l e ͣ ̈	9
+56	TUTT Q9	III_37_0027	Horn, Horn	8.99438, 47.69562	humboasä̆lä̆	h u m b o a s ä ̆ l ä ̆	rumboaselä̆	r u m b o a s e l ä ̆	3
+57	TUTT Q9	III_37_0027	Horn, Horn	8.99438, 47.69562	humboasä̆lä̆	h u m b o a s ä ̆ l ä ̆	humboaselä̆	h u m b o a s e l ä ̆	2

@@ -1,0 +1,87 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_maurer_align	item_DWA	item_DWA_align	Levenshtein_item
+0	KST t5	III_20_0030	Oberacker, Oberacker	8.71399, 49.1087	äbire	ä b i r e	äbiere	ä b ie r e	1
+1	KST t10	III_20_0031	Menzingen, Menzingen	8.77067, 49.13931	erbīre	e r b ī r e	ärbierä	ä r b ie r ä	4
+2	KST m5	III_19_0031, III_19_0030	Michelfeld, Michelfeld	8.7808, 49.22723	erbīere	e r b ī e r e	erbire	e r b i r e	2
+3	KST t9	III_20_0034	Bahnbrücken, Bahnbrücken	8.78671, 49.11865	ärbiere	ä r b ie r e	äbiere	ä b ie r e	1
+4	KST t11	III_20_0033	Landshausen, Landshausen	8.80627, 49.14899	erbiere	e r b ie r e	erbier	e r b ie r	1
+5	KST t8	III_20_0040	Zaisenhausen, Zaisenhausen	8.81712, 49.10745	äbiera	ä b ie r a	äbira	ä b i r a	1
+6	KST n1	III_19_0034	Dühren, Dühren	8.83562, 49.24557	erbira	e r b i r a	erbiere	e r b ie r e	2
+7	KST B1	III_21_0033	Kürnbach, Kürnbach	8.84279, 49.07732	arbierä	a r b ie r ä	erbiere	e r b ie r e	2
+8	KST u4	III_20_0041	Rohrbach (am Giesshübel), Rohrbach	8.85649, 49.14055	erbire	e r b i r e	erbiere	e r b ie r e	1
+9	KST n13	III_19_0037	Weiler, Weiler	8.87587, 49.20862	erbire	e r b i r e	erdbire	e r d b i r e	1
+10	KST n10	III_20_0046	Adelshofen, Adelshofen	8.89073, 49.16806	äbbiere	ä bb ie r e	erbiere	e r b ie r e	2
+11	KST u6	III_20_0052	Mühlbach, Mühlbach	8.90301, 49.09703	ärbirre	ä r b i rr e	ärbiere	ä r b ie r e	1
+12	KST u3	III_20_0050, III_20_0047, III_20_0051, III_20_0049, III_20_0048	Eppingen, Eppingen	8.9098, 49.13704	erbiere	e r b ie r e	ärbiera	ä r b ie r a	2
+13	KST n9	III_19_0046	Ittlingen, Ittlingen	8.93691, 49.19224	erbiere	e r b ie r e	erdbire	e r d b i r e	2
+14	KST n8	III_19_0047	Richen, Richen	8.94083, 49.17134	erbīre	e r b ī r e	ärbierä	ä r b ie r ä	4
+15	KST n7	III_19_0048	Berwangen, Berwangen	8.98098, 49.18431	äbire	ä b i r e	erdbiere	e r d b ie r e	4
+16	KST u1	III_20_0053, III_20_0056, III_20_0054, III_20_0055	Gemmingen, Gemmingen	8.98358, 49.15633	äbiere	ä b ie r e	erbire	e r b i r e	3
+17	TÜB g1	III_25_0044	Sindelfingen, Sindelfingen	9.00194, 48.70797	a͜ebirâ	a ͜ e b i r â	erdbirn	e r d b i r n	4
+18	KST g3	III_18_0062	Hüffenhardt, Hüffenhardt	9.08386, 49.2913	erdbieren	e r d b ie r e n	erbieren	e r b ie r e n	1
+19	KST o3	III_19_0058, III_19_0057	Bad Rappenau, Bad Rappenau	9.10212, 49.24032	erbiire	e r b ii r e	erbiere	e r b ie r e	1
+20	KST v1	III_20_0066	Schluchtern, Schluchtern	9.1026, 49.14843	erbiere	e r b ie r e	erdbirne	e r d b i r n e	3
+21	MH Y4	III_18_0076	Stein am Kocher, Stein	9.29954, 49.26198	äbbirre	ä bb i r r e	äbbirn	ä bb i r n	2
+22	STU h1	III_24_0080	Stetten/Remstal, Stetten/Remstal	9.34045, 48.79285	ebbira	e bb i r a	äbira	ä b i r a	2
+23	STU u1	III_26_0090	Nürtingen, Nürtingen	9.34192, 48.62663	aibire	a i b i r e	ebier	e b ie r	4
+24	MH Z1	III_18_0081	Ruchsen, Ruchsen	9.37887, 49.31914	äbbirn	ä bb i r n	erdbirn	e r d b i r n	3
+25	MH V2	II_93_0002	Sennfeld, Sennfeld	9.38438, 49.38045	äbiern	ä b ie r n	äbier	ä b ie r	1
+26	MH V1	II_93_0003	Adlesheim, Adlesheim	9.39101, 49.40289	erbiern	e r b ie r n	erbiere	e r b ie r e	1
+27	MH V5	II_93_0004	Korb, Korb	9.39732, 49.35594	äbbirn	ä bb i r n	erdbirn	e r d b i r n	3
+28	MH V3	II_93_0005	Leibenstadt, Leibenstadt	9.42028, 49.36861	ebiern	e b ie r n	erbiern	e r b ie r n	1
+29	MH N5	II_92_0007, II_92_0006	Osterburken, Osterburken	9.42838, 49.4308	ebirn	e b i r n	aebiirn	a e b ii r n	2
+30	MH V4	II_93_0006	Unterkessach, Unterkessach	9.43829, 49.34571	äbīrn	ä b ī r n	ēbirn	ē b i r n	2
+31	MH N7	II_92_0009	Sindolsheim, Sindolsheim	9.45384, 49.48715	ebīrn	e b ī r n	ebiern	e b ie r n	2
+32	MH N9	II_92_0008	Rosenberg, Rosenberg	9.4752, 49.45583	ebirn	e b i r n	äbir	ä b i r	2
+33	MH N6	II_92_0133	Bronnacker, Bronnacker	9.48305, 49.4446	äbirn	ä b i r n	ebire	e b i r e	2
+34	STU u2	III_26_0084	Bissingen/Teck, Bissingen-Teck	9.49128, 48.60024	aibīra	a i b ī r a	aibiere	a i b ie r e	3
+35	MH O3	II_92_0012	Berolzheim, Berolzheim	9.54042, 49.4749	äbirn	ä b i r n	ebiern	e b ie r n	2
+36	MH W2	II_93_0011	Ballenberg, Ballenberg	9.55086, 49.40093	äbirn	ä b i r n	ebirn	e b i r n	1
+37	MH W3	II_93_0012	Erlenbach, Erlenbach	9.5514, 49.38553	äbiern	ä b ie r n	äbirn	ä b i r n	1
+38	MH O7	II_92_0014	Oberwittstadt, Oberwittstadt	9.55565, 49.43027	äbirn	ä b i r n	ebirn	e b i r n	1
+39	MH O4	II_92_0013	Schillingstadt, Schillingstadt	9.57461, 49.46035	ebirn	e b i r n	erbiera	e r b ie r a	3
+40	MH W4	II_93_0019	Oberndorf, Oberndorf	9.59181, 49.40817	ebirn	e b i r n	erbirn	e r b i r n	1
+41	MH O8	II_91_0012	Uiffingen, Uiffingen	9.59227, 49.50171	erbira	e r b i r a	ebiern	e b ie r n	3
+42	MH O9	II_92_0022	Angeltürn, Angeltürn	9.59726, 49.48572	äbirn	ä b i r n	äbiern	ä b ie r n	1
+43	MH O5	II_92_0020, II_92_0021, II_92_0019	Schwabhausen, Schwabhausen	9.60196, 49.45569	ebirn	e b i r n	äbiern	ä b ie r n	2
+44	MH W8	II_93_0018	Gommersdorf, Gommersdorf	9.61253, 49.36877	äbbīrn	ä bb ī r n	ebbirn	e bb i r n	2
+45	MH F7	II_91_0013	Kupprichhausen-Lengenrieden, Kupprichhausen u. Lengenrieden	9.62002, 49.52627	érbirn	é r b i r n	ärbiirn	ä r b ii r n	2
+46	MH O6	II_92_0016, II_92_0015, II_92_0018, II_92_0017	Windischbuch, Windischbuch	9.62194, 49.43593	erdbirn	e r d b i r n	ebirn	e b i r n	2
+47	MH F6	II_91_0014	Epplingen, Epplingen	9.62742, 49.5054	ebbiere	e bb ie r e	ebiern	e b ie r n	2
+48	MH O10	II_92_0023, II_92_0025, II_92_0024	Wölchingen, Wölchingen	9.63011, 49.48494	ebbiern	e bb ie r n	ebirn	e b i r n	2
+49	MH W7	II_93_0022	Krautheim, Krautheim	9.63369, 49.39159	ĕbiern	ĕ b ie r n	ebiern	e b ie r n	1
+50	MH O11	II_92_0026	Boxberg, Boxberg	9.64298, 49.48181	erbirn	e r b i r n	ebirn	e b i r n	1
+51	MH P2	II_92_0040	Schweigern, Schweigern	9.66576, 49.49224	äbirn	ä b i r n	äbiern	ä b ie r n	1
+52	MH P3	II_92_0028	Bobstadt, Bobstadt	9.67398, 49.46607	ebirn	e b i r n	erbirn	e r b i r n	1
+53	MH G11	II_91_0019	Oberschüpf, Oberschüpf	9.67687, 49.52252	äbīre	ä b ī r e	ebire	e b i r e	2
+54	MH P4	II_92_0030, II_92_0031, II_92_0029, II_92_0032	Assamstadt, Assamstadt	9.68738, 49.42689	erbirn	e r b i r n	erdbier	e r d b ie r	3
+55	MH G13	II_91_0021	Sachsenflur, Sachsenflur	9.71, 49.52377	äbbiere	ä bb ie r e	äbiere	ä b ie r e	1
+56	MH P1	II_92_0027	Dainbach-Herold, Dainbach	9.71553, 49.49662	äbīere	ä b ī e r e	äbirn	ä b i r n	3
+57	MH G4	II_91_0025	Marbach, Marbach	9.7264, 49.56581	äbīere	ä b ī e r e	äbiere	ä b ie r e	1
+58	MH G9	II_91_0022	Königshofen, Königshofen	9.73105, 49.54759	ebbiere	e bb ie r e	ebiere	e b ie r e	1
+59	MH G8	II_91_0023	Unterbalbach, Unterbalbach	9.74711, 49.52779	äbire	ä b i r e	ebiere	e b ie r e	2
+60	MH G7/2, MH G7/1	II_91_0032	Oberbalbach, Oberbalbach	9.7938, 49.53997	epira	e p i r a	äbira	ä b i r a	2
+61	KST m5	III_19_0031, III_19_0030	Michelfeld, Michelfeld	8.7808, 49.22723	erbīere	e r b ī e r e	erbiere	e r b ie r e	1
+62	KST m5	III_19_0031, III_19_0030	Michelfeld, Michelfeld	8.7808, 49.22723	erbīere	e r b ī e r e	erbire	e r b i r e	2
+63	KST u5	III_20_0163, III_20_0045, III_20_0044, III_20_0042, III_20_0043	Sulzfeld, Sulzfeld	8.85671, 49.10336	erbira	e r b i r a	erbiera	e r b ie r a	1
+64	KST u5	III_20_0163, III_20_0045, III_20_0044, III_20_0042, III_20_0043	Sulzfeld, Sulzfeld	8.85671, 49.10336	erbira	e r b i r a	erbiere	e r b ie r e	2
+65	KST u3	III_20_0050, III_20_0047, III_20_0051, III_20_0049, III_20_0048	Eppingen, Eppingen	8.9098, 49.13704	erbiere	e r b ie r e	ärbira	ä r b i r a	3
+66	KST u3	III_20_0050, III_20_0047, III_20_0051, III_20_0049, III_20_0048	Eppingen, Eppingen	8.9098, 49.13704	erbiere	e r b ie r e	ärbiere	ä r b ie r e	1
+67	KST u3	III_20_0050, III_20_0047, III_20_0051, III_20_0049, III_20_0048	Eppingen, Eppingen	8.9098, 49.13704	erbiere	e r b ie r e	ärbiera	ä r b ie r a	2
+68	KST o3	III_19_0058, III_19_0057	Bad Rappenau, Bad Rappenau	9.10212, 49.24032	erbiire	e r b ii r e	erbiere	e r b ie r e	1
+69	STU u1	III_26_0090	Nürtingen, Nürtingen	9.34192, 48.62663	aibire	a i b i r e	äbiera	ä b ie r a	4
+70	STU u1	III_26_0090	Nürtingen, Nürtingen	9.34192, 48.62663	aibire	a i b i r e	ebier	e b ie r	4
+71	MH N5	II_92_0007, II_92_0006	Osterburken, Osterburken	9.42838, 49.4308	ebirn	e b i r n	ebiirn	e b ii r n	1
+72	MH N5	II_92_0007, II_92_0006	Osterburken, Osterburken	9.42838, 49.4308	ebirn	e b i r n	aebiirn	a e b ii r n	2
+73	MH O5	II_92_0020, II_92_0021, II_92_0019	Schwabhausen, Schwabhausen	9.60196, 49.45569	ebirn	e b i r n	ebbirn	e bb i r n	1
+74	MH O5	II_92_0020, II_92_0021, II_92_0019	Schwabhausen, Schwabhausen	9.60196, 49.45569	ebirn	e b i r n	äbiern	ä b ie r n	2
+75	MH O6	II_92_0016, II_92_0015, II_92_0018, II_92_0017	Windischbuch, Windischbuch	9.62194, 49.43593	erdbirn	e r d b i r n	eebirn	ee b i r n	2
+76	MH O6	II_92_0016, II_92_0015, II_92_0018, II_92_0017	Windischbuch, Windischbuch	9.62194, 49.43593	erdbirn	e r d b i r n	ebbirn	e bb i r n	2
+77	MH O6	II_92_0016, II_92_0015, II_92_0018, II_92_0017	Windischbuch, Windischbuch	9.62194, 49.43593	erdbirn	e r d b i r n	ebiern	e b ie r n	3
+78	MH O6	II_92_0016, II_92_0015, II_92_0018, II_92_0017	Windischbuch, Windischbuch	9.62194, 49.43593	erdbirn	e r d b i r n	ebirn	e b i r n	2
+79	MH O10	II_92_0023, II_92_0025, II_92_0024	Wölchingen, Wölchingen	9.63011, 49.48494	ebbiern	e bb ie r n	ebbirn	e bb i r n	1
+80	MH O10	II_92_0023, II_92_0025, II_92_0024	Wölchingen, Wölchingen	9.63011, 49.48494	ebbiern	e bb ie r n	ebirn	e b i r n	2
+81	MH P4	II_92_0030, II_92_0031, II_92_0029, II_92_0032	Assamstadt, Assamstadt	9.68738, 49.42689	erdbirn	e r d b i r n	erdbier	e r d b ie r	2
+82	MH P4	II_92_0030, II_92_0031, II_92_0029, II_92_0032	Assamstadt, Assamstadt	9.68738, 49.42689	erbirn	e r b i r n	erdbirn	e r d b i r n	1
+83	MH P4	II_92_0030, II_92_0031, II_92_0029, II_92_0032	Assamstadt, Assamstadt	9.68738, 49.42689	erbirn	e r b i r n	erdbier	e r d b ie r	3
+84	MH G7/2, MH G7/1	II_91_0032	Oberbalbach, Oberbalbach	9.7938, 49.53997	ebīra	e b ī r a	äbira	ä b i r a	2
+85	MH G7/2, MH G7/1	II_91_0032	Oberbalbach, Oberbalbach	9.7938, 49.53997	epira	e p i r a	äbira	ä b i r a	2

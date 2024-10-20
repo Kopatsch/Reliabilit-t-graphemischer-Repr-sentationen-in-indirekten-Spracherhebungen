@@ -1,0 +1,8 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Hag E 1	III_4_0050	Örmingen (Oermingen), Örmingen	7.12881, 49.00062	arschkrätzerle	arschkrätzerle	0	arschkrätzerle	arschkrätzerle	0	Arschkrätzerle	Arschkrätzerle	0
+1	Hag F 1	na	Dehlingen	7.19095, 48.98016	årschkrätzle	na	999	arschkrätzle	na	999	Arschkrätzerle	na	999
+2	Stra v 3	na	Goldscheuer	7.81911, 48.51308	arschgrazerle	na	999	arschkratzerle	na	999	Arschkrätzerle	na	999
+3	Stra v 2	na	Marlen	7.8231, 48.52207	arschkratzerle	na	999	arschkratzerle	na	999	Arschkrätzerle	na	999
+4	na	III_5_0024	Keskastel	7.04339, 48.96955	na	arschgrätzerle	999	na	arschkrätzerle	999	na	Arschkrätzerle	999
+5	na	III_7_0008	Rauweiler	7.10907, 48.81139	na	arschkrätzler	999	na	arschkrätzler	999	na	Arschkrätzerle	999
+6	na	III_5_0030	Völlerdingen	7.14098, 48.9622	na	arschgräzerle	999	na	arschkrätzerle	999	na	Arschkrätzerle	999

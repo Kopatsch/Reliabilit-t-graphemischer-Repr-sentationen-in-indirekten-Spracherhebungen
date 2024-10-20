@@ -1,0 +1,4 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	KST G11	III_22_0023	Ersingen, Ersingen	8.63492, 48.93324	boxhose	boxhosä	1	boxhose	boxhose	0	Boxhose	Boxhose	0
+1	na	III_22_0022	Bilfingen	8.61996, 48.95027	na	boxhose	999	na	boxhose	999	na	Boxhose	999
+2	na	III_23_0040	Pforzheim	8.70025, 48.89013	na	boxhos	999	na	boxhos	999	na	Boxhose	999

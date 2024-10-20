@@ -1,0 +1,94 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Hag x 1	III_4_0044	Silzheim (Siltzheim), Silzheim	7.09071, 49.0616	gummere	gummere	0	gummere	gummere	0	Gummer	Gummer	0
+1	Hag M 6	na	Güngweiler (Gungwiller)	7.15771, 48.88171	gumerä	na	999	gummere	na	999	Gummer	na	999
+2	Hag F 2	na	Bütten (Butten)	7.2205, 48.97095	gumre	na	999	gummere	na	999	Gummer	na	999
+3	Hag Y 9	na	Falhünden (Dalhünden)	7.98835, 48.77367	gummere	na	999	gummere	na	999	Gummer	na	999
+4	TÜB a6	na	Oberbruch	8.08775, 48.72893	gummere	na	999	gummere	na	999	Gummer	na	999
+5	KST L3	III_6_0088	Schaffhausen (Schaffhouse-près-Selz), Schaffhausen	8.10006, 48.9087	gummere	gummere	0	gummere	gummere	0	Gummer	Gummer	0
+6	KST F12	na	Ettlingenweier	8.38589, 48.92887	gummere	na	999	gummere	na	999	Gummer	na	999
+7	Ma h1/2	II_59_0059, II_59_0044, II_59_0048, II_59_0040, II_59_0052, II_59_0050, II_59_0062, II_59_0051, II_59_0045, II_59_0047, II_59_0039, II_59_0054	Mannheim, Mannheim	8.46678, 49.4865	gummer	gummern, gummere, gummer	0	gummer	gummern, gummere, gummer	0	Gummer	Gummer	0
+8	Ma h1/1	na	Siedlung Schönau (Mannheim)	8.47602, 49.54338	gummere, gummer	na	999	gummere, gummer	na	999	Gummer	na	999
+9	Ma h2/2, Ma h2/1	na	Neckarau, Mannheim-Neckarau	8.49104, 49.45335	gumere , gumma	na	999	gummere, gummer	na	999	Gummer	na	999
+10	MH H10/2	na	Mannheim-Rheinau	8.53056, 49.4292	gummere	na	999	gummere	na	999	Gummer	na	999
+11	MH J5	na	Peterstal (keine eigene GID, gleiche wie Wilhelmsfeld)	8.75548, 49.44624	gummere	na	999	gummere	na	999	Gummer	na	999
+12	MH C1	na	Friedrichsdorf	9.054, 49.52034	gummere	na	999	gummere	na	999	Gummer	na	999
+13	MH L6	II_59_0102	Waldkatzenbach, Waldkatzenbach	9.05484, 49.45603	gummer	gummer	0	gummer	gummer	0	Gummer	Gummer	0
+14	MH C2	II_58_0104	Reisenbach, Reisenbach	9.12415, 49.50336	gummern	gummern	0	gummern	gummern	0	Gummer	Gummer	0
+15	MH L8	na	Wagenschwend	9.14637, 49.47256	gumern	na	999	gummern	na	999	Gummer	na	999
+16	MH C3	II_58_0110	Scheidental, Scheidental	9.15106, 49.50744	gummere	gum̄ern	2	gummere	gummern	1	Gummer	Gummer	0
+17	MH C4	II_58_0116	Schloßau, Schloßau	9.15226, 49.53935	gummere	gummorn	2	gummere	gummern	1	Gummer	Gummer	0
+18	MH C5	na	Waldauerbach	9.15798, 49.52591	gummern	na	999	gummern	na	999	Gummer	na	999
+19	MH D1	II_58_0106	Mörschenhardt, Mörschenhardt	9.17211, 49.56893	gummern	gumman	2	gummern	gummern	0	Gummer	Gummer	0
+20	MH M3	na	Balsbach	9.17362, 49.47895	gummern	na	999	gummern	na	999	Gummer	na	999
+21	MH D2	II_58_0107	Donebach, Donebach	9.19217, 49.56113	gummern	gummern	0	gummern	gummern	0	Gummer	Gummer	0
+22	MH M8	II_59_0113	Muckental, Muckental	9.20231, 49.42474	gummer	gummern	1	gummer	gummern	1	Gummer	Gummer	0
+23	MH D4	na	Mudau-Langenelz	9.20495, 49.51744	gummer	na	999	gummer	na	999	Gummer	na	999
+24	MH D3	II_58_0108	Mudau, Mudau	9.20615, 49.53336	gummern	gummŏrn	1	gummern	gummern	0	Gummer	Gummer	0
+25	MH M2	II_59_0119	Laudenberg, Laudenberg	9.21457, 49.48066	gummern	gummern	0	gummern	gummern	0	Gummer	Gummer	0
+26	MH M1	II_59_0120	Einbach, Waldhausen/Einbach	9.24238, 49.48477	gummern	gummer	1	gummern	gummer	1	Gummer	Gummer	0
+27	MH D8	II_58_0111	Steinbach, Steinbach	9.24327, 49.54854	gummern	gummern	0	gummern	gummern	0	Gummer	Gummer	0
+28	MH M11	II_59_0118	Waldhausen, Waldhausen	9.25731, 49.46733	gummere	gummern	1	gummere	gummern	1	Gummer	Gummer	0
+29	MH D7	II_58_0112	Unterneudorf, Unterneudorf	9.27534, 49.52921	gummern	gummern	0	gummern	gummern	0	Gummer	Gummer	0
+30	MH D9	II_57_0143	Hornbach (Hettingenbeuern), Hornbach	9.29012, 49.591	gummer	gummern	1	gummer	gummern	1	Gummer	Gummer	0
+31	MH v2	II_57_0138	Rippberg, Rippberg	9.29762, 49.62253	gummere	gummern	1	gummere	gummern	1	Gummer	Gummer	0
+32	MH v1	II_57_0140	Gottersdorf, Gottersdorf	9.31064, 49.63751	gummere	gummern	1	gummere	gummern	1	Gummer	Gummer	0
+33	MH v3	II_57_0139	Gerolzahn, Gerolzahn	9.31895, 49.62645	gummern	gummern	0	gummern	gummern	0	Gummer	Gummer	0
+34	MH D6	II_58_0114	Buchen, Buchen	9.32603, 49.52041	gummern	gummern	0	gummern	gummern	0	Gummer	Gummer	0
+35	MH E1	II_58_0115	Hainstadt, Hainstadt	9.33082, 49.53905	gummern	gummern	0	gummern	gummern	0	Gummer	Gummer	0
+36	MH N3	na	Seckach	9.33368, 49.44238	gummer	na	999	gummer	na	999	Gummer	na	999
+37	MH w1	II_90_0001	Reichenhardsachsen, Reichenhardsachsen	9.34508, 49.64003	gummern	gummere	1	gummern	gummere	1	Gummer	Gummer	0
+38	MH E2	II_91_0001	Hettingen, Hettingen	9.36644, 49.5194	gummern	gummern	0	gummern	gummern	0	Gummer	Gummer	0
+39	MH w6	na	Glashofen	9.36648, 49.62382	gummern	na	999	gummern	na	999	Gummer	na	999
+40	MH E7	II_90_0004	Walldürn, Walldürn	9.36793, 49.58322	gummern	gummer	1	gummern	gummer	1	Gummer	Gummer	0
+41	MH w7	na	Wettersdorf	9.38743, 49.63075	gummere	na	999	gummere	na	999	Gummer	na	999
+42	MH E3	II_91_0002	Rinschheim, Rinschheim	9.39249, 49.51369	gummer	gummern	1	gummer	gummern	1	Gummer	Gummer	0
+43	MH N10/1, MH N10/2	na	Hemsbach	9.40014, 49.42726	gummern	na	999	gummern	na	999	Gummer	na	999
+44	MH f2	na	Boxtal	9.40146, 49.76416	gummere	na	999	gummere	na	999	Gummer	na	999
+45	MH o2	II_89_0006	Wessental, Wessental	9.41215, 49.73004	kummern	kumer	2	gummern	gummer	1	Gummer	Gummer	0
+46	MH f1	II_88_0007	Mondfeld, Krs. Tauberbischofsheim, Mondfeld	9.41656, 49.7837	kummern	kummern	0	gummern	gummern	0	Gummer	Gummer	0
+47	MH w4	na	Höpfingen	9.42753, 49.60185	kummere	na	999	gummere	na	999	Gummer	na	999
+48	MH N5	na	Osterburken	9.42838, 49.4308	gummer	na	999	gummer	na	999	Gummer	na	999
+49	MH w2	II_90_0006	Dornberg, Dornberg	9.42843, 49.62542	gummern	gummere	1	gummern	gummere	1	Gummer	Gummer	0
+50	MH o3	II_89_0012	Sonderriet, Sonderriet	9.43938, 49.71753	kummern	gummern	1	gummern	gummern	0	Gummer	Gummer	0
+51	MH o7	II_89_0007	Nassig, Nassig	9.45146, 49.73582	kumern	kummern	1	gummern	gummern	0	Gummer	Gummer	0
+52	MH f3	II_88_0014	Grünenwört, Grünenwört	9.47135, 49.77438	kummern	gummera	2	gummern	gummere	1	Gummer	Gummer	0
+53	MH N9	II_92_0008	Rosenberg, Rosenberg	9.4752, 49.45583	gummern	gummern	0	gummern	gummern	0	Gummer	Gummer	0
+54	MH o6	II_89_0008	Vockenrot, Vockenrot	9.48521, 49.74816	kummern	gummern	1	gummern	gummern	0	Gummer	Gummer	0
+55	MH o5	II_89_0011, II_89_0010, II_89_0009	Sachsenhausen, Sachsenhausen	9.49147, 49.73223	kummårn	kummern, kummarn	1	gummern	gummern	0	Gummer	Gummer	0
+56	MH g3	na	Wertheim-Bastenheid	9.5029, 49.78173	kummere	na	999	gummere	na	999	Gummer	na	999
+57	MH g5	na	Wertheim-Eichel	9.54093, 49.76546	gummere	na	999	gummere	na	999	Gummer	na	999
+58	MH W10	na	Unterwittstadt	9.54936, 49.41004	gummer	na	999	gummer	na	999	Gummer	na	999
+59	MH W3	na	Erlenbach	9.5514, 49.38553	gummern	na	999	gummern	na	999	Gummer	na	999
+60	MH F7	II_91_0013	Kupprichhausen-Lengenrieden, Kupprichhausen u. Lengenrieden	9.62002, 49.52627	gummern	gummern	0	gummern	gummern	0	Gummer	Gummer	0
+61	MH O10	na	Wölchingen	9.63011, 49.48494	gummern	na	999	gummern	na	999	Gummer	na	999
+62	MH X1	na	Klepsau	9.67156, 49.38805	gummern	na	999	gummern	na	999	Gummer	na	999
+63	MH G11	na	Oberschüpf	9.67687, 49.52252	gummer	na	999	gummer	na	999	Gummer	na	999
+64	MH G12	na	Unterschüpf	9.68922, 49.51437	gumere	na	999	gummere	na	999	Gummer	na	999
+65	MH G13	na	Sachsenflur	9.71, 49.52377	gummern	na	999	gummern	na	999	Gummer	na	999
+66	MH G9	na	Königshofen	9.73105, 49.54759	gummere	na	999	gummere	na	999	Gummer	na	999
+67	MH G6	na	Messelhausen	9.7887, 49.5756	gummere	na	999	gummere	na	999	Gummer	na	999
+68	na	III_14_0010	Malmerspach	7.03487, 47.86486	na	gummere	999	na	gummere	999	na	Gummer	999
+69	na	III_6_0002	Pisdorf	7.06995, 48.9005	na	gummer	999	na	gummer	999	na	Gummer	999
+70	na	III_14_0111	Mülhausen	7.34375, 47.7517	na	gumre	999	na	gummere	999	na	Gummer	999
+71	na	III_13_0030	Kolmar	7.36359, 48.08198	na	gummera	999	na	gummere	999	na	Gummer	999
+72	na	III_16_0104	Minseln	7.79067, 47.60301	na	gummere, gummr	999	na	gummer	999	na	Gummer	999
+73	na	III_16_0122	Eichen	7.83816, 47.6471	na	gummere	999	na	gummere	999	na	Gummer	999
+74	na	III_13_0086	Vöhrenbach	8.30495, 48.04519	na	gummere	999	na	gummere	999	na	Gummer	999
+75	na	III_21_0001	Neureut	8.37902, 49.05267	na	gummer	999	na	gummer	999	na	Gummer	999
+76	na	II_58_0065	Käferthal	8.51715, 49.51259	na	gummere	999	na	gummere	999	na	Gummer	999
+77	na	II_59_0074	Rheinau	8.53056, 49.42924	na	gummere	999	na	gummere	999	na	Gummer	999
+78	na	III_20_0023	Untergrombach	8.55318, 49.0861	na	gummer	999	na	gummer	999	na	Gummer	999
+79	na	III_22_0017	Wilferdingen	8.57281, 48.9487	na	gummer	999	na	gummer	999	na	Gummer	999
+80	na	II_60_0092	Oftersheim	8.58107, 49.36823	na	gummer	999	na	gummer	999	na	Gummer	999
+81	na	III_18_0036	Wiesloch	8.70178, 49.29504	na	gummere	999	na	gummere	999	na	Gummer	999
+82	na	III_34_0032	Esslingen	8.71709, 47.99269	na	gummere	999	na	gummere	999	na	Gummer	999
+83	na	II_59_0079	Ziegelhausen	8.75688, 49.41876	na	gummer	999	na	gummer	999	na	Gummer	999
+84	na	II_60_0051	Schlierbach	8.76062, 49.41501	na	gummen	999	na	gummern	999	na	Gummer	999
+85	na	II_60_0054	Waldwimmersbach	8.89219, 49.37538	na	gummer	999	na	gummer	999	na	Gummer	999
+86	na	II_60_0081	Mosbach	9.14619, 49.35501	na	gummer	999	na	gummer	999	na	Gummer	999
+87	na	II_59_0117	Limbach	9.21181, 49.46142	na	gummern	999	na	gummern	999	na	Gummer	999
+88	na	II_89_0005	Ebenheid	9.36095, 49.7158	na	kummern	999	na	gummern	999	na	Gummer	999
+89	na	II_91_0003	Altheim	9.4436, 49.51915	na	gummere	999	na	gummere	999	na	Gummer	999
+90	na	II_93_0022	Krautheim	9.63369, 49.39159	na	gummern	999	na	gummern	999	na	Gummer	999
+91	na	II_93_0021	Horrenbach	9.66028, 49.40826	na	gummern	999	na	gummern	999	na	Gummer	999
+92	na	II_91_0023	Unterbalbach	9.74711, 49.52779	na	gummĕre	999	na	gummere	999	na	Gummer	999

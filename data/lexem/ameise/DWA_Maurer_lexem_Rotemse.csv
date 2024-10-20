@@ -1,0 +1,4 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Hag K 4	III_5_0098	Oberseebach, Oberseebach	7.98947, 48.9672	rotems	rotemse	1	rotemse	rotemse	0	Rotemse	Rotemse	0
+1	KST D1	III_5_0123	Schleital (Schleithal), Schleithal	8.04688, 48.98799	rodäms	rotemse	3	rotemse	rotemse	0	Rotemse	Rotemse	0
+2	na	III_4_0092	Steinselz	7.93035, 49.0109	na	rådeemse	999	na	rotemse	999	na	Rotemse	999

@@ -1,0 +1,737 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_maurer_align	item_DWA	item_DWA_align	Levenshtein_item
+0	Co M7	III_15_0007	St Kosman (Saint-Cosme), St. Kosman	7.06248, 47.68339	hågabudda	h å g a b u dd a	hagabudda	h a g a b u dd a	1
+1	Co T12	III_16_0002	Altenach, Altenach	7.11466, 47.60658	hågebuddă	h å g e b u dd ă	hågabutta	h å g a b u tt a	4
+2	Co T6	III_16_0018	Dammerkirch (Dannemarie), Dammerkirch	7.1214, 47.63024	haagebudda	h aa g e b u d d a	hagabutta	h a g a b u tt a	4
+3	Co N12	III_15_0028	Balschweiler bei Altkirch, Balschweiler	7.1681, 47.66772	hagebutte	h a g e b u tt e	hagabudda	h a g a b u dd a	4
+4	Hag F 5	III_5_0040	Diemeringen, Diemeringen	7.18685, 48.94061	hāgebutte	h ā g e b u tt e	haupütt	h a u p ü tt	6
+5	Co Ub 1	III_17_0063	Dürlinsdorf (Durlinsdorf), Dürlinsdorf	7.24121, 47.48531	hågebutte	h å g e b u tt e	hagebudde	h a g e b u dd e	3
+6	Stra P 9	III_11_0094	Kinzheim (Kintzheim), Kinzheim	7.39476, 48.25441	haggebudde	h a gg e b u d d e	heckebudde	h e ck e b u dd e	3
+7	Co e 8	III_12_0097	Dürrenenzen (Dürrenentzen), Dürrenenzen	7.50406, 48.09192	hajabutt	h a j a b u tt	hajabǔtta	h a j a b ǔ tt a	2
+8	Co W 16	III_16_0061	Neudorf (Village-Neuf), Neudorf	7.57149, 47.60532	hagabûtta	h a g a b û tt a	hagabutta	h a g a b u tt a	1
+9	Co H13	III_14_0135	Schliengen, Schliengen	7.57624, 47.75579	hagebutte	h a g e b u tt e	hagebudde	h a g e b u dd e	2
+10	Co A10	III_14_0042	Zienken (Müllheim), Zienken	7.57779, 47.84303	hāgebuttene	h ā g e b u tt e n e	hagebutte	h a g e b u tt e	3
+11	Co A9	III_14_0043	Grißheim (Grissheim) , Grissheim	7.59238, 47.87313	hagäbuttä	h a g ä b u tt ä	hagebutte	h a g e b u tt e	2
+12	Co m 1	III_13_0040	Breisach, Breisach	7.59332, 48.04535	hagebudde	h a g e b u dd e	hagebutte	h a g e b u tt e	2
+13	Co W 4, 5	III_16_0087, III_16_0088	Egringen und Fischingen, Fischingen, Egringen	7.59628, 47.66366	hagebutte	h a g e b u tt e	hagebudde	h a g e b u dd e	2
+14	Co P14	III_15_0054	Mappach, Mappach	7.59794, 47.68033	hāgebuttē	h ā g e b u tt ē	hagebudde	h a g e b u dd e	4
+15	Co e 4	III_12_0108	Burkheim am Kaiserstuhl, Burkheim am Kaiserstuhl	7.59943, 48.10194	hagäbudde	h a g ä b u dd e	hagebutte	h a g e b u tt e	3
+16	Co P3	III_15_0049	Liel, Liel	7.604, 47.73928	hagebudde	h a g e b u dd e	hagebuttene	h a g e b u tt e n e	4
+17	Co e 12	III_12_0103	Sasbach, Sasbach	7.61363, 48.13798	hågebutti	h å g e b u tt i	hagebuttä	h a g e b u tt ä	2
+18	Co W 10	III_16_0072, III_16_0073	Binzen, Binzen, Märkt	7.62403, 47.63133	hagabutta	h a g a b u tt a	hangabutte	h a n g a b u tt e	2
+19	Co m 4	III_13_0037	Achkarren, Achkarren	7.62448, 48.06769	hagebutte	h a g e b u tt e	hagebütte	h a g e b ü tt e	1
+20	Co e 6	III_12_0106	Bischoffingen, Bischoffingen	7.62537, 48.10625	hågebuddä	h å g e b u dd ä	hagebutte	h a g e b u tt e	4
+21	Co W 18	III_16_0085	Weil am Rhein, Weil	7.63299, 47.59278	hagebutte	h a g e b u tt e	hagebudde	h a g e b u dd e	2
+22	Co e 13	III_12_0107	Oberrotweil, Oberrotweil	7.63551, 48.08944	hagebutte	h a g e b u tt e	hãgabutta	h ã g a b u tt a	3
+23	Co m 3	III_13_0038	Ihringen, Ihringen	7.64554, 48.04572	hagebuttä	h a g e b u tt ä	haagabuda	h aa g a b u d a	5
+24	Co W 7, 9/1	III_16_0086	Wittlingen, Wittlingen	7.64842, 47.6562	hagebutte	h a g e b u tt e	haagebudde	h aa g e b u d d e	3
+25	Co A7	III_14_0048	Eschbach (bei Heitersheim), Eschbach	7.65221, 47.8908	hagebuttene	h a g e b u tt e n e	hagebutte	h a g e b u tt e	2
+26	Co e 2	III_12_0105	Kiechlinsbergen, Kiechlinsbergen	7.65306, 48.12469	hagebudde	h a g e b u dd e	hagebutte	h a g e b u tt e	2
+27	Co e 11	III_12_0104	Königschaffhausen am Kaiserstuhl, Königschaffhausen	7.65562, 48.13337	hāgebutta	h ā g e b u tt a	haagebutte	h aa g e b u t t e	3
+28	Co W 19 , Co W 20	III_16_0079, III_16_0082, III_16_0083	Lörrach, Lörrach , Lörrach, Lörrach <Adolf Hitler Schule>	7.66409, 47.61258	hagebuttä	h a g e b u tt ä	hagebudde	h a g e b u dd e	3
+29	Co B1	III_14_0051, III_14_0050	Tunsel, Tunsel	7.66581, 47.90315	hagabutte	h a g a b u tt e	hagabuttä	h a g a b u tt ä	1
+30	Co J1	III_14_0144	Britzingen, Britzingen	7.67237, 47.82744	hågebutte	h å g e b u tt e	hagebuttene	h a g e b u tt e n e	3
+31	Co u 21	III_13_0134	Schlatt, Schlatt	7.67473, 47.92531	hagebudde	h a g e b u dd e	hagebutte	h a g e b u tt e	2
+32	Stra Y 3	III_12_0036	Weisweil, Weisweil	7.67618, 48.19761	hagebudde	h a g e b u dd e	hagebutte	h a g e b u tt e	2
+33	Co f 12	III_12_0123	Amoltern, Amoltern	7.67629, 48.12873	hagebudde	h a g e b u dd e	hagebutte	h a g e b u tt e	2
+34	Co f 6	III_12_0124	Schelingen am Kaiserstuhl, Schelingen	7.68308, 48.10435	hagäbuttä	h a g ä b u tt ä	hagebutte	h a g e b u tt e	2
+35	Co n 4	III_13_0059, III_13_0058	Merdingen, Merdingen	7.68864, 48.0173	hågebutte	h å g e b u tt e	hagebutte	h a g e b u tt e	1
+36	Co X 6	III_16_0094, III_16_0095	Brombach (/Maulburg, aber gestrichen), Brombach	7.69236, 47.63395	hagebudde	h a g e b u dd e	hagebutte	h a g e b u tt e	2
+37	Co X 5	III_16_0093	Hauingen, Hauingen	7.69375, 47.64287	hachebudde	h a ch e b u dd e	hagäbuddä	h a g ä b u dd ä	4
+38	Co B3	III_14_0055, III_14_0056	Wettelbrunn, Wettelbrunn	7.69689, 47.87134	hagebuddene	h a g e b u dd e n e	hagebutte	h a g e b u tt e	4
+39	Co u 16	III_13_0129	Munzingen, Munzingen	7.69883, 47.96873	hagebudde	h a g e b u dd e	hāgebutte	h ā g e b u tt e	3
+40	Co B4	III_14_0049	Ballrechten-Dottingen, Ballrechten	7.70076, 47.86061	hagebutte	h a g e b u tt e	hagebutten	h a g e b u tt e n	1
+41	Co f 9	III_12_0119	Forchheim, Forchheim	7.7031, 48.16341	hagȇbuddȇ	h a g ȇ b u dd ȇ	hagebudde	h a g e b u dd e	2
+42	Co B11	III_14_0052, III_14_0053	Bad Krozingen, Bad Krozingen	7.70333, 47.91813	hāgebutze	h ā g e b u tz e	hagebutze	h a g e b u tz e	1
+43	Stra Y 2	III_12_0035	Oberhausen, Oberhausen	7.71048, 48.22667	hågabut	h å g a b u t	hagebutte	h a g e b u tt e	4
+44	Stra Y 1	III_12_0171	Niederhausen, Niederhausen	7.71317, 48.23982	hagabudä	h a g a b u d ä	hagaͤbudaͤ	h a g a ͤ b u d a ͤ	3
+45	Co u 14	III_13_0128	Tiengen, Tiengen	7.71599, 47.98216	hagebudde	h a g e b u dd e	hagebutte	h a g e b u tt e	2
+46	Co B10	III_14_0057	Grunern bei Müllheim, Grunern	7.72184, 47.87162	haggebüdde	h a gg e b ü d d e	hagebutte	h a g e b u tt e	4
+47	Co n 12	III_13_0050, III_13_0051	Bötzingen, Bötzingen	7.72593, 48.07743	hagebudde	h a g e b u dd e	hagebutte	h a g e b u tt e	2
+48	Co X 1	III_16_0097	Hägelberg, Hägelberg	7.72778, 47.66132	hagäbutte	h a g ä b u tt e	hagebudde	h a g e b u dd e	3
+49	Co B9	III_14_0059, III_14_0061, III_14_0060	Staufen (bei Freiburg), Staufen	7.72962, 47.88166	hāgebudds	h ā g e b u dd s	hagebuddeme	h a g e b u dd e m e	4
+50	Co f 10	III_12_0111	Bahlingen, Bahlingen	7.73937, 48.12209	haagebuddaͤ	h aa g e b u d d a ͤ	haagebudde	h aa g e b u d d e	2
+51	Stra R 11	III_11_0111, III_11_0110	Kappel a. Rh., Kappel a. Rh., Grafenhausen	7.74182, 48.29235	hagäbudä	h a g ä b u d ä	hagabutta	h a g a b u tt a	4
+52	Stra Y 13	III_12_0044	Kenzingen, Kenzingen	7.77005, 48.19298	hāgebudde	h ā g e b u dd e	hagebutte	h a g e b u tt e	3
+53	Co Xa 2	III_17_0042	Nollingen, Nollingen	7.7716, 47.57363	hagebudde	h a g e b u dd e	hagebutte	h a g e b u tt e	2
+54	Stra Y 8	III_12_0038, III_12_0039, III_12_0037	Herbolzheim a. d. Bleich, Herbolzheim	7.77743, 48.22249	hagebutte	h a g e b u tt e	hagebuttr	h a g e b u tt r	1
+55	Co n 11	III_13_0052	Buchheim, Buchheim	7.77912, 48.06092	hāgǟbutä	h ā g ǟ b u t ä	hagäbudä	h a g ä b u d ä	3
+56	Stra Y 4	III_12_0033	Ringsheim, Ringsheim	7.78041, 48.24632	hagebudde	h a g e b u dd e	hagebutte	h a g e b u tt e	2
+57	Stra K 4	III_11_0047	Allmannsweier, Allmannsweier	7.78326, 48.36703	hagebutte	h a g e b u tt e	hagebudde	h a g e b u dd e	2
+58	Co f 4	III_12_0173	Bottingen, Bottingen	7.78356, 48.09119	hagebudder	h a g e b u dd e r	hagebutte	h a g e b u tt e	3
+59	Co Xa 3	III_17_0045, III_17_0044, III_17_0046	Rheinfelden-Stadt (Baden), Rheinfelden	7.78875, 47.55945	hagebutte	h a g e b u tt e	hagebutze	h a g e b u tz e	1
+60	Co X 14	III_16_0103, III_16_0104	Minseln, Minseln	7.79067, 47.60301	hagebutte	h a g e b u tt e	hagebutt	h a g e b u tt	1
+61	Co f 5	III_12_0117	Malterdingen, Malterdingen	7.79392, 48.16302	hāgebude	h ā g e b u d e	hagebutter	h a g e b u tt e r	4
+62	Co u 12	III_13_0132	St. Georgen , St. Georgen	7.8056, 47.97934	hāgebutte	h ā g e b u tt e	hagebutte	h a g e b u tt e	1
+63	Co f 8	III_12_0114	Köndringen, Köndringen	7.80591, 48.13912	hāgebutte	h ā g e b u tt e	hagebütte	h a g e b ü tt e	2
+64	Stra Y 7	III_12_0040	Tutschfelden, Tutschfelden	7.80659, 48.21534	hagebutte	h a g e b u tt e	hagebutter	h a g e b u tt e r	1
+65	Stra R 6	III_11_0109	Kippenheimweiler, Kippenheimweiler	7.80753, 48.31925	hagebuttä	h a g e b u tt ä	hågebudde	h å g e b u dd e	4
+66	Co u 20	III_13_0137	Sölden, Sölden	7.80967, 47.93307	hagebutzge	h a g e b u tz g e	hagebutte	h a g e b u tt e	2
+67	Co X 11	III_16_0107, III_16_0108	Wiechs, Wiechs	7.81236, 47.63655	hagebutte	h a g e b u tt e	hagebudde	h a g e b u dd e	2
+68	Stra R 7	III_11_0113	Mahlberg, Mahlberg	7.81323, 48.28708	hagabuddeͣ	h a g a b u dd e ͣ	hagebudde	h a g e b u dd e	2
+69	Stra Y 11	III_12_0045	Nordweil, Nordweil	7.81384, 48.19396	hagebutter	h a g e b u tt e r	hagebutte	h a g e b u tt e	1
+70	Stra C 5	III_10_0114	Altenheim, Altenheim	7.81393, 48.46505	hagebudde	h a g e b u dd e	hagebutte	h a g e b u tt e	2
+71	Co u 2	III_13_0138	Wittnau, Wittnau	7.814, 47.94661	hagebutzge	h a g e b u tz g e	hagebutzke	h a g e b u tz k e	1
+72	Stra v 1	III_10_0047	Kehl, Kehl	7.81494, 48.57419	hagebutt	h a g e b u tt	hauebutte	h a u e b u tt e	2
+73	Stra C 6	III_10_0115	Dundenheim, Dundenheim	7.81569, 48.44904	hagebut	h a g e b u t	hagebudde	h a g e b u dd e	3
+74	Co X 12	III_16_0111	Nordschwaben, Nordschwaben	7.81682, 47.6184	hågebudde	h å g e b u dd e	hagebutte	h a g e b u tt e	3
+75	Stra Y 5	III_12_0034	Ettenheimweiler, Ettenheimweiler	7.82007, 48.23676	hågebutte	h å g e b u tt e	hagebutte	h a g e b u tt e	1
+76	Stra R 5	III_11_0112	Kippenheim, Kippenheim	7.82466, 48.29439	hagabudda	h a g a b u dd a	hagebudde	h a g e b u dd e	2
+77	Co u 11	III_13_0139	Merzhausen, Merzhausen	7.82532, 47.96635	hagebutte	h a g e b u tt e	hagebutzge	h a g e b u tz g e	2
+78	Stra K 9	III_11_0045	Langenwinkel, Langenwinkel	7.82557, 48.3325	hagebütt	h a g e b ü tt	hagebudde	h a g e b u dd e	4
+79	Co J5	III_14_0149	Bürchau, Bürchau	7.82686, 47.77616	hagebute	h a g e b u t e	hagebutte	h a g e b u tt e	1
+80	Stra Y 6	III_12_0041	Broggingen, Broggingen	7.82928, 48.21892	hågebude	h å g e b u d e	hagebutte	h a g e b u tt e	3
+81	Stra Y a 1	III_12_0112	Heimbach, Heimbach	7.82936, 48.1638	hā̊gebützge	h ā ̊ g e b ü tz g e	hagebudde	h a g e b u dd e	6
+82	Stra D 1	III_10_0057	Kittersburg, Kittersburg	7.83346, 48.49695	hāgebutte	h ā g e b u tt e	hagebutte	h a g e b u tt e	1
+83	Stra D 16	III_10_0134	Müllen, Müllen	7.83364, 48.46521	hagebutt	h a g e b u tt	hagebutte	h a g e b u tt e	1
+84	Co g 8	III_12_0131	Mundingen, Mundingen	7.8346, 48.13735	hāgabutta	h ā g a b u tt a	hoagebudde	h o a g e b u dd e	6
+85	Stra p 9	ungeodnet2	Auenheim, Auenheim	7.83597, 48.6051	haagebudte	h aa g e b u d t e	hajebutt	h a j e b u tt	4
+86	Co Y 15	III_16_0122	Eichen, Eichen	7.83816, 47.6471	hagebudde	h a g e b u dd e	hagebutte	h a g e b u tt e	2
+87	Co K6	III_14_0168	Böllen, Böllen	7.84054, 47.80226	hagebudde	h a g e b u dd e	hagebutte	h a g e b u tt e	2
+88	Co R12	III_15_0089	Hausen im Wiesental, Hausen im Wiesental	7.84055, 47.68143	hagebūtte	h a g e b ū tt e	hagebuede	h a g e b u e d e	3
+89	Stra L 8	III_11_0052	Schutterzell, Schutterzell	7.84148, 48.4057	hågebütte	h å g e b ü tt e	hagebutte	h a g e b u tt e	2
+90	Stra w 1	III_10_0049	Neumühl, Neumühl	7.84392, 48.57012	höwebutte	h ö w e b u tt e	hagebutte	h a g e b u tt e	2
+91	Stra S 10	III_11_0132	Wallburg, Wallburg	7.85339, 48.26704	hāgebutte	h ā g e b u tt e	hagebutt	h a g e b u tt	2
+92	Stra p 4	III_9_0077	Leutesheim, Leutesheim	7.85613, 48.62423	häöebutte	h ä ö e b u tt e	hagebutte	h a g e b u tt e	2
+93	Stra S 9	III_11_0123	Schmieheim, Schmieheim	7.85658, 48.27938	hagäbuddä	h a g ä b u dd ä	hagebutte	h a g e b u tt e	4
+94	Stra L 11	III_11_0058	Dinglingen, Dinglingen	7.85875, 48.34966	hackebütte	h a ck e b ü tt e	hagebutte	h a g e b u tt e	3
+95	Co v 9	III_13_0141	Horben, Horben	7.85911, 47.93223	hagebutte	h a g e b u tt e	hagebudde	h a g e b u dd e	2
+96	Co R13	III_15_0085	Raitbach, Raitbach	7.86089, 47.68233	hagebuttä	h a g e b u tt ä	hagebudde	h a g e b u dd e	3
+97	Co R1	III_15_0069	Pfaffenberg, Pfaffenberg	7.86972, 47.73452	hagebudde	h a g e b u dd e	hagebŭdde	h a g e b ŭ dd e	1
+98	Stra p 10	III_9_0079	Bodersweier, Bodersweier	7.87462, 48.60047	hawebotta	h a w e b o tt a	höuwebotte	h ö u w e b o tt e	3
+99	Co C10	III_14_0067	Obermünstertal-Stohren, Obermünstertal-Stohren	7.87525, 47.8938	hāgebutze	h ā g e b u tz e	hagebutze	h a g e b u tz e	1
+100	Stra L 12	III_11_0060, III_11_0059	Lahr (Lahr/Schwarzwald), Lahr	7.87603, 48.34018	hegebutte	h e g e b u tt e	hagebutt	h a g e b u tt	2
+101	Co Y 12	III_16_0168	Schwörstadt, Schwörstadt	7.87989, 47.59379	hagebuttä	h a g e b u tt ä	hagebutte	h a g e b u tt e	1
+102	Stra Z 1	III_12_0047	Ettenheimmünster, Ettenheimmünster	7.88015, 48.24152	hagebutte	h a g e b u tt e	hagebudder	h a g e b u dd e r	3
+103	Stra w 2	III_10_0051	Odelshofen, Odelshofen	7.88021, 48.56001	hågebudde	h å g e b u dd e	hagebutte	h a g e b u tt e	3
+104	Co C2	III_14_0070	Wieden, Wieden	7.8814, 47.84169	hagebudde	h a g e b u dd e	hagebutte	h a g e b u tt e	2
+105	Co K7	III_14_0155	Schönenberg, Schönenberg	7.88227, 47.79265	hāgebudde	h ā g e b u dd e	haagebudde	h aa g e b u d d e	2
+106	Co g 4	III_12_0134	Windenreuthe (Emmendingen), Windenreute	7.88675, 48.11814	hagebutte	h a g e b u tt e	hogebutte	h o g e b u tt e	1
+107	Stra D 17	III_10_0131, III_10_0133	Schutterwald, Schutterwald	7.88679, 48.45347	haagebutze	h aa g e b u tz e	hagebutte	h a g e b u tt e	2
+108	Stra p 2/1	III_9_0084	Diersheim, Diersheim	7.8874, 48.64789	hawebutt	h a w e b u tt	hajebutte	h a j e b u tt e	2
+109	Stra w 11	III_10_0055	Willstätt, Willstätt	7.89222, 48.53868	häwebudde	h ä w e b u dd e	hauebudde	h a u e b u dd e	2
+110	Co K8	III_14_0159, III_14_0157, III_14_0158, III_14_0156	Schönau, Schönau	7.89443, 47.78637	hagebutte	h a g e b u tt e	hagebudde	h a g e b u dd e	2
+111	Co C7	III_14_0068	Hofsgrund, Hofsgrund	7.89778, 47.90096	hagbutz	h a g b u tz	hagebutze	h a g e b u tz e	2
+112	Co Y 3	III_16_0115	Hasel, Hasel	7.89786, 47.65393	hagebudde	h a g e b u dd e	hagebutte	h a g e b u tt e	2
+113	Stra p 8	III_9_0081	Zierolshofen, Zierolshofen	7.9036, 48.60838	hanwebudde	h a n w e b u dd e	haewebudde	h a e w e b u dd e	1
+114	Co R7	III_15_0075	Häg-Rohrberg, Rohrberg	7.90412, 47.7181	hāgebudde	h ā g e b u dd e	hagebutte	h a g e b u tt e	3
+115	Co Y 14	III_16_0117	Wehr, Wehr	7.9045, 47.62927	hagebutte	h a g e b u tt e	hagebudde	h a g e b u dd e	2
+116	co g 7	III_12_0137	Sexau, Sexau	7.90788, 48.10424	hagebūtte	h a g e b ū tt e	hagebütte	h a g e b ü tt e	1
+117	Co K4	III_14_0161	Utzenfeld, Utzenfeld	7.91301, 47.80054	hagebutzge	h a g e b u tz g e	hagebutte	h a g e b u tt e	2
+118	Hag K 13	III_5_0096	Schönenburg (Schoenenbourg), Schönenburg	7.91332, 48.95207	håfebutze	h å f e b u tz e	hafenbutz	h a f e n b u tz	3
+119	Co Ya 1	III_17_0047	Wallbach, Wallbach	7.91336, 47.56871	hagebudde	h a g e b u dd e	hagebutte	h a g e b u tt e	2
+120	Co R3	III_15_0071	Häg (bei Mambach), Häg	7.91432, 47.73207	hagebuddi	h a g e b u dd i	hagebŭtte	h a g e b ŭ tt e	4
+121	Hag R 6	III_6_0083	Niederbetschdorf, Niederbetschdorf	7.91693, 48.8985	häjebutte	h ä j e b u tt e	hagebutte	h a g e b u tt e	2
+122	Stra w 12	III_10_0059	Sand, Sand	7.92148, 48.53823	hauebutte	h a u e b u tt e	hagebutte	h a g e b u tt e	1
+123	Co K9	III_14_0162	Tunau, Tunau	7.92311, 47.78574	hāgebudde	h ā g e b u dd e	haagebudde	h aa g e b u d d e	2
+124	Stra p 1	III_9_0085	Rheinbischofsheim, Rheinbischofsheim	7.92904, 48.65493	hāgebutte	h ā g e b u tt e	hawebudde	h a w e b u dd e	4
+125	Stra L 3	III_11_0063	Diersburg, Diersburg	7.93733, 48.40041	hågebudde	h å g e b u dd e	hagebutte	h a g e b u tt e	3
+126	Co K2	III_14_0166	Schlechtnau, Schlechtnau	7.93888, 47.8175	hagebutzge	h a g e b u tz g e	hagebuzge	h a g e b u z g e	1
+127	Co K3	III_14_0165	Geschwend, Geschwend	7.93964, 47.80434	hagebutte	h a g e b u tt e	hagebuzge	h a g e b u z g e	2
+128	Stra S 6	III_11_0128, III_11_0129, III_11_0127	Seelbach, Seelbach	7.94104, 48.30987	hagenbudde	h a g e n b u dd e	hagebutte	h a g e b u tt e	3
+129	Co v 3	III_13_0069	Wittental, Wittental	7.94267, 48.00437	hagebutte	h a g e b u tt e	hagebudde	h a g e b u dd e	2
+130	Co C4	III_14_0071	Todtnauberg, Todtnauberg	7.94335, 47.85074	hagebutze	h a g e b u tz e	hagebutte	h a g e b u tt e	1
+131	Stra D 8	III_10_0128, III_10_0127	Offenburg, Offenburg	7.9447, 48.47195	hagäbuttä	h a g ä b u tt ä	hagebutte	h a g e b u tt e	2
+132	Co v 8	III_13_0150	Oberried, Oberried	7.94506, 47.93146	hagäbuttä	h a g ä b u tt ä	hagebutte	h a g e b u tt e	2
+133	Co C6	III_14_0069	Sankt Wilhelm, St. Wilhelm	7.94887, 47.89511	hagebude	h a g e b u d e	hagäbudä	h a g ä b u d ä	2
+134	Co K11	III_14_0169	Präg-Herrenschwand, Präg-Herrenschwand	7.95327, 47.76746	hagebutte	h a g e b u tt e	hagebudde	h a g e b u dd e	2
+135	Stra S 8	III_11_0131	Schuttertal, Schuttertal	7.95562, 48.27087	hagebutte	h a g e b u tt e	hagebutten	h a g e b u tt e n	1
+136	Hag R 7	III_6_0084	Rittershofen, Rittershofen	7.95587, 48.90241	hågebutt	h å g e b u tt	hagebutte	h a g e b u tt e	2
+137	Co Y 9	III_16_0120	Bergalingen, Bergalingen	7.95943, 47.61266	hagebutta	h a g e b u tt a	hagebutte	h a g e b u tt e	1
+138	Co v 4	III_13_0151	Stegen, Stegen	7.96093, 47.98418	hagebudde	h a g e b u dd e	hagebutte	h a g e b u tt e	2
+139	Co Ya 2	III_17_0051, III_17_0048, III_17_0053, III_17_0052, III_17_0049, III_17_0054, III_17_0055	Obersäckingen, Säckingen	7.96171, 47.57476	hagebutte	h a g e b u tt e	hagebudde	h a g e b u dd e	2
+140	Stra h 4	III_8_0095	Helmlingen, Helmlingen	7.9656, 48.70959	hagebutt	h a g e b u tt	hauebutte	h a u e b u tt e	2
+141	Stra D 6	III_10_0126	Rammersweier, Rammersweier	7.96625, 48.48439	hagebutte	h a g e b u tt e	hagebudde	h a g e b u dd e	2
+142	Co K10	III_14_0154	Präg, Präg	7.97232, 47.77964	hagebutte	h a g e b u tt e	hagebudde	h a g e b u dd e	2
+143	Co Y 10	III_16_0125	Willaringen, Willaringen	7.97281, 47.60577	hāgebutte	h ā g e b u tt e	hagebutte	h a g e b u tt e	1
+144	Stra h 3	III_8_0097	Grauelsbaum, Grauelsbaum	7.98186, 48.73575	hagebodde	h a g e b o dd e	hagebutte	h a g e b u tt e	3
+145	Stra h 7	III_8_0093	Memprechtshofen, Memprechtshofen	7.98237, 48.68233	håjebude	h å j e b u d e	hauebudde	h a u e b u dd e	3
+146	TUTT Sa1/2	III_17_0057	Rippolingen und Harpolingen, Rippolingen	7.9892, 47.57843	hugebutte	h u g e b u tt e	hagebutte	h a g e b u tt e	1
+147	Stra L 5	III_11_0062	Bermersbach, Bermersbach	7.99239, 48.38717	hagebutte	h a g e b u tt e	hagabutte	h a g a b u tt e	1
+148	Stra D 13	III_10_0121	Ohlsbach, Ohlsbach	7.99275, 48.43199	hagebutt	h a g e b u tt	hagebutte	h a g e b u tt e	1
+149	TUTT p5	III_13_0152	Falkensteig, Falkensteig	7.99689, 47.94697	hagebuddä	h a g e b u dd ä	hagebudde	h a g e b u dd e	1
+150	TUTT Sa1	III_17_0056	Rippolingen und Harpolingen, Harpolingen	8.00062, 47.57274	hugebutte	h u g e b u tt e	hagebutte	h a g e b u tt e	1
+151	TUTT S3	III_15_0087	Herrischried, Herrischried	8.00161, 47.66587	hagebudde	h a g e b u dd e	hagebutte	h a g e b u tt e	2
+152	TUTT L4/2, Co K12, TUTT L4/1, Co R15, TUTT D5	III_15_0073, III_14_0176	Todtmoos, Todtmoos (-Rütte), Todtmoos , Todtmoos	8.00438, 47.74133	hagebudde	h a g e b u dd e	hagabutta	h a g a b u tt a	4
+153	TÜB L1	III_11_0124, III_11_0125	Prinzbach, Prinzbach	8.0046, 48.32294	hagebutt	h a g e b u tt	hagebutte	h a g e b u tt e	1
+154	TÜB p11	III_10_0065	Nesselried, Nesselried	8.00608, 48.52212	hågebudd	h å g e b u dd	hagebutte	h a g e b u tt e	4
+155	TUTT p4	III_13_0155	Buchenbach, Buchenbach	8.00773, 47.96134	hagebůtze	h a g e b ů tz e	hagebutte	h a g e b u tt e	2
+156	Co R14	III_15_0086	Rütte (bei Todtmoos; es gibt auch noch eines bei Herreschrie und eines bei Todtnauberg), Rütte	8.01336, 47.76141	hugebudde	h u g e b u dd e	hagebudde	h a g e b u dd e	1
+157	TÜB D8	III_11_0070	Strohbach, Strohbach	8.01398, 48.38754	hagebutt	h a g e b u tt	hagebutte	h a g e b u tt e	1
+158	TÜB D9	III_11_0065	Gengenbach, Gengenbach	8.01593, 48.40299	hagebutze	h a g e b u tz e	hagebutte	h a g e b u tt e	1
+159	TUTT Sa3	III_17_0058	Murg, Murg	8.02352, 47.55376	hagebutte	h a g e b u tt e	hagebudde	h a g e b u dd e	2
+160	TUTT S20	III_16_0138	Hänner, Hänner	8.03004, 47.59489	hagebutte	h a g e b u tt e	hagebudde	h a g e b u dd e	2
+161	TUTT Sa5	III_16_0137	Oberhof, Oberhof	8.0324, 47.58493	hagebutte	h a g e b u tt e	hagebudde	h a g e b u dd e	2
+162	KST L10	III_6_0093, III_6_0092	Forstfeld, Forstfeld	8.03702, 48.859	hågebudde	h å g e b u dd e	hagebutt	h a g e b u tt	4
+163	TUTT p2	III_13_0154	Wagensteig, Wagensteig	8.04607, 47.98466	hagebutze	h a g e b u tz e	hagebutte	h a g e b u tt e	1
+164	KST S8	III_7_0117	Stollhofen, Stollhofen	8.04874, 48.76575	hagebutte	h a g e b u tt e	hagebudde	h a g e b u dd e	2
+165	TÜB w5	III_10_0140	Haigerach, Haigerach	8.05467, 48.42157	hagebutte	h a g e b u tt e	haggebutt	h a gg e b u t t	2
+166	KST S6	III_7_0110	Ludwigsfeste (bei Roeschwoog) (Fort-Louis), Fort-Louis, Ludwigsfeste	8.05803, 48.80321	hagebutte	h a g e b u tt e	hagebutten	h a g e b u tt e n	1
+167	TÜB L5	III_11_0135	Steinach, Steinach	8.05831, 48.30508	hagebutze	h a g e b u tz e	hagebutte	h a g e b u tt e	1
+168	TUTT S19	III_16_0139	Rotzel, Rotzel	8.06151, 47.59473	hagebūtte	h a g e b ū tt e	hagebutte	h a g e b u tt e	1
+169	TÜB h5	III_9_0090	Achern, Achern	8.06363, 48.62871	hagebudde	h a g e b u dd e	hagebutz	h a g e b u tz	3
+170	TUTT L8	III_15_0097	Hartschwand, Hartschwand	8.0655, 47.67119	hagebutta	h a g e b u tt a	hagebutte	h a g e b u tt e	1
+171	TUTT D1	III_14_0170	Menzenschwand, Merzenschwand	8.07059, 47.81749	hagebudde	h a g e b u dd e	hagebutte	h a g e b u tt e	2
+172	TUTT p6	III_13_0156	Breitnau, Breitnau	8.07603, 47.94014	hagebutze	h a g e b u tz e	hagebutten	h a g e b u tt e n	2
+173	TUTT S10	III_15_0096	Rotzingen, Rotzingen	8.0762, 47.66588	hagabutter	h a g a b u tt e r	hagebutte	h a g e b u tt e	2
+174	TUTT S9	III_16_0134	Görwihl, Görwihl	8.07817, 47.64186	hagebudde	h a g e b u dd e	hagebutte	h a g e b u tt e	2
+175	TUTT S18	III_16_0140	Hochsal, Hochsal	8.08003, 47.5887	hggabutza	h gg a b u tz a	hagebudda	h a g e b u dd a	4
+176	TÜB D1/2	III_11_0069, III_11_0068	Nordrach, Nordrach	8.08082, 48.39898	hagebutte	h a g e b u tt e	hagebudde	h a g e b u dd e	2
+177	KST L12	III_6_0095	Beinheim (Weissenburg), Beinheim	8.08253, 48.86153	hågebutte	h å g e b u tt e	hagebude	h a g e b u d e	3
+178	TÜB p4	III_10_0074	Ringelbach, Ringelbach	8.08834, 48.55764	hagebudde	h a g e b u dd e	hagebutte	h a g e b u tt e	2
+179	TUTT Sa7	III_17_0061	Laufenburg (Baden), Laufenburg	8.0908, 47.58055	hagebudde	h a g e b u dd e	hagebutte	h a g e b u tt e	2
+180	TUTT h3, TUTT p1	III_13_0081, III_13_0080, III_13_0078, III_13_0079	St. Märgen-Schweighöfe, St. Märgen, St. Märgen	8.09239, 48.00756	hagebůtze	h a g e b ů tz e	hagebutze	h a g e b u tz e	1
+181	TUTT S21	III_16_0141	Schachen, Schachen	8.09406, 47.60368	hagebuttä	h a g e b u tt ä	hagebutte	h a g e b u tt e	1
+182	KST S10	III_7_0120	Leiberstung, Lieberstung	8.09585, 48.75131	hāgebudde	h ā g e b u dd e	hagebudde	h a g e b u dd e	1
+183	TÜB a7	III_8_0105	Balzhofen, Balzhofen	8.09765, 48.71247	hagebutt	h a g e b u tt	hagebutte	h a g e b u tt e	1
+184	TUTT L2	III_15_0110	Wittenschwand, Wittenschwand	8.10083, 47.72846	hagebutzge	h a g e b u tz g e	hagebutzke	h a g e b u tz k e	1
+185	KST S14	III_7_0113	Hügelsheim, Hügelsheim	8.10904, 48.79654	hagebutte	h a g e b u tt e	hagebudde	h a g e b u dd e	2
+186	TUTT S17	III_16_0146	Albert, Albbruck-Albert	8.11012, 47.58535	hagebutte	h a g e b u tt e	hagebutt	h a g e b u tt	1
+187	TUTT w6	III_14_0074	Altglashütten, Altglashütten	8.11016, 47.85701	hagebutze	h a g e b u tz e	hagepuze	h a g e p u z e	2
+188	TÜB L4	III_11_0137	Fischerbach, Fischerbach	8.11097, 48.28707	hagebutr	h a g e b u t r	hagebutt	h a g e b u tt	1
+189	TÜB a13	III_8_0108	Ottersweier, Ottersweier	8.11279, 48.66967	hagebutte	h a g e b u tt e	hagebudde	h a g e b u dd e	2
+190	TUTT S15	III_16_0142	Buch über Waldshut, Buch	8.11336, 47.61399	hagebute	h a g e b u t e	hagebutze	h a g e b u tz e	1
+191	TÜB S5, TÜB S6	III_12_0063, III_12_0062, III_12_0061	Unterprechtal, Oberprechtal, Unterprechtal, Oberprechtal	8.12114, 48.20548	hagebutte	h a g e b u tt e	hagebudde	h a g e b u dd e	2
+192	TUTT L1	III_15_0112, III_15_0111	Urberg, Urberg	8.12409, 47.73478	hagäbutzä	h a g ä b u tz ä	hagebutzge	h a g e b u tz g e	3
+193	TUTT L16	III_15_0103	Schlageten, Schlageten	8.12512, 47.71178	hageputze	h a g e p u tz e	hagenbutze	h a g e n b u tz e	2
+194	TÜB h12	III_9_0093, III_9_0094	Lauf, Lauf	8.12648, 48.65317	hagebutte	h a g e b u tt e	hagebudde	h a g e b u dd e	2
+195	TÜB D2/2, TÜB D3, TÜB D2/1, TÜB E1	III_11_0077, III_11_0076	Oberharmersbach, Oberharmersbach	8.12723, 48.37386	hāgebudde	h ā g e b u dd e	hagebuddi	h a g e b u dd i	2
+196	TUTT D4	III_14_0173, III_14_0171, III_14_0174, III_14_0172	St. Blasien, St. Blasien	8.12792, 47.76144	hagebutze	h a g e b u tz e	hagebudde	h a g e b u dd e	2
+197	TUTT S14	III_16_0143	Birndorf, Birndorf	8.13384, 47.62519	hagebutzeä	h a g e b u tz e ä	hagäbutze	h a g ä b u tz e	2
+198	TUTT S12	III_16_0135	Unteralpfen, Unteralpfen	8.13573, 47.64543	hagabutze	h a g a b u tz e	hagebutze	h a g e b u tz e	1
+199	KST S15	III_7_0112	Iffezheim, Iffezheim	8.14011, 48.82287	hagebutt	h a g e b u tt	hagebutte	h a g e b u tt e	1
+200	TÜB w3	III_10_0078	Ramsbach, Ramsbach	8.14144, 48.49573	hagebutt	h a g e b u tt	hägebutti	h ä g e b u tt i	2
+201	TUTT S16	III_16_0145	Albruck-Kiesenbach, Albruck	8.14411, 47.60046	hagebutti	h a g e b u tt i	hagebutte	h a g e b u tt e	1
+202	TUTT L15	III_15_0108	Tiefenhäusern, Tiefenhäusern	8.14547, 47.70277	hagelputzen	h a g e l p u tz e n	hagebutze	h a g e b u tz e	3
+203	TUTT L12	III_15_0107, III_15_0106, III_15_0104, III_15_0105	Remetschwiel/Brunnadern, Brunnadern, Remetschwiel	8.14553, 47.68929	hagebutze	h a g e b u tz e	hagebudde	h a g e b u dd e	2
+204	TUTT w5	III_14_0073	Raitenbuch, Raitenbuch	8.14698, 47.86647	haggebuddze	h a gg e b u d d z e	hagebutze	h a g e b u tz e	3
+205	TÜB h13	III_9_0096, III_9_0095	Neusatz , Neusatz	8.14904, 48.65879	hagebudde	h a g e b u dd e	hagebutte	h a g e b u tt e	2
+206	TUTT S11	III_16_0136	Oberalpfen, Oberalpfen	8.15262, 47.65791	hāgabutze	h ā g a b u tz e	hagebutze	h a g e b u tz e	2
+207	TÜB x2	III_10_0137	Oppenau, Oppenau	8.16423, 48.47333	hagebutti	h a g e b u tt i	hagenbutte	h a g e n b u tt e	2
+208	TUTT L14, TUTT L13	III_15_0123	Bannholz, Remetschwiel und Bannholz, Bannholz	8.167, 47.67614	hagebutzä	h a g e b u tz ä	hagebutze	h a g e b u tz e	1
+209	TUTT T4	III_16_0147	Waldkirch, Waldkirch	8.17132, 47.65851	hagebutze	h a g e b u tz e	hagebutzə	h a g e b u tz ə	1
+210	TUTT D3	III_14_0175	Blasiwald (Am Schluchsee), Blasiwald	8.17706, 47.7987	hagebutze	h a g e b u tz e	hagebutzen	h a g e b u tz e n	1
+211	TUTT E2	III_14_0177	Schluchsee, Schluchsee	8.17828, 47.81706	hagebutza	h a g e b u tz a	hagebutzen	h a g e b u tz e n	2
+212	KST E1	III_5_0127	Lauterburg (Weissenburg) (Lauterbourg), Lauterburg	8.18046, 48.97495	håchäbuddä	h å ch ä b u dd ä	hagebutte	h a g e b u tt e	7
+213	TUTT T5	III_16_0158	Eschbach, Eschbach	8.18086, 47.6336	hagebutze	h a g e b u tz e	haggebutze	h a gg e b u tz e	1
+214	TUTT T3	III_16_0159	Schmitzingen, Schmitzingen	8.19315, 47.65491	hagebutte	h a g e b u tt e	hagabuttə	h a g a b u tt ə	2
+215	TÜB E2, TÜB q1	III_11_0080, ungeodnet	Seebach, Seebach	8.20278, 48.57466	hagebutte	h a g e b u tt e	hagebutze	h a g e b u tz e	1
+216	TUTT i6	III_13_0091, III_13_0092	Furtwangen (und Furtwangen-Katzensteig), Furtwangen	8.20648, 48.05227	hagebutte	h a g e b u tt e	hagebutze	h a g e b u tz e	1
+217	TÜB E4, TÜB M4	III_11_0147, III_11_0079	Oberwolfach, Oberwolfach, Oberwolfach-Walke	8.21698, 48.3174	hagebutte	h a g e b u tt e	hegebutte	h e g e b u tt e	1
+218	TÜB M3/2, TÜB M3/1	III_11_0150	Wolfach, Wolfach	8.22076, 48.30289	hāgebutze	h ā g e b u tz e	hagebutte	h a g e b u tt e	2
+219	TUTT M4	III_15_0122	Brenden, Brenden	8.22606, 47.72946	hagebutze	h a g e b u tz e	hagebutzè	h a g e b u tz è	1
+220	TÜB T1	III_12_0065, III_12_0066	Hornberg, Hornberg	8.23036, 48.21193	hagebutte	h a g e b u tt e	hagebudde	h a g e b u dd e	2
+221	TUTT b4	III_12_0163, III_12_0165	Triberg, Triberg	8.2316, 48.13032	hagebudde	h a g e b u dd e	hagebutte	h a g e b u tt e	2
+222	TUTT q8	III_13_0161	Rudenberg, Rudenberg	8.23807, 47.9196	haggebutze	h a gg e b u tz e	hagebutze	h a g e b u tz e	1
+223	TÜB x9	III_10_0142	Bad Griesbach, Bad Griesbach	8.23935, 48.45251	hagabutt	h a g a b u tt	hagebutt	h a g e b u tt	1
+224	TUTT T1	III_16_0161	Weilheim, Weilheim	8.24051, 47.65862	hagebutze	h a g e b u tz e	hagebutte	h a g e b u tt e	1
+225	KST T14/3, KST T14/4, KST T14/1	III_7_0131	Baden-Baden-West, Baden-Baden , Baden-Baden, Baden-Baden Weststadt	8.24094, 48.76273	hagebudde	h a g e b u dd e	hagebutt	h a g e b u tt	3
+226	TUTT q2	III_13_0157	Schollach, Schollach	8.24463, 47.98628	hagebuttä	h a g e b u tt ä	hagebutze	h a g e b u tz e	2
+227	TÜB M8	III_11_0154	Kirnbach, Kirnbach	8.24598, 48.26194	hagebutze	h a g e b u tz e	hagebutte	h a g e b u tt e	1
+228	TUTT T8	III_16_0162	Gurtweil, Gurtweil	8.24698, 47.64159	hāgebutte	h ā g e b u tt e	hagebutze	h a g e b u tz e	2
+229	TÜB M2	III_11_0148	Langenbach, Langenbach	8.25164, 48.3205	hāgebudde	h ā g e b u dd e	hagebutte	h a g e b u tt e	3
+230	KST T1	III_7_0128	Kuppenheim, Kuppenheim	8.25452, 48.82818	hagebutte	h a g e b u tt e	hagebutt	h a g e b u tt	1
+231	TUTT b2	III_12_0162	Gremmelsbach, Gremmelsbach	8.25756, 48.15793	hagebutte	h a g e b u tt e	hagebudde	h a g e b u dd e	2
+232	TUTT x5	III_14_0076	Holzschlag, Holzschlag	8.26456, 47.84976	hagebutzen	h a g e b u tz e n	hagebütze	h a g e b ü tz e	2
+233	TÜB T3	III_12_0070, III_12_0071	Schwanenbach (Reichenbach), Schwanenbach	8.26562, 48.1922	hagebutzĕ	h a g e b u tz ĕ	hagebutze	h a g e b u tz e	1
+234	TUTT i4	III_13_0088	Linach, Linach	8.26602, 48.02831	hágebutze	h á g e b u tz e	haagebuze	h aa g e b u z e	3
+235	TUTT q4	III_13_0160	Eisenbach, Eisenbach	8.26837, 47.96084	hagebutza	h a g e b u tz a	hagebutze	h a g e b u tz e	1
+236	KST E5	III_5_0133, III_5_0132	Durmersheim, Durmersheim	8.2685, 48.93129	hagebutse	h a g e b u t s e	hagebudde	h a g e b u dd e	2
+237	TÜB i2	III_9_0105	Forbach-Hundsbach, Forbach-Hundsbach	8.27064, 48.62026	hagebutte	h a g e b u tt e	hagebudde	h a g e b u dd e	2
+238	TÜB E3	III_11_0081	Schapbach, Schapbach	8.28904, 48.37778	hagebudde	h a g e b u dd e	hagebutte	h a g e b u tt e	2
+239	TUTT x6	III_14_0078	Gündelwangen, Gündelwangen	8.29672, 47.84246	hagebutze	h a g e b u tz e	hagebutte	h a g e b u tt e	1
+240	TUTT T12	III_16_0164	Unterlauchringen, Unterlauchringen	8.30394, 47.63095	hagåbutzå	h a g å b u tz å	hagebutze	h a g e b u tz e	2
+241	TUTT M10	III_15_0119	Krenkingen, Krenkingen	8.30454, 47.68312	hagebutze	h a g e b u tz e	hagebutte	h a g e b u tt e	1
+242	TUTT T10	III_16_0163	Breitenfeld, Breitenfeld	8.30617, 47.65178	hagĕbuttĕ	h a g ĕ b u tt ĕ	hagebutte	h a g e b u tt e	2
+243	TÜB M10	III_11_0153, III_11_0152	Lehengericht, Vorderlehengericht, Hinterlehengericht	8.30807, 48.2924	hagebutze	h a g e b u tz e	hagabuda	h a g a b u d a	4
+244	KST T6	III_7_0133	Staufenberg, Staufenberg	8.3082, 48.76673	hagebutze	h a g e b u tz e	hagebutte	h a g e b u tt e	1
+245	TÜB x4	III_10_0144, III_10_0143	Kniebis, Kniebis	8.3101, 48.47233	hāgebutte	h ā g e b u tt e	hagebutze	h a g e b u tz e	2
+246	TUTT b1	III_12_0159, III_12_0158, III_12_0160	Langenschiltach, Langenschiltach	8.3168, 48.16202	hagebutzen	h a g e b u tz e n	hagebutze	h a g e b u tz e	1
+247	TUTT b7	III_12_0170	Oberkirnach, Oberkirnach	8.31901, 48.09369	ha̠ggabutza	h a ̠ gg a b u tz a	hagabutza	h a g a b u tz a	2
+248	TUTT T15	III_16_0167	Dangstetten, Dangstetten	8.31944, 47.59581	hajebutze	h a j e b u tz e	hagebutze	h a g e b u tz e	1
+249	TUTT T13	III_16_0165	Oberlauchringen, Oberlauchringen	8.32685, 47.62036	hagabutza	h a g a b u tz a	hagebuze	h a g e b u z e	3
+250	KST M5	III_6_0103	Waldprechtsweier, Waldprechtsweier	8.33173, 48.8612	hagebutte	h a g e b u tt e	hagebutten	h a g e b u tt e n	1
+251	TUTT c3	III_12_0156, III_12_0155, III_12_0157	St. Georgen, St. Georgen	8.33183, 48.12564	haggäbuds	h a gg ä b u d s	hagebutze	h a g e b u tz e	5
+252	KST N1	III_6_0101, III_6_0100, III_6_0102	Malsch, Malsch	8.3345, 48.88047	hagebütte	h a g e b ü tt e	hagebutte	h a g e b u tt e	1
+253	TÜB N2	III_30_0008	Schiltach, Schiltach	8.34259, 48.29033	hågebutzge	h å g e b u tz g e	hagebutte	h a g e b u tt e	3
+254	TUTT N5	III_37_0003	Untermettingen, Untermettingen	8.34615, 47.70245	haggebutze	h a gg e b u tz e	hagebutze	h a g e b u tz e	1
+255	TUTT U4	III_38_0006	Horheim, Horheim	8.34737, 47.64854	haggebuze	h a gg e b u z e	haggebutze	h a gg e b u tz e	1
+256	TUTT y4	III_35_0002	Reiselfingen, Reiselfingen	8.35108, 47.85467	hagebuze	h a g e b u z e	hagebutze	h a g e b u tz e	1
+257	TUTT F3	III_36_0006	Wellendingen, Wellendingen	8.35185, 47.79705	hage̠butze̠	h a g e ̠ b u tz e ̠	hagebutze	h a g e b u tz e	2
+258	TUTT U3	III_38_0004	Schwerzen, Schwerzen	8.35642, 47.64323	hagebudde	h a g e b u dd e	hagebutze	h a g e b u tz e	2
+259	TUTT r4	III_34_0017	Unterbränd, Unterbränd	8.35693, 47.93373	hagebutzi	h a g e b u tz i	hagabutze	h a g a b u tz e	2
+260	KST N2, KST U6	III_24_0002	Sulzbach, Sulzbach	8.35791, 48.80596	hagebutte	h a g e b u tt e	hagebudde	h a g e b u dd e	2
+261	TUTT N4	III_37_0001	Obermettingen, Obermettingen	8.35956, 47.7213	hagebutze	h a g e b u tz e	hagebutse	h a g e b u t s e	1
+262	TUTT F6	III_36_0014	Bettmaringen, Bettmaringen	8.36102, 47.75368	hagebutzå	h a g e b u tz å	hagebutze	h a g e b u tz e	1
+263	TÜB c5	III_25_0002	Langenbrand, Langenbrand	8.36334, 48.70441	harebutte	h a r e b u tt e	hagebutte	h a g e b u tt e	1
+264	TUTT k10	III_33_0001	Unterkirnach, Unterkirnach	8.36628, 48.07845	hagebutze	h a g e b u tz e	hagabutze	h a g a b u tz e	1
+265	TUTT k9	III_33_0002	Herzogenweiler, Herzogenweiler	8.37157, 48.0254	hāgebuze	h ā g e b u z e	hagebutze	h a g e b u tz e	2
+266	TUTT c2	III_32_0002	Peterzell, Peterzell	8.37425, 48.13255	hagebutze	h a g e b u tz e	hagebutz	h a g e b u tz	1
+267	TUTT Ua1	III_38_0083	Lienheim, Lienheim	8.37469, 47.5721	haggebutze	h a gg e b u tz e	hagebutze	h a g e b u tz e	1
+268	TUTT F14	III_36_0007	Brunnadern, Brunnadern	8.38083, 47.79495	hagebutzi	h a g e b u tz i	haggebútze	h a gg e b ú tz e	3
+269	TUTT N9	III_37_0002	Degernau, Degernau	8.38187, 47.66635	haggebutze	h a gg e b u tz e	hagebutze	h a g e b u tz e	1
+270	TUTT N6	III_37_0006	Obereggingen, Obereggingen	8.38631, 47.70175	hagebutze	h a g e b u tz e	hagebůtte	h a g e b ů tt e	2
+271	TUTT r3	III_34_0006	Hubertshofen, Hubertshofen	8.38827, 47.96002	hagebutze	h a g e b u tz e	haggebutze	h a gg e b u tz e	1
+272	TUTT N3	III_37_0004	Mauchen, Mauchen	8.39032, 47.73994	hagebutzå	h a g e b u tz å	hagebutze	h a g e b u tz e	1
+273	TÜB c3	III_25_0005	Reichental, Reichental	8.39101, 48.72956	hagäbudde	h a g ä b u dd e	hagäbuttä	h a g ä b u tt ä	3
+274	TUTT U2	III_38_0001	Rechberg, Rechberg	8.39987, 47.6501	haggebuze	h a gg e b u z e	hagebutze	h a g e b u tz e	2
+275	TUTT y11	III_35_0009	Bachheim, Bachheim	8.4031, 47.85931	haggebutze	h a gg e b u tz e	haggebuze	h a gg e b u z e	1
+276	TUTT y10	III_35_0005	Unadingen, Unadingen	8.40711, 47.88128	hagebutze	h a g e b u tz e	hagebutte	h a g e b u tt e	1
+277	KST r3	III_20_0005	Linkenheim, Linkenheim	8.40844, 49.12418	hagebutzen	h a g e b u tz e n	hagenbutzen	h a g e n b u tz e n	1
+278	TUTT k7	III_34_0001	Tannheim, Tannheim	8.41033, 47.99946	haggäbutzä	h a gg ä b u tz ä	hagebutze	h a g e b u tz e	3
+279	KST r1	III_20_0002	Liedolsheim, Liedolsheim	8.41451, 49.16221	hahbutta	h a h b u tt a	habutt	h a b u tt	2
+280	TUTT k8	III_33_0004, III_33_0003, III_33_0005	Pfaffenweiler, Pfaffenweiler	8.41798, 48.03273	haggebuze	h a gg e b u z e	haggebutze	h a gg e b u tz e	1
+281	TUTT U11	III_38_0015	Bergöschingen, Bergöschingen	8.42093, 47.59537	hagebutte	h a g e b u tt e	hagebutze	h a g e b u tz e	1
+282	TUTT F7	III_36_0016	Schwaningen, Schwaningen	8.42524, 47.77843	hagebudde	h a g e b u dd e	hagebutze	h a g e b u tz e	2
+283	TUTT N2	III_37_0008	Eberfingen, Eberfingen	8.42708, 47.72036	hagebutte	h a g e b u tt e	hagebutze	h a g e b u tz e	1
+284	TUTT y9	III_35_0006	Döggingen, Döggingen	8.43444, 47.8919	hagebutze	h a g e b u tz e	haggebutze	h a gg e b u tz e	1
+285	TUTT U10	III_38_0005	Stetten (bei Waldshut), Stetten	8.4393, 47.59011	hagebutte	h a g e b u tt e	hagebutze	h a g e b u tz e	1
+286	TUTT r6	III_34_0003, III_34_0004	Bräunlingen, Bräunlingen	8.44765, 47.9301	haggebutze	h a gg e b u tz e	haggebuzze	h a gg e b u z z e	1
+287	KST N11	III_23_0013	Schielberg, Schielberg	8.44945, 48.84311	hagebutte	h a g e b u tt e	hagabutta	h a g a b u tt a	2
+288	KST k2	III_19_0007, III_19_0004, III_19_0005	Philippsburg, Philippsburg	8.45298, 49.235	hachebudde	h a ch e b u dd e	hachebutte	h a ch e b u tt e	2
+289	TUTT k2	III_33_0006	Rietheim, Rietheim	8.45381, 48.02981	haggebutza	h a gg e b u tz a	hagebutze	h a g e b u tz e	2
+290	TUTT U6	III_38_0013	Weisweil, Weisweil	8.45797, 47.64517	hagebudde	h a g e b u dd e	hagebutze	h a g e b u tz e	2
+291	TUTT k1	III_33_0070, III_33_0072, III_33_0069	Vilingen, Villingen	8.45901, 48.0567	haggebutze	h a gg e b u tz e	hagebutze	h a g e b u tz e	1
+292	TÜB U2	III_31_0007, III_31_0005, III_31_0006	Weiler/Villingen, Tennenbronn	8.46043, 48.17227	hagebutz	h a g e b u tz	hagebutze	h a g e b u tz e	1
+293	TUTT F8	III_36_0149	Weizen, Weizen	8.46354, 47.77888	haggebudze	h a gg e b u d z e	hagebutze	h a g e b u tz e	2
+294	TUTT k5	III_33_0008	Klengen, Klengen	8.46686, 48.00388	hagebutze	h a g e b u tz e	haggebutze	h a gg e b u tz e	1
+295	TUTT k3	III_33_0007	Marbach, Marbach	8.47117, 48.03143	hagebutze	h a g e b u tz e	hagenbutzen	h a g e n b u tz e n	2
+296	KST F9	III_22_0008	Palmbach, Palmbach	8.48266, 48.94683	hagebutte	h a g e b u tt e	harabutta	h a r a b u tt a	3
+297	TUTT r7	III_34_0016, III_34_0015, III_34_0120	Hüfingen, Hüfingen	8.48886, 47.92431	hagebutze	h a g e b u tz e	hagebutzä	h a g e b u tz ä	1
+298	KST y 4	III_21_0021	Grötzingen, Grötzingen	8.49556, 49.00711	hagebutze	h a g e b u tz e	hegebutze	h e g e b u tz e	1
+299	TUTT F10	III_36_0013	Blumegg, Blumegg	8.49815, 47.80904	haggebutze	h a gg e b u tz e	hagebutze	h a g e b u tz e	1
+300	KST O8	III_23_0008, III_23_0009, III_23_0010	Langenalb, Langenalb	8.50104, 48.84402	hagebutte	h a g e b u tt e	hagerbutza	h a g e r b u tz a	3
+301	KST O1	III_22_0014	Langensteinbach, Langensteinbach	8.50638, 48.915	hagebuzze	h a g e b u zz e	hagebutze	h a g e b u tz e	1
+302	KST s7	III_20_0015, III_20_0014, III_20_0013	Staffort, Staffort	8.51034, 49.09079	hagabutza	h a g a b u tz a	hagebutze	h a g e b u tz e	2
+303	KST G7	III_22_0145	Stupferich, Stupferich	8.51098, 48.95396	hackebutz	h a ck e b u tz	hackebut	h a ck e b u t	1
+304	TUTT z4	III_35_0012	Behla, Behla	8.51475, 47.89489	hagebutze	h a g e b u tz e	hagebutza	h a g e b u tz a	1
+305	MH z4/2	II_58_0065, II_58_0066	Mannheim-Käfertal, Käferthal	8.51715, 49.51259	hagebutte	h a g e b u tt e	hachäbuttä	h a ch ä b u tt ä	4
+306	KST d3	III_18_0017	Neulußheim, Neulußheim	8.522, 49.29291	hachebutte	h a ch e b u tt e	hagebutte	h a g e b u tt e	2
+307	KST O2	III_23_0014	Auerbach, Auerbach	8.53163, 48.91379	hagebutte	h a g e b u tt e	hagebutze	h a g e b u tz e	1
+308	TUTT z6	III_35_0017	Riedböhringen, Riedböhringen	8.53811, 47.87011	hagebutzi	h a g e b u tz i	hagebutze	h a g e b u tz e	1
+309	TUTT s7	III_34_0023	Aasen, Aasen	8.5512, 47.98	hagebutzä	h a g e b u tz ä	hagebutze	h a g e b u tz e	1
+310	TUTT d4	III_32_0016	Dauchingen, Dauchingen	8.55237, 48.09031	hagebutz	h a g e b u tz	hagebutze	h a g e b u tz e	1
+311	TUTT z5	III_35_0016	Fürstenberg, Fürstenberg	8.55367, 47.89124	hagabutze	h a g a b u tz e	hagebutze	h a g e b u tz e	1
+312	TUTT G2/2, TUTT G2/1	III_36_0019	Epfenhofen, Epfenhofen	8.55432, 47.81867	hagebutze	h a g e b u tz e	hagabuze	h a g a b u z e	2
+313	MH H3	II_59_0069	Ilvesheim, Ilvesheim	8.56668, 49.47129	hagebutt	h a g e b u tt	hagebutte	h a g e b u tt e	1
+314	KST G3	III_22_0016	Singen bei Pforzheim, Singen	8.56804, 48.95764	hage̊budse̊	h a g e ̊ b u d s e ̊	hāge̊budze	h ā g e ̊ b u d z e	3
+315	KST d4	III_18_0018	Reilingen, Reilingen	8.56943, 49.29368	hagebudde	h a g e b u dd e	hagebutte	h a g e b u tt e	2
+316	MH Q2	II_60_0035, II_60_0034	Schwetzingen, Schwetzingen	8.57064, 49.38567	hāgebudde	h ā g e b u dd e	hagebudd	h a g e b u dd	2
+317	KST O4	III_23_0021	Ellmendingen, Ellmendingen	8.5761, 48.90131	haräbutzä	h a r ä b u tz ä	hāgebutze	h ā g e b u tz e	4
+318	KST O5	III_23_0015	Dietlingen, Dietlingen	8.60093, 48.89654	hagebutz	h a g e b u tz	hagebutze	h a g e b u tz e	1
+319	MH H5	II_59_0072	Neckarhausen, Neckarhausen	8.60233, 49.46433	hågebutte	h å g e b u tt e	hagebutte	h a g e b u tt e	1
+320	TUTT s2	III_34_0025	Oberbaldingen, Oberbaldingen	8.60629, 47.97542	hagebutze	h a g e b u tz e	haggebutze	h a gg e b u tz e	1
+321	TUTT z9	III_35_0021	Riedöschingen, Riedöschingen	8.6077, 47.84306	hagebutze	h a g e b u tz e	hagabutza	h a g a b u tz a	2
+322	MH H4	II_59_0070	Ladenburg, Ladenburg	8.61098, 49.47244	hagebudde	h a g e b u dd e	hagebutte	h a g e b u tt e	2
+323	KST z4	III_21_0018	Wössingen, Wössingen	8.61142, 49.01017	hagebutze	h a g e b u tz e	hagebuze	h a g e b u z e	1
+324	TUTT s3	III_34_0026	Unterbaldingen, Unterbaldingen	8.61256, 47.96992	hagebutze	h a g e b u tz e	haggebutze	h a gg e b u tz e	1
+325	TUTT z1	III_35_0023	Gutmadingen, Gutmadingen	8.61605, 47.91149	hāgebutze	h ā g e b u tz e	hagebutse	h a g e b u t s e	2
+326	KST s1	III_20_0024	Ubstadt, Ubstadt	8.6322, 49.16181	hagebudde	h a g e b u dd e	hagebutte	h a g e b u tt e	2
+327	KST G11	III_22_0023	Ersingen, Ersingen	8.63492, 48.93324	hagebutze	h a g e b u tz e	hagäbutzä	h a g ä b u tz ä	2
+328	TUTT s1	III_34_0024	Öfingen, Öfingen	8.63525, 47.99144	hagebutzä	h a g e b u tz ä	hagebutze	h a g e b u tz e	1
+329	TUTT G7	III_36_0024	Wiechs a. R., Wiechs	8.64153, 47.78137	hagebutzi	h a g e b u tz i	hagebutze	h a g e b u tz e	1
+330	KST s10	III_20_0026	Heidelsheim, Heidelsheim	8.64542, 49.10114	hagebutze	h a g e b u tz e	hagenbutzen	h a g e n b u tz e n	2
+331	KST l4	III_19_0018, III_19_0020, III_19_0019	Mingolsheim, Mingolsheim	8.65316, 49.21986	hagebutt	h a g e b u tt	hagelbudde	h a g e l b u dd e	4
+332	KST z2	III_21_0020	Gondelsheim, Gondelsheim	8.65584, 49.0596	hagebutze	h a g e b u tz e	hagebudda	h a g e b u dd a	3
+333	TUTT G6	III_36_0020	Tengen, Tengen	8.66036, 47.81721	hagabutse	h a g a b u t s e	hagebutze	h a g e b u tz e	2
+334	KST P1	III_22_0027, III_22_0026	Ispringen , Ispringen	8.66764, 48.91655	hagebuze	h a g e b u z e	hagebutze	h a g e b u tz e	1
+335	KST P2	III_23_0032, III_23_0029, III_23_0030, III_23_0031	Brötzingen, Pforzheim-Brötzingen	8.66799, 48.889	hagebutte	h a g e b u tt e	hagebutze	h a g e b u tz e	1
+336	MH J2	II_59_0076	Dossenheim, Dossenheim	8.66806, 49.44988	hagebutt	h a g e b u tt	hagebutte	h a g e b u tt e	1
+337	KST H4	III_22_0025	Eisingen, Eisingen	8.66865, 48.94773	hagaebutze	h a g a e b u tz e	hagebutze	h a g e b u tz e	1
+338	KST A7	III_21_0024	Rinklingen , Rinklingen	8.6832, 49.03485	hagebutza	h a g e b u tz a	hagebutze	h a g e b u tz e	1
+339	KST t2	III_20_0028	Oberöwisheim, Oberöwisheim	8.6891, 49.14532	hagebutze	h a g e b u tz e	haugebutze	h a u g e b u tz e	1
+340	TUTT P6	III_37_0013, III_37_0012, III_37_0011, III_37_0010	Büsingen, Büsingen	8.69282, 47.69702	hagebutze	h a g e b u tz e	hagebudde	h a g e b u dd e	2
+341	KST H1	III_22_0028	Nussbaum, Nussbaum	8.69353, 48.98977	hagebudze	h a g e b u d z e	hagebutze	h a g e b u tz e	1
+342	KST P7	III_23_0057	Huchenfeld, Huchenfeld	8.69574, 48.85613	hagebuze	h a g e b u z e	haggebutze	h a gg e b u tz e	2
+343	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	hagebudze	h a g e b u d z e	hagebutze	h a g e b u tz e	1
+344	TUTT J2 /2	III_36_0036, III_36_0037, III_36_0038	Schlatt (am Randen), Schlatt	8.70119, 47.76891	hagabutta	h a g a b u tt a	hagebutte	h a g e b u tt e	2
+345	KST e2/1, KST e2/2	III_18_0023, III_18_0036	Wiesloch, Wiesloch	8.70178, 49.29504	hagbutte	h a g b u tt e	hagebutte	h a g e b u tt e	1
+346	KST H3	III_22_0029	Göbrichen, Göbrichen	8.70848, 48.95808	hagenbutzen	h a g e n b u tz e n	hagebutze	h a g e b u tz e	2
+347	KST m11	III_19_0025, III_19_0026	Östringen, Östringen	8.7137, 49.22037	hagebutte	h a g e b u tt e	haghebutzä̆	h a g h e b u tz ä ̆	4
+348	TUTT A3	III_35_0026	Stetten (bei Engen), Stetten	8.71683, 47.87248	hagebutze	h a g e b u tz e	haggebutze	h a gg e b u tz e	1
+349	TUTT t4	III_34_0040, III_34_0041, III_34_0039	Immendingen, Immendingen	8.73032, 47.95055	hagäbutze	h a g ä b u tz e	haggebutzä	h a gg e b u tz ä	3
+350	KST t6	III_20_0032	Gochsheim, Gochsheim	8.74551, 49.10407	hauebutze	h a u e b u tz e	hagebutze	h a g e b u tz e	1
+351	KST m9	III_19_0028	Odenheim, Odenheim	8.75076, 49.17902	hagebutze	h a g e b u tz e	hagebutte	h a g e b u tt e	1
+352	KST H6	III_22_0035	Kieselbronn, Kieselbronn	8.75287, 48.93453	hāgebutze	h ā g e b u tz e	hagebutze	h a g e b u tz e	1
+353	TUTT P5	III_37_0015	Gailingen, Gailingen	8.75499, 47.69685	haggebutze	h a gg e b u tz e	hagebutze	h a g e b u tz e	1
+354	KST e12	III_18_0029	Tairnbach, Tairnbach	8.75625, 49.26367	hagebudde	h a g e b u dd e	hagebutte	h a g e b u tt e	2
+355	TUTT t3	III_34_0029, III_34_0031, III_34_0030	Möhringen, Möhringen	8.75916, 47.96779	haggebutze	h a gg e b u tz e	hagebutze	h a g e b u tz e	1
+356	TUTT A8	III_35_0029	Anselfingen, Anselfingen	8.76516, 47.84558	hagebutze	h a g e b u tz e	haggebutze	h a gg e b u tz e	1
+357	KST t10	III_20_0031	Menzingen, Menzingen	8.77067, 49.13931	hagebutze	h a g e b u tz e	hagäbuddä	h a g ä b u dd ä	4
+358	MH R12	II_60_0044	Waldhilsbach, Waldhilsbach	8.77179, 49.3721	hagebudde	h a g e b u dd e	hagebutte	h a g e b u tt e	2
+359	TUTT A9	III_35_0030, III_35_0031	Neuhausen (b. Engen), Neuhausen	8.77423, 47.8379	hagebutze	h a g e b u tz e	hagəbutzə	h a g ə b u tz ə	2
+360	MH R9	II_60_0046	Bammental, Bammental	8.77604, 49.35511	hagebutte	h a g e b u tt e	harebudde	h a r e b u dd e	3
+361	TUTT P4	III_37_0016	Gotttmadingen, Gottmadingen	8.77716, 47.73498	hagebutze	h a g e b u tz e	hagebuza	h a g e b u z a	2
+362	KST m5	III_19_0032, III_19_0031, III_19_0030	Michelfeld, Michelfeld	8.7808, 49.22723	hagebutte	h a g e b u tt e	hagebutze	h a g e b u tz e	1
+363	TUTT H3	III_36_0034	Duchtlingen, Duchtlingen	8.79029, 47.79154	hagebutze	h a g e b u tz e	hagebutee	h a g e b u t ee	1
+364	KST W4	III_24_0025	Steinegg, Steinegg	8.79091, 48.81349	haggebutze	h a gg e b u tz e	hagebutze	h a g e b u tz e	1
+365	TUTT H1	III_36_0030	Ehingen, Ehingen	8.80075, 47.82351	hagebutte	h a g e b u tt e	hagebutze	h a g e b u tz e	1
+366	KST m6	III_19_0033	Waldangelloch, Waldangelloch	8.80551, 49.21046	hauaputza	h a u a p u tz a	hauebutzen	h a u e b u tz e n	4
+367	KST t11	III_20_0033	Landshausen, Landshausen	8.80627, 49.14899	haugebutze	h a u g e b u tz e	hagebutze	h a g e b u tz e	1
+368	TUTT A5	III_35_0036	Biesendorf, Biesendorf	8.81255, 47.91175	hagabutza	h a g a b u tz a	hagebutze	h a g e b u tz e	2
+369	KST m7	III_19_0036	Eichelberg, Eichelberg	8.813, 49.1891	haurebutze	h a u r e b u tz e	hagebutte	h a g e b u tt e	3
+370	KST P5	III_23_0035	Öschelbronn, Öschelbronn	8.81415, 48.90599	hagebutzen	h a g e b u tz e n	hagebutze	h a g e b u tz e	1
+371	KST e5	III_18_0033, III_18_0034	Meckesheim, Meckesheim	8.81557, 49.32167	hageputze	h a g e p u tz e	hagebutze	h a g e b u tz e	1
+372	KST W6	III_24_0035	Lehningen, Lehningen	8.81639, 48.79486	hagebutzē	h a g e b u tz ē	hagebutze	h a g e b u tz e	1
+373	KST t8	III_20_0040	Zaisenhausen, Zaisenhausen	8.81712, 49.10745	hagebutza	h a g e b u tz a	hagabudda	h a g a b u dd a	3
+374	KST n1	III_19_0034	Dühren, Dühren	8.83562, 49.24557	hagabutza	h a g a b u tz a	haagebutze	h aa g e b u tz e	3
+375	MH S1	II_60_0052	Dilsberg, Dilsberg	8.8362, 49.39832	hagebudde	h a g e b u dd e	hawwerbutze	h a ww e r b u tz e	5
+376	TUTT Q13	III_37_0017	Rieslasingen, Rielasingen	8.83715, 47.73231	hagebutze	h a g e b u tz e	hagbutze	h a g b u tz e	1
+377	KST B1	III_21_0033	Kürnbach, Kürnbach	8.84279, 49.07732	hagäbutsä	h a g ä b u t s ä	haagebutze	h aa g e b u tz e	4
+378	TUTT u5	III_34_0119	Emmingen, Emmingen	8.85302, 47.92883	haggåbudze	h a gg å b u d z e	hagebutze	h a g e b u tz e	3
+379	MH S6	II_60_0056	Mönchzell, Mönchzell	8.85327, 49.33612	harebutze	h a r e b u tz e	harebutte	h a r e b u tt e	1
+380	KST u4	III_20_0041	Rohrbach (am Giesshübel), Rohrbach	8.85649, 49.14055	haugebutze	h a u g e b u tz e	hagebutze	h a g e b u tz e	1
+381	KST u5	III_20_0163, III_20_0045, III_20_0044, III_20_0042, III_20_0043	Sulzfeld, Sulzfeld	8.85671, 49.10336	hagabudza	h a g a b u d z a	hagebutze	h a g e b u tz e	3
+382	TUTT z2	III_33_0041	Nendingen, Nendingen	8.86067, 48.00602	hagebutze	h a g e b u tz e	haggebutza	h a gg e b u tz a	2
+383	TUTT J1	III_36_0043	Volkertshausen, Volkertshausen	8.863, 47.82187	hagebutza	h a g e b u tz a	hagebutze	h a g e b u tz e	1
+384	TUTT Q3	III_37_0019	Worblingen, Worblingen	8.86677, 47.72492	haggabuza	h a gg a b u z a	hagebuza	h a g e b u z a	2
+385	KST f1	III_18_0041, III_18_0037, III_18_0039, III_18_0040, III_18_0038	Eschelbronn, Eschelbronn	8.86825, 49.3202	chagebutze	ch a g e b u tz e	haräbutze	h a r ä b u tz e	3
+386	KST n13	III_19_0037	Weiler, Weiler	8.87587, 49.20862	hagabutza	h a g a b u tz a	haagebutze	h aa g e b u tz e	3
+387	MH K8	II_59_0097	Neckarhäuserhof, Neckarhäuserhof	8.88191, 49.41513	hagebutte	h a g e b u tt e	hagebudde	h a g e b u dd e	2
+388	TUTT B4	III_35_0044	Honstetten, Honstetten	8.88331, 47.8933	hagebutze	h a g e b u tz e	haggebutze	h a gg e b u tz e	1
+389	KST f2	III_18_0042	Neidenstein, Neidenstein	8.88423, 49.31637	harebutze	h a r e b u tz e	harebuddä	h a r e b u dd ä	3
+390	KST n10	III_20_0046	Adelshofen, Adelshofen	8.89073, 49.16806	hagebutze	h a g e b u tz e	hagebutte	h a g e b u tt e	1
+391	TUTT X1	III_38_0024	Öhningen, Öhningen	8.89136, 47.66162	hagebutte	h a g e b u tt e	hagebutta	h a g e b u tt a	1
+392	TUTT Q2	III_37_0020	Überlingen am Ried, Überlingen am Ried	8.89807, 47.73495	hagebutze	h a g e b u tz e	haggebutte	h a gg e b u t t e	2
+393	TUTT B3	III_35_0045	Reute, Reute	8.90723, 47.8873	hagunbutzun	h a g u n b u tz u n	hagebutze	h a g e b u tz e	4
+394	TUTT u4	III_34_0047	Liptingen, Liptingen	8.90748, 47.93756	haggoabutzoå	h a gg o a b u tz o å	hagebutzä	h a g e b u tz ä	5
+395	TÜB f1	III_25_0047	Döffingen, Döffingen	8.91383, 48.7106	hegåbutzå	h e g å b u tz å	hegenbutzen	h e g e n b u tz e n	4
+396	KST f3	III_18_0050	Waibstadt, Waibstadt	8.9198, 49.29982	hagebutte	h a g e b u tt e	hagebutze	h a g e b u tz e	1
+397	MH K7	II_59_0088	Moosbrunn, Moosbrunn	8.92878, 49.42533	hågebutte	h å g e b u tt e	hagebudde	h a g e b u dd e	3
+398	MH S11	II_60_0067	Haag, Haag	8.92912, 49.39429	hāchebudde	h ā ch e b u dd e	hagĕbuddĕ	h a g ĕ b u dd ĕ	5
+399	TUTT B7	III_35_0038	Orsingen, Orsingen	8.92977, 47.83688	hageͣbudde	h a g e ͣ b u dd e	hagebutze	h a g e b u tz e	3
+400	TUTT Q7	III_37_0025	Bankholzen, Bankholzen	8.92989, 47.7082	hagebutze	h a g e b u tz e	hagäbutzä	h a g ä b u tz ä	2
+401	TUTT X2	III_38_0025	Wangen, Wangen	8.93161, 47.6599	hagebutza	h a g e b u tz a	hagebutte	h a g e b u tt e	2
+402	TUTT B1	III_35_0047	Heudorf, Heudorf	8.93517, 47.91373	haggebutze	h a gg e b u tz e	hagebutze	h a g e b u tz e	1
+403	KST n9	III_19_0046	Ittlingen, Ittlingen	8.93691, 49.19224	hagebutte	h a g e b u tt e	hagenbutze	h a g e n b u tz e	2
+404	KST n8	III_19_0047	Richen, Richen	8.94083, 49.17134	hagebutze	h a g e b u tz e	hagebudzä	h a g e b u d z ä	2
+405	MH K5	II_59_0093, II_59_0094	Pleutersbach, Pleutersbach	8.95293, 49.45367	harebutte	h a r e b u tt e	hagebudde	h a g e b u dd e	3
+406	MH K6/2, MH K6/1	II_59_0096	Allemühl, Allemühl	8.95618, 49.42613	hagebutze	h a g e b u tz e	harebutze	h a r e b u tz e	1
+407	TUTT B8	III_35_0051	Nenzingen, Nenzingen	8.95914, 47.84256	hagēbutze	h a g ē b u tz e	hagebutze	h a g e b u tz e	1
+408	TUTT B10	III_35_0048	Raithaslach, Raithaslach	8.96262, 47.88125	hagebutze	h a g e b u tz e	haggebutze	h a gg e b u tz e	1
+409	TUTT f2	III_32_0038	Heinstetten, Heinstetten	8.96312, 48.13491	hagabutza	h a g a b u tz a	haggebutze	h a gg e b u tz e	3
+410	KST u2	III_20_0057	Stebbach, Stebbach	8.96448, 49.14676	hagebutzä	h a g e b u tz ä	hagebutze	h a g e b u tz e	1
+411	TUTT Q11	III_37_0029	Hemmenhofen, Hemmenhofen	8.96502, 47.67294	hagebutze	h a g e b u tz e	hagebudde	h a g e b u dd e	2
+412	MH S10	II_60_0061	Michelbach, Michelbach	8.96532, 49.37259	harebutte	h a r e b u tt e	hagebutte	h a g e b u tt e	1
+413	TUTT J10	III_36_0048	Wahlwies, Wahlwies	8.96632, 47.81985	hagebutze	h a g e b u tz e	hegabutze	h e g a b u tz e	2
+414	MH S12	II_60_0063	Schwanheim, Schwanheim	8.97596, 49.40194	hagebudde	h a g e b u dd e	hachebudde	h a ch e b u dd e	2
+415	KST n7	III_19_0048	Berwangen, Berwangen	8.98098, 49.18431	hagebutte	h a g e b u tt e	hagebutze	h a g e b u tz e	1
+416	KST n4	III_19_0051	Ehrstädt, Ehrstädt	8.98266, 49.24404	hagabuddr	h a g a b u dd r	hagebutte	h a g e b u tt e	4
+417	TUTT Q10	III_37_0026	Gaienhofen, Gaienhofen	8.9829, 47.68263	hagēͣbutze	h a g ē ͣ b u tz e	hagebutze	h a g e b u tz e	2
+418	KST u1	III_20_0053, III_20_0056, III_20_0054, III_20_0055	Gemmingen, Gemmingen	8.98358, 49.15633	hagebutte	h a g e b u tt e	hakenputzen	h a k e n p u tz e n	5
+419	TUTT n1	III_33_0040	Buchheim, Buchheim	8.98672, 48.011	hagabutza	h a g a b u tz a	hagenbutze	h a g e n b u tz e	3
+420	TUTT Q9	III_37_0027	Horn, Horn	8.99438, 47.69562	hagǟbutzǟ	h a g ǟ b u tz ǟ	hagäbutzi	h a g ä b u tz i	2
+421	TUTT f3	III_32_0041	Schwenningen, Schwenningen	8.99619, 48.10638	hagebutz	h a g e b u tz	hagebutze	h a g e b u tz e	1
+422	TUTT u3	III_34_0048	Gallmannsweil, Gallmannsweil	8.99683, 47.92357	haggebutze	h a gg e b u tz e	hagebutze	h a g e b u tz e	1
+423	TUTT J11	III_36_0051, III_36_0050	Güttingen, Güttingen	8.998, 47.77415	hagabutza	h a g a b u tz a	hagebuze	h a g e b u z e	3
+424	TUTT v2	III_34_0046	Worndorf, Worndorf	8.9985, 47.98553	hagebutte	h a g e b u tt e	hagebutze	h a g e b u tz e	1
+425	KST g11	III_18_0053	Flinsbach, Flinsbach	8.9996, 49.30946	hagebutze	h a g e b u tz e	haarebutze	h aa r e b u tz e	2
+426	TÜB g1	III_25_0044	Sindelfingen, Sindelfingen	9.00194, 48.70797	hagâbutzâ	h a g â b u tz â	hagabutza	h a g a b u tz a	2
+427	TUTT K8	III_36_0045	Möggingen, Möggingen	9.00337, 47.76589	hagebutzå	h a g e b u tz å	hagebutze	h a g e b u tz e	1
+428	TUTT R3	III_37_0030	Markelfingen, Markelfingen	9.00452, 47.74143	hagebutze̊	h a g e b u tz e ̊	hagebutze	h a g e b u tz e	1
+429	MH T2	II_60_0068	Neunkirchen, Neunkirchen	9.00887, 49.38789	hagebutze	h a g e b u tz e	hahrebudde	h a h r e b u dd e	4
+430	KST g7	III_18_0059	Untergimern, Untergimern	9.00947, 49.27049	hachebudde	h a ch e b u dd e	hagebudde	h a g e b u dd e	2
+431	TUTT v6	III_34_0050	Mainwangen, Mainwangen	9.0105, 47.92565	hagebutza	h a g e b u tz a	hagebutze	h a g e b u tz e	1
+432	TUTT C10	III_35_0059	Mühlingen, Mühlingen	9.01554, 47.91191	hagabutzå	h a g a b u tz å	hagebutza	h a g e b u tz a	2
+433	MH T16	II_60_0070	Breitenbronn, Breitenbronn	9.02197, 49.36483	harebudde	h a r e b u dd e	hagabuda	h a g a b u d a	4
+434	MH T9	II_60_0071	Asbach, Asbach	9.02562, 49.34133	hagebutte	h a g e b u tt e	hagebutze	h a g e b u tz e	1
+435	TUTT K7	III_36_0055, III_36_0056	Liggeringen, Liggeringen	9.02698, 47.77495	hagebutze	h a g e b u tz e	hagabutze	h a g a b u tz e	1
+436	TUTT K6	III_36_0054	Bodman, Bodman	9.02835, 47.80402	hagebutze	h a g e b u tz e	hagäbuzä	h a g ä b u z ä	3
+437	TUTT v5	III_34_0051	Boll, Boll	9.0299, 47.9487	hagebutza	h a g e b u tz a	hagebutze	h a g e b u tz e	1
+438	TUTT v3	III_34_0053	Bietingen, Bietingen	9.03261, 47.97091	hagebutze	h a g e b u tz e	hagebūtze	h a g e b ū tz e	1
+439	TUTT v1	III_34_0054	Altheim, Altheim	9.03387, 47.99511	hagebūtze	h a g e b ū tz e	hagebutze	h a g e b u tz e	1
+440	TUTT g1	III_32_0042	Glashütte (Heuberg), Glashütte	9.03485, 48.1237	hagabuzza	h a g a b u zz a	hagabutza	h a g a b u tz a	1
+441	TUTT C2/2, TUTT C2/1	III_35_0052	Zoznegg, Zoznegg	9.04053, 47.89958	hageͣbutza	h a g e ͣ b u tz a	hagebutzen	h a g e b u tz e n	3
+442	MH T7	II_60_0072	Mörtelstein, Mörtelstein	9.04246, 49.35708	hagebutte	h a g e b u tt e	hawerbutze	h a w e r b u tz e	3
+443	TUTT C1	III_35_0054	Schwackenreute, Schwackenreute	9.04401, 47.91392	hagebutze	h a g e b u tz e	hagebutza	h a g e b u tz a	1
+444	MH L4	II_59_0099	Zwingenberg, Zwingenberg	9.04439, 49.41287	hāgebutze	h ā g e b u tz e	hagebudde	h a g e b u dd e	3
+445	TUTT v4	III_34_0052	Krumbach, Krumbach	9.04788, 47.96159	hagebute	h a g e b u t e	hagebutze	h a g e b u tz e	1
+446	TUTT o4	III_33_0042	Kreenheinstetten, Kreenheinstetten	9.05221, 48.0555	hagebutza	h a g e b u tz a	hagebutze	h a g e b u tz e	1
+447	MH L2	II_59_0101	Oberdielbach, Oberdielbach	9.05361, 49.44781	hāgebutze	h ā g e b u tz e	hagebutze	h a g e b u tz e	1
+448	MH L6	II_59_0102	Waldkatzenbach, Waldkatzenbach	9.05484, 49.45603	hagebutte	h a g e b u tt e	hagebudde	h a g e b u dd e	2
+449	KST o2	III_19_0052	Treschklingen, Treschklingen	9.05577, 49.22614	hageputze	h a g e p u tz e	hagerbutze	h a g e r b u tz e	2
+450	MH T6	II_60_0074	Binau, Binau	9.0577, 49.36658	harebuddä	h a r e b u dd ä	harebudde	h a r e b u dd e	1
+451	TUTT K4	III_36_0059	Ludwigshafen, Ludwigshafen	9.05916, 47.8189	hagä̆butzä̆	h a g ä ̆ b u tz ä ̆	haggebutze	h a gg e b u tz e	4
+452	TUTT R6	III_37_0039, III_37_0040, III_37_0038	Reichenau, Reichenau	9.06125, 47.69789	hagebutte	h a g e b u tt e	hagebudde	h a g e b u dd e	2
+453	KST g10	III_18_0063	Kälbertshausen, Kälbertshausen	9.06276, 49.31724	hagebudde	h a g e b u dd e	hagebutte	h a g e b u tt e	2
+454	TUTT R4	III_37_0034, III_37_0033, III_37_0032	Allensbach, Allensbach	9.06699, 47.71535	hagabutte	h a g a b u tt e	haggebutte	h a gg e b u t t e	2
+455	MH T17	II_60_0075	Neckargerach, Neckargerach	9.0708, 49.40101	hagebutte	h a g e b u tt e	hauerbutze	h a u e r b u tz e	3
+456	TUTT v11	III_34_0055	Heudorf, Heudorf	9.07121, 47.99412	hagebutze	h a g e b u tz e	haggebutze	h a gg e b u tz e	1
+457	TUTT K12	III_36_0058	Langenrain, Langenrain	9.07596, 47.76281	hagebutze	h a g e b u tz e	haggebutze	h a gg e b u tz e	1
+458	MH T10	II_60_0078	Obrigheim, Obrigheim	9.09608, 49.35186	hagebudde	h a g e b u dd e	hagebutte	h a g e b u tt e	2
+459	TUTT K11	III_36_0061, III_36_0062, III_36_0063, III_36_0064, III_36_0060	Sipplingen, Sipplingen	9.09665, 47.79525	haggabutza	h a gg a b u tz a	hagebutze	h a g e b u tz e	3
+460	TUTT v9	III_34_0049	Wasser, Wasser	9.10143, 47.9671	hagabutza	h a g a b u tz a	hagabütza	h a g a b ü tz a	1
+461	TUTT 07	III_33_0049	Rohrdorf, Rohrdorf	9.10207, 48.01811	hagaͤbutzaͤ	h a g a ͤ b u tz a ͤ	hagabudda	h a g a b u dd a	4
+462	KST v1	III_20_0066	Schluchtern, Schluchtern	9.1026, 49.14843	hagabutte	h a g a b u tt e	hagebutte	h a g e b u tt e	1
+463	TUTT R1	III_37_0036	Dettingen, Dettingen	9.117, 47.73485	hagabutta	h a g a b u tt a	haggebutte	h a gg e b u t t e	3
+464	TUTT C3	III_35_0061	Sentenhart, Sentenhart	9.12618, 47.91369	hagebutze	h a g e b u tz e	haggebutze	h a gg e b u tz e	1
+465	TUTT o6	III_33_0046	Engelswies, Engelswies	9.12846, 48.04259	hagebutze	h a g e b u tz e	hagebutzae	h a g e b u tz a e	1
+466	MH T15	II_60_0077	Lohrbach, Lohrbach	9.14183, 49.4	hahebutte	h a h e b u tt e	hagebutte	h a g e b u tt e	1
+467	MH T13	II_60_0081, II_60_0082	Mosbach, Mosbach	9.14619, 49.35501	hagebutte	h a g e b u tt e	hachebudde	h a ch e b u dd e	4
+468	KST g14	III_18_0069	Heinsheim, Heinsheim	9.14778, 49.26416	hagebudde	h a g e b u dd e	hachebutte	h a ch e b u tt e	4
+469	MH L5	II_59_0108	Fahrenbach, Fahrenbach	9.14987, 49.43091	hagebutte	h a g e b u tt e	hagebudde	h a g e b u dd e	2
+470	TUTT o8	III_33_0051	Menningen, Menningen	9.15825, 48.01089	hågebutze	h å g e b u tz e	hagebutze	h a g e b u tz e	1
+471	MH L7	II_59_0107	Robern, Robern	9.16265, 49.45394	haggebutte	h a gg e b u t t e	hagebudde	h a g e b u dd e	3
+472	MH U1	II_60_0083	Neckarburken, Neckarburken	9.165, 49.37662	hāgebudde	h ā g e b u dd e	hagebudde	h a g e b u dd e	1
+473	SIG t1	III_38_0131	Konstanz, Konstanz	9.17758, 47.66385	hageputze	h a g e p u tz e	hagebutte	h a g e b u tt e	2
+474	MH M6	II_59_0110	Krumbach, Krumbach	9.18402, 49.45323	hachebutze	h a ch e b u tz e	håchebudde	h å ch e b u dd e	3
+475	SIG k1	III_35_0076	Aach-Linz, Aach-Linz	9.20037, 47.91152	hagebutte	h a g e b u tt e	hagebutze	h a g e b u tz e	1
+476	MH M5	II_59_0117	Limbach, Limbach	9.21181, 49.46142	håchebutte	h å ch e b u tt e	hachebude	h a ch e b u d e	3
+477	MH M2	II_59_0119	Laudenberg, Laudenberg	9.21457, 49.48066	hagebudde	h a g e b u dd e	hagebutte	h a g e b u tt e	2
+478	SIG q7	III_36_0074	Deisendorf, Deisendorf	9.21621, 47.76835	hagebutze	h a g e b u tz e	hagebutte	h a g e b u tt e	1
+479	MH U9	II_60_0094	Auerbach, Auerbach	9.22666, 49.39927	hauerbutze	h a u e r b u tz e	haggebudde	h a gg e b u d d e	5
+480	MH M4	II_59_0116	Scheringen, Scheringen	9.23513, 49.46663	hagebutte	h a g e b u tt e	hagebutze	h a g e b u tz e	1
+481	MH M1	II_59_0120	Einbach, Waldhausen/Einbach	9.24238, 49.48477	hachebudde	h a ch e b u dd e	hachebutte	h a ch e b u tt e	2
+482	SIG q3	III_37_0041	Oberuhldingen, Oberuhldingen	9.24549, 47.73557	hāgebūtze	h ā g e b ū tz e	hagebutze	h a g e b u tz e	2
+483	MH M10	II_59_0115	Heidersbach, Heidersbach	9.2468, 49.45517	hachelbutze	h a ch e l b u tz e	hachebutze	h a ch e b u tz e	1
+484	MH U8	II_60_0089	Billigheim, Billigheim	9.25406, 49.34748	hachebutze	h a ch e b u tz e	hagebutte	h a g e b u tt e	3
+485	SIG g2/2, SIG g2/1	III_34_0065, III_34_0063	Pfullendorf, Pfullendorf	9.25466, 47.92614	hagebutza	h a g e b u tz a	hagebutze	h a g e b u tz e	1
+486	MH Y3	III_18_0075	Herbolzheim, Herbolzheim	9.26007, 49.28376	hāchebutze	h ā ch e b u tz e	hachebutze	h a ch e b u tz e	1
+487	MH Y2	III_18_0074	Neudenau, Neudenau	9.27037, 49.2923	hachebudde	h a ch e b u dd e	hachebudze	h a ch e b u d z e	1
+488	MH U5	II_60_0086	Unterschefflenz, Unterschefflenz	9.27076, 49.39154	hauerbutze	h a u e r b u tz e	hagebutze	h a g e b u tz e	2
+489	SIG q8/1	III_37_0047	Meersburg, Meersburg	9.27244, 47.69466	hagebutze	h a g e b u tz e	hagebutt	h a g e b u tt	2
+490	SIG n12	III_36_0081	Salem, Salem	9.28599, 47.77663	hagebutze	h a g e b u tz e	hagebutza	h a g e b u tz a	1
+491	SIG q5	III_37_0044	Grasbeuren, Grasbeuren	9.29766, 47.73029	hagebutze	h a g e b u tz e	hagebůtte	h a g e b ů tt e	2
+492	SIG k3	III_35_0073, III_35_0074, III_35_0071, III_35_0072	Denkingen, Denkingen	9.30821, 47.89505	hagabutze	h a g a b u tz e	hagebutze	h a g e b u tz e	1
+493	SIG n5	III_36_0072	Heiligenberg, Heiligenberg	9.31203, 47.81993	haggebudde	h a gg e b u d d e	hagebutt	h a g e b u tt	4
+494	SIG q10	III_37_0048	Hagnau, Hagnau	9.31963, 47.67634	hagebutte	h a g e b u tt e	hagebutten	h a g e b u tt e n	1
+495	SIG n10	III_36_0073	Beuren, Beuren	9.32135, 47.80541	haggebuddä	h a gg e b u d d ä	hagabutze	h a g a b u tz e	5
+496	SIG q6	III_37_0045, III_37_0046	Ahausen, Ahausen	9.32247, 47.72502	hagebutz	h a g e b u tz	hagbutz	h a g b u tz	1
+497	SIG n15	III_36_0080	Röhrenbach, Röhrenbach	9.3248, 47.82972	haggebutze	h a gg e b u tz e	hagebutze	h a g e b u tz e	1
+498	MH N3	II_59_0123	Seckach, Seckach	9.33368, 49.44238	hachebutte	h a ch e b u tt e	haachebudde	h aa ch e b u d d e	3
+499	SIG r1	III_36_0092	Mittelstenweiler, Mittelstenweiler	9.33753, 47.75241	hagebutze	h a g e b u tz e	haggebutze	h a gg e b u tz e	1
+500	SIG r7	III_37_0051	Ittendorf, Ittendorf	9.34074, 47.70119	hagebutte	h a g e b u tt e	hagebudde	h a g e b u dd e	2
+501	STU u1	III_26_0090	Nürtingen, Nürtingen	9.34192, 48.62663	hagabutz	h a g a b u tz	hagabutza	h a g a b u tz a	1
+502	SIG r2	III_37_0050	Bermatingen, Bermatingen	9.34868, 47.73084	hagebutze	h a g e b u tz e	hagĕbutzĕ	h a g ĕ b u tz ĕ	2
+503	MH N1	II_92_0002	Eberstadt, Eberstadt	9.3666, 49.47727	hachaboutta	h a ch a b o u tt a	hachabutze	h a ch a b u tz e	3
+504	SIG u1	III_38_0026	Immenstaad, Immenstaad	9.3675, 47.66625	hagebutzä	h a g e b u tz ä	hagebutze	h a g e b u tz e	1
+505	MH N2	II_92_0003	Schlierstadt, Schlierstadt	9.36816, 49.45257	håchelbutze	h å ch e l b u tz e	hoͣchebudde	h o ͣ ch e b u dd e	5
+506	MH V2	II_93_0002	Sennfeld, Sennfeld	9.38438, 49.38045	hachebudze	h a ch e b u d z e	hachebudde	h a ch e b u dd e	1
+507	SIG o2	III_36_0089	Deggenhausen, Deggenhausen	9.3844, 47.80143	hagebutze	h a g e b u tz e	hagebuzze	h a g e b u zz e	1
+508	SIG r3	III_37_0052, III_37_0054, III_37_0053, III_37_0055	Markdorf, Markdorf	9.38933, 47.72088	hagebutz	h a g e b u tz	hagebutze	h a g e b u tz e	1
+509	MH N8	II_92_0001	Götzingen, Götzingen	9.39465, 49.49693	hågebutte	h å g e b u tt e	hāchebutte	h ā ch e b u tt e	3
+510	MH V5	II_93_0004	Korb, Korb	9.39732, 49.35594	hachebutze	h a ch e b u tz e	hagebutze	h a g e b u tz e	2
+511	SIG r4	III_37_0057	Riedheim, Riedheim	9.41014, 47.70429	hagebutza	h a g e b u tz a	hagebutze	h a g e b u tz e	1
+512	MH N11	II_92_0005	Bofsheim, Bofsheim	9.41226, 49.4714	hachebudde	h a ch e b u dd e	hachelbudde	h a ch e l b u dd e	1
+513	SIG o4	III_36_0094	Limpach, Limpach	9.42902, 47.79495	hagebutze	h a g e b u tz e	hagebtze	h a g e b tz e	1
+514	SIG o6	III_36_0096	Urnau, Urnau	9.43083, 47.76354	hagebutze	h a g e b u tz e	haggebutze	h a gg e b u tz e	1
+515	MH V4	II_93_0006	Unterkessach, Unterkessach	9.43829, 49.34571	hachebutze	h a ch e b u tz e	hagebutze	h a g e b u tz e	2
+516	MH E4	II_91_0003	Altheim, Altheim	9.4436, 49.51915	hachebutte	h a ch e b u tt e	haachebutte	h aa ch e b u t t e	1
+517	MH N7	II_92_0009	Sindolsheim, Sindolsheim	9.45384, 49.48715	hachebutte	h a ch e b u tt e	hachebudde	h a ch e b u dd e	2
+518	MH N9	II_92_0008	Rosenberg, Rosenberg	9.4752, 49.45583	håchebudde	h å ch e b u dd e	hachebudde	h a ch e b u dd e	1
+519	MH N6	II_92_0133	Bronnacker, Bronnacker	9.48305, 49.4446	hachebudde	h a ch e b u dd e	hachebutze	h a ch e b u tz e	2
+520	STU u2	III_26_0084	Bissingen/Teck, Bissingen-Teck	9.49128, 48.60024	hagabutza	h a g a b u tz a	hagebutze	h a g e b u tz e	2
+521	MH W11	II_93_0010	Merchingen, Merchingen	9.50633, 49.4003	hachebutze	h a ch e b u tz e	hachebutte	h a ch e b u tt e	1
+522	MH O1	II_92_0010	Hohenstadt, Hohenstadt	9.51685, 49.49168	hachebutte	h a ch e b u tt e	hachebudde	h a ch e b u dd e	2
+523	MH W3	II_93_0012	Erlenbach, Erlenbach	9.5514, 49.38553	haihebutze	h a i h e b u tz e	hachebutte	h a ch e b u tt e	2
+524	MH g1	II_88_0024	Dertingen über Wertheim a.M., Dertingen	9.61957, 49.7665	håchabutta	h å ch a b u tt a	ha͞ochăbuddă	h a ͞ o ch ă b u dd ă	7
+525	STU k1	III_24_0105	Wäschenbeuren, Wäschenbeuren	9.68695, 48.75984	hagabutta	h a g a b u tt a	hagêbuttê	h a g ê b u tt ê	2
+526	MH y1	II_89_0036	Großrinderfeld, Grossrinderfeld	9.73405, 49.66558	haochebutte	h a o ch e b u tt e	hoachebutte	h o a ch e b u tt e	2
+527	Co W 10	III_16_0072, III_16_0073	Binzen, Binzen, Märkt	7.62403, 47.63133	hagabutta	h a g a b u tt a	hagebutti	h a g e b u tt i	2
+528	Co W 10	III_16_0072, III_16_0073	Binzen, Binzen, Märkt	7.62403, 47.63133	hagabutta	h a g a b u tt a	hagebutta	h a g e b u tt a	1
+529	Co W 10	III_16_0072, III_16_0073	Binzen, Binzen, Märkt	7.62403, 47.63133	hagabutta	h a g a b u tt a	hangabutte	h a n g a b u tt e	2
+530	Co W 19 , Co W 20	III_16_0079, III_16_0082, III_16_0083	Lörrach, Lörrach , Lörrach, Lörrach <Adolf Hitler Schule>	7.66409, 47.61258	hagebutte	h a g e b u tt e	hagebuttä	h a g e b u tt ä	1
+531	Co W 19 , Co W 20	III_16_0079, III_16_0082, III_16_0083	Lörrach, Lörrach , Lörrach, Lörrach <Adolf Hitler Schule>	7.66409, 47.61258	hagebutte	h a g e b u tt e	hagebudde	h a g e b u dd e	2
+532	Co W 19 , Co W 20	III_16_0079, III_16_0082, III_16_0083	Lörrach, Lörrach , Lörrach, Lörrach <Adolf Hitler Schule>	7.66409, 47.61258	hagebuttä	h a g e b u tt ä	hagebudde	h a g e b u dd e	3
+533	Co B1	III_14_0051, III_14_0050	Tunsel, Tunsel	7.66581, 47.90315	hagabutte	h a g a b u tt e	hagebutta	h a g e b u tt a	2
+534	Co B1	III_14_0051, III_14_0050	Tunsel, Tunsel	7.66581, 47.90315	hagabutte	h a g a b u tt e	hagabuttä	h a g a b u tt ä	1
+535	Co B11	III_14_0052, III_14_0053	Bad Krozingen, Bad Krozingen	7.70333, 47.91813	hāgebutte	h ā g e b u tt e	hagebutze	h a g e b u tz e	2
+536	Co B11	III_14_0052, III_14_0053	Bad Krozingen, Bad Krozingen	7.70333, 47.91813	hāgebutze	h ā g e b u tz e	hagebutze	h a g e b u tz e	1
+537	Stra R 11	III_11_0111, III_11_0110	Kappel a. Rh., Kappel a. Rh., Grafenhausen	7.74182, 48.29235	hagäbudä	h a g ä b u d ä	hagebutte	h a g e b u tt e	4
+538	Stra R 11	III_11_0111, III_11_0110	Kappel a. Rh., Kappel a. Rh., Grafenhausen	7.74182, 48.29235	hagäbudä	h a g ä b u d ä	hagabutta	h a g a b u tt a	4
+539	Stra Y 8	III_12_0038, III_12_0039, III_12_0037	Herbolzheim a. d. Bleich, Herbolzheim	7.77743, 48.22249	hagebutte	h a g e b u tt e	hagebuttr	h a g e b u tt r	1
+540	Co Xa 3	III_17_0045, III_17_0044, III_17_0046	Rheinfelden-Stadt (Baden), Rheinfelden	7.78875, 47.55945	hagebutte	h a g e b u tt e	hagäbutze	h a g ä b u tz e	2
+541	Co Xa 3	III_17_0045, III_17_0044, III_17_0046	Rheinfelden-Stadt (Baden), Rheinfelden	7.78875, 47.55945	hagebutte	h a g e b u tt e	hagebutze	h a g e b u tz e	1
+542	Co X 14	III_16_0103, III_16_0104	Minseln, Minseln	7.79067, 47.60301	hagebutte	h a g e b u tt e	hagebutt	h a g e b u tt	1
+543	Co X 11	III_16_0107, III_16_0108	Wiechs, Wiechs	7.81236, 47.63655	hagebutte	h a g e b u tt e	hagebudde	h a g e b u dd e	2
+544	Stra R 9	III_11_0116, III_11_0115	Altdorf, Altdorf	7.81401, 48.26606	hagebudde	h a g e b u dd e	hagebuddere	h a g e b u dd e r e	2
+545	Stra S 2, Stra S 3	III_11_0121	Sulz, Langenhard-Sulz	7.86031, 48.31851	hagebutte	h a g e b u tt e	hagebutt	h a g e b u tt	1
+546	Stra L 12	III_11_0060, III_11_0059	Lahr (Lahr/Schwarzwald), Lahr	7.87603, 48.34018	hegebutte	h e g e b u tt e	hagebutte	h a g e b u tt e	1
+547	Stra L 12	III_11_0060, III_11_0059	Lahr (Lahr/Schwarzwald), Lahr	7.87603, 48.34018	hegebutte	h e g e b u tt e	hagebutt	h a g e b u tt	2
+548	Stra w 9/2, Stra w 9/1	III_10_0058	Hesselhurst, Hesselhurst	7.88114, 48.52042	hagebutt	h a g e b u tt	hagebudde	h a g e b u dd e	3
+549	Co K14	III_14_0164, III_14_0163	Fröhnd, Fröhnd-Stutz, Fröhnd-Ittenschwand	7.88397, 47.7603	hagebutte	h a g e b u tt e	hagebude	h a g e b u d e	2
+550	Co C7	III_14_0068	Hofsgrund, Hofsgrund	7.89778, 47.90096	hagäbutzä	h a g ä b u tz ä	hagebutze	h a g e b u tz e	2
+551	Co C7	III_14_0068	Hofsgrund, Hofsgrund	7.89778, 47.90096	hagbutz	h a g b u tz	hagebutze	h a g e b u tz e	2
+552	Co Ya 2	III_17_0051, III_17_0048, III_17_0053, III_17_0052, III_17_0049, III_17_0054, III_17_0055	Obersäckingen, Säckingen	7.96171, 47.57476	hagebutte	h a g e b u tt e	hagebudde	h a g e b u dd e	2
+553	TUTT L4/2, Co K12, TUTT L4/1, Co R15, TUTT D5	III_15_0073, III_14_0176	Todtmoos, Todtmoos (-Rütte), Todtmoos , Todtmoos	8.00438, 47.74133	hagabude	h a g a b u d e	hagebude	h a g e b u d e	1
+554	TUTT L4/2, Co K12, TUTT L4/1, Co R15, TUTT D5	III_15_0073, III_14_0176	Todtmoos, Todtmoos (-Rütte), Todtmoos , Todtmoos	8.00438, 47.74133	hagabude	h a g a b u d e	hagabutta	h a g a b u tt a	3
+555	TUTT L4/2, Co K12, TUTT L4/1, Co R15, TUTT D5	III_15_0073, III_14_0176	Todtmoos, Todtmoos (-Rütte), Todtmoos , Todtmoos	8.00438, 47.74133	hagebutte	h a g e b u tt e	hagebude	h a g e b u d e	2
+556	TUTT L4/2, Co K12, TUTT L4/1, Co R15, TUTT D5	III_15_0073, III_14_0176	Todtmoos, Todtmoos (-Rütte), Todtmoos , Todtmoos	8.00438, 47.74133	hagebutte	h a g e b u tt e	hagabutta	h a g a b u tt a	2
+557	TUTT L4/2, Co K12, TUTT L4/1, Co R15, TUTT D5	III_15_0073, III_14_0176	Todtmoos, Todtmoos (-Rütte), Todtmoos , Todtmoos	8.00438, 47.74133	hagebudde	h a g e b u dd e	hagebude	h a g e b u d e	1
+558	TUTT L4/2, Co K12, TUTT L4/1, Co R15, TUTT D5	III_15_0073, III_14_0176	Todtmoos, Todtmoos (-Rütte), Todtmoos , Todtmoos	8.00438, 47.74133	hagebudde	h a g e b u dd e	hagabutta	h a g a b u tt a	4
+559	KST L10	III_6_0093, III_6_0092	Forstfeld, Forstfeld	8.03702, 48.859	hågebudde	h å g e b u dd e	hagebutt	h a g e b u tt	4
+560	TÜB D1/2	III_11_0069, III_11_0068	Nordrach, Nordrach	8.08082, 48.39898	hagebutte	h a g e b u tt e	hagebudde	h a g e b u dd e	2
+561	TÜB w2	III_10_0066, III_10_0067	Ödsbach, Oedsbach	8.08784, 48.49713	hagebudde	h a g e b u dd e	hagebutte	h a g e b u tt e	2
+562	TUTT L/8,9	III_15_0098, III_15_0099	Hierbach - Wilfingen, Hierbach, Wilfingen	8.09123, 47.686	hagebutze	h a g e b u tz e	hagebutza	h a g e b u tz a	1
+563	TUTT h3, TUTT p1	III_13_0081, III_13_0080, III_13_0078, III_13_0079	St. Märgen-Schweighöfe, St. Märgen, St. Märgen	8.09239, 48.00756	hagebutze	h a g e b u tz e	hagebude	h a g e b u d e	2
+564	TUTT h3, TUTT p1	III_13_0081, III_13_0080, III_13_0078, III_13_0079	St. Märgen-Schweighöfe, St. Märgen, St. Märgen	8.09239, 48.00756	hagebutze	h a g e b u tz e	hagebutte	h a g e b u tt e	1
+565	TUTT h3, TUTT p1	III_13_0081, III_13_0080, III_13_0078, III_13_0079	St. Märgen-Schweighöfe, St. Märgen, St. Märgen	8.09239, 48.00756	hagebůtze	h a g e b ů tz e	hagebude	h a g e b u d e	3
+566	TUTT h3, TUTT p1	III_13_0081, III_13_0080, III_13_0078, III_13_0079	St. Märgen-Schweighöfe, St. Märgen, St. Märgen	8.09239, 48.00756	hagebůtze	h a g e b ů tz e	hagebutte	h a g e b u tt e	2
+567	TUTT h3, TUTT p1	III_13_0081, III_13_0080, III_13_0078, III_13_0079	St. Märgen-Schweighöfe, St. Märgen, St. Märgen	8.09239, 48.00756	hagebůtze	h a g e b ů tz e	hagebutze	h a g e b u tz e	1
+568	TUTT S5, TUTT Sa8	III_17_0060	Luttingen, Luttingen und Grunholz, Luttingen	8.09878, 47.57252	hāgäbuddä	h ā g ä b u dd ä	hagebutte	h a g e b u tt e	5
+569	TÜB S5, TÜB S6	III_12_0063, III_12_0062, III_12_0061	Unterprechtal, Oberprechtal, Unterprechtal, Oberprechtal	8.12114, 48.20548	hagebutte	h a g e b u tt e	hagebudde	h a g e b u dd e	2
+570	TUTT L1	III_15_0112, III_15_0111	Urberg, Urberg	8.12409, 47.73478	hagäbutzä	h a g ä b u tz ä	hagäbutzgä	h a g ä b u tz g ä	1
+571	TUTT L1	III_15_0112, III_15_0111	Urberg, Urberg	8.12409, 47.73478	hagäbutzä	h a g ä b u tz ä	hagebutzge	h a g e b u tz g e	3
+572	TÜB h12	III_9_0093, III_9_0094	Lauf, Lauf	8.12648, 48.65317	hagebutte	h a g e b u tt e	hagebudde	h a g e b u dd e	2
+573	TÜB D2/2, TÜB D3, TÜB D2/1, TÜB E1	III_11_0077, III_11_0076	Oberharmersbach, Oberharmersbach	8.12723, 48.37386	hagebutte	h a g e b u tt e	hagebuddi	h a g e b u dd i	3
+574	TÜB D2/2, TÜB D3, TÜB D2/1, TÜB E1	III_11_0077, III_11_0076	Oberharmersbach, Oberharmersbach	8.12723, 48.37386	hāgebudde	h ā g e b u dd e	hagebutte	h a g e b u tt e	3
+575	TÜB D2/2, TÜB D3, TÜB D2/1, TÜB E1	III_11_0077, III_11_0076	Oberharmersbach, Oberharmersbach	8.12723, 48.37386	hāgebudde	h ā g e b u dd e	hagebuddi	h a g e b u dd i	2
+576	TUTT D4	III_14_0173, III_14_0171, III_14_0174, III_14_0172	St. Blasien, St. Blasien	8.12792, 47.76144	hagebutze	h a g e b u tz e	haagebudde	h aa g e b u d d e	3
+577	TUTT D4	III_14_0173, III_14_0171, III_14_0174, III_14_0172	St. Blasien, St. Blasien	8.12792, 47.76144	hagebutze	h a g e b u tz e	hagebudde	h a g e b u dd e	2
+578	TUTT L12	III_15_0107, III_15_0106, III_15_0104, III_15_0105	Remetschwiel/Brunnadern, Brunnadern, Remetschwiel	8.14553, 47.68929	hagebutze	h a g e b u tz e	hagebudde	h a g e b u dd e	2
+579	TUTT M2	III_15_0113, III_15_0129	Höchenschwand, Höchenschwand	8.16491, 47.73427	hagebutze	h a g e b u tz e	hagäbutze	h a g ä b u tz e	1
+580	TUTT L14, TUTT L13	III_15_0123	Bannholz, Remetschwiel und Bannholz, Bannholz	8.167, 47.67614	hagebutzar	h a g e b u tz a r	hagebutze	h a g e b u tz e	2
+581	TUTT L14, TUTT L13	III_15_0123	Bannholz, Remetschwiel und Bannholz, Bannholz	8.167, 47.67614	hagebutzä	h a g e b u tz ä	hagebutze	h a g e b u tz e	1
+582	TÜB E2, TÜB q1	III_11_0080, ungeodnet	Seebach, Seebach	8.20278, 48.57466	hagebutt	h a g e b u tt	hagebutze	h a g e b u tz e	2
+583	TÜB E2, TÜB q1	III_11_0080, ungeodnet	Seebach, Seebach	8.20278, 48.57466	hagebutte	h a g e b u tt e	hagebutt	h a g e b u tt	1
+584	TÜB E2, TÜB q1	III_11_0080, ungeodnet	Seebach, Seebach	8.20278, 48.57466	hagebutte	h a g e b u tt e	hagebutze	h a g e b u tz e	1
+585	TUTT i6	III_13_0091, III_13_0092	Furtwangen (und Furtwangen-Katzensteig), Furtwangen	8.20648, 48.05227	hagebutte	h a g e b u tt e	haggebutze	h a gg e b u tz e	2
+586	TUTT i6	III_13_0091, III_13_0092	Furtwangen (und Furtwangen-Katzensteig), Furtwangen	8.20648, 48.05227	hagebutte	h a g e b u tt e	hagebutze	h a g e b u tz e	1
+587	TÜB E4, TÜB M4	III_11_0147, III_11_0079	Oberwolfach, Oberwolfach, Oberwolfach-Walke	8.21698, 48.3174	hagebutte	h a g e b u tt e	hegebutte	h e g e b u tt e	1
+588	TÜB M3/2, TÜB M3/1	III_11_0150	Wolfach, Wolfach	8.22076, 48.30289	hagebuze	h a g e b u z e	hagebutte	h a g e b u tt e	2
+589	TÜB M3/2, TÜB M3/1	III_11_0150	Wolfach, Wolfach	8.22076, 48.30289	hāgebutze	h ā g e b u tz e	hagebutte	h a g e b u tt e	2
+590	TÜB T2	III_12_0072, III_12_0073	Reichenbach, Reichenbach	8.22958, 48.21343	hagebutze	h a g e b u tz e	hagebuze	h a g e b u z e	1
+591	TÜB T1	III_12_0065, III_12_0066	Hornberg, Hornberg	8.23036, 48.21193	hagebutte	h a g e b u tt e	hagebutze	h a g e b u tz e	1
+592	TÜB T1	III_12_0065, III_12_0066	Hornberg, Hornberg	8.23036, 48.21193	hagebutte	h a g e b u tt e	hagebudde	h a g e b u dd e	2
+593	KST T14/3, KST T14/4, KST T14/1	III_7_0131	Baden-Baden-West, Baden-Baden , Baden-Baden, Baden-Baden Weststadt	8.24094, 48.76273	hagebutte	h a g e b u tt e	hagebutt	h a g e b u tt	1
+594	KST T14/3, KST T14/4, KST T14/1	III_7_0131	Baden-Baden-West, Baden-Baden , Baden-Baden, Baden-Baden Weststadt	8.24094, 48.76273	hagebudde	h a g e b u dd e	hagebutt	h a g e b u tt	3
+595	TUTT M11	III_15_0125, III_15_0126	Berau, Berau	8.25823, 47.69472	hagebutze	h a g e b u tz e	hagebutte	h a g e b u tt e	1
+596	TÜB M10	III_11_0153, III_11_0152	Lehengericht, Vorderlehengericht, Hinterlehengericht	8.30807, 48.2924	hagebutze	h a g e b u tz e	hagabuda	h a g a b u d a	4
+597	TÜB x4	III_10_0144, III_10_0143	Kniebis, Kniebis	8.3101, 48.47233	hāgebutte	h ā g e b u tt e	hagebutte	h a g e b u tt e	1
+598	TÜB x4	III_10_0144, III_10_0143	Kniebis, Kniebis	8.3101, 48.47233	hāgebutte	h ā g e b u tt e	hagebutze	h a g e b u tz e	2
+599	TUTT M6	III_14_0183, III_14_0182, III_14_0180, III_14_0181	Birkendorf, Birkendorf	8.3126, 47.74971	hagebutze	h a g e b u tz e	haggebutze	h a gg e b u tz e	1
+600	TUTT M6	III_14_0183, III_14_0182, III_14_0180, III_14_0181	Birkendorf, Birkendorf	8.3126, 47.74971	hagebutze	h a g e b u tz e	hagenbutze	h a g e n b u tz e	1
+601	KST M5	III_6_0103	Waldprechtsweier, Waldprechtsweier	8.33173, 48.8612	hawerbutze	h a w e r b u tz e	hagebutten	h a g e b u tt e n	4
+602	KST M5	III_6_0103	Waldprechtsweier, Waldprechtsweier	8.33173, 48.8612	hagebutte	h a g e b u tt e	hagebutten	h a g e b u tt e n	1
+603	TUTT c3	III_12_0156, III_12_0155, III_12_0157	St. Georgen, St. Georgen	8.33183, 48.12564	haggäbuds	h a gg ä b u d s	haggebutze	h a gg e b u tz e	4
+604	TUTT c3	III_12_0156, III_12_0155, III_12_0157	St. Georgen, St. Georgen	8.33183, 48.12564	haggäbuds	h a gg ä b u d s	hagebutze	h a g e b u tz e	5
+605	TÜB c1	III_25_0006, III_25_0007	Obertsrot und Hilpertsau, Hilpertsau, Obertsrot	8.34633, 48.74303	hagebutte	h a g e b u tt e	hagebutt	h a g e b u tt	1
+606	KST N2, KST U6	III_24_0002	Sulzbach, Sulzbach	8.35791, 48.80596	hagebutt	h a g e b u tt	hagebudde	h a g e b u dd e	3
+607	KST N2, KST U6	III_24_0002	Sulzbach, Sulzbach	8.35791, 48.80596	hagebutte	h a g e b u tt e	hagebudde	h a g e b u dd e	2
+608	TUTT U14	III_38_0009, III_38_0008	Küßnach, Küssnach	8.36574, 47.59396	hagebutze	h a g e b u tz e	hagebutte	h a g e b u tt e	1
+609	TÜB N1	III_30_0007	Schenkenzell, Schenkenzell	8.37253, 48.31105	hagebudde	h a g e b u dd e	hagebutze	h a g e b u tz e	2
+610	KST F14/2, KST F14/1	III_22_0004, III_22_0006	Ettlingen , Ettlingen, Ettlingen	8.40245, 48.94247	hagebutte	h a g e b u tt e	hagebutt	h a g e b u tt	1
+611	KST F14/2, KST F14/1	III_22_0004, III_22_0006	Ettlingen , Ettlingen, Ettlingen	8.40245, 48.94247	hagebutze	h a g e b u tz e	hagebutt	h a g e b u tt	2
+612	KST r2	III_20_0003, III_20_0004	Hochstetten, Hochstetten	8.41566, 49.13702	hagebutze	h a g e b u tz e	haarebutze	h aa r e b u tz e	2
+613	TUTT U1	III_38_0003, III_38_0002	Erzingen, Erzingen	8.42011, 47.66108	hagebutze	h a g e b u tz e	hăgeₔbutzə	h ă g e ₔ b u tz ə	3
+614	KST k2	III_19_0007, III_19_0004, III_19_0005	Philippsburg, Philippsburg	8.45298, 49.235	hachebudde	h a ch e b u dd e	haggebutze	h a gg e b u tz e	4
+615	KST k2	III_19_0007, III_19_0004, III_19_0005	Philippsburg, Philippsburg	8.45298, 49.235	hachebudde	h a ch e b u dd e	hachebutte	h a ch e b u tt e	2
+616	TÜB U2	III_31_0007, III_31_0005, III_31_0006	Weiler/Villingen, Tennenbronn	8.46043, 48.17227	hagebutz	h a g e b u tz	hegebutze	h e g e b u tz e	2
+617	TÜB U2	III_31_0007, III_31_0005, III_31_0006	Weiler/Villingen, Tennenbronn	8.46043, 48.17227	hagebutz	h a g e b u tz	hagebutze	h a g e b u tz e	1
+618	KST O8	III_23_0008, III_23_0009, III_23_0010	Langenalb, Langenalb	8.50104, 48.84402	hagebutte	h a g e b u tt e	hagenbutza	h a g e n b u tz a	3
+619	KST O8	III_23_0008, III_23_0009, III_23_0010	Langenalb, Langenalb	8.50104, 48.84402	hagebutte	h a g e b u tt e	hagabuza	h a g a b u z a	4
+620	KST O8	III_23_0008, III_23_0009, III_23_0010	Langenalb, Langenalb	8.50104, 48.84402	hagebutte	h a g e b u tt e	hagerbutza	h a g e r b u tz a	3
+621	KST s7	III_20_0015, III_20_0014, III_20_0013	Staffort, Staffort	8.51034, 49.09079	hagabutza	h a g a b u tz a	hagebutza	h a g e b u tz a	1
+622	KST s7	III_20_0015, III_20_0014, III_20_0013	Staffort, Staffort	8.51034, 49.09079	hagabutza	h a g a b u tz a	hagebutte	h a g e b u tt e	3
+623	KST s7	III_20_0015, III_20_0014, III_20_0013	Staffort, Staffort	8.51034, 49.09079	hagabutza	h a g a b u tz a	hagebutze	h a g e b u tz e	2
+624	MH z4/2	II_58_0065, II_58_0066	Mannheim-Käfertal, Käferthal	8.51715, 49.51259	hagebutte	h a g e b u tt e	hachebutt	h a ch e b u tt	3
+625	MH z4/2	II_58_0065, II_58_0066	Mannheim-Käfertal, Käferthal	8.51715, 49.51259	hagebutte	h a g e b u tt e	hachäbuttä	h a ch ä b u tt ä	4
+626	KST z8	III_21_0012, III_21_0011, III_21_0013, III_21_0010, III_21_0009	Weingarten, Weingarten	8.53114, 49.0533	hagebutze	h a g e b u tz e	hageputzen	h a g e p u tz e n	2
+627	TUTT l2	III_33_0017, III_33_0018, III_33_0016	Bad Dürrheim, Bad Dürrheim	8.53214, 48.01807	hagebutze	h a g e b u tz e	hagebuze	h a g e b u z e	1
+628	TUTT z8	III_35_0020, III_35_0019	Blumberg, Blumberg	8.53265, 47.83981	hagebutze	h a g e b u tz e	hagebútze	h a g e b ú tz e	1
+629	TUTT z3	III_35_0015, III_35_0013, III_35_0014	Sumpfohren, Sumpfohren	8.53796, 47.90851	hagebutze	h a g e b u tz e	hagĕbutzĕ	h a g ĕ b u tz ĕ	2
+630	KST G1	III_22_0010, III_22_0013, III_22_0012, III_22_0011	Söllingen, Söllingen	8.5425, 48.98622	hagebutze	h a g e b u tz e	hagenbutzen	h a g e n b u tz e n	2
+631	TUTT G2/2, TUTT G2/1	III_36_0019	Epfenhofen, Epfenhofen	8.55432, 47.81867	hagabutza	h a g a b u tz a	hagabuze	h a g a b u z e	2
+632	TUTT G2/2, TUTT G2/1	III_36_0019	Epfenhofen, Epfenhofen	8.55432, 47.81867	hagebutze	h a g e b u tz e	hagabuze	h a g a b u z e	2
+633	KST G8	III_22_0024, III_22_0018, III_22_0020, III_22_0021, III_22_0019	Königsbach, Stein, Königsbach	8.61207, 48.96515	hagebutze	h a g e b u tz e	hegebutze	h e g e b u tz e	1
+634	TUTT s4, TUTT A1	III_34_0028	Geisingen (Kirchenhausen), Geisingen, Geisingen	8.65129, 47.93283	hagebutta	h a g e b u tt a	hagebutze	h a g e b u tz e	2
+635	KST l4	III_19_0018, III_19_0020, III_19_0019	Mingolsheim, Mingolsheim	8.65316, 49.21986	hagebutt	h a g e b u tt	hagenbutzen	h a g e n b u tz e n	4
+636	KST l4	III_19_0018, III_19_0020, III_19_0019	Mingolsheim, Mingolsheim	8.65316, 49.21986	hagebutt	h a g e b u tt	hugebutte	h u g e b u tt e	2
+637	KST l4	III_19_0018, III_19_0020, III_19_0019	Mingolsheim, Mingolsheim	8.65316, 49.21986	hagebutt	h a g e b u tt	hagelbudde	h a g e l b u dd e	4
+638	KST P2	III_23_0032, III_23_0029, III_23_0030, III_23_0031	Brötzingen, Pforzheim-Brötzingen	8.66799, 48.889	hagebutte	h a g e b u tt e	hogebutze	h o g e b u tz e	2
+639	KST P2	III_23_0032, III_23_0029, III_23_0030, III_23_0031	Brötzingen, Pforzheim-Brötzingen	8.66799, 48.889	hagebutte	h a g e b u tt e	hagebutze	h a g e b u tz e	1
+640	TUTT P6	III_37_0013, III_37_0012, III_37_0011, III_37_0010	Büsingen, Büsingen	8.69282, 47.69702	hagebutze	h a g e b u tz e	hagebudde	h a g e b u dd e	2
+641	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	hagebutt	h a g e b u tt	hagabutza	h a g a b u tz a	3
+642	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	hagebutt	h a g e b u tt	hagebutz	h a g e b u tz	1
+643	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	hagebutt	h a g e b u tt	hagebutte	h a g e b u tt e	1
+644	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	hagebutt	h a g e b u tt	hȃgebutze	h ȃ g e b u tz e	3
+645	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	hagebutt	h a g e b u tt	hagenbutzen	h a g e n b u tz e n	4
+646	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	hagebutt	h a g e b u tt	hagebutze	h a g e b u tz e	2
+647	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	hagebutze	h a g e b u tz e	hagabutza	h a g a b u tz a	2
+648	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	hagebutze	h a g e b u tz e	hagebutz	h a g e b u tz	1
+649	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	hagebutze	h a g e b u tz e	hagebutte	h a g e b u tt e	1
+650	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	hagebutze	h a g e b u tz e	hȃgebutze	h ȃ g e b u tz e	1
+651	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	hagebutze	h a g e b u tz e	hagenbutzen	h a g e n b u tz e n	2
+652	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	hagebutze	h a g e b u tz e	hagebutt	h a g e b u tt	2
+653	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	hagebudze	h a g e b u d z e	hagabutza	h a g a b u tz a	3
+654	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	hagebudze	h a g e b u d z e	hagebutz	h a g e b u tz	2
+655	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	hagebudze	h a g e b u d z e	hagebutte	h a g e b u tt e	2
+656	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	hagebudze	h a g e b u d z e	hȃgebutze	h ȃ g e b u tz e	2
+657	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	hagebudze	h a g e b u d z e	hagenbutzen	h a g e n b u tz e n	3
+658	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	hagebudze	h a g e b u d z e	hagebutt	h a g e b u tt	3
+659	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	hagebudze	h a g e b u d z e	hagebutze	h a g e b u tz e	1
+660	KST e2/1, KST e2/2	III_18_0023, III_18_0036	Wiesloch, Wiesloch	8.70178, 49.29504	hagbutte	h a g b u tt e	hagebutte	h a g e b u tt e	1
+661	KST m11	III_19_0025, III_19_0026	Östringen, Östringen	8.7137, 49.22037	hagebutte	h a g e b u tt e	haghebutzä	h a g h e b u tz ä	3
+662	KST m11	III_19_0025, III_19_0026	Östringen, Östringen	8.7137, 49.22037	hagebutte	h a g e b u tt e	haghebutzä̆	h a g h e b u tz ä ̆	4
+663	TUTT t4	III_34_0040, III_34_0041, III_34_0039	Immendingen, Immendingen	8.73032, 47.95055	hagäbutze	h a g ä b u tz e	haggebutze	h a gg e b u tz e	2
+664	TUTT t4	III_34_0040, III_34_0041, III_34_0039	Immendingen, Immendingen	8.73032, 47.95055	hagäbutze	h a g ä b u tz e	haggebutzä	h a gg e b u tz ä	3
+665	TUTT P5	III_37_0015	Gailingen, Gailingen	8.75499, 47.69685	haggebutze	h a gg e b u tz e	hagebutte	h a g e b u tt e	2
+666	TUTT P5	III_37_0015	Gailingen, Gailingen	8.75499, 47.69685	haggebutze	h a gg e b u tz e	hagebutze	h a g e b u tz e	1
+667	TUTT H11	III_36_0029, III_36_0028, III_36_0027	Weiterdingen, Weiterdingen	8.76917, 47.79954	hagebutze	h a g e b u tz e	hagebuze	h a g e b u z e	1
+668	KST m5	III_19_0032, III_19_0031, III_19_0030	Michelfeld, Michelfeld	8.7808, 49.22723	hagebutte	h a g e b u tt e	hagabutter	h a g a b u tt e r	2
+669	KST m5	III_19_0032, III_19_0031, III_19_0030	Michelfeld, Michelfeld	8.7808, 49.22723	hagebutte	h a g e b u tt e	hagebutze	h a g e b u tz e	1
+670	KST e5	III_18_0033, III_18_0034	Meckesheim, Meckesheim	8.81557, 49.32167	hageputze	h a g e p u tz e	hagebutze  	h a g e b u tz e  	3
+671	KST e5	III_18_0033, III_18_0034	Meckesheim, Meckesheim	8.81557, 49.32167	hageputze	h a g e p u tz e	hagebutze	h a g e b u tz e	1
+672	KST n11	III_19_0042, III_19_0043, III_19_0041	Elsenz, Elsenz	8.83766, 49.17408	hagebutze	h a g e b u tz e	hoagebutze	h o a g e b u tz e	1
+673	KST u5	III_20_0163, III_20_0045, III_20_0044, III_20_0042, III_20_0043	Sulzfeld, Sulzfeld	8.85671, 49.10336	hagabudza	h a g a b u d z a	hagabutze  	h a g a b u tz e  	4
+674	KST u5	III_20_0163, III_20_0045, III_20_0044, III_20_0042, III_20_0043	Sulzfeld, Sulzfeld	8.85671, 49.10336	hagabudza	h a g a b u d z a	hagabutza	h a g a b u tz a	1
+675	KST u5	III_20_0163, III_20_0045, III_20_0044, III_20_0042, III_20_0043	Sulzfeld, Sulzfeld	8.85671, 49.10336	hagabudza	h a g a b u d z a	hagebutze	h a g e b u tz e	3
+676	KST n12	III_19_0038, III_19_0040	Hilsbach, Hilsbach	8.86227, 49.1957	hagebutze	h a g e b u tz e	hagenbutzen	h a g e n b u tz e n	2
+677	KST f1	III_18_0041, III_18_0037, III_18_0039, III_18_0040, III_18_0038	Eschelbronn, Eschelbronn	8.86825, 49.3202	chagebutze	ch a g e b u tz e	haräbutzä	h a r ä b u tz ä	4
+678	KST f1	III_18_0041, III_18_0037, III_18_0039, III_18_0040, III_18_0038	Eschelbronn, Eschelbronn	8.86825, 49.3202	chagebutze	ch a g e b u tz e	harbutzer	h a r b u tz e r	4
+679	KST f1	III_18_0041, III_18_0037, III_18_0039, III_18_0040, III_18_0038	Eschelbronn, Eschelbronn	8.86825, 49.3202	chagebutze	ch a g e b u tz e	harebutzer	h a r e b u tz e r	3
+680	KST f1	III_18_0041, III_18_0037, III_18_0039, III_18_0040, III_18_0038	Eschelbronn, Eschelbronn	8.86825, 49.3202	chagebutze	ch a g e b u tz e	hagebutze	h a g e b u tz e	1
+681	KST f1	III_18_0041, III_18_0037, III_18_0039, III_18_0040, III_18_0038	Eschelbronn, Eschelbronn	8.86825, 49.3202	chagebutze	ch a g e b u tz e	haräbutze	h a r ä b u tz e	3
+682	KST f10	III_18_0043, III_18_0044	Daisbach, Daisbach	8.87705, 49.2938	hagebudde	h a g e b u dd e	hagerbudder	h a g e r b u dd e r	2
+683	KST f10	III_18_0043, III_18_0044	Daisbach, Daisbach	8.87705, 49.2938	hagebudde	h a g e b u dd e	hagebutte	h a g e b u tt e	2
+684	MH K8	II_59_0097	Neckarhäuserhof, Neckarhäuserhof	8.88191, 49.41513	hagebutte	h a g e b u tt e	hagebudde	h a g e b u dd e	2
+685	KST u3	III_20_0050, III_20_0047, III_20_0051, III_20_0049, III_20_0048	Eppingen, Eppingen	8.9098, 49.13704	hagebutze	h a g e b u tz e	hagabudza	h a g a b u d z a	3
+686	KST u3	III_20_0050, III_20_0047, III_20_0051, III_20_0049, III_20_0048	Eppingen, Eppingen	8.9098, 49.13704	hagebutze	h a g e b u tz e	hagabutza	h a g a b u tz a	2
+687	KST u3	III_20_0050, III_20_0047, III_20_0051, III_20_0049, III_20_0048	Eppingen, Eppingen	8.9098, 49.13704	hagebutze	h a g e b u tz e	hagebudze	h a g e b u d z e	1
+688	KST u3	III_20_0050, III_20_0047, III_20_0051, III_20_0049, III_20_0048	Eppingen, Eppingen	8.9098, 49.13704	hagebutze	h a g e b u tz e	hagebutza	h a g e b u tz a	1
+689	KST n9	III_19_0046	Ittlingen, Ittlingen	8.93691, 49.19224	hagebuze	h a g e b u z e	hagenbutze	h a g e n b u tz e	2
+690	KST n9	III_19_0046	Ittlingen, Ittlingen	8.93691, 49.19224	hagebutte	h a g e b u tt e	hagenbutze	h a g e n b u tz e	2
+691	MH K5	II_59_0093, II_59_0094	Pleutersbach, Pleutersbach	8.95293, 49.45367	harebutte	h a r e b u tt e	hagebutte	h a g e b u tt e	1
+692	MH K5	II_59_0093, II_59_0094	Pleutersbach, Pleutersbach	8.95293, 49.45367	harebutte	h a r e b u tt e	hagebudde	h a g e b u dd e	3
+693	MH K6/2, MH K6/1	II_59_0096	Allemühl, Allemühl	8.95618, 49.42613	hagebutte	h a g e b u tt e	harebutze	h a r e b u tz e	2
+694	MH K6/2, MH K6/1	II_59_0096	Allemühl, Allemühl	8.95618, 49.42613	hagebutze	h a g e b u tz e	harebutze	h a r e b u tz e	1
+695	TUTT C4, TUTT B11	III_35_0050	Mahlspüren, Mahlspüren	8.97748, 47.87563	haggebutze	h a gg e b u tz e	hagebutze	h a g e b u tz e	1
+696	KST u1	III_20_0053, III_20_0056, III_20_0054, III_20_0055	Gemmingen, Gemmingen	8.98358, 49.15633	hagebutte	h a g e b u tt e	hagebutze	h a g e b u tz e	1
+697	KST u1	III_20_0053, III_20_0056, III_20_0054, III_20_0055	Gemmingen, Gemmingen	8.98358, 49.15633	hagebutte	h a g e b u tt e	hagebuttä	h a g e b u tt ä	1
+698	KST u1	III_20_0053, III_20_0056, III_20_0054, III_20_0055	Gemmingen, Gemmingen	8.98358, 49.15633	hagebutte	h a g e b u tt e	hakenputzen	h a k e n p u tz e n	5
+699	TUTT J11	III_36_0051, III_36_0050	Güttingen, Güttingen	8.998, 47.77415	hagabutza	h a g a b u tz a	hagebuza	h a g e b u z a	2
+700	TUTT J11	III_36_0051, III_36_0050	Güttingen, Güttingen	8.998, 47.77415	hagabutza	h a g a b u tz a	hagebuze	h a g e b u z e	3
+701	TÜB g1	III_25_0044	Sindelfingen, Sindelfingen	9.00194, 48.70797	hegabutzâ	h e g a b u tz â	hagabutza	h a g a b u tz a	2
+702	TÜB g1	III_25_0044	Sindelfingen, Sindelfingen	9.00194, 48.70797	hagâbutzâ	h a g â b u tz â	hagabutza	h a g a b u tz a	2
+703	TUTT C2/2, TUTT C2/1	III_35_0052	Zoznegg, Zoznegg	9.04053, 47.89958	haggebutze	h a gg e b u tz e	hagebutzen	h a g e b u tz e n	2
+704	TUTT C2/2, TUTT C2/1	III_35_0052	Zoznegg, Zoznegg	9.04053, 47.89958	hageͣbutza	h a g e ͣ b u tz a	hagebutzen	h a g e b u tz e n	3
+705	MH T7	II_60_0072	Mörtelstein, Mörtelstein	9.04246, 49.35708	hagebutte	h a g e b u tt e	harebutte	h a r e b u tt e	1
+706	MH T7	II_60_0072	Mörtelstein, Mörtelstein	9.04246, 49.35708	hagebutte	h a g e b u tt e	hawerbutze	h a w e r b u tz e	3
+707	TUTT R6	III_37_0039, III_37_0040, III_37_0038	Reichenau, Reichenau	9.06125, 47.69789	hagebutte	h a g e b u tt e	hagebude	h a g e b u d e	2
+708	TUTT R6	III_37_0039, III_37_0040, III_37_0038	Reichenau, Reichenau	9.06125, 47.69789	hagebutte	h a g e b u tt e	hagebute	h a g e b u t e	1
+709	TUTT R6	III_37_0039, III_37_0040, III_37_0038	Reichenau, Reichenau	9.06125, 47.69789	hagebutte	h a g e b u tt e	hagebudde	h a g e b u dd e	2
+710	TUTT R4	III_37_0034, III_37_0033, III_37_0032	Allensbach, Allensbach	9.06699, 47.71535	hagabutte	h a g a b u tt e	hagebutte	h a g e b u tt e	1
+711	TUTT R4	III_37_0034, III_37_0033, III_37_0032	Allensbach, Allensbach	9.06699, 47.71535	hagabutte	h a g a b u tt e	hagebutze	h a g e b u tz e	2
+712	TUTT R4	III_37_0034, III_37_0033, III_37_0032	Allensbach, Allensbach	9.06699, 47.71535	hagabutte	h a g a b u tt e	haggebutte	h a gg e b u t t e	2
+713	KST g3	III_18_0062	Hüffenhardt, Hüffenhardt	9.08386, 49.2913	hagebutze	h a g e b u tz e	hagebutte	h a g e b u tt e	1
+714	TUTT K11	III_36_0061, III_36_0062, III_36_0063, III_36_0064, III_36_0060	Sipplingen, Sipplingen	9.09665, 47.79525	haggabutza	h a gg a b u tz a	hagebuze	h a g e b u z e	4
+715	TUTT K11	III_36_0061, III_36_0062, III_36_0063, III_36_0064, III_36_0060	Sipplingen, Sipplingen	9.09665, 47.79525	haggabutza	h a gg a b u tz a	hagabutza	h a g a b u tz a	1
+716	TUTT K11	III_36_0061, III_36_0062, III_36_0063, III_36_0064, III_36_0060	Sipplingen, Sipplingen	9.09665, 47.79525	haggabutza	h a gg a b u tz a	hagebutze	h a g e b u tz e	3
+717	KST o3	III_19_0058, III_19_0057	Bad Rappenau, Bad Rappenau	9.10212, 49.24032	hagebutze	h a g e b u tz e	hagerbudder	h a g e r b u dd e r	4
+718	MH T11	II_60_0079	Diedesheim, Diedesheim	9.11367, 49.34933	hagebutte	h a g e b u tt e	hagebutze	h a g e b u tz e	1
+719	TUTT v10	III_34_0058, III_34_0057	Messkirch, Messkirch	9.11537, 47.99484	hagebutze	h a g e b u tz e	hagĕbutzĕ	h a g ĕ b u tz ĕ	2
+720	MH T13	II_60_0081, II_60_0082	Mosbach, Mosbach	9.14619, 49.35501	hagebutte	h a g e b u tt e	hachebutte	h a ch e b u tt e	2
+721	MH T13	II_60_0081, II_60_0082	Mosbach, Mosbach	9.14619, 49.35501	hagebutte	h a g e b u tt e	hachebudde	h a ch e b u dd e	4
+722	SIG n13	III_36_0083, III_36_0085, III_36_0086	Mimmenausen, Mimmenausen	9.2852, 47.76025	hagebutze	h a g e b u tz e	hagebutte	h a g e b u tt e	1
+723	SIG q6	III_37_0045, III_37_0046	Ahausen, Ahausen	9.32247, 47.72502	hagebutz	h a g e b u tz	hagebutze	h a g e b u tz e	1
+724	SIG q6	III_37_0045, III_37_0046	Ahausen, Ahausen	9.32247, 47.72502	hagebutz	h a g e b u tz	hagbutz	h a g b u tz	1
+725	SIG r7	III_37_0051	Ittendorf, Ittendorf	9.34074, 47.70119	hagebutte	h a g e b u tt e	hagebutze	h a g e b u tz e	1
+726	SIG r7	III_37_0051	Ittendorf, Ittendorf	9.34074, 47.70119	hagebutte	h a g e b u tt e	hagebudde	h a g e b u dd e	2
+727	SIG r2	III_37_0050	Bermatingen, Bermatingen	9.34868, 47.73084	hagebutz	h a g e b u tz	hagĕbutzĕ	h a g ĕ b u tz ĕ	2
+728	SIG r2	III_37_0050	Bermatingen, Bermatingen	9.34868, 47.73084	hagebutze	h a g e b u tz e	hagĕbutzĕ	h a g ĕ b u tz ĕ	2
+729	SIG r3	III_37_0052, III_37_0054, III_37_0053, III_37_0055	Markdorf, Markdorf	9.38933, 47.72088	hagebutz	h a g e b u tz	hagäbuzä	h a g ä b u z ä	3
+730	SIG r3	III_37_0052, III_37_0054, III_37_0053, III_37_0055	Markdorf, Markdorf	9.38933, 47.72088	hagebutz	h a g e b u tz	hagenbutzen	h a g e n b u tz e n	3
+731	SIG r3	III_37_0052, III_37_0054, III_37_0053, III_37_0055	Markdorf, Markdorf	9.38933, 47.72088	hagebutz	h a g e b u tz	hagebutte	h a g e b u tt e	2
+732	SIG r3	III_37_0052, III_37_0054, III_37_0053, III_37_0055	Markdorf, Markdorf	9.38933, 47.72088	hagebutz	h a g e b u tz	hagebutze	h a g e b u tz e	1
+733	MH N5	II_92_0007, II_92_0006	Osterburken, Osterburken	9.42838, 49.4308	hachebutte	h a ch e b u tt e	hachebutten	h a ch e b u tt e n	1
+734	MH y1	II_89_0036	Großrinderfeld, Grossrinderfeld	9.73405, 49.66558	haochebutze	h a o ch e b u tz e	hoachebutte	h o a ch e b u tt e	3
+735	MH y1	II_89_0036	Großrinderfeld, Grossrinderfeld	9.73405, 49.66558	haochebutte	h a o ch e b u tt e	hoachebutte	h o a ch e b u tt e	2

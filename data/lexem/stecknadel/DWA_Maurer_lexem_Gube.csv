@@ -1,0 +1,4 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Hag x 2	na	Herbitzheim	7.08355, 49.01459	gåp	na	999	gåp	na	999	Gube	na	999
+1	Hag E 6/2	III_5_0028, III_5_0029	Saarbuckenheim (Sarre-Union), Saarbuckenheim	7.08686, 48.93919	gupp	gupp, gubb	0	gup	gup	0	Gube	Gube	0
+2	Co Vd 8	na	Biedertal (Biederthal)	7.44789, 47.46978	gube	na	999	gube	na	999	Gube	na	999

@@ -1,0 +1,8 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Co A6	na	Heitersheim	7.66768, 47.87108	gaisamutla	na	999	geisemuddle	na	999	Geißmuddle	na	999
+1	Co B2	na	Gallenweiler	7.68027, 47.88527	gaisamutla	na	999	geisemuddle	na	999	Geißmuddle	na	999
+2	na	III_14_0046	Buggingen	7.63735, 47.8479	na	geißmudle	999	na	geismuddle	999	na	Geißmuddle	999
+3	na	III_14_0051	Tunsel	7.66581, 47.90315	na	geißmuttel	999	na	geismuddel	999	na	Geißmuddle	999
+4	na	III_14_0056	Wettelbrunn	7.69689, 47.87134	na	gaißmudle	999	na	geismuddle	999	na	Geißmuddle	999
+5	na	III_12_0121	Endingen	7.70312, 48.1419	na	geißemuddle	999	na	geisemuddle	999	na	Geißmuddle	999
+6	na	III_13_0138	Witt u	7.814, 47.94661	na	gaißmuddle	999	na	geismuddle	999	na	Geißmuddle	999

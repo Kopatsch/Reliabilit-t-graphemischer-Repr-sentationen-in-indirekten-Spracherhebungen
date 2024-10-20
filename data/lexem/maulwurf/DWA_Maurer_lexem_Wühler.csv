@@ -1,0 +1,309 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Stra B 1	III_10_0038	Griesheim (Griesheim-Près-Molsheim), Griesheim	7.53227, 48.50237	wiēler	wieler	1	wieler	wieler	0	Wühler	Wühler	0
+1	TÜB h10	na	Oberachern	8.08066, 48.6193	wühler	na	999	wühler	na	999	Wühler	na	999
+2	KST y 6	na	Karlsruhe	8.40919, 49.01038	wühler	na	999	wühler	na	999	Wühler	na	999
+3	KST r1	III_20_0002	Liedolsheim, Liedolsheim	8.41451, 49.16221	wiehla	wiehla	0	wieler	wieler	0	Wühler	Wühler	0
+4	KST r2	III_20_0003, III_20_0004	Hochstetten, Hochstetten	8.41566, 49.13702	wiehler	wiehler, wühler	0	wieler	wühler, wieler	0	Wühler	Wühler	0
+5	KST k4	na	Rußheim	8.42435, 49.18617	wīla	na	999	wiler	na	999	Wühler	na	999
+6	KST F8	na	Grünwettersbach	8.46671, 48.95784	wühler	na	999	wühler	na	999	Wühler	na	999
+7	Ma h1/2	II_59_0043, II_59_0061, II_59_0042, II_59_0056, II_59_0047	Mannheim, Mannheim	8.46678, 49.4865	wühler	wihler, wühler, wiehler	0	wühler	wiler, wühler, wieler	0	Wühler	Wühler	0
+8	KST r6	III_20_0010	Graben, Graben	8.48928, 49.16535	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+9	Ma h2/2	II_59_0064	Neckarau, Mannheim	8.49104, 49.45335	wihler	wiehler	1	wiler	wieler	1	Wühler	Wühler	0
+10	KST s5	na	Spöck	8.51033, 49.11179	wühler	na	999	wühler	na	999	Wühler	na	999
+11	MH H10/2	na	Mannheim-Rheinau	8.53056, 49.4292	wihler	na	999	wiler	na	999	Wühler	na	999
+12	KST s3	III_20_0016	Karlsdorf, Karlsdorf	8.54164, 49.1363	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+13	MH H3	II_59_0069	Ilvesheim, Ilvesheim	8.56668, 49.47129	wihla	wühler	3	wiler	wühler	2	Wühler	Wühler	0
+14	KST d4	na	Reilingen	8.56943, 49.29368	wühler	na	999	wühler	na	999	Wühler	na	999
+15	KST z7	na	Jöhlingen	8.5744, 49.03222	wühler	na	999	wühler	na	999	Wühler	na	999
+16	MH Q6	na	Oftersheim	8.58107, 49.36823	wühla	na	999	wühler	na	999	Wühler	na	999
+17	KST z 1	III_21_0016	Obergrombach, Obergrombach	8.58542, 49.07709	wiehler	wühler	2	wieler	wühler	2	Wühler	Wühler	0
+18	KST s2	III_20_0018, III_20_0019	Bruchsal (Forstamt), Bruchsal	8.60102, 49.12377	wühler	wihler	1	wühler	wiler	2	Wühler	Wühler	0
+19	MH H5	II_59_0072	Neckarhausen, Neckarhausen	8.60233, 49.46433	wihler	wühler	1	wiler	wühler	2	Wühler	Wühler	0
+20	KST d7	III_18_0019	Sankt Leon, Sankt Leon	8.6025, 49.26526	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+21	KST z4	na	Wössingen	8.61142, 49.01017	wieler	na	999	wieler	na	999	Wühler	na	999
+22	KST l7	na	Weiher	8.62179, 49.17863	wieler	na	999	wieler	na	999	Wühler	na	999
+23	MH Q4	na	Eppelheim	8.62885, 49.40164	wühler	na	999	wühler	na	999	Wühler	na	999
+24	KST d6	III_18_0021	Rot, Rot	8.63137, 49.26348	wieler	wihla	3	wieler	wiler	1	Wühler	Wühler	0
+25	KST s1	III_20_0024	Ubstadt, Ubstadt	8.6322, 49.16181	wihler	wiehler	1	wiler	wieler	1	Wühler	Wühler	0
+26	KST l3	III_19_0014	Kronau, Kronau	8.63449, 49.21954	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+27	KST s9	III_20_0027	Helmsheim, Helmsheim	8.64229, 49.08509	wieler	wieler	0	wieler	wieler	0	Wühler	Wühler	0
+28	KST d5	na	Walldorf	8.64294, 49.3028	wīla	na	999	wiler	na	999	Wühler	na	999
+29	KST l6	III_19_0016	Stettfeld, Stettfeld	8.64516, 49.18353	wihler	wiihler	1	wiler	wiler	0	Wühler	Wühler	0
+30	KST s10	III_20_0026	Heidelsheim, Heidelsheim	8.64542, 49.10114	wiehler	wühler	2	wieler	wühler	2	Wühler	Wühler	0
+31	KST l5	na	(Bad) Langenbrücken	8.6466, 49.20296	wieler, wiele	na	999	wieler	na	999	Wühler	na	999
+32	KST l4	III_19_0017, III_19_0018, III_19_0020, III_19_0019	Mingolsheim, Mingolsheim	8.65316, 49.21986	wihler	wühler, wǖler, wieler, wǖl	1	wiler	wühler, wieler	1	Wühler	Wühler	0
+33	KST z2	na	Gondelsheim	8.65584, 49.0596	wīler	na	999	wiler	na	999	Wühler	na	999
+34	KST t3	III_20_0025	Unteröwisheim, Unteröwisheim	8.66595, 49.14423	wieler	wieler	0	wieler	wieler	0	Wühler	Wühler	0
+35	KST m10	III_19_0027	Zeutern, Zeutern	8.67522, 49.17718	wiehler	wühler	2	wieler	wühler	2	Wühler	Wühler	0
+36	KST A6	III_21_0023	Diedelsheim, Diedelsheim	8.67848, 49.04109	wihler	wühler	1	wiler	wühler	2	Wühler	Wühler	0
+37	KST e10	III_18_0024	Malschenberg, Malschenberg	8.67996, 49.25599	wīla	wihler	4	wiler	wiler	0	Wühler	Wühler	0
+38	KST m1	na	Malsch	8.68153, 49.24579	wiehler	na	999	wieler	na	999	Wühler	na	999
+39	KST A3	III_21_0022	Neibsheim (bei Bruchsal), Neibsheim	8.68509, 49.07104	wīhler	wühler	1	wiler	wühler	2	Wühler	Wühler	0
+40	KST H1	na	Nussbaum	8.69353, 48.98977	wīler	na	999	wiler	na	999	Wühler	na	999
+41	KST m2	III_19_0023	Rettigheim, Rettigheim	8.6981, 49.24111	wiela	wühler	4	wieler	wühler	2	Wühler	Wühler	0
+42	KST e9	III_18_0025	Rauenberg, Rauenberg	8.70096, 49.27036	wiehla	wühler	4	wieler	wühler	2	Wühler	Wühler	0
+43	KST A2	III_21_0031	Büchig (bei Bretten), Büchig	8.70984, 49.0742	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+44	KST e11	III_18_0026	Rotenberg, Rotenberg	8.71207, 49.25813	wieler	wüler	2	wieler	wühler	2	Wühler	Wühler	0
+45	KST m11	III_19_0024, III_19_0025, III_19_0026	Östringen, Östringen	8.7137, 49.22037	wühler	wihler, wihlä, wielä	1	wühler	wiler, wieler	2	Wühler	Wühler	0
+46	KST t5	III_20_0030	Oberacker, Oberacker	8.71399, 49.1087	wilår	wieler	2	wiler	wieler	1	Wühler	Wühler	0
+47	KST t4	III_20_0029	Münzesheim, Münzesheim	8.71579, 49.12246	wihler	wihler	0	wiler	wiler	0	Wühler	Wühler	0
+48	KST t1	na	Neuenbürg	8.71854, 49.15352	wiehler	na	999	wieler	na	999	Wühler	na	999
+49	KST m3	na	Mühlhausen	8.72271, 49.24953	wühler	na	999	wühler	na	999	Wühler	na	999
+50	KST e8	III_18_0028	Dielheim, Dielheim	8.7354, 49.28257	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+51	KST e3	na	Baiertal	8.73772, 49.30253	wiela	na	999	wieler	na	999	Wühler	na	999
+52	MH R6	II_60_0047	Ochsenbach, Ochsenbach	8.73932, 49.33778	wihler	wühler	1	wiler	wühler	2	Wühler	Wühler	0
+53	KST A1	na	Bauerbach	8.74269, 49.07514	wühler	na	999	wühler	na	999	Wühler	na	999
+54	KST t6	III_20_0032	Gochsheim, Gochsheim	8.74551, 49.10407	wūler	wühler	2	wuler	wühler	2	Wühler	Wühler	0
+55	MH R11	II_60_0043	Gaiberg, Gaiberg	8.75015, 49.36606	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+56	KST m9	III_19_0028	Odenheim, Odenheim	8.75076, 49.17902	wihler	wühler	1	wiler	wühler	2	Wühler	Wühler	0
+57	MH R7	II_60_0048	Gauangelloch, Gauangelloch	8.75579, 49.34078	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+58	KST e12	III_18_0029	Tairnbach, Tairnbach	8.75625, 49.26367	wila	wühler	4	wiler	wühler	2	Wühler	Wühler	0
+59	KST e4	III_18_0032	Schatthausen, Schatthausen	8.75841, 49.319	wiela	wiela, wielar	0	wieler	wieler	0	Wühler	Wühler	0
+60	KST t10	III_20_0031	Menzingen, Menzingen	8.77067, 49.13931	wihler	wiela	3	wiler	wieler	1	Wühler	Wühler	0
+61	MH R12	II_60_0044	Waldhilsbach, Waldhilsbach	8.77179, 49.3721	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+62	KST m4	III_19_0029	Eichtersheim, Eichtersheim	8.7742, 49.23438	wiehler	wühler	2	wieler	wühler	2	Wühler	Wühler	0
+63	MH R9	II_60_0046	Bammental, Bammental	8.77604, 49.35511	wiler	wihler	1	wiler	wiler	0	Wühler	Wühler	0
+64	KST e7	III_18_0031	Horrenberg, Horrenberg	8.78051, 49.28149	wīler	wieler	2	wiler	wieler	1	Wühler	Wühler	0
+65	KST m5	III_19_0030, III_19_0032, III_19_0031	Michelfeld, Michelfeld	8.7808, 49.22723	wihler	wühler	1	wiler	wühler	2	Wühler	Wühler	0
+66	KST e14	III_18_0030	Eschelbach, Eschelbach	8.78417, 49.24823	wiehla	wihla	1	wieler	wiler	1	Wühler	Wühler	0
+67	KST t9	III_20_0034	Bahnbrücken, Bahnbrücken	8.78671, 49.11865	wiehler	wiehler	0	wieler	wieler	0	Wühler	Wühler	0
+68	KST t7	III_20_0036, III_20_0039, III_20_0037, III_20_0035, III_20_0038	Flehingen , Flehingen	8.78694, 49.0869	wieler	wühler, wuhler	2	wieler	wühler, wuhler	2	Wühler	Wühler	0
+69	KST e13	na	Balzfeld	8.79064, 49.26889	wihler	na	999	wiler	na	999	Wühler	na	999
+70	KST m8	na	Tiefenbach	8.79638, 49.17561	wihler	na	999	wiler	na	999	Wühler	na	999
+71	MH R8	II_60_0049	Mauer, Mauer	8.79767, 49.34127	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+72	MH R10	II_60_0050	Wiesenbach, Wiesenbach	8.80354, 49.36103	wiehla	wiehla	0	wieler	wieler	0	Wühler	Wühler	0
+73	KST m6	III_19_0033	Waldangelloch, Waldangelloch	8.80551, 49.21046	wieler	wühler	2	wieler	wühler	2	Wühler	Wühler	0
+74	KST t11	III_20_0033	Landshausen, Landshausen	8.80627, 49.14899	wieler	wiehler	1	wieler	wieler	0	Wühler	Wühler	0
+75	KST m7	III_19_0036	Eichelberg, Eichelberg	8.813, 49.1891	wihler	wühler	1	wiler	wühler	2	Wühler	Wühler	0
+76	KST e5	III_18_0034, III_18_0033	Meckesheim, Meckesheim	8.81557, 49.32167	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+77	KST t8	III_20_0040	Zaisenhausen, Zaisenhausen	8.81712, 49.10745	wihler	wiela	3	wiler	wieler	1	Wühler	Wühler	0
+78	KST e6	III_18_0035	Zuzenhausen, Zuzenhausen	8.82176, 49.29778	wühler	wiehler	2	wühler	wieler	2	Wühler	Wühler	0
+79	KST n1	III_19_0034	Dühren, Dühren	8.83562, 49.24557	wihler	wieler	1	wiler	wieler	1	Wühler	Wühler	0
+80	KST n11	III_19_0042, III_19_0041, III_19_0043	Elsenz, Elsenz	8.83766, 49.17408	wieler	wieler	0	wieler	wieler	0	Wühler	Wühler	0
+81	KST f9	III_18_0045	Hoffenheim, Hoffenheim	8.8417, 49.27088	wihla	wühler	3	wiler	wühler	2	Wühler	Wühler	0
+82	MH S6	II_60_0056	Mönchzell, Mönchzell	8.85327, 49.33612	wieler	wieler	0	wieler	wieler	0	Wühler	Wühler	0
+83	KST u4	III_20_0041	Rohrbach (am Giesshübel), Rohrbach	8.85649, 49.14055	wihler	wiehler	1	wiler	wieler	1	Wühler	Wühler	0
+84	KST u5	III_20_0043, III_20_0042, III_20_0163, III_20_0045, III_20_0044	Sulzfeld, Sulzfeld	8.85671, 49.10336	wihler	wiehler, wühler, wieler	1	wiler	wühler, wieler	1	Wühler	Wühler	0
+85	KST n12	III_19_0040, III_19_0039, III_19_0038	Hilsbach, Hilsbach	8.86227, 49.1957	wihler	wihler, wühler	0	wiler	wiler, wühler	0	Wühler	Wühler	0
+86	KST f1	III_18_0041, III_18_0040, III_18_0038, III_18_0039, III_18_0037	Eschelbronn, Eschelbronn	8.86825, 49.3202	wieler	wihler  , wühler, wihler	1	wieler	wiler, wühler	1	Wühler	Wühler	0
+87	MH S4	II_60_0055	Lobenfeld, Lobenfeld	8.8718, 49.35884	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+88	KST f8	III_18_0048, III_18_0047	Sinsheim, Sinsheim	8.87357, 49.25387	wiehler	wieler	1	wieler	wieler	0	Wühler	Wühler	0
+89	KST n13	III_19_0037	Weiler, Weiler	8.87587, 49.20862	wihler	wühler	1	wiler	wühler	2	Wühler	Wühler	0
+90	KST f10	III_18_0043	Daisbach, Daisbach	8.87705, 49.2938	wihler, wihle	wihler	0	wiler	wiler	0	Wühler	Wühler	0
+91	MH S5	II_60_0057	Spechbach, Spechbach	8.88396, 49.34588	wihler	wihler	0	wiler	wiler	0	Wühler	Wühler	0
+92	KST f2	III_18_0042	Neidenstein, Neidenstein	8.88423, 49.31637	wīler	wiela	4	wiler	wieler	1	Wühler	Wühler	0
+93	MH S3	II_60_0054	Waldwimmersbach, Waldwimmersbach	8.89219, 49.37538	wihler	wühler	1	wiler	wühler	2	Wühler	Wühler	0
+94	KST u6	III_20_0052	Mühlbach, Mühlbach	8.90301, 49.09703	wihler	wihler	0	wiler	wiler	0	Wühler	Wühler	0
+95	KST f11	na	Rohrbach	8.9042, 49.25168	wīlä	na	999	wiler	na	999	Wühler	na	999
+96	KST n2	III_19_0044	Steinsfurt, Steinsfurt	8.90861, 49.24023	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+97	KST u3	III_20_0047, III_20_0048, III_20_0050, III_20_0049, III_20_0051	Eppingen, Eppingen	8.9098, 49.13704	wihler	wihler, wiehla, wiehla  , wihla	0	wiler	wiler, wieler	0	Wühler	Wühler	0
+98	MH S14	II_60_0058	Epfenbach, Epfenbach	8.91088, 49.33719	wiela	wielä	1	wieler	wieler	0	Wühler	Wühler	0
+99	KST n3	III_19_0045	Reihen, Reihen	8.91628, 49.21715	wiela	wīla	2	wieler	wiler	1	Wühler	Wühler	0
+100	KST f3	III_18_0050, III_18_0049	Waibstadt, Waibstadt	8.9198, 49.29982	wühler	wiehler, wühler	0	wühler	wühler, wieler	0	Wühler	Wühler	0
+101	MH S13	II_60_0062	Schönbrunn, Schönbrunn	8.92851, 49.41228	wiehla	wühler, wiehla	0	wieler	wühler, wieler	0	Wühler	Wühler	0
+102	MH K7	II_59_0088	Moosbrunn, Moosbrunn	8.92878, 49.42533	wiehler	wiehler	0	wieler	wieler	0	Wühler	Wühler	0
+103	MH S11	II_60_0067	Haag, Haag	8.92912, 49.39429	wühler	wühlă	2	wühler	wühler	0	Wühler	Wühler	0
+104	KST n9	III_19_0046	Ittlingen, Ittlingen	8.93691, 49.19224	wihla	wühler	3	wiler	wühler	2	Wühler	Wühler	0
+105	KST n8	III_19_0047	Richen, Richen	8.94083, 49.17134	wīler	wila	3	wiler	wiler	0	Wühler	Wühler	0
+106	MH S7	II_60_0059, II_60_0060	Reichartshausen, Reichartshausen	8.94509, 49.35547	wihler	wühler	1	wiler	wühler	2	Wühler	Wühler	0
+107	MH K2	na	Igelsbach	8.94534, 49.46217	wielă	na	999	wieler	na	999	Wühler	na	999
+108	MH K5	II_59_0094	Pleutersbach, Pleutersbach	8.95293, 49.45367	wihla	wiehler	3	wiler	wieler	1	Wühler	Wühler	0
+109	KST f7	III_18_0052	Adersbach, Adersbach	8.95454, 49.2632	wihler	wiehler	1	wiler	wieler	1	Wühler	Wühler	0
+110	MH K6/2, MH K6/1	II_59_0096	Allemühl, Allemühl	8.95618, 49.42613	wihler	wiehler	1	wiler	wieler	1	Wühler	Wühler	0
+111	KST f4	III_18_0051	Neckarbischofheim, Neckarbischofsheim	8.96103, 49.29275	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+112	KST u2	III_20_0057	Stebbach, Stebbach	8.96448, 49.14676	wüla	wiehler	5	wühler	wieler	2	Wühler	Wühler	0
+113	MH S10	II_60_0061	Michelbach, Michelbach	8.96532, 49.37259	wieler	wieler	0	wieler	wieler	0	Wühler	Wühler	0
+114	KST n5	na	Bockschaft	8.96721, 49.20342	wihler	na	999	wiler	na	999	Wühler	na	999
+115	KST f5	na	Helmstadt	8.97487, 49.32604	wiehler	na	999	wieler	na	999	Wühler	na	999
+116	MH S12	II_60_0063	Schwanheim, Schwanheim	8.97596, 49.40194	wihler	wiehler	1	wiler	wieler	1	Wühler	Wühler	0
+117	KST n7	III_19_0048	Berwangen, Berwangen	8.98098, 49.18431	wühler	wihler, wühler	0	wühler	wiler, wühler	0	Wühler	Wühler	0
+118	MH S9	II_60_0064	Unterschwarzach, Unterschwarzach	8.98202, 49.36856	wiehler	wühler	2	wieler	wühler	2	Wühler	Wühler	0
+119	KST n4	III_19_0051	Ehrstädt, Ehrstädt	8.98266, 49.24404	wiela	wühler	4	wieler	wühler	2	Wühler	Wühler	0
+120	KST u1	III_20_0056, III_20_0053, III_20_0054, III_20_0055	Gemmingen, Gemmingen	8.98358, 49.15633	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+121	KST f6	III_18_0054	Hasselbach, Hasselbach	8.98363, 49.25911	wieler	wühler	2	wieler	wühler	2	Wühler	Wühler	0
+122	MH T8, MH S8	II_60_0065	Aglasterhausen, Aglasterhausen-Daudenzell, Aglasterhausen	8.98981, 49.35471	wühler, wieler	wühler	0	wühler, wieler	wühler	0	Wühler	Wühler	0
+123	KST n6	III_19_0049	Kirchardt, Kirchardt	8.9918, 49.20667	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+124	KST o1	III_19_0050	Grombach, Grombach	8.99507, 49.22687	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+125	MH K4	II_59_0095	Rockenau, Rockenau	8.99904, 49.44673	wiela	wühler	4	wieler	wühler	2	Wühler	Wühler	0
+126	MH T1	na	Lindach	9.00508, 49.41658	wihla	na	999	wiler	na	999	Wühler	na	999
+127	MH T2	II_60_0068	Neunkirchen, Neunkirchen	9.00887, 49.38789	wiehler	wiehler	0	wieler	wieler	0	Wühler	Wühler	0
+128	MH T16	II_60_0070	Breitenbronn, Breitenbronn	9.02197, 49.36483	wieler	wiehler	1	wieler	wieler	0	Wühler	Wühler	0
+129	MH T9	II_60_0071	Asbach, Asbach	9.02562, 49.34133	wühler	wiehler	2	wühler	wieler	2	Wühler	Wühler	0
+130	MH T3	II_60_0069	Neckarkatzenbach, Neckarkatzenbach	9.03457, 49.38441	wiehla	wiela	1	wieler	wieler	0	Wühler	Wühler	0
+131	MH T7	II_60_0072	Mörtelstein, Mörtelstein	9.04246, 49.35708	wihler	wihler	0	wiler	wiler	0	Wühler	Wühler	0
+132	MH L4	na	Zwingenberg	9.04439, 49.41287	wīler	na	999	wiler	na	999	Wühler	na	999
+133	MH T17	II_60_0075	Neckargerach, Neckargerach	9.0708, 49.40101	wiila	wühler	4	wiler	wühler	2	Wühler	Wühler	0
+134	MH T4	II_60_0073	Guttenbach, Guttenbach	9.07142, 49.38983	wiehler	wiehler	0	wieler	wieler	0	Wühler	Wühler	0
+135	MH L1	II_59_0103	Stümpfelbrunn, Strümpfelbrunn	9.07574, 49.4645	wiehler	wiehler	0	wieler	wieler	0	Wühler	Wühler	0
+136	MH L3	II_59_0100	Schollbrunn, Schollbrunn	9.07962, 49.43431	wiehler	wiehler	0	wieler	wieler	0	Wühler	Wühler	0
+137	MH T5	II_60_0076	Reichenbuch, Reichenbuch	9.09708, 49.39371	wihler	wihler	0	wiler	wiler	0	Wühler	Wühler	0
+138	KST v1	III_20_0066	Schluchtern, Schluchtern	9.1026, 49.14843	wieler	wühler	2	wieler	wühler	2	Wühler	Wühler	0
+139	MH C2	II_58_0104	Reisenbach, Reisenbach	9.12415, 49.50336	wīler	wieler	2	wühler	wieler	2	Wühler	Wühler	0
+140	MH T14	na	Nüstenbach	9.12548, 49.37329	wiehler	na	999	wieler	na	999	Wühler	na	999
+141	MH T15	II_60_0077	Lohrbach, Lohrbach	9.14183, 49.4	wühler	wiehler	2	wühler	wieler	2	Wühler	Wühler	0
+142	KST g12	na	Hassmersheim	9.14257, 49.30049	wühler	na	999	wühler	na	999	Wühler	na	999
+143	MH T13	II_60_0082, II_60_0081	Mosbach, Mosbach	9.14619, 49.35501	wiehler	wihler, wieler	1	wieler	wiler, wieler	0	Wühler	Wühler	0
+144	MH L8	II_59_0106	Wagenschwend, Wagenschwend	9.14637, 49.47256	wühler	wieler	2	wühler	wieler	2	Wühler	Wühler	0
+145	MH L5	II_59_0108	Fahrenbach, Fahrenbach	9.14987, 49.43091	wieler	wieler	0	wieler	wieler	0	Wühler	Wühler	0
+146	MH C3	II_58_0110	Scheidental, Scheidental	9.15106, 49.50744	wieler	wihler	1	wieler	wiler	1	Wühler	Wühler	0
+147	MH C4	II_58_0116	Schloßau, Schloßau	9.15226, 49.53935	wüler	wüler	0	wühler	wühler	0	Wühler	Wühler	0
+148	MH C5	na	Waldauerbach	9.15798, 49.52591	wieler	na	999	wieler	na	999	Wühler	na	999
+149	MH L7	II_59_0107	Robern, Robern	9.16265, 49.45394	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+150	MH M7	II_59_0112	Trienz, Trienz	9.16956, 49.44002	wieler	wieler	0	wieler	wieler	0	Wühler	Wühler	0
+151	MH D1	II_58_0106	Mörschenhardt, Mörschenhardt	9.17211, 49.56893	wieler	wieler	0	wieler	wieler	0	Wühler	Wühler	0
+152	MH M3	II_59_0109	Balsbach, Balsbach	9.17362, 49.47895	wieler	wieler	0	wieler	wieler	0	Wühler	Wühler	0
+153	MH M6	II_59_0110	Krumbach, Krumbach	9.18402, 49.45323	wieler	wiéler	1	wieler	wieler	0	Wühler	Wühler	0
+154	MH U2	II_60_0084	Dallau, Dallau	9.19192, 49.38655	wühler	wiehler	2	wühler	wieler	2	Wühler	Wühler	0
+155	MH D2	II_58_0107	Donebach, Donebach	9.19217, 49.56113	wieler	wihler	1	wieler	wiler	1	Wühler	Wühler	0
+156	MH M8	II_59_0113	Muckental, Muckental	9.20231, 49.42474	wieler	wieler	0	wieler	wieler	0	Wühler	Wühler	0
+157	MH D4	II_58_0109	Mudau-Langenelz, Langenelz	9.20495, 49.51744	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+158	MH D3	II_58_0108	Mudau, Mudau	9.20615, 49.53336	wielor	wielŏr	1	wieler	wieler	0	Wühler	Wühler	0
+159	MH M5	II_59_0117	Limbach, Limbach	9.21181, 49.46142	wihler	wühler	1	wiler	wühler	2	Wühler	Wühler	0
+160	MH M2	II_59_0119	Laudenberg, Laudenberg	9.21457, 49.48066	wieler	wühler	2	wieler	wühler	2	Wühler	Wühler	0
+161	MH U11	II_60_0088	Sulzbach, Sulzbach	9.22127, 49.35156	wiehler	wiehler	0	wieler	wieler	0	Wühler	Wühler	0
+162	MH U9	na	Auerbach	9.22666, 49.39927	wihler	na	999	wiler	na	999	Wühler	na	999
+163	MH M4	II_59_0116	Scheringen, Scheringen	9.23513, 49.46663	wieler	wühler	2	wieler	wühler	2	Wühler	Wühler	0
+164	MH M9	II_59_0114	Rittersbach, Rittersbach	9.23597, 49.42445	wieler	wuhler	2	wieler	wuhler	2	Wühler	Wühler	0
+165	MH Y1	III_18_0073	Allfeld, Allfeld	9.24133, 49.32379	wiler	wühler	2	wiler	wühler	2	Wühler	Wühler	0
+166	MH M1	II_59_0120	Einbach, Waldhausen/Einbach	9.24238, 49.48477	wühler	wihler	1	wühler	wiler	2	Wühler	Wühler	0
+167	MH D8	II_58_0111	Steinbach, Steinbach	9.24327, 49.54854	wiehler	wiehler	0	wieler	wieler	0	Wühler	Wühler	0
+168	MH U8	II_60_0089	Billigheim, Billigheim	9.25406, 49.34748	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+169	MH M11	II_59_0118	Waldhausen, Waldhausen	9.25731, 49.46733	wihler	wühler	1	wiler	wühler	2	Wühler	Wühler	0
+170	MH Y3	III_18_0075	Herbolzheim, Herbolzheim	9.26007, 49.28376	wihler	wiehler	1	wiler	wieler	1	Wühler	Wühler	0
+171	MH U6	II_60_0087	Katzental, Katzental	9.26618, 49.37338	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+172	MH Y2	III_18_0074	Neudenau, Neudenau	9.27037, 49.2923	wīhler	wihler	1	wiler	wiler	0	Wühler	Wühler	0
+173	MH D7	II_58_0112	Unterneudorf, Unterneudorf	9.27534, 49.52921	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+174	MH U7	II_60_0090	Waldmühlbach, Waldmühlbach	9.28262, 49.36078	wieler	wieler	0	wieler	wieler	0	Wühler	Wühler	0
+175	MH M14	na	Kleineicholzheim	9.28876, 49.42893	wiehler	na	999	wieler	na	999	Wühler	na	999
+176	MH D9	na	Hornbach (Hettingenbeuern)	9.29012, 49.591	wüler	na	999	wühler	na	999	Wühler	na	999
+177	MH v2	II_57_0138	Rippberg, Rippberg	9.29762, 49.62253	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+178	MH v1	II_57_0140	Gottersdorf, Gottersdorf	9.31064, 49.63751	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+179	MH v3	II_57_0139	Gerolzahn, Gerolzahn	9.31895, 49.62645	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+180	MH n1	na	Freudenberg	9.32533, 49.75145	wühler	na	999	wühler	na	999	Wühler	na	999
+181	MH D6	II_58_0114	Buchen, Buchen	9.32603, 49.52041	wihler	wühler	1	wiler	wühler	2	Wühler	Wühler	0
+182	MH E1	II_58_0115	Hainstadt, Hainstadt	9.33082, 49.53905	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+183	MH w1	II_90_0001	Reichenhardsachsen, Reichenhardsachsen	9.34508, 49.64003	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+184	MH o8/1, MH o8/2	II_89_0005	Ebenheid, Ebenheid	9.36095, 49.7158	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+185	MH E2	II_91_0001	Hettingen, Hettingen	9.36644, 49.5194	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+186	MH w6	II_90_0002	Glashofen, Glashofen	9.36648, 49.62382	wühler	wüler	1	wühler	wühler	0	Wühler	Wühler	0
+187	MH N4/2	na	Zimmern	9.37304, 49.43313	wüelr	na	999	wüeler	na	999	Wühler	na	999
+188	MH Z1	na	Ruchsen	9.37887, 49.31914	wieler	na	999	wieler	na	999	Wühler	na	999
+189	MH o1	II_89_0016	Rauenberg, Rauenberg	9.38407, 49.74117	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+190	MH w7	II_90_0003	Wettersdorf, Wettersdorf	9.38743, 49.63075	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+191	MH E3	II_91_0002	Rinschheim, Rinschheim	9.39249, 49.51369	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+192	MH N8	II_92_0001	Götzingen, Götzingen	9.39465, 49.49693	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+193	MH V5	II_93_0004	Korb, Korb	9.39732, 49.35594	wiihler	wüler	3	wiler	wühler	2	Wühler	Wühler	0
+194	MH f2	II_88_0005	Boxtal, Boxtal	9.40146, 49.76416	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+195	MH o2	II_89_0006	Wessental, Wessental	9.41215, 49.73004	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+196	MH f1	II_88_0007	Mondfeld, Krs, Tauberbischofsheim, Mondfeld	9.41656, 49.7837	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+197	MH V3	II_93_0005	Leibenstadt, Leibenstadt	9.42028, 49.36861	wihler	wühler	1	wiler	wühler	2	Wühler	Wühler	0
+198	MH w4	II_90_0005	Höpfingen, Höpfingen	9.42753, 49.60185	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+199	MH w2	II_90_0006	Dornberg, Dornberg	9.42843, 49.62542	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+200	MH E4	II_91_0003	Altheim, Altheim	9.4436, 49.51915	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+201	MH E5	II_91_0004	Waldstetten, Waldstetten	9.44893, 49.5647	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+202	MH N7	II_92_0009	Sindolsheim, Sindolsheim	9.45384, 49.48715	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+203	MH o4	II_89_0014	Hundheim, Hundheim	9.46691, 49.69109	wühlr	wühler	1	wühler	wüler	1	Wühler	Wühler	0
+204	MH q1	na	Steinbach	9.47108, 49.68011	wühler	na	999	wühler	na	999	Wühler	na	999
+205	MH w3	na	Hardheim	9.47457, 49.60804	wühler	na	999	wühler	na	999	Wühler	na	999
+206	MH N9	na	Rosenberg	9.4752, 49.45583	wühler	na	999	wühler	na	999	Wühler	na	999
+207	MH w5	II_90_0008	Steinfurt, Steinfurt	9.48425, 49.64828	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+208	MH E6	II_91_0005, II_91_0123	Bretzingen, Bretzingen	9.48682, 49.57826	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+209	MH o5	II_89_0011, II_89_0010, II_89_0009	Sachsenhausen, Sachsenhausen	9.49147, 49.73223	wühlå	wühler	2	wühler	wühler	0	Wühler	Wühler	0
+210	MH E8	II_91_0006	Erfeld, Erfeld	9.49597, 49.55416	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+211	MH O2	II_92_0011	Hirschlanden, Hirschlanden	9.50074, 49.47297	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+212	MH p4	II_89_0013	Dörlesberg, Dörlesberg	9.501, 49.71273	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+213	MH g3	na	Wertheim-Bastenheid	9.5029, 49.78173	wühler	na	999	wühler	na	999	Wühler	na	999
+214	MH F4	II_91_0007	Gerichtstetten, Gerichtstetten	9.5049, 49.53499	wǖhler	wühler	1	wühler	wühler	0	Wühler	Wühler	0
+215	MH O1	II_92_0010	Hohenstadt, Hohenstadt	9.51685, 49.49168	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+216	MH p5	II_89_0024	Külsheim, Külsheim	9.5236, 49.66947	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+217	MH x7	II_90_0009	Schweinberg, Schweinberg	9.52459, 49.61864	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+218	MH F1	II_91_0008	Pülfringen, Pülfringen	9.52624, 49.58149	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+219	MH p2	II_89_0022	Reicholzheim, Reicholzheim	9.53393, 49.72663	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+220	MH F5	II_91_0011	Eubigheim, Eubigheim	9.53977, 49.5018	wiehler	wihler	1	wühler	wiler	2	Wühler	Wühler	0
+221	MH O3	na	Berolzheim	9.54042, 49.4749	wühler	na	999	wühler	na	999	Wühler	na	999
+222	MH g5	na	Wertheim-Eichel	9.54093, 49.76546	wühle	na	999	wühler	na	999	Wühler	na	999
+223	MH p3	II_89_0023	Bronnbach, Bronnbach	9.54654, 49.71348	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+224	MH F2	II_91_0009	Brehmen, Brehmen	9.55454, 49.56839	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+225	MH F3	II_91_0010	Buch, Buch	9.55592, 49.53858	wühler	wüler	1	wühler	wüler	1	Wühler	Wühler	0
+226	MH g4	II_88_0022	Bettingen, Bettingen	9.5642, 49.77261	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+227	MH p13	II_89_0019	Urphar, Urphar	9.5706, 49.74798	wühlå̆r	wühler	2	wühler	wühler	0	Wühler	Wühler	0
+228	MH p6/1, MH p6/2	II_89_0025	Uissigheim, Uissigheim	9.57194, 49.67957	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+229	MH O4	II_92_0013	Schillingstadt, Schillingstadt	9.57461, 49.46035	wühler	wühlr	1	wühler	wühler	0	Wühler	Wühler	0
+230	MH g2	II_88_0023	Lindelbach, Lindelbach	9.58346, 49.75732	wüler	wühlr	2	wühler	wühler	0	Wühler	Wühler	0
+231	MH x5	II_90_0013	Gissigheim, Gissigheim	9.58726, 49.59451	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+232	MH x1	II_90_0010	Eiersheim, Eiersheim	9.58787, 49.65953	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+233	MH O8	II_91_0012	Uiffingen, Uiffingen	9.59227, 49.50171	wühler	wüler	1	wühler	wühler	0	Wühler	Wühler	0
+234	MH x6	II_90_0012	Königheim, Königheim	9.59419, 49.61802	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+235	MH O9	II_92_0022	Angeltürn, Angeltürn	9.59726, 49.48572	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+236	MH p8	II_89_0026	Gamburg, Gamburg	9.59986, 49.69382	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+237	MH O5	II_92_0021, II_92_0020, II_92_0019	Schwabhausen, Schwabhausen	9.60196, 49.45569	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+238	MH p12	II_89_0020	Dietenhan, Dietenhan	9.6066, 49.74297	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+239	MH p10	II_89_0028	Höhefeld, Höhefeld	9.60905, 49.71271	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+240	MH x9	II_90_0011	Dienstadt, Dienstadt	9.61232, 49.63373	wüler	wühler	1	wühler	wühler	0	Wühler	Wühler	0
+241	MH p9	II_89_0027	Niklashausen, Niklashausen	9.6175, 49.70453	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+242	MH g1	II_88_0024	Dertingen über Wertheim a,M,, Dertingen	9.61957, 49.7665	wühler	wüăler	1	wühler	wüeler	1	Wühler	Wühler	0
+243	MH F7	II_91_0013	Kupprichhausen-Lengenrieden, Kupprichhausen u, Lengenrieden	9.62002, 49.52627	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+244	MH O6	na	Windischbuch	9.62194, 49.43593	wühler	na	999	wühler	na	999	Wühler	na	999
+245	MH p11a/1, MH p11a/2	II_89_0021	Kembach, Kembach	9.62461, 49.74217	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+246	MH F6	II_91_0014	Epplingen, Epplingen	9.62742, 49.5054	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+247	MH O10	II_92_0023, II_92_0025, II_92_0024	Wölchingen, Wölchingen	9.63011, 49.48494	wühler	wühler, wüler	0	wühler	wühler	0	Wühler	Wühler	0
+248	MH x2	II_90_0017, II_90_0020, II_90_0018, II_90_0019	Hochhausen, Hochhausen	9.63526, 49.6621	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+249	MH x4	II_90_0014	Dittwar, Dittwar	9.63593, 49.58974	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+250	MH F8	II_91_0015	Heckfeld, Heckfeld	9.63713, 49.55077	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+251	MH p7	II_89_0031, II_89_0030, II_89_0032	Werbach, Werbach	9.63871, 49.67029	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+252	MH O11	II_92_0026	Boxberg, Boxberg	9.64298, 49.48181	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+253	MH x3	II_90_0016	Impfingen, Impfingen	9.65946, 49.64719	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+254	MH x8	II_90_0015	Tauberbischofsheim, Tauberbischofsheim	9.66553, 49.62352	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+255	MH P2	II_92_0040	Schweigern, Schweigern	9.66576, 49.49224	wüeler	wühler	1	wüeler	wühler	1	Wühler	Wühler	0
+256	MH P3	II_92_0028	Bobstadt, Bobstadt	9.67398, 49.46607	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+257	MH y4	II_90_0021	Dittigheim, Dittigheim	9.67647, 49.61035	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+258	MH G11	II_91_0019	Oberschüpf, Oberschüpf	9.67687, 49.52252	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+259	MH G1	II_91_0016	Oberlauda, Oberlauda	9.67912, 49.56608	wǖhler	wühler	1	wühler	wühler	0	Wühler	Wühler	0
+260	MH q3	II_89_0035	Werbachhausen, Werbachhausen	9.67954, 49.67946	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+261	MH P4	II_92_0031, II_92_0030	Assamstadt, Assamstadt	9.68738, 49.42689	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+262	MH G12	II_91_0020	Unterschüpf, Unterschüpf	9.68922, 49.51437	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+263	MH y5	II_90_0022	Distelhausen, Distelhausen	9.69353, 49.59735	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+264	MH q2	II_89_0034	Wenkheim, Wenkheim	9.70149, 49.70022	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+265	MH G2	II_91_0017	Lauda, Lauda	9.70203, 49.5702	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+266	MH G10	II_91_0018	Beckstein, Beckstein	9.70422, 49.54668	wüeleͦr	wühler	2	wüeler	wühler	1	Wühler	Wühler	0
+267	MH G13	II_91_0021	Sachsenflur, Sachsenflur	9.71, 49.52377	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+268	MH P1	II_92_0027	Dainbach-Herold, Dainbach	9.71553, 49.49662	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+269	MH G3	II_91_0026	Gerlachsheim, Gerlachsheim	9.71775, 49.57998	wühlr	wühler	1	wühler	wühler	0	Wühler	Wühler	0
+270	MH G4	II_91_0025	Marbach, Marbach	9.7264, 49.56581	wǖhler	wühler	1	wühler	wühler	0	Wühler	Wühler	0
+271	MH G9	II_91_0022	Königshofen, Königshofen	9.73105, 49.54759	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+272	MH y1	II_89_0036	Großrinderfeld, Grossrinderfeld	9.73405, 49.66558	wühlr	wühler	1	wühler	wühler	0	Wühler	Wühler	0
+273	MH y3	II_90_0024	Grünsfeldhausen, Grünsfeldhausen	9.74055, 49.62456	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+274	MH y6	II_90_0023	Grünsfeld, Grünsfeld	9.74656, 49.6066	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+275	MH G8	II_91_0023	Unterbalbach, Unterbalbach	9.74711, 49.52779	wüler	wühler	1	wühler	wühler	0	Wühler	Wühler	0
+276	MH y2	II_90_0025	Paimar, Paimar	9.75368, 49.6402	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+277	MH G5	II_91_0027	Kützbrunn, Kützbrunn	9.76136, 49.58159	wüaler	wühler	1	wüeler	wühler	1	Wühler	Wühler	0
+278	MH y8	II_90_0026	Krensheim, Krensheim	9.78002, 49.63781	wühler	wüehler	1	wühler	wüeler	1	Wühler	Wühler	0
+279	MH q4	II_89_0040	Gerchsheim, Gerchsheim	9.78301, 49.70681	wühler	wüheler	1	wühler	wüeler	1	Wühler	Wühler	0
+280	MH G6	II_91_0028, II_91_0029	Messelhausen, Messelhausen	9.7887, 49.5756	wühler	wühler	0	wühler	wühler	0	Wühler	Wühler	0
+281	MH y10	II_89_0042	Ilmspan, Ilmspan	9.79016, 49.66609	wüaler	wüalr	1	wüeler	wüeler	0	Wühler	Wühler	0
+282	MH G7/2, MH G7/1	II_91_0032	Oberbalbach, Oberbalbach	9.7938, 49.53997	wüller, würler	wüalr	2	wühler	wüeler	1	Wühler	Wühler	0
+283	MH q5	II_89_0041	Schönfeld, Schönfeld	9.80069, 49.67702	wühler	wüler	1	wühler	wühler	0	Wühler	Wühler	0
+284	MH y7	II_90_0131	Vilchband, Vilchband	9.82424, 49.58989	wühler	wühlr	1	wühler	wühler	0	Wühler	Wühler	0
+285	MH y9	II_90_0027	Poppenhausen, Poppenhausen	9.82622, 49.63065	wühlr	wühlr	0	wühler	wühler	0	Wühler	Wühler	0
+286	MH ya2	II_90_0028	Unterwittighausen, Unterwittighausen	9.83878, 49.61344	wüalr	wühler	2	wüeler	wühler	1	Wühler	Wühler	0
+287	MH ya1/1, MH ya1/2	II_90_0030	Oberwittighausen, Oberwittighausen	9.85164, 49.62585	wüalar, wühalar	wühler	2	wüeler	wühler	1	Wühler	Wühler	0
+288	na	III_7_0133	Staufenberg	8.3082, 48.76673	na	wühler	999	na	wühler	999	na	Wühler	999
+289	na	II_58_0065	Käferthal	8.51715, 49.51259	na	wiehler	999	na	wieler	999	na	Wühler	999
+290	na	III_21_0014	Berghausen	8.52712, 49.00389	na	wieler	999	na	wieler	999	na	Wühler	999
+291	na	III_21_0024	Rinklingen	8.6832, 49.03485	na	wiehler	999	na	wieler	999	na	Wühler	999
+292	na	III_20_0028	Oberöwisheim	8.6891, 49.14532	na	wühler	999	na	wühler	999	na	Wühler	999
+293	na	II_60_0041	Heidelberg-Rohrbach	8.69, 49.38005	na	wiehler	999	na	wieler	999	na	Wühler	999
+294	na	III_18_0022	Nussloch	8.69576, 49.32301	na	wieler	999	na	wieler	999	na	Wühler	999
+295	na	III_18_0023	Wiesloch	8.70178, 49.29504	na	wühler	999	na	wühler	999	na	Wühler	999
+296	na	III_21_0025, III_21_0027	Bretten	8.70657, 49.03456	na	wühler, wieler	999	na	wühler, wieler	999	na	Wühler	999
+297	na	II_60_0053	Mückenloch	8.8554, 49.3886	na	wieler	999	na	wieler	999	na	Wühler	999
+298	na	II_59_0097	Neckarhäuserhof	8.88191, 49.41513	na	wühler	999	na	wühler	999	na	Wühler	999
+299	na	II_59_0101	Oberdielbach	9.05361, 49.44781	na	wiehler	999	na	wieler	999	na	Wühler	999
+300	na	II_59_0104	Mülben	9.09946, 49.46414	na	wieler	999	na	wieler	999	na	Wühler	999
+301	na	II_60_0079	Diedesheim	9.11367, 49.34933	na	wühler	999	na	wühler	999	na	Wühler	999
+302	na	III_18_0068	Neckarmühlbach	9.13604, 49.28364	na	wühler	999	na	wühler	999	na	Wühler	999
+303	na	II_59_0115	Heidersbach	9.2468, 49.45517	na	wiehler	999	na	wieler	999	na	Wühler	999
+304	na	II_92_0005	Bofsheim	9.41226, 49.4714	na	wühler	999	na	wühler	999	na	Wühler	999
+305	na	II_92_0007, II_92_0006	Osterburken	9.42838, 49.4308	na	wühler	999	na	wühler	999	na	Wühler	999
+306	na	II_89_0008	Vockenrot	9.48521, 49.74816	na	wühler	999	na	wühler	999	na	Wühler	999
+307	na	II_89_0037	Steinbach	9.72212, 49.71075	na	wüähler	999	na	wüeler	999	na	Wühler	999

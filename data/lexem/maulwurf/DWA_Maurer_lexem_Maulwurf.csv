@@ -1,0 +1,426 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Hag D 1	na	Hinsingen	6.99156, 48.9525	mülwolf	na	999	mülwolf	na	999	Maulwurf	na	999
+1	Hag E 10	na	Bissert	7.02465, 48.94167	mürwolf	na	999	mürwolf	na	999	Maulwurf	na	999
+2	Hag E 7	III_5_0024	Keskastel, Keskastel	7.04339, 48.96955	murwolf	murwolf	0	murwolf	murwolf	0	Maulwurf	Maulwurf	0
+3	Hag x 2	III_4_0053	Herbitzheim, Herbitzheim	7.08355, 49.01459	murwolf	murwolf	0	murwolf	murwolf	0	Maulwurf	Maulwurf	0
+4	Hag x 1	III_4_0044	Silzheim (Siltzheim), Silzheim	7.09071, 49.0616	mulwurf	murwolf	3	mulwurf	murwolf	3	Maulwurf	Maulwurf	0
+5	Hag E 1	III_4_0050	Örmingen (Oermingen), Örmingen	7.12881, 49.00062	mürwölf	mülwurf	3	mürwölf	mülwurf	3	Maulwurf	Maulwurf	0
+6	Hag F 1	III_5_0037	Dehlingen, Dehlingen	7.19095, 48.98016	mürwolf	mürwolf	0	mürwolf	mürwolf	0	Maulwurf	Maulwurf	0
+7	Co y 4	III_14_0019	Wünheim, Wünheim	7.20969, 47.87406	mülwurf	mülwurf	0	mülwurf	mülwurf	0	Maulwurf	Maulwurf	0
+8	Hag F 2	III_5_0042	Bütten (Butten), Bütten	7.2205, 48.97095	mürwolf	mürwolf	0	mürwolf	mürwolf	0	Maulwurf	Maulwurf	0
+9	Stra G 3	III_11_0009, III_11_0010	Meisengott (Maisonsgoutte), Meisengott	7.26349, 48.3533	mürwolf	mürwolf	0	mürwolf	mürwolf	0	Maulwurf	Maulwurf	0
+10	Stra G 2	III_11_0004, III_11_0003	Breitenbach, Breitenbach	7.2921, 48.36514	mürwolf	murwolf	1	mürwolf	murwolf	1	Maulwurf	Maulwurf	0
+11	Stra G 6	III_11_0005	Weiler (Villé), Weiler, ortsteil Erlenbach	7.30273, 48.34253	müllwolf	mürwolf	2	mülwolf	mürwolf	1	Maulwurf	Maulwurf	0
+12	Stra G 5	na	Erlenbach (Albé)	7.31832, 48.35651	mǖrwulf	na	999	mürwulf	na	999	Maulwurf	na	999
+13	Stra G 8	III_11_0006	Triembach (Triembach-Au-Val), Triembach	7.32386, 48.33763	mürwalf	mürwolf	1	mürwolf	mürwolf	0	Maulwurf	Maulwurf	0
+14	Co F7/2	III_14_0109, III_14_0108, III_14_0112, III_14_0116	Mülhausen, Mülhausen	7.34375, 47.7517	mülwurf	mulwurf, mülwurf	0	mülwurf	mulwurf, mülwurf	0	Maulwurf	Maulwurf	0
+15	Co l 1/1, Co l 1/3, Co l 1/2	III_13_0030	Kolmar (/Hausen an der Möhlin), Kolmar, Kolmar	7.36359, 48.08198	mülworf, mülwurf	mulwurf	1	mülworf, mülwurf	mulwurf	1	Maulwurf	Maulwurf	0
+16	Stra e 3	na	Ottersweiler (Otterswiller)	7.37883, 48.7258	müllwurf	na	999	mülwürf	na	999	Maulwurf	na	999
+17	Stra u 18	na	Wolxheim	7.51077, 48.56903	mülwurf	na	999	mülwurf	na	999	Maulwurf	na	999
+18	Co P8	III_15_0045	Bamlach, Bamlach	7.54942, 47.71753	mulwurf	mŭlwŭrf	2	mulwurf	mulwurf	0	Maulwurf	Maulwurf	0
+19	Co A10	na	Zienken (Müllheim)	7.57779, 47.84303	mulwurf	na	999	mulwurf	na	999	Maulwurf	na	999
+20	Co W 17	III_16_0066	Hüningen (Huningue), Hüningen	7.58374, 47.5912	mülwurf	mülwurf	0	mülwurf	mülwurf	0	Maulwurf	Maulwurf	0
+21	Hag P 14	III_6_0066	Pfaffenhofen, Pfaffenhofen	7.60881, 48.84422	mǖlwurf	mülwurf	1	mülwurf	mülwurf	0	Maulwurf	Maulwurf	0
+22	Co e 14	na	Jechtingen am Kaierstuhl	7.60965, 48.11815	mülwurf	na	999	mülwurf	na	999	Maulwurf	na	999
+23	Co H3	na	Hügelheim	7.6208, 47.82868	mulwurf	na	999	mulwurf	na	999	Maulwurf	na	999
+24	Co A8	na	Bremgarten (Hartheim)	7.62385, 47.91694	mulwurf	na	999	mulwurf	na	999	Maulwurf	na	999
+25	Co m 4	na	Achkarren	7.62448, 48.06769	mulwurf	na	999	mulwurf	na	999	Maulwurf	na	999
+26	Stra J 8	na	Herbsheim	7.6323, 48.3467	mülwarf	na	999	mülwarf	na	999	Maulwurf	na	999
+27	Co e 3	na	Leiselheim	7.6357, 48.12586	mülwurf	na	999	mülwurf	na	999	Maulwurf	na	999
+28	Co H6	na	Niederweiler	7.64763, 47.80664	mūlwurf	na	999	mulwurf	na	999	Maulwurf	na	999
+29	Co W 21	III_16_0078	Tumringen, Tumringen	7.65564, 47.62739	mulwurf	mulwurf	0	mulwurf	mulwurf	0	Maulwurf	Maulwurf	0
+30	Co J2	III_14_0145	Badenweiler, Badenweiler	7.67934, 47.80555	mulwurf	mulwurf	0	mulwurf	mulwurf	0	Maulwurf	Maulwurf	0
+31	Co f 6	III_12_0124	Schelingen am Kaiserstuhl, Schelingen	7.68308, 48.10435	mülwurf	muhlwurf	2	mülwurf	mulwurf	1	Maulwurf	Maulwurf	0
+32	Hag B 1	na	Wengelsbach	7.71622, 49.05104	maulwurf	na	999	maulwurf	na	999	Maulwurf	na	999
+33	Co B9	na	Staufen (bei Freiburg)	7.72962, 47.88166	mulwurf	na	999	mulwurf	na	999	Maulwurf	na	999
+34	Co X 7	na	Steinen	7.73911, 47.64447	mūlwurf	na	999	mulwurf	na	999	Maulwurf	na	999
+35	Co f 2	na	Riegel	7.7507, 48.15056	mulwurf	na	999	mulwurf	na	999	Maulwurf	na	999
+36	Co X 10	na	Maulburg	7.77782, 47.64075	muulwurf	na	999	mulwurf	na	999	Maulwurf	na	999
+37	Co u 19/1	na	Bollschweil	7.77924, 47.91994	müllwurf	na	999	mülwurf	na	999	Maulwurf	na	999
+38	Stra Y 4	na	Ringsheim	7.78041, 48.24632	mǖlwurf	na	999	mülwurf	na	999	Maulwurf	na	999
+39	Co Xa 3	na	Rheinfelden-Stadt (Baden)	7.78875, 47.55945	maulwurf	na	999	maulwurf	na	999	Maulwurf	na	999
+40	Co X 14	III_16_0103, III_16_0104	Minseln, Minseln	7.79067, 47.60301	mulwurf	mulwurf	0	mulwurf	mulwurf	0	Maulwurf	Maulwurf	0
+41	Co f 11	III_12_0116	Teningen, Teningen	7.80344, 48.12897	mülwurf	mülwurf	0	mülwurf	mülwurf	0	Maulwurf	Maulwurf	0
+42	Stra R 5	na	Kippenheim	7.82466, 48.29439	mülwurf	na	999	mülwurf	na	999	Maulwurf	na	999
+43	Co u 11	na	Merzhausen	7.82532, 47.96635	mulwurf	na	999	mulwurf	na	999	Maulwurf	na	999
+44	Stra Y 10	na	Bleichheim	7.8306, 48.20842	mühlwurf	na	999	mülwurf	na	999	Maulwurf	na	999
+45	Stra w 1	na	Neumühl	7.84392, 48.57012	mulwurf	na	999	mulwurf	na	999	Maulwurf	na	999
+46	Co v 9	na	Horben	7.85911, 47.93223	muulwurf	na	999	mulwurf	na	999	Maulwurf	na	999
+47	Hag R 4	III_6_0080	Schwabweiler, Schwabweiler	7.87665, 48.90207	mülwalf	mülwalf	0	mülwolf	mülwalf	1	Maulwurf	Maulwurf	0
+48	Hag C 7	III_4_0090	Kleeburg (Cleebourg), Kleeburg	7.89318, 49.00093	maulwurf	maulwurf	0	maulwurf	maulwurf	0	Maulwurf	Maulwurf	0
+49	Co K8	na	Schönau	7.89443, 47.78637	mulwurf	na	999	mulwurf	na	999	Maulwurf	na	999
+50	Stra L 6	na	Oberweier	7.89815, 48.37746	mulwurf	na	999	mulwurf	na	999	Maulwurf	na	999
+51	Co v 1	na	Littenweiler	7.90338, 47.97778	muhlwurf	na	999	mulwurf	na	999	Maulwurf	na	999
+52	Hag K 13	na	Schönenburg (Schoenenbourg)	7.91332, 48.95207	maulwurf	na	999	maulwurf	na	999	Maulwurf	na	999
+53	Co Ya 1	III_17_0047	Wallbach, Wallbach	7.91336, 47.56871	mulwurf	mulwurf	0	mulwurf	mulwurf	0	Maulwurf	Maulwurf	0
+54	Stra D 12	na	Waltersweier	7.91883, 48.48554	mulwurf	na	999	mulwurf	na	999	Maulwurf	na	999
+55	Co v 7	na	Kirchzarten	7.95261, 47.96345	mūlwurf	na	999	mulwurf	na	999	Maulwurf	na	999
+56	Co g 2	III_12_0139	Waldkirch, Waldkirch	7.96049, 48.09361	mulwürf	maulwurf	2	mulwürf	maulwurf	2	Maulwurf	Maulwurf	0
+57	Hag K 6	III_5_0106	Aschbach, Aschbach	7.98262, 48.93423	maulwurf	maulwurf	0	maulwurf	maulwurf	0	Maulwurf	Maulwurf	0
+58	TUTT S3	na	Herrischried	8.00161, 47.66587	mulwurf	na	999	mulwurf	na	999	Maulwurf	na	999
+59	TUTT p4	III_13_0155	Buchenbach, Buchenbach	8.00773, 47.96134	mūlwurf	muulwurf	2	mulwurf	mulwurf	0	Maulwurf	Maulwurf	0
+60	TUTT L6	na	Grossherrischwand	8.01017, 47.6797	mulwurf	na	999	mulwurf	na	999	Maulwurf	na	999
+61	TUTT L5	na	Wehrhalden	8.01061, 47.70213	mulwurf	na	999	mulwurf	na	999	Maulwurf	na	999
+62	Co R14	na	Rütte (bei Todtmoos; es gibt auch noch eines bei Herreschrie und eines bei Todtnauberg)	8.01336, 47.76141	mulwurf	na	999	mulwurf	na	999	Maulwurf	na	999
+63	TUTT Sa5	na	Oberhof	8.0324, 47.58493	mulwurf	na	999	mulwurf	na	999	Maulwurf	na	999
+64	TÜB h7	na	Önsbach	8.03279, 48.60579	mulwurf	na	999	mulwurf	na	999	Maulwurf	na	999
+65	TÜB D4/1	na	Unterharmersbach	8.08843, 48.35461	mulwurf	na	999	mulwurf	na	999	Maulwurf	na	999
+66	KST D3/3, KST D3/1	na	Niederlauterbach	8.10398, 48.97233	maulwarf	na	999	maulwarf	na	999	Maulwurf	na	999
+67	TÜB p7	na	Furschenbach und Ottenhöfen	8.13639, 48.5767	mullwurf	na	999	mulwurf	na	999	Maulwurf	na	999
+68	TÜB h13	III_9_0095, III_9_0096	Neusatz , Neusatz	8.14904, 48.65879	mūlwurf	mullwärf	3	mulwurf	mulwerf	1	Maulwurf	Maulwurf	0
+69	TÜB x2	na	Oppenau	8.16423, 48.47333	mulwurf	na	999	mulwurf	na	999	Maulwurf	na	999
+70	TUTT M16	na	Häusern	8.16959, 47.75398	maulwurf	na	999	maulwurf	na	999	Maulwurf	na	999
+71	KST T10	na	Sandweier	8.19586, 48.80855	mulwurf	na	999	mulwurf	na	999	Maulwurf	na	999
+72	KST M10/2, KST M10/1	na	Rastatt	8.20142, 48.8573	moulwurf, maulwurf	na	999	maulwurf	na	999	Maulwurf	na	999
+73	TÜB E4	na	Oberwolfach	8.21698, 48.3174	mulwurf	na	999	mulwurf	na	999	Maulwurf	na	999
+74	TÜB M3/2	na	Wolfach	8.22076, 48.30289	maulworf	na	999	maulworf	na	999	Maulwurf	na	999
+75	KST T14/3, KST T14/1, KST T14/4	III_7_0131	Baden-Baden, Baden-Baden-West, Baden-Baden , Baden-Baden Weststadt	8.24094, 48.76273	maulwurf	maulwurf	0	maulwurf	maulwurf	0	Maulwurf	Maulwurf	0
+76	KST E6	III_5_0139	Würmersheim, Würmersheim	8.25452, 48.94056	mulwurf	mulwurf	0	mulwurf	mulwurf	0	Maulwurf	Maulwurf	0
+77	TÜB b2/2, TÜB b2/1	na	Lichtent(h)al	8.2614, 48.74458	mülwurf, maulwurf	na	999	mülwurf, maulwurf	na	999	Maulwurf	na	999
+78	TUTT E4	na	Grafenhausen	8.26186, 47.7749	mulwurf	na	999	mulwurf	na	999	Maulwurf	na	999
+79	TÜB i1	na	Herrenwies	8.26593, 48.65907	moulwůrf	na	999	maulwurf	na	999	Maulwurf	na	999
+80	KST E2	na	Neuburgweier	8.26776, 48.96981	maulwurf	na	999	maulwurf	na	999	Maulwurf	na	999
+81	TÜB i2	III_9_0105	Forbach-Hundsbach, Forbach-Hundsbach	8.27064, 48.62026	mulwurf	mulwurf	0	mulwurf	mulwurf	0	Maulwurf	Maulwurf	0
+82	KST M7	na	Bischweier	8.28478, 48.83768	mulwurf	na	999	mulwurf	na	999	Maulwurf	na	999
+83	KST E4	na	Mörsch	8.28883, 48.96003	maulwurf	na	999	maulwurf	na	999	Maulwurf	na	999
+84	TUTT x1	na	Rötenbach	8.29448, 47.89247	mūlwurf	na	999	mulwurf	na	999	Maulwurf	na	999
+85	KST T3	na	(Bad) Rotenfels (Ortsteil von Gaggenau)	8.30895, 48.81087	mūlwurf, maulwurf	na	999	mulwurf, maulwurf	na	999	Maulwurf	na	999
+86	KST E3	III_5_0135	Forchheim, Forchheim	8.31683, 48.97425	maulwurf	maulwurf	0	maulwurf	maulwurf	0	Maulwurf	Maulwurf	0
+87	TÜB x5	III_10_0145	Bad Rippoldsau, Bad Rippoldsau	8.32852, 48.42806	mūlwurf	mulwurf	1	mulwurf	mulwurf	0	Maulwurf	Maulwurf	0
+88	KST U4	III_7_0134	Gernsbach, Gernsbach	8.33578, 48.76294	maulwurf	maulwurf	0	maulwurf	maulwurf	0	Maulwurf	Maulwurf	0
+89	KST y 8	na	Karlsruhe-Knielingen	8.34437, 49.03039	maulworf	na	999	maulworf	na	999	Maulwurf	na	999
+90	TUTT y2	na	Löffingen	8.34547, 47.8844	mulworf	na	999	mulworf	na	999	Maulwurf	na	999
+91	TÜB k1	III_26_0001	Raumünzach, Raumänzach	8.34869, 48.63918	maulwurf	maulwurf	0	maulwurf	maulwurf	0	Maulwurf	Maulwurf	0
+92	TUTT y4	III_35_0002	Reiselfingen, Reiselfingen	8.35108, 47.85467	mūlwurf	mulworf	2	mulwurf	mulworf	1	Maulwurf	Maulwurf	0
+93	KST y 7	na	Karlsruhe-Grünwinkel	8.35529, 49.0032	maulwurf	na	999	maulwurf	na	999	Maulwurf	na	999
+94	TUTT y1	III_35_0004	Dittishausen, Dittishausen	8.36266, 47.90077	mulwurf	mulwurf	0	mulwurf	mulwurf	0	Maulwurf	Maulwurf	0
+95	TUTT k9	III_33_0002	Herzogenweiler, Herzogenweiler	8.37157, 48.0254	maulwurf	mulwuerf	2	maulwurf	mulwurf	1	Maulwurf	Maulwurf	0
+96	KST F1	na	Karlsruhe-Beiertheim	8.37277, 48.9907	maulworf	na	999	maulworf	na	999	Maulwurf	na	999
+97	TUTT N9	na	Degernau	8.38187, 47.66635	mulwurf	na	999	mulwurf	na	999	Maulwurf	na	999
+98	KST F2	III_22_0001	Bulach, Bulach	8.38244, 48.9868	maulwerf	maulwurf	1	maulwurf	maulwurf	0	Maulwurf	Maulwurf	0
+99	KST F12	na	Ettlingenweier	8.38589, 48.92887	maulwurf	na	999	maulwurf	na	999	Maulwurf	na	999
+100	KST N12	na	Moosbronn	8.38849, 48.83638	maulwurf	na	999	maulwurf	na	999	Maulwurf	na	999
+101	KST r4	III_20_0006	Leopoldshafen, Leopoldshafen	8.3923, 49.09933	maulwurf	maulwurf	0	maulwurf	maulwurf	0	Maulwurf	Maulwurf	0
+102	KST F14/2, KST F14/1	III_22_0004, III_22_0006	Ettlingen, Ettlingen , Ettlingen	8.40245, 48.94247	maulworf, maulwurf	maulworf	0	maulworf, maulwurf	maulworf	0	Maulwurf	Maulwurf	0
+103	KST k1	III_19_0003	Rheinsheim, Rheinsheim	8.40954, 49.23272	mauälf	mauelf	1	mauelf	mauelf	0	Maulwurf	Maulwurf	0
+104	KST N5	na	Schöllbronn bei Ettlingen	8.42179, 48.89892	maulwurf	na	999	maulwurf	na	999	Maulwurf	na	999
+105	TUTT c8	na	Mönchweiler	8.42939, 48.09993	mulwurf	na	999	mulwurf	na	999	Maulwurf	na	999
+106	KST N6	na	Spessart	8.42992, 48.91189	maulwurf	na	999	maulwurf	na	999	Maulwurf	na	999
+107	TUTT F12	III_36_0011	Lembach, Lembach	8.43056, 47.80389	mūlwurf	mulwurf	1	mulwurf	mulwurf	0	Maulwurf	Maulwurf	0
+108	TUTT y9	na	Döggingen	8.43444, 47.8919	mulwurf	na	999	mulwurf	na	999	Maulwurf	na	999
+109	TUTT Ua2	na	Hohentengen	8.43962, 47.57174	mulwurf	na	999	mulwurf	na	999	Maulwurf	na	999
+110	Ma f1/2	na	Mannheim-Sandhofen	8.44789, 49.5433	maulworf	na	999	maulworf	na	999	Maulwurf	na	999
+111	KST N11	III_23_0013	Schielberg, Schielberg	8.44945, 48.84311	maulwurf	maulwurf	0	maulwurf	maulwurf	0	Maulwurf	Maulwurf	0
+112	KST y 5	III_21_0004	Rintheim, Rintheim	8.45071, 49.0099	maulwurf	maulwurf	0	maulwurf	maulwurf	0	Maulwurf	Maulwurf	0
+113	KST F4	na	Wolfartsweier	8.45219, 48.97443	maulwurf	na	999	maulwurf	na	999	Maulwurf	na	999
+114	KST k2	III_19_0004, III_19_0005, III_19_0007	Philippsburg, Philippsburg	8.45298, 49.235	maulwurf	maulworf, maulwurf	0	maulwurf	maulworf, meulwurf	1	Maulwurf	Maulwurf	0
+115	KST F5	na	Karlsruhe-Aue	8.46138, 48.9881	maulwurf	na	999	maulwurf	na	999	Maulwurf	na	999
+116	KST F10	na	Busenbach	8.46237, 48.93179	maulwurf	na	999	maulwurf	na	999	Maulwurf	na	999
+117	TUTT F8	na	Weizen	8.46354, 47.77888	mūlworf	na	999	mulworf	na	999	Maulwurf	na	999
+118	KST N7	III_23_0003	Etzenrot, Etzenrot	8.46465, 48.90968	maulwurf	maulwurf	0	maulwurf	maulwurf	0	Maulwurf	Maulwurf	0
+119	KST k3	III_19_0008	Huttenheim, Huttenheim	8.46955, 49.1967	mauolf	mawulf	2	mauolf	mawulf	2	Maulwurf	Maulwurf	0
+120	KST y1	na	Blankenloch	8.47137, 49.06482	maulwurf	na	999	maulwurf	na	999	Maulwurf	na	999
+121	TUTT r9	III_34_0005	Aufen, Aufen	8.47258, 47.964	muhlwurf	muhlworf	1	mulwurf	mulworf	1	Maulwurf	Maulwurf	0
+122	KST c1	III_18_0010	Rheinhausen, Rheinhausen	8.47341, 49.28141	maulwourf, maulworf	maulworf	0	maulworf	maulworf	0	Maulwurf	Maulwurf	0
+123	Ma h1/1	na	Siedlung Schönau (Mannheim)	8.47602, 49.54338	maulwurf	na	999	maulwurf	na	999	Maulwurf	na	999
+124	Ma f2	na	Mannheim-Waldhof (Luzenberg)	8.47981, 49.52527	maulwurf	na	999	maulwurf	na	999	Maulwurf	na	999
+125	KST r6	na	Graben	8.48928, 49.16535	maulworf	na	999	maulworf	na	999	Maulwurf	na	999
+126	Ma h2/3, Ma h2/1	II_59_0064	Neckarau, Mannheim-Neckarau, Mannheim	8.49104, 49.45335	maulwoaf, maulwurf	maulwurf	0	maulworf, maulwurf	maulwurf	0	Maulwurf	Maulwurf	0
+127	KST l9	III_19_0012, III_19_0011, III_19_0009, III_19_0010	Neudorf, Neudorf	8.49692, 49.17524	maulworf	maulworf	0	maulworf	maulworf	0	Maulwurf	Maulwurf	0
+128	TUTT F10	na	Blumegg	8.49815, 47.80904	mūlwurf	na	999	mulwurf	na	999	Maulwurf	na	999
+129	KST d2	III_18_0008, III_18_0009	Altlußheim, Altlussheim	8.49951, 49.30106	maulwūrf	maulworff	2	maulwurf	maulworf	1	Maulwurf	Maulwurf	0
+130	MH za1	na	Mannheim-Gartenstadt	8.50016, 49.5305	maulwuͣf	na	999	maulwurf	na	999	Maulwurf	na	999
+131	KST O8	III_23_0009, III_23_0010, III_23_0008	Langenalb, Langenalb	8.50104, 48.84402	maulwurf	maulwurf	0	maulwurf	maulwurf	0	Maulwurf	Maulwurf	0
+132	KST O1	na	Langensteinbach	8.50638, 48.915	maulworf	na	999	maulworf	na	999	Maulwurf	na	999
+133	KST s7	III_20_0015, III_20_0013, III_20_0014	Staffort, Staffort	8.51034, 49.09079	maulworf	maulworf, maulwurf	0	maulworf	maulworf, maulwurf	0	Maulwurf	Maulwurf	0
+134	MH z4/1, MH z4/2	II_58_0065, II_58_0066	Mannheim-Käfertal, Käferthal	8.51715, 49.51259	maulwurf	maulworf	1	maulwurf	maulworf	1	Maulwurf	Maulwurf	0
+135	KST d8	III_18_0016	Waghäusel, Waghäusel	8.51733, 49.25118	maulworf	maulwurf	1	maulworf	maulwurf	1	Maulwurf	Maulwurf	0
+136	KST l1	III_19_0013	Wiesental, Wiesental	8.51962, 49.22472	maulwurf	maulwurf	0	maulwurf	maulwurf	0	Maulwurf	Maulwurf	0
+137	KST d3	III_18_0017	Neulußheim, Neulußheim	8.522, 49.29291	maulworf	maulworf	0	maulworf	maulworf	0	Maulwurf	Maulwurf	0
+138	MH Q7	II_60_0033	Ketsch, Ketsch	8.52432, 49.3678	maulwurf	mualwurf	2	maulwurf	muelwurf	2	Maulwurf	Maulwurf	0
+139	MH H10/1	II_59_0074	Rheinau, Rheinau	8.53056, 49.42924	maulworf	maulwurf	1	maulworf	maulwurf	1	Maulwurf	Maulwurf	0
+140	TUTT z8	III_35_0019	Blumberg, Blumberg	8.53265, 47.83981	mulwurf	mulwurf	0	mulwurf	mulwurf	0	Maulwurf	Maulwurf	0
+141	MH H2	II_59_0067	Feudenheim, Feudenheim	8.53299, 49.4864	maulwōf, maulwōrf	maulwurf	1	maulworf	maulwurf	1	Maulwurf	Maulwurf	0
+142	MH Q1	II_60_0032	Brühl, Brühl	8.53485, 49.3951	maulworf, maulwurf	maulwoaf	1	maulwurf	maulworf	1	Maulwurf	Maulwurf	0
+143	KST d1	III_18_0015	Hockenheim, Hockenheim	8.54755, 49.31857	maulworf	maulworf	0	maulworf	maulworf	0	Maulwurf	Maulwurf	0
+144	MH H1	na	Wennheim-Wallstadt	8.5484, 49.4957	maulwurf	na	999	maulwurf	na	999	Maulwurf	na	999
+145	KST l2	III_19_0161	Kirrlach, Kirrlach	8.54938, 49.24183	mawelf	mawelf	0	mawelf	mawelf	0	Maulwurf	Maulwurf	0
+146	KST s8	III_20_0023, III_20_0022, III_20_0021	Untergrombach, Untergrombach	8.55318, 49.0861	maulworf	maulworf, maulwurf	0	maulworf	maulworf, maulwurf	0	Maulwurf	Maulwurf	0
+147	TUTT G2/1	na	Epfenhofen	8.55432, 47.81867	mulwurf	na	999	mulwurf	na	999	Maulwurf	na	999
+148	MH H6	II_59_0068	Seckenheim, Seckenheim	8.56313, 49.46724	maulworf	maulworf	0	maulworf	maulworf	0	Maulwurf	Maulwurf	0
+149	KST G3	III_22_0016	Singen bei Pforzheim, Singen	8.56804, 48.95764	maulwurf	maufwurf	1	maulwurf	maufwurf	1	Maulwurf	Maulwurf	0
+150	MH Q2	II_60_0035, II_60_0034	Schwetzingen, Schwetzingen	8.57064, 49.38567	maulwurf	maulworf	1	maulwurf	maulworf	1	Maulwurf	Maulwurf	0
+151	KST G4	III_22_0017	Wilferdingen, Wilferdingen	8.57281, 48.9487	maulwurf	maulwurf	0	maulwurf	maulwurf	0	Maulwurf	Maulwurf	0
+152	KST z7	na	Jöhlingen	8.5744, 49.03222	maulwurf	na	999	maulwurf	na	999	Maulwurf	na	999
+153	MH H7	na	Mannheim-Friedrichsfeld	8.57534, 49.44026	maulwoͦrf	na	999	maulworf	na	999	Maulwurf	na	999
+154	MH Q6	II_60_0092	Oftersheim, Oftersheim	8.58107, 49.36823	maulwoorf	maulworf	1	maulworf	maulworf	0	Maulwurf	Maulwurf	0
+155	KST z 1	na	Obergrombach	8.58542, 49.07709	maulworf	na	999	maulworf	na	999	Maulwurf	na	999
+156	MH Q3	II_60_0036	Plankstadt, Plankstadt	8.59271, 49.39179	maulworf	maulwurf	1	maulworf	maulwurf	1	Maulwurf	Maulwurf	0
+157	TUTT V1	na	Altenburg	8.59899, 47.65513	mulwurf	na	999	mulwurf	na	999	Maulwurf	na	999
+158	KST s2, KST s11	na	Bruchsal (Forstamt), Bruchsal	8.60102, 49.12377	maulworf, maulwurf	na	999	maulworf, maulwurf	na	999	Maulwurf	na	999
+159	MH z3	II_58_0067	Heddesheim, Heddesheim	8.60327, 49.50529	maulwuaf	maulwurf	1	maulwurf	maulwurf	0	Maulwurf	Maulwurf	0
+160	MH H4	II_59_0070	Ladenburg, Ladenburg	8.61098, 49.47244	maulwoaf	maulwurf	2	maulworf	maulwurf	1	Maulwurf	Maulwurf	0
+161	MH H8	II_59_0073	Edingen, Edingen	8.61196, 49.44847	maulwuorf	maulwurf	1	maulwurf	maulwurf	0	Maulwurf	Maulwurf	0
+162	TUTT G3	na	Kommingen	8.61478, 47.81599	maulwurf	na	999	maulwurf	na	999	Maulwurf	na	999
+163	KST G10	na	Bilfingen	8.61996, 48.95027	maulwurf	na	999	maulwurf	na	999	Maulwurf	na	999
+164	KST d5	III_18_0020	Walldorf, Walldorf	8.64294, 49.3028	maulwōaf	maulwurf	2	maulworf	maulwurf	1	Maulwurf	Maulwurf	0
+165	MH R1/2	na	Heidelberg-Pfaffengrund	8.64698, 49.40282	maulwurf	na	999	maulwurf	na	999	Maulwurf	na	999
+166	MH r2	na	Hemsbach	8.64707, 49.59198	mulldruff	na	999	muldruf	na	999	Maulwurf	na	999
+167	MH H9	na	Heidelberg-Wieblingen	8.64805, 49.42539	maulworf, maulwurf	na	999	maulworf, maulwurf	na	999	Maulwurf	na	999
+168	MH r1	II_57_0082, II_57_0081	Laudenbach, Laudenbach	8.65434, 49.6119	mulbruff	mulbruff	0	mulbruf	mulbruf	0	Maulwurf	Maulwurf	0
+169	MH H11	II_58_0068	Leutershausen, Leutershausen	8.65616, 49.49821	multruff	mulldruff	2	muldruf	muldruf	0	Maulwurf	Maulwurf	0
+170	MH Q5	II_60_0038	Sandhausen, Sandhausen	8.65837, 49.34236	maulworef	maulwurf	2	maulworef	maulwurf	2	Maulwurf	Maulwurf	0
+171	MH z2	II_58_0069	Großsachsen, Grosssachsen	8.6595, 49.51193	multruff	mulldruft	3	muldruf	muldruft	1	Maulwurf	Maulwurf	0
+172	MH z1	II_58_0072	Sulzbach, Sulzbach	8.661, 49.57763	maulworf	muldruff	5	maulworf	muldruf	4	Maulwurf	Maulwurf	0
+173	MH J1	II_59_0071	Schrießheim, Schriesheim	8.66514, 49.47649	mulldruff	mulldriff	1	muldruf	muldrif	1	Maulwurf	Maulwurf	0
+174	MH A2	II_58_0071	Lützelsachsen, Lützelsachsen	8.66627, 49.52737	mullderuff	mullderuff	0	mulderuf	mulderuf	0	Maulwurf	Maulwurf	0
+175	MH R2	na	Heidelberg-Kirchheim	8.66773, 49.37837	maulwoaf	na	999	maulworf	na	999	Maulwurf	na	999
+176	KST P2	III_23_0029, III_23_0032, III_23_0031	Brötzingen, Pforzheim-Brötzingen	8.66799, 48.889	maulwurf	maulwurf	0	maulwurf	maulwurf	0	Maulwurf	Maulwurf	0
+177	MH J2	II_59_0076	Dossenheim, Dossenheim	8.66806, 49.44988	maulworf	maulworf	0	maulworf	maulworf	0	Maulwurf	Maulwurf	0
+178	MH A3	II_58_0070	Hohensachsen, Hohensachsen	8.66935, 49.51919	muldruf	mulldruff	2	muldruf	muldruf	0	Maulwurf	Maulwurf	0
+179	MH A1	II_58_0073	Weinheim, Weinheim	8.67068, 49.55495	mulderuff	maulworf, mulltruff	2	mulderuf	muldruf, maulworf	1	Maulwurf	Maulwurf	0
+180	KST A6	na	Diedelsheim	8.67848, 49.04109	maulworf	na	999	maulworf	na	999	Maulwurf	na	999
+181	MH J3/2, MH J3/1	II_59_0077	Handschuhsheim, Heidelberg-Handschuhsheim, Heidelberg-Handschuhsheim	8.68613, 49.42774	maulwůrf, maulwurf	maulworf	1	maulwurf	maulworf	1	Maulwurf	Maulwurf	0
+182	MH R5, MH R4	II_60_0042	Leimen, Leimen	8.68891, 49.34902	maulworf, maulwurf	maulworf	0	maulworf, maulwurf	maulworf	0	Maulwurf	Maulwurf	0
+183	KST t2	na	Oberöwisheim	8.6891, 49.14532	maulwurf	na	999	maulwurf	na	999	Maulwurf	na	999
+184	MH R3	II_60_0041	Heidelberg-Rohrbach, Heidelberg-Rohrbach	8.69, 49.38005	maulworf	maulwurf	1	maulworf	maulwurf	1	Maulwurf	Maulwurf	0
+185	TUTT P6	III_37_0011, III_37_0012	Büsingen, Büsingen	8.69282, 47.69702	mulwurf	mulwurf	0	mulwurf	mulwurf	0	Maulwurf	Maulwurf	0
+186	KST P7	na	Huchenfeld	8.69574, 48.85613	maulwurf	na	999	maulwurf	na	999	Maulwurf	na	999
+187	KST e1	na	Nussloch	8.69576, 49.32301	maulworf, maulwof	na	999	maulworf	na	999	Maulwurf	na	999
+188	KST P3/3, KST P3/4, KST P3/1	III_23_0039, III_23_0043, III_23_0045, III_23_0040, III_23_0046, III_23_0047, III_23_0049, III_23_0052, III_23_0042, III_23_0051, III_23_0036, III_23_0044, III_23_0037, III_23_0038, III_23_0041, III_23_0048	Pforzheim, Pforzheim	8.70025, 48.89013	maulwurf	maulwurf	0	maulwurf	maulwurf	0	Maulwurf	Maulwurf	0
+189	KST e2/2, KST e2/1	III_18_0036	Wiesloch, Wiesloch	8.70178, 49.29504	maulwurf, maūlwurf	maulwoof	2	maulwurf	maulworf	1	Maulwurf	Maulwurf	0
+190	KST A5	na	Bretten	8.70657, 49.03456	maulworf	na	999	maulworf	na	999	Maulwurf	na	999
+191	KST H3	III_22_0029	Göbrichen, Göbrichen	8.70848, 48.95808	maulwurf	maulwurf	0	maulwurf	maulwurf	0	Maulwurf	Maulwurf	0
+192	MH A4	II_58_0076	Rippenweier, Rippenweier	8.70861, 49.50646	mullbruff	mullbruff	0	mulbruf	mulbruf	0	Maulwurf	Maulwurf	0
+193	MH J8	na	Ursenbach	8.72439, 49.49399	mullbruff	na	999	mulbruf	na	999	Maulwurf	na	999
+194	MH A5	II_58_0077	Oberflockenbach, Oberflockenbach	8.73109, 49.51102	mullbruff	mullbruff	0	mulbruf	mulbruf	0	Maulwurf	Maulwurf	0
+195	MH J7	II_59_0081	Altenbach / Schriesheim, Altenbach	8.73843, 49.48622	mahlbruf	mulbruf	2	malbruf	mulbruf	1	Maulwurf	Maulwurf	0
+196	MH A6	II_58_0091	Steinklingen, Steinklingen	8.74393, 49.51166	mulbruf	mulbruf	0	mulbruf	mulbruf	0	Maulwurf	Maulwurf	0
+197	TUTT P5	na	Gailingen	8.75499, 47.69685	muhlwurf	na	999	mulwurf	na	999	Maulwurf	na	999
+198	MH J5	na	Peterstal (keine eigene GID, gleiche wie Wilhelmsfeld)	8.75548, 49.44624	maulworf	na	999	maulworf	na	999	Maulwurf	na	999
+199	MH J4	II_59_0079	Ziegelhausen, Ziegelhausen	8.75688, 49.41876	maulworf	maulworf	0	maulworf	maulworf	0	Maulwurf	Maulwurf	0
+200	TUTT P1	na	Ebringen	8.75733, 47.75075	maulwurf	na	999	maulwurf	na	999	Maulwurf	na	999
+201	TUTT t3	na	Möhringen	8.75916, 47.96779	maūlwurf	na	999	maulwurf	na	999	Maulwurf	na	999
+202	MH R14	II_60_0051	Schlierbach, Schlierbach	8.76062, 49.41501	maulwurf	mollwurf	2	maulwurf	molwurf	2	Maulwurf	Maulwurf	0
+203	MH J9	na	Lampenhain	8.76294, 49.49811	mulwruff	na	999	mulwruf	na	999	Maulwurf	na	999
+204	MH J10	II_59_0082	Heiligkreuzsteinach, Heiligkreuzsteinach	8.79709, 49.48538	mullbruff	mulbruf	2	mulbruf	mulbruf	0	Maulwurf	Maulwurf	0
+205	MH R13	II_60_0045	Neckargemünd, Neckargemünd	8.79751, 49.39508	maulwurf	maulwurf	0	maulwurf	maulwurf	0	Maulwurf	Maulwurf	0
+206	KST W3	III_24_0026	Tiefenbronn, Tiefenbronn	8.80329, 48.82521	maulwurf	maulwurf	0	maulwurf	maulwurf	0	Maulwurf	Maulwurf	0
+207	MH J12	II_59_0083	Altneudorf, Altneudorf	8.80481, 49.46366	mulberuf	mulbaruff, mulbruff	2	mulbruf	mulbruf, mulbaruf	0	Maulwurf	Maulwurf	0
+208	MH A7	na	Eiterbach	8.80869, 49.50208	mullbruff	na	999	mulbruf	na	999	Maulwurf	na	999
+209	MH J13	II_59_0084	Schönau bei Heidelberg, Schönau	8.80977, 49.43706	mulbaruf	mulbaruf	0	mulbruf	mulbaruf	1	Maulwurf	Maulwurf	0
+210	TUTT A5	III_35_0036	Biesendorf, Biesendorf	8.81255, 47.91175	maulwurf	maulwurf	0	maulwurf	maulwurf	0	Maulwurf	Maulwurf	0
+211	TUTT H2	na	Mühlhausen	8.81866, 47.80792	mulwurf	na	999	mulwurf	na	999	Maulwurf	na	999
+212	KST W5	III_24_0036	Mühlhausen , Mühlhausen	8.82201, 48.80607	maulwurf	maulwurf	0	maulwurf	maulwurf	0	Maulwurf	Maulwurf	0
+213	MH J11	na	Heddesbach	8.82774, 49.48208	mullbruff	na	999	mulbruf	na	999	Maulwurf	na	999
+214	MH S1	II_60_0052	Dilsberg, Dilsberg	8.8362, 49.39832	mullderuff	mullderuff	0	mulderuf	mulderuf	0	Maulwurf	Maulwurf	0
+215	MH S2	na	Mückenloch	8.8554, 49.3886	mūlwurf	na	999	mulwurf	na	999	Maulwurf	na	999
+216	MH K1	II_59_0085	Brombach (bei Hirschhorn), Brombach	8.8675, 49.48863	mullbruff, mullberuff	mulberuf	2	mulbruf, mulberuf	mulberuf	0	Maulwurf	Maulwurf	0
+217	TUTT J5	na	Friedingen	8.87581, 47.78669	mulwurf	na	999	mulwurf	na	999	Maulwurf	na	999
+218	MH K8	II_59_0097	Neckarhäuserhof, Neckarhäuserhof	8.88191, 49.41513	maulwurf	mulbruf	4	maulwurf	mulbruf	4	Maulwurf	Maulwurf	0
+219	TUTT Q12	na	Schienen	8.90035, 47.68774	mūlwurf	na	999	mulwurf	na	999	Maulwurf	na	999
+220	MH K2	na	Igelsbach	8.94534, 49.46217	muhlbruff	na	999	mulbruf	na	999	Maulwurf	na	999
+221	TUTT B10	na	Raithaslach	8.96262, 47.88125	mulwurf	na	999	mulwurf	na	999	Maulwurf	na	999
+222	MH K3	II_59_0092	Eberbach, Eberbach	8.98755, 49.46322	muldruf	mulldruf	1	mulbruf	muldruf	1	Maulwurf	Maulwurf	0
+223	TUTT o2	na	Hausen im Tal	9.03969, 48.0848	maulwurf	na	999	maulwurf	na	999	Maulwurf	na	999
+224	MH T7	na	Mörtelstein	9.04246, 49.35708	maulworf	na	999	maulworf	na	999	Maulwurf	na	999
+225	MH C1	II_58_0102	Friedrichsdorf, Friedrichsdorf	9.054, 49.52034	maulworf	maulworf	0	maulworf	maulworf	0	Maulwurf	Maulwurf	0
+226	MH T6	II_60_0074	Binau, Binau	9.0577, 49.36658	maulworf	maulworf	0	maulworf	maulworf	0	Maulwurf	Maulwurf	0
+227	MH L9	na	Mülben	9.09946, 49.46414	maulworf	na	999	maulworf	na	999	Maulwurf	na	999
+228	MH T11	na	Diedesheim	9.11367, 49.34933	maulworf	na	999	maulworf	na	999	Maulwurf	na	999
+229	TUTT K10	na	Hödingen	9.13275, 47.78865	mūlwurf	na	999	mulwurf	na	999	Maulwurf	na	999
+230	MH T13	II_60_0082	Mosbach, Mosbach	9.14619, 49.35501	maulworf	maulworf	0	maulworf	maulworf	0	Maulwurf	Maulwurf	0
+231	MH U1	II_60_0083	Neckarburken, Neckarburken	9.165, 49.37662	maulworf	maulwurf	1	maulworf	maulwurf	1	Maulwurf	Maulwurf	0
+232	MH U10	na	Sattelbach	9.16732, 49.40849	maulwurf	na	999	maulwurf	na	999	Maulwurf	na	999
+233	MH U2	na	Dallau	9.19192, 49.38655	maulwo̠rf	na	999	maulworf	na	999	Maulwurf	na	999
+234	SIG n3	III_36_0076	Hohenbodmann, Hohenbodmann	9.21042, 47.82312	mulwurf	mulwurf	0	mulwurf	mulwurf	0	Maulwurf	Maulwurf	0
+235	MH U9	II_60_0094	Auerbach, Auerbach	9.22666, 49.39927	maulwurf	maulwurf	0	maulwurf	maulwurf	0	Maulwurf	Maulwurf	0
+236	MH M10	na	Heidersbach	9.2468, 49.45517	maulwurf	na	999	maulwurf	na	999	Maulwurf	na	999
+237	MH U5	II_60_0086	Unterschefflenz, Unterschefflenz	9.27076, 49.39154	maulruff	mauruf	2	maulruf	mauruf	1	Maulwurf	Maulwurf	0
+238	SIG q8/1	na	Meersburg	9.27244, 47.69466	maulwurf	na	999	maulwurf	na	999	Maulwurf	na	999
+239	MH U4	na	Mittelschefflenz	9.27967, 49.40042	maulwūrf	na	999	maulwurf	na	999	Maulwurf	na	999
+240	MH M13	na	Großeicholzheim	9.28966, 49.44361	muref	na	999	muref	na	999	Maulwurf	na	999
+241	MH M12	na	Bödigheim	9.31522, 49.47408	maulwurf	na	999	maulwurf	na	999	Maulwurf	na	999
+242	SIG q10	III_37_0048	Hagnau, Hagnau	9.31963, 47.67634	mulwurf	maulwurf	1	mulwurf	maulwurf	1	Maulwurf	Maulwurf	0
+243	SIG n10	na	Beuren	9.32135, 47.80541	maulwurf	na	999	maulwurf	na	999	Maulwurf	na	999
+244	SIG n15	na	Röhrenbach	9.3248, 47.82972	maulwurf	na	999	maulwurf	na	999	Maulwurf	na	999
+245	MH n1	na	Freudenberg	9.32533, 49.75145	maulwurf	na	999	maulwurf	na	999	Maulwurf	na	999
+246	MH N3	II_59_0123	Seckach, Seckach	9.33368, 49.44238	mūruf	muruf	1	muruf	muruf	0	Maulwurf	Maulwurf	0
+247	SIG r7	na	Ittendorf	9.34074, 47.70119	mulwurf	na	999	mulwurf	na	999	Maulwurf	na	999
+248	STU u1	III_26_0090	Nürtingen, Nürtingen	9.34192, 48.62663	maulwärf	maulwurf	1	maulwurf	maulwurf	0	Maulwurf	Maulwurf	0
+249	SIG o1	na	Betenbrunn	9.34649, 47.8185	mulwurf	na	999	mulwurf	na	999	Maulwurf	na	999
+250	MH N1	II_92_0002	Eberstadt, Eberstadt	9.3666, 49.47727	maulworf	maulwerf	1	maulworf	maulwerf	1	Maulwurf	Maulwurf	0
+251	MH E7	na	Walldürn	9.36793, 49.58322	maulwurf	na	999	maulwurf	na	999	Maulwurf	na	999
+252	MH N2	II_92_0003	Schlierstadt, Schlierstadt	9.36816, 49.45257	maulwůrf	mauruff	4	maulwurf	mauruf	3	Maulwurf	Maulwurf	0
+253	MH N4/1	na	Zimmern	9.37304, 49.43313	móruf	na	999	moruf	na	999	Maulwurf	na	999
+254	MH V2	II_93_0002	Sennfeld, Sennfeld	9.38438, 49.38045	maulworf	maulwurf	1	maulworf	maulwurf	1	Maulwurf	Maulwurf	0
+255	SIG o2	III_36_0089	Deggenhausen, Deggenhausen	9.3844, 47.80143	maulwurf	mulwurf	1	maulwurf	mulwurf	1	Maulwurf	Maulwurf	0
+256	MH V1	II_93_0003	Adlesheim, Adlesheim	9.39101, 49.40289	maulworf	maulworf	0	maulworf	maulworf	0	Maulwurf	Maulwurf	0
+257	MH V5	na	Korb	9.39732, 49.35594	maulwurf	na	999	maulwurf	na	999	Maulwurf	na	999
+258	MH N10/1, MH N10/2	na	Hemsbach	9.40014, 49.42726	maulwurf	na	999	maulwurf	na	999	Maulwurf	na	999
+259	MH N11	na	Bofsheim	9.41226, 49.4714	maulwurf	na	999	maulwurf	na	999	Maulwurf	na	999
+260	MH N5	na	Osterburken	9.42838, 49.4308	maulwurf	na	999	maulwurf	na	999	Maulwurf	na	999
+261	SIG o4	na	Limpach	9.42902, 47.79495	maulwurf	na	999	maulwurf	na	999	Maulwurf	na	999
+262	MH V4	II_93_0006	Unterkessach, Unterkessach	9.43829, 49.34571	maulwurf	maulwurf	0	maulwurf	maulwurf	0	Maulwurf	Maulwurf	0
+263	MH N9	II_92_0008	Rosenberg, Rosenberg	9.4752, 49.45583	maulwurf	maulwurf	0	maulwurf	maulwurf	0	Maulwurf	Maulwurf	0
+264	MH N6	II_92_0133	Bronnacker, Bronnacker	9.48305, 49.4446	maulwurf	maulwurf	0	maulwurf	maulwurf	0	Maulwurf	Maulwurf	0
+265	MH W11	II_93_0010	Merchingen, Merchingen	9.50633, 49.4003	maulworf	maulworf	0	maulworf	maulworf	0	Maulwurf	Maulwurf	0
+266	MH W1	II_93_0009	Hüngheim, Hüngheim	9.51823, 49.41257	maulworf	maulwurf	1	maulworf	maulwurf	1	Maulwurf	Maulwurf	0
+267	MH W10	na	Unterwittstadt	9.54936, 49.41004	maulworf	na	999	maulworf	na	999	Maulwurf	na	999
+268	MH W2	II_93_0011	Ballenberg, Ballenberg	9.55086, 49.40093	maulworf	maulworf	0	maulworf	maulworf	0	Maulwurf	Maulwurf	0
+269	MH W3	II_93_0012	Erlenbach, Erlenbach	9.5514, 49.38553	maulworf	maulworf	0	maulworf	maulworf	0	Maulwurf	Maulwurf	0
+270	MH O7	II_92_0014	Oberwittstadt, Oberwittstadt	9.55565, 49.43027	mauerouf	maulwurf	4	maulwurf	maulwurf	0	Maulwurf	Maulwurf	0
+271	MH W9	II_93_0015	Winzenhofen, Winzenhofen	9.57229, 49.35628	maulwurf	maulaff	3	maulwurf	maulaff	3	Maulwurf	Maulwurf	0
+272	MH W4	na	Oberndorf	9.59181, 49.40817	maulwourf	na	999	maulwurf	na	999	Maulwurf	na	999
+273	MH W8	II_93_0018	Gommersdorf, Gommersdorf	9.61253, 49.36877	maulwurf	maulworf	1	maulwurf	maulworf	1	Maulwurf	Maulwurf	0
+274	MH W5	II_93_0020	Neunstetten, Neunstetten	9.61267, 49.41114	maulwurf	maulwurf	0	maulwurf	maulwurf	0	Maulwurf	Maulwurf	0
+275	MH W7	II_93_0022	Krautheim, Krautheim	9.63369, 49.39159	maulwŏrf	maulwurf	1	maulworf	maulwurf	1	Maulwurf	Maulwurf	0
+276	MH W6	II_93_0021	Horrenbach, Horrenbach	9.66028, 49.40826	maulwurf	maulwurf	0	maulwurf	maulwurf	0	Maulwurf	Maulwurf	0
+277	na	III_14_0084	Kirchberg	6.95965, 47.79904	na	maulwurf	999	na	maulwurf	999	na	Maulwurf	999
+278	na	III_5_0029	Saarbuckenheim	7.08686, 48.93919	na	mülwurf	999	na	mülwurf	999	na	Maulwurf	999
+279	na	III_5_0039	Lorenzen	7.1752, 48.95249	na	mülwurf	999	na	mülwurf	999	na	Maulwurf	999
+280	na	III_14_0024	Bollweiler	7.25961, 47.86006	na	mülwurf	999	na	mülwurf	999	na	Maulwurf	999
+281	na	III_6_0033	Schönburg	7.26823, 48.83392	na	maulwurf	999	na	maulwurf	999	na	Maulwurf	999
+282	na	III_14_0104	Lutterbach	7.28171, 47.7605	na	mülwurf	999	na	mülwurf	999	na	Maulwurf	999
+283	na	III_11_0008	St, Martin	7.28942, 48.35047	na	mürwolf	999	na	mürwolf	999	na	Maulwurf	999
+284	na	III_14_0122	Illzach	7.34839, 47.78217	na	mülwurf	999	na	mülwurf	999	na	Maulwurf	999
+285	na	III_6_0039	Sparsbach	7.41533, 48.87754	na	maulwurf	999	na	maulwurf	999	na	Maulwurf	999
+286	na	III_6_0047	Weinburg	7.44029, 48.87157	na	mülwurf	999	na	mülwurf	999	na	Maulwurf	999
+287	na	III_7_0052	Riedheim	7.47956, 48.81064	na	müllwarf	999	na	mülwarf	999	na	Maulwurf	999
+288	na	III_8_0061	Willgottheim	7.51166, 48.67082	na	maulwurf	999	na	maulwurf	999	na	Maulwurf	999
+289	na	III_14_0133	Banzenheim	7.51396, 47.82468	na	mülwurf	999	na	mülwurf	999	na	Maulwurf	999
+290	na	III_15_0047	Bellingen	7.55728, 47.7319	na	mulwurf	999	na	mulwurf	999	na	Maulwurf	999
+291	na	III_16_0061	Neudorf	7.57149, 47.60532	na	mualwurf	999	na	muelwurf	999	na	Maulwurf	999
+292	na	III_9_0040	Hürtigheim	7.59369, 48.6152	na	maulwurf	999	na	maulwurf	999	na	Maulwurf	999
+293	na	III_4_0077	Dambach	7.63179, 49.00256	na	mülwurf	999	na	mülwurf	999	na	Maulwurf	999
+294	na	III_14_0140	Feldberg	7.64081, 47.7737	na	mulwurf	999	na	mulwurf	999	na	Maulwurf	999
+295	na	III_13_0038	Ihringen	7.64554, 48.04572	na	mülwurf	999	na	mülwurf	999	na	Maulwurf	999
+296	na	III_14_0143	Zunzingen	7.65195, 47.82164	na	mulwurf	999	na	mulwurf	999	na	Maulwurf	999
+297	na	III_16_0080	Lörrach	7.66409, 47.61258	na	muulwurf	999	na	mulwurf	999	na	Maulwurf	999
+298	na	III_13_0127	Niederrimsingen	7.67114, 47.98702	na	mülwurf	999	na	mülwurf	999	na	Maulwurf	999
+299	na	III_11_0106	Boofzheim	7.68036, 48.33214	na	mülwarf	999	na	mülwarf	999	na	Maulwurf	999
+300	na	III_16_0094	Brombach	7.69236, 47.63395	na	muulwurf	999	na	mulwurf	999	na	Maulwurf	999
+301	na	III_16_0093	Hauingen	7.69375, 47.64287	na	mulwurf	999	na	mulwurf	999	na	Maulwurf	999
+302	na	III_14_0049	Ballrechten	7.70076, 47.86061	na	maulwurf	999	na	maulwurf	999	na	Maulwurf	999
+303	na	III_10_0042	Illkirch-Grafenstaden	7.71183, 48.5288	na	maulwurf	999	na	maulwurf	999	na	Maulwurf	999
+304	na	III_9_0069, III_9_0059	Straßburg	7.73609, 48.58523	na	müellwurf, müllwurf	999	na	müelwurf, mülwurf	999	na	Maulwurf	999
+305	na	III_6_0075	Hagenheim	7.74557, 48.89153	na	mülwůrf	999	na	mülwurf	999	na	Maulwurf	999
+306	na	III_16_0099	Höllstein	7.74574, 47.63943	na	muulwurf	999	na	mulwurf	999	na	Maulwurf	999
+307	na	III_12_0046	Hecklingen	7.76731, 48.16962	na	mulwurf	999	na	mulwurf	999	na	Maulwurf	999
+308	na	III_12_0037, III_12_0039	Herbolzheim	7.77743, 48.22249	na	mülwurf	999	na	mülwurf	999	na	Maulwurf	999
+309	na	III_13_0054	Hugstetten	7.78045, 48.05415	na	mulwurf	999	na	mulwurf	999	na	Maulwurf	999
+310	na	III_12_0043	Wagenstadt	7.79647, 48.20762	na	mülwurf	999	na	mülwurf	999	na	Maulwurf	999
+311	na	III_16_0105	Karsau	7.79868, 47.58875	na	mulwurf	999	na	mulwurf	999	na	Maulwurf	999
+312	na	III_16_0107	Wiechs	7.81236, 47.63655	na	muulwurf	999	na	mulwurf	999	na	Maulwurf	999
+313	na	III_12_0045	Nordweil	7.81384, 48.19396	na	maulwurf	999	na	maulwurf	999	na	Maulwurf	999
+314	na	III_10_0047	Kehl	7.81494, 48.57419	na	mulwurf	999	na	mulwurf	999	na	Maulwurf	999
+315	na	III_16_0109, III_16_0110	Schopfheim	7.82315, 47.64973	na	muulwurf  , mulwurf	999	na	mulwurf	999	na	Maulwurf	999
+316	na	III_5_0082	Lembach-Pfaffenbronn	7.83111, 48.99355	na	mülwurf	999	na	mülwurf	999	na	Maulwurf	999
+317	na	III_16_0122	Eichen	7.83816, 47.6471	na	maulwurf	999	na	maulwurf	999	na	Maulwurf	999
+318	na	III_9_0077	Leutesheim	7.85613, 48.62423	na	maulwurf	999	na	maulwurf	999	na	Maulwurf	999
+319	na	III_11_0058	Dinglingen	7.85875, 48.34966	na	mulwurf	999	na	mulwurf	999	na	Maulwurf	999
+320	na	III_11_0059	Lahr	7.87603, 48.34018	na	mulwarf	999	na	mulwarf	999	na	Maulwurf	999
+321	na	III_16_0117	Wehr	7.9045, 47.62927	na	muulwurf	999	na	mulwurf	999	na	Maulwurf	999
+322	na	III_11_0128, III_11_0129, III_11_0127	Seelbach	7.94104, 48.30987	na	mulwurf, mulwarf	999	na	mulwurf, mulwarf	999	na	Maulwurf	999
+323	na	III_14_0071	Todtnauberg	7.94335, 47.85074	na	mulwurf	999	na	mulwurf	999	na	Maulwurf	999
+324	na	III_10_0127, III_10_0128	Offenburg	7.9447, 48.47195	na	mulwurf, maulwurf	999	na	mulwurf, maulwurf	999	na	Maulwurf	999
+325	na	III_17_0049	Säckingen	7.96171, 47.57476	na	mulwurf	999	na	mulwurf	999	na	Maulwurf	999
+326	na	III_10_0125	Zell-Weierbach	7.98174, 48.47408	na	maulwurf	999	na	maulwurf	999	na	Maulwurf	999
+327	na	III_15_0073	Todtmoos	8.00438, 47.74133	na	mulwurf	999	na	mulwurf	999	na	Maulwurf	999
+328	na	III_11_0124	Prinzbach	8.0046, 48.32294	na	mulwurf	999	na	mulwurf	999	na	Maulwurf	999
+329	na	III_6_0087	Niederrödern	8.04105, 48.90576	na	maulwurf	999	na	maulwurf	999	na	Maulwurf	999
+330	na	III_13_0154	Wagensteig	8.04607, 47.98466	na	mulwurf	999	na	mulwurf	999	na	Maulwurf	999
+331	na	III_9_0090	Achern	8.06363, 48.62871	na	muhlwurf	999	na	mulwurf	999	na	Maulwurf	999
+332	na	III_11_0138, III_11_0139	Haslach i, K,	8.08413, 48.28008	na	mulwurf	999	na	mulwurf	999	na	Maulwurf	999
+333	na	III_16_0141	Schachen	8.09406, 47.60368	na	maulwurf	999	na	maulwurf	999	na	Maulwurf	999
+334	na	III_6_0088	Schaffhausen	8.10006, 48.9087	na	muulwurf	999	na	mulwurf	999	na	Maulwurf	999
+335	na	III_14_0172, III_14_0174, III_14_0173, III_14_0171	St, Blasien	8.12792, 47.76144	na	mulwürf, mulwurf	999	na	mulwürf, mulwurf	999	na	Maulwurf	999
+336	na	III_5_0119	Scheibenhard	8.13481, 48.97663	na	maulwurf	999	na	maulwurf	999	na	Maulwurf	999
+337	na	III_10_0081	Ottenhöfen	8.15978, 48.56801	na	mulwurf	999	na	mulwurf	999	na	Maulwurf	999
+338	na	III_11_0145	Einbach	8.16759, 48.2974	na	maulwurf	999	na	maulwurf	999	na	Maulwurf	999
+339	na	III_12_0174	Gutach	8.21021, 48.25051	na	mulwurf	999	na	mulwurf	999	na	Maulwurf	999
+340	na	III_6_0108	Niederbühl	8.21769, 48.84547	na	mulwurf	999	na	mulwurf	999	na	Maulwurf	999
+341	na	III_16_0160	Indlekofen	8.22113, 47.65889	na	mulwurf	999	na	mulwurf	999	na	Maulwurf	999
+342	na	III_12_0163	Triberg	8.2316, 48.13032	na	maulwurf	999	na	maulwurf	999	na	Maulwurf	999
+343	na	III_10_0142	Bad Griesbach	8.23935, 48.45251	na	muulwurf	999	na	mulwurf	999	na	Maulwurf	999
+344	na	III_15_0126	Berau	8.25823, 47.69472	na	mulwurf	999	na	mulwurf	999	na	Maulwurf	999
+345	na	III_14_0179	Mettenberg	8.26708, 47.75087	na	mulwurf	999	na	mulwurf	999	na	Maulwurf	999
+346	na	III_11_0149	St, Roman	8.2924, 48.33187	na	maulwurf	999	na	maulwurf	999	na	Maulwurf	999
+347	na	III_14_0078	Gündelwangen	8.29672, 47.84246	na	mulwurf	999	na	mulwurf	999	na	Maulwurf	999
+348	na	III_15_0119	Krenkingen	8.30454, 47.68312	na	mulwurf	999	na	mulwurf	999	na	Maulwurf	999
+349	na	III_4_0114	Daxlanden	8.33737, 49.0022	na	maulwurf	999	na	maulwurf	999	na	Maulwurf	999
+350	na	III_30_0008	Schiltach	8.34259, 48.29033	na	maulwurf	999	na	maulwurf	999	na	Maulwurf	999
+351	na	III_37_0003	Untermettingen	8.34615, 47.70245	na	muulwurf	999	na	mulwurf	999	na	Maulwurf	999
+352	na	III_36_0005	Wittlekoffen	8.34635, 47.78326	na	maulwurf	999	na	maulwurf	999	na	Maulwurf	999
+353	na	III_38_0006	Horheim	8.34737, 47.64854	na	muulwurf	999	na	mulwurf	999	na	Maulwurf	999
+354	na	III_36_0006	Wellendingen	8.35185, 47.79705	na	mullwurf	999	na	mulwurf	999	na	Maulwurf	999
+355	na	III_34_0017	Unterbränd	8.35693, 47.93373	na	mulworf	999	na	mulworf	999	na	Maulwurf	999
+356	na	III_25_0003, III_25_0004	Forbach	8.3589, 48.67857	na	mulwurf	999	na	mulwurf	999	na	Maulwurf	999
+357	na	III_38_0007	Wutöschingen	8.36613, 47.65918	na	mulwurf	999	na	mulwurf	999	na	Maulwurf	999
+358	na	III_36_0015	Oberwangen	8.3775, 47.7761	na	mulwurf	999	na	mulwurf	999	na	Maulwurf	999
+359	na	III_23_0007	Schluttenbach	8.40022, 48.89885	na	maulwurf	999	na	maulwurf	999	na	Maulwurf	999
+360	na	III_35_0005	Unadingen	8.40711, 47.88128	na	maulwurf	999	na	maulwurf	999	na	Maulwurf	999
+361	na	III_23_0012	Burbach	8.43853, 48.87037	na	maulwurf	999	na	maulwurf	999	na	Maulwurf	999
+362	na	III_35_0010	Ewattingen	8.44464, 47.83863	na	mulworf	999	na	mulworf	999	na	Maulwurf	999
+363	na	III_22_0007	Grünwettersbach	8.46671, 48.95784	na	maulwurf	999	na	maulwurf	999	na	Maulwurf	999
+364	na	II_59_0060, II_59_0057, II_59_0044, II_59_0043, II_59_0046, II_59_0061, II_59_0049, II_59_0050, II_59_0042, II_59_0052, II_59_0047, II_59_0062, II_59_0045, II_59_0055, II_59_0040, II_59_0058, II_59_0041, II_59_0063	Mannheim	8.46678, 49.4865	na	mullwerf, maulwurf, maulwuăf, maulworf, maulwuaf	999	na	maulworf, mulwerf, maulwurf	999	na	Maulwurf	999
+365	na	III_33_0008	Klengen	8.46686, 48.00388	na	mulwurf	999	na	mulwurf	999	na	Maulwurf	999
+366	na	III_32_0008	Obereschach	8.46928, 48.10596	na	mulwurf	999	na	mulwurf	999	na	Maulwurf	999
+367	na	III_33_0009	Kirchdorf	8.4704, 48.01378	na	mulwurf	999	na	mulwurf	999	na	Maulwurf	999
+368	na	III_21_0008	Durlach	8.4704, 48.99897	na	maulwurf	999	na	maulwurf	999	na	Maulwurf	999
+369	na	III_22_0008	Palmbach	8.48266, 48.94683	na	maulworf	999	na	maulworf	999	na	Maulwurf	999
+370	na	III_18_0011, III_18_0012, III_18_0014, III_18_0013	Oberhausen	8.48324, 49.26035	na	maulworaf	999	na	maulworaf	999	na	Maulwurf	999
+371	na	III_35_0008	Achdorf	8.48733, 47.84	na	mulwurf	999	na	mulwurf	999	na	Maulwurf	999
+372	na	III_34_0009, III_34_0012	Donaueschingen	8.50052, 47.95113	na	mulwurf, mulworf	999	na	mulwurf, mulworf	999	na	Maulwurf	999
+373	na	III_20_0011	Neuthard	8.52086, 49.1278	na	maulwurf	999	na	maulwurf	999	na	Maulwurf	999
+374	na	III_21_0012, III_21_0011, III_21_0013	Weingarten	8.53114, 49.0533	na	maulwurf	999	na	maulwurf	999	na	Maulwurf	999
+375	na	III_35_0017	Riedböhringen	8.53811, 47.87011	na	mulwurf	999	na	mulwurf	999	na	Maulwurf	999
+376	na	III_21_0017	Wöschbach	8.56737, 48.99948	na	maulworf	999	na	maulworf	999	na	Maulwurf	999
+377	na	III_18_0019	Sankt Leon	8.6025, 49.26526	na	maulwurf	999	na	maulwurf	999	na	Maulwurf	999
+378	na	III_34_0025	Oberbaldingen	8.60629, 47.97542	na	muulwurf	999	na	mulwurf	999	na	Maulwurf	999
+379	na	III_22_0021, III_22_0019, III_22_0018	Königsbach	8.61207, 48.96515	na	maulworf	999	na	maulworf	999	na	Maulwurf	999
+380	na	III_34_0026	Unterbaldingen	8.61256, 47.96992	na	mulwurf	999	na	mulwurf	999	na	Maulwurf	999
+381	na	III_19_0015	Weiher	8.62179, 49.17863	na	maulworf	999	na	maulworf	999	na	Maulwurf	999
+382	na	II_60_0037	Eppelheim	8.62885, 49.40164	na	maulwarf	999	na	maulwarf	999	na	Maulwurf	999
+383	na	III_19_0019	Mingolsheim	8.65316, 49.21986	na	maulwurf	999	na	maulwurf	999	na	Maulwurf	999
+384	na	III_19_0022	Malsch <Maleck>	8.68153, 49.24579	na	maulwurf	999	na	maulwurf	999	na	Maulwurf	999
+385	na	III_21_0024	Rinklingen	8.6832, 49.03485	na	maulworf	999	na	maulworf	999	na	Maulwurf	999
+386	na	III_22_0028	Nussbaum	8.69353, 48.98977	na	maolwurf	999	na	maulwurf	999	na	Maulwurf	999
+387	na	III_36_0035	Weil	8.7018, 47.81859	na	mulwurf	999	na	mulwurf	999	na	Maulwurf	999
+388	na	III_18_0027	Baiertal	8.73772, 49.30253	na	maulwurf	999	na	maulwurf	999	na	Maulwurf	999
+389	na	III_35_0028	Zimmerholz	8.74175, 47.86811	na	mulwurf	999	na	mulwurf	999	na	Maulwurf	999
+390	na	II_59_0080	Wilhelmsfeld	8.7544, 49.47018	na	muldruff	999	na	muldruf	999	na	Maulwurf	999
+391	na	III_35_0029	Anselfingen	8.76516, 47.84558	na	mulwurf	999	na	mulwurf	999	na	Maulwurf	999
+392	na	III_18_0044	Daisbach	8.87705, 49.2938	na	maulwurf	999	na	maulwurf	999	na	Maulwurf	999
+393	na	III_38_0025	Wangen	8.93161, 47.6599	na	muelwurf	999	na	muelwurf	999	na	Maulwurf	999
+394	na	II_59_0093	Pleutersbach	8.95293, 49.45367	na	maulwurf	999	na	maulwurf	999	na	Maulwurf	999
+395	na	II_59_0095	Rockenau	8.99904, 49.44673	na	maulwurf	999	na	maulwurf	999	na	Maulwurf	999
+396	na	III_35_0040	Zizenhausen	9.0005, 47.87365	na	maulwurf	999	na	maulwurf	999	na	Maulwurf	999
+397	na	III_25_0044	Sindelfingen	9.00194, 48.70797	na	maulwurf	999	na	maulwurf	999	na	Maulwurf	999
+398	na	III_18_0058	Wollenberg	9.03453, 49.29152	na	maulwurf	999	na	maulwurf	999	na	Maulwurf	999
+399	na	II_59_0099	Zwingenberg	9.04439, 49.41287	na	maulworf	999	na	maulworf	999	na	Maulwurf	999
+400	na	III_37_0038, III_37_0039	Reichenau	9.06125, 47.69789	na	mulwurf, maulwurf	999	na	mulwurf, maulwurf	999	na	Maulwurf	999
+401	na	III_37_0032	Allensbach	9.06699, 47.71535	na	maulwurf	999	na	maulwurf	999	na	Maulwurf	999
+402	na	III_37_0031	Kaltbrunn	9.07201, 47.73526	na	maulwurf	999	na	maulwurf	999	na	Maulwurf	999
+403	na	III_36_0058	Langenrain	9.07596, 47.76281	na	maulwurf	999	na	maulwurf	999	na	Maulwurf	999
+404	na	III_36_0061	Sipplingen	9.09665, 47.79525	na	mulwurf	999	na	mulwurf	999	na	Maulwurf	999
+405	na	III_37_0041	Oberuhldingen	9.24549, 47.73557	na	maulwurf	999	na	maulwurf	999	na	Maulwurf	999
+406	na	III_34_0063	Pfullendorf	9.25466, 47.92614	na	maulwurf	999	na	maulwurf	999	na	Maulwurf	999
+407	na	III_36_0078	Frickingen	9.27056, 47.81023	na	mulwurf	999	na	mulwurf	999	na	Maulwurf	999
+408	na	III_37_0044	Grasbeuren	9.29766, 47.73029	na	mulwurf	999	na	mulwurf	999	na	Maulwurf	999
+409	na	III_36_0082	Weildorf	9.30037, 47.78969	na	maulwurf	999	na	maulwurf	999	na	Maulwurf	999
+410	na	III_36_0092	Mittelstenweiler	9.33753, 47.75241	na	maulwurf	999	na	maulwurf	999	na	Maulwurf	999
+411	na	III_24_0080	Stetten/Remstal	9.34045, 48.79285	na	maulwurf	999	na	maulwurf	999	na	Maulwurf	999
+412	na	III_36_0098	Lellwangen	9.36523, 47.79833	na	mulwurf	999	na	mulwurf	999	na	Maulwurf	999
+413	na	III_37_0054, III_37_0055	Markdorf	9.38933, 47.72088	na	maulwurf	999	na	maulwurf	999	na	Maulwurf	999
+414	na	III_36_0093	Roggenbeuren	9.40565, 47.76961	na	maulwurf	999	na	maulwurf	999	na	Maulwurf	999
+415	na	II_89_0012	Sonderriet	9.43938, 49.71753	na	maulwurf	999	na	maulwurf	999	na	Maulwurf	999
+416	na	II_88_0014	Grünenwört	9.47135, 49.77438	na	maulwurf	999	na	maulwurf	999	na	Maulwurf	999
+417	na	II_90_0007	Hardheim	9.47457, 49.60804	na	maulwurf	999	na	maulwurf	999	na	Maulwurf	999
+418	na	III_26_0084	Bissingen-Teck	9.49128, 48.60024	na	maulwurf	999	na	maulwurf	999	na	Maulwurf	999
+419	na	II_92_0012	Berolzheim	9.54042, 49.4749	na	maulwurf	999	na	maulwurf	999	na	Maulwurf	999
+420	na	II_92_0015, II_92_0017, II_92_0018, II_92_0016	Windischbuch	9.62194, 49.43593	na	maulwurf	999	na	maulwurf	999	na	Maulwurf	999
+421	na	II_93_0023	Klepsau	9.67156, 49.38805	na	maulwurf	999	na	maulwurf	999	na	Maulwurf	999
+422	na	III_24_0105	Wäschenbeuren	9.68695, 48.75984	na	maulwurf	999	na	maulwurf	999	na	Maulwurf	999
+423	na	II_92_0031, II_92_0030, II_92_0029	Assamstadt	9.68738, 49.42689	na	maulwurf	999	na	maulwurf	999	na	Maulwurf	999
+424	na	II_91_0029	Messelhausen	9.7887, 49.5756	na	maulwurf	999	na	maulwurf	999	na	Maulwurf	999

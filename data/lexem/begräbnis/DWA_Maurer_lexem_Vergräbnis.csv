@@ -1,0 +1,28 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Co D6	III_14_0081	Sewen, Sewen	6.90688, 47.80694	vergräbnis	vergräbnis	0	vergräbnis	vergräbnis	0	Vergräbnis	Vergräbnis	0
+1	Co D1	III_14_0082	Dollern (Dolleren), Dollern	6.93211, 47.80559	vergräbnis	vergräbnis	0	vergräbnis	vergräbnis	0	Vergräbnis	Vergräbnis	0
+2	Co x 2	na	Mitzach	7.00519, 47.87122	vergrēbnus	na	999	vergräbnis	na	999	Vergräbnis	na	999
+3	Co E4	III_14_0087	Aue (Lauw), Aue	7.02216, 47.75778	vergräbnis	vergräbnis	0	vergräbnis	vergräbnis	0	Vergräbnis	Vergräbnis	0
+4	Co M10	na	Morzweiler (Mortzwiller)	7.04125, 47.73832	vergräbnis	na	999	vergräbnis	na	999	Vergräbnis	na	999
+5	Co E5	na	Rodern	7.0877, 47.77839	vergräbnis	na	999	vergräbnis	na	999	Vergräbnis	na	999
+6	Co M3	na	Niedersulzbach (soppe-Le-Bas)	7.09079, 47.71688	vergräbnis	na	999	vergräbnis	na	999	Vergräbnis	na	999
+7	Co M1	na	Gewenheim	7.0913, 47.75291	vergräbnis	na	999	vergräbnis	na	999	Vergräbnis	na	999
+8	Co T8	III_16_0017	Retzweiler, Retzweiler	7.09315, 47.63072	vrgräbnis	vergräbnis	1	vergräbnis	vergräbnis	0	Vergräbnis	Vergräbnis	0
+9	Co T6	na	Dammerkirch (Dannemarie)	7.1214, 47.63024	vrgräbnis	na	999	vergräbnis	na	999	Vergräbnis	na	999
+10	Co T5	III_16_0004	Gommersdorf, Gommersdorf	7.13318, 47.64299	vergräbis	vergräbnis	1	vergräbnis	vergräbnis	0	Vergräbnis	Vergräbnis	0
+11	Co Vc 2	III_16_0011	Hindlingen, Hindlingen	7.13734, 47.57341	vergrebniss	vergräbnis	2	vergräbnis	vergräbnis	0	Vergräbnis	Vergräbnis	0
+12	Co Vc 1	na	Friesen	7.15001, 47.56535	vergräbnis	na	999	vergräbnis	na	999	Vergräbnis	na	999
+13	Co Ua 11	III_17_0031	Pfetterhausen (Pfetterhouse), Pfetterhausen	7.16635, 47.50105	vergräbnis	vergräbnis	0	vergräbnis	vergräbnis	0	Vergräbnis	Vergräbnis	0
+14	Co Ua 14	III_17_0014	Niedersept (Seppois-le-Bas), Niedersept	7.17622, 47.53614	vergräbnis	vergräbnis	0	vergräbnis	vergräbnis	0	Vergräbnis	Vergräbnis	0
+15	Co Ua 6	na	Bisel	7.22032, 47.53456	vergräbnis	na	999	vergräbnis	na	999	Vergräbnis	na	999
+16	Co Ua 10	III_17_0006	Rüderbach (Ruederbach), Rüderbach	7.26824, 47.56144	vergräbnis	vergräbnis	0	vergräbnis	vergräbnis	0	Vergräbnis	Vergräbnis	0
+17	Co Ua 7/1	na	Riespach	7.28623, 47.54132	vergräbnis	na	999	vergräbnis	na	999	Vergräbnis	na	999
+18	Co U 10	na	Tagsdorf	7.30232, 47.62138	vergräbnis	na	999	vergräbnis	na	999	Vergräbnis	na	999
+19	Co Ub 5	III_17_0066	Lüxdorf (Ligsdorf), Lüxdorf	7.3091, 47.47235	vergräbnis	vergräbnis	0	vergräbnis	vergräbnis	0	Vergräbnis	Vergräbnis	0
+20	Co Va 10	III_17_0009	Dürmenach (Durmenach), Dürmenach	7.3374, 47.5271	vrgräbnis	vrgrä̀bnis	3	vergräbnis	vergräbnis	0	Vergräbnis	Vergräbnis	0
+21	Co V 10	na	Franken	7.35483, 47.59947	frgräbnis	na	999	vergräbnis	na	999	Vergräbnis	na	999
+22	Co V 13/2, Co V 13/1	III_16_0047	Niedermichelbach (Michelbach-le-Bas), Niedermichelbach	7.46442, 47.59288	vergräbnis, vergràbnis	vergräbnis	0	vergräbnis	vergräbnis	0	Vergräbnis	Vergräbnis	0
+23	na	III_14_0091	Niederburbach	7.05868, 47.77527	na	vergräbnis	999	na	vergräbnis	999	na	Vergräbnis	999
+24	na	III_15_0004	Bretten	7.0716, 47.69963	na	vergräbnis	999	na	vergräbnis	999	na	Vergräbnis	999
+25	na	III_16_0003	St. Ulrich	7.11911, 47.59537	na	vrgräbnis	999	na	vergräbnis	999	na	Vergräbnis	999
+26	na	III_16_0034	Hirsingen	7.25483, 47.58601	na	vergräbnis	999	na	vergräbnis	999	na	Vergräbnis	999

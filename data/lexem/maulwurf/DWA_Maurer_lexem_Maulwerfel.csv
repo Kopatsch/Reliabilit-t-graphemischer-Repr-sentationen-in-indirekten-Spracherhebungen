@@ -1,0 +1,38 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Hag V 9	III_7_0045, III_7_0046	St, Johann (Saint-Jean-Saverne), St, Johann	7.36064, 48.76931	müllwarfl	mullwarfl, müllwarfel	1	mülwarfel	mulwarfel, mülwarfel	0	Maulwerfel	Maulwerfel	0
+1	Stra t 12	III_10_0023	Mollkirch, Mollkirch	7.38528, 48.50755	müllwerwel	mülwarfel	3	mülwerfel	mülwarfel	1	Maulwerfel	Maulwerfel	0
+2	Stra A 7	III_10_0095	St, Nabor (Sain-Nabor), St, Nabor	7.42423, 48.4458	mülwarfel	müllwarfel	1	mülwarfel	mülwarfel	0	Maulwerfel	Maulwerfel	0
+3	Stra A 3/2	na	Börsch (Boersch)	7.43994, 48.47577	mülwarfel	na	999	mülwarfel	na	999	Maulwerfel	na	999
+4	Stra t 11	III_10_0021	Rosenweiler, Rosenweiler	7.4409, 48.50587	müllwårfl	mülwarfel	3	mülwarfel	mülwarfel	0	Maulwerfel	Maulwerfel	0
+5	Stra t 2/1	III_10_0008	Bergbieten, Bergbieten	7.45869, 48.57632	mülwarfel	mülwarfel	0	mülwarfel	mülwarfel	0	Maulwerfel	Maulwerfel	0
+6	Stra A 1/2, Stra A 1/3, Stra A 1/1	III_10_0087	Rosheim, Rosheim	7.46905, 48.49622	müllwărfel, müllwarfel, mühlwarfel	mülwarfel	1	mülwarfel	mülwarfel	0	Maulwerfel	Maulwerfel	0
+7	Stra t 8	na	Dorlisheim	7.48538, 48.52471	müllwarfel	na	999	mülwarfel	na	999	Maulwerfel	na	999
+8	Stra t 15/2	na	Sulzbad (soultz-Les-Bains)	7.48699, 48.572	mülwerfel	na	999	mülwerfel	na	999	Maulwerfel	na	999
+9	Stra m 14	III_9_0021	Scharrachbergheim, Scharrachbergheim	7.49581, 48.593	mühlwalfl	mühlwalfl	0	mülwalfel	mülwalfel	0	Maulwerfel	Maulwerfel	0
+10	Stra A 2	III_10_0088	Bischofsheim (Bischoffsheim), Bischofsheim	7.49675, 48.48669	müllwarfel	mülwarfel, mülwarfl	1	mülwarfel	mülwarfel	0	Maulwerfel	Maulwerfel	0
+11	Stra u 6/1	na	Ergersheim (wohnt seit 41 in Breitenau)	7.52806, 48.56941	mülwarfel	na	999	mülwarfel	na	999	Maulwerfel	na	999
+12	Stra f 22	na	Schnersheim	7.568, 48.65809	mūlwarfel	na	999	mulwarfel	na	999	Maulwerfel	na	999
+13	Stra u 17	III_10_0028	Kolbsheim, Kolbsheim	7.58834, 48.56138	müllwarfel	mülwarfel	1	mülwarfel	mülwarfel	0	Maulwerfel	Maulwerfel	0
+14	Stra u 14	III_10_0035	Bläsheim, Bläsheim	7.60783, 48.50535	müllwarfel	mülwaerfel	2	mülwarfel	mülwerfel	1	Maulwerfel	Maulwerfel	0
+15	Stra u 10	III_10_0031	Hangenbieten, Hangenbieten	7.61529, 48.55876	müllwarfel	mülwarfl	2	mülwarfel	mülwarfel	0	Maulwerfel	Maulwerfel	0
+16	Stra v 8	III_10_0032	Holzheim, Holzheim	7.64383, 48.55724	müllwarfle	müllwarfel	2	mülwarfel	mülwarfel	0	Maulwerfel	Maulwerfel	0
+17	KST y 4	III_21_0021	Grötzingen, Grötzingen	8.49556, 49.00711	maulwerfel	murwerfel	2	maulwerfel	murwerfel	2	Maulwerfel	Maulwerfel	0
+18	MH J6	na	Wilhelmsfeld	8.7544, 49.47018	mulwel	na	999	mulwel	na	999	Maulwerfel	na	999
+19	MH L2	II_59_0101	Oberdielbach, Oberdielbach	9.05361, 49.44781	mullwǟrfle	mulwerfl	3	mulwerfel	mulwerfel	0	Maulwerfel	Maulwerfel	0
+20	MH L6	II_59_0102	Waldkatzenbach, Waldkatzenbach	9.05484, 49.45603	muhlwerfel	mulwerfel	1	mulwerfel	mulwerfel	0	Maulwerfel	Maulwerfel	0
+21	MH D6	na	Buchen	9.32603, 49.52041	moutwerfel	na	999	moudwerfel	na	999	Maulwerfel	na	999
+22	MH o7	II_89_0007	Nassig, Nassig	9.45146, 49.73582	moutwerfel	mo̬utwörfel	2	moudwerfel	moudwörfel	1	Maulwerfel	Maulwerfel	0
+23	MH o6	na	Vockenrot	9.48521, 49.74816	modwärfel	na	999	modwerfel	na	999	Maulwerfel	na	999
+24	MH o5	II_89_0009	Sachsenhausen, Sachsenhausen	9.49147, 49.73223	måutwerfel	moudwürfl	4	moudwerfel	moudwürfel	1	Maulwerfel	Maulwerfel	0
+25	MH p1	na	Waldenhausen	9.52298, 49.74357	mōtwerfl	na	999	modwerfel	na	999	Maulwerfel	na	999
+26	na	III_10_0017	Gressweiler	7.43186, 48.53571	na	müllwarfl	999	na	mülwarfel	999	na	Maulwerfel	999
+27	na	III_10_0018	Mutzig	7.45043, 48.53927	na	mülwarfel	999	na	mülwarfel	999	na	Maulwerfel	999
+28	na	III_10_0092	Oberehnheim	7.48507, 48.4622	na	mühlwerfel	999	na	mülwerfel	999	na	Maulwerfel	999
+29	na	III_9_0026	Dahlenheim	7.50654, 48.58628	na	mulwarfel	999	na	mulwarfel	999	na	Maulwerfel	999
+30	na	III_10_0038	Griesheim	7.53227, 48.50237	na	mülwarfel	999	na	mülwarfel	999	na	Maulwerfel	999
+31	na	III_10_0027	Ernolsheim	7.56478, 48.56483	na	müllwarfel	999	na	mülwarfel	999	na	Maulwerfel	999
+32	na	III_10_0099	Krautergersheim	7.56557, 48.47613	na	mülwarfel	999	na	mülwarfel	999	na	Maulwerfel	999
+33	na	III_11_0029	Westhausen	7.58855, 48.39622	na	maulwerfel	999	na	maulwerfel	999	na	Maulwerfel	999
+34	na	III_10_0036	Düppigheim	7.58968, 48.52813	na	mülwarfel	999	na	mülwarfel	999	na	Maulwerfel	999
+35	na	II_59_0039, II_59_0051	Mannheim	8.46678, 49.4865	na	maulwürfl, mulwerfel	999	na	maulwürfel, mulwerfel	999	na	Maulwerfel	999
+36	na	II_88_0014	Grünenwört	9.47135, 49.77438	na	mauwerfl	999	na	mauwerfel	999	na	Maulwerfel	999

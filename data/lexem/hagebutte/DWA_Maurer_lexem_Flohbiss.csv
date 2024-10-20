@@ -1,0 +1,4 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	TÜB b10	na	Neusatzeck	8.18311, 48.66621	flohbisser	na	999	flohbisser	na	999	Flohbiss	na	999
+1	TÜB b9	III_8_0112, III_8_0113	Bühlertal-Hof, Bühlertal-Hof, Bühlertal	8.19194, 48.68215	floͣhbiß	flohbiss	3	flohbiss	flohbiss	0	Flohbiss	Flohbiss	0
+2	TÜB b1	na	Gerolsau	8.24536, 48.73474	flohbiß	na	999	flohbiss	na	999	Flohbiss	na	999

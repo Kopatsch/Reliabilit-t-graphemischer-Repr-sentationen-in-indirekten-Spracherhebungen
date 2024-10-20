@@ -1,0 +1,6 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	MH G1	II_91_0016	Oberlauda, Oberlauda	9.67912, 49.56608	ammefrāle	ammefraale	2	ammefrale	ammefrale	0	Ammefraule	Ammefraule	0
+1	na	II_89_0007	Nassig	9.45146, 49.73582	na	o̬mmerfrale	999	na	ammefrale	999	na	Ammefraule	999
+2	na	II_89_0008	Vockenrot	9.48521, 49.74816	na	ammefraale	999	na	ammefrale	999	na	Ammefraule	999
+3	na	II_89_0011	Sachsenhausen	9.49147, 49.73223	na	ammerfraale	999	na	ammefrale	999	na	Ammefraule	999
+4	na	II_89_0041	Schönfeld	9.80069, 49.67702	na	ammefräla	999	na	ammefräla	999	na	Ammefraule	999

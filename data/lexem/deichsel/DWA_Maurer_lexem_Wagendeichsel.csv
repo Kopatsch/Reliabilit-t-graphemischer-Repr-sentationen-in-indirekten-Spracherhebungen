@@ -1,0 +1,5 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	KST c1	na	Rheinhausen	8.47341, 49.28141	wå̳rreda̠igsl	na	999	wachedeigsl	na	999	Wagendeichsel	na	999
+1	MH J3/1	na	Handschuhsheim	8.68613, 49.42774	waggedeichsl	na	999	wagedeigsl	na	999	Wagendeichsel	na	999
+2	MH ya1/2	na	Oberwittighausen	9.85164, 49.62585	wāchadeixel	na	999	wachedeigsl	na	999	Wagendeichsel	na	999
+3	na	II_58_0066	Käferthal	8.51715, 49.51259	na	waachedeichsel	999	na	wachedeigsl	999	na	Wagendeichsel	999

@@ -1,0 +1,34 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Co g 14	III_12_0052	Freiamt-Mußbach (Mussbach), Freiamt-Mußbach	7.88578, 48.17377	hiëfe	hiëfe	0	hiefe	hiefe	0	Hiefe	Hiefe	0
+1	Stra Z 4	na	Ottoschwanden	7.89687, 48.18611	hiëfe	na	999	hiefe	na	999	Hiefe	na	999
+2	Co g 15	na	Keppenbach	7.92037, 48.14437	hiēfe	na	999	hiefe	na	999	Hiefe	na	999
+3	Stra D 5	na	Bohlsbach	7.94796, 48.49264	hiefe	na	999	hiefe	na	999	Hiefe	na	999
+4	Stra Z 3	na	Schweighausen	7.96799, 48.22021	hiefe	na	999	hiefe	na	999	Hiefe	na	999
+5	TUTT a2	na	Niederwinden	8.02152, 48.14244	hiëfe	na	999	hiefe	na	999	Hiefe	na	999
+6	TÜB p15	na	Erlach	8.02495, 48.56914	hüfe	na	999	hife	na	999	Hiefe	na	999
+7	TÜB S1, TÜB S2	III_12_0058, III_12_0060	Biederbach, Ober- und Unterbiederbach, Oberbiederbach, Unterbiederbach	8.02694, 48.2183	hieve, hiefe	hiefe, hiäfe	0	hiefe	hiefe	0	Hiefe	Hiefe	0
+8	TUTT a4	III_12_0148, III_12_0149	Simonswald, Untersimonswald	8.04838, 48.10278	hiffe	hiffe, hiefe	0	hife	hiefe, hife	0	Hiefe	Hiefe	0
+9	TUTT a6	III_12_0145	Yach, Yach	8.0932, 48.15752	hiēfe	hiéfe	1	hiefe	hiefe	0	Hiefe	Hiefe	0
+10	TUTT h5	na	Wildgutach	8.11606, 48.0323	ife	na	999	ife	na	999	Hiefe	na	999
+11	TÜB S6	III_12_0064, III_12_0062	Oberprechtal, Oberprechtal, Unterprechtal	8.12114, 48.20548	hie̤fe	hiëfe, hièfe	2	hiefe	hiefe	0	Hiefe	Hiefe	0
+12	TUTT h6	III_13_0076	Gütenbach, Gütenbach	8.13807, 48.04398	hīfe	hifä	2	hife	hife	0	Hiefe	Hiefe	0
+13	TUTT a5	III_12_0146	Rohrhardsberg, Rohrhardsberg	8.16036, 48.1327	hiēfe	hiēfe	0	hiefe	hiefe	0	Hiefe	Hiefe	0
+14	TUTT i5	III_13_0093	Neukirch, Neukirch	8.17383, 48.02447	hiefe	hiifa	2	hiefe	hife	1	Hiefe	Hiefe	0
+15	TÜB T5	III_12_0069	Rensberg, Rensberg	8.1889, 48.17741	hiefe	hiëfe	1	hiefe	hiefe	0	Hiefe	Hiefe	0
+16	TUTT b3	III_12_0161	Schonach, Schonach	8.20179, 48.14296	hiafe	híǎfe	2	hiefe	hiefe	0	Hiefe	Hiefe	0
+17	TUTT b8	III_12_0167, III_12_0166, III_12_0168	Schönwald, Schönwald	8.20401, 48.10371	hiefe	hiefe	0	hiefe	hiefe	0	Hiefe	Hiefe	0
+18	TUTT i6	na	Furtwangen (und Furtwangen-Katzensteig)	8.20648, 48.05227	hīfe	na	999	hife	na	999	Hiefe	na	999
+19	TUTT b5	III_12_0153	Nussbach, Nussbach	8.25836, 48.13097	hiafe	hiafe	0	hiefe	hiefe	0	Hiefe	Hiefe	0
+20	MH n1	II_55_0129, II_55_0128	Freudenberg, Freudenberg	9.32533, 49.75145	hiffe	hiffer	1	hife	hife	0	Hiefe	Hiefe	0
+21	MH G6	na	Messelhausen	9.7887, 49.5756	hiffe	na	999	hife	na	999	Hiefe	na	999
+22	MH y7	II_90_0131	Vilchband, Vilchband	9.82424, 49.58989	hiffa	hiffe	1	hife	hife	0	Hiefe	Hiefe	0
+23	MH ya2	II_90_0028	Unterwittighausen, Unterwittighausen	9.83878, 49.61344	hiffa, heffa	hiffa	0	hife, hefe	hife	0	Hiefe	Hiefe	0
+24	MH ya1/1, MH ya1/2	II_90_0030	Oberwittighausen, Oberwittighausen	9.85164, 49.62585	hiffa, hīfa	hiffa	0	hife	hife	0	Hiefe	Hiefe	0
+25	na	III_12_0127, III_12_0126	Freiamt-Reichenbach	7.92477, 48.15747	na	hüefe	999	na	hiefe	999	na	Hiefe	999
+26	na	III_17_0050	Säckingen	7.96171, 47.57476	na	hia̠fe	999	na	hiefe	999	na	Hiefe	999
+27	na	III_12_0054	Oberspitzenbach	7.98858, 48.1762	na	hiefe	999	na	hiefe	999	na	Hiefe	999
+28	na	III_10_0075	Oberkirch	8.07823, 48.5312	na	hife	999	na	hife	999	na	Hiefe	999
+29	na	III_13_0075	Obersimonswald	8.09331, 48.0797	na	hiffe̮	999	na	hife	999	na	Hiefe	999
+30	na	III_12_0164	Triberg	8.2316, 48.13032	na	hiëfe	999	na	hiefe	999	na	Hiefe	999
+31	na	III_13_0082	Rohrbach	8.25784, 48.07437	na	häfe	999	na	hefe	999	na	Hiefe	999
+32	na	II_90_0024	Grünsfeldhausen	9.74055, 49.62456	na	hiefe	999	na	hiefe	999	na	Hiefe	999

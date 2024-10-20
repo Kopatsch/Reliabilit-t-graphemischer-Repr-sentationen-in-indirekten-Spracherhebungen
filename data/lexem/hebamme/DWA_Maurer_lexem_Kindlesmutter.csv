@@ -1,0 +1,6 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	TÜB D7	III_11_0071	Fußbach, Fußbach	8.01836, 48.36476	kindlismueter	kindlismueder	1	kindlismueder	kindlismueder	0	Kindlesmutter	Kindlesmutter	0
+1	na	III_10_0060	Bohlsbach	7.94796, 48.49264	na	kindlismueder	999	na	kindlismueder	999	na	Kindlesmutter	999
+2	na	III_14_0175	Blasiwald	8.17706, 47.7987	na	kindlimutter	999	na	kindlimuder	999	na	Kindlesmutter	999
+3	na	II_59_0096	Allemühl	8.95618, 49.42613	na	kinnermodder	999	na	kinnermoder	999	na	Kindlesmutter	999
+4	na	II_59_0092	Eberbach	8.98755, 49.46322	na	kindelsmutter	999	na	kindelsmuder	999	na	Kindlesmutter	999

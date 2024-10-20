@@ -1,0 +1,7 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	TÜB D7	III_11_0071	Fußbach, Fußbach	8.01836, 48.36476	wühlmåus	wühlmus	1	wühlmaus	wühlmus	1	Wühlmaus	Wühlmaus	0
+1	TÜB L9	na	Hofstetten	8.0713, 48.26094	wühlmaus	na	999	wühlmaus	na	999	Wühlmaus	na	999
+2	STU XIII 1	na	(Bad) Schussenried	9.65803, 48.0041	wiålmaus	na	999	wielmaus	na	999	Wühlmaus	na	999
+3	na	II_59_0048, II_59_0053	Mannheim	8.46678, 49.4865	na	wühlmaus	999	na	wühlmaus	999	na	Wühlmaus	999
+4	na	III_23_0048	Pforzheim	8.70025, 48.89013	na	wühlmaus	999	na	wühlmaus	999	na	Wühlmaus	999
+5	na	III_37_0053	Markdorf	9.38933, 47.72088	na	wulmus	999	na	wulmus	999	na	Wühlmaus	999

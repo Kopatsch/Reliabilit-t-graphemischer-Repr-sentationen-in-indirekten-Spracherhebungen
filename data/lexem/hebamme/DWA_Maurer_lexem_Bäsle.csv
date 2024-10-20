@@ -1,0 +1,5 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Hag E 8	na	Schopperten	7.05316, 48.94524	bäsel	na	999	bäsl	na	999	Bäsle	na	999
+1	Co f 8	na	Köndringen	7.80591, 48.13912	bäsli	na	999	bäsli	na	999	Bäsle	na	999
+2	KST A7	III_21_0024	Rinklingen , Rinklingen	8.6832, 49.03485	bäsla	bäsle	1	bäsla	bäsle	1	Bäsle	Bäsle	0
+3	na	III_21_0027	Bretten	8.70657, 49.03456	na	bäsle	999	na	bäsle	999	na	Bäsle	999

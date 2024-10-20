@@ -1,0 +1,17 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Ma f1/1	II_58_0061	Mannheim-Sandhofen, Mannheim-Sandhofen, Mannheim-Sandhofen	8.44789, 49.5433	ammabäsl	ammabäsl	0	ammebäsl	ammebäsl	0	Ammebäsl	Ammebäsl	0
+1	MH Q4	na	Eppelheim	8.62885, 49.40164	ammebäsl	na	999	ammebäsl	na	999	Ammebäsl	na	999
+2	MH r2	na	Hemsbach	8.64707, 49.59198	ommebäsel	na	999	ammebäsl	na	999	Ammebäsl	na	999
+3	MH H11	II_58_0068	Leutershausen, Leutershausen	8.65616, 49.49821	ammebäsl	ammebäsl	0	ammebäsl	ammebäsl	0	Ammebäsl	Ammebäsl	0
+4	MH A3	II_58_0070	Hohensachsen, Hohensachsen	8.66935, 49.51919	ammebäsl	ammebäsl	0	ammebäsl	ammebäsl	0	Ammebäsl	Ammebäsl	0
+5	MH A5	II_58_0077	Oberflockenbach, Oberflockenbach	8.73109, 49.51102	ammebēsl	ammebäsel	2	ammebäsl	ammebäsl	0	Ammebäsl	Ammebäsl	0
+6	MH A6	II_58_0091	Steinklingen, Steinklingen	8.74393, 49.51166	ammebäsl	ammebäsl	0	ammebäsl	ammebäsl	0	Ammebäsl	Ammebäsl	0
+7	MH J12	na	Altneudorf	8.80481, 49.46366	ammebesel	na	999	ammebäsl	na	999	Ammebäsl	na	999
+8	MH A7	na	Eiterbach	8.80869, 49.50208	ammebäsl	na	999	ammebäsl	na	999	Ammebäsl	na	999
+9	na	II_59_0052	Mannheim	8.46678, 49.4865	na	ammebäsel	999	na	ammebäsl	999	na	Ammebäsl	999
+10	na	II_58_0067	Heddesheim	8.60327, 49.50529	na	ammebäsel	999	na	ammebäsl	999	na	Ammebäsl	999
+11	na	II_57_0082, II_57_0081	Laudenbach	8.65434, 49.6119	na	ammebäsel	999	na	ammebäsl	999	na	Ammebäsl	999
+12	na	II_58_0069	Grosssachsen	8.6595, 49.51193	na	ammebësel	999	na	ammebäsl	999	na	Ammebäsl	999
+13	na	II_58_0071	Lützelsachsen	8.66627, 49.52737	na	ammebäslë	999	na	ammebäsle	999	na	Ammebäsl	999
+14	na	II_58_0073	Weinheim	8.67068, 49.55495	na	ammenbäsel	999	na	ammenbäsl	999	na	Ammebäsl	999
+15	na	II_58_0076	Rippenweier	8.70861, 49.50646	na	ammebäsel	999	na	ammebäsl	999	na	Ammebäsl	999

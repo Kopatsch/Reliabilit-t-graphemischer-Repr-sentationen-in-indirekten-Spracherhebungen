@@ -1,0 +1,118 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_maurer_align	item_DWA	item_DWA_align	Levenshtein_item
+0	Co i 3	III_13_0008	Metzeral, Metzeral	7.07146, 48.01325	schärer	sch ä r e r	scharer	sch a r e r	1
+1	Co q 4	III_13_0097	Sondernach, Sondernach	7.07276, 47.99621	schārer	sch ā r e r	scharer	sch a r e r	1
+2	Co i 7	III_13_0006	Breitenbach (Breitenbach-Haut-Rhin), Breitenbach	7.10087, 48.02382	schārer	sch ā r e r	scharer	sch a r e r	1
+3	Co i 9	III_13_0003, III_13_0004	Stossweier, Stossweier	7.10163, 48.05432	schaarer	sch aa r e r	schaara	sch aa r a	2
+4	Co i 2	III_13_0009	Sulzern (Soultzeren), Sulzern	7.10254, 48.06373	schārer	sch ā r e r	scharer	sch a r e r	1
+5	Co i 1/1, Co i 1/2	III_13_0065	Münster (Munster), Münster	7.13185, 48.0418	schār	sch ā r	scharer	sch a r e r	3
+6	Co i 8	III_13_0001	Hohrodberg, Hohrodberg	7.13528, 48.06037	scharrer	sch a rr e r	schàrrer	sch à rr e r	1
+7	Co Vc 2	III_16_0011	Hindlingen, Hindlingen	7.13734, 47.57341	schaar	sch aa r	chahr	ch a h r	2
+8	Co T14	III_16_0006	Füllern (Fulleren), Füllern	7.14596, 47.59468	schar	sch a r	schaar	sch aa r	1
+9	Co k 1	III_13_0016	Griesbach (Griesbach-Au-Val), Griesbach	7.17071, 48.03351	scharer	sch a r e r	schere	sch e r e	2
+10	Co k 2	III_13_0015	Günsbach (Gunsbach), Günsbach	7.17323, 48.0464	schaarer	sch aa r e r	scherer	sch e r e r	2
+11	Co N14	III_15_0027	Bernweiler (Bernwiller), Bernweiler	7.19368, 47.69085	schār	sch ā r	schar	sch a r	1
+12	Co Ua 12	III_17_0012	Mooslargue, Moos	7.21833, 47.50939	schār	sch ā r	schar	sch a r	1
+13	Co Ub 1	III_17_0063	Dürlinsdorf (Durlinsdorf), Dürlinsdorf	7.24121, 47.48531	schār	sch ā r	schär	sch ä r	1
+14	Co N8/2	III_15_0015	Illfurt (Illfurth), Illfurt	7.26494, 47.67073	schār	sch ā r	schar	sch a r	1
+15	Co Va 10	III_17_0009	Dürmenach (Durmenach), Dürmenach	7.3374, 47.5271	schààr	sch àà r	schä̀r	sch a ̈ ̀ r	3
+16	Co Va 9	III_17_0020	Buchsweiler (Bouxwiller), Buchsweiler	7.34362, 47.50479	schār	sch ā r	schar	sch a r	1
+17	Co V 6	III_16_0041	Wahlbach, Wahlbach	7.34876, 47.63135	schǟr	sch ǟ r	schar	sch a r	1
+18	Co Va 11	III_17_0015	Werenzhausen (Werentzhouse), Werenzweiler	7.3579, 47.51688	schar	sch a r	schahr	sch a h r	1
+19	Co Vd 5	III_17_0076, III_17_0075	Rädersdorf (Raedersdorf), Rädersdorf, Rädersdorf	7.3665, 47.47487	schār	sch ā r	schaar	sch aa r	2
+20	Co Va 8	III_17_0023	Mittelmüspach-Niedermüspach (Muespach), Müspach	7.3807, 47.54728	schār	sch ā r	schär	sch ä r	1
+21	Co Va 14	III_16_0045	Berenzweiler (Berentzwiller), Berenzweiler	7.3832, 47.5856	schǟr	sch ǟ r	schär	sch ä r	1
+22	Co V 17/2, Co V 17/1	III_16_0050	Kötzingen (Kœtzingue), Kötzingen	7.394, 47.65091	schar	sch a r	schaar	sch aa r	1
+23	Co Vd 2/2, Co Vd 2/1	III_17_0072	Oltingen (Oltingue), Oltingen	7.39411, 47.48862	schār	sch ā r	schaar	sch aa r	2
+24	V	III_17_0025	Knöringen  (Knœringue) (im Elsass), Knöringen	7.4042, 47.5624	schär	sch ä r	schar	sch a r	1
+25	Co V 8	III_16_0053	Stetten, Stetten	7.42942, 47.6261	schār	sch ā r	schaar	sch aa r	2
+26	Co Va 3	III_17_0018	Attenschweiler (Attenschwiller), Attenschweiler/Attenweiler	7.46216, 47.56912	schār	sch ā r	schar	sch a r	1
+27	Co P18	III_15_0052	Huttingen, Huttingen	7.5497, 47.67294	schär	sch ä r	schäre	sch ä r e	1
+28	Co W 4, 5	III_16_0087, III_16_0088	Egringen und Fischingen, Fischingen, Egringen	7.59628, 47.66366	schär	sch ä r	schaer	sch a e r	2
+29	Co P14	III_15_0054	Mappach, Mappach	7.59794, 47.68033	schär	sch ä r	schaer	sch a e r	2
+30	Co P6	III_15_0057	Tannenkirch, Tannenkirch	7.6103, 47.71116	schär	sch ä r	schar	sch a r	1
+31	Co H9	III_14_0141	Lipburg, Lipburg	7.65665, 47.78685	schāer	sch ā e r	schäar	sch ä a r	2
+32	Co Q8	III_15_0062	Endenburg, Endenburg	7.73306, 47.71161	scheer	sch ee r	schär	sch ä r	2
+33	Co Q9	III_15_0064	Weitenau, Weitenau	7.76525, 47.67775	schǟr	sch ǟ r	schär	sch ä r	1
+34	Co Q2	III_14_0148	Wies, Wies	7.76723, 47.74789	scher	sch e r	schär	sch ä r	1
+35	Co Q3	III_14_0152	Raich, Raich	7.79724, 47.75076	schǟr	sch ǟ r	schäär	sch ää r	2
+36	Co Q10	III_15_0065	Wieslet, Wieslet	7.79819, 47.6893	schǟr	sch ǟ r	schär	sch ä r	1
+37	Co n 6	III_13_0053	Hochdorf, Hochdorf	7.80212, 48.0489	schǟr	sch ǟ r	schēr	sch ē r	1
+38	Co B13	III_14_0054	Obermünstertal-Krumlinden (Obermünstertal), Obermünstertal-Krummlinden	7.81186, 47.87153	schär	sch ä r	schǟr	sch ǟ r	1
+39	Co Q4	III_14_0186	Elbenschwand, Elbenschwand	7.83139, 47.7509	schäͣr	sch ä ͣ r	schäär	sch ää r	1
+40	Co R1	III_15_0069	Pfaffenberg, Pfaffenberg	7.86972, 47.73452	schär	sch ä r	schǟr	sch ǟ r	1
+41	Co g 12	III_12_0136	Kollmarsreute, Kollmarsreute	7.87829, 48.10253	schär	sch ä r	scheer	sch ee r	2
+42	Co g 9	III_12_0130	Maleck, Maleck	7.88416, 48.12924	scher	sch e r	scheer	sch ee r	1
+43	Co K5	III_14_0160	Aitern, Aitern	7.89522, 47.80317	schǟr	sch ǟ r	scheer	sch ee r	2
+44	Stra Z 4	III_12_0051	Ottoschwanden, Ottoschwanden	7.89687, 48.18611	schǟr	sch ǟ r	schär	sch ä r	1
+45	Co C7	III_14_0068	Hofsgrund, Hofsgrund	7.89778, 47.90096	schär	sch ä r	scher	sch e r	1
+46	Co Y 3	III_16_0115	Hasel, Hasel	7.89786, 47.65393	schǟr	sch ǟ r	schär	sch ä r	1
+47	Co g 13	III_12_0126, III_12_0127	Freiamt-Reichenbach, Freiamt-Reichenbach	7.92477, 48.15747	schǟr	sch ǟ r	schäär	sch ää r	2
+48	Co Y 6	III_16_0123	Altenschwand, Altenschwand	7.976, 47.63697	schǟr	sch ǟ r	schär	sch ä r	1
+49	Co Y 8	III_16_0124	Rickenbach, Rickenbach	7.97772, 47.61891	schär	sch ä r	schäre	sch ä r e	1
+50	Co Y 5	III_16_0113	Niedergebisbach, Niedergebisbach	7.99251, 47.65054	schär	sch ä r	scheere	sch ee r e	3
+51	TUTT S4	III_16_0127	Hogschür, Hogschür	8.01475, 47.64742	scher	sch e r	schär	sch ä r	1
+52	TUTT a2	III_12_0143	Niederwinden, Niederwinden	8.02152, 48.14244	schǟr	sch ǟ r	schär	sch ä r	1
+53	TÜB S2	III_12_0058	Ober- und Unterbiederbach, Unterbiederbach	8.02694, 48.2183	scher	sch e r	schär	sch ä r	1
+54	TUTT S6	III_16_0129, III_16_0130	Oberwihl, Oberwihl	8.04597, 47.62098	schär	sch ä r	schäre	sch ä r e	1
+55	TUTT L/S7, TUTT S1	III_15_0095	Strittmatt, Strittmatt und Engelschwand, Strittmatt	8.04718, 47.66382	schǟr	sch ǟ r	schär	sch ä r	1
+56	TUTT S19	III_16_0139	Rotzel, Rotzel	8.06151, 47.59473	scheer	sch ee r	schär	sch ä r	2
+57	TUTT D1	III_14_0170	Menzenschwand, Merzenschwand	8.07059, 47.81749	schär	sch ä r	scheer	sch ee r	2
+58	TUTT L/8,9	III_15_0098, III_15_0099	Hierbach - Wilfingen, Hierbach, Wilfingen	8.09123, 47.686	schǟr	sch ǟ r	schär	sch ä r	1
+59	TUTT a6	III_12_0145	Yach, Yach	8.0932, 48.15752	schär	sch ä r	scher	sch e r	1
+60	TUTT L10	III_15_0100	Wolpadingen, Wolpadingen	8.10774, 47.69861	schär	sch ä r	scheer	sch ee r	2
+61	TÜB S5	III_12_0062, III_12_0061, III_12_0064	Unterprechtal, Unterprechtal, Oberprechtal	8.12114, 48.20548	scheer	sch ee r	schär	sch ä r	2
+62	TUTT L12	III_15_0106	Remetschwiel/Brunnadern, Remetschwiel	8.14553, 47.68929	scheer	sch ee r	scher	sch e r	1
+63	TUTT S13	III_16_0169	Birkingen, Birkingen	8.1477, 47.62511	schār	sch ā r	schär	sch ä r	1
+64	TUTT S11	III_16_0136	Oberalpfen, Oberalpfen	8.15262, 47.65791	schǟr	sch ǟ r	schär	sch ä r	1
+65	TUTT M1	III_15_0120	Attlisberg, Attlisberg	8.16607, 47.72173	schǟr	sch ǟ r	schär	sch ä r	1
+66	TUTT M3	III_15_0121	Amrigschwand, Amrigschwand	8.1855, 47.71974	schǟr	sch ǟ r	schär	sch ä r	1
+67	TÜB T2	III_12_0072	Reichenbach, Reichenbach	8.22958, 48.21343	scher	sch e r	scheer	sch ee r	1
+68	TÜB T3	III_12_0070, III_12_0071	Schwanenbach (Reichenbach), Schwanenbach	8.26562, 48.1922	schär	sch ä r	scheer	sch ee r	2
+69	TUTT Ua1	III_38_0083	Lienheim, Lienheim	8.37469, 47.5721	schär	sch ä r	scheer	sch ee r	2
+70	TUTT F11	III_36_0012	Lausheim, Lausheim	8.45286, 47.81178	schehër	sch e h ë r	schär	sch ä r	3
+71	TUTT c5	III_32_0006	Neuhausen, Neuhausen	8.45905, 48.13221	scheer	sch ee r	schear	sch e a r	1
+72	TÜB U2	III_31_0006	Weiler/Villingen, Tennenbronn	8.46043, 48.17227	schär	sch ä r	scher	sch e r	1
+73	TUTT z5	III_35_0016	Fürstenberg, Fürstenberg	8.55367, 47.89124	schäar	sch ä a r	schär	sch ä r	1
+74	TÜB m1	III_26_0039	Wildberg Kreis Calw, Wildberg	8.73924, 48.62251	schear	sch e a r	schär	sch ä r	2
+75	KST W4	III_24_0025	Steinegg, Steinegg	8.79091, 48.81349	scheer	sch ee r	schär	sch ä r	2
+76	TUTT B6	III_35_0042	Aach, Aach	8.8497, 47.84307	schear	sch e a r	scheer	sch ee r	1
+77	TÜB f1	III_25_0047	Döffingen, Döffingen	8.91383, 48.7106	scheår	sch e å r	schear	sch e a r	1
+78	TUTT f2	III_32_0038	Heinstetten, Heinstetten	8.96312, 48.13491	schär	sch ä r	scher	sch e r	1
+79	TUTT f3	III_32_0041	Schwenningen, Schwenningen	8.99619, 48.10638	schär	sch ä r	scheer	sch ee r	2
+80	TUTT u2	III_34_0045	Unterschwandorf, Unterschwandorf	8.99628, 47.95028	schǟr	sch ǟ r	schär	sch ä r	1
+81	TUTT u3	III_34_0048	Gallmannsweil, Gallmannsweil	8.99683, 47.92357	schǟr	sch ǟ r	schär	sch ä r	1
+82	TUTT v5	III_34_0051	Boll, Boll	9.0299, 47.9487	scher	sch e r	schär	sch ä r	1
+83	TUTT v3	III_34_0053	Bietingen, Bietingen	9.03261, 47.97091	schär	sch ä r	scher	sch e r	1
+84	TUTT v4	III_34_0052	Krumbach, Krumbach	9.04788, 47.96159	schär	sch ä r	scher	sch e r	1
+85	TUTT v11	III_34_0055	Heudorf, Heudorf	9.07121, 47.99412	schär	sch ä r	scheer	sch ee r	2
+86	TUTT v9	III_34_0049	Wasser, Wasser	9.10143, 47.9671	scheer	sch ee r	schär	sch ä r	2
+87	TUTT v7	III_34_0059	Sauldorf, Sauldorf	9.10721, 47.94343	schär	sch ä r	scher	sch e r	1
+88	TUTT R7	III_37_0037	Dingelsdorf, Dingelsdorf	9.15648, 47.7384	schärr	sch ä rr	scherr	sch e rr	1
+89	TUTT o8	III_33_0051	Menningen, Menningen	9.15825, 48.01089	schēr	sch ē r	scher	sch e r	1
+90	SIG d1	III_33_0055	Göggingen, Göggingen	9.20194, 48.00389	schēr	sch ē r	schär	sch ä r	1
+91	Co i 7	III_13_0006	Breitenbach (Breitenbach-Haut-Rhin), Breitenbach	7.10087, 48.02382	schārer	sch ā r e r	scherer	sch e r e r	1
+92	Co i 7	III_13_0006	Breitenbach (Breitenbach-Haut-Rhin), Breitenbach	7.10087, 48.02382	schārer	sch ā r e r	scharer	sch a r e r	1
+93	Co i 9	III_13_0003, III_13_0004	Stossweier, Stossweier	7.10163, 48.05432	schaarer	sch aa r e r	scharer	sch a r e r	1
+94	Co i 9	III_13_0003, III_13_0004	Stossweier, Stossweier	7.10163, 48.05432	schaarer	sch aa r e r	schaara	sch aa r a	2
+95	Co i 1/1, Co i 1/2	III_13_0065	Münster (Munster), Münster	7.13185, 48.0418	schār	sch ā r	scharer	sch a r e r	3
+96	Co Vd 5	III_17_0076, III_17_0075	Rädersdorf (Raedersdorf), Rädersdorf, Rädersdorf	7.3665, 47.47487	schār	sch ā r	schar	sch a r	1
+97	Co Vd 5	III_17_0076, III_17_0075	Rädersdorf (Raedersdorf), Rädersdorf, Rädersdorf	7.3665, 47.47487	schār	sch ā r	schaar	sch aa r	2
+98	Co Va 8	III_17_0023	Mittelmüspach-Niedermüspach (Muespach), Müspach	7.3807, 47.54728	schār	sch ā r	schar	sch a r	1
+99	Co Va 8	III_17_0023	Mittelmüspach-Niedermüspach (Muespach), Müspach	7.3807, 47.54728	schār	sch ā r	schär	sch ä r	1
+100	Co Vd 2/2, Co Vd 2/1	III_17_0072	Oltingen (Oltingue), Oltingen	7.39411, 47.48862	schår	sch å r	schaar	sch aa r	2
+101	Co Vd 2/2, Co Vd 2/1	III_17_0072	Oltingen (Oltingue), Oltingen	7.39411, 47.48862	schār	sch ā r	schaar	sch aa r	2
+102	Co P6	III_15_0057	Tannenkirch, Tannenkirch	7.6103, 47.71116	schäre	sch ä r e	schar	sch a r	2
+103	Co P6	III_15_0057	Tannenkirch, Tannenkirch	7.6103, 47.71116	schär	sch ä r	schar	sch a r	1
+104	Co J7, Co Q1	III_14_0147, III_15_0061	Malsburg, Malsburg	7.70866, 47.73257	schǟr	sch ǟ r	schar	sch a r	1
+105	Co J7, Co Q1	III_14_0147, III_15_0061	Malsburg, Malsburg	7.70866, 47.73257	schǟr	sch ǟ r	schär	sch ä r	1
+106	Co J7, Co Q1	III_14_0147, III_15_0061	Malsburg, Malsburg	7.70866, 47.73257	schär	sch ä r	schar	sch a r	1
+107	Co g 13	III_12_0126, III_12_0127	Freiamt-Reichenbach, Freiamt-Reichenbach	7.92477, 48.15747	schǟr	sch ǟ r	scheer	sch ee r	2
+108	Co g 13	III_12_0126, III_12_0127	Freiamt-Reichenbach, Freiamt-Reichenbach	7.92477, 48.15747	schǟr	sch ǟ r	schäär	sch ää r	2
+109	TUTT L/S7, TUTT S1	III_15_0095	Strittmatt, Strittmatt und Engelschwand, Strittmatt	8.04718, 47.66382	schǟr	sch ǟ r	schär	sch ä r	1
+110	TUTT L/S7, TUTT S1	III_15_0095	Strittmatt, Strittmatt und Engelschwand, Strittmatt	8.04718, 47.66382	schǟr	sch ǟ r	schär	sch ä r	1
+111	TÜB S5	III_12_0062, III_12_0061, III_12_0064	Unterprechtal, Unterprechtal, Oberprechtal	8.12114, 48.20548	scheer	sch ee r	schēr	sch ē r	2
+112	TÜB S5	III_12_0062, III_12_0061, III_12_0064	Unterprechtal, Unterprechtal, Oberprechtal	8.12114, 48.20548	scheer	sch ee r	schär	sch ä r	2
+113	TUTT M1	III_15_0120	Attlisberg, Attlisberg	8.16607, 47.72173	schǟr	sch ǟ r	scheer	sch ee r	2
+114	TUTT M1	III_15_0120	Attlisberg, Attlisberg	8.16607, 47.72173	schǟr	sch ǟ r	schär	sch ä r	1
+115	TÜB T3	III_12_0070, III_12_0071	Schwanenbach (Reichenbach), Schwanenbach	8.26562, 48.1922	schär	sch ä r	scher	sch e r	1
+116	TÜB T3	III_12_0070, III_12_0071	Schwanenbach (Reichenbach), Schwanenbach	8.26562, 48.1922	schär	sch ä r	scheer	sch ee r	2

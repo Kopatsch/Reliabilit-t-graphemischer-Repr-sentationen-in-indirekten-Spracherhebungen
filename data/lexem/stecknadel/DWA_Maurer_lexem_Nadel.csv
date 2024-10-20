@@ -1,0 +1,64 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Co p 1	na	Krüt (Kruth)	6.96629, 47.92912	nodel	na	999	nodel	na	999	Nadel	na	999
+1	Co E1	na	Oberburbach (Bourbach-Les-Haut)	7.02973, 47.7953	nohdel	na	999	nodel	na	999	Nadel	na	999
+2	Co x 9	na	Geishausen	7.05832, 47.88017	nodla	na	999	nodla	na	999	Nadel	na	999
+3	Hag T 3	na	Rauweiler	7.10907, 48.81139	nadel	na	999	nadel	na	999	Nadel	na	999
+4	Co M9	na	Diefmatten Kreis Altkirch	7.11319, 47.70828	nodla	na	999	nodla	na	999	Nadel	na	999
+5	Co Ua 10	na	Rüderbach (Ruederbach)	7.26824, 47.56144	nodal	na	999	nodel	na	999	Nadel	na	999
+6	Co Ua 2	na	Bettendorf	7.27676, 47.58379	nodle	na	999	nodle	na	999	Nadel	na	999
+7	Hag N 3	na	Frohmühl (Frohmuhl)	7.28007, 48.90754	nodel	na	999	nodel	na	999	Nadel	na	999
+8	Co l 4	na	Logelbach	7.30991, 48.0865	nådel	na	999	nådel	na	999	Nadel	na	999
+9	Co O8	na	Niedersteinbrunn (Steinbrunn-Le-Bas)	7.36609, 47.67219	noondla, nodla	na	999	nodla	na	999	Nadel	na	999
+10	Stra e 3	na	Ottersweiler (Otterswiller)	7.37883, 48.7258	naodel	na	999	nådel	na	999	Nadel	na	999
+11	Co V 2	na	Geispitzen	7.42236, 47.66739	nodlä	na	999	nodle	na	999	Nadel	na	999
+12	Co V 3	na	Waltenheim	7.42684, 47.65714	nodlä	na	999	nodle	na	999	Nadel	na	999
+13	Stra t 2/2	III_10_0008	Bergbieten, Bergbieten	7.45869, 48.57632	nudel	nudel	0	nudel	nudel	0	Nadel	Nadel	0
+14	Stra A 9	na	Burgheim (Bourgheim)	7.49064, 48.41936	nodel	na	999	nodel	na	999	Nadel	na	999
+15	Co W 17	na	Hüningen (Huningue)	7.58374, 47.5912	noodla	na	999	nodla	na	999	Nadel	na	999
+16	Hag W 2	na	Morschweiler	7.62689, 48.81972	nōdel	na	999	nodel	na	999	Nadel	na	999
+17	Co e 3	na	Leiselheim	7.6357, 48.12586	nodla	na	999	nodla	na	999	Nadel	na	999
+18	Co J4	na	Marzell bei Kandern	7.72688, 47.77116	nodle	na	999	nodle	na	999	Nadel	na	999
+19	Co Q11	na	Schlächtenhaus-Hofen	7.73863, 47.69047	nådle	na	999	nådle	na	999	Nadel	na	999
+20	Stra g 3	na	Geudertheim	7.74686, 48.72273	nodel	na	999	nodel	na	999	Nadel	na	999
+21	Stra o 2	na	Reichstett	7.75359, 48.6483	noodel	na	999	nodel	na	999	Nadel	na	999
+22	Co u 12	na	St. Georgen	7.8056, 47.97934	nōdle	na	999	nodle	na	999	Nadel	na	999
+23	Stra p 2/2	na	Diersheim	7.8874, 48.64789	nodel	na	999	nodel	na	999	Nadel	na	999
+24	TUTT S3	na	Herrischried	8.00161, 47.66587	nodle	na	999	nodle	na	999	Nadel	na	999
+25	TUTT L6	na	Grossherrischwand	8.01017, 47.6797	nodle	na	999	nodle	na	999	Nadel	na	999
+26	TUTT L5	na	Wehrhalden	8.01061, 47.70213	nodle	na	999	nodle	na	999	Nadel	na	999
+27	Co R14	na	Rütte (bei Todtmoos; es gibt auch noch eines bei Herreschrie und eines bei Todtnauberg)	8.01336, 47.76141	nodle	na	999	nodle	na	999	Nadel	na	999
+28	TÜB D4/1	na	Unterharmersbach	8.08843, 48.35461	nodel	na	999	nodel	na	999	Nadel	na	999
+29	TUTT q7	na	Friedenweiler	8.25483, 47.91602	nodl	na	999	nodl	na	999	Nadel	na	999
+30	TUTT x5	na	Holzschlag	8.26456, 47.84976	nodle	na	999	nodle	na	999	Nadel	na	999
+31	MH H2	na	Feudenheim	8.53299, 49.4864	nōdl	na	999	nodl	na	999	Nadel	na	999
+32	TUTT z5	na	Fürstenberg	8.55367, 47.89124	nodle	na	999	nodle	na	999	Nadel	na	999
+33	KST t10	na	Menzingen	8.77067, 49.13931	nodl	na	999	nodl	na	999	Nadel	na	999
+34	MH S1	na	Dilsberg	8.8362, 49.39832	nodel	na	999	nodel	na	999	Nadel	na	999
+35	TUTT B4	na	Honstetten	8.88331, 47.8933	nodel	na	999	nodel	na	999	Nadel	na	999
+36	TUTT R6	na	Reichenau	9.06125, 47.69789	nodel	na	999	nodel	na	999	Nadel	na	999
+37	MH o4	na	Hundheim	9.46691, 49.69109	nādel	na	999	nadel	na	999	Nadel	na	999
+38	MH W10	na	Unterwittstadt	9.54936, 49.41004	nådel	na	999	nådel	na	999	Nadel	na	999
+39	MH x6	na	Königheim	9.59419, 49.61802	nōdel	na	999	nodel	na	999	Nadel	na	999
+40	MH p10	na	Höhefeld	9.60905, 49.71271	nodel	na	999	nodel	na	999	Nadel	na	999
+41	na	III_14_0009	St. Amarin	7.03186, 47.87365	na	nodla	999	na	nodla	999	na	Nadel	999
+42	na	III_14_0011	Moosch	7.04865, 47.86081	na	nodel	999	na	nodel	999	na	Nadel	999
+43	na	III_17_0002	Friesen	7.15001, 47.56535	na	noddla	999	na	nodla	999	na	Nadel	999
+44	na	III_13_0011	Wasserburg	7.15948, 48.00283	na	nadel	999	na	nadel	999	na	Nadel	999
+45	na	III_15_0029	Enschingen	7.20293, 47.67101	na	nadel	999	na	nadel	999	na	Nadel	999
+46	na	III_13_0108	Sulzmatt	7.23437, 47.96595	na	nodl	999	na	nodl	999	na	Nadel	999
+47	na	III_12_0008	Orschweiler	7.38445, 48.24184	na	nodel	999	na	nodel	999	na	Nadel	999
+48	na	III_10_0013	Still	7.4048, 48.54953	na	nodel	999	na	nodel	999	na	Nadel	999
+49	na	III_11_0089	Dambach	7.42838, 48.32103	na	nodl	999	na	nodl	999	na	Nadel	999
+50	na	III_9_0026	Dahlenheim	7.50654, 48.58628	na	nudel	999	na	nudel	999	na	Nadel	999
+51	na	III_12_0018	Mussig	7.52018, 48.23003	na	nodel	999	na	nodel	999	na	Nadel	999
+52	na	III_15_0043	Kleinlandau	7.52082, 47.73028	na	nodla	999	na	nodla	999	na	Nadel	999
+53	na	III_6_0048	Rotbach	7.52883, 48.90568	na	nodel	999	na	nodel	999	na	Nadel	999
+54	na	III_14_0041	Fessenheim	7.53712, 47.91578	na	nadel	999	na	nadel	999	na	Nadel	999
+55	na	III_9_0065	Straßburg	7.73609, 48.58523	na	nadel	999	na	nadel	999	na	Nadel	999
+56	na	III_12_0116	Teningen	7.80344, 48.12897	na	nodle	999	na	nodle	999	na	Nadel	999
+57	na	III_11_0116	Altdorf	7.81401, 48.26606	na	nohdel	999	na	nodel	999	na	Nadel	999
+58	na	III_12_0131	Mundingen	7.8346, 48.13735	na	noodle	999	na	nodle	999	na	Nadel	999
+59	na	III_11_0052	Schutterzell	7.84148, 48.4057	na	nodel	999	na	nodel	999	na	Nadel	999
+60	na	III_10_0126	Rammersweier	7.96625, 48.48439	na	nodl	999	na	nodl	999	na	Nadel	999
+61	na	III_7_0110	Fort-Louis, Ludwigsfeste	8.05803, 48.80321	na	nodl	999	na	nodl	999	na	Nadel	999
+62	na	III_34_0050	Mainwangen	9.0105, 47.92565	na	nadle	999	na	nadle	999	na	Nadel	999

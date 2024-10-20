@@ -1,0 +1,6 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Co k 1	na	Griesbach (Griesbach-Au-Val)	7.17071, 48.03351	gittel	na	999	gittel	na	999	Gitzeli	na	999
+1	Co u 20	na	Sölden	7.80967, 47.93307	gizzili	na	999	gitzeli	na	999	Gitzeli	na	999
+2	TUTT T14	na	Kadelburg	8.29552, 47.60851	gitzeli	na	999	gitzeli	na	999	Gitzeli	na	999
+3	na	III_12_0044	Kenzingen	7.77005, 48.19298	na	gitzle	999	na	gitzle	999	na	Gitzeli	999
+4	na	III_17_0046	Rheinfelden	7.78875, 47.55945	na	gitzeli	999	na	gitzeli	999	na	Gitzeli	999

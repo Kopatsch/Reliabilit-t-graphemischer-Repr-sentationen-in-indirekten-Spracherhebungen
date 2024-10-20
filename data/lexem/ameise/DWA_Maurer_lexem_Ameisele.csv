@@ -1,0 +1,112 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Co T8	III_16_0017	Retzweiler, Retzweiler	7.09315, 47.63072	omaisala	omaisala	0	ameisla	ameisla	0	Ameisele	Ameisele	0
+1	Co T5	III_16_0004	Gommersdorf, Gommersdorf	7.13318, 47.64299	omaisala	omaisala	0	ameisla	ameisla	0	Ameisele	Ameisele	0
+2	Co Vc 2	III_16_0011	Hindlingen, Hindlingen	7.13734, 47.57341	omaisalla	omaisala	1	ameisla	ameisla	0	Ameisele	Ameisele	0
+3	Co T14	III_16_0006	Füllern (Fulleren), Füllern	7.14596, 47.59468	omeisala	ameisala	1	ameisla	ameisla	0	Ameisele	Ameisele	0
+4	Co Vc 1	III_17_0002	Friesen, Friesen	7.15001, 47.56535	oͣmeisela	omeisela	1	ameisla	ameisla	0	Ameisele	Ameisele	0
+5	Co Ua 11	III_17_0031	Pfetterhausen (Pfetterhouse), Pfetterhausen	7.16635, 47.50105	ameisela	omeisela	1	ameisla	ameisla	0	Ameisele	Ameisele	0
+6	Co Ua 14	III_17_0014	Niedersept (Seppois-le-Bas), Niedersept	7.17622, 47.53614	omeisele	omeisele	0	ameisle	ameisle	0	Ameisele	Ameisele	0
+7	Co Ua 5	na	Largitzen	7.1873, 47.56163	omeisele	na	999	ameisle	na	999	Ameisele	na	999
+8	Co Ua 12	III_17_0012	Mooslargue, Moos	7.21833, 47.50939	omeisala	omeisala	0	ameisla	ameisla	0	Ameisele	Ameisele	0
+9	Co U 12	III_16_0021, III_16_0020	Hirzbach (Hirtzbach), Hirzbach	7.22017, 47.59449	ameisele	omeisele, omeisela	1	ameisle	ameisle, ameisla	0	Ameisele	Ameisele	0
+10	Co Ua 6	III_17_0013	Bisel, Bisel	7.22032, 47.53456	omaissala	omeisala	2	ameisla	ameisla	0	Ameisele	Ameisele	0
+11	Co Ub 1	III_17_0063	Dürlinsdorf (Durlinsdorf), Dürlinsdorf	7.24121, 47.48531	omaisele	omeisele	1	ameisle	ameisle	0	Ameisele	Ameisele	0
+12	Co Ua 1	III_17_0005	Heimersdorf, Heimersdorf	7.24206, 47.57224	omeisle	omeisele	1	ameisle	ameisle	0	Ameisele	Ameisele	0
+13	Co U 13	III_16_0034	Hisingen (Hirsingue), Hirsingen	7.25483, 47.58601	ohmeisela	omeisala	2	ameisla	ameisla	0	Ameisele	Ameisele	0
+14	Co Ua 10	III_17_0006	Rüderbach (Ruederbach), Rüderbach	7.26824, 47.56144	omaisala	omeisala	1	ameisla	ameisla	0	Ameisele	Ameisele	0
+15	Co Ua 13	III_17_0010	Köstlach (Kœstlach), Köstlach	7.27085, 47.5062	omēisela	omeisele	2	ameisla	ameisle	1	Ameisele	Ameisele	0
+16	Co Ub 4	III_17_0064	Bendorf, Bendorf	7.2816, 47.48759	omeisala	omeisala	0	ameisla	ameisla	0	Ameisele	Ameisele	0
+17	Co Ua 7/1	na	Riespach	7.28623, 47.54132	omeisele	na	999	ameisle	na	999	Ameisele	na	999
+18	Co U 2	na	Lümschweiler (Luemschwiller) und Tagolsheim	7.28747, 47.65547	omeisela	na	999	ameisla	na	999	Ameisele	na	999
+19	Co U 9	III_16_0031	Emlingen, Emlingen	7.29244, 47.62397	omeisala	omeisala	0	ameisla	ameisla	0	Ameisele	Ameisele	0
+20	Co Ub 3/2, Co Ub 3/3, Co Ub 3/1	na	Altpfirt (Vieux-Ferrette), Altpfirt	7.30044, 47.50327	åmaisala, omeisala	na	999	ameisla	na	999	Ameisele	na	999
+21	Co Ua 4	III_17_0007	Grenzingen, Grenzingen	7.30068, 47.56354	omeisela	omeisele	1	ameisla	ameisle	1	Ameisele	Ameisele	0
+22	Co U 10	na	Tagsdorf	7.30232, 47.62138	umeisle	na	999	umeisle	na	999	Ameisele	na	999
+23	Co Ub 5	III_17_0066	Lüxdorf (Ligsdorf), Lüxdorf	7.3091, 47.47235	omeisala	ameisele	3	ameisla	ameisle	1	Ameisele	Ameisele	0
+24	Co Ua 9	na	Waldighofen	7.31605, 47.55061	omaisle	na	999	ameisle	na	999	Ameisele	na	999
+25	Co Ua 3	III_16_0035	Weiler (Kreis Altkirch), Weiler	7.31925, 47.5857	omaisele	omeisala	3	ameisle	ameisla	1	Ameisele	Ameisele	0
+26	Co U 11	na	Hausgauen	7.32318, 47.60479	omaiselă	na	999	ameisla	na	999	Ameisele	na	999
+27	Co Ua 8	III_17_0008	Roppenzweiler (Roppenzwiller), Roppenzweiler	7.33206, 47.54091	omaisale	omaisale	0	ameisle	ameisle	0	Ameisele	Ameisele	0
+28	Co Va 13	III_17_0033	Steinsulz (Steinsoultz), Steinsulz	7.34276, 47.55541	omaiserle	omaiserle	0	ameisle	ameisle	0	Ameisele	Ameisele	0
+29	Co Va 9	III_17_0020	Buchsweiler (Bouxwiller), Buchsweiler	7.34362, 47.50479	omeisela	omeisela	0	ameisla	ameisla	0	Ameisele	Ameisele	0
+30	Co G7	na	Napoleonsinsel (Ile Napoléon), Illzach	7.34839, 47.78217	ameisle	na	999	ameisle	na	999	Ameisele	na	999
+31	Co V 10	III_16_0043	Franken, Franken	7.35483, 47.59947	omaisala	omaisele	2	ameisla	ameisle	1	Ameisele	Ameisele	0
+32	Co Va 11	III_17_0015	Werenzhausen (Werentzhouse), Werenzweiler	7.3579, 47.51688	omaisle	omaisale	1	ameisle	ameisle	0	Ameisele	Ameisele	0
+33	Co Vd 9	na	Kiffis	7.35848, 47.4405	omeisele	na	999	ameisle	na	999	Ameisele	na	999
+34	Co V 18	III_16_0042	Zässingen (Zaessingue), Zässingen	7.3676, 47.62375	omeisle	omeisela	2	ameisle	ameisla	1	Ameisele	Ameisele	0
+35	Co Va 8	na	Mittelmüspach-Niedermüspach (Muespach)	7.3807, 47.54728	omaisala	na	999	ameisla	na	999	Ameisele	na	999
+36	Co Vd 6	III_17_0074	Lutter, Lutter	7.38095, 47.46702	omeisale	omeisala	1	ameisle	ameisla	1	Ameisele	Ameisele	0
+37	Co V 17/2, Co V 17/1	III_16_0050	Kötzingen (Kœtzingue), Kötzingen	7.394, 47.65091	omeisle, ůmeisla	umeisle	1	ameisle, ameisla	umeisle	1	Ameisele	Ameisele	0
+38	Co Vd 2/2, Co Vd 2/1	III_17_0072	Oltingen (Oltingue), Oltingen	7.39411, 47.48862	omeisale, omaisale	omeisala	1	ameisle	ameisla	1	Ameisele	Ameisele	0
+39	V	III_17_0025	Knöringen  (Knœringue) (im Elsass), Knöringen	7.4042, 47.5624	omeisele	omeisala	2	ameisle	ameisla	1	Ameisele	Ameisele	0
+40	Co Vd 7	na	Wolschweiler (Wolschwiller)	7.40773, 47.46164	omeisela	na	999	ameisla	na	999	Ameisele	na	999
+41	Co V 7	III_16_0052	Niedermagstatt (Magstatt-le-Bas), Niedermagstatt	7.41155, 47.6393	ōmaisla	omeisle	3	ameisla	ameisle	1	Ameisele	Ameisele	0
+42	Co V 8	III_16_0053	Stetten, Stetten	7.42942, 47.6261	ōmaisala	omaisla	2	ameisla	ameisla	0	Ameisele	Ameisele	0
+43	Co V 14	III_16_0054	Kappeln (Kappelen), Kappeln	7.44156, 47.61975	omaisla	omeisle	2	ameisla	ameisle	1	Ameisele	Ameisele	0
+44	Co Va 2	na	Obermichelbach (Michelbach-le-Haut)	7.44645, 47.56623	omaisele	na	999	ameisle	na	999	Ameisele	na	999
+45	Co Va 15	na	Niederranspach (Ranspach-le-Bas)	7.44726, 47.58851	aumaisla	na	999	aumeisla	na	999	Ameisele	na	999
+46	Co Va 4/2, Co Va 4/1	na	Volkensberg (Folgensbourg)	7.4473, 47.55147	omeisala, åmeisela	na	999	ameisla	na	999	Ameisele	na	999
+47	Co Vd 3	na	Liebenzweiler (Liebenswiller)	7.45821, 47.49881	omeisala	na	999	ameisla	na	999	Ameisele	na	999
+48	Co V 15	na	Brinkheim (Brinckheim)	7.45901, 47.62634	åmeisala	na	999	ameisla	na	999	Ameisele	na	999
+49	Co V 13/2, Co V 13/1	III_16_0047	Niedermichelbach (Michelbach-le-Bas), Niedermichelbach	7.46442, 47.59288	omeisle	omeisle	0	ameisle	ameisle	0	Ameisele	Ameisele	0
+50	Co Va 6	III_17_0022	Oberhagental (Hagenthal-le-Haut), Oberhagental	7.46966, 47.52221	omeisele	omeisele	0	ameisle	ameisle	0	Ameisele	Ameisele	0
+51	Co Va 5	III_17_0034	Wenzweiler (Wentzwiller), Wenzweiler	7.48036, 47.55042	aumaisala	aumaisala	0	aumeisla	aumeisla	0	Ameisele	Ameisele	0
+52	Co Vd 4	III_17_0073	Leimen (Leymen), Leimen	7.48218, 47.4954	omeisala	omeisela	1	ameisla	ameisla	0	Ameisele	Ameisele	0
+53	Co Wa 5	III_17_0028	Neuweiler (Neuwiller), Neuweiler	7.51526, 47.52439	omeisele	ameisala	3	ameisle	ameisla	1	Ameisele	Ameisele	0
+54	Co Wa 1	III_17_0026	Häsingen (Hésingue), Häsingen	7.5211, 47.57633	omeisele	aumeisala	4	ameisle	aumeisla	2	Ameisele	Ameisele	0
+55	Co Wa 3	III_17_0035	Hegenheim (Hégenheim), Hegenheim	7.52344, 47.56115	omeisalla	aumasala	5	ameisla	aumasla	3	Ameisele	Ameisele	0
+56	Co W 4, 5	III_16_0087, III_16_0088	Egringen und Fischingen, Egringen, Fischingen	7.59628, 47.66366	omsle	omsle	0	amsle	amsle	0	Ameisele	Ameisele	0
+57	Co P6	III_15_0057	Tannenkirch, Tannenkirch	7.6103, 47.71116	omsle	omsle	0	amsle	amsle	0	Ameisele	Ameisele	0
+58	Co R10	na	Riedichen	7.88873, 47.70465	ōmeisele	na	999	ameisle	na	999	Ameisele	na	999
+59	Co K12	na	Todtmoos	8.00438, 47.74133	amaisele	na	999	ameisle	na	999	Ameisele	na	999
+60	TUTT x7	III_14_0077	Göschweiler, Göschweiler	8.31065, 47.85812	amosele	amosele	0	amasle	amasle	0	Ameisele	Ameisele	0
+61	TUTT y3	III_35_0003	Seppenhofen, Seppenhofen	8.34864, 47.8748	amosele	umoselen	2	amasle	umaslen	2	Ameisele	Ameisele	0
+62	TUTT y4	III_35_0002	Reiselfingen, Reiselfingen	8.35108, 47.85467	amåsele, umåsele	umosele	1	umasle, amasle	umasle	0	Ameisele	Ameisele	0
+63	TUTT y1	III_35_0004	Dittishausen, Dittishausen	8.36266, 47.90077	umoͦsele	umosele	1	umasle	umasle	0	Ameisele	Ameisele	0
+64	KST F14/2	III_22_0004, III_22_0006	Ettlingen, Ettlingen	8.40245, 48.94247	amaisle	amaisle	0	ameisle	ameisle	0	Ameisele	Ameisele	0
+65	TUTT y11	III_35_0009	Bachheim, Bachheim	8.4031, 47.85931	umosele	amo͡asele, umo͡asele	2	umasle	umoasle, amoasle	1	Ameisele	Ameisele	0
+66	TUTT y9	III_35_0006	Döggingen, Döggingen	8.43444, 47.8919	umosele	umosele	0	umasle	umasle	0	Ameisele	Ameisele	0
+67	TUTT U7	na	Riedern am Sand (im SprachGIS: Unter Riedern)	8.4462, 47.6245	ameisle	na	999	ameisle	na	999	Ameisele	na	999
+68	TUTT y7	III_35_0001	Mundelfingen, Mundelfingen	8.46432, 47.8676	umosele	umosele	0	umasle	umasle	0	Ameisele	Ameisele	0
+69	TUTT r7	na	Hüfingen	8.48886, 47.92431	umosele	na	999	umasle	na	999	Ameisele	na	999
+70	TUTT z7	na	Eschach	8.50328, 47.86021	amosele	na	999	amasle	na	999	Ameisele	na	999
+71	TUTT z8	na	Blumberg	8.53265, 47.83981	amosele	na	999	amasle	na	999	Ameisele	na	999
+72	TUTT z6	na	Riedböhringen	8.53811, 47.87011	amosele	na	999	amasle	na	999	Ameisele	na	999
+73	TUTT Q13	na	Rieslasingen	8.83715, 47.73231	amosele	na	999	amasle	na	999	Ameisele	na	999
+74	TUTT z2	na	Nendingen	8.86067, 48.00602	umôsele	na	999	umasle	na	999	Ameisele	na	999
+75	TUTT Q3	III_37_0019	Worblingen, Worblingen	8.86677, 47.72492	rumbosala	rumboasala	1	rumbasla	rumboasla	1	Ameisele	Ameisele	0
+76	TUTT J6	III_36_0044	Beuren an der Aach, Beuren	8.87459, 47.79932	rambåsel	rumboasele, amoasele	4	rambasel	rumboasle, amoasle	4	Ameisele	Ameisele	0
+77	TUTT X1	III_38_0024	Öhningen, Öhningen	8.89136, 47.66162	umbāsle	umbasle	1	umbasle	umbasle	0	Ameisele	Ameisele	0
+78	TUTT Q4	III_37_0021	Bohlingen, Bohlingen	8.8965, 47.72199	umboesele	ambösele	3	umboasle	ambösle	3	Ameisele	Ameisele	0
+79	TUTT Q2	III_37_0020	Überlingen am Ried, Überlingen am Ried	8.89807, 47.73495	rumboasele	rumboasele	0	rumboasle	rumboasle	0	Ameisele	Ameisele	0
+80	TUTT Q7	III_37_0025	Bankholzen, Bankholzen	8.92989, 47.7082	ameisele, umboassele	umboaßeͣ̈leͣ̈	6	umboasle, ameisle	umboasle	0	Ameisele	Ameisele	0
+81	TUTT X2	III_38_0025	Wangen, Wangen	8.93161, 47.6599	umbasla	umbasele	2	umbasla	umbasle	1	Ameisele	Ameisele	0
+82	TUTT Q5	III_37_0024	Moos, Moos	8.93316, 47.7259	umbåssele	umboasele	2	umbasle	umboasle	1	Ameisele	Ameisele	0
+83	TUTT Q8	III_37_0028	Weiler und Iznag, Weiler	8.95347, 47.70847	hamboisele	humbaisele	2	hamboisle	humbeisle	2	Ameisele	Ameisele	0
+84	TUTT Q11	III_37_0029	Hemmenhofen, Hemmenhofen	8.96502, 47.67294	umboasele	umboasele	0	umboasle	umboasle	0	Ameisele	Ameisele	0
+85	TUTT Q10	III_37_0026	Gaienhofen, Gaienhofen	8.9829, 47.68263	umboasēͣlēͣ	umboassele	4	umboasle	umboasle	0	Ameisele	Ameisele	0
+86	TUTT Q9	III_37_0027	Horn, Horn	8.99438, 47.69562	humboasä̆lä̆	humboaselä̆, rumboaselä̆	2	hamboasle	rumboasle, humboasle	1	Ameisele	Ameisele	0
+87	TUTT R5	na	Hegne	9.09929, 47.7097	hamboasele	na	999	hamboasle	na	999	Ameisele	na	999
+88	na	III_16_0028	Karspach	7.21307, 47.61448	na	omaisala	999	na	ameisla	999	na	Ameisele	999
+89	na	III_17_0011	Mörnach	7.25681, 47.50213	na	omeisela	999	na	ameisla	999	na	Ameisele	999
+90	na	III_16_0036	Bettendorf	7.27676, 47.58379	na	omeisala	999	na	ameisla	999	na	Ameisele	999
+91	na	III_16_0030	Wittersdorf	7.27817, 47.62015	na	omeisala	999	na	ameisla	999	na	Ameisele	999
+92	na	III_11_0082	Leberau	7.28169, 48.2709	na	omeisele	999	na	ameisle	999	na	Ameisele	999
+93	na	III_14_0121, III_14_0119, III_14_0113, III_14_0116	Mülhausen	7.34375, 47.7517	na	omeisala, omeisle, omeisălă, omeisela	999	na	ameisle, ameisla	999	na	Ameisele	999
+94	na	III_16_0044	Jettingen	7.36877, 47.59592	na	omeisala	999	na	ameisla	999	na	Ameisele	999
+95	na	III_13_0035	Heiligkreuz	7.3831, 48.00666	na	omaisala	999	na	ameisla	999	na	Ameisele	999
+96	na	III_16_0045	Berenzweiler	7.3832, 47.5856	na	omeisälä	999	na	ameisle	999	na	Ameisele	999
+97	na	III_17_0071	Biedertal	7.44789, 47.46978	na	omeisele	999	na	ameisle	999	na	Ameisele	999
+98	na	III_17_0017	Niederhagental	7.47691, 47.52383	na	omeisele	999	na	ameisle	999	na	Ameisele	999
+99	na	III_17_0027	Buschweiler	7.50989, 47.55993	na	omeisela	999	na	ameisla	999	na	Ameisele	999
+100	na	III_16_0090	Haltingen	7.61378, 47.61384	na	omsle	999	na	amsle	999	na	Ameisele	999
+101	na	III_6_0067	Dauendorf	7.65509, 48.82974	na	ameisle	999	na	ameisle	999	na	Ameisele	999
+102	na	III_9_0066	Straßburg	7.73609, 48.58523	na	ameisel	999	na	ameisel	999	na	Ameisele	999
+103	na	III_15_0075	Rohrberg	7.90412, 47.7181	na	ameisele	999	na	ameisle	999	na	Ameisele	999
+104	na	III_16_0163	Breitenfeld	8.30617, 47.65178	na	ameisle	999	na	ameisle	999	na	Ameisele	999
+105	na	III_34_0005	Aufen	8.47258, 47.964	na	amoăsele, imoasele	999	na	imoasle, amoasle	999	na	Ameisele	999
+106	na	III_34_0010, III_34_0007, III_34_0013	Donaueschingen	8.50052, 47.95113	na	umusele, umōsele, umosele	999	na	umusle, umasle	999	na	Ameisele	999
+107	na	III_35_0012	Behla	8.51475, 47.89489	na	umosele	999	na	umasle	999	na	Ameisele	999
+108	na	III_36_0041	Hausen	8.67575, 47.91421	na	amoasle	999	na	amoasle	999	na	Ameisele	999
+109	na	III_36_0043	Volkertshausen	8.863, 47.82187	na	runggosele	999	na	rungasle	999	na	Ameisele	999
+110	na	III_36_0046	Wiechs	8.90712, 47.81585	na	rumpoₐsele, runkoₐsele	999	na	rumbasle, rungasle	999	na	Ameisele	999

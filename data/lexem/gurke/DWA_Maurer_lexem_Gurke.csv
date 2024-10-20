@@ -1,0 +1,477 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Co W 10	na	Binzen	7.62403, 47.63133	gurke	na	999	gurke	na	999	Gurke	na	999
+1	Co e 3	na	Leiselheim	7.6357, 48.12586	kurke	na	999	gurke	na	999	Gurke	na	999
+2	Co J4	na	Marzell bei Kandern	7.72688, 47.77116	gurke	na	999	gurke	na	999	Gurke	na	999
+3	Stra C 5	na	Altenheim	7.81393, 48.46505	gurge	na	999	gurke	na	999	Gurke	na	999
+4	Stra v 3	na	Goldscheuer	7.81911, 48.51308	gurk	na	999	gurk	na	999	Gurke	na	999
+5	Stra v 2	na	Marlen	7.8231, 48.52207	gurk	na	999	gurk	na	999	Gurke	na	999
+6	Stra K 9	na	Langenwinkel	7.82557, 48.3325	gūrig	na	999	gurik	na	999	Gurke	na	999
+7	Co g 8	na	Mundingen	7.8346, 48.13735	gurga	na	999	gurke	na	999	Gurke	na	999
+8	Co R8	na	Adelsberg	7.83666, 47.71725	gurge	na	999	gurke	na	999	Gurke	na	999
+9	Stra w 1	na	Neumühl	7.84392, 48.57012	gurg	na	999	gurk	na	999	Gurke	na	999
+10	Co g 1	na	Emmendingen	7.84951, 48.1209	gurke̊	na	999	gurke	na	999	Gurke	na	999
+11	Stra L 9	na	Schuttern	7.85268, 48.38219	gurik	na	999	gurik	na	999	Gurke	na	999
+12	Co R9	na	Zell im Wiesental	7.85301, 47.70753	gurge	na	999	gurke	na	999	Gurke	na	999
+13	Stra L 11	na	Dinglingen	7.85875, 48.34966	gurri	na	999	guri	na	999	Gurke	na	999
+14	Stra S 3	na	Sulz	7.86031, 48.31851	gurk	na	999	gurk	na	999	Gurke	na	999
+15	Stra D 2	na	Hohnhurst	7.86191, 48.49204	gurke	na	999	gurke	na	999	Gurke	na	999
+16	Stra p 3	III_9_0078	Honau, Honau	7.87132, 48.64025	gurk	gurg	1	gurk	gurk	0	Gurke	Gurke	0
+17	Stra w 2	III_10_0051	Odelshofen, Odelshofen	7.88021, 48.56001	gurk	gurk	0	gurk	gurk	0	Gurke	Gurke	0
+18	Co R7	na	Häg-Rohrberg	7.90412, 47.7181	guerke	na	999	gurke	na	999	Gurke	na	999
+19	Stra L 13	na	Kuhbach	7.90787, 48.33884	gurk	na	999	gurk	na	999	Gurke	na	999
+20	Co R3	III_15_0071	Häg (bei Mambach), Häg	7.91432, 47.73207	gůrgä	gurke	3	gurke	gurke	0	Gurke	Gurke	0
+21	Co R11	III_15_0083	Gersbach, Gersbach	7.93271, 47.69725	gurge	gurgä	1	gurke	gurke	0	Gurke	Gurke	0
+22	Stra D 5	na	Bohlsbach	7.94796, 48.49264	gurik	na	999	gurik	na	999	Gurke	na	999
+23	Co R4	na	Happach	7.95137, 47.7412	gurge	na	999	gurke	na	999	Gurke	na	999
+24	Stra D 13	na	Ohlsbach	7.99275, 48.43199	gurik	na	999	gurik	na	999	Gurke	na	999
+25	TUTT S3	na	Herrischried	8.00161, 47.66587	gurke	na	999	gurke	na	999	Gurke	na	999
+26	TUTT L4/1, TUTT D5, Co R15, Co K12, TUTT L4/2	III_15_0073, III_14_0176	Todtmoos (-Rütte), Todtmoos , Todtmoos, Todtmoos	8.00438, 47.74133	gurge, gurge	gurge, gurka	0	gurke	gurke	0	Gurke	Gurke	0
+27	TUTT L6	III_15_0090	Grossherrischwand, Grossherrischwand	8.01017, 47.6797	gurke	gurke	0	gurke	gurke	0	Gurke	Gurke	0
+28	TUTT L5	na	Wehrhalden	8.01061, 47.70213	gurke	na	999	gurke	na	999	Gurke	na	999
+29	Co R14	na	Rütte (bei Todtmoos; es gibt auch noch eines bei Herreschrie und eines bei Todtnauberg)	8.01336, 47.76141	gurke	na	999	gurke	na	999	Gurke	na	999
+30	TÜB a2	na	Ulm (bei Bühl)	8.01434, 48.727	gurk	na	999	gurk	na	999	Gurke	na	999
+31	TUTT D2/1	na	Bernau(-Hof)	8.01571, 47.82095	gūrge	na	999	gurke	na	999	Gurke	na	999
+32	TÜB h1/2	III_9_0103	Gamshurst, Gamshurst	8.0187, 48.66413	gurk	gurk	0	gurk	gurk	0	Gurke	Gurke	0
+33	TUTT S20	na	Hänner	8.03004, 47.59489	gurkche	na	999	gurkche	na	999	Gurke	na	999
+34	KST L2	III_6_0087	Niederrödern/Elsass, Niederrödern	8.04105, 48.90576	gurke	gurke	0	gurke	gurke	0	Gurke	Gurke	0
+35	TÜB a3	III_7_0119	Schwarzach (bei Bühl), Schwarzach	8.04423, 48.74717	gūrg	gurge	2	gurk	gurke	1	Gurke	Gurke	0
+36	TUTT L/S7, TUTT S1	na	Strittmatt, Strittmatt und Engelschwand	8.04718, 47.66382	guarkcha	na	999	gurkche	na	999	Gurke	na	999
+37	KST S7	na	Söllingen	8.05486, 48.78147	gurk	na	999	gurk	na	999	Gurke	na	999
+38	TÜB D5	na	Zell am Harmersbach/Neuhausen	8.06267, 48.3591	gurke	na	999	gurke	na	999	Gurke	na	999
+39	TUTT L8	na	Hartschwand	8.0655, 47.67119	gurka	na	999	gurke	na	999	Gurke	na	999
+40	TÜB a5	na	Moos	8.06679, 48.71918	gurge	na	999	gurke	na	999	Gurke	na	999
+41	TUTT L3	na	Ibach	8.07077, 47.73259	gurkche	na	999	gurkche	na	999	Gurke	na	999
+42	TUTT L/8,9	III_15_0098	Hierbach - Wilfingen, Wilfingen	8.09123, 47.686	gurke	gūrge	2	gurke	gurke	0	Gurke	Gurke	0
+43	TUTT w3	III_14_0072	Bärental, Bärental	8.0952, 47.86975	gurke	gurge	1	gurke	gurke	0	Gurke	Gurke	0
+44	TÜB a7	III_8_0105	Balzhofen, Balzhofen	8.09765, 48.71247	gurk	gurke	1	gurk	gurke	1	Gurke	Gurke	0
+45	TUTT L2	na	Wittenschwand	8.10083, 47.72846	gurke	na	999	gurke	na	999	Gurke	na	999
+46	KST S14	III_7_0113	Hügelsheim, Hügelsheim	8.10904, 48.79654	gurge	gurg	1	gurke	gurk	1	Gurke	Gurke	0
+47	TÜB a8	III_8_0106	Vimbuch, Vimbuch	8.11501, 48.71676	gurg	gurg	0	gurk	gurk	0	Gurke	Gurke	0
+48	TUTT w4	na	Falkau	8.12453, 47.8699	gurke	na	999	gurke	na	999	Gurke	na	999
+49	TÜB a9	na	Weitenung	8.12886, 48.73998	gurke	na	999	gurke	na	999	Gurke	na	999
+50	KST L7	na	Wintersdorf	8.13451, 48.84595	guorke	na	999	gurke	na	999	Gurke	na	999
+51	TUTT S12	na	Unteralpfen	8.13573, 47.64543	gūrge	na	999	gurke	na	999	Gurke	na	999
+52	TUTT S16	na	Albruck-Kiesenbach	8.14411, 47.60046	gurke	na	999	gurke	na	999	Gurke	na	999
+53	TÜB h13	na	Neusatz	8.14904, 48.65879	gurg	na	999	gurk	na	999	Gurke	na	999
+54	KST L6	na	Ottersdorf	8.15398, 48.86103	gurk	na	999	gurk	na	999	Gurke	na	999
+55	KST L5	na	Plittersdorf bei Rastatt	8.15649, 48.88249	gurge	na	999	gurke	na	999	Gurke	na	999
+56	TÜB a10	III_8_0100	Steinbach, Steinbach	8.16038, 48.72843	gürk	gurk	1	gürk	gurk	1	Gurke	Gurke	0
+57	TÜB b6	na	Altschweier	8.16047, 48.69964	gurge	na	999	gurke	na	999	Gurke	na	999
+58	TUTT E1	na	Fischbach	8.16112, 47.84388	gurge	na	999	gurke	na	999	Gurke	na	999
+59	TUTT M2	na	Höchenschwand	8.16491, 47.73427	gurcke	na	999	gurke	na	999	Gurke	na	999
+60	KST S12	na	Sinzheim bei Winden	8.16564, 48.76405	gurk	na	999	gurk	na	999	Gurke	na	999
+61	TUTT M1	na	Attlisberg	8.16607, 47.72173	gurcke	na	999	gurke	na	999	Gurke	na	999
+62	TÜB M6	na	Hausach	8.17189, 48.28424	gurge	na	999	gurke	na	999	Gurke	na	999
+63	TUTT T6	na	Dogern	8.17239, 47.60884	gurka	na	999	gurke	na	999	Gurke	na	999
+64	TUTT x3	na	Saig	8.17667, 47.89199	gurke	na	999	gurke	na	999	Gurke	na	999
+65	TUTT T5	na	Eschbach	8.18086, 47.6336	gurke	na	999	gurke	na	999	Gurke	na	999
+66	KST T13	na	Sinzheim-Vormberg-Ebenung	8.18209, 48.7552	gurke	na	999	gurke	na	999	Gurke	na	999
+67	TUTT M3	na	Amrigschwand	8.1855, 47.71974	gurcke	na	999	gurke	na	999	Gurke	na	999
+68	KST M1	III_6_0097	Steinmauern, Steinmauern	8.19956, 48.90045	gurk	gurk	0	gurk	gurk	0	Gurke	Gurke	0
+69	KST M10/1	na	Rastatt	8.20142, 48.8573	gurke	na	999	gurke	na	999	Gurke	na	999
+70	TÜB E2	III_11_0080	Seebach, Seebach	8.20278, 48.57466	gurk	gurke	1	gurk	gurke	1	Gurke	Gurke	0
+71	KST E8	III_5_0129	Illingen, Illingen	8.20923, 48.9349	gurig	gurik	1	gurik	gurik	0	Gurke	Gurke	0
+72	TÜB M7	III_12_0174	Gutach, Gutach	8.21021, 48.25051	gurke	gurke	0	gurke	gurke	0	Gurke	Gurke	0
+73	TÜB E4	na	Oberwolfach	8.21698, 48.3174	gurke	na	999	gurke	na	999	Gurke	na	999
+74	KST M9	III_6_0108	Niederbühl, Niederbühl	8.21769, 48.84547	gurk	gurke	1	gurk	gurke	1	Gurke	Gurke	0
+75	TÜB M3/2	na	Wolfach	8.22076, 48.30289	gork	na	999	gork	na	999	Gurke	na	999
+76	TUTT q8	III_13_0161	Rudenberg, Rudenberg	8.23807, 47.9196	gurge	gurge	0	gurke	gurke	0	Gurke	Gurke	0
+77	KST E9	na	Au am Rhein	8.23933, 48.95136	gurg	na	999	gurk	na	999	Gurke	na	999
+78	TUTT q9	na	Schwärzenbach	8.23987, 47.948	gurke	na	999	gurke	na	999	Gurke	na	999
+79	KST T14/2, KST T14/3, KST T14/1, KST T14/4	na	Baden-Baden, Baden-Baden-West, Baden-Baden	8.24094, 48.76273	gurg , gurk	na	999	gurk	na	999	Gurke	na	999
+80	TUTT q2	III_13_0157	Schollach, Schollach	8.24463, 47.98628	gurke	gurke	0	gurke	gurke	0	Gurke	Gurke	0
+81	TÜB b1	na	Gerolsau	8.24536, 48.73474	gurke	na	999	gurke	na	999	Gurke	na	999
+82	TÜB M2	na	Langenbach	8.25164, 48.3205	gurke	na	999	gurke	na	999	Gurke	na	999
+83	KST M2	na	Bietigheim	8.25343, 48.91099	guk , guerk	na	999	gurk	na	999	Gurke	na	999
+84	TUTT i3	III_13_0089	Urach, Urach	8.25368, 48.00477	gurke	gurge, gurke	0	gurke	gurke	0	Gurke	Gurke	0
+85	KST E6	na	Würmersheim	8.25452, 48.94056	gurke	na	999	gurke	na	999	Gurke	na	999
+86	TUTT i1	na	Rohrbach	8.25784, 48.07437	gurge	na	999	gurke	na	999	Gurke	na	999
+87	TUTT b5	na	Nussbach	8.25836, 48.13097	gurge	na	999	gurke	na	999	Gurke	na	999
+88	TÜB b2/1	na	Lichtent(h)al	8.2614, 48.74458	gurg	na	999	gurk	na	999	Gurke	na	999
+89	KST E2	na	Neuburgweier	8.26776, 48.96981	guerg	na	999	gurk	na	999	Gurke	na	999
+90	TÜB i2	na	Forbach-Hundsbach	8.27064, 48.62026	gurk	na	999	gurk	na	999	Gurke	na	999
+91	TUTT T9	na	Tiengen	8.28181, 47.63443	gurkhe	na	999	gurkche	na	999	Gurke	na	999
+92	KST M7	III_6_0106	Bischweier, Bischweier	8.28478, 48.83768	gurke	gurke	0	gurke	gurke	0	Gurke	Gurke	0
+93	KST E4	III_5_0137, III_5_0136, III_5_0138	Mörsch, Mörsch	8.28883, 48.96003	gurk	gürk, gurk	0	gurk	gürk, gurk	0	Gurke	Gurke	0
+94	TÜB M1	III_11_0149	Sankt Roman, St. Roman	8.2924, 48.33187	gurk	gurke	1	gurk	gurke	1	Gurke	Gurke	0
+95	TUTT T14	na	Kadelburg	8.29552, 47.60851	gurke	na	999	gurke	na	999	Gurke	na	999
+96	TUTT x6	na	Gündelwangen	8.29672, 47.84246	gurka	na	999	gurke	na	999	Gurke	na	999
+97	TUTT i2	III_13_0087, III_13_0084, III_13_0086	Vöhrenbach, Vöhrenbach	8.30495, 48.04519	gurk	gurg, gurk, gurke	0	gurk	gurk, gurke	0	Gurke	Gurke	0
+98	KST T3	na	(Bad) Rotenfels (Ortsteil von Gaggenau)	8.30895, 48.81087	gurg	na	999	gurk	na	999	Gurke	na	999
+99	KST M6	na	Oberweier	8.31051, 48.84847	gurke	na	999	gurke	na	999	Gurke	na	999
+100	KST T5	na	Selbach	8.31271, 48.78121	gurje	na	999	gurie	na	999	Gurke	na	999
+101	KST E3	na	Forchheim	8.31683, 48.97425	gork	na	999	gork	na	999	Gurke	na	999
+102	TUTT q3	III_13_0158	Hammereisenbach, Hammereisenbach	8.31732, 47.99481	gurke	gurke	0	gurke	gurke	0	Gurke	Gurke	0
+103	TUTT b7	na	Oberkirnach	8.31901, 48.09369	gurge	na	999	gurke	na	999	Gurke	na	999
+104	KST T4	na	Gaggenau/Murg	8.32147, 48.801	gurge	na	999	gurke	na	999	Gurke	na	999
+105	TÜB x5, TÜB x6	III_10_0145	Bad Rippoldsau, Bad Rippoldsau	8.32852, 48.42806	gurk , gurk	gurk	0	gurk	gurk	0	Gurke	Gurke	0
+106	KST M5	III_6_0103	Waldprechtsweier, Waldprechtsweier	8.33173, 48.8612	gurje	gurik	2	gurie	gurik	1	Gurke	Gurke	0
+107	KST N1	III_6_0100, III_6_0102, III_6_0101	Malsch, Malsch	8.3345, 48.88047	gurje	gurk	2	gurie	gurk	2	Gurke	Gurke	0
+108	TÜB N2	na	Schiltach	8.34259, 48.29033	gurg	na	999	gurk	na	999	Gurke	na	999
+109	KST U3	na	Hörden	8.34313, 48.78046	gurk	na	999	gurk	na	999	Gurke	na	999
+110	TÜB c1	III_25_0006	Obertsrot und Hilpertsau, Obertsrot	8.34633, 48.74303	gurk	gurk	0	gurk	gurk	0	Gurke	Gurke	0
+111	TUTT y3	na	Seppenhofen	8.34864, 47.8748	gorge	na	999	gorke	na	999	Gurke	na	999
+112	TÜB k1	III_26_0001	Raumünzach, Raumänzach	8.34869, 48.63918	gurk	gurge	2	gurk	gurke	1	Gurke	Gurke	0
+113	TÜB F1	III_29_0001	Kaltbrunn, Kaltbrunn	8.35246, 48.34621	gurge	gurke	1	gurke	gurke	0	Gurke	Gurke	0
+114	TÜB c2	na	Weisenbach	8.35397, 48.72827	gurk	na	999	gurk	na	999	Gurke	na	999
+115	KST y 7	na	Karlsruhe-Grünwinkel	8.35529, 49.0032	gurge, gurje	na	999	gurie, gurke	na	999	Gurke	na	999
+116	KST N2	na	Sulzbach	8.35791, 48.80596	gurg	na	999	gurk	na	999	Gurke	na	999
+117	TÜB c4	na	Au im Murgtal	8.36129, 48.72172	gurke	na	999	gurke	na	999	Gurke	na	999
+118	TÜB c5	III_25_0002	Langenbrand, Langenbrand	8.36334, 48.70441	gork	gurk	1	gork	gurk	1	Gurke	Gurke	0
+119	TUTT U5	na	Wutöschingen	8.36613, 47.65918	gurkche	na	999	gurkche	na	999	Gurke	na	999
+120	TUTT k10	na	Unterkirnach	8.36628, 48.07845	gurga	na	999	gurke	na	999	Gurke	na	999
+121	KST F13	na	Bruchhausen bei Ettlingen	8.371, 48.92716	gurg, gurje	na	999	gurie, gurk	na	999	Gurke	na	999
+122	TUTT k9	III_33_0002	Herzogenweiler, Herzogenweiler	8.37157, 48.0254	gurke	gurke	0	gurke	gurke	0	Gurke	Gurke	0
+123	TÜB N1	III_30_0007	Schenkenzell, Schenkenzell	8.37253, 48.31105	gurge	gurk	2	gurke	gurk	1	Gurke	Gurke	0
+124	KST F1	na	Karlsruhe-Beiertheim	8.37277, 48.9907	gurk	na	999	gurk	na	999	Gurke	na	999
+125	KST N3	III_23_0002	Oberweier, Oberweier	8.37866, 48.91717	gurke	gurke	0	gurke	gurke	0	Gurke	Gurke	0
+126	KST y 10	na	Neureut	8.37902, 49.05267	gurge	na	999	gurke	na	999	Gurke	na	999
+127	KST F2	III_22_0001	Bulach, Bulach	8.38244, 48.9868	gork	gurg	2	gork	gurk	1	Gurke	Gurke	0
+128	KST F12	III_22_0003	Ettlingenweier, Ettlingenweier	8.38589, 48.92887	gurge	gurke	1	gurke	gurke	0	Gurke	Gurke	0
+129	KST N12	na	Moosbronn	8.38849, 48.83638	gurgä	na	999	gurke	na	999	Gurke	na	999
+130	KST r4	III_20_0006	Leopoldshafen, Leopoldshafen	8.3923, 49.09933	gurig	gurk	2	gurik	gurk	1	Gurke	Gurke	0
+131	TUTT y11	III_35_0009	Bachheim, Bachheim	8.4031, 47.85931	gorke	gorke	0	gorke	gorke	0	Gurke	Gurke	0
+132	TUTT U12	na	Grießen	8.4114, 47.62774	gurke	na	999	gurke	na	999	Gurke	na	999
+133	KST r1	III_20_0002	Liedolsheim, Liedolsheim	8.41451, 49.16221	guak	gurk	1	gurk	gurk	0	Gurke	Gurke	0
+134	KST r2	III_20_0003, III_20_0004	Hochstetten, Hochstetten	8.41566, 49.13702	gurke	gurke	0	gurke	gurke	0	Gurke	Gurke	0
+135	TUTT U11	na	Bergöschingen	8.42093, 47.59537	gurke	na	999	gurke	na	999	Gurke	na	999
+136	KST k4	na	Rußheim	8.42435, 49.18617	gureg	na	999	gurek	na	999	Gurke	na	999
+137	TUTT y9	na	Döggingen	8.43444, 47.8919	gurge	na	999	gurke	na	999	Gurke	na	999
+138	Ma f1/2	II_58_0061	Mannheim-Sandhofen, Mannheim-Sandhofen, Mannheim-Sandhofen	8.44789, 49.5433	gorge	gork	2	gorke	gork	1	Gurke	Gurke	0
+139	KST N11	III_23_0013	Schielberg, Schielberg	8.44945, 48.84311	gurk	gurk	0	gurk	gurk	0	Gurke	Gurke	0
+140	KST F4	na	Wolfartsweier	8.45219, 48.97443	gurge	na	999	gurke	na	999	Gurke	na	999
+141	TUTT k2	III_33_0006	Rietheim, Rietheim	8.45381, 48.02981	gurka	gurka	0	gurke	gurke	0	Gurke	Gurke	0
+142	TUTT k1	III_33_0069	Vilingen, Villingen	8.45901, 48.0567	gurk	gurge	2	gurk	gurke	1	Gurke	Gurke	0
+143	TUTT c5	na	Neuhausen	8.45905, 48.13221	gurke	na	999	gurke	na	999	Gurke	na	999
+144	KST F5	na	Karlsruhe-Aue	8.46138, 48.9881	gurk	na	999	gurk	na	999	Gurke	na	999
+145	KST F10	na	Busenbach	8.46237, 48.93179	gurge	na	999	gurke	na	999	Gurke	na	999
+146	KST y 2	na	Büchig	8.46824, 49.04811	gurje	na	999	gurie	na	999	Gurke	na	999
+147	TUTT k4	na	Kirchdorf	8.4704, 48.01378	guerke	na	999	gurke	na	999	Gurke	na	999
+148	TUTT r1	na	Grüningen	8.47107, 47.98253	gurke	na	999	gurke	na	999	Gurke	na	999
+149	KST F7	na	Hohenwettersbach	8.47808, 48.96713	gurge	na	999	gurke	na	999	Gurke	na	999
+150	Ma f2	na	Mannheim-Waldhof (Luzenberg)	8.47981, 49.52527	gurge	na	999	gurke	na	999	Gurke	na	999
+151	KST r5	III_20_0009	Friedrichstal, Friedrichstal	8.48091, 49.10481	gurk	gurk	0	gurk	gurk	0	Gurke	Gurke	0
+152	KST F9	III_22_0008	Palmbach, Palmbach	8.48266, 48.94683	gurk	gurg	1	gurk	gurk	0	Gurke	Gurke	0
+153	TUTT c4	na	Fischbach	8.49142, 48.15251	gurke	na	999	gurke	na	999	Gurke	na	999
+154	KST d2	III_18_0008, III_18_0009	Altlußheim, Altlussheim	8.49951, 49.30106	gurigä	guik	3	gurike	guik	2	Gurke	Gurke	0
+155	MH za1	na	Mannheim-Gartenstadt	8.50016, 49.5305	goarg	na	999	gork	na	999	Gurke	na	999
+156	KST O1	na	Langensteinbach	8.50638, 48.915	gōrg	na	999	gork	na	999	Gurke	na	999
+157	MH z4/1, MH z4/2	na	Mannheim-Käfertal	8.51715, 49.51259	gurge	na	999	gurke	na	999	Gurke	na	999
+158	KST d8	na	Waghäusel	8.51733, 49.25118	gurik	na	999	gurik	na	999	Gurke	na	999
+159	KST l1	na	Wiesental	8.51962, 49.22472	gurick	na	999	gurik	na	999	Gurke	na	999
+160	MH Q7	II_60_0033	Ketsch, Ketsch	8.52432, 49.3678	gōrgä	gork	3	gorke	gork	1	Gurke	Gurke	0
+161	KST z6	III_21_0015, III_21_0014	Berghausen, Berghausen	8.52712, 49.00389	gurg, gurig	gurg	0	gurik, gurk	gurk	0	Gurke	Gurke	0
+162	TUTT d1	na	Niedereschach	8.52734, 48.13129	gurke	na	999	gurke	na	999	Gurke	na	999
+163	MH H10/2	na	Mannheim-Rheinau	8.53056, 49.4292	gorge	na	999	gorke	na	999	Gurke	na	999
+164	MH H10/1	na	Rheinau	8.53056, 49.42924	gurk	na	999	gurk	na	999	Gurke	na	999
+165	KST z8	na	Weingarten	8.53114, 49.0533	gurg	na	999	gurk	na	999	Gurke	na	999
+166	MH H2	II_59_0067	Feudenheim, Feudenheim	8.53299, 49.4864	guairg , guarg	gurge	2	gurik, gurk	gurke	1	Gurke	Gurke	0
+167	KST G6	na	Mutschelbach	8.53428, 48.94409	gurk	na	999	gurk	na	999	Gurke	na	999
+168	MH Q1	na	Brühl	8.53485, 49.3951	guirk	na	999	guik	na	999	Gurke	na	999
+169	KST G1	III_22_0011	Söllingen, Söllingen	8.5425, 48.98622	gurke	gurke	0	gurke	gurke	0	Gurke	Gurke	0
+170	KST d1	III_18_0015	Hockenheim, Hockenheim	8.54755, 49.31857	gurk	gurk	0	gurk	gurk	0	Gurke	Gurke	0
+171	MH H1	na	Wennheim-Wallstadt	8.5484, 49.4957	guig	na	999	guik	na	999	Gurke	na	999
+172	KST l2	na	Kirrlach	8.54938, 49.24183	gurke	na	999	gurke	na	999	Gurke	na	999
+173	TUTT s7	na	Aasen	8.5512, 47.98	gurgä	na	999	gurke	na	999	Gurke	na	999
+174	KST s8	III_20_0021	Untergrombach, Untergrombach	8.55318, 49.0861	gurke	gurk	1	gurke	gurk	1	Gurke	Gurke	0
+175	KST G2	na	Kleinsteinbach	8.55383, 48.96613	gurige	na	999	gurike	na	999	Gurke	na	999
+176	TUTT s8	na	Heidenhofen	8.5657, 47.98295	gurkä	na	999	gurke	na	999	Gurke	na	999
+177	KST d4	na	Reilingen	8.56943, 49.29368	gorg	na	999	gork	na	999	Gurke	na	999
+178	MH Q2	II_60_0035, II_60_0034	Schwetzingen, Schwetzingen	8.57064, 49.38567	gurk	gurg	1	gurk	gurk	0	Gurke	Gurke	0
+179	MH H7	na	Mannheim-Friedrichsfeld	8.57534, 49.44026	guarg	na	999	gurk	na	999	Gurke	na	999
+180	KST z 1	na	Obergrombach	8.58542, 49.07709	gurje	na	999	gurie	na	999	Gurke	na	999
+181	MH Q3	na	Plankstadt	8.59271, 49.39179	gurge	na	999	gurke	na	999	Gurke	na	999
+182	KST O5	III_23_0015	Dietlingen, Dietlingen	8.60093, 48.89654	gurig	gurk	2	gurik	gurk	1	Gurke	Gurke	0
+183	KST s2	na	Bruchsal (Forstamt)	8.60102, 49.12377	gurke	na	999	gurke	na	999	Gurke	na	999
+184	MH H5	II_59_0072	Neckarhausen, Neckarhausen	8.60233, 49.46433	gurk	gurke	1	gurk	gurke	1	Gurke	Gurke	0
+185	KST d7	III_18_0019	Sankt Leon, Sankt Leon	8.6025, 49.26526	gurik	gurke	2	gurik	gurke	2	Gurke	Gurke	0
+186	TUTT s2	III_34_0025	Oberbaldingen, Oberbaldingen	8.60629, 47.97542	gurge	gurge	0	gurke	gurke	0	Gurke	Gurke	0
+187	MH H4	II_59_0070	Ladenburg, Ladenburg	8.61098, 49.47244	goigä	gurg	3	goike	gurk	3	Gurke	Gurke	0
+188	KST z4	III_21_0018	Wössingen, Wössingen	8.61142, 49.01017	gurke	gurg, gurig	2	gurke	gurik, gurk	1	Gurke	Gurke	0
+189	MH H8	II_59_0073	Edingen, Edingen	8.61196, 49.44847	gurk	gurk	0	gurk	gurk	0	Gurke	Gurke	0
+190	TUTT s3	na	Unterbaldingen	8.61256, 47.96992	gūrke	na	999	gurke	na	999	Gurke	na	999
+191	KST l7	III_19_0015	Weiher, Weiher	8.62179, 49.17863	gurk	gurke	1	gurk	gurke	1	Gurke	Gurke	0
+192	KST s1	na	Ubstadt	8.6322, 49.16181	gurge	na	999	gurke	na	999	Gurke	na	999
+193	KST l3	na	Kronau	8.63449, 49.21954	gurje	na	999	gurie	na	999	Gurke	na	999
+194	KST G11	III_22_0023	Ersingen, Ersingen	8.63492, 48.93324	gurge	gurik	2	gurke	gurik	2	Gurke	Gurke	0
+195	KST d5	III_18_0020	Walldorf, Walldorf	8.64294, 49.3028	guarg	gurke	3	gurk	gurke	1	Gurke	Gurke	0
+196	KST l6	na	Stettfeld	8.64516, 49.18353	gurge	na	999	gurke	na	999	Gurke	na	999
+197	KST s10	na	Heidelsheim	8.64542, 49.10114	gurk	na	999	gurk	na	999	Gurke	na	999
+198	KST l5	na	(Bad) Langenbrücken	8.6466, 49.20296	gurk	na	999	gurk	na	999	Gurke	na	999
+199	MH R1/2	na	Heidelberg-Pfaffengrund	8.64698, 49.40282	gurge, gurke	na	999	gurke	na	999	Gurke	na	999
+200	KST z3	na	Dürrenbüchig	8.64747, 49.0227	gurge	na	999	gurke	na	999	Gurke	na	999
+201	MH H9	na	Heidelberg-Wieblingen	8.64805, 49.42539	guig, guaig	na	999	gurik	na	999	Gurke	na	999
+202	TUTT s4, TUTT A1	na	Geisingen, Geisingen (Kirchenhausen)	8.65129, 47.93283	gurgē , gurk	na	999	gurk, gurke	na	999	Gurke	na	999
+203	KST l4	III_19_0018, III_19_0020, III_19_0019	Mingolsheim, Mingolsheim	8.65316, 49.21986	gurk	gurick, gurik, gurk	0	gurk	gurik, gurk	0	Gurke	Gurke	0
+204	MH Q5	na	Sandhausen	8.65837, 49.34236	gurik	na	999	gurik	na	999	Gurke	na	999
+205	MH J2	II_59_0076	Dossenheim, Dossenheim	8.66806, 49.44988	gurk	gurk	0	gurk	gurk	0	Gurke	Gurke	0
+206	MH A1	na	Weinheim	8.67068, 49.55495	gorg	na	999	gork	na	999	Gurke	na	999
+207	KST m1	na	Malsch	8.68153, 49.24579	gurge	na	999	gurke	na	999	Gurke	na	999
+208	KST A7	na	Rinklingen	8.6832, 49.03485	gurga	na	999	gurke	na	999	Gurke	na	999
+209	TUTT H12	na	Beuren a(m) R(ied)	8.6839, 47.79252	gurke	na	999	gurke	na	999	Gurke	na	999
+210	KST A3	III_21_0022	Neibsheim (bei Bruchsal), Neibsheim	8.68509, 49.07104	gurge	gurge	0	gurke	gurke	0	Gurke	Gurke	0
+211	MH J3/2	na	Heidelberg-Handschuhsheim	8.68613, 49.42774	gurk	na	999	gurk	na	999	Gurke	na	999
+212	MH R5, MH R4	na	Leimen	8.68891, 49.34902	gurg	na	999	gurk	na	999	Gurke	na	999
+213	MH R3	II_60_0041	Heidelberg-Rohrbach, Heidelberg-Rohrbach	8.69, 49.38005	gurg	gurk	1	gurk	gurk	0	Gurke	Gurke	0
+214	KST P7	na	Huchenfeld	8.69574, 48.85613	gurig	na	999	gurik	na	999	Gurke	na	999
+215	KST m2	na	Rettigheim	8.6981, 49.24111	gurik	na	999	gurik	na	999	Gurke	na	999
+216	KST P3/3, KST P3/4, KST P3/1	III_23_0054, III_23_0043, III_23_0045, III_23_0050, III_23_0036, III_23_0041, III_23_0052, III_23_0037	Pforzheim, Pforzheim	8.70025, 48.89013	gurig , gurge, gurk	gurg, gurig, gurk	0	gurik, gurk, gurke	gurik, gurk	0	Gurke	Gurke	0
+217	MH R1/1	na	Heidelberg	8.70819, 49.41349	gurg	na	999	gurk	na	999	Gurke	na	999
+218	KST m11	na	Östringen	8.7137, 49.22037	gerg	na	999	gerk	na	999	Gurke	na	999
+219	TUTT t5	III_34_0038	Zimmern, Zimmern	8.71521, 47.94848	girke	gorka	2	girke	gorke	1	Gurke	Gurke	0
+220	KST m3	na	Mühlhausen	8.72271, 49.24953	gurk	na	999	gurk	na	999	Gurke	na	999
+221	KST A4	na	Gölshausen	8.72322, 49.04608	gurigä	na	999	gurike	na	999	Gurke	na	999
+222	KST H2	III_22_0032	Bauschlott, Bauschlott	8.72785, 48.97051	gurk	gurge	2	gurk	gurke	1	Gurke	Gurke	0
+223	KST P6	na	Hohenwart	8.73054, 48.83244	gurig	na	999	gurik	na	999	Gurke	na	999
+224	MH A5	na	Oberflockenbach	8.73109, 49.51102	goͤrge	na	999	gürke	na	999	Gurke	na	999
+225	KST P8	III_23_0058	Würm, Würm	8.73641, 48.86041	gūrk	gurg	2	gurk	gurk	0	Gurke	Gurke	0
+226	MH J7	II_59_0081	Altenbach / Schriesheim, Altenbach	8.73843, 49.48622	gurken	gurke	1	gurken	gurke	1	Gurke	Gurke	0
+227	MH R6	na	Ochsenbach	8.73932, 49.33778	gurje	na	999	gurie	na	999	Gurke	na	999
+228	KST W1	na	Schellbronn	8.74222, 48.81738	gurike	na	999	gurike	na	999	Gurke	na	999
+229	KST P4	na	Eutingen	8.74574, 48.91069	gurgè	na	999	gurke	na	999	Gurke	na	999
+230	MH R11	II_60_0043	Gaiberg, Gaiberg	8.75015, 49.36606	gorge	gork	2	gorke	gork	1	Gurke	Gurke	0
+231	MH J5	na	Peterstal (keine eigene GID, gleiche wie Wilhelmsfeld)	8.75548, 49.44624	gurge, gurk	na	999	gurk, gurke	na	999	Gurke	na	999
+232	MH R7	na	Gauangelloch	8.75579, 49.34078	gurke	na	999	gurke	na	999	Gurke	na	999
+233	KST e12	na	Tairnbach	8.75625, 49.26367	gurgä	na	999	gurke	na	999	Gurke	na	999
+234	KST e4	na	Schatthausen	8.75841, 49.319	gurik	na	999	gurik	na	999	Gurke	na	999
+235	KST t10	na	Menzingen	8.77067, 49.13931	gurje	na	999	gurie	na	999	Gurke	na	999
+236	KST m4	na	Eichtersheim	8.7742, 49.23438	gurik	na	999	gurik	na	999	Gurke	na	999
+237	MH R9	II_60_0046	Bammental, Bammental	8.77604, 49.35511	gurg	gurg	0	gurk	gurk	0	Gurke	Gurke	0
+238	KST W7	III_24_0034	Neuhausen, Neuhausen	8.77888, 48.79256	gurge	gurke	1	gurke	gurke	0	Gurke	Gurke	0
+239	KST t7	na	Flehingen	8.78694, 49.0869	gorge	na	999	gorke	na	999	Gurke	na	999
+240	KST W4	III_24_0025	Steinegg, Steinegg	8.79091, 48.81349	gurg	gurge	1	gurk	gurke	1	Gurke	Gurke	0
+241	MH J10	II_59_0082	Heiligkreuzsteinach, Heiligkreuzsteinach	8.79709, 49.48538	gurke	gurk	1	gurke	gurk	1	Gurke	Gurke	0
+242	MH R13	II_60_0045	Neckargemünd, Neckargemünd	8.79751, 49.39508	gurk	gurg	1	gurk	gurk	0	Gurke	Gurke	0
+243	KST W3	III_24_0026	Tiefenbronn, Tiefenbronn	8.80329, 48.82521	gurk	gürge	3	gurk	gürke	2	Gurke	Gurke	0
+244	MH R10	II_60_0050	Wiesenbach, Wiesenbach	8.80354, 49.36103	guaik	gueige	3	gurik	gurike	1	Gurke	Gurke	0
+245	MH J13	II_59_0084	Schönau bei Heidelberg, Schönau	8.80977, 49.43706	guaig	guack	2	gurik	gurk	1	Gurke	Gurke	0
+246	TUTT A6	na	Bittelbrunn (Aach)	8.81087, 47.86719	gurkä	na	999	gurke	na	999	Gurke	na	999
+247	KST W6	na	Lehningen	8.81639, 48.79486	gurg	na	999	gurk	na	999	Gurke	na	999
+248	KST W5	III_24_0036	Mühlhausen , Mühlhausen	8.82201, 48.80607	gurge	gurige	1	gurke	gurike	1	Gurke	Gurke	0
+249	KST f9	na	Hoffenheim	8.8417, 49.27088	gurge	na	999	gurke	na	999	Gurke	na	999
+250	TUTT B6	na	Aach	8.8497, 47.84307	gurke	na	999	gurke	na	999	Gurke	na	999
+251	KST f1	III_18_0041	Eschelbronn, Eschelbronn	8.86825, 49.3202	gurge	gurke	1	gurke	gurke	0	Gurke	Gurke	0
+252	MH S4	II_60_0055	Lobenfeld, Lobenfeld	8.8718, 49.35884	gurg, gurje	gurje	0	gurie, gurk	gurie	0	Gurke	Gurke	0
+253	KST f10	na	Daisbach	8.87705, 49.2938	gurge, gurger	na	999	gurke	na	999	Gurke	na	999
+254	MH K8	II_59_0097	Neckarhäuserhof, Neckarhäuserhof	8.88191, 49.41513	guik	gurk, gurke	1	guik	gurk, gurke	1	Gurke	Gurke	0
+255	MH S3	II_60_0054	Waldwimmersbach, Waldwimmersbach	8.89219, 49.37538	gurke	gurke	0	gurke	gurke	0	Gurke	Gurke	0
+256	KST f11	na	Rohrbach	8.9042, 49.25168	gurigä	na	999	gurike	na	999	Gurke	na	999
+257	MH S14	na	Epfenbach	8.91088, 49.33719	gurige	na	999	gurike	na	999	Gurke	na	999
+258	MH S11	na	Haag	8.92912, 49.39429	gurgé	na	999	gurke	na	999	Gurke	na	999
+259	TUTT f1	na	Hartheim	8.93612, 48.15571	gurge	na	999	gurke	na	999	Gurke	na	999
+260	MH S7	na	Reichartshausen	8.94509, 49.35547	gurge	na	999	gurke	na	999	Gurke	na	999
+261	MH K5	II_59_0094	Pleutersbach, Pleutersbach	8.95293, 49.45367	guaige	gurge	2	gurike	gurke	1	Gurke	Gurke	0
+262	KST f7	na	Adersbach	8.95454, 49.2632	gurgĕ	na	999	gurke	na	999	Gurke	na	999
+263	TUTT f2	III_32_0038	Heinstetten, Heinstetten	8.96312, 48.13491	gurga	gurge	1	gurke	gurke	0	Gurke	Gurke	0
+264	MH S10	II_60_0061	Michelbach, Michelbach	8.96532, 49.37259	gurje	gurke	1	gurie	gurke	1	Gurke	Gurke	0
+265	KST n5	na	Bockschaft	8.96721, 49.20342	gurke	na	999	gurke	na	999	Gurke	na	999
+266	KST f5	na	Helmstadt	8.97487, 49.32604	gurgä	na	999	gurke	na	999	Gurke	na	999
+267	KST n7	na	Berwangen	8.98098, 49.18431	gurke	na	999	gurke	na	999	Gurke	na	999
+268	KST n4	na	Ehrstädt	8.98266, 49.24404	gurge	na	999	gurke	na	999	Gurke	na	999
+269	KST f6	na	Hasselbach	8.98363, 49.25911	gurge	na	999	gurke	na	999	Gurke	na	999
+270	TUTT n1	III_33_0040	Buchheim, Buchheim	8.98672, 48.011	gurk	gurke	1	gurk	gurke	1	Gurke	Gurke	0
+271	MH T8, MH S8	na	Aglasterhausen, Aglasterhausen-Daudenzell	8.98981, 49.35471	gurger , gurke	na	999	gurke	na	999	Gurke	na	999
+272	TUTT u2	na	Unterschwandorf	8.99628, 47.95028	gurga	na	999	gurke	na	999	Gurke	na	999
+273	MH K4	II_59_0095	Rockenau, Rockenau	8.99904, 49.44673	gurge	gurke	1	gurke	gurke	0	Gurke	Gurke	0
+274	KST g11	III_18_0053	Flinsbach, Flinsbach	8.9996, 49.30946	gurge	gurge	0	gurke	gurke	0	Gurke	Gurke	0
+275	TUTT K8	na	Möggingen	9.00337, 47.76589	gurkå	na	999	gurke	na	999	Gurke	na	999
+276	MH T1	na	Lindach	9.00508, 49.41658	gurke	na	999	gurke	na	999	Gurke	na	999
+277	TUTT C9	na	Hoppetenzell	9.00808, 47.89295	gurge	na	999	gurke	na	999	Gurke	na	999
+278	KST g7	III_18_0059	Untergimern, Untergimern	9.00947, 49.27049	gurke	gurke	0	gurke	gurke	0	Gurke	Gurke	0
+279	TUTT v6	na	Mainwangen	9.0105, 47.92565	gurka	na	999	gurke	na	999	Gurke	na	999
+280	TUTT C6	na	Stockach	9.01468, 47.85384	gurk	na	999	gurk	na	999	Gurke	na	999
+281	TUTT o3	III_33_0047	Leibertingen, Leibertingen	9.01551, 48.04265	guerke	gürke	2	gurke	gürke	1	Gurke	Gurke	0
+282	TUTT C10	na	Mühlingen	9.01554, 47.91191	gurkå	na	999	gurke	na	999	Gurke	na	999
+283	KST g9	III_18_0057	Bargen, Bargen	9.02233, 49.30537	gurke	gurke	0	gurke	gurke	0	Gurke	Gurke	0
+284	TUTT v3	na	Bietingen	9.03261, 47.97091	gurke	na	999	gurke	na	999	Gurke	na	999
+285	TUTT v1	na	Altheim	9.03387, 47.99511	gurka	na	999	gurke	na	999	Gurke	na	999
+286	KST g8	III_18_0058	Wollenberg, Wollenberg	9.03453, 49.29152	gurke	gurke	0	gurke	gurke	0	Gurke	Gurke	0
+287	TUTT g1	na	Glashütte (Heuberg)	9.03485, 48.1237	gurka	na	999	gurke	na	999	Gurke	na	999
+288	TUTT o2	na	Hausen im Tal	9.03969, 48.0848	gurk	na	999	gurk	na	999	Gurke	na	999
+289	TUTT v4	na	Krumbach	9.04788, 47.96159	gorke	na	999	gorke	na	999	Gurke	na	999
+290	TUTT o4	na	Kreenheinstetten	9.05221, 48.0555	gurge	na	999	gurke	na	999	Gurke	na	999
+291	KST o2	III_19_0052	Treschklingen, Treschklingen	9.05577, 49.22614	gurge	guriger	2	gurke	gurike	1	Gurke	Gurke	0
+292	MH T6	II_60_0074	Binau, Binau	9.0577, 49.36658	gurgä	gurge	1	gurke	gurke	0	Gurke	Gurke	0
+293	KST o4	na	Babstadt	9.05798, 49.24212	gurge	na	999	gurke	na	999	Gurke	na	999
+294	TUTT C5	na	Winterspüren	9.05857, 47.85618	gurka	na	999	gurke	na	999	Gurke	na	999
+295	TUTT R6	na	Reichenau	9.06125, 47.69789	gurkä	na	999	gurke	na	999	Gurke	na	999
+296	MH T17	II_60_0075	Neckargerach, Neckargerach	9.0708, 49.40101	gurgä	gurke	2	gurke	gurke	0	Gurke	Gurke	0
+297	KST g4	III_18_0061	Siegelsbach, Siegelsbach	9.08942, 49.27263	gürgä	gurke	3	gürke	gurke	1	Gurke	Gurke	0
+298	MH T10	II_60_0078	Obrigheim, Obrigheim	9.09608, 49.35186	gurge	gurke	1	gurke	gurke	0	Gurke	Gurke	0
+299	KST g1	III_18_0064	Hochhausen, Hochhausen	9.1008, 49.323	gurgä	gurge	1	gurke	gurke	0	Gurke	Gurke	0
+300	TUTT v9	na	Wasser	9.10143, 47.9671	gurk	na	999	gurk	na	999	Gurke	na	999
+301	KST o3	III_19_0057	Bad Rappenau, Bad Rappenau	9.10212, 49.24032	gurige	gurige	0	gurike	gurike	0	Gurke	Gurke	0
+302	KST v1	na	Schluchtern	9.1026, 49.14843	gurke	na	999	gurke	na	999	Gurke	na	999
+303	TUTT 05	na	Langenhart	9.10404, 48.04793	gurke	na	999	gurke	na	999	Gurke	na	999
+304	MH T12	na	Neckarelz	9.10533, 49.34204	gurke	na	999	gurke	na	999	Gurke	na	999
+305	TUTT v7	na	Sauldorf	9.10721, 47.94343	gurke	na	999	gurke	na	999	Gurke	na	999
+306	MH T11	II_60_0079	Diedesheim, Diedesheim	9.11367, 49.34933	gurge, gurke	gurke	0	gurke	gurke	0	Gurke	Gurke	0
+307	TUTT v8	III_34_0060	Rast, Rast	9.12126, 47.93997	gurka	gurke	1	gurke	gurke	0	Gurke	Gurke	0
+308	KST g5	na	Zimmerhof	9.1218, 49.25206	gurke	na	999	gurke	na	999	Gurke	na	999
+309	TUTT o6	na	Engelswies	9.12846, 48.04259	gurk	na	999	gurk	na	999	Gurke	na	999
+310	KST g13	na	Neckarmühlbach	9.13604, 49.28364	gurke	na	999	gurke	na	999	Gurke	na	999
+311	MH T15	II_60_0077	Lohrbach, Lohrbach	9.14183, 49.4	gurge	gurke	1	gurke	gurke	0	Gurke	Gurke	0
+312	MH T13	II_60_0082, II_60_0081	Mosbach, Mosbach	9.14619, 49.35501	guerik	gurke	3	gurik	gurke	2	Gurke	Gurke	0
+313	KST g14	III_18_0069	Heinsheim, Heinsheim	9.14778, 49.26416	gurge	gurke	1	gurke	gurke	0	Gurke	Gurke	0
+314	MH L7	na	Robern	9.16265, 49.45394	gurke	na	999	gurke	na	999	Gurke	na	999
+315	MH U1	II_60_0083	Neckarburken, Neckarburken	9.165, 49.37662	gurge	gurge	0	gurke	gurke	0	Gurke	Gurke	0
+316	MH U10	na	Sattelbach	9.16732, 49.40849	gurke	na	999	gurke	na	999	Gurke	na	999
+317	SIG k1	na	Aach-Linz	9.20037, 47.91152	gurga	na	999	gurke	na	999	Gurke	na	999
+318	SIG d1	III_33_0055	Göggingen, Göggingen	9.20194, 48.00389	gurk	gurke	1	gurk	gurke	1	Gurke	Gurke	0
+319	MH M5	na	Limbach	9.21181, 49.46142	gurge	na	999	gurke	na	999	Gurke	na	999
+320	SIG q2	na	Unteruhldingen	9.2334, 47.72271	gurgae	na	999	gurke	na	999	Gurke	na	999
+321	MH M4	na	Scheringen	9.23513, 49.46663	gurge	na	999	gurke	na	999	Gurke	na	999
+322	SIG g2/2, SIG g2/1	na	Pfullendorf	9.25466, 47.92614	gurk, gurka	na	999	gurk, gurke	na	999	Gurke	na	999
+323	MH Y3	na	Herbolzheim	9.26007, 49.28376	gurke	na	999	gurke	na	999	Gurke	na	999
+324	MH U6	na	Katzental	9.26618, 49.37338	gurke	na	999	gurke	na	999	Gurke	na	999
+325	MH Y2	na	Neudenau	9.27037, 49.2923	gurige	na	999	gurike	na	999	Gurke	na	999
+326	SIG n6	na	Leustetten	9.29433, 47.80634	gurke	na	999	gurke	na	999	Gurke	na	999
+327	MH Y4	III_18_0076	Stein am Kocher, Stein	9.29954, 49.26198	gurgé	gurge	1	gurke	gurke	0	Gurke	Gurke	0
+328	SIG n5	na	Heiligenberg	9.31203, 47.81993	gurge	na	999	gurke	na	999	Gurke	na	999
+329	MH M12	na	Bödigheim	9.31522, 49.47408	gurge	na	999	gurke	na	999	Gurke	na	999
+330	MH N1	na	Eberstadt	9.3666, 49.47727	gurge	na	999	gurke	na	999	Gurke	na	999
+331	MH V2	II_93_0002	Sennfeld, Sennfeld	9.38438, 49.38045	gurke	gurge	1	gurke	gurke	0	Gurke	Gurke	0
+332	SIG r5	na	Kluftern	9.40004, 47.69278	gurke	na	999	gurke	na	999	Gurke	na	999
+333	MH N10/1, MH N10/2	na	Hemsbach	9.40014, 49.42726	gurke	na	999	gurke	na	999	Gurke	na	999
+334	MH E4	na	Altheim	9.4436, 49.51915	gurge	na	999	gurke	na	999	Gurke	na	999
+335	MH W2	na	Ballenberg	9.55086, 49.40093	gurge	na	999	gurke	na	999	Gurke	na	999
+336	MH W5	na	Neunstetten	9.61267, 49.41114	gurgä	na	999	gurke	na	999	Gurke	na	999
+337	MH W7	na	Krautheim	9.63369, 49.39159	gurge	na	999	gurke	na	999	Gurke	na	999
+338	STU XIII 1	na	(Bad) Schussenried	9.65803, 48.0041	gurk	na	999	gurk	na	999	Gurke	na	999
+339	MH y4	na	Dittigheim	9.67647, 49.61035	gorke	na	999	gorke	na	999	Gurke	na	999
+340	STU k1	na	Wäschenbeuren	9.68695, 48.75984	gurk	na	999	gurk	na	999	Gurke	na	999
+341	MH G8	na	Unterbalbach	9.74711, 49.52779	gurge	na	999	gurke	na	999	Gurke	na	999
+342	na	III_10_0087	Rosheim	7.46905, 48.49622	na	gurje	999	na	gurie	999	na	Gurke	999
+343	na	III_15_0053	Wintersweiler	7.56756, 47.67374	na	gŭrke	999	na	gurke	999	na	Gurke	999
+344	na	III_14_0048	Eschbach	7.65221, 47.8908	na	gurke	999	na	gurke	999	na	Gurke	999
+345	na	III_8_0073	Bilwisheim	7.65824, 48.70895	na	gurke	999	na	gurke	999	na	Gurke	999
+346	na	III_13_0134	Schlatt	7.67473, 47.92531	na	gurke	999	na	gurke	999	na	Gurke	999
+347	na	III_9_0049	Schiltigheim	7.74856, 48.60595	na	gurk	999	na	gurk	999	na	Gurke	999
+348	na	III_12_0118	Nimburg	7.77794, 48.10762	na	gurke	999	na	gurke	999	na	Gurke	999
+349	na	III_13_0054	Hugstetten	7.78045, 48.05415	na	gurke	999	na	gurke	999	na	Gurke	999
+350	na	III_12_0115	Teningen	7.80344, 48.12897	na	gurke	999	na	gurke	999	na	Gurke	999
+351	na	III_10_0047	Kehl	7.81494, 48.57419	na	gurke	999	na	gurke	999	na	Gurke	999
+352	na	III_10_0058	Hesselhurst	7.88114, 48.52042	na	ga͜urg	999	na	gork	999	na	Gurke	999
+353	na	III_10_0052	Legelshurst	7.91306, 48.56803	na	gurk	999	na	gurk	999	na	Gurke	999
+354	na	III_10_0129	Bühl	7.93242, 48.4947	na	gurk	999	na	gurk	999	na	Gurke	999
+355	na	III_14_0071	Todtnauberg	7.94335, 47.85074	na	gurke	999	na	gurke	999	na	Gurke	999
+356	na	III_10_0128	Offenburg	7.9447, 48.47195	na	gurk	999	na	gurk	999	na	Gurke	999
+357	na	III_16_0119	Hütten	7.94873, 47.62902	na	gurke	999	na	gurke	999	na	Gurke	999
+358	na	III_14_0069	St. Wilhelm	7.94887, 47.89511	na	gurgä	999	na	gurke	999	na	Gurke	999
+359	na	III_12_0139	Waldkirch	7.96049, 48.09361	na	gurke	999	na	gurke	999	na	Gurke	999
+360	na	III_10_0053	Urloffen	7.96889, 48.557	na	gurg	999	na	gurk	999	na	Gurke	999
+361	na	III_16_0123	Altenschwand	7.976, 47.63697	na	gurke	999	na	gurke	999	na	Gurke	999
+362	na	III_10_0063	Appenweier	7.98009, 48.53996	na	gurg	999	na	gurk	999	na	Gurke	999
+363	na	III_11_0072	Biberach	8.0278, 48.33891	na	gurge	999	na	gurke	999	na	Gurke	999
+364	na	III_7_0117	Stollhofen	8.04874, 48.76575	na	gurk	999	na	gurk	999	na	Gurke	999
+365	na	III_8_0104	Unzhurst	8.05808, 48.68815	na	gurke	999	na	gurke	999	na	Gurke	999
+366	na	III_8_0103	Hildmannsfeld	8.05893, 48.73423	na	gurge	999	na	gurke	999	na	Gurke	999
+367	na	III_13_0156	Breitnau	8.07603, 47.94014	na	gurken	999	na	gurken	999	na	Gurke	999
+368	na	III_9_0099	Oberachern	8.08066, 48.6193	na	gurk	999	na	gurk	999	na	Gurke	999
+369	na	III_7_0120	Lieberstung	8.09585, 48.75131	na	gurk	999	na	gurk	999	na	Gurke	999
+370	na	III_15_0100	Wolpadingen	8.10774, 47.69861	na	gurke	999	na	gurke	999	na	Gurke	999
+371	na	III_14_0074	Altglashütten	8.11016, 47.85701	na	gurge	999	na	gurke	999	na	Gurke	999
+372	na	III_8_0108	Ottersweier	8.11279, 48.66967	na	gurg	999	na	gurk	999	na	Gurke	999
+373	na	III_15_0111	Urberg	8.12409, 47.73478	na	gurge	999	na	gurke	999	na	Gurke	999
+374	na	III_15_0103	Schlageten	8.12512, 47.71178	na	gurke	999	na	gurke	999	na	Gurke	999
+375	na	III_14_0172, III_14_0174, III_14_0173, III_14_0171	St. Blasien	8.12792, 47.76144	na	gurgä	999	na	gurke	999	na	Gurke	999
+376	na	III_13_0076	Gütenbach	8.13807, 48.04398	na	guěrk	999	na	gurk	999	na	Gurke	999
+377	na	III_7_0122	Halberstung	8.14298, 48.76025	na	gurke	999	na	gurke	999	na	Gurke	999
+378	na	III_5_0115	Münchhausen	8.14635, 48.92142	na	kurke	999	na	gurke	999	na	Gurke	999
+379	na	III_14_0073	Raitenbuch	8.14698, 47.86647	na	gurka	999	na	gurke	999	na	Gurke	999
+380	na	III_10_0138	Ibach	8.16274, 48.45618	na	gurke	999	na	gurke	999	na	Gurke	999
+381	na	III_8_0101, III_8_0102	Eisental	8.16417, 48.71189	na	gurk	999	na	gurk	999	na	Gurke	999
+382	na	III_10_0137	Oppenau	8.16423, 48.47333	na	gurke	999	na	gurke	999	na	Gurke	999
+383	na	III_14_0175	Blasiwald	8.17706, 47.7987	na	gurke	999	na	gurke	999	na	Gurke	999
+384	na	III_12_0069	Rensberg	8.1889, 48.17741	na	gurke	999	na	gurke	999	na	Gurke	999
+385	na	III_8_0112	Bühlertal	8.19194, 48.68215	na	gurg	999	na	gurk	999	na	Gurke	999
+386	na	III_12_0065	Hornberg	8.23036, 48.21193	na	gůrg	999	na	gurk	999	na	Gurke	999
+387	na	III_12_0163, III_12_0165	Triberg	8.2316, 48.13032	na	gurig, gurke	999	na	gurik, gurke	999	na	Gurke	999
+388	na	III_6_0099, III_6_0098	Oetigheim	8.23212, 48.89333	na	gurke	999	na	gurke	999	na	Gurke	999
+389	na	III_7_0128	Kuppenheim	8.25452, 48.82818	na	gurg	999	na	gurk	999	na	Gurke	999
+390	na	III_9_0104	Herrenwies	8.26593, 48.65907	na	gurk	999	na	gurk	999	na	Gurke	999
+391	na	III_13_0160	Eisenbach	8.26837, 47.96084	na	gurke	999	na	gurke	999	na	Gurke	999
+392	na	III_5_0132, III_5_0133	Durmersheim	8.2685, 48.93129	na	gurik	999	na	gurik	999	na	Gurke	999
+393	na	III_11_0151	Halbmeil	8.27063, 48.29042	na	gurke	999	na	gurke	999	na	Gurke	999
+394	na	III_11_0153	Hinterlehengericht	8.30807, 48.2924	na	gurge	999	na	gurke	999	na	Gurke	999
+395	na	III_7_0133	Staufenberg	8.3082, 48.76673	na	gurke	999	na	gurke	999	na	Gurke	999
+396	na	III_10_0144, III_10_0143	Kniebis	8.3101, 48.47233	na	gurk	999	na	gurk	999	na	Gurke	999
+397	na	III_12_0159	Langenschiltach	8.3168, 48.16202	na	gurk	999	na	gurk	999	na	Gurke	999
+398	na	III_15_0127	Uhlingen Ühlingen	8.31845, 47.7201	na	gurke	999	na	gurke	999	na	Gurke	999
+399	na	III_32_0002	Peterzell	8.37425, 48.13255	na	görke	999	na	gürke	999	na	Gurke	999
+400	na	III_37_0006	Obereggingen	8.38631, 47.70175	na	gurke	999	na	gurke	999	na	Gurke	999
+401	na	III_23_0006	Völkersbach	8.39644, 48.8701	na	gurk	999	na	gurk	999	na	Gurke	999
+402	na	III_35_0005	Unadingen	8.40711, 47.88128	na	gurke	999	na	gurke	999	na	Gurke	999
+403	na	III_33_0005, III_33_0004, III_33_0003	Pfaffenweiler	8.41798, 48.03273	na	gorke, gork, gurke	999	na	gorke, gork, gurke	999	na	Gurke	999
+404	na	III_32_0009	Mönchweiler	8.42939, 48.09993	na	gorgä	999	na	gorke	999	na	Gurke	999
+405	na	III_19_0005, III_19_0007	Philippsburg	8.45298, 49.235	na	gurke, guige	999	na	gurike, gurke	999	na	Gurke	999
+406	na	III_23_0004, III_23_0003	Etzenrot	8.46465, 48.90968	na	gurge, gurk	999	na	gurk, gurke	999	na	Gurke	999
+407	na	III_22_0007	Grünwettersbach	8.46671, 48.95784	na	gurke	999	na	gurke	999	na	Gurke	999
+408	na	II_59_0043, II_59_0061, II_59_0062, II_59_0042, II_59_0045, II_59_0056, II_59_0040, II_59_0039, II_59_0046, II_59_0063	Mannheim	8.46678, 49.4865	na	gork, guăk, gurk, gurke	999	na	gork, gurk, gurke	999	na	Gurke	999
+409	na	III_21_0008	Durlach	8.4704, 48.99897	na	gurke	999	na	gurke	999	na	Gurke	999
+410	na	III_33_0007	Marbach	8.47117, 48.03143	na	gurke	999	na	gurke	999	na	Gurke	999
+411	na	III_21_0006	Blankenloch	8.47137, 49.06482	na	gurk	999	na	gurk	999	na	Gurke	999
+412	na	III_18_0011, III_18_0012, III_18_0014, III_18_0013	Oberhausen	8.48324, 49.26035	na	gurik, gurig	999	na	gurik	999	na	Gurke	999
+413	na	III_38_0016	Dettighofen	8.48357, 47.62374	na	gurke	999	na	gurke	999	na	Gurke	999
+414	na	III_34_0120, III_34_0016, III_34_0015	Hüfingen	8.48886, 47.92431	na	gorgä	999	na	gorke	999	na	Gurke	999
+415	na	II_59_0064	Mannheim	8.49104, 49.45335	na	gork	999	na	gork	999	na	Gurke	999
+416	na	III_21_0021	Grötzingen	8.49556, 49.00711	na	gurg	999	na	gurk	999	na	Gurke	999
+417	na	III_19_0011, III_19_0009, III_19_0010	Neudorf	8.49692, 49.17524	na	gurk	999	na	gurk	999	na	Gurke	999
+418	na	III_34_0009, III_34_0012	Donaueschingen	8.50052, 47.95113	na	gorke, gurk	999	na	gorke, gurk	999	na	Gurke	999
+419	na	III_32_0118	Weilersbach	8.50084, 48.09608	na	gurk	999	na	gurk	999	na	Gurke	999
+420	na	III_23_0009, III_23_0008	Langenalb	8.50104, 48.84402	na	gurg, guriga	999	na	gurike, gurk	999	na	Gurke	999
+421	na	III_20_0014	Staffort	8.51034, 49.09079	na	gurke	999	na	gurke	999	na	Gurke	999
+422	na	III_33_0017, III_33_0016, III_33_0018	Bad Dürrheim	8.53214, 48.01807	na	gurgä, gurk	999	na	gurk, gurke	999	na	Gurke	999
+423	na	III_19_0021	Hambrücken	8.54514, 49.18532	na	gurge	999	na	gurke	999	na	Gurke	999
+424	na	III_32_0016	Dauchingen	8.55237, 48.09031	na	gurk	999	na	gurk	999	na	Gurke	999
+425	na	III_21_0017	Wöschbach	8.56737, 48.99948	na	gurje	999	na	gurie	999	na	Gurke	999
+426	na	III_22_0016	Singen	8.56804, 48.95764	na	gurge̊	999	na	gurke	999	na	Gurke	999
+427	na	II_58_0067	Heddesheim	8.60327, 49.50529	na	gurke	999	na	gurke	999	na	Gurke	999
+428	na	II_60_0037	Eppelheim	8.62885, 49.40164	na	gujg	999	na	guik	999	na	Gurke	999
+429	na	II_58_0072	Sulzbach	8.661, 49.57763	na	gork	999	na	gork	999	na	Gurke	999
+430	na	III_22_0026	Ispringen	8.66764, 48.91655	na	gurk	999	na	gurk	999	na	Gurke	999
+431	na	III_23_0029, III_23_0032, III_23_0030, III_23_0031	Pforzheim-Brötzingen	8.66799, 48.889	na	gurig, gurk	999	na	gurik, gurk	999	na	Gurke	999
+432	na	III_36_0042	Hausen	8.67575, 47.91421	na	gurke	999	na	gurke	999	na	Gurke	999
+433	na	III_18_0036	Wiesloch	8.70178, 49.29504	na	gurke	999	na	gurke	999	na	Gurke	999
+434	na	III_22_0029	Göbrichen	8.70848, 48.95808	na	gurk	999	na	gurk	999	na	Gurke	999
+435	na	III_21_0031	Büchig	8.70984, 49.0742	na	gurke	999	na	gurke	999	na	Gurke	999
+436	na	III_34_0039, III_34_0041, III_34_0040	Immendingen	8.73032, 47.95055	na	gork, gurke	999	na	gork, gurke	999	na	Gurke	999
+437	na	III_22_0035	Kieselbronn	8.75287, 48.93453	na	gurige	999	na	gurike	999	na	Gurke	999
+438	na	II_60_0044	Waldhilsbach	8.77179, 49.3721	na	gurke	999	na	gurke	999	na	Gurke	999
+439	na	III_18_0031	Horrenberg	8.78051, 49.28149	na	gurik	999	na	gurik	999	na	Gurke	999
+440	na	II_59_0083	Altneudorf	8.80481, 49.46366	na	gurkä	999	na	gurke	999	na	Gurke	999
+441	na	III_18_0033	Meckesheim	8.81557, 49.32167	na	gurke	999	na	gurke	999	na	Gurke	999
+442	na	II_60_0052	Dilsberg	8.8362, 49.39832	na	gurje	999	na	gurie	999	na	Gurke	999
+443	na	II_60_0056	Mönchzell	8.85327, 49.33612	na	gurke	999	na	gurke	999	na	Gurke	999
+444	na	II_60_0053	Mückenloch	8.8554, 49.3886	na	gurk	999	na	gurk	999	na	Gurke	999
+445	na	III_18_0042	Neidenstein	8.88423, 49.31637	na	gurgé	999	na	gurke	999	na	Gurke	999
+446	na	III_19_0044	Steinsfurt	8.90861, 49.24023	na	gurke	999	na	gurke	999	na	Gurke	999
+447	na	III_19_0046	Ittlingen	8.93691, 49.19224	na	gurke	999	na	gurke	999	na	Gurke	999
+448	na	III_19_0050	Grombach	8.99507, 49.22687	na	gurke	999	na	gurke	999	na	Gurke	999
+449	na	III_25_0044	Sindelfingen	9.00194, 48.70797	na	gurka	999	na	gurke	999	na	Gurke	999
+450	na	II_60_0071	Asbach	9.02562, 49.34133	na	gurje	999	na	gurie	999	na	Gurke	999
+451	na	III_18_0060	Obergimpern	9.04013, 49.25574	na	gurke	999	na	gurke	999	na	Gurke	999
+452	na	II_60_0072	Mörtelstein	9.04246, 49.35708	na	gurke	999	na	gurke	999	na	Gurke	999
+453	na	II_59_0099	Zwingenberg	9.04439, 49.41287	na	gurge	999	na	gurke	999	na	Gurke	999
+454	na	III_18_0063	Kälbertshausen	9.06276, 49.31724	na	gurke	999	na	gurke	999	na	Gurke	999
+455	na	III_37_0032	Allensbach	9.06699, 47.71535	na	gurke	999	na	gurke	999	na	Gurke	999
+456	na	III_34_0055	Heudorf	9.07121, 47.99412	na	gurke	999	na	gurke	999	na	Gurke	999
+457	na	III_36_0058	Langenrain	9.07596, 47.76281	na	gurke	999	na	gurke	999	na	Gurke	999
+458	na	III_32_0043	Stetten	9.07816, 48.12086	na	gurke	999	na	gurke	999	na	Gurke	999
+459	na	III_18_0062	Hüffenhardt	9.08386, 49.2913	na	gurke	999	na	gurke	999	na	Gurke	999
+460	na	III_33_0049	Rohrdorf	9.10207, 48.01811	na	gurga	999	na	gurke	999	na	Gurke	999
+461	na	III_34_0058	Messkirch	9.11537, 47.99484	na	gurk	999	na	gurk	999	na	Gurke	999
+462	na	III_18_0065	Neckarzimmern	9.1329, 49.31835	na	gurge	999	na	gurke	999	na	Gurke	999
+463	na	III_18_0066	Hassmersheim	9.14257, 49.30049	na	gurije	999	na	gurie	999	na	Gurke	999
+464	na	III_33_0051	Menningen	9.15825, 48.01089	na	gurge	999	na	gurke	999	na	Gurke	999
+465	na	III_35_0068	Herdwangen	9.16937, 47.8629	na	gurka	999	na	gurke	999	na	Gurke	999
+466	na	III_36_0078	Frickingen	9.27056, 47.81023	na	gurge	999	na	gurke	999	na	Gurke	999
+467	na	III_36_0083	Mimmenausen	9.2852, 47.76025	na	gurke	999	na	gurke	999	na	Gurke	999
+468	na	III_36_0092	Mittelstenweiler	9.33753, 47.75241	na	gurke	999	na	gurke	999	na	Gurke	999
+469	na	III_24_0080	Stetten/Remstal	9.34045, 48.79285	na	gurke	999	na	gurke	999	na	Gurke	999
+470	na	II_90_0002	Glashofen	9.36648, 49.62382	na	gurke	999	na	gurke	999	na	Gurke	999
+471	na	III_37_0054, III_37_0053	Markdorf	9.38933, 47.72088	na	guerk, gurke	999	na	gurk, gurke	999	na	Gurke	999
+472	na	II_93_0006	Unterkessach	9.43829, 49.34571	na	gurke	999	na	gurke	999	na	Gurke	999
+473	na	II_89_0012	Sonderriet	9.43938, 49.71753	na	gurke	999	na	gurke	999	na	Gurke	999
+474	na	II_88_0014	Grünenwört	9.47135, 49.77438	na	gurke	999	na	gurke	999	na	Gurke	999
+475	na	II_93_0023	Klepsau	9.67156, 49.38805	na	gurke	999	na	gurke	999	na	Gurke	999

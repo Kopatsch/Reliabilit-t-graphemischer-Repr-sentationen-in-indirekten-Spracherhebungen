@@ -1,0 +1,53 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Hag W 16/1	III_7_0077	Melsheim, Melsheim	7.51974, 48.75911	steckguff	steckgōff	1	schtekgufe	schtekgof	2	Steckgufe	Steckgufe	0
+1	Co P8	na	Bamlach	7.54942, 47.71753	schteckgufe	na	999	schtekgufe	na	999	Steckgufe	na	999
+2	Hag W 17	na	Hochfelden	7.57004, 48.75735	stegguff	na	999	schtekguf	na	999	Steckgufe	na	999
+3	Co A7	na	Eschbach (bei Heitersheim)	7.65221, 47.8908	schteckgufe	na	999	schtekgufe	na	999	Steckgufe	na	999
+4	Stra f 13	III_8_0069	Berstett, Berstett	7.65758, 48.67898	steckguff	steckguff	0	schtekgufe	schtekgufe	0	Steckgufe	Steckgufe	0
+5	Co Xa 2	III_17_0042	Nollingen, Nollingen	7.7716, 47.57363	steckgufe	steckgufe	0	schtekgufe	schtekgufe	0	Steckgufe	Steckgufe	0
+6	Stra L 8	na	Schutterzell	7.84148, 48.4057	steckguf	na	999	schtekguf	na	999	Steckgufe	na	999
+7	Co Y 13	na	Dossenbach	7.85693, 47.61597	schdeckgufe	na	999	schtekgufe	na	999	Steckgufe	na	999
+8	Co g 12	na	Kollmarsreute	7.87829, 48.10253	steckgufe	na	999	schtekgufe	na	999	Steckgufe	na	999
+9	Stra p 6	III_9_0083	Holzhausen, Holzhausen	7.92018, 48.62595	steckguff	steckguff	0	schtekgufe	schtekgufe	0	Steckgufe	Steckgufe	0
+10	Co o 4	na	Unterglottertal-Ohrensbach	7.95, 48.04291	steckgufe	na	999	schtekgufe	na	999	Steckgufe	na	999
+11	Co v 7	na	Kirchzarten	7.95261, 47.96345	steckgufe	na	999	schtekgufe	na	999	Steckgufe	na	999
+12	TUTT p4	na	Buchenbach	8.00773, 47.96134	steckgueͦfeͦ	na	999	schtekguefe	na	999	Steckgufe	na	999
+13	KST S10	na	Leiberstung	8.09585, 48.75131	steckgūf	na	999	schtekguf	na	999	Steckgufe	na	999
+14	TUTT h6	na	Gütenbach	8.13807, 48.04398	steckgufe	na	999	schtekgufe	na	999	Steckgufe	na	999
+15	KST S11	na	Halberstung	8.14298, 48.76025	stechguf	na	999	schtekguf	na	999	Steckgufe	na	999
+16	TÜB h13	na	Neusatz	8.14904, 48.65879	schdeggūf	na	999	schtekguf	na	999	Steckgufe	na	999
+17	KST E1	na	Lauterburg (Weissenburg) (Lauterbourg)	8.18046, 48.97495	schdeguf	na	999	schdeguf	na	999	Steckgufe	na	999
+18	TÜB b10	na	Neusatzeck	8.18311, 48.66621	steckgūft	na	999	schtekguft	na	999	Steckgufe	na	999
+19	KST c1	na	Rheinhausen	8.47341, 49.28141	schde̠gglūft	na	999	schtekgluft	na	999	Steckgufe	na	999
+20	TUTT P5	na	Gailingen	8.75499, 47.69685	steckkluffe	na	999	schtekglufe	na	999	Steckgufe	na	999
+21	TUTT B8	na	Nenzingen	8.95914, 47.84256	schdeckgluf	na	999	schtekgluf	na	999	Steckgufe	na	999
+22	SIG q9	na	Stetten	9.2999, 47.69243	steckgluf	na	999	schtekguf	na	999	Steckgufe	na	999
+23	SIG k3	na	Denkingen	9.30821, 47.89505	steckgluffe	na	999	schtekglufe	na	999	Steckgufe	na	999
+24	na	III_6_0004	Burbach	7.11226, 48.90144	na	steckguw	999	na	schtekguw	999	na	Steckgufe	999
+25	na	III_17_0017	Niederhagental	7.47691, 47.52383	na	steckgūfe	999	na	schtekgufe	999	na	Steckgufe	999
+26	na	III_14_0045	Seefelden	7.63962, 47.85945	na	steckgufe	999	na	schtekgufe	999	na	Steckgufe	999
+27	na	III_12_0030	Wyhl	7.64933, 48.1663	na	steckgufe	999	na	schtekgufe	999	na	Steckgufe	999
+28	na	III_16_0093	Hauingen	7.69375, 47.64287	na	steckgufe	999	na	schtekgufe	999	na	Steckgufe	999
+29	na	III_14_0063	Sulzburg	7.70727, 47.84122	na	steckguufe	999	na	schtekgufe	999	na	Steckgufe	999
+30	na	III_9_0049	Schiltigheim	7.74856, 48.60595	na	steckguff	999	na	schtekgufe	999	na	Steckgufe	999
+31	na	III_14_0065	Untermünstertal	7.78649, 47.85518	na	steckgufe	999	na	schtekgufe	999	na	Steckgufe	999
+32	na	III_16_0103	Minseln	7.79067, 47.60301	na	steckgufe	999	na	schtekgufe	999	na	Steckgufe	999
+33	na	III_10_0048	Marlen	7.8231, 48.52207	na	steckguf	999	na	schtekguf	999	na	Steckgufe	999
+34	na	III_10_0057	Kittersburg	7.83346, 48.49695	na	steckkuf	999	na	schtekguf	999	na	Steckgufe	999
+35	na	III_15_0079, III_15_0080	Zell im Wiesental	7.85301, 47.70753	na	stickgufe	999	na	schtikgufe	999	na	Steckgufe	999
+36	na	III_17_0047	Wallbach	7.91336, 47.56871	na	steckgufä	999	na	schtekgufe	999	na	Steckgufe	999
+37	na	III_16_0124	Rickenbach	7.97772, 47.61891	na	steckgulfe	999	na	schtekgulfe	999	na	Steckgufe	999
+38	na	III_12_0151	Bleibach	8.00281, 48.12764	na	steckgufe	999	na	schtekgufe	999	na	Steckgufe	999
+39	na	III_11_0124	Prinzbach	8.0046, 48.32294	na	steckguf	999	na	schtekguf	999	na	Steckgufe	999
+40	na	III_11_0143	Hofstetten	8.0713, 48.26094	na	steckgufe	999	na	schtekgufe	999	na	Steckgufe	999
+41	na	III_10_0074	Ringelbach	8.08834, 48.55764	na	steckguf	999	na	schtekguf	999	na	Steckgufe	999
+42	na	III_9_0093	Lauf	8.12648, 48.65317	na	steckguf	999	na	schtekguf	999	na	Steckgufe	999
+43	na	III_16_0143	Birndorf	8.13384, 47.62519	na	steckguffe	999	na	schtekgufe	999	na	Steckgufe	999
+44	na	III_16_0157	Dogern	8.17239, 47.60884	na	steckgufe	999	na	schtekgufe	999	na	Steckgufe	999
+45	na	III_7_0127, III_7_0126	Haueneberstein	8.22194, 48.80626	na	steckguf	999	na	schtekguf	999	na	Steckgufe	999
+46	na	III_6_0104, III_6_0105	Muggenturm	8.2763, 48.87021	na	steckguf	999	na	schtekguf	999	na	Steckgufe	999
+47	na	III_14_0180	Birkendorf	8.3126, 47.74971	na	steckgufe	999	na	schtekgufe	999	na	Steckgufe	999
+48	na	III_38_0002	Erzingen	8.42011, 47.66108	na	schdeckgufə	999	na	schtekgufe	999	na	Steckgufe	999
+49	na	III_20_0016	Karlsdorf	8.54164, 49.1363	na	steckgluf	999	na	schtekguf	999	na	Steckgufe	999
+50	na	III_38_0024	Öhningen	8.89136, 47.66162	na	steckgluf	999	na	schtekguf	999	na	Steckgufe	999
+51	na	III_36_0049	Stahringen	8.97547, 47.78849	na	steckkluf	999	na	schtekgluf	999	na	Steckgufe	999

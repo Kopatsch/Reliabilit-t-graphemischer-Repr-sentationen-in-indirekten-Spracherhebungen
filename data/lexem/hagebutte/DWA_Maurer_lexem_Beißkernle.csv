@@ -1,0 +1,4 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	KST A3	III_21_0022	Neibsheim (bei Bruchsal), Neibsheim	8.68509, 49.07104	beißkernlen	beißkernlen	0	beißkernlen	beißkernlen	0	Beißkernle	Beißkernle	0
+1	na	III_19_0017	Mingolsheim	8.65316, 49.21986	na	beißkörndlin	999	na	beißkörndlin	999	na	Beißkernle	999
+2	na	III_19_0024	Östringen	8.7137, 49.22037	na	beißkernle	999	na	beißkernle	999	na	Beißkernle	999

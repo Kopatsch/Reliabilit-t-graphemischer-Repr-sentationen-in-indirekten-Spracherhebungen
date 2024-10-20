@@ -1,0 +1,64 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_maurer_align	item_DWA	item_DWA_align	Levenshtein_item
+0	MH v3	II_57_0139	Gerolzahn, Gerolzahn	9.31895, 49.62645	hüffelter	h ü ff e l t e r	hifelter	h i f e l t e r	2
+1	MH f2	II_88_0005	Boxtal, Boxtal	9.40146, 49.76416	hiffelder	h i ff e l d e r	hifelder	h i f e l d e r	1
+2	MH w2	II_90_0006	Dornberg, Dornberg	9.42843, 49.62542	hiffelder	h i ff e l d e r	hiffelter	h i ff e l t e r	1
+3	MH o3	II_89_0012	Sonderriet, Sonderriet	9.43938, 49.71753	hiffeter	h i ff e t e r	hiffelter	h i ff e l t e r	1
+4	MH E5	II_91_0004	Waldstetten, Waldstetten	9.44893, 49.5647	hiffeldern	h i ff e l d e r n	hiffelder	h i ff e l d e r	1
+5	MH f3	II_88_0014	Grünenwört, Grünenwört	9.47135, 49.77438	hiffelder	h i ff e l d e r	hiffelde	h i ff e l d e	1
+6	MH o6	II_89_0008	Vockenrot, Vockenrot	9.48521, 49.74816	hiffelter	h i ff e l t e r	hiffelder	h i ff e l d e r	1
+7	MH F4	II_91_0007	Gerichtstetten, Gerichtstetten	9.5049, 49.53499	hüfelter	h ü f e l t e r	häffelter	h ä ff e l t e r	2
+8	MH p1	II_89_0018	Waldenhausen, Waldenhausen	9.52298, 49.74357	hiffldär	h i ff l d ä r	hiffelder	h i ff e l d e r	2
+9	MH x7	II_90_0009	Schweinberg, Schweinberg	9.52459, 49.61864	hiffelda	h i ff e l d a	hiffelta	h i ff e l t a	1
+10	MH p2	II_89_0022	Reicholzheim, Reicholzheim	9.53393, 49.72663	hiffelder	h i ff e l d e r	hifelter	h i f e l t e r	2
+11	MH F5	II_91_0011	Eubigheim, Eubigheim	9.53977, 49.5018	hiffeldern	h i ff e l d e r n	hiffldern	h i ff l d e r n	1
+12	MH p3	II_89_0023	Bronnbach, Bronnbach	9.54654, 49.71348	hiffelder	h i ff e l d e r	hiffelter	h i ff e l t e r	1
+13	MH F2	II_91_0009	Brehmen, Brehmen	9.55454, 49.56839	hiffeldå	h i ff e l d å	hiffelder	h i ff e l d e r	2
+14	MH p13	II_89_0019	Urphar, Urphar	9.5706, 49.74798	hiffldår	h i ff l d å r	hiflder	h i f l d e r	2
+15	MH O4	II_92_0013	Schillingstadt, Schillingstadt	9.57461, 49.46035	hiffeldr	h i ff e l d r	hiffelder	h i ff e l d e r	1
+16	MH g2	II_88_0023	Lindelbach, Lindelbach	9.58346, 49.75732	hifldår	h i f l d å r	hifldr	h i f l d r	1
+17	MH x1	II_90_0010	Eiersheim, Eiersheim	9.58787, 49.65953	hifflde̊r	h i ff l d e ̊ r	hiffelder	h i ff e l d e r	2
+18	MH O8	II_91_0012	Uiffingen, Uiffingen	9.59227, 49.50171	hifelder	h i f e l d e r	hiefelder	h ie f e l d e r	1
+19	MH O9	II_92_0022	Angeltürn, Angeltürn	9.59726, 49.48572	hiffelder	h i ff e l d e r	hiffeldr	h i ff e l d r	1
+20	MH p8	II_89_0026	Gamburg, Gamburg	9.59986, 49.69382	hiffelder	h i ff e l d e r	hifelder	h i f e l d e r	1
+21	MH p12	II_89_0020	Dietenhan, Dietenhan	9.6066, 49.74297	hiffelder	h i ff e l d e r	hifflder	h i ff l d e r	1
+22	MH p10	II_89_0028	Höhefeld, Höhefeld	9.60905, 49.71271	hiffelder	h i ff e l d e r	hifelder	h i f e l d e r	1
+23	MH W5	II_93_0020	Neunstetten, Neunstetten	9.61267, 49.41114	hiffeldorr	h i ff e l d o r r	hüffelter	h ü ff e l t e r	4
+24	MH p9	II_89_0027	Niklashausen, Niklashausen	9.6175, 49.70453	hifĕldĕr	h i f ĕ l d ĕ r	hiffelter	h i ff e l t e r	4
+25	MH F7	II_91_0013	Kupprichhausen-Lengenrieden, Kupprichhausen u. Lengenrieden	9.62002, 49.52627	hüffelder	h ü ff e l d e r	hiffelder	h i ff e l d e r	1
+26	MH p11a/2, MH p11a/1	II_89_0021	Kembach, Kembach	9.62461, 49.74217	hiffelder	h i ff e l d e r	hifflder	h i ff l d e r	1
+27	MH F6	II_91_0014	Epplingen, Epplingen	9.62742, 49.5054	hiffeldr	h i ff e l d r	hifflder	h i ff l d e r	2
+28	MH O10	II_92_0023, II_92_0025, II_92_0024	Wölchingen, Wölchingen	9.63011, 49.48494	hiffelder	h i ff e l d e r	hifflder	h i ff l d e r	1
+29	MH x2	II_90_0020, II_90_0018, II_90_0019, II_90_0017	Hochhausen, Hochhausen	9.63526, 49.6621	hiffelder	h i ff e l d e r	hifflder	h i ff l d e r	1
+30	MH p7	II_89_0031, II_89_0030, II_89_0032	Werbach, Werbach	9.63871, 49.67029	hiffelder	h i ff e l d e r	hiffelter	h i ff e l t e r	1
+31	MH P2	II_92_0040	Schweigern, Schweigern	9.66576, 49.49224	hiffldern	h i ff l d e r n	hifflder	h i ff l d e r	1
+32	MH P3	II_92_0028	Bobstadt, Bobstadt	9.67398, 49.46607	hifflder	h i ff l d e r	hiffelter	h i ff e l t e r	2
+33	MH G11	II_91_0019	Oberschüpf, Oberschüpf	9.67687, 49.52252	hieflder	h ie f l d e r	hiefelder	h ie f e l d e r	1
+34	MH q3	II_89_0035	Werbachhausen, Werbachhausen	9.67954, 49.67946	heffelder	h e ff e l d e r	heffelter	h e ff e l t e r	1
+35	MH G12	II_91_0020	Unterschüpf, Unterschüpf	9.68922, 49.51437	hifelder	h i f e l d e r	hiffelder	h i ff e l d e r	1
+36	MH y5	II_90_0022	Distelhausen, Distelhausen	9.69353, 49.59735	hiefelder	h ie f e l d e r	hüfellter	h ü f e ll t e r	4
+37	MH q2	II_89_0034	Wenkheim, Wenkheim	9.70149, 49.70022	heffelder	h e ff e l d e r	hiffelder	h i ff e l d e r	1
+38	MH G10	II_91_0018	Beckstein, Beckstein	9.70422, 49.54668	hifflde̊r	h i ff l d e ̊ r	hüffeldr	h ü ff e l d r	4
+39	MH G13	II_91_0021	Sachsenflur, Sachsenflur	9.71, 49.52377	hifflter	h i ff l t e r	hieffelder	h ie ff e l d e r	3
+40	MH P1	II_92_0027	Dainbach-Herold, Dainbach	9.71553, 49.49662	hifflder	h i ff l d e r	hiefelder	h ie f e l d e r	2
+41	MH G4	II_91_0025	Marbach, Marbach	9.7264, 49.56581	hiffeldr	h i ff e l d r	hiffelder	h i ff e l d e r	1
+42	MH y3	II_90_0024	Grünsfeldhausen, Grünsfeldhausen	9.74055, 49.62456	hifflter	h i ff l t e r	hiflder	h i f l d e r	2
+43	MH G8	II_91_0023	Unterbalbach, Unterbalbach	9.74711, 49.52779	hiffelder	h i ff e l d e r	hīfĕlder	h ī f ĕ l d e r	3
+44	MH y2	II_90_0025	Paimar, Paimar	9.75368, 49.6402	heffelder	h e ff e l d e r	höffelder	h ö ff e l d e r	1
+45	MH G5	II_91_0027	Kützbrunn, Kützbrunn	9.76136, 49.58159	hiffelder	h i ff e l d e r	hefelter	h e f e l t e r	3
+46	MH y8	II_90_0026	Krensheim, Krensheim	9.78002, 49.63781	hefelter	h e f e l t e r	heffelter	h e ff e l t e r	1
+47	MH q4	II_89_0040	Gerchsheim, Gerchsheim	9.78301, 49.70681	hefflder	h e ff l d e r	heffelder	h e ff e l d e r	1
+48	MH y10	II_89_0042	Ilmspan, Ilmspan	9.79016, 49.66609	hefelder	h e f e l d e r	heffelder	h e ff e l d e r	1
+49	MH G7/2, MH G7/1	II_91_0032	Oberbalbach, Oberbalbach	9.7938, 49.53997	iflder	i f l d e r	hiffldr	h i ff l d r	3
+50	MH q5	II_89_0041	Schönfeld, Schönfeld	9.80069, 49.67702	hefelder	h e f e l d e r	heffelder	h e ff e l d e r	1
+51	MH W5	II_93_0020	Neunstetten, Neunstetten	9.61267, 49.41114	hiffeldor	h i ff e l d o r	hüffelter	h ü ff e l t e r	3
+52	MH W5	II_93_0020	Neunstetten, Neunstetten	9.61267, 49.41114	hiffeldorr	h i ff e l d o r r	hüffelter	h ü ff e l t e r	4
+53	MH p9	II_89_0027	Niklashausen, Niklashausen	9.6175, 49.70453	hifĕldĕr	h i f ĕ l d ĕ r	hiffelder	h i ff e l d e r	3
+54	MH p9	II_89_0027	Niklashausen, Niklashausen	9.6175, 49.70453	hifĕldĕr	h i f ĕ l d ĕ r	hiffelter	h i ff e l t e r	4
+55	MH O10	II_92_0023, II_92_0025, II_92_0024	Wölchingen, Wölchingen	9.63011, 49.48494	hiffelder	h i ff e l d e r	hifelder	h i f e l d e r	1
+56	MH O10	II_92_0023, II_92_0025, II_92_0024	Wölchingen, Wölchingen	9.63011, 49.48494	hiffelder	h i ff e l d e r	hifflder	h i ff l d e r	1
+57	MH x2	II_90_0020, II_90_0018, II_90_0019, II_90_0017	Hochhausen, Hochhausen	9.63526, 49.6621	hiffelder	h i ff e l d e r	hifflder  	h i ff l d e r  	3
+58	MH x2	II_90_0020, II_90_0018, II_90_0019, II_90_0017	Hochhausen, Hochhausen	9.63526, 49.6621	hiffelder	h i ff e l d e r	hifelder	h i f e l d e r	1
+59	MH x2	II_90_0020, II_90_0018, II_90_0019, II_90_0017	Hochhausen, Hochhausen	9.63526, 49.6621	hiffelder	h i ff e l d e r	hifflder	h i ff l d e r	1
+60	MH p7	II_89_0031, II_89_0030, II_89_0032	Werbach, Werbach	9.63871, 49.67029	hiffelder	h i ff e l d e r	hiffelter	h i ff e l t e r	1
+61	MH G7/2, MH G7/1	II_91_0032	Oberbalbach, Oberbalbach	9.7938, 49.53997	hifelter	h i f e l t e r	hiffldr	h i ff l d r	3
+62	MH G7/2, MH G7/1	II_91_0032	Oberbalbach, Oberbalbach	9.7938, 49.53997	iflder	i f l d e r	hiffldr	h i ff l d r	3

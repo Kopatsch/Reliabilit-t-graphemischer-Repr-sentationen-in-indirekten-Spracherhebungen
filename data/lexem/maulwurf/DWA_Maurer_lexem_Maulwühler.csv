@@ -1,0 +1,5 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	KST o2	III_19_0052	Treschklingen, Treschklingen	9.05577, 49.22614	maulwiehler	maulwieler	1	maulwieler	maulwieler	0	Maulwühler	Maulwühler	0
+1	MH T12	na	Neckarelz	9.10533, 49.34204	maulwiilă	na	999	maulwiler	na	999	Maulwühler	na	999
+2	MH T11	II_60_0079	Diedesheim, Diedesheim	9.11367, 49.34933	maulwiler, maulwüler	maulwühler	1	maulwüler	maulwüler	0	Maulwühler	Maulwühler	0
+3	na	II_60_0078	Obrigheim	9.09608, 49.35186	na	maulwühler	999	na	maulwüler	999	na	Maulwühler	999

@@ -1,0 +1,45 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Ma f1/1	II_58_0061	Mannheim-Sandhofen, Mannheim-Sandhofen, Mannheim-Sandhofen	8.44789, 49.5433	schbell	spelle	4	schbel	schbele	1	Spelle	Spelle	0
+1	Ma h1/2	II_59_0060, II_59_0057, II_59_0059, II_59_0044, II_59_0043, II_59_0048, II_59_0061, II_59_0040, II_59_0052, II_59_0050, II_59_0053, II_59_0056, II_59_0047, II_59_0039, II_59_0058	Mannheim, Mannheim	8.46678, 49.4865	spell	spell, spelle, schbell	0	schbel	schbele, schbel	0	Spelle	Spelle	0
+2	Ma h2/3, Ma h2/1	II_59_0064	Neckarau, Mannheim-Neckarau, Mannheim	8.49104, 49.45335	spell, schpelle, schpell	spell	0	schbele, schbel	schbel	0	Spelle	Spelle	0
+3	MH z4/1, MH z4/2	II_58_0065, II_58_0066	Mannheim-Käfertal, Käferthal	8.51715, 49.51259	schbell, schpäll	schbell, schbällä	0	schbel	schbele, schbel	0	Spelle	Spelle	0
+4	MH Q7	na	Ketsch	8.52432, 49.3678	spell	na	999	schbel	na	999	Spelle	na	999
+5	MH H10/1	II_59_0074	Rheinau, Rheinau	8.53056, 49.42924	schbell	spell	3	schbel	schbel	0	Spelle	Spelle	0
+6	MH H2	II_59_0067	Feudenheim, Feudenheim	8.53299, 49.4864	schbell	spell	3	schbel	schbel	0	Spelle	Spelle	0
+7	MH H6	II_59_0068	Seckenheim, Seckenheim	8.56313, 49.46724	schpell	schbell	1	schbel	schbel	0	Spelle	Spelle	0
+8	MH Q2	na	Schwetzingen	8.57064, 49.38567	schbell	na	999	schbel	na	999	Spelle	na	999
+9	MH Q6	II_60_0092	Oftersheim, Oftersheim	8.58107, 49.36823	spelle	spell	1	schbele	schbel	1	Spelle	Spelle	0
+10	MH H5	II_59_0072	Neckarhausen, Neckarhausen	8.60233, 49.46433	schpell	spell	2	schbel	schbel	0	Spelle	Spelle	0
+11	MH Q4	na	Eppelheim	8.62885, 49.40164	spelle	na	999	schbele	na	999	Spelle	na	999
+12	MH r2	na	Hemsbach	8.64707, 49.59198	schbäll	na	999	schbel	na	999	Spelle	na	999
+13	MH r1	II_57_0082, II_57_0081	Laudenbach, Laudenbach	8.65434, 49.6119	spell	spell	0	schbel	schbel	0	Spelle	Spelle	0
+14	MH H11	II_58_0068	Leutershausen, Leutershausen	8.65616, 49.49821	schbell	schbell	0	schbel	schbel	0	Spelle	Spelle	0
+15	MH Q5	II_60_0038	Sandhausen, Sandhausen	8.65837, 49.34236	spell	spell	0	schbel	schbel	0	Spelle	Spelle	0
+16	MH z2	II_58_0069	Großsachsen, Grosssachsen	8.6595, 49.51193	spell	späll	1	schbel	schbel	0	Spelle	Spelle	0
+17	MH z1	II_58_0072	Sulzbach, Sulzbach	8.661, 49.57763	schbell	schbell	0	schbel	schbel	0	Spelle	Spelle	0
+18	MH J1	II_59_0071	Schrießheim, Schriesheim	8.66514, 49.47649	schbell	schbell	0	schbel	schbel	0	Spelle	Spelle	0
+19	MH A2	na	Lützelsachsen	8.66627, 49.52737	schbell	na	999	schbel	na	999	Spelle	na	999
+20	MH J2	II_59_0076	Dossenheim, Dossenheim	8.66806, 49.44988	schbell	schbell	0	schbel	schbel	0	Spelle	Spelle	0
+21	MH A3	na	Hohensachsen	8.66935, 49.51919	schbell	na	999	schbel	na	999	Spelle	na	999
+22	MH A1	II_58_0073	Weinheim, Weinheim	8.67068, 49.55495	spell	spell	0	schbel	schbel	0	Spelle	Spelle	0
+23	MH J3/2, MH J3/1	II_59_0077	Handschuhsheim, Heidelberg-Handschuhsheim, Heidelberg-Handschuhsheim	8.68613, 49.42774	spell	spelle	1	schbel	schbele	1	Spelle	Spelle	0
+24	MH R5, MH R4	na	Leimen	8.68891, 49.34902	spell, schbell	na	999	schbel	na	999	Spelle	na	999
+25	KST e1	III_18_0022	Nussloch, Nussloch	8.69576, 49.32301	schbell	spell	3	schbel	schbel	0	Spelle	Spelle	0
+26	MH R1/1	na	Heidelberg	8.70819, 49.41349	spell	na	999	schbel	na	999	Spelle	na	999
+27	MH A4	II_58_0076	Rippenweier, Rippenweier	8.70861, 49.50646	schpelle	spell	3	schbele	schbel	1	Spelle	Spelle	0
+28	MH J8	na	Ursenbach	8.72439, 49.49399	schbēll	na	999	schbel	na	999	Spelle	na	999
+29	MH A5	II_58_0077	Oberflockenbach, Oberflockenbach	8.73109, 49.51102	spell	spell	0	schbel	schbel	0	Spelle	Spelle	0
+30	MH A6	II_58_0091	Steinklingen, Steinklingen	8.74393, 49.51166	schbell	schbell	0	schbel	schbel	0	Spelle	Spelle	0
+31	MH J4	II_59_0079	Ziegelhausen, Ziegelhausen	8.75688, 49.41876	schbell	spell	3	schbel	schbel	0	Spelle	Spelle	0
+32	MH J10	II_59_0082	Heiligkreuzsteinach, Heiligkreuzsteinach	8.79709, 49.48538	schbell	spell	3	schbel	schbel	0	Spelle	Spelle	0
+33	MH J12	na	Altneudorf	8.80481, 49.46366	schbell	na	999	schbel	na	999	Spelle	na	999
+34	MH A7	na	Eiterbach	8.80869, 49.50208	schbell	na	999	schbel	na	999	Spelle	na	999
+35	MH J13	II_59_0084	Schönau bei Heidelberg, Schönau	8.80977, 49.43706	schbelle	schpelle, schpell	1	schbele	schbele, schbel	0	Spelle	Spelle	0
+36	na	II_60_0036	Plankstadt	8.59271, 49.39179	na	spell	999	na	schbel	999	na	Spelle	999
+37	na	II_59_0070	Ladenburg	8.61098, 49.47244	na	spell	999	na	schbel	999	na	Spelle	999
+38	na	III_18_0023	Wiesloch	8.70178, 49.29504	na	schpell	999	na	schbel	999	na	Spelle	999
+39	na	II_59_0081	Altenbach	8.73843, 49.48622	na	spell	999	na	schbel	999	na	Spelle	999
+40	na	II_60_0047	Ochsenbach	8.73932, 49.33778	na	schbell	999	na	schbel	999	na	Spelle	999
+41	na	II_60_0052	Dilsberg	8.8362, 49.39832	na	schbell	999	na	schbel	999	na	Spelle	999
+42	na	II_59_0092	Eberbach	8.98755, 49.46322	na	spelle	999	na	schbele	999	na	Spelle	999
+43	na	II_60_0082	Mosbach	9.14619, 49.35501	na	schpelle	999	na	schbele	999	na	Spelle	999

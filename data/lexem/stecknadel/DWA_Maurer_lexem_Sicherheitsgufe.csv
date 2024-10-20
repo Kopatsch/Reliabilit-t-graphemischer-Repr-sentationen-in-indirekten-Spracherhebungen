@@ -1,0 +1,6 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Stra e 12	na	Kleingöft	7.44376, 48.69162	secherheitsgůff	na	999	secherheitsguf	na	999	Sicherheitsgufe	na	999
+1	Hag P 3	na	Rotbach	7.52883, 48.90568	secherheitsguf	na	999	secherheitsguf	na	999	Sicherheitsgufe	na	999
+2	na	III_13_0095	Krüt	6.96629, 47.92912	na	sicherheitsguffa	999	na	scherheitsgufe	999	na	Sicherheitsgufe	999
+3	na	III_12_0097	Dürrenenzen	7.50406, 48.09192	na	sicherheitsguf	999	na	sicherheitsguf	999	na	Sicherheitsgufe	999
+4	na	III_6_0053	Mühlhausen	7.5527, 48.88226	na	sicherheitsguf	999	na	sicherheitsguf	999	na	Sicherheitsgufe	999

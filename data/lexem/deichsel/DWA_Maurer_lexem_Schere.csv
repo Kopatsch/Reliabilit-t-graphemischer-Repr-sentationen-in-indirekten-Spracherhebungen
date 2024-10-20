@@ -1,0 +1,4 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Hag R 8	na	Hatten	7.97777, 48.90173	schēer	na	999	scheer	na	999	Schere	na	999
+1	na	III_9_0019	Tränheim	7.46472, 48.59545	na	tschar	999	na	tschar	999	na	Schere	999
+2	na	III_5_0115	Münchhausen	8.14635, 48.92142	na	schere	999	na	schere	999	na	Schere	999

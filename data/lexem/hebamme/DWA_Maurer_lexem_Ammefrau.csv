@@ -1,0 +1,9 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	MH D9	na	Hornbach (Hettingenbeuern)	9.29012, 49.591	ammefraa	na	999	ammefra	na	999	Ammefrau	na	999
+1	MH o7	na	Nassig	9.45146, 49.73582	āmmerfrā	na	999	ammefra	na	999	Ammefrau	na	999
+2	MH o6	na	Vockenrot	9.48521, 49.74816	ammefrā	na	999	ammefra	na	999	Ammefrau	na	999
+3	MH o5	II_89_0010, II_89_0009	Sachsenhausen, Sachsenhausen	9.49147, 49.73223	ammefra	ammafraa, oammefra	1	ammefra	ammefra	0	Ammefrau	Ammefrau	0
+4	MH p12	II_89_0020	Dietenhan, Dietenhan	9.6066, 49.74297	ommefrā	o͜ammafra	4	ammefra	ammefra	0	Ammefrau	Ammefrau	0
+5	MH g1	na	Dertingen über Wertheim a.M.	9.61957, 49.7665	ammefra	na	999	ammefra	na	999	Ammefrau	na	999
+6	na	II_88_0014	Grünenwört	9.47135, 49.77438	na	ammefra	999	na	ammefra	999	na	Ammefrau	999
+7	na	II_89_0037	Steinbach	9.72212, 49.71075	na	ãmäfra	999	na	ammefra	999	na	Ammefrau	999

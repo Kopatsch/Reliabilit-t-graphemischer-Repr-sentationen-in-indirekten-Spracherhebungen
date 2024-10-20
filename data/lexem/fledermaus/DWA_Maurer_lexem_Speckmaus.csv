@@ -1,0 +1,209 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Hag K 2	III_5_0087	Bremmelbach, Bremmelbach	7.90023, 48.986	schbagmaus	speckmaus	5	schpakmaus	schpekmaus	1	Speckmaus	Speckmaus	0
+1	Hag C 4	na	Rott	7.91304, 49.02495	spackmaus	na	999	schpakmaus	na	999	Speckmaus	na	999
+2	Hag C 5	na	Oberhoffen-lès-Wisembourg	7.91832, 49.01679	speckmaus	na	999	schpekmaus	na	999	Speckmaus	na	999
+3	Hag C 6	III_4_0092	Steinselz (Steinseltz), Steinselz	7.93035, 49.0109	spackmaus	spackmaus	0	schpakmaus	schpakmaus	0	Speckmaus	Speckmaus	0
+4	Hag K 1	na	Riedselz (Riedseltz)	7.95195, 48.99281	schbåckmaus	na	999	schpakmaus	na	999	Speckmaus	na	999
+5	Hag C 3	na	Altenstadt	7.96964, 49.03158	speckmaus	na	999	schpekmaus	na	999	Speckmaus	na	999
+6	KST D11	III_5_0110, III_5_0112	Trimbach, Trimbach	8.0182, 48.94347	speckmaus	speckmaus	0	schpekmaus	schpekmaus	0	Speckmaus	Speckmaus	0
+7	KST D12	na	Kaidenburg (Kaidenbourg)	8.03018, 48.94495	spǟckmaus	na	999	schpekmaus	na	999	Speckmaus	na	999
+8	KST D10	III_5_0125	Siegen (Weisenburg), Siegen	8.04269, 48.9581	speckmaus	speckmaus	0	schpekmaus	schpekmaus	0	Speckmaus	Speckmaus	0
+9	KST D1	III_5_0123	Schleital (Schleithal), Schleithal	8.04688, 48.98799	speckmaus	spackmaus	1	schpekmaus	schpakmaus	1	Speckmaus	Speckmaus	0
+10	KST D14	III_5_0113	Eberbach-Selz, Eberbach-Selz	8.06718, 48.92481	speckmaus	speckmaus	0	schpekmaus	schpekmaus	0	Speckmaus	Speckmaus	0
+11	KST D9	na	Oberlauterbach	8.07041, 48.94851	speckmaus	na	999	schpekmaus	na	999	Speckmaus	na	999
+12	KST L3	na	Schaffhausen (Schaffhouse-près-Selz)	8.10006, 48.9087	speckmaus	na	999	schpekmaus	na	999	Speckmaus	na	999
+13	KST D8	III_5_0114	Winzenbach (Winthenbach), Winzenbach	8.1038, 48.9341	schpeckmaus	speckmaus	2	schpekmaus	schpekmaus	0	Speckmaus	Speckmaus	0
+14	KST L4	na	Selz (Seltz)	8.10383, 48.89457	speckmaus	na	999	schpekmaus	na	999	Speckmaus	na	999
+15	KST D3/3, KST D3/2, KST D3/1	III_5_0121	Niederlauterbach, Niederlauterbach	8.10398, 48.97233	speckmaus, spackmaus	speckmaus	0	schpekmaus, schpakmaus	schpekmaus	0	Speckmaus	Speckmaus	0
+16	KST D5	na	Neeweiler (Neewiller-près-Lauterbourg)	8.12624, 48.95491	späckmaus	na	999	schpekmaus	na	999	Speckmaus	na	999
+17	KST D4	III_5_0120	Scheibenhard, Scheibenhardt	8.13481, 48.97663	späckmaus	speckmaus	1	schpekmaus	schpekmaus	0	Speckmaus	Speckmaus	0
+18	KST D6	III_5_0117	Motern (Mothern), Motern	8.15128, 48.93354	späckmaus	späckmaus	0	schpekmaus	schpekmaus	0	Speckmaus	Speckmaus	0
+19	KST L5	na	Plittersdorf bei Rastatt	8.15649, 48.88249	schbeckmūs	na	999	schpekmus	na	999	Speckmaus	na	999
+20	KST M5	III_6_0103	Waldprechtsweier, Waldprechtsweier	8.33173, 48.8612	schpeckmaus	speckmaus	2	schpekmaus	schpekmaus	0	Speckmaus	Speckmaus	0
+21	KST N2	na	Sulzbach	8.35791, 48.80596	schbeckmåus	na	999	schpekmaus	na	999	Speckmaus	na	999
+22	KST F14/1	na	Ettlingen	8.40245, 48.94247	speckmaus	na	999	schpekmaus	na	999	Speckmaus	na	999
+23	KST r3	III_20_0005	Linkenheim, Linkenheim	8.40844, 49.12418	speckmaus	speckmaus	0	schpekmaus	schpekmaus	0	Speckmaus	Speckmaus	0
+24	KST k1	III_19_0003	Rheinsheim, Rheinsheim	8.40954, 49.23272	schbäckmaus	schbeggmaus	3	schpekmaus	schpekmaus	0	Speckmaus	Speckmaus	0
+25	KST r2	III_20_0003, III_20_0004	Hochstetten, Hochstetten	8.41566, 49.13702	speckmaus	speckmaus	0	schpekmaus	schpekmaus	0	Speckmaus	Speckmaus	0
+26	KST N5	na	Schöllbronn bei Ettlingen	8.42179, 48.89892	speckmaus	na	999	schpekmaus	na	999	Speckmaus	na	999
+27	KST k4	na	Rußheim	8.42435, 49.18617	späckmaus	na	999	schpekmaus	na	999	Speckmaus	na	999
+28	KST N6	na	Spesart	8.42992, 48.91189	schbäkmaús	na	999	schpekmaus	na	999	Speckmaus	na	999
+29	KST N9	III_23_0012	Burbach, Burbach	8.43853, 48.87037	speckmaus	speckmaus	0	schpekmaus	schpekmaus	0	Speckmaus	Speckmaus	0
+30	KST N11	na	Schielberg	8.44945, 48.84311	speckmaus	na	999	schpekmaus	na	999	Speckmaus	na	999
+31	KST y 3	III_21_0007	Hagsfeld, Hagsfeld	8.45514, 49.02773	speckmaus	speckmaus	0	schpekmaus	schpekmaus	0	Speckmaus	Speckmaus	0
+32	KST N10	na	Pfaffenrot	8.45861, 48.86075	speckmaus	na	999	schpekmaus	na	999	Speckmaus	na	999
+33	KST N8	III_23_0011	Spielberg, Spielberg	8.47045, 48.89758	schbeckmaus	schbeckmaus	0	schpekmaus	schpekmaus	0	Speckmaus	Speckmaus	0
+34	KST c1	na	Rheinhausen	8.47341, 49.28141	schpĕgmaus	na	999	schpekmaus	na	999	Speckmaus	na	999
+35	KST c2	III_18_0011, III_18_0012, III_18_0013	Oberhausen, Oberhausen	8.48324, 49.26035	speckmaus	schbegmaus, schbeckmaus, spackmaus	1	schpekmaus	schpekmaus, schpakmaus	0	Speckmaus	Speckmaus	0
+36	KST r6	III_20_0010	Graben, Graben	8.48928, 49.16535	speckmaus	speckmaus	0	schpekmaus	schpekmaus	0	Speckmaus	Speckmaus	0
+37	Ma h2/3	na	Neckarau	8.49104, 49.45335	speckmaus	na	999	schpekmaus	na	999	Speckmaus	na	999
+38	KST y 4	na	Grötzingen	8.49556, 49.00711	schbeggmaus	na	999	schpekmaus	na	999	Speckmaus	na	999
+39	KST d2	III_18_0008, III_18_0009	Altlußheim, Altlusheim	8.49951, 49.30106	speckmaus	speckmaus	0	schpekmaus	schpekmaus	0	Speckmaus	Speckmaus	0
+40	KST l1	III_19_0013	Wiesental, Wiesental	8.51962, 49.22472	speckmaus	speckmaus	0	schpekmaus	schpekmaus	0	Speckmaus	Speckmaus	0
+41	MH H2	na	Feudenheim	8.53299, 49.4864	schbeckmaus	na	999	schpekmaus	na	999	Speckmaus	na	999
+42	KST s3	na	Karlsdorf	8.54164, 49.1363	speckmaus	na	999	schpekmaus	na	999	Speckmaus	na	999
+43	KST O6	III_23_0016	Weiler Kr. Pforzheim, Weiler	8.54326, 48.8837	speckmaus	speckmaus	0	schpekmaus	schpekmaus	0	Speckmaus	Speckmaus	0
+44	KST d1	na	Hockenheim	8.54755, 49.31857	schbeckmaus	na	999	schpekmaus	na	999	Speckmaus	na	999
+45	KST l2	III_19_0161	Kirrlach, Kirrlach	8.54938, 49.24183	speckmaus	speckmaus	0	schpekmaus	schpekmaus	0	Speckmaus	Speckmaus	0
+46	MH H6	na	Seckenheim	8.56313, 49.46724	schpeckmaus	na	999	schpekmaus	na	999	Speckmaus	na	999
+47	MH Q6	II_60_0092	Oftersheim, Oftersheim	8.58107, 49.36823	schpeckmaus	speckmaus	2	schpekmaus	schpekmaus	0	Speckmaus	Speckmaus	0
+48	KST d7	III_18_0019	Sankt Leon, Sankt Leon	8.6025, 49.26526	speckmaus	speckmaus	0	schpekmaus	schpekmaus	0	Speckmaus	Speckmaus	0
+49	KST G8	na	Königsbach	8.61207, 48.96515	speckmaus	na	999	schpekmaus	na	999	Speckmaus	na	999
+50	KST G10	III_22_0022	Bilfingen, Bilfingen	8.61996, 48.95027	schbeckmaus	speckmaus	3	schpekmaus	schpekmaus	0	Speckmaus	Speckmaus	0
+51	MH Q4	na	Eppelheim	8.62885, 49.40164	schbeckmaus	na	999	schpekmausch	na	999	Speckmaus	na	999
+52	KST l3	III_19_0014	Kronau, Kronau	8.63449, 49.21954	speckmaus	speckmaus	0	schpekmaus	schpekmaus	0	Speckmaus	Speckmaus	0
+53	KST d5	na	Walldorf	8.64294, 49.3028	schbeckmaus	na	999	schpekmaus	na	999	Speckmaus	na	999
+54	MH R1/2	na	Heidelberg-Pfaffengrund	8.64698, 49.40282	speckmaus	na	999	schpekmaus	na	999	Speckmaus	na	999
+55	KST l4	III_19_0019	Mingolsheim, Mingolsheim	8.65316, 49.21986	speckmaus	spackmaus	1	schpekmaus	schpakmaus	1	Speckmaus	Speckmaus	0
+56	MH Q5	II_60_0038	Sandhausen, Sandhausen	8.65837, 49.34236	speckmaus	speckmaus	0	schpekmaus	schpekmaus	0	Speckmaus	Speckmaus	0
+57	MH z2	II_58_0069	Großsachsen, Grossachsen	8.6595, 49.51193	speckmaus	speckmaus	0	schpekmaus	schpekmaus	0	Speckmaus	Speckmaus	0
+58	MH J1	II_59_0071	Schrießheim, Schriesheim	8.66514, 49.47649	schbeggmaus	speckmaus	5	schpekmaus	schpekmaus	0	Speckmaus	Speckmaus	0
+59	KST e10	na	Malschenberg	8.67996, 49.25599	schbäckmaus	na	999	schpekmaus	na	999	Speckmaus	na	999
+60	KST A3	III_21_0022	Neibsheim (bei Bruchsal), Neibsheim	8.68509, 49.07104	speckmaus	speckmaus	0	schpekmaus	schpekmaus	0	Speckmaus	Speckmaus	0
+61	MH J3/2, MH J3/1	II_59_0077	Handschuhsheim, Heidelberg-Handschuhsheim, Heidelberg-Handschuhsheim	8.68613, 49.42774	speckmaus	speckmaus	0	schpekmaus	schpekmaus	0	Speckmaus	Speckmaus	0
+62	MH R3	na	Heidelberg-Rohrbach	8.69, 49.38005	schbeggmaus	na	999	schpekmaus	na	999	Speckmaus	na	999
+63	KST e1	III_18_0022	Nusloch, Nusloch	8.69576, 49.32301	schbeggmaus	schbeckmaus	2	schpekmaus	schpekmaus	0	Speckmaus	Speckmaus	0
+64	KST e9	na	Rauenberg	8.70096, 49.27036	schbeggmaus	na	999	schpekmaus	na	999	Speckmaus	na	999
+65	MH A4	na	Rippenweier	8.70861, 49.50646	schbeckmaus	na	999	schpekmaus	na	999	Speckmaus	na	999
+66	KST m11	III_19_0025	Östringen, Östringen	8.7137, 49.22037	speckmaus	speckmaus	0	schpekmaus	schpekmaus	0	Speckmaus	Speckmaus	0
+67	KST t1	na	Neuenbürg	8.71854, 49.15352	speckmaus	na	999	schpekmaus	na	999	Speckmaus	na	999
+68	MH J8	na	Ursenbach	8.72439, 49.49399	speckmaus	na	999	schpekmaus	na	999	Speckmaus	na	999
+69	MH J7	II_59_0081	Altenbach / Schriesheim, Altenbach	8.73843, 49.48622	speckmaus	speckmaus	0	schpekmaus	schpekmaus	0	Speckmaus	Speckmaus	0
+70	MH R11	II_60_0043	Gaiberg, Gaiberg	8.75015, 49.36606	speckmaus	speckmäus	1	schpekmaus	schpekmäus	1	Speckmaus	Speckmaus	0
+71	KST m9	III_19_0028	Odenheim, Odenheim	8.75076, 49.17902	speckmaus	speckmaus	0	schpekmaus	schpekmaus	0	Speckmaus	Speckmaus	0
+72	MH J6	II_59_0080	Wilhelmsfeld, Wilhelmsfeld	8.7544, 49.47018	schpeckmaus	speckmaus	2	schpekmaus	schpekmaus	0	Speckmaus	Speckmaus	0
+73	MH J5	na	Peterstal (keine eigene GID, gleiche wie Wilhelmsfeld)	8.75548, 49.44624	speckmaus	na	999	schpekmaus	na	999	Speckmaus	na	999
+74	MH R7	II_60_0048	Gauangelloch, Gauangelloch	8.75579, 49.34078	speckmaus	speckmaus	0	schpekmaus	schpekmaus	0	Speckmaus	Speckmaus	0
+75	KST e4	III_18_0032	Schatthausen, Schatthausen	8.75841, 49.319	speckmaus	speckmaus	0	schpekmaus	schpekmaus	0	Speckmaus	Speckmaus	0
+76	MH J9	na	Lampenhain	8.76294, 49.49811	schbeckmaus	na	999	schpekmaus	na	999	Speckmaus	na	999
+77	KST e13	na	Balzfeld	8.79064, 49.26889	speckmaus	na	999	schpekmaus	na	999	Speckmaus	na	999
+78	KST m8	na	Tiefenbach	8.79638, 49.17561	speckmaus	na	999	schpekmaus	na	999	Speckmaus	na	999
+79	MH J10	na	Heiligkreuzsteinach	8.79709, 49.48538	schbeckmaus	na	999	schpekmaus	na	999	Speckmaus	na	999
+80	MH R8	II_60_0049	Mauer, Mauer	8.79767, 49.34127	speckmaus	speckmaus	0	schpekmaus	schpekmaus	0	Speckmaus	Speckmaus	0
+81	MH J12	II_59_0083	Altneudorf, Altneudorf	8.80481, 49.46366	schbeckmaus	speckmaus	3	schpekmaus	schpekmaus	0	Speckmaus	Speckmaus	0
+82	KST m6	III_19_0033	Waldangelloch, Waldangelloch	8.80551, 49.21046	speckmaus	speckmaus	0	schpekmaus	schpekmaus	0	Speckmaus	Speckmaus	0
+83	KST t11	III_20_0033	Landshausen, Landshausen	8.80627, 49.14899	speckmaus	speckmaus	0	schpekmaus	schpekmaus	0	Speckmaus	Speckmaus	0
+84	MH A7	na	Eiterbach	8.80869, 49.50208	schbeggmaus	na	999	schpekmaus	na	999	Speckmaus	na	999
+85	KST m7	III_19_0036	Eichelberg, Eichelberg	8.813, 49.1891	schbeckmaus	speckmaus	3	schpekmaus	schpekmaus	0	Speckmaus	Speckmaus	0
+86	KST e6	na	Zuzenhausen	8.82176, 49.29778	speckmaus	na	999	schpekmaus	na	999	Speckmaus	na	999
+87	MH S6	na	Mönchzell	8.85327, 49.33612	speckmaus	na	999	schpekmaus	na	999	Speckmaus	na	999
+88	MH K1	II_59_0085	Brombach (bei Hirschhorn), Brombach	8.8675, 49.48863	schbeckmaus	speckmaus	3	schpekmaus	schpekmaus	0	Speckmaus	Speckmaus	0
+89	MH S5	II_60_0057	Spechbach, Spechbach	8.88396, 49.34588	speckmaus	speckmaus	0	schpekmaus	schpekmaus	0	Speckmaus	Speckmaus	0
+90	MH S3	II_60_0054	Waldwimmersbach, Waldwimmersbach	8.89219, 49.37538	speckmaus	speckmäus	1	schpekmaus	schpekmäus	1	Speckmaus	Speckmaus	0
+91	MH S13	II_60_0062	Schönbrunn, Schönbrunn	8.92851, 49.41228	schbeckmaus	schpeckmaus	1	schpekmaus	schpekmaus	0	Speckmaus	Speckmaus	0
+92	MH S11	II_60_0067	Haag, Haag	8.92912, 49.39429	schbĕggmaus	speckmaus	6	schpekmaus	schpekmaus	0	Speckmaus	Speckmaus	0
+93	MH K6/1	II_59_0096	Allemühl, Allemühl	8.95618, 49.42613	schbeckmaus	speggmaus	5	schpekmaus	schpekmaus	0	Speckmaus	Speckmaus	0
+94	KST u2	III_20_0057	Stebbach, Stebbach	8.96448, 49.14676	speckmaus	speckmaus	0	schpekmaus	schpekmaus	0	Speckmaus	Speckmaus	0
+95	MH S12	na	Schwanheim	8.97596, 49.40194	schpeckmaus	na	999	schpekmaus	na	999	Speckmaus	na	999
+96	KST n6	na	Kirchardt	8.9918, 49.20667	speckmaus	na	999	schpekmaus	na	999	Speckmaus	na	999
+97	KST g7	na	Untergimern	9.00947, 49.27049	speckmaus	na	999	schpekmaus	na	999	Speckmaus	na	999
+98	MH T9	na	Asbach	9.02562, 49.34133	schpeckmaus	na	999	schpekmaus	na	999	Speckmaus	na	999
+99	KST g8	III_18_0058	Wollenberg, Wollenberg	9.03453, 49.29152	speckmaus	speckmaus	0	schpekmaus	schpekmaus	0	Speckmaus	Speckmaus	0
+100	MH T3	II_60_0069	Neckarkatzenbach, Neckarkatzenbach	9.03457, 49.38441	schbäggmaus	schbeggmaus	1	schpekmaus	schpekmaus	0	Speckmaus	Speckmaus	0
+101	MH L2	na	Oberdielbach	9.05361, 49.44781	schbäggmaus	na	999	schpekmaus	na	999	Speckmaus	na	999
+102	MH T4	II_60_0073	Guttenbach, Guttenbach	9.07142, 49.38983	schpeckmaus	speckmaus	2	schpekmaus	schpekmaus	0	Speckmaus	Speckmaus	0
+103	MH T11	II_60_0079	Diedesheim, Diedesheim	9.11367, 49.34933	speckmaus	speckmaus	0	schpekmaus	schpekmaus	0	Speckmaus	Speckmaus	0
+104	MH C2	II_58_0104	Reisenbach, Reisenbach	9.12415, 49.50336	schpeckmausch	schpeckmausch	0	schpekmausch	schpekmausch	0	Speckmaus	Speckmaus	0
+105	MH L8	II_59_0106	Wagenschwend, Wagenschwend	9.14637, 49.47256	speckmausch	spegmausch	2	schpekmausch	schpekmausch	0	Speckmaus	Speckmaus	0
+106	MH C4	II_58_0116	Schloßau, Schloßau	9.15226, 49.53935	schbäckmaus	speckmausch	6	schpekmaus	schpekmausch	2	Speckmaus	Speckmaus	0
+107	MH M3	II_59_0109	Balsbach, Balsbach	9.17362, 49.47895	schbeckmausch	schbeckmausch	0	schpekmausch	schpekmausch	0	Speckmaus	Speckmaus	0
+108	MH M6	na	Krumbach	9.18402, 49.45323	schbeggmausch	na	999	schpekmausch	na	999	Speckmaus	na	999
+109	MH U2	na	Dallau	9.19192, 49.38655	schpeckmausch	na	999	schpekmausch	na	999	Speckmaus	na	999
+110	MH M2	na	Laudenberg	9.21457, 49.48066	speckmausch	na	999	schpekmausch	na	999	Speckmaus	na	999
+111	MH M1	II_59_0120	Einbach, Waldhausen/Einbach	9.24238, 49.48477	speckmausch	speckmausch	0	schpekmausch	schpekmausch	0	Speckmaus	Speckmaus	0
+112	MH D8	II_58_0111	Steinbach, Steinbach	9.24327, 49.54854	schbäägmausch	schbääkmausch	1	schpekmausch	schpekmausch	0	Speckmaus	Speckmaus	0
+113	MH U8	na	Billigheim	9.25406, 49.34748	speckmaus	na	999	schpekmaus	na	999	Speckmaus	na	999
+114	MH Y3	III_18_0075	Herbolzheim, Herbolzheim	9.26007, 49.28376	speckmaus	schbäckmaus	4	schpekmaus	schpekmaus	0	Speckmaus	Speckmaus	0
+115	MH Y2	III_18_0074	Neudenau, Neudenau	9.27037, 49.2923	schbeggmaus	schbeckmaus	2	schpekmaus	schpekmaus	0	Speckmaus	Speckmaus	0
+116	MH U7	II_60_0090	Waldmühlbach, Waldmühlbach	9.28262, 49.36078	schbeckmaus	speckmaus	3	schpekmaus	schpekmaus	0	Speckmaus	Speckmaus	0
+117	MH M13	na	Großeicholzheim	9.28966, 49.44361	speckmaus	na	999	schpekmaus	na	999	Speckmaus	na	999
+118	MH D9	na	Hornbach (Hettingenbeuern)	9.29012, 49.591	speegmaus	na	999	schpekmaus	na	999	Speckmaus	na	999
+119	MH n1	na	Freudenberg	9.32533, 49.75145	speckmaus	na	999	schpekmaus	na	999	Speckmaus	na	999
+120	MH E2	na	Hettingen	9.36644, 49.5194	schbēkmausch	na	999	schpekmausch	na	999	Speckmaus	na	999
+121	MH N2	II_92_0003	Schlierstadt, Schlierstadt	9.36816, 49.45257	schpeckmausch	schbegmausch	3	schpekmausch	schpekmausch	0	Speckmaus	Speckmaus	0
+122	MH o1	na	Rauenberg	9.38407, 49.74117	speekmaus	na	999	schpekmaus	na	999	Speckmaus	na	999
+123	MH V1	na	Adlesheim	9.39101, 49.40289	schbeckmaus	na	999	schpekmaus	na	999	Speckmaus	na	999
+124	MH N8	II_92_0001	Götzingen, Götzingen	9.39465, 49.49693	speckmaus	spēkmaus	2	schpekmaus	schpekmaus	0	Speckmaus	Speckmaus	0
+125	MH o2	II_89_0006	Wesental, Wesental	9.41215, 49.73004	speegmaus	speckmaus	2	schpekmaus	schpekmaus	0	Speckmaus	Speckmaus	0
+126	MH N11	II_92_0005	Bofsheim, Bofsheim	9.41226, 49.4714	schbeekmausch	speckmaus	6	schpekmausch	schpekmaus	2	Speckmaus	Speckmaus	0
+127	MH V3	II_93_0005	Leibenstadt, Leibenstadt	9.42028, 49.36861	speckmaus	speckmaus	0	schpekmaus	schpekmaus	0	Speckmaus	Speckmaus	0
+128	MH V4	na	Unterkesach	9.43829, 49.34571	speekmaus	na	999	schpekmaus	na	999	Speckmaus	na	999
+129	MH E4	II_91_0003	Altheim, Altheim	9.4436, 49.51915	schbēgmausch	speckmaus	7	schpekmausch	schpekmaus	2	Speckmaus	Speckmaus	0
+130	MH N7	na	Sindolsheim	9.45384, 49.48715	schpeckmausch	na	999	schpekmausch	na	999	Speckmaus	na	999
+131	MH o4	II_89_0014	Hundheim, Hundheim	9.46691, 49.69109	speckmaus	speckmaus	0	schpekmaus	schpekmaus	0	Speckmaus	Speckmaus	0
+132	MH q1	na	Steinbach	9.47108, 49.68011	schbäggmaus	na	999	schpekmaus	na	999	Speckmaus	na	999
+133	MH w3	II_90_0007	Hardheim, Hardheim	9.47457, 49.60804	schbēgmausch	speckmaus	7	schpekmausch	schpekmaus	2	Speckmaus	Speckmaus	0
+134	MH E6	II_91_0005, II_91_0123	Bretzingen, Bretzingen	9.48682, 49.57826	speckmaus	spegmaus, speckmaus	0	schpekmaus	schpekmaus	0	Speckmaus	Speckmaus	0
+135	MH o5	II_89_0010	Sachsenhausen, Sachsenhausen	9.49147, 49.73223	spēckmåus	späckmaus	2	schpekmaus	schpekmaus	0	Speckmaus	Speckmaus	0
+136	MH E8	II_91_0006	Erfeld, Erfeld	9.49597, 49.55416	schbeggmaus	schbagmaus	2	schpekmaus	schpakmaus	1	Speckmaus	Speckmaus	0
+137	MH O2	II_92_0011	Hirschlanden, Hirschlanden	9.50074, 49.47297	speckmaus	speckmaus	0	schpekmaus	schpekmaus	0	Speckmaus	Speckmaus	0
+138	MH p4	II_89_0013	Dörlesberg, Dörlesberg	9.501, 49.71273	speckmaus	speckmaus	0	schpekmaus	schpekmaus	0	Speckmaus	Speckmaus	0
+139	MH F4	II_91_0007	Gerichtstetten, Gerichtstetten	9.5049, 49.53499	spēkmausch	speckmaus	4	schpekmausch	schpekmaus	2	Speckmaus	Speckmaus	0
+140	MH p5	na	Külsheim	9.5236, 49.66947	speckmaus	na	999	schpekmaus	na	999	Speckmaus	na	999
+141	MH x7	na	Schweinberg	9.52459, 49.61864	schbǟkmausch	na	999	schpekmausch	na	999	Speckmaus	na	999
+142	MH F1	na	Pülfringen	9.52624, 49.58149	speckmaus	na	999	schpekmaus	na	999	Speckmaus	na	999
+143	MH p3	II_89_0023	Bronnbach, Bronnbach	9.54654, 49.71348	speckmaus	speckmaus	0	schpekmaus	schpekmaus	0	Speckmaus	Speckmaus	0
+144	MH O8	na	Uiffingen	9.59227, 49.50171	speckmausch	na	999	schpekmausch	na	999	Speckmaus	na	999
+145	MH p10	na	Höhefeld	9.60905, 49.71271	speckmaus	na	999	schpekmaus	na	999	Speckmaus	na	999
+146	MH g1	na	Dertingen über Wertheim a.M.	9.61957, 49.7665	spakmaus	na	999	schpakmaus	na	999	Speckmaus	na	999
+147	MH p11a/1, MH p11a/2	na	Kembach	9.62461, 49.74217	spakmaus, spakmaus	na	999	schpakmaus	na	999	Speckmaus	na	999
+148	MH y6	na	Grünsfeld	9.74656, 49.6066	speckmaus	na	999	schpekmaus	na	999	Speckmaus	na	999
+149	MH y8	na	Krensheim	9.78002, 49.63781	speckmaus	na	999	schpekmaus	na	999	Speckmaus	na	999
+150	MH q4	II_89_0040	Gerchsheim, Gerchsheim	9.78301, 49.70681	spakmaus	spakmaus	0	schpakmaus	schpekmaus	1	Speckmaus	Speckmaus	0
+151	na	III_4_0088	Klimbach	7.85041, 49.01803	na	speckmaus	999	na	schpekmaus	999	na	Speckmaus	999
+152	na	III_4_0094	Weißenburg	7.9521, 49.03733	na	speckmaus	999	na	schpekmaus	999	na	Speckmaus	999
+153	na	III_9_0090	Achern	8.06363, 48.62871	na	speckmaus	999	na	schpekmaus	999	na	Speckmaus	999
+154	na	III_6_0100, III_6_0101	Malsch	8.3345, 48.88047	na	schpeckmaus	999	na	schpekmaus	999	na	Speckmaus	999
+155	na	III_23_0002	Oberweier	8.37866, 48.91717	na	schpeckmaus	999	na	schpekmaus	999	na	Speckmaus	999
+156	na	II_58_0061	Mannheim-Sandhofen, Mannheim-Sandhofen	8.44789, 49.5433	na	speckmaus	999	na	schpekmaus	999	na	Speckmaus	999
+157	na	III_21_0004	Rintheim	8.45071, 49.0099	na	speckmaus	999	na	schpekmaus	999	na	Speckmaus	999
+158	na	II_59_0043, II_59_0049, II_59_0044, II_59_0040	Mannheim	8.46678, 49.4865	na	speckmaus	999	na	schpekmaus	999	na	Speckmaus	999
+159	na	III_20_0009	Friedrichstal	8.48091, 49.10481	na	speckmaus	999	na	schpekmaus	999	na	Speckmaus	999
+160	na	III_20_0013	Staffort	8.51034, 49.09079	na	speckmaus	999	na	schpekmaus	999	na	Speckmaus	999
+161	na	II_58_0065	Käferthal	8.51715, 49.51259	na	speckmaus	999	na	schpekmaus	999	na	Speckmaus	999
+162	na	III_18_0017	Neulußheim	8.522, 49.29291	na	speckmaus	999	na	schpekmaus	999	na	Speckmaus	999
+163	na	III_21_0013	Weingarten	8.53114, 49.0533	na	speckmaus	999	na	schpekmaus	999	na	Speckmaus	999
+164	na	III_18_0018	Reilingen	8.56943, 49.29368	na	spackmaus	999	na	schpakmaus	999	na	Speckmaus	999
+165	na	III_21_0016	Obergrombach	8.58542, 49.07709	na	speckmaus	999	na	schpekmaus	999	na	Speckmaus	999
+166	na	II_60_0036	Plankstadt	8.59271, 49.39179	na	speckmaus	999	na	schpekmaus	999	na	Speckmaus	999
+167	na	III_23_0015	Dietlingen	8.60093, 48.89654	na	speckmaus	999	na	schpekmaus	999	na	Speckmaus	999
+168	na	III_20_0018	Bruchsal	8.60102, 49.12377	na	speckmaus	999	na	schpekmaus	999	na	Speckmaus	999
+169	na	III_18_0021	Rot	8.63137, 49.26348	na	spackmaus	999	na	schpakmaus	999	na	Speckmaus	999
+170	na	III_19_0016	Stettfeld	8.64516, 49.18353	na	schbeggmaus	999	na	schpekmaus	999	na	Speckmaus	999
+171	na	II_57_0082, II_57_0081	Laudenbach	8.65434, 49.6119	na	speckmaus	999	na	schpekmaus	999	na	Speckmaus	999
+172	na	III_19_0027	Zeutern	8.67522, 49.17718	na	speckmaus	999	na	schpekmaus	999	na	Speckmaus	999
+173	na	III_19_0022	Malsch <Maleck>	8.68153, 49.24579	na	speckmaus	999	na	schpekmaus	999	na	Speckmaus	999
+174	na	III_20_0028	Oberöwisheim	8.6891, 49.14532	na	speckmaus	999	na	schpekmaus	999	na	Speckmaus	999
+175	na	III_19_0023	Rettigheim	8.6981, 49.24111	na	speckmaus	999	na	schpekmaus	999	na	Speckmaus	999
+176	na	III_18_0028	Dielheim	8.7354, 49.28257	na	speckmaus	999	na	schpekmaus	999	na	Speckmaus	999
+177	na	III_20_0035, III_20_0037	Flehingen	8.78694, 49.0869	na	speckmaus	999	na	schpekmaus	999	na	Speckmaus	999
+178	na	III_36_0034	Duchtlingen	8.79029, 47.79154	na	speckmus	999	na	schpekmus	999	na	Speckmaus	999
+179	na	III_18_0034	Meckesheim	8.81557, 49.32167	na	speckmaus	999	na	schpekmaus	999	na	Speckmaus	999
+180	na	II_60_0052	Dilsberg	8.8362, 49.39832	na	speckmaus	999	na	schpekmaus	999	na	Speckmaus	999
+181	na	III_19_0043	Elsenz	8.83766, 49.17408	na	speckmaus	999	na	schpekmaus	999	na	Speckmaus	999
+182	na	III_18_0045	Hoffenheim	8.8417, 49.27088	na	speckmaus	999	na	schpekmaus	999	na	Speckmaus	999
+183	na	III_20_0045, III_20_0044	Sulzfeld	8.85671, 49.10336	na	speckmaus	999	na	schpekmaus	999	na	Speckmaus	999
+184	na	III_19_0040	Hilsbach	8.86227, 49.1957	na	speckmaus	999	na	schpekmaus	999	na	Speckmaus	999
+185	na	III_18_0050	Waibstadt	8.9198, 49.29982	na	speckmaus	999	na	schpekmaus	999	na	Speckmaus	999
+186	na	II_59_0088	Moosbrunn	8.92878, 49.42533	na	schbeckmaus	999	na	schpekmaus	999	na	Speckmaus	999
+187	na	II_59_0092	Eberbach	8.98755, 49.46322	na	speckmaus	999	na	schpekmaus	999	na	Speckmaus	999
+188	na	II_60_0068	Neunkirchen	9.00887, 49.38789	na	schbeggmaus	999	na	schpekmaus	999	na	Speckmaus	999
+189	na	II_60_0072	Mörtelstein	9.04246, 49.35708	na	speckmaus	999	na	schpekmaus	999	na	Speckmaus	999
+190	na	II_59_0102	Waldkatzenbach	9.05484, 49.45603	na	speckmaus	999	na	schpekmaus	999	na	Speckmaus	999
+191	na	III_20_0066	Schluchtern	9.1026, 49.14843	na	speckmaus	999	na	schpekmaus	999	na	Speckmaus	999
+192	na	III_18_0066	Hasmersheim	9.14257, 49.30049	na	sbeckmaus	999	na	schpekmaus	999	na	Speckmaus	999
+193	na	II_58_0106	Mörschenhardt	9.17211, 49.56893	na	speckmausch	999	na	schpekmausch	999	na	Speckmaus	999
+194	na	II_58_0109	Langenelz	9.20495, 49.51744	na	speckmaus	999	na	schpekmaus	999	na	Speckmaus	999
+195	na	II_59_0115	Heidersbach	9.2468, 49.45517	na	speckmausch	999	na	schpekmausch	999	na	Speckmaus	999
+196	na	II_58_0112	Unterneudorf	9.27534, 49.52921	na	spekmausch	999	na	schpekmausch	999	na	Speckmaus	999
+197	na	II_57_0140	Gottersdorf	9.31064, 49.63751	na	speckmaus	999	na	schpekmaus	999	na	Speckmaus	999
+198	na	II_92_0002	Eberstadt	9.3666, 49.47727	na	speckmaus	999	na	schpekmaus	999	na	Speckmaus	999
+199	na	II_93_0004	Korb	9.39732, 49.35594	na	speckmaus	999	na	schpekmaus	999	na	Speckmaus	999
+200	na	II_88_0007	Mondfeld	9.41656, 49.7837	na	spegmaus	999	na	schpekmaus	999	na	Speckmaus	999
+201	na	II_92_0007, II_92_0006	Osterburken	9.42838, 49.4308	na	speckmaus, spackmaus	999	na	schpekmaus, schpakmaus	999	na	Speckmaus	999
+202	na	II_90_0006	Dornberg	9.42843, 49.62542	na	spegmausch	999	na	schpekmausch	999	na	Speckmaus	999
+203	na	II_92_0013	Schillingstadt	9.57461, 49.46035	na	schbeckmausch	999	na	schpekmausch	999	na	Speckmaus	999
+204	na	II_90_0012	Königheim	9.59419, 49.61802	na	schbägmausch	999	na	schpekmausch	999	na	Speckmaus	999
+205	na	II_92_0019	Schwabhausen	9.60196, 49.45569	na	spehgmausch	999	na	schpekmausch	999	na	Speckmaus	999
+206	na	II_91_0013	Kupprichhausen u. Lengenrieden	9.62002, 49.52627	na	speckmausch	999	na	schpekmausch	999	na	Speckmaus	999
+207	na	II_92_0023	Wölchingen	9.63011, 49.48494	na	speegmausch	999	na	schpekmausch	999	na	Speckmaus	999

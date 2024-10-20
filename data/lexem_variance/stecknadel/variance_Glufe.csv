@@ -1,0 +1,745 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_maurer_align	item_DWA	item_DWA_align	Levenshtein_item
+0	Co D6	III_14_0081	Sewen, Sewen	6.90688, 47.80694	gōfe	g ō f e	gufe	g u f e	1
+1	Co D1	III_14_0082	Dollern (Dolleren), Dollern	6.93211, 47.80559	gūffa	g ū ff a	guffa	g u ff a	1
+2	Co D2	III_14_0083	Oberbruck, Oberbruck	6.94324, 47.80838	gūfa	g ū f a	gufe	g u f e	2
+3	Co D3	III_14_0080	Rimbach-Pès-Masevaux), Rimbach	6.9473, 47.82212	guf	g u f	gufe	g u f e	1
+4	Co w 5	III_14_0001	Urbis, St. Amarintal (Urbès), Urbis	6.95521, 47.88255	guf	g u f	guff	g u ff	1
+5	Co w 3	III_14_0006	Hüsseren-Wesserling (Husseren-Wesserling), Hüssern-Wesserling	6.98836, 47.88519	goff	g o ff	gofe	g o f e	1
+6	Co x 2	III_14_0007	Mitzach, Mitzach	7.00519, 47.87122	kūf	k ū f	guf	g u f	2
+7	Co x 1	III_14_0008	Ranspach, Ranspach	7.01113, 47.88081	gu̠fa	g u ̠ f a	guf	g u f	2
+8	Co E4	III_14_0087	Aue (Lauw), Aue	7.02216, 47.75778	gūf	g ū f	gufa	g u f a	2
+9	Hag E 9	III_5_0027	Harskirchen, Harskirchen	7.0389, 48.93409	guw	g u w	guff	g u ff	2
+10	Hag E 7	III_5_0024	Keskastel, Keskastel	7.04339, 48.96955	gu̠w	g u ̠ w	guff	g u ff	2
+11	Hag E 8	III_5_0026	Schopperten, Schopperten	7.05316, 48.94524	guw	g u w	guwe	g u w e	1
+12	Co E3	III_14_0090	Sentheim, Sentheim	7.0544, 47.75581	gūfå	g ū f å	gūfă	g ū f ă	1
+13	Co E2	III_14_0091	Niederburbach (Bourbach-Le-Bas), Niederburbach	7.05868, 47.77527	gufä	g u f ä	gufa	g u f a	1
+14	Co T1	III_15_0008	Brückensweiler (Bréchaumont), Brückensweiler	7.0684, 47.66973	guwa	g u w a	guffa	g u ff a	2
+15	Co E13	III_14_0092	Rammersmatt, Rammersmatt	7.07084, 47.78935	gufa	g u f a	gufae	g u f a e	1
+16	Co i 3	III_13_0008	Metzeral, Metzeral	7.07146, 48.01325	gūf	g ū f	guuf	g uu f	2
+17	Co q 4	III_13_0097	Sondernach, Sondernach	7.07276, 47.99621	gūf	g ū f	goof	g oo f	2
+18	Hag M 1	III_5_0034	Zollingen, Zollingen	7.07636, 48.91048	guw	g u w	güw	g ü w	1
+19	Co E9	III_14_0089	Tann-Bitschweiler (Bitschwiller-Lès-Thann), Bitschweiler	7.07947, 47.82929	gufa	g u f a	gūfe	g ū f e	2
+20	Hag T 4	III_7_0013	Goerlingen, Görlingen	7.08247, 48.79646	guf	g u f	guff	g u ff	1
+21	Hag E 5	III_5_0033	Saarwerden (Sarrewerden), Saarwerden	7.08411, 48.9218	guwwe	g u ww e	guw	g u w	2
+22	Hag M 10	III_6_0012	Bärendorf (Baerendorf), Bärendorf	7.08463, 48.83742	guwe	g u w e	guf	g u f	2
+23	Co i 10	III_13_0007	Mühlbach (Muhlbach-Sur-Munster), Mühlbach	7.08731, 48.02582	goͦf	g o ͦ f	guf	g u f	2
+24	Co M3	III_15_0003	Niedersulzbach (soppe-Le-Bas), Niedersulzbach	7.09079, 47.71688	gufa	g u f a	kuva	k u v a	2
+25	Co M1	III_15_0002	Gewenheim, Gewenheim	7.0913, 47.75291	gūfa	g ū f a	gûfe	g û f e	2
+26	Co i 7	III_13_0006	Breitenbach (Breitenbach-Haut-Rhin), Breitenbach	7.10087, 48.02382	gůf	g ů f	gŭ̊f	g ŭ ̊ f	2
+27	Co i 2	III_13_0009	Sulzern (Soultzeren), Sulzern	7.10254, 48.06373	gů̄f	g ů ̄ f	gof	g o f	2
+28	Co E7	III_14_0094	Tann (Thann), Thann	7.10335, 47.81019	gūfe	g ū f e	gufă	g u f ă	2
+29	Co i 6	III_13_0005	Luttenbach (Luttenbach-Près-Munster), Luttenbach	7.11745, 48.03105	goof	g oo f	gof	g o f	1
+30	Co T6	III_16_0018	Dammerkirch (Dannemarie), Dammerkirch	7.1214, 47.63024	hufa	h u f a	gufa	g u f a	1
+31	Co q 8	III_13_0102	Sengern, Sengern	7.12209, 47.94246	guf	g u f	gūf	g ū f	1
+32	Co i 5	III_13_0002	Hohrod, Hohrod	7.12607, 48.05444	gufe	g u f e	guhf	g u h f	2
+33	Co M8	III_15_0011, III_15_0010	Gildweiler (Gildwiller), Falkweiler, Hecken, Falkweiler, Gildweiler	7.13461, 47.6894	gufa	g u f a	guve	g u v e	2
+34	Co i 8	III_13_0001	Hohrodberg, Hohrodberg	7.13528, 48.06037	gof	g o f	gaof	g a o f	1
+35	Co Vc 2	III_16_0011	Hindlingen, Hindlingen	7.13734, 47.57341	gūfa	g ū f a	gufa	g u f a	1
+36	Co i 4	III_13_0010	Eschbach, Eschbach	7.14594, 48.02896	goof	g oo f	gof	g o f	1
+37	Co q 7	III_13_0099	Lautenbachzell, Lautenbachzell	7.14925, 47.94057	guf	g u f	kūf	k ū f	2
+38	Co T3	III_16_0008	Büttweiler (Buethwiller), Bütweiler	7.14982, 47.65627	gufa	g u f a	gufe	g u f e	1
+39	Co T4	III_16_0009	Hagenbach, Hagenbach	7.15712, 47.65028	guve	g u v e	guva	g u v a	1
+40	Co q 2	III_13_0100	Lautenbach (Kreis Tann), Lautenbach	7.15877, 47.9414	gūf	g ū f	guhf	g u h f	2
+41	Co q 6	III_13_0101	Murbach, Murbach	7.1604, 47.92318	guf	g u f	gūfe	g ū f e	2
+42	Co T15	III_16_0010	Ballersdorf, Ballersdorf	7.1624, 47.625	gufa	g u f a	guffa	g u ff a	1
+43	Co N12	III_15_0028	Balschweiler bei Altkirch, Balschweiler	7.1681, 47.66772	gufe	g u f e	gufa	g u f a	1
+44	Co k 1	III_13_0016	Griesbach (Griesbach-Au-Val), Griesbach	7.17071, 48.03351	gȭf	g õ ̄ f	goof	g oo f	2
+45	Hag F 4	III_5_0039	Lorenzen (Lorentzen), Lorenzen	7.1752, 48.95249	guw	g u w	guv	g u v	1
+46	Co r 6	III_13_0107	Schweighausen Kreis Gebweiler (Schweighouse bei Lautenbach), Schweighausen	7.17716, 47.93851	gūf	g ū f	guhf	g u h f	2
+47	Co F5	III_14_0016	Wattweiler (Wattwiller), Wattweiler	7.17766, 47.83549	guufe	g uu f e	glūfa	g l ū f a	3
+48	Co F2	III_14_0097	Sennheim (Cerany), Sennheim	7.17837, 47.80918	gōf	g ō f	gufa	g u f a	2
+49	Stra V 1, Stra U 1/1, Stra U 1/2	III_12_0002	Markich (Sainte-Marie-Aux-Marines), Markirch	7.17972, 48.24483	gouf	g o u f	guf	g u f	1
+50	Co y 1/2, Co y 1/1	III_14_0017	Rimbach-Zell (Rimbachzell), Rimbach-Zell	7.17995, 47.8995	guf	g u f	gufa	g u f a	1
+51	Co r 9	III_13_0103	Bühl Landkreis Gebweiler (Buhl), Bühl	7.18638, 47.92816	guf	g u f	güfa	g ü f a	2
+52	Hag F 5	III_5_0040	Diemeringen, Diemeringen	7.18685, 48.94061	guw	g u w	guff	g u ff	2
+53	Hag N 13	III_6_0026	Drulingen, Drulingen	7.18979, 48.8662	guw	g u w	guff	g u ff	2
+54	Co N14	III_15_0027	Bernweiler (Bernwiller), Bernweiler	7.19368, 47.69085	gufa	g u f a	guhfa	g u h f a	1
+55	Hag N 10	III_6_0024	Dürstel (Durstel), Durstel	7.19745, 48.89156	gūwe	g ū w e	guv	g u v	3
+56	Hag N 9	III_6_0018	Adamsweiler (Adamswiller), Adamsweiler	7.20348, 48.90463	guw	g u w	guwe	g u w e	1
+57	Co y 13, Co y 13, 14, Co y 5, Co y 14	III_14_0027	Gebweiler (Guebwiller), Gebweiler (Guebwiller) , Gebweiler	7.21078, 47.9095	gūfa	g ū f a	gufa	g u f a	1
+58	Co U 6	III_16_0028	Karspach (Carspach), Karspach	7.21307, 47.61448	gōfa	g ō f a	glufa	g l u f a	2
+59	Co r 2	III_13_0104	Osenbach, Osenbach	7.21903, 47.98623	guf	g u f	gufe	g u f e	1
+60	Hag N 12	III_6_0023	Aßweiler (Asswiller), Assweiler	7.2198, 48.88035	gůw	g ů w	guw	g u w	1
+61	Co y 3	III_14_0022	Sulz (Soultz-Haut-Rhin), Sulz	7.22862, 47.88613	guf	g u f	gūfa	g ū f a	2
+62	Co r 7/1	III_13_0105	Bergholzzell, Orschweier (Bergholtzzell, Orschwihr), Bergholzzell	7.23501, 47.9292	gūf	g ū f	guuf	g uu f	2
+63	Co U 7/1, Co U 7/2	III_16_0029	Altkirch, Altkirch	7.24009, 47.62592	gūfa	g ū f a	gufe	g u f e	2
+64	Hag N 15	III_6_0031	Lohr, Lohr	7.24351, 48.85748	gūw	g ū w	guw	g u w	1
+65	Hag N 4	III_5_0048	Weislingen, Weislingen	7.25159, 48.91879	guf	g u f	guff	g u ff	1
+66	Co U 13	III_16_0034	Hisingen (Hirsingue), Hirsingen	7.25483, 47.58601	gūhfa	g ū h f a	gufa	g u f a	2
+67	Co Ub 2	III_17_0011	Mörnach (Mœrnach), Mörnach	7.25681, 47.50213	gufa	g u f a	gufe	g u f e	1
+68	Co c 1	III_12_0081	Kaysersberg, Kaysersberg	7.2617, 48.13853	gōf	g ō f	gof	g o f	1
+69	Co U 4	III_16_0026	Walheim, Walheim	7.26432, 47.63975	gūfa	g ū f a	gufa	g u f a	1
+70	Co N8/1, Co N8/2	III_15_0015	Illfurt (Illfurth), Illfurt	7.26494, 47.67073	gūfa	g ū f a	gufa	g u f a	1
+71	Co N10	III_15_0026, III_15_0025	Frönigen, Fröningen	7.26801, 47.69023	gūfeͣ	g ū f e ͣ	gufe	g u f e	2
+72	Hag U 3	III_6_0033	Schönburg (Schoenbourg), Schönburg	7.26823, 48.83392	guff	g u ff	guf	g u f	1
+73	Hag N 7	III_6_0035	Petersbach, Petersbach	7.26874, 48.86912	gūff	g ū ff	guw	g u w	3
+74	Co Ua 13	III_17_0010	Köstlach (Kœstlach), Köstlach	7.27085, 47.5062	gūfä	g ū f ä	gufa	g u f a	2
+75	Co y 15	III_14_0026, III_14_0025	Feldkirch, Feldkirch	7.27197, 47.86504	gufa	g u f a	goffa	g o ff a	2
+76	Co c 6	III_12_0084	Niedermorschweiher, Niedermorschweiher	7.27596, 48.09972	gōf	g ō f	guf	g u f	1
+77	Co k 5	III_13_0025, III_13_0024	Geberschweiher (Gueberschwihr), Geberschweier	7.27661, 48.00444	guf	g u f	gǔf	g ǔ f	1
+78	Co U 8	III_16_0030	Wittersdorf, Wittersdorf	7.27817, 47.62015	gōfa	g ō f a	gufa	g u f a	1
+79	Hag N 3	III_6_0020	Frohmühl (Frohmuhl), Frohmühl	7.28007, 48.90754	gūf	g ū f	guffe	g u ff e	3
+80	Co N5	III_15_0018	Hochstatt, Hochstatt	7.28072, 47.70069	gufä	g u f ä	gufa	g u f a	1
+81	Stra O 5, Stra U 2	III_11_0082	klein Leberau (Lièpvre), Leberau (Lièpvre), Leberau	7.28169, 48.2709	gūf	g ū f	guffe	g u ff e	3
+82	Co y 10	III_14_0030	Rädersheim (Raedersheim), Rädersheim	7.28212, 47.88747	guf	g u f	guv	g u v	1
+83	Co k 13	III_13_0017	Vöklinshofen (Voegtlinshoffen), Vöklinshofen	7.28224, 48.01954	gūf	g ū f	guf	g u f	1
+84	Co c 12	III_12_0082	Ammerschweier, Ammerschweier	7.28484, 48.12465	gūf	g ū f	gŭva	g ŭ v a	3
+85	Co c 5	III_12_0083	Katzenthal, Katzental	7.28497, 48.10796	gů̄f	g ů ̄ f	go͜nf	g o ͜ n f	3
+86	Stra G 7	III_11_0001	Bassenberg (Bassemberg), Bassenberg	7.28546, 48.33566	guff	g u ff	goff	g o ff	1
+87	Co U 2	III_16_0023, III_16_0024	Lümschweiler (Luemschwiller) und Tagolsheim, Tagolsheim, Lümschweiler	7.28747, 47.65547	gūfa	g ū f a	gufe	g u f e	2
+88	Hag N 2	III_6_0021	Hinsburg (Hinsbourg), Hinsburg	7.28852, 48.90706	gůw	g ů w	guffe	g u ff e	4
+89	Stra G 2	III_11_0004, III_11_0003	Breitenbach, Breitenbach	7.2921, 48.36514	gūff	g ū ff	guff	g u ff	1
+90	Co U 9	III_16_0031	Emlingen, Emlingen	7.29244, 47.62397	gūfa	g ū f a	gufa	g u f a	1
+91	Co N6	III_15_0019	Zillisheim, Zillisheim	7.29485, 47.69387	gūfa	g ū f a	guhfa	g u h f a	2
+92	Stra s 3	III_10_0003	Mühlbach (Muhlbach-Sur-Bruche), Mühlbach	7.29709, 48.51659	guff	g u ff	gŏff	g ŏ ff	1
+93	Co k 6	III_13_0023	Hattstatt, Hattstatt	7.30016, 48.0108	guf	g u f	gufa	g u f a	1
+94	Co k 12	III_13_0022	Obermorschweier, Obermorschweier	7.30037, 48.01773	guf	g u f	guff	g u ff	1
+95	Co Ua 4	III_17_0007	Grenzingen, Grenzingen	7.30068, 47.56354	gufa	g u f a	guffa	g u ff a	1
+96	Stra l 1	III_9_0007	Engenthal, Engental-Windsburg	7.30153, 48.63467	gůff	g ů ff	guff	g u ff	1
+97	Co y 7	III_14_0033	Pulversheim, Pulversheim	7.30181, 47.83432	gūf	g ū f	guf	g u f	1
+98	Stra O 4	III_11_0086	Wanzel (La Vancelle), Wanzel	7.30201, 48.28406	guf	g u f	gufa	g u f a	1
+99	Co U 10	III_16_0032	Tagsdorf, Tagsdorf	7.30232, 47.62138	gufe	g u f e	gufa	g u f a	1
+100	Co c 9	III_12_0079	Sigolsheim, Sigolsheim	7.3035, 48.13267	gōf	g ō f	guv	g u v	2
+101	Stra V 2, Stra V 3	III_12_0003	Glashütte, Tannenkirch (Thannenkirch), Tannenkirch	7.30397, 48.22949	guf	g u f	guff	g u ff	1
+102	Co y 9	III_14_0031	Ungersheim, Ungersheim	7.30418, 47.87789	gūf	g ū f	guf	g u f	1
+103	Co k 14	III_13_0020	Egisheim, Egisheim	7.30455, 48.04168	guf	g u f	gůf	g ů f	1
+104	Co k 4	III_13_0019	Wettolsheim, Wettolsheim	7.30629, 48.06133	guf	g u f	kuf	k u f	1
+105	Co c 10	III_12_0086	Ingersheim, Ingersheim	7.30725, 48.0936	gufa	g u f a	guff	g u ff	1
+106	Stra V 6	III_12_0006	Hunaweier (Hunawihr), Hunaweier	7.31671, 48.18091	gof	g o f	goof	g oo f	1
+107	Co c 13	III_12_0077, III_12_0076	Mittelweier, Mittelweier	7.32094, 48.14982	gōf	g ō f	guf	g u f	1
+108	Stra G 8	III_11_0006	Triembach (Triembach-Au-Val), Triembach	7.32386, 48.33763	gůff	g ů ff	guff	g u ff	1
+109	Stra V 4	III_12_0005	Rappoltsweiler (Ribeauvillé), Rappoltsweiler	7.32486, 48.19355	gōff	g ō ff	guf	g u f	2
+110	Co k 10	III_13_0026	Herlisheim (Herrlisheim), Herlisheim	7.32932, 48.01677	guf	g u f	guwe	g u w e	2
+111	Stra s 1/1, Stra s 1/2	III_10_0001	Oberhaslach, Oberhaslach	7.33046, 48.5499	gůff	g ů ff	gōff	g ō ff	1
+112	Co Ua 8	III_17_0008	Roppenzweiler (Roppenzwiller), Roppenzweiler	7.33206, 47.54091	gufa	g u f a	guufa	g uu f a	1
+113	Co G3	III_14_0123	Kingersheim, Kingersheim	7.33579, 47.79025	gūfā	g ū f ā	guve	g u v e	3
+114	Co G2	III_14_0124	Wittenheim, Wittenheim	7.33993, 47.81085	gūfa	g ū f a	gufa	g u f a	1
+115	Stra t 14	III_10_0012	Niederhaslach, Niederhaslach	7.34119, 48.54244	guf	g u f	guff	g u ff	1
+116	Co Va 13	III_17_0033	Steinsulz (Steinsoultz), Steinsulz	7.34276, 47.55541	gufe	g u f e	gufer	g u f e r	1
+117	Co Va 9	III_17_0020	Buchsweiler (Bouxwiller), Buchsweiler	7.34362, 47.50479	gūfe	g ū f e	gufe	g u f e	1
+118	Co F7/1, Co F7/2	III_14_0107, III_14_0108, III_14_0119, III_14_0115, III_14_0111, III_14_0112, III_14_0116, III_14_0113, III_14_0118, III_14_0120, III_14_0117, III_14_0114, III_14_0109, III_14_0110	Mülhausen, Mülhausen	7.34375, 47.7517	goffa	g o ff a	gufe	g u f e	3
+119	Stra e 1	III_7_0047	Otterstal, Ottersthal	7.34837, 48.75567	go͜nff	g o ͜ n ff	goff	g o ff	2
+120	Co G4, Co G7	III_14_0122	Napoleonsinsel (Ile Napoléon), Illzach, Illzach, Illzach	7.34839, 47.78217	gūfa	g ū f a	gufa	g u f a	1
+121	Co z 6	III_14_0036	Regisheim (Réguisheim), Regisheim	7.35308, 47.89742	gūf	g ū f	guf	g u f	1
+122	Co z 1	III_14_0034	Ensisheim, Ensisheim	7.35432, 47.86522	gūf	g ū f	guf	g u f	1
+123	Hag V 10	III_7_0044	Eckartsweiler, Eckartsweiler	7.357, 48.76744	go̠ff	g o ̠ ff	guff	g u ff	2
+124	Stra W 3	III_12_0011	Rodern, Rodern	7.35716, 48.22457	guff	g u ff	gufa	g u f a	1
+125	Stra W 4	III_12_0013	Bergheim, Bergheim	7.35777, 48.20604	goff	g o ff	guff	g u ff	1
+126	Co Va 11	III_17_0015	Werenzhausen (Werentzhouse), Werenzweiler	7.3579, 47.51688	guffa	g u ff a	gufa	g u f a	1
+127	Co Vd 9	III_17_0077	Kiffis, Kiffis	7.35848, 47.4405	gufee	g u f ee	gufa	g u f a	2
+128	Co G1	III_14_0125	Rülisheim, Rülisheim	7.35868, 47.82216	gūfa	g ū f a	guuf	g uu f	3
+129	Co G8/1, Co G8/2	III_14_0129	Modenheim, Modenheim	7.35997, 47.76894	gufa	g u f a	gufe	g u f e	1
+130	Co l 1/3, Co l 1/4, Co l 1/5, Co l 1/6	III_13_0030	Kolmar, Kolmar	7.36359, 48.08198	goͧ̄f	g o ͧ ̄ f	gufa	g u f a	4
+131	Stra e 2/3, Stra e 2/1, Stra e 2/2	III_8_0030	Zabern, Zabern	7.36605, 48.73948	gōff	g ō ff	guff	g u ff	1
+132	Co V 18	III_16_0042	Zässingen (Zaessingue), Zässingen	7.3676, 47.62375	gufe	g u f e	gufa	g u f a	1
+133	Co O9	III_15_0033	Mülhausen-Riedisheim, Mülhausen-Riedisheim	7.36836, 47.74966	guhfa	g u h f a	gufa	g u f a	1
+134	Co G5	III_14_0126	Sausheim, Sausheim	7.3698, 47.78852	guhfa	g u h f a	guffe	g u ff e	2
+135	Co d 1	III_12_0088	Ostheim, Ostheim	7.37011, 48.1551	guff	g u ff	gōf	g ō f	2
+136	Co d 8	III_12_0093	Hausen bei Kolmar (Houssen), Hausen	7.37665, 48.125	goͧf	g o ͧ f	gūf	g ū f	2
+137	Stra m 16	III_9_0008	Allenweiler, Allenweiler	7.37795, 48.65555	guf	g u f	guff	g u ff	1
+138	Co s 3, Co s 6	III_13_0116	Oberenzen, Oberenzen (Oberentzen), Oberenzen	7.37872, 47.94354	kuf	k u f	guf	g u f	1
+139	Co Va 8	III_17_0023	Mittelmüspach-Niedermüspach (Muespach), Müspach	7.3807, 47.54728	gůfa	g ů f a	gufa	g u f a	1
+140	Co s 4	III_13_0117	Niederenzen, Niederenzen	7.38146, 47.94864	gūfa	g ū f a	guuf	g uu f	3
+141	Co l 3	III_13_0035	Heiligkreuz (Sainte-Croix-en-Plaine), Heiligkreuz	7.3831, 48.00666	guf	g u f	gufa	g u f a	1
+142	Co Va 14	III_16_0045	Berenzweiler (Berentzwiller), Berenzweiler	7.3832, 47.5856	gūfä	g ū f ä	gufä	g u f ä	1
+143	Stra W 1, Stra W 2	III_12_0009, III_12_0008	St. Pilt (saint-Hyppolyte), Orschweiler (Orschwiller), St. Pilt, Orschweiler	7.38445, 48.24184	go̊ff	g o ̊ ff	goof	g oo f	2
+144	Co s 2	III_13_0119, III_13_0118	Bilzheim (Biltzheim), Bilzheim	7.38657, 47.95675	guf	g u f	guff	g u ff	1
+145	Co Vd 2/2, Co Vd 2/1	III_17_0072	Oltingen (Oltingue), Oltingen	7.39411, 47.48862	gufe	g u f e	gufa	g u f a	1
+146	Co s 7/2, Co s 7/3	III_13_0120	Oberhergheim, Oberhergheim	7.39442, 47.96547	guf	g u f	guv	g u v	1
+147	Stra P 9	III_11_0094	Kinzheim (Kintzheim), Kinzheim	7.39476, 48.25441	koͧff	k o ͧ ff	guf	g u f	4
+148	Co O7	III_15_0036	Landser, Landser	7.39601, 47.68637	gůfe	g ů f e	gufe	g u f e	1
+149	Co O1/2, Co O1/1	III_15_0031, III_15_0032	Rixheim, Napoleoninsel Rixheim, Rixheim	7.39739, 47.74412	gūfa	g ū f a	gufa	g u f a	1
+150	Co s 5	III_13_0121	Niederhergheim, Niederhergheim	7.39795, 47.9862	guf	g u f	guff	g u ff	1
+151	Stra P 8	III_11_0096	Kestenholz (Châtenois), Kestenholz	7.39919, 48.27183	gūff	g ū ff	guff	g u ff	1
+152	Stra A 5, Stra H 6	III_11_0019	Bernhardsweiler (Bernardvillé), Bernhardsweiler	7.40011, 48.36706	gōff	g ō ff	guff	g u ff	1
+153	Co O5	III_15_0037	Dietenweiler (Dietwiller), Dietweiler	7.40296, 47.69288	gūfa	g ū f a	gufa	g u f a	1
+154	V	III_17_0025	Knöringen  (Knœringue) (im Elsass), Knöringen	7.4042, 47.5624	guffa	g u ff a	gufa	g u f a	1
+155	Co O6	III_15_0038	Schlierbach, Schlierbach	7.4066, 47.68284	gufa	g u f a	gufe	g u f e	1
+156	Co V 7	III_16_0052	Niedermagstatt (Magstatt-le-Bas), Niedermagstatt	7.41155, 47.6393	gūfa	g ū f a	gufe	g u f e	2
+157	Hag V 11	III_7_0049	Steinburg (Steinbourg), Steinburg	7.41332, 48.7697	gůff	g ů ff	guffe	g u ff e	2
+158	Stra m 4	III_8_0047	Jettersweiler, Jettersweiler	7.41482, 48.67034	guff	g u ff	goff	g o ff	1
+159	Co l 2	III_13_0031	Sundhofen (Sundhoffen), Sundhofen	7.41499, 48.04248	goͣf	g o ͣ f	gūf	g ū f	2
+160	Co l 9	III_13_0029	Andolsheim, Andolsheim	7.41512, 48.06763	gōf	g ō f	gof	g o f	1
+161	Co V 12	III_16_0046	Helfrantskirch (Helfrantzkirch), Helfrantskirch	7.41694, 47.6072	gufa	g u f a	gufe	g u f e	1
+162	Stra A 11	III_10_0090	Klingenthal, Klingental	7.41771, 48.47239	guff	g u ff	guͦff	g u ͦ ff	1
+163	Stra H 13	III_11_0024	Nothalten, Nothalten	7.41957, 48.3503	gůff	g ů ff	guff	g u ff	1
+164	Stra A 7	III_10_0095	St. Nabor (Sain-Nabor), St. Nabor	7.42423, 48.4458	gůff	g ů ff	go̊ff	g o ̊ ff	2
+165	Co d 4	III_12_0094	Holzweier, Holzweier	7.42541, 48.11028	goͦf	g o ͦ f	gof	g o f	1
+166	Stra m 5	III_9_0011	Krastatt, Krastatt	7.4265, 48.65831	guv	g u v	guff	g u ff	2
+167	Stra P 5	III_11_0090	Dambach (Dambach-La-Ville), Dambach	7.42838, 48.32103	guff	g u ff	guf	g u f	1
+168	Co V 8	III_16_0053	Stetten, Stetten	7.42942, 47.6261	gūfa	g ū f a	gufa	g u f a	1
+169	Stra t 10	III_10_0017	Gressweiler, Gressweiler	7.43186, 48.53571	guf	g u f	guff	g u ff	1
+170	Stra W 6	III_12_0015, III_12_0016	Illhäusern (Illhaeusern), Illhäusern	7.43355, 48.18466	guff	g u ff	guf	g u f	1
+171	Stra t 1	III_10_0005	Balbronn, Balbronn	7.43736, 48.58406	guff	g u ff	gouff	g o u ff	1
+172	Co l 10	III_13_0032	Appenweier (Appenwihr), Appenweier	7.43962, 48.02594	gofe	g o f e	guhf	g u h f	3
+173	Stra A 3/1, Stra A 3/2	III_10_0089	Börsch (Boersch), Börsch	7.43994, 48.47577	guff	g u ff	guffa	g u ff a	1
+174	Hag O 6	III_6_0047, III_6_0046	Weinburg (Weinbourg), Weinburg	7.44029, 48.87157	gůff	g ů ff	gūff	g ū ff	1
+175	Co V 14	III_16_0054	Kappeln (Kappelen), Kappeln	7.44156, 47.61975	gufa	g u f a	gufea	g u f e a	1
+176	Co V 4	III_16_0049	Uffheim, Uffheim	7.44285, 47.65062	gūva	g ū v a	gufa	g u f a	2
+177	Stra m 19	III_9_0022	Westhofen, Westhofen	7.44341, 48.60424	guff	g u ff	goff	g o ff	1
+178	Co Va 15	III_16_0038	Niederranspach (Ranspach-le-Bas), Niederranspach	7.44726, 47.58851	gufa	g u f a	gufe	g u f e	1
+179	Co Va 4/2, Co Va 4/1	III_17_0019	Volkensberg (Folgensbourg), Volkensberg	7.4473, 47.55147	gūva	g ū v a	guven	g u v e n	3
+180	Co z 4	III_14_0037	Hirzfelden, Hirzfelden	7.4473, 47.90935	gūf	g ū f	guv	g u v	2
+181	Hag O 11	III_6_0041	Obersulzbach (Obersoultzbach), Obersulzbach	7.45013, 48.85174	gůff	g ů ff	guff	g u ff	1
+182	Stra t 6	III_10_0018	Mutzig, Mutzig	7.45043, 48.53927	guff	g u ff	gu˚ff	g u ˚ ff	1
+183	Hag V 12	III_7_0053	Rosenweiler-Dettweiler, Rosenweiler-Dettweiler	7.45083, 48.76772	guff	g u ff	goff	g o ff	1
+184	Stra e 20	III_8_0048	Zehnacker, Zehnacker	7.45086, 48.67123	guff	g u ff	goff	g o ff	1
+185	Stra H 2/1, Stra H 2/2, Stra H 2/3	III_11_0013	Barr, Barr	7.45244, 48.40651	guffä	g u ff ä	go̊ff	g o ̊ ff	3
+186	Co z 2	III_14_0038	Münchhausen (Munchhausen), Münchhausen	7.45274, 47.86847	gufe	g u f e	guf	g u f	1
+187	Hag V 3	III_7_0051	Imbsheim, Imbsheim	7.45399, 48.80165	goff	g o ff	guff	g u ff	1
+188	Co Va 3	III_17_0018	Attenschweiler (Attenschwiller), Attenschweiler/Attenweiler	7.46216, 47.56912	gōfa	g ō f a	gofa	g o f a	1
+189	Stra m 15	III_9_0019	Tränheim, Tränheim	7.46472, 48.59545	goff	g o ff	guff	g u ff	1
+190	Stra H 11/2, Stra H 11/1	III_11_0022, III_11_0023	Epfig, Epfig	7.4655, 48.35803	gõff	g õ ff	go̊f	g o ̊ f	2
+191	Stra H 1	III_11_0012	Gertweiler (Gertwiller), Gertweiler	7.46795, 48.4111	gūff	g ū ff	guff	g u ff	1
+192	Stra H 10	III_11_0015	St. Peter (Saint-Pierre), St. Peter	7.47022, 48.38171	gůffe	g ů ff e	guffe	g u ff e	1
+193	Co d 2 , Co k 3	III_12_0096	Munzenheim (Muntzenheim), Munzenheim	7.47318, 48.10199	gūf	g ū f	guf	g u f	1
+194	Stra t 13	III_9_0020	Irmstett, Irmstett	7.47751, 48.58828	gõff	g õ ff	gu̠ff	g u ̠ ff	2
+195	Stra m 6	III_9_0016	Rangen, Rangen	7.47865, 48.66636	guffe	g u ff e	guff	g u ff	1
+196	Hag V 14	III_7_0056	Gottesheim, Gottesheim	7.47938, 48.77591	gůff	g ů ff	goff	g o ff	1
+197	Co l 5	III_13_0028	Widensolen, Widensolen	7.47996, 48.06278	gūf	g ū f	guuf	g uu f	2
+198	Co Va 5	III_17_0034	Wenzweiler (Wentzwiller), Wenzweiler	7.48036, 47.55042	gūfa	g ū f a	gufa	g u f a	1
+199	Stra A 10	III_10_0097	Goxweiler (Goxwiller), Goxweiler	7.48432, 48.43288	guff	g u ff	guffe	g u ff e	1
+200	Co l 12	III_12_0098	Urschenheim, Urschenheim	7.48632, 48.08696	goͦf	g o ͦ f	guuf	g uu f	2
+201	Hag O 9	III_6_0043	Uttweiler (Uttwiller), Uttweiler	7.48667, 48.84591	guff	g u ff	guf	g u f	1
+202	Co d 11	III_12_0090	Grussenheim, Grussenheim	7.48794, 48.1443	gŭf	g ŭ f	guf	g u f	1
+203	Stra m 11	III_9_0015	Marlenheim, Kärchheim, Marlenheim	7.49054, 48.62101	guoff	g u o ff	guff	g u ff	1
+204	Stra m 14	III_9_0021	Scharrachbergheim, Scharrachbergheim	7.49581, 48.593	guff	g u ff	goff	g o ff	1
+205	Co W 15/1, Co W 15, 14, Co W 15/2	III_16_0039, III_16_0062, III_16_0040	Boltzheim (Blotzheim), Blotzheim	7.49611, 47.60128	guffa	g u ff a	gufe	g u f e	2
+206	Stra e 15	III_8_0038	Landersheim, Landersheim	7.49655, 48.69022	gōff	g ō ff	goff	g o ff	1
+207	Co m 11	III_13_0047	Wolfganzen, Wolfganzen	7.5016, 48.02747	goͧf	g o ͧ f	guhf	g u h f	2
+208	Co H15	III_14_0130	Homburg Kreis Mülhausen (Hombourg), Homburg	7.50503, 47.75908	gūfe	g ū f e	gufa	g u f a	2
+209	Stra f 20	III_8_0056	Wilwisheim, Wilwisheim	7.5074, 48.74799	guf	g u f	guff	g u ff	1
+210	Hag W 13	III_7_0057	Bosselshausen, Bosselshausen	7.50884, 48.80522	gůff	g ů ff	guff	g u ff	1
+211	Co m 13	III_13_0046	Umgebung von Neubreisach (Weckolsheim), Weckolsheim	7.51347, 48.00264	gūf	g ū f	guff	g u ff	2
+212	Stra f 15	III_8_0058	Sässolsheim, Sässolsheim	7.51503, 48.70869	guff	g u ff	guf	g u f	1
+213	Co Wa 5	III_17_0028	Neuweiler (Neuwiller), Neuweiler	7.51526, 47.52439	gūefe	g ū e f e	gufä	g u f ä	3
+214	Co A3	III_14_0040	Rumersheim (Rumersheim-le-Haute), Rumersheim	7.51712, 47.85248	gufa	g u f a	guufe	g uu f e	2
+215	Stra B 7	III_10_0102	Walf (Valff)), Walf	7.52068, 48.42151	guff	g u ff	goff	g o ff	1
+216	Stra f 21	III_8_0057	Ingenheim, Ingenheim	7.52092, 48.7349	guff	g u ff	guf	g u f	1
+217	Co Wa 1	III_17_0026	Häsingen (Hésingue), Häsingen	7.5211, 47.57633	gōfe	g ō f e	gufa	g u f a	2
+218	Stra Q 1	III_11_0097	Ebersmünster (Ebersmunster), Ebersmunster	7.52112, 48.31139	guffe	g u ff e	guff	g u ff	1
+219	Stra u 6/2, Stra u 6/1	III_10_0025	Ergersheim (wohnt seit 41 in Breitenau), Ergersheim, Ergersheim	7.52806, 48.56941	gůff	g ů ff	guff	g u ff	1
+220	Co A2	III_14_0185	Blodelsheim, Blodelsheim	7.53396, 47.88426	guf	g u f	kufe	k u f e	2
+221	Co W 13	III_16_0058	Rosenau, Rosenau	7.53493, 47.63685	guufe	g uu f e	gufe	g u f e	1
+222	Co W 1	III_16_0067	Istein , Istein	7.53541, 47.66186	gufe	g u f e	gufa	g u f a	1
+223	Hag P 18	III_6_0060	Obermodern, Obermodern	7.53932, 48.84466	guff	g u ff	gůff	g ů ff	1
+224	Co H1	III_14_0132	Eichwald (Chalampé), Eichwald	7.53969, 47.81643	gūfä	g ū f ä	gufä	g u f ä	1
+225	Hag P 4	III_6_0049	Bischholz, Bischholz	7.53995, 48.89301	guff	g u ff	gūff	g ū ff	1
+226	Co P12	III_15_0051	Blansingen, Blansingen	7.54141, 47.69158	guufe	g uu f e	gufe	g u f e	1
+227	Hag P 2	III_6_0059	Offweiler, Offweiler	7.54296, 48.91021	guff	g u ff	gŭf	g ŭ f	2
+228	Co e 1	III_12_0102	Marckolsheim, Markolsheim	7.54583, 48.1675	guf	g u f	guff	g u ff	1
+229	Co P18	III_15_0052	Huttingen, Huttingen	7.5497, 47.67294	gufe	g u f e	gūfe	g ū f e	1
+230	Co m 8	III_13_0043	Volgelsheim, Vogelsheim	7.55292, 48.01693	gūf	g ū f	kufe	k u f e	3
+231	Stra u 2/1	III_9_0025	Osthofen, Osthofen	7.55672, 48.58641	gu̠ff	g u ̠ ff	guff	g u ff	1
+232	Co t 5	III_13_0125	Obersaasheim, Obersaasheim	7.55885, 47.98979	gūf	g ū f	gufe	g u f e	2
+233	Stra f 2	III_8_0078	Schaffhausen bei Hochfelden (schaffhouse-sur-Zorn), Schaffhausen	7.56211, 48.7324	guff	g u ff	guf	g u f	1
+234	Co Wa 4	III_16_0065, III_16_0063, III_16_0064	Sankt Ludwig (Saint-Louis) , Sankt Ludwig	7.56351, 47.58575	gufa	g u f a	gufe	g u f e	1
+235	Stra X 3	III_12_0019	Bösenbiesen (Boesenbiesen), Bösenbiesen	7.56377, 48.22957	guf	g u f	kufen	k u f e n	3
+236	Co W 3, Co W 2	III_16_0068	Kirchen (Efringen-Kirchen), Efringen (Efringen-Kirchen), Efringen	7.56471, 47.64989	guufe	g uu f e	gufe	g u f e	1
+237	Co P17	III_15_0053	Wintersweiler, Wintersweiler	7.56756, 47.67374	gūfe	g ū f e	gŭfe	g ŭ f e	1
+238	Co m 9	III_13_0041	Vogelgrün (Vogelgrun), Vogelgrün	7.57243, 48.0111	gūfă	g ū f ă	gūf	g ū f	1
+239	Stra X 8	III_12_0024	Artolsheim, Artolsheim	7.57377, 48.20951	gōf	g ō f	gūf	g ū f	1
+240	Co H13	III_14_0135	Schliengen, Schliengen	7.57624, 47.75579	gů̄fe	g ů ̄ f e	gufe	g u f e	2
+241	Stra J 10	III_11_0035	Hüttenheim (Huttenheim), Hüttenheim	7.57814, 48.35799	go̊ff	g o ̊ ff	guff	g u ff	2
+242	Co W 12	III_16_0070	Märkt, Märkt	7.58103, 47.627	guffe	g u ff e	gufe	g u f e	1
+243	Stra J 2	III_11_0029	Westhausen (Westhouse), Westhausen	7.58855, 48.39622	guff	g u ff	gufe	g u f e	1
+244	Stra u 11	III_10_0036	Düppigheim und Duttlenheim (Duppigheim), Düppigheim	7.58968, 48.52813	gůff	g ů ff	guff	g u ff	1
+245	Co H8	III_14_0136	Auggen, Auggen	7.59221, 47.78776	gūfe	g ū f e	gufe	g u f e	1
+246	Co m 1	III_13_0040	Breisach, Breisach	7.59332, 48.04535	güf	g ü f	gufe	g u f e	2
+247	Stra J 4/3, Stra J 4/2, Stra J 4/1	III_11_0033	Benfeld, Benfeld	7.59385, 48.37263	gůff	g ů ff	guff	g u ff	1
+248	Co W 11, 18	III_16_0074	(Weil am Rhein und) Eimeldingen, Binzen	7.59518, 47.63113	gufe	g u f e	guufe	g uu f e	1
+249	Co W 4, 5	III_16_0087, III_16_0088	Egringen und Fischingen, Fischingen, Egringen	7.59628, 47.66366	guve	g u v e	gufe	g u f e	1
+250	Hag P 15	III_6_0057	Kindweiler, Kindweiler	7.59731, 48.86227	gůff	g ů ff	gouff	g o u ff	2
+251	Co P14	III_15_0054	Mappach, Mappach	7.59794, 47.68033	gūfe	g ū f e	guefe	g u e f e	2
+252	Co t 6	III_13_0126	Geiswasser, Geiswasser	7.60042, 47.97883	gūf	g ū f	guf	g u f	1
+253	Stra u 3	III_10_0029	Breuschwickersheim, Breuschwickersheim	7.60198, 48.5795	gúff	g ú ff	guff	g u ff	1
+254	Stra Q 8/2, Stra Q 8/1	III_11_0105	Sundhausen (Sundhouse), Sundhausen	7.60327, 48.25126	guff	g u ff	guf	g u f	1
+255	Stra Q 4	III_11_0101	Bindernheim, Bindernheim	7.60713, 48.28366	goff	g o ff	guff	g u ff	1
+256	Stra n 7	III_9_0034	Wiwersheim, Wiwersheim	7.60738, 48.63994	guff	g u ff	göff	g ö ff	1
+257	Stra f 11	III_8_0066	Gimbrett, Gimbrett	7.60781, 48.69592	guf	g u f	goff	g o ff	2
+258	Stra u 14	III_10_0035	Bläsheim, Bläsheim	7.60783, 48.50535	gůff	g ů ff	guv	g u v	3
+259	Hag H 1	III_5_0062	Oberbronn, Oberbronn	7.6082, 48.94109	guff	g u ff	guffe	g u ff e	1
+260	Hag P 14	III_6_0066	Pfaffenhofen, Pfaffenhofen	7.60881, 48.84422	gūf	g ū f	guff	g u ff	2
+261	Stra B 8	III_10_0104	Bolsenheim, Bolsenheim	7.6099, 48.42013	gōff	g ō ff	guff	g u ff	1
+262	Co P6	III_15_0057	Tannenkirch, Tannenkirch	7.6103, 47.71116	gufe	g u f e	gufa	g u f a	1
+263	Co W 22	III_16_0089, III_16_0090	Haltingen, Haltingen	7.61378, 47.61384	guffe	g u ff e	gufe	g u f e	1
+264	Stra J 5	III_11_0032	Sand, Sand	7.61417, 48.38275	gūff	g ū ff	guff	g u ff	1
+265	Stra u 10	III_10_0031	Hangenbieten, Hangenbieten	7.61529, 48.55876	gů̄ff	g ů ̄ ff	gůff	g ů ff	1
+266	Stra J 9	III_11_0038	Roßfeld (Rossfeld), Roßfeld	7.61683, 48.33696	gūff	g ū ff	guff	g u ff	1
+267	Stra n 8	III_9_0032	Offenheim, Stutzheim-Offenheim	7.61838, 48.63195	guf	g u f	guff	g u ff	1
+268	Stra B 9	III_10_0106	Schäfersheim (Schaeffersheim), Schäfersheim	7.6199, 48.42864	gůff	g ů ff	guffe	g u ff e	2
+269	Co W 23	III_16_0075	Ötlingen, Ötlingen	7.62133, 47.62261	gufe	g u f e	guve	g u v e	1
+270	Co W 10	III_16_0072, III_16_0073	Binzen, Binzen, Märkt	7.62403, 47.63133	gofa	g o f a	gufe	g u f e	2
+271	Co W 6	III_16_0076	Schallbach, Schallbach	7.62759, 47.65706	gūve	g ū v e	guve	g u v e	1
+272	Co P15	III_15_0055	Holzen, Holzen	7.62775, 47.69538	gufe	g u f e	guufe	g uu f e	1
+273	Hag P 8	III_6_0050	Gumbrechtshofen, Gumbrechtshofen	7.6319, 48.90544	gůff	g ů ff	guff	g u ff	1
+274	Co W 18	III_16_0085	Weil am Rhein, Weil	7.63299, 47.59278	guofe	g u o f e	guffe	g u ff e	1
+275	Co P5	III_15_0058	Riedlingen, Riedlingen	7.63561, 47.71579	gůfe	g ů f e	gufe	g u f e	1
+276	Stra u 16	III_10_0033	Enzheim, Enzheim	7.63634, 48.53413	guffe	g u ff e	guff	g u ff	1
+277	Co A4	III_14_0046	Buggingen, Buggingen	7.63735, 47.8479	guufa	g uu f a	gufe	g u f e	2
+278	Stra J 7	III_11_0031	Osthausen (Osthouse), Osthausen	7.63886, 48.40167	guff	g u ff	guf	g u f	1
+279	Hag W 8	III_7_0071	Hüttendorf, Hüttendorf	7.64259, 48.80222	guffe	g u ff e	guff	g u ff	1
+280	Stra u 15	III_10_0034	Geispolsheim, Geispolsheim	7.64329, 48.51516	guf	g u f	guff	g u ff	1
+281	Stra v 8	III_10_0032	Holzheim, Holzheim	7.64383, 48.55724	guff	g u ff	guf	g u f	1
+282	Co W 7, 9/1	III_16_0086	Wittlingen, Wittlingen	7.64842, 47.6562	gufe	g u f e	guofe	g u o f e	1
+283	Co H5	III_14_0143	Zunzingen, Zunzingen	7.65195, 47.82164	guve	g u v e	gufe	g u f e	1
+284	Co W 8	III_15_0056	Wollbach, Wollbach	7.65387, 47.67054	gūfe	g ū f e	guufe	g uu f e	2
+285	Co W 21	III_16_0078	Tumringen, Tumringen	7.65564, 47.62739	gufe	g u f e	gufä	g u f ä	1
+286	Co H9	III_14_0141	Lipburg, Lipburg	7.65665, 47.78685	gūfĕ	g ū f ĕ	gufe	g u f e	2
+287	Co H4	III_14_0139	Dattingen, Dattingen	7.65681, 47.83383	gūfe	g ū f e	gufen	g u f e n	2
+288	Stra Q 3	III_11_0102	Diebolsheim, Diebolsheim	7.66174, 48.29015	gūff	g ū ff	guff	g u ff	1
+289	Co P16	III_15_0046	Kandern, Kandern	7.66224, 47.71456	gůfe	g ů f e	gufe	g u f e	1
+290	Stra B 10	III_10_0105	Erstein, Erstein	7.66295, 48.4211	gouff	g o u ff	guff	g u ff	1
+291	Co Wa 6	III_17_0037	Grenzach (Grenzach-Wyhlen), Grenzach	7.66607, 47.55136	gūfe	g ū f e	guufe	g uu f e	2
+292	Stra B 3	III_10_0109	Lipsheim, Lipsheim	7.66966, 48.49284	guf	g u f	guff	g u ff	1
+293	Stra R 2	III_11_0107	Friesenheim, Friesenheim	7.67044, 48.30971	guff	g u ff	guf	g u f	1
+294	Co J1	III_14_0144	Britzingen, Britzingen	7.67237, 47.82744	gūfe	g ū f e	guufe	g uu f e	2
+295	Hag Q 12	III_6_0068	Griesbach, Griesbach	7.67856, 48.89026	guff	g u ff	guffe	g u ff e	1
+296	Co X 4	III_16_0091	Haagen, Haagen	7.67898, 47.63703	gufä	g u f ä	gufe	g u f e	1
+297	Stra R 1	III_11_0106	Boofzheim, Boofzheim	7.68036, 48.33214	guff	g u ff	gluff	g l u ff	1
+298	Stra o 16	III_9_0045	Straßburg-Oberhausbergen, Strassburg-Oberhausbergen	7.68507, 48.60569	gůff	g ů ff	gôff	g ô ff	1
+299	Co X 16	III_16_0096	Inzlingen, Inzlingen	7.68772, 47.58811	gū̠fĕ	g ū ̠ f ĕ	gufe	g u f e	3
+300	Co Xa 5	III_17_0039, III_17_0040, III_17_0038	Wyhlen, Wyhlen	7.69103, 47.54989	guufa	g uu f a	gufe	g u f e	2
+301	Co X 6	III_16_0094, III_16_0095	Brombach (/Maulburg, aber gestrichen), Brombach	7.69236, 47.63395	gūfe	g ū f e	gufe	g u f e	1
+302	Co J3	III_14_0153	Schweighof, Schweighof	7.69904, 47.80743	gūfĕ	g ū f ĕ	gufe	g u f e	2
+303	Stra o 9	III_9_0047	Niederhausbergen, Niederhausbergen	7.70033, 48.62313	gůff	g ů ff	güff	g ü ff	1
+304	Hag J 12	III_5_0073	Nehweiler (Nehwiller), Nehweiler	7.70322, 48.96072	guff	g u ff	guf	g u f	1
+305	Co B11	III_14_0052, III_14_0053	Bad Krozingen, Bad Krozingen	7.70333, 47.91813	gūfe	g ū f e	gufe	g u f e	1
+306	Stra g 2	III_8_0084	Brumath, Brumath	7.71045, 48.73026	guff	g u ff	göff	g ö ff	1
+307	Stra g 10	III_8_0083	Vendenheim, Vendenheim	7.71285, 48.66933	gůff	g ů ff	guff	g u ff	1
+308	Hag Q 3	III_6_0071	Forstheim, Forstheim	7.71468, 48.89506	guff	g u ff	guf	g u f	1
+309	Stra o 3	III_9_0076	Mundolsheim, Mundolsheim	7.71544, 48.64179	guf	g u f	guff	g u ff	1
+310	Stra C 2	III_10_0111	Eschau, Eschau	7.71556, 48.48796	goff	g o ff	guf	g u f	2
+311	Co X 1	III_16_0097	Hägelberg, Hägelberg	7.72778, 47.66132	guefe	g u e f e	gufe	g u f e	1
+312	Stra o 12	III_9_0048	Kronenburg (Cronenbourg), Kronenburg	7.73212, 48.59535	guff	g u ff	guffe	g u ff e	1
+313	Co Q8	III_15_0062	Endenburg, Endenburg	7.73306, 47.71161	gufe	g u f e	guve	g u v e	1
+314	Hag J 13	III_5_0072	Langensulzbach (Langensoultzbach), Langensulzbach	7.73367, 48.96812	guf	g u f	gůf	g ů f	1
+315	Hag X 3/2, Hag X 3/1	III_7_0082	Schweighausen (Schweighouse-Sur-Moder), Schweighausen	7.73517, 48.82151	guff	g u ff	guufe	g uu f e	2
+316	Hag Q 9	III_6_0073	Eschbach, Eschbach	7.73641, 48.87453	guff	g u ff	guffe	g u ff e	1
+317	Co X 7	III_16_0098	Steinen, Steinen	7.73911, 47.64447	gūfe	g ū f e	guefe	g u e f e	2
+318	Co u 4	III_13_0164	Kirchhofen, Kirchhofen	7.74356, 47.91979	gufe	g u f e	gufä	g u f ä	1
+319	Hag Q 5	III_6_0075	Hagenheim (Hegeney), Hagenheim	7.74557, 48.89153	guf	g u f	gūf	g ū f	1
+320	Co X 8	III_16_0099	Höllstein, Höllstein	7.74574, 47.63943	gūfe	g ū f e	guufä	g uu f ä	3
+321	Stra o 14	III_9_0051, III_9_0050	Straßburg-Bischheim, Straßburg-Bischheim	7.75254, 48.61483	gůff	g ů ff	guff	g u ff	1
+322	Stra o 15	III_9_0052	Hönheim, Straßburg-Hönheim	7.75526, 48.62105	guff	g u ff	guf	g u f	1
+323	Hag J 9	III_5_0084	Oberdorf-Spachbach, Oberdorf-Spachbach	7.75696, 48.92512	guff	g u ff	goff	g o ff	1
+324	Co Q9	III_15_0064	Weitenau, Weitenau	7.76525, 47.67775	gufe	g u f e	guve	g u v e	1
+325	Co X 10	III_16_0106	Maulburg , Maulburg	7.77782, 47.64075	gūfe	g ū f e	guufe	g uu f e	2
+326	Stra K 4	III_11_0047	Allmannsweier, Allmannsweier	7.78326, 48.36703	guv	g u v	guuf	g uu f	2
+327	Co Q3	III_14_0152	Raich, Raich	7.79724, 47.75076	gūfe	g ū f e	guufe	g uu f e	2
+328	Co Q10	III_15_0065	Wieslet, Wieslet	7.79819, 47.6893	gūfe	g ū f e	gufe	g u f e	1
+329	Co X 17	III_16_0105	Karzau (Karsau) , Karsau	7.79868, 47.58875	gūfe	g ū f e	gufe	g u f e	1
+330	Hag J 6	III_5_0085	Preuschdorf, Preuschdorf	7.80425, 48.9435	guff	g u ff	guf	g u f	1
+331	Co f 8	III_12_0114	Köndringen, Köndringen	7.80591, 48.13912	gūfe	g ū f e	guufe	g uu f e	2
+332	Stra C 7	III_10_0147	Ichenheim, Ichenheim	7.81161, 48.43161	gūf	g ū f	guf	g u f	1
+333	Co X 11	III_16_0107, III_16_0108	Wiechs, Wiechs	7.81236, 47.63655	guufa	g uu f a	gufe	g u f e	2
+334	Co X 12	III_16_0111	Nordschwaben, Nordschwaben	7.81682, 47.6184	gūfe	g ū f e	gufe	g u f e	1
+335	Hag J 3	III_5_0078	Lampertsloch, Lampertsloch	7.81713, 48.95698	guff	g u ff	guf	g u f	1
+336	Co u 13	III_13_0133	Haslach, Haslach	7.82166, 47.9895	gūfe	g ū f e	gufe	g u f e	1
+337	Co Q4	III_14_0186	Elbenschwand, Elbenschwand	7.83139, 47.7509	gūfe	g ū f e	guufe	g uu f e	2
+338	Hag Y 4	III_7_0095	Kaltenhausen, Kaltenhausen	7.83521, 48.79041	guf	g u f	gůf	g ů f	1
+339	Stra p 9	ungeodnet2	Auenheim, Auenheim	7.83597, 48.6051	goff	g o ff	guff	g u ff	1
+340	Hag K 22	III_5_0108	Oberkutzenhausen, Oberkutzenhausen	7.84049, 48.93847	guffe	g u ff e	guff	g u ff	1
+341	Hag R 3	III_6_0086	Surburg, Surburg	7.84913, 48.90982	guff	g u ff	guf	g u f	1
+342	Co o 8	III_13_0070	Vörstetten, Vörstetten	7.85113, 48.06391	guufe	g uu f e	gufe	g u f e	1
+343	Stra w 10	III_10_0056	Eckartsweier, Eckartsweier	7.85175, 48.52985	gūff	g ū ff	kuf	k u f	3
+344	Stra p 4	III_9_0077	Leutesheim, Leutesheim	7.85613, 48.62423	guff	g u ff	guufe	g uu f e	2
+345	Co R13	III_15_0085	Raitbach, Raitbach	7.86089, 47.68233	gufä	g u f ä	gufe	g u f e	1
+346	Co Y 2	III_16_0116	Kürnberg, Kürnberg	7.86873, 47.6649	guefe	g u e f e	gufe	g u f e	1
+347	Stra w 13	III_10_0050	Kork, Kork	7.86899, 48.56537	guff	g u ff	guffe	g u ff e	1
+348	Co C10	III_14_0067	Obermünstertal-Stohren, Obermünstertal-Stohren	7.87525, 47.8938	gūfe	g ū f e	guufe	g uu f e	2
+349	Stra L 12	III_11_0059	Lahr (Lahr/Schwarzwald), Lahr	7.87603, 48.34018	guf	g u f	guuf	g uu f	1
+350	Hag R 4	III_6_0080, III_6_0081	Schwabweiler, Schwabweiler	7.87665, 48.90207	kluf	k l u f	guff	g u ff	3
+351	Co o 9	III_13_0062, III_13_0063, III_13_0064	Denzlingen, Denzlingen	7.87987, 48.06793	gufe	g u f e	guufe	g uu f e	1
+352	Co Y 12	III_16_0168	Schwörstadt, Schwörstadt	7.87989, 47.59379	gufä	g u f ä	gufe	g u f e	1
+353	Stra w 9/2, Stra w 9/1	III_10_0058	Hesselhurst, Hesselhurst	7.88114, 48.52042	goͧff	g o ͧ ff	guff	g u ff	2
+354	Co K5	III_14_0160	Aitern, Aitern	7.89522, 47.80317	gūfe	g ū f e	gufe	g u f e	1
+355	Stra Z 4	III_12_0051	Ottoschwanden, Ottoschwanden	7.89687, 48.18611	gufe	g u f e	guufe	g uu f e	1
+356	Co Y 3	III_16_0115	Hasel, Hasel	7.89786, 47.65393	gūfe	g ū f e	gufe	g u f e	1
+357	Hag R 5/1	III_6_0082	Oberbetschdorf, Oberbetschdorf	7.89812, 48.8986	guff	g u ff	guv	g u v	2
+358	co g 7	III_12_0137	Sexau, Sexau	7.90788, 48.10424	gūfe	g ū f e	gufe	g u f e	1
+359	Co v 10	III_13_0149	Kappel, Kappel	7.90831, 47.96423	gūfe	g ū f e	gufe	g u f e	1
+360	Hag C 4	III_4_0091	Rott, Rott	7.91304, 49.02495	gōf	g ō f	gofe	g o f e	2
+361	Stra w 3	III_10_0052	Legelshurst, Legelshurst	7.91306, 48.56803	guff	g u ff	goff	g o ff	1
+362	Co Y 11	III_16_0118	Öfflingen (Öflingen), Öflingen	7.91396, 47.59228	gufe	g u f e	guufe	g uu f e	1
+363	Stra w 12	III_10_0059	Sand, Sand	7.92148, 48.53823	gov	g o v	gufe	g u f e	3
+364	Stra S 4	III_11_0122	Reichenbach (Gengb.), Reichenbach	7.9231, 48.33196	gūf	g ū f	gufe	g u f e	2
+365	Stra w 8	III_10_0064	Griesheim, Griesheim	7.924, 48.51041	gufe	g u f e	guf	g u f	1
+366	Co g 13	III_12_0126, III_12_0127	Freiamt-Reichenbach, Freiamt-Reichenbach	7.92477, 48.15747	gūfe	g ū f e	gufe	g u f e	1
+367	Hag C 6	III_4_0092	Steinselz (Steinseltz), Steinselz	7.93035, 49.0109	gōft	g ō f t	goof	g oo f	3
+368	Stra h 8	III_8_0092	Freistett, Freistett	7.93582, 48.67138	guff	g u ff	guf	g u f	1
+369	Hag K 5	III_5_0097	Hunspach, Hunspach	7.94316, 48.9536	gof	g o f	guf	g u f	1
+370	Co C4	III_14_0071	Todtnauberg, Todtnauberg	7.94335, 47.85074	gu̠fe	g u ̠ f e	gufe	g u f e	1
+371	Stra w 7	III_10_0061	Windschläg, Windschläg	7.95693, 48.5148	gūf	g ū f	guff	g u ff	2
+372	Co v 4	III_13_0151	Stegen, Stegen	7.96093, 47.98418	guf	g u f	gufe	g u f e	1
+373	Co Ya 2	III_17_0051, III_17_0053, III_17_0052, III_17_0054, III_17_0050	Obersäckingen, Säckingen	7.96171, 47.57476	guĕfe	g u ĕ f e	guve	g u v e	2
+374	Stra Z 3	III_12_0050	Schweighausen, Schweighausen	7.96799, 48.22021	guuf	g uu f	guve	g u v e	2
+375	Stra w 4	III_10_0054	Urloffen, Urloffen	7.96889, 48.557	gūf	g ū f	guve	g u v e	3
+376	Co g 11	III_12_0140	Kollnau, Kollnau	7.9721, 48.10586	gufe	g u f e	gufeͣ	g u f e ͣ	1
+377	Co Y 10	III_16_0125	Willaringen, Willaringen	7.97281, 47.60577	gulve	g u l v e	gulfe	g u l f e	1
+378	Co g 6	III_12_0128	Siegelau, Siegelau	7.97753, 48.14612	gūfe	g ū f e	gufe̊	g u f e ̊	2
+379	Stra h 3	III_8_0097	Grauelsbaum, Grauelsbaum	7.98186, 48.73575	guf	g u f	guff	g u ff	1
+380	Stra L 4	III_11_0064	Berghaupten, Berhaupten	7.98716, 48.40675	guf	g u f	gufe	g u f e	1
+381	Stra h 6	III_8_0094	Muckenschopf am Rhein, Muckenschopf	7.98806, 48.69362	guf	g u f	guff	g u ff	1
+382	Stra Z 6	III_12_0054	Oberspitzenbach, Oberspitzenbach	7.98858, 48.1762	guve	g u v e	guwe	g u w e	1
+383	Hag K 4	III_5_0098	Oberseebach, Oberseebach	7.98947, 48.9672	guf	g u f	gofe	g o f e	2
+384	Stra D 13	III_10_0121	Ohlsbach, Ohlsbach	7.99275, 48.43199	gōf	g ō f	guf	g u f	1
+385	TÜB L1	III_11_0125	Prinzbach, Prinzbach	8.0046, 48.32294	guuf	g uu f	guf	g u f	1
+386	TÜB p11	III_10_0065	Nesselried, Nesselried	8.00608, 48.52212	guff	g u ff	guf	g u f	1
+387	KST S3	III_7_0107	Runzenheim (Rountzenheim), Runzenheim	8.00708, 48.82172	guff	g u ff	guf	g u f	1
+388	TÜB D8	III_11_0070	Strohbach, Strohbach	8.01398, 48.38754	gūf	g ū f	guuf	g uu f	2
+389	TÜB D9	III_11_0065	Gengenbach, Gengenbach	8.01593, 48.40299	gūf	g ū f	gufe	g u f e	2
+390	TÜB p13	III_10_0069	Zusenhofen, Zusenhofen	8.01675, 48.54725	guf	g u f	guuf	g uu f	1
+391	TÜB w1/1, TÜB w1/2	III_10_0135	Durbach, Durbach	8.01775, 48.49407	guf	g u f	gūft	g ū f t	2
+392	TÜB h1/2, TÜB h1/1	III_9_0103	Gamshurst, Gamshurst	8.0187, 48.66413	gūf	g ū f	guf	g u f	1
+393	TÜB w6	III_10_0139	Reichenbach, Reichenbach	8.01986, 48.42981	gluf	g l u f	guf	g u f	1
+394	TÜB p15	III_10_0071	Erlach, Erlach	8.02495, 48.56914	gu̠f	g u ̠ f	gufe	g u f e	2
+395	TÜB D10	III_11_0066, III_11_0067	Schwaibach, Schwaibach	8.03268, 48.39239	güf	g ü f	guf	g u f	1
+396	KST L10	III_6_0093, III_6_0092	Forstfeld, Forstfeld	8.03702, 48.859	guff	g u ff	goff	g o ff	1
+397	KST S4	III_7_0109	Röschwoog (Roeschwoog), Röschwoog	8.04001, 48.83085	guff	g u ff	guef	g u e f	1
+398	KST D10	III_5_0125	Siegen (Weissenburg), Siegen	8.04269, 48.9581	guf	g u f	gufe	g u f e	1
+399	TUTT a1	III_12_0144	Oberwinden, Oberwinden	8.04318, 48.15444	kuve	k u v e	klufe	k l u f e	2
+400	KST D1	III_5_0123	Schleital (Schleithal), Schleithal	8.04688, 48.98799	goͦf	g o ͦ f	guf	g u f	2
+401	TUTT a4	III_12_0148, III_12_0147, III_12_0149	Simonswald, Untersimonswald	8.04838, 48.10278	gufe	g u f e	guf	g u f	1
+402	KST L8	III_6_0094	Roppenheim, Roppenheim	8.05791, 48.8465	guff	g u ff	gōff	g ō ff	1
+403	TÜB L2	III_11_0133	Unterentersbach, Unterentersbach	8.05965, 48.32962	guf	g u f	gufe	g u f e	1
+404	TÜB h5	III_9_0090	Achern, Achern	8.06363, 48.62871	gūfe	g ū f e	guf	g u f	2
+405	TÜB w7	III_10_0136	Hesselbach, Hesselbach	8.06498, 48.49863	guf	g u f	gufe	g u f e	1
+406	TÜB S4	III_12_0056	Elzach, Elzach	8.07142, 48.17331	gūfe	g ū f e	gufe	g u f e	1
+407	KST D2	III_5_0122	Salmbach (bei Weißenburg), Salmbach	8.07143, 48.97818	gufä	g u f ä	guuf	g uu f	2
+408	TÜB L6	III_11_0136	Bollenbach, Bollenbach	8.07369, 48.29315	guf	g u f	guven	g u v e n	3
+409	TÜB D1/1, TÜB D1/2	III_11_0069, III_11_0068	Nordrach, Nordrach	8.08082, 48.39898	guf	g u f	guuf	g uu f	1
+410	KST S5	III_7_0111	Neuhäusel (Neuhaeusel), Neuhäusel	8.08594, 48.82427	goff	g o ff	guf	g u f	2
+411	TÜB w2	III_10_0066, III_10_0067	Ödsbach, Oedsbach	8.08784, 48.49713	gūf	g ū f	guf	g u f	1
+412	TÜB L3	III_11_0134	Oberentersbach, Oberentersbach	8.09119, 48.32718	guf	g u f	guuf	g uu f	1
+413	TUTT h3, TUTT p1	III_13_0081, III_13_0080	St. Märgen-Schweighöfe, St. Märgen, St. Märgen	8.09239, 48.00756	guef	g u e f	gufe	g u f e	2
+414	KST D8	III_5_0114	Winzenbach (Winthenbach), Winzenbach	8.1038, 48.9341	guuf	g uu f	guf	g u f	1
+415	TÜB h11	III_9_0100	Obersasbach, Obersasbach	8.10713, 48.63223	gūf	g ū f	guufe	g uu f e	3
+416	TÜB L4	III_11_0137	Fischerbach, Fischerbach	8.11097, 48.28707	guv	g u v	gūf	g ū f	2
+417	TÜB a13	III_8_0108	Ottersweier, Ottersweier	8.11279, 48.66967	guf	g u f	kuf	k u f	1
+418	TÜB a11	III_8_0107	Bühl, Bühl	8.13592, 48.69536	guf	g u f	guuf	g uu f	1
+419	KST D7	III_5_0116	Münchhausen (Munchhausen), Münchhausen	8.14635, 48.92142	gūf	g ū f	guf	g u f	1
+420	TÜB h13	III_9_0096, III_9_0095	Neusatz , Neusatz	8.14904, 48.65879	gūf	g ū f	guf	g u f	1
+421	KST D6	III_5_0117	Motern (Mothern), Motern	8.15128, 48.93354	guf	g u f	gufe	g u f e	1
+422	TÜB a10	III_8_0100	Steinbach, Steinbach	8.16038, 48.72843	guft	g u f t	guf	g u f	1
+423	TÜB b5	III_8_0102, III_8_0101	Eisental, Eisental	8.16417, 48.71189	guv	g u v	guf	g u f	1
+424	TÜB x2	III_10_0137	Oppenau, Oppenau	8.16423, 48.47333	guf	g u f	gufe	g u f e	1
+425	TUTT M2	III_15_0113	Höchenschwand, Höchenschwand	8.16491, 47.73427	gūfe	g ū f e	gufä	g u f ä	2
+426	TÜB M5	III_11_0146, III_11_0145	Hausach und Einbach, Einbach	8.16759, 48.2974	guuf	g uu f	guf	g u f	1
+427	TÜB M6	III_11_0142, III_11_0141	Hausach, Hausach	8.17189, 48.28424	guuf	g uu f	guf	g u f	1
+428	TÜB x8	III_10_0148	Löcherberg, Löcherberg	8.17462, 48.43425	gūf	g ū f	guf	g u f	1
+429	TÜB x1	III_10_0082	Lierbach, Lierbach	8.19298, 48.52477	guͦf	g u ͦ f	guufe	g uu f e	2
+430	TUTT T3	III_16_0159	Schmitzingen, Schmitzingen	8.19315, 47.65491	gufe	g u f e	gufə	g u f ə	1
+431	TÜB x3	III_10_0141	Maisach, Maisach	8.20067, 48.47223	gūf	g ū f	guf	g u f	1
+432	TUTT x4	III_14_0079	Lenzkirch und Kappel, Lenzkirch	8.20144, 47.8687	guufe	g uu f e	guuf	g uu f	1
+433	TUTT b8	III_12_0168, III_12_0166, III_12_0167	Schönwald, Schönwald	8.20401, 48.10371	gūfe	g ū f e	guf	g u f	2
+434	TUTT i6	III_13_0091, III_13_0092	Furtwangen (und Furtwangen-Katzensteig), Furtwangen	8.20648, 48.05227	gūf	g ū f	guf	g u f	1
+435	TUTT T7	III_16_0152, III_16_0151, III_16_0153, III_16_0150	Waldshut, Waldshut	8.21445, 47.6237	gufe	g u f e	guve	g u v e	1
+436	TÜB M4	III_11_0147, III_11_0079	Oberwolfach, Oberwolfach, Oberwolfach-Walke	8.21698, 48.3174	guv	g u v	glufe	g l u f e	3
+437	TÜB M3/2, TÜB M3/1	III_11_0150	Wolfach, Wolfach	8.22076, 48.30289	kluff	k l u ff	gufe	g u f e	3
+438	TÜB x9	III_10_0142	Bad Griesbach, Bad Griesbach	8.23935, 48.45251	gūft	g ū f t	guuf	g uu f	3
+439	KST M7	III_6_0106	Bischweier, Bischweier	8.28478, 48.83768	guff	g u ff	cluf	c l u f	3
+440	TUTT c3	III_12_0156, III_12_0157	St. Georgen, St. Georgen	8.33183, 48.12564	gūf	g ū f	gluuf	g l uu f	3
+441	KST x 1	III_4_0114	Daxlanden, Daxlanden	8.33737, 49.0022	glūft	g l ū f t	gluft	g l u f t	1
+442	TUTT U3	III_38_0004	Schwerzen, Schwerzen	8.35642, 47.64323	gūfe	g ū f e	gufe	g u f e	1
+443	TUTT F6	III_36_0014	Bettmaringen, Bettmaringen	8.36102, 47.75368	guffā	g u ff ā	guffe	g u ff e	1
+444	KST y 9, KST y 10	III_21_0001	Neureut, Neureut	8.37902, 49.05267	glūfd	g l ū f d	gluf	g l u f	2
+445	KST y 11	III_20_0008, III_20_0007	Eggenstein, Eggenstein	8.39572, 49.08482	kluv	k l u v	klufe	k l u f e	2
+446	KST N13	III_23_0006	Völkersbach, Völkersbach	8.39644, 48.8701	glūft	g l ū f t	gluff	g l u ff	2
+447	KST F14/2, KST F14/1	III_22_0006, III_22_0004, III_22_0005	Ettlingen , Ettlingen, Ettlingen	8.40245, 48.94247	gluuft	g l uu f t	kluft	k l u f t	2
+448	KST F3	III_21_0003	Karlsruhe-Rüppurr, Karlsruhe-Rüppurr	8.406, 48.97394	glūf	g l ū f	glufe	g l u f e	2
+449	KST y 6	III_21_0002	Karlsruhe, Karlsruhe	8.40919, 49.01038	klufe	k l u f e	kuv	k u v	3
+450	KST y 5	III_21_0004	Rintheim, Rintheim	8.45071, 49.0099	kluf	k l u f	klufe	k l u f e	1
+451	TUTT k1	III_33_0072, III_33_0070	Vilingen, Villingen	8.45901, 48.0567	glūf	g l ū f	kluf	k l u f	2
+452	TÜB U2	III_31_0007, III_31_0005, III_31_0006	Weiler/Villingen, Tennenbronn	8.46043, 48.17227	glūf	g l ū f	guf	g u f	2
+453	KST r6	III_20_0010	Graben, Graben	8.48928, 49.16535	kluf	k l u f	glufe	g l u f e	2
+454	TUTT r8	III_34_0008, III_34_0011, III_34_0009	Donaueschingen, Donaueschingen	8.50052, 47.95113	glufe	g l u f e	kluffe	k l u ff e	2
+455	TUTT s6	III_34_0019	Donaueschingen-Allmendshofen, Donaueschingen-Allmendshofen	8.50063, 47.9405	gluefe	g l u e f e	kluwe	k l u w e	3
+456	KST s6	III_20_0162	Büchenau, Büchenau	8.52764, 49.10075	glufe	g l u f e	kluuf	k l uu f	3
+457	KST z8	III_21_0012, III_21_0011, III_21_0013, III_21_0010, III_21_0009	Weingarten, Weingarten	8.53114, 49.0533	gluf	g l u f	kluf	k l u f	1
+458	KST s8	III_20_0021, III_20_0023	Untergrombach, Untergrombach	8.55318, 49.0861	glufe	g l u f e	kluf	k l u f	2
+459	KST z 1	III_21_0016	Obergrombach, Obergrombach	8.58542, 49.07709	kluf	k l u f	klufe	k l u f e	1
+460	KST s2, KST s11	III_20_0019, III_20_0018	Bruchsal , Bruchsal (Forstamt), Bruchsal	8.60102, 49.12377	kluf	k l u f	gluve	g l u v e	3
+461	KST G8	III_22_0024, III_22_0018, III_22_0020	Königsbach, Stein, Königsbach	8.61207, 48.96515	gluf	g l u f	kluf	k l u f	1
+462	KST l3	III_19_0014	Kronau, Kronau	8.63449, 49.21954	glufe	g l u f e	klufe	k l u f e	1
+463	KST d5	III_18_0020	Walldorf, Walldorf	8.64294, 49.3028	glūf	g l ū f	kluf	k l u f	2
+464	KST l4	III_19_0018, III_19_0017, III_19_0020, III_19_0019	Mingolsheim, Mingolsheim	8.65316, 49.21986	kluf	k l u f	klufe	k l u f e	1
+465	KST P2	III_23_0032, III_23_0029, III_23_0030, III_23_0031	Brötzingen, Pforzheim-Brötzingen	8.66799, 48.889	gluve	g l u v e	gluuf	g l uu f	2
+466	KST H4	III_22_0025	Eisingen, Eisingen	8.66865, 48.94773	kluf	k l u f	gluf	g l u f	1
+467	KST A6	III_21_0023	Diedelsheim, Diedelsheim	8.67848, 49.04109	glufe	g l u f e	klufe	k l u f e	1
+468	KST m1	III_19_0022	Malsch , Malsch <Maleck>	8.68153, 49.24579	kluf	k l u f	gluf	g l u f	1
+469	KST t2	III_20_0028	Oberöwisheim, Oberöwisheim	8.6891, 49.14532	glufde	g l u f d e	glufe	g l u f e	1
+470	TUTT P6	III_37_0013, III_37_0012, III_37_0011	Büsingen, Büsingen	8.69282, 47.69702	guffe	g u ff e	gufe	g u f e	1
+471	KST m2	III_19_0023	Rettigheim, Rettigheim	8.6981, 49.24111	kluuft	k l uu f t	gluuft	g l uu f t	1
+472	KST P3/4, KST P3/3, KST P3/2	III_23_0043, III_23_0051, III_23_0039, III_23_0046, III_23_0050, III_23_0052, III_23_0054, III_23_0042, III_23_0038, III_23_0053, III_23_0045, III_23_0041, III_23_0047, III_23_0044, III_23_0048	Pforzheim, Pforzheim	8.70025, 48.89013	gluff	g l u ff	kluf	k l u f	2
+473	KST e9	III_18_0025	Rauenberg, Rauenberg	8.70096, 49.27036	gluufd	g l uu f d	gluft	g l u f t	2
+474	KST e2/1, KST e2/2	III_18_0023	Wiesloch, Wiesloch	8.70178, 49.29504	kluf	k l u f	klufe	k l u f e	1
+475	KST A5	III_21_0027, III_21_0026	Bretten, Bretten	8.70657, 49.03456	kluve	k l u v e	klufe	k l u f e	1
+476	TUTT H6	III_36_0033	Binningen, Binningen	8.72585, 47.79296	glufe	g l u f e	klufe	k l u f e	1
+477	TÜB m1	III_26_0039	Wildberg Kreis Calw, Wildberg	8.73924, 48.62251	gluv	g l u v	gluf	g l u f	1
+478	KST t6	III_20_0032	Gochsheim, Gochsheim	8.74551, 49.10407	glūfe	g l ū f e	klufe	k l u f e	2
+479	KST m9	III_19_0028	Odenheim, Odenheim	8.75076, 49.17902	glufte	g l u f t e	klufte	k l u f t e	1
+480	MH R7	II_60_0048	Gauangelloch, Gauangelloch	8.75579, 49.34078	kluw	k l u w	kluve	k l u v e	2
+481	MH R9	II_60_0046	Bammental, Bammental	8.77604, 49.35511	gluff	g l u ff	gluf	g l u f	1
+482	KST e7	III_18_0031	Horrenberg, Horrenberg	8.78051, 49.28149	kluft	k l u f t	kluf	k l u f	1
+483	TUTT H4	III_36_0040	Hilzingen, Hilzingen	8.78189, 47.7649	glufe	g l u f e	gluve	g l u v e	1
+484	KST e14	III_18_0030	Eschelbach, Eschelbach	8.78417, 49.24823	gluhfde	g l u h f d e	kluffte	k l u ff t e	3
+485	KST t8	III_20_0040	Zaisenhausen, Zaisenhausen	8.81712, 49.10745	klufe	k l u f e	glufa	g l u f a	2
+486	KST e6	III_18_0035	Zuzenhausen, Zuzenhausen	8.82176, 49.29778	glufte	g l u f t e	kluf	k l u f	3
+487	KST n1	III_19_0034	Dühren, Dühren	8.83562, 49.24557	klufta	k l u f t a	glufter	g l u f t e r	3
+488	KST f9	III_18_0045	Hoffenheim, Hoffenheim	8.8417, 49.27088	gluve	g l u v e	kluve	k l u v e	1
+489	KST u4	III_20_0041	Rohrbach (am Giesshübel), Rohrbach	8.85649, 49.14055	glufe	g l u f e	gluhfe	g l u h f e	1
+490	KST n12	III_19_0038, III_19_0039, III_19_0040	Hilsbach, Hilsbach	8.86227, 49.1957	klufte	k l u f t e	klufter	k l u f t e r	1
+491	MH K1	II_59_0085	Brombach (bei Hirschhorn), Brombach	8.8675, 49.48863	gleffarn	g l e ff a r n	gloffern	g l o ff e r n	2
+492	KST f8	III_18_0048, III_18_0047	Sinsheim, Sinsheim	8.87357, 49.25387	klufern	k l u f e r n	klufe	k l u f e	2
+493	MH S3	II_60_0054	Waldwimmersbach, Waldwimmersbach	8.89219, 49.37538	glufern	g l u f e r n	klufern	k l u f e r n	1
+494	TUTT Q4	III_37_0021	Bohlingen, Bohlingen	8.8965, 47.72199	gluffe	g l u ff e	glufe	g l u f e	1
+495	KST n2	III_19_0044	Steinsfurt, Steinsfurt	8.90861, 49.24023	glufte	g l u f t e	gluve	g l u v e	2
+496	KST u3	III_20_0050, III_20_0047, III_20_0051, III_20_0049, III_20_0048	Eppingen, Eppingen	8.9098, 49.13704	glufe	g l u f e	kluve	k l u v e	2
+497	TUTT Q7	III_37_0025	Bankholzen, Bankholzen	8.92989, 47.7082	gluffe	g l u ff e	glüfä	g l ü f ä	3
+498	TUTT f1	III_32_0032	Hartheim, Hartheim	8.93612, 48.15571	klūf	k l ū f	gluefe	g l u e f e	4
+499	KST n8	III_19_0047	Richen, Richen	8.94083, 49.17134	klufe	k l u f e	kluvä	k l u v ä	2
+500	TUTT B9	III_35_0049	Homberg Münchhof, Münchhöf	8.95295, 47.88032	gluff	g l u ff	kluf	k l u f	2
+501	KST f7	III_18_0052	Adersbach, Adersbach	8.95454, 49.2632	gluhve	g l u h v e	klufe	k l u f e	3
+502	TUTT f2	III_32_0038	Heinstetten, Heinstetten	8.96312, 48.13491	glufa	g l u f a	gluv	g l u v	2
+503	MH S10	II_60_0061	Michelbach, Michelbach	8.96532, 49.37259	gluffern	g l u ff e r n	gluffer	g l u ff e r	1
+504	MH S12	II_60_0063	Schwanheim, Schwanheim	8.97596, 49.40194	kluffern	k l u ff e r n	kluffer	k l u ff e r	1
+505	KST n7	III_19_0048	Berwangen, Berwangen	8.98098, 49.18431	klufe	k l u f e	gluve	g l u v e	2
+506	MH S9	II_60_0064	Unterschwarzach, Unterschwarzach	8.98202, 49.36856	glūfern	g l ū f e r n	glufern	g l u f e r n	1
+507	KST n4	III_19_0051	Ehrstädt, Ehrstädt	8.98266, 49.24404	kluva	k l u v a	kluve	k l u v e	1
+508	KST u1	III_20_0053, III_20_0056, III_20_0054, III_20_0055	Gemmingen, Gemmingen	8.98358, 49.15633	glufa	g l u f a	glufe	g l u f e	1
+509	MH K3	II_59_0092	Eberbach, Eberbach	8.98755, 49.46322	kluffern	k l u ff e r n	gluffern	g l u ff e r n	1
+510	TUTT Q9	III_37_0027	Horn, Horn	8.99438, 47.69562	glufä̆	g l u f ä ̆	chlufä̆	ch l u f ä ̆	2
+511	MH K4	II_59_0095	Rockenau, Rockenau	8.99904, 49.44673	gluffarn	g l u ff a r n	kluwer	k l u w e r	5
+512	TUTT R3	III_37_0030	Markelfingen, Markelfingen	9.00452, 47.74143	gluf	g l u f	gluffa	g l u ff a	2
+513	TUTT K5	III_36_0053	Espasingen, Espasingen	9.01058, 47.82135	kluff	k l u ff	gluff	g l u ff	1
+514	TUTT C6	III_35_0056	Stockach, Stockach	9.01468, 47.85384	gluf	g l u f	glūv	g l ū v	2
+515	KST g8	III_18_0058	Wollenberg, Wollenberg	9.03453, 49.29152	glufe	g l u f e	klufe	k l u f e	1
+516	TUTT R4	III_37_0033	Allensbach, Allensbach	9.06699, 47.71535	glûf	g l û f	klufe	k l u f e	3
+517	MH T4	II_60_0073	Guttenbach, Guttenbach	9.07142, 49.38983	kluffern	k l u ff e r n	kluvve	k l u vv e	4
+518	KST g3	III_18_0062	Hüffenhardt, Hüffenhardt	9.08386, 49.2913	glufe	g l u f e	klufe	k l u f e	1
+519	MH T11	II_60_0079	Diedesheim, Diedesheim	9.11367, 49.34933	klufte	k l u f t e	klufe	k l u f e	1
+520	TUTT v10	III_34_0058, III_34_0057	Messkirch, Messkirch	9.11537, 47.99484	glūf	g l ū f	kluf	k l u f	2
+521	KST g13	III_18_0068	Neckarmühlbach, Neckarmühlbach	9.13604, 49.28364	kluve	k l u v e	klufe	k l u f e	1
+522	TUTT K9	III_36_0071	Überlingen, Überlingen	9.1592, 47.76732	gluf	g l u f	gluff	g l u ff	1
+523	SIG n16	III_36_0075	Nußdorf, Nußdorf	9.19513, 47.75277	glufa	g l u f a	gluf	g l u f	1
+524	SIG g2/1	III_34_0065, III_34_0063	Pfullendorf, Pfullendorf	9.25466, 47.92614	gluf	g l u f	glufe	g l u f e	1
+525	MH Y3	III_18_0075	Herbolzheim, Herbolzheim	9.26007, 49.28376	glufä	g l u f ä	glufe	g l u f e	1
+526	SIG n7	III_36_0078	Frickingen, Frickingen	9.27056, 47.81023	gluve	g l u v e	gluf	g l u f	2
+527	SIG q8/1	III_37_0047	Meersburg, Meersburg	9.27244, 47.69466	gluf	g l u f	gluff	g l u ff	1
+528	SIG q4	III_37_0043	Buggensegel, Buggensegel	9.29936, 47.74645	glufe	g l u f e	gluf	g l u f	1
+529	SIG r1	III_36_0092	Mittelstenweiler, Mittelstenweiler	9.33753, 47.75241	gluff	g l u ff	gluf	g l u f	1
+530	STU u1	III_26_0090	Nürtingen, Nürtingen	9.34192, 48.62663	gluf	g l u f	kluf	k l u f	1
+531	STU u2	III_26_0084	Bissingen/Teck, Bissingen-Teck	9.49128, 48.60024	glūf	g l ū f	klufe	k l u f e	3
+532	Co D3	III_14_0080	Rimbach-Pès-Masevaux), Rimbach	6.9473, 47.82212	gof	g o f	gufe	g u f e	2
+533	Co D3	III_14_0080	Rimbach-Pès-Masevaux), Rimbach	6.9473, 47.82212	guf	g u f	gufe	g u f e	1
+534	Co i 1/1, Co i 1/2	III_13_0065	Münster (Munster), Münster	7.13185, 48.0418	gūf	g ū f	guf	g u f	1
+535	Co M8	III_15_0011, III_15_0010	Gildweiler (Gildwiller), Falkweiler, Hecken, Falkweiler, Gildweiler	7.13461, 47.6894	gufa	g u f a	guve	g u v e	2
+536	Stra V 1, Stra U 1/1, Stra U 1/2	III_12_0002	Markich (Sainte-Marie-Aux-Marines), Markirch	7.17972, 48.24483	guff	g u ff	guf	g u f	1
+537	Stra V 1, Stra U 1/1, Stra U 1/2	III_12_0002	Markich (Sainte-Marie-Aux-Marines), Markirch	7.17972, 48.24483	gōf	g ō f	guf	g u f	1
+538	Stra V 1, Stra U 1/1, Stra U 1/2	III_12_0002	Markich (Sainte-Marie-Aux-Marines), Markirch	7.17972, 48.24483	gouf	g o u f	guf	g u f	1
+539	Co y 13, Co y 13, 14, Co y 5, Co y 14	III_14_0027	Gebweiler (Guebwiller), Gebweiler (Guebwiller) , Gebweiler	7.21078, 47.9095	guhfa	g u h f a	gufa	g u f a	1
+540	Co y 13, Co y 13, 14, Co y 5, Co y 14	III_14_0027	Gebweiler (Guebwiller), Gebweiler (Guebwiller) , Gebweiler	7.21078, 47.9095	guufa	g uu f a	gufa	g u f a	1
+541	Co y 13, Co y 13, 14, Co y 5, Co y 14	III_14_0027	Gebweiler (Guebwiller), Gebweiler (Guebwiller) , Gebweiler	7.21078, 47.9095	gūf	g ū f	gufa	g u f a	2
+542	Co y 13, Co y 13, 14, Co y 5, Co y 14	III_14_0027	Gebweiler (Guebwiller), Gebweiler (Guebwiller) , Gebweiler	7.21078, 47.9095	gūfa	g ū f a	gufa	g u f a	1
+543	Co y 3	III_14_0022	Sulz (Soultz-Haut-Rhin), Sulz	7.22862, 47.88613	guffă	g u ff ă	gūf	g ū f	3
+544	Co y 3	III_14_0022	Sulz (Soultz-Haut-Rhin), Sulz	7.22862, 47.88613	guffă	g u ff ă	gūfa	g ū f a	3
+545	Co y 3	III_14_0022	Sulz (Soultz-Haut-Rhin), Sulz	7.22862, 47.88613	guf	g u f	gūf	g ū f	1
+546	Co y 3	III_14_0022	Sulz (Soultz-Haut-Rhin), Sulz	7.22862, 47.88613	guf	g u f	gūfa	g ū f a	2
+547	Co U 7/1, Co U 7/2	III_16_0029	Altkirch, Altkirch	7.24009, 47.62592	gufa	g u f a	gufe	g u f e	1
+548	Co U 7/1, Co U 7/2	III_16_0029	Altkirch, Altkirch	7.24009, 47.62592	gūfa	g ū f a	gufe	g u f e	2
+549	Co N8/1, Co N8/2	III_15_0015	Illfurt (Illfurth), Illfurt	7.26494, 47.67073	gufe	g u f e	gufa	g u f a	1
+550	Co N8/1, Co N8/2	III_15_0015	Illfurt (Illfurth), Illfurt	7.26494, 47.67073	gūfa	g ū f a	gufa	g u f a	1
+551	Co N10	III_15_0026, III_15_0025	Frönigen, Fröningen	7.26801, 47.69023	gūfeͣ	g ū f e ͣ	gufa	g u f a	3
+552	Co N10	III_15_0026, III_15_0025	Frönigen, Fröningen	7.26801, 47.69023	gūfeͣ	g ū f e ͣ	gufe	g u f e	2
+553	Co y 15	III_14_0026, III_14_0025	Feldkirch, Feldkirch	7.27197, 47.86504	gufa	g u f a	gofa	g o f a	1
+554	Co y 15	III_14_0026, III_14_0025	Feldkirch, Feldkirch	7.27197, 47.86504	gufa	g u f a	goffa	g o ff a	2
+555	Stra O 5, Stra U 2	III_11_0082	klein Leberau (Lièpvre), Leberau (Lièpvre), Leberau	7.28169, 48.2709	guff	g u ff	guffe	g u ff e	1
+556	Stra O 5, Stra U 2	III_11_0082	klein Leberau (Lièpvre), Leberau (Lièpvre), Leberau	7.28169, 48.2709	gūf	g ū f	guffe	g u ff e	3
+557	Co U 2	III_16_0023, III_16_0024	Lümschweiler (Luemschwiller) und Tagolsheim, Tagolsheim, Lümschweiler	7.28747, 47.65547	gūfa	g ū f a	gufa	g u f a	1
+558	Co U 2	III_16_0023, III_16_0024	Lümschweiler (Luemschwiller) und Tagolsheim, Tagolsheim, Lümschweiler	7.28747, 47.65547	gūfa	g ū f a	gufe	g u f e	2
+559	Co r 10/2, Co r 10/1	III_13_0111	Pfaffenheim, Pfaffenheim	7.2903, 47.98827	gūf	g ū f	guf	g u f	1
+560	Stra V 2, Stra V 3	III_12_0003	Glashütte, Tannenkirch (Thannenkirch), Tannenkirch	7.30397, 48.22949	guf	g u f	guff	g u ff	1
+561	Stra s 1/1, Stra s 1/2	III_10_0001	Oberhaslach, Oberhaslach	7.33046, 48.5499	guff	g u ff	gōff	g ō ff	1
+562	Stra s 1/1, Stra s 1/2	III_10_0001	Oberhaslach, Oberhaslach	7.33046, 48.5499	gůff	g ů ff	gōff	g ō ff	1
+563	Co F7/1, Co F7/2	III_14_0107, III_14_0108, III_14_0119, III_14_0115, III_14_0111, III_14_0112, III_14_0116, III_14_0113, III_14_0118, III_14_0120, III_14_0117, III_14_0114, III_14_0109, III_14_0110	Mülhausen, Mülhausen	7.34375, 47.7517	gufa	g u f a	guva	g u v a	1
+564	Co F7/1, Co F7/2	III_14_0107, III_14_0108, III_14_0119, III_14_0115, III_14_0111, III_14_0112, III_14_0116, III_14_0113, III_14_0118, III_14_0120, III_14_0117, III_14_0114, III_14_0109, III_14_0110	Mülhausen, Mülhausen	7.34375, 47.7517	gufa	g u f a	gufă	g u f ă	1
+565	Co F7/1, Co F7/2	III_14_0107, III_14_0108, III_14_0119, III_14_0115, III_14_0111, III_14_0112, III_14_0116, III_14_0113, III_14_0118, III_14_0120, III_14_0117, III_14_0114, III_14_0109, III_14_0110	Mülhausen, Mülhausen	7.34375, 47.7517	gufa	g u f a	guufe	g uu f e	2
+566	Co F7/1, Co F7/2	III_14_0107, III_14_0108, III_14_0119, III_14_0115, III_14_0111, III_14_0112, III_14_0116, III_14_0113, III_14_0118, III_14_0120, III_14_0117, III_14_0114, III_14_0109, III_14_0110	Mülhausen, Mülhausen	7.34375, 47.7517	gufa	g u f a	gufe	g u f e	1
+567	Co F7/1, Co F7/2	III_14_0107, III_14_0108, III_14_0119, III_14_0115, III_14_0111, III_14_0112, III_14_0116, III_14_0113, III_14_0118, III_14_0120, III_14_0117, III_14_0114, III_14_0109, III_14_0110	Mülhausen, Mülhausen	7.34375, 47.7517	goffa	g o ff a	guva	g u v a	3
+568	Co F7/1, Co F7/2	III_14_0107, III_14_0108, III_14_0119, III_14_0115, III_14_0111, III_14_0112, III_14_0116, III_14_0113, III_14_0118, III_14_0120, III_14_0117, III_14_0114, III_14_0109, III_14_0110	Mülhausen, Mülhausen	7.34375, 47.7517	goffa	g o ff a	gufă	g u f ă	3
+569	Co F7/1, Co F7/2	III_14_0107, III_14_0108, III_14_0119, III_14_0115, III_14_0111, III_14_0112, III_14_0116, III_14_0113, III_14_0118, III_14_0120, III_14_0117, III_14_0114, III_14_0109, III_14_0110	Mülhausen, Mülhausen	7.34375, 47.7517	goffa	g o ff a	gufa	g u f a	2
+570	Co F7/1, Co F7/2	III_14_0107, III_14_0108, III_14_0119, III_14_0115, III_14_0111, III_14_0112, III_14_0116, III_14_0113, III_14_0118, III_14_0120, III_14_0117, III_14_0114, III_14_0109, III_14_0110	Mülhausen, Mülhausen	7.34375, 47.7517	goffa	g o ff a	guufe	g uu f e	3
+571	Co F7/1, Co F7/2	III_14_0107, III_14_0108, III_14_0119, III_14_0115, III_14_0111, III_14_0112, III_14_0116, III_14_0113, III_14_0118, III_14_0120, III_14_0117, III_14_0114, III_14_0109, III_14_0110	Mülhausen, Mülhausen	7.34375, 47.7517	goffa	g o ff a	gufe	g u f e	3
+572	Co G4, Co G7	III_14_0122	Napoleonsinsel (Ile Napoléon), Illzach, Illzach, Illzach	7.34839, 47.78217	gofa	g o f a	gufa	g u f a	1
+573	Co G4, Co G7	III_14_0122	Napoleonsinsel (Ile Napoléon), Illzach, Illzach, Illzach	7.34839, 47.78217	gūfa	g ū f a	gufa	g u f a	1
+574	Co G8/1, Co G8/2	III_14_0129	Modenheim, Modenheim	7.35997, 47.76894	guffe	g u ff e	gufe	g u f e	1
+575	Co G8/1, Co G8/2	III_14_0129	Modenheim, Modenheim	7.35997, 47.76894	gufa	g u f a	gufe	g u f e	1
+576	Co l 1/3, Co l 1/4, Co l 1/5, Co l 1/6	III_13_0030	Kolmar, Kolmar	7.36359, 48.08198	guf	g u f	gufa	g u f a	1
+577	Co l 1/3, Co l 1/4, Co l 1/5, Co l 1/6	III_13_0030	Kolmar, Kolmar	7.36359, 48.08198	goff	g o ff	gufa	g u f a	2
+578	Co l 1/3, Co l 1/4, Co l 1/5, Co l 1/6	III_13_0030	Kolmar, Kolmar	7.36359, 48.08198	gūf	g ū f	gufa	g u f a	2
+579	Co l 1/3, Co l 1/4, Co l 1/5, Co l 1/6	III_13_0030	Kolmar, Kolmar	7.36359, 48.08198	goͧ̄f	g o ͧ ̄ f	gufa	g u f a	4
+580	Stra e 2/3, Stra e 2/1, Stra e 2/2	III_8_0030	Zabern, Zabern	7.36605, 48.73948	gōff	g ō ff	guff	g u ff	1
+581	Co s 3, Co s 6	III_13_0116	Oberenzen, Oberenzen (Oberentzen), Oberenzen	7.37872, 47.94354	kuf	k u f	guf	g u f	1
+582	Stra W 1, Stra W 2	III_12_0009, III_12_0008	St. Pilt (saint-Hyppolyte), Orschweiler (Orschwiller), St. Pilt, Orschweiler	7.38445, 48.24184	gůff	g ů ff	guff	g u ff	1
+583	Stra W 1, Stra W 2	III_12_0009, III_12_0008	St. Pilt (saint-Hyppolyte), Orschweiler (Orschwiller), St. Pilt, Orschweiler	7.38445, 48.24184	gůff	g ů ff	goof	g oo f	2
+584	Stra W 1, Stra W 2	III_12_0009, III_12_0008	St. Pilt (saint-Hyppolyte), Orschweiler (Orschwiller), St. Pilt, Orschweiler	7.38445, 48.24184	go̊ff	g o ̊ ff	guff	g u ff	2
+585	Stra W 1, Stra W 2	III_12_0009, III_12_0008	St. Pilt (saint-Hyppolyte), Orschweiler (Orschwiller), St. Pilt, Orschweiler	7.38445, 48.24184	go̊ff	g o ̊ ff	goof	g oo f	2
+586	Co Vd 2/2, Co Vd 2/1	III_17_0072	Oltingen (Oltingue), Oltingen	7.39411, 47.48862	gůfe	g ů f e	gufa	g u f a	2
+587	Co Vd 2/2, Co Vd 2/1	III_17_0072	Oltingen (Oltingue), Oltingen	7.39411, 47.48862	gufe	g u f e	gufa	g u f a	1
+588	Co O1/2, Co O1/1	III_15_0031, III_15_0032	Rixheim, Napoleoninsel Rixheim, Rixheim	7.39739, 47.74412	gūfe	g ū f e	gufa	g u f a	2
+589	Co O1/2, Co O1/1	III_15_0031, III_15_0032	Rixheim, Napoleoninsel Rixheim, Rixheim	7.39739, 47.74412	gūfa	g ū f a	gufa	g u f a	1
+590	Stra A 5, Stra H 6	III_11_0019	Bernhardsweiler (Bernardvillé), Bernhardsweiler	7.40011, 48.36706	guffe	g u ff e	guff	g u ff	1
+591	Stra A 5, Stra H 6	III_11_0019	Bernhardsweiler (Bernardvillé), Bernhardsweiler	7.40011, 48.36706	gōff	g ō ff	guff	g u ff	1
+592	Stra t 5	III_10_0015, III_10_0016	Dinsheim (Dinsheim-Sur-Bruche), Dinsheim	7.4273, 48.54254	guf	g u f	guff	g u ff	1
+593	Stra t 1	III_10_0005	Balbronn, Balbronn	7.43736, 48.58406	guff	g u ff	gouff	g o u ff	1
+594	Hag O 6	III_6_0047, III_6_0046	Weinburg (Weinbourg), Weinburg	7.44029, 48.87157	gůff	g ů ff	guff	g u ff	1
+595	Hag O 6	III_6_0047, III_6_0046	Weinburg (Weinbourg), Weinburg	7.44029, 48.87157	gůff	g ů ff	gūff	g ū ff	1
+596	Co Va 4/2, Co Va 4/1	III_17_0019	Volkensberg (Folgensbourg), Volkensberg	7.4473, 47.55147	gufa	g u f a	guven	g u v e n	3
+597	Co Va 4/2, Co Va 4/1	III_17_0019	Volkensberg (Folgensbourg), Volkensberg	7.4473, 47.55147	gūva	g ū v a	guven	g u v e n	3
+598	Stra H 2/1, Stra H 2/2, Stra H 2/3	III_11_0013	Barr, Barr	7.45244, 48.40651	guff	g u ff	go̊ff	g o ̊ ff	2
+599	Stra H 2/1, Stra H 2/2, Stra H 2/3	III_11_0013	Barr, Barr	7.45244, 48.40651	guffä	g u ff ä	go̊ff	g o ̊ ff	3
+600	Co V 13/2, Co V 13/1	III_16_0047	Niedermichelbach (Michelbach-le-Bas), Niedermichelbach	7.46442, 47.59288	gūfe	g ū f e	gufe	g u f e	1
+601	Stra H 11/2, Stra H 11/1	III_11_0022, III_11_0023	Epfig, Epfig	7.4655, 48.35803	guff	g u ff	go̊f	g o ̊ f	2
+602	Stra H 11/2, Stra H 11/1	III_11_0022, III_11_0023	Epfig, Epfig	7.4655, 48.35803	gõff	g õ ff	guff	g u ff	1
+603	Stra H 11/2, Stra H 11/1	III_11_0022, III_11_0023	Epfig, Epfig	7.4655, 48.35803	gõff	g õ ff	go̊f	g o ̊ f	2
+604	Stra A 1/3, Stra A 1/2, Stra A 1/1	III_10_0087	Rosheim, Rosheim	7.46905, 48.49622	guff	g u ff	gof	g o f	2
+605	Stra A 1/3, Stra A 1/2, Stra A 1/1	III_10_0087	Rosheim, Rosheim	7.46905, 48.49622	goff	g o ff	gof	g o f	1
+606	Co W 15/1, Co W 15, 14, Co W 15/2	III_16_0039, III_16_0062, III_16_0040	Boltzheim (Blotzheim), Blotzheim	7.49611, 47.60128	gufa	g u f a	gufe	g u f e	1
+607	Co W 15/1, Co W 15, 14, Co W 15/2	III_16_0039, III_16_0062, III_16_0040	Boltzheim (Blotzheim), Blotzheim	7.49611, 47.60128	gūve	g ū v e	gufa	g u f a	3
+608	Co W 15/1, Co W 15, 14, Co W 15/2	III_16_0039, III_16_0062, III_16_0040	Boltzheim (Blotzheim), Blotzheim	7.49611, 47.60128	gūve	g ū v e	gufe	g u f e	2
+609	Co W 15/1, Co W 15, 14, Co W 15/2	III_16_0039, III_16_0062, III_16_0040	Boltzheim (Blotzheim), Blotzheim	7.49611, 47.60128	guffa	g u ff a	gufa	g u f a	1
+610	Co W 15/1, Co W 15, 14, Co W 15/2	III_16_0039, III_16_0062, III_16_0040	Boltzheim (Blotzheim), Blotzheim	7.49611, 47.60128	guffa	g u ff a	gufe	g u f e	2
+611	Stra u 6/2, Stra u 6/1	III_10_0025	Ergersheim (wohnt seit 41 in Breitenau), Ergersheim, Ergersheim	7.52806, 48.56941	gůff	g ů ff	guff	g u ff	1
+612	Co Wa 4	III_16_0065, III_16_0063, III_16_0064	Sankt Ludwig (Saint-Louis) , Sankt Ludwig	7.56351, 47.58575	gufa	g u f a	gufe	g u f e	1
+613	Co W 3, Co W 2	III_16_0068	Kirchen (Efringen-Kirchen), Efringen (Efringen-Kirchen), Efringen	7.56471, 47.64989	guofe	g u o f e	gufe	g u f e	1
+614	Co W 3, Co W 2	III_16_0068	Kirchen (Efringen-Kirchen), Efringen (Efringen-Kirchen), Efringen	7.56471, 47.64989	guufe	g uu f e	gufe	g u f e	1
+615	Stra J 4/3, Stra J 4/2, Stra J 4/1	III_11_0033	Benfeld, Benfeld	7.59385, 48.37263	gůff	g ů ff	guff	g u ff	1
+616	Stra Q 4	III_11_0101	Bindernheim, Bindernheim	7.60713, 48.28366	goff	g o ff	guff	g u ff	1
+617	Co W 22	III_16_0089, III_16_0090	Haltingen, Haltingen	7.61378, 47.61384	guffe	g u ff e	gůfe	g ů f e	2
+618	Co W 22	III_16_0089, III_16_0090	Haltingen, Haltingen	7.61378, 47.61384	guffe	g u ff e	gufe	g u f e	1
+619	Co W 10	III_16_0072, III_16_0073	Binzen, Binzen, Märkt	7.62403, 47.63133	gofa	g o f a	gufa	g u f a	1
+620	Co W 10	III_16_0072, III_16_0073	Binzen, Binzen, Märkt	7.62403, 47.63133	gofa	g o f a	gufe	g u f e	2
+621	Co W 19 , Co W 20	III_16_0079, III_16_0081, III_16_0080, III_16_0082, III_16_0083	Lörrach, Lörrach , Lörrach, Lörrach <Adolf Hitler Schule>	7.66409, 47.61258	gufä	g u f ä	gufe  	g u f e  	3
+622	Co W 19 , Co W 20	III_16_0079, III_16_0081, III_16_0080, III_16_0082, III_16_0083	Lörrach, Lörrach , Lörrach, Lörrach <Adolf Hitler Schule>	7.66409, 47.61258	gufä	g u f ä	guufě	g uu f ě	2
+623	Co W 19 , Co W 20	III_16_0079, III_16_0081, III_16_0080, III_16_0082, III_16_0083	Lörrach, Lörrach , Lörrach, Lörrach <Adolf Hitler Schule>	7.66409, 47.61258	gufä	g u f ä	guufä	g uu f ä	1
+624	Co W 19 , Co W 20	III_16_0079, III_16_0081, III_16_0080, III_16_0082, III_16_0083	Lörrach, Lörrach , Lörrach, Lörrach <Adolf Hitler Schule>	7.66409, 47.61258	gufä	g u f ä	gufe	g u f e	1
+625	Co W 19 , Co W 20	III_16_0079, III_16_0081, III_16_0080, III_16_0082, III_16_0083	Lörrach, Lörrach , Lörrach, Lörrach <Adolf Hitler Schule>	7.66409, 47.61258	gufe	g u f e	gufe  	g u f e  	2
+626	Co W 19 , Co W 20	III_16_0079, III_16_0081, III_16_0080, III_16_0082, III_16_0083	Lörrach, Lörrach , Lörrach, Lörrach <Adolf Hitler Schule>	7.66409, 47.61258	gufe	g u f e	guufě	g uu f ě	2
+627	Co W 19 , Co W 20	III_16_0079, III_16_0081, III_16_0080, III_16_0082, III_16_0083	Lörrach, Lörrach , Lörrach, Lörrach <Adolf Hitler Schule>	7.66409, 47.61258	gufe	g u f e	guufä	g uu f ä	2
+628	Co Xa 5	III_17_0039, III_17_0040, III_17_0038	Wyhlen, Wyhlen	7.69103, 47.54989	guufa	g uu f a	guufe	g uu f e	1
+629	Co Xa 5	III_17_0039, III_17_0040, III_17_0038	Wyhlen, Wyhlen	7.69103, 47.54989	guufa	g uu f a	gufe	g u f e	2
+630	Hag J 9	III_5_0084	Oberdorf-Spachbach, Oberdorf-Spachbach	7.75696, 48.92512	guff	g u ff	goff	g o ff	1
+631	Co Q9	III_15_0064	Weitenau, Weitenau	7.76525, 47.67775	gufe	g u f e	gluve	g l u v e	2
+632	Co Q9	III_15_0064	Weitenau, Weitenau	7.76525, 47.67775	gufe	g u f e	guve	g u v e	1
+633	Co X 11	III_16_0107, III_16_0108	Wiechs, Wiechs	7.81236, 47.63655	guufa	g uu f a	guufe	g uu f e	1
+634	Co X 11	III_16_0107, III_16_0108	Wiechs, Wiechs	7.81236, 47.63655	guufa	g uu f a	gufe	g u f e	2
+635	Stra w 10	III_10_0056	Eckartsweier, Eckartsweier	7.85175, 48.52985	gūff	g ū ff	guff	g u ff	1
+636	Stra w 10	III_10_0056	Eckartsweier, Eckartsweier	7.85175, 48.52985	gūff	g ū ff	kuf	k u f	3
+637	Stra w 9/2, Stra w 9/1	III_10_0058	Hesselhurst, Hesselhurst	7.88114, 48.52042	goͧff	g o ͧ ff	guff	g u ff	2
+638	Hag Y 3	III_7_0097, III_7_0096	Schirrhein, Schirrhein	7.90562, 48.80154	goff	g o ff	guff	g u ff	1
+639	Co Ya 2	III_17_0051, III_17_0053, III_17_0052, III_17_0054, III_17_0050	Obersäckingen, Säckingen	7.96171, 47.57476	guĕfe	g u ĕ f e	gufa	g u f a	2
+640	Co Ya 2	III_17_0051, III_17_0053, III_17_0052, III_17_0054, III_17_0050	Obersäckingen, Säckingen	7.96171, 47.57476	guĕfe	g u ĕ f e	gufe	g u f e	1
+641	Co Ya 2	III_17_0051, III_17_0053, III_17_0052, III_17_0054, III_17_0050	Obersäckingen, Säckingen	7.96171, 47.57476	guĕfe	g u ĕ f e	guve 	g u v e 	3
+642	Co Ya 2	III_17_0051, III_17_0053, III_17_0052, III_17_0054, III_17_0050	Obersäckingen, Säckingen	7.96171, 47.57476	guĕfe	g u ĕ f e	guve	g u v e	2
+643	TÜB D7	III_11_0071	Fußbach, Fußbach	8.01836, 48.36476	guf	g u f	guuf	g uu f	1
+644	KST L10	III_6_0093, III_6_0092	Forstfeld, Forstfeld	8.03702, 48.859	guff	g u ff	goff	g o ff	1
+645	TUTT a4	III_12_0148, III_12_0147, III_12_0149	Simonswald, Untersimonswald	8.04838, 48.10278	gufe	g u f e	guufe	g uu f e	1
+646	TUTT a4	III_12_0148, III_12_0147, III_12_0149	Simonswald, Untersimonswald	8.04838, 48.10278	gufe	g u f e	guf	g u f	1
+647	TÜB D4/2, TÜB D4/1	III_11_0075, III_11_0073, III_11_0074	Unterharmersbach, Zell am Harmersbach, Unterharmersbach	8.08843, 48.35461	guf	g u f	gufe	g u f e	1
+648	TUTT h3, TUTT p1	III_13_0081, III_13_0080	St. Märgen-Schweighöfe, St. Märgen, St. Märgen	8.09239, 48.00756	guf	g u f	gufe	g u f e	1
+649	TUTT h3, TUTT p1	III_13_0081, III_13_0080	St. Märgen-Schweighöfe, St. Märgen, St. Märgen	8.09239, 48.00756	guef	g u e f	gufe	g u f e	2
+650	TÜB D2/2, TÜB D3, TÜB D2/1, TÜB E1	III_11_0077, III_11_0076	Oberharmersbach, Oberharmersbach	8.12723, 48.37386	gūfe	g ū f e	guuf	g uu f	3
+651	TÜB D2/2, TÜB D3, TÜB D2/1, TÜB E1	III_11_0077, III_11_0076	Oberharmersbach, Oberharmersbach	8.12723, 48.37386	gūfe	g ū f e	guf	g u f	2
+652	TÜB D2/2, TÜB D3, TÜB D2/1, TÜB E1	III_11_0077, III_11_0076	Oberharmersbach, Oberharmersbach	8.12723, 48.37386	gufe	g u f e	guuf	g uu f	2
+653	TÜB D2/2, TÜB D3, TÜB D2/1, TÜB E1	III_11_0077, III_11_0076	Oberharmersbach, Oberharmersbach	8.12723, 48.37386	gufe	g u f e	guf	g u f	1
+654	TÜB D2/2, TÜB D3, TÜB D2/1, TÜB E1	III_11_0077, III_11_0076	Oberharmersbach, Oberharmersbach	8.12723, 48.37386	gūf	g ū f	guuf	g uu f	2
+655	TÜB D2/2, TÜB D3, TÜB D2/1, TÜB E1	III_11_0077, III_11_0076	Oberharmersbach, Oberharmersbach	8.12723, 48.37386	gūf	g ū f	guf	g u f	1
+656	TÜB D2/2, TÜB D3, TÜB D2/1, TÜB E1	III_11_0077, III_11_0076	Oberharmersbach, Oberharmersbach	8.12723, 48.37386	guf	g u f	guuf	g uu f	1
+657	TUTT b8	III_12_0168, III_12_0166, III_12_0167	Schönwald, Schönwald	8.20401, 48.10371	gūfe	g ū f e	gūf	g ū f	1
+658	TUTT b8	III_12_0168, III_12_0166, III_12_0167	Schönwald, Schönwald	8.20401, 48.10371	gūfe	g ū f e	guf	g u f	2
+659	TUTT i6	III_13_0091, III_13_0092	Furtwangen (und Furtwangen-Katzensteig), Furtwangen	8.20648, 48.05227	gūf	g ū f	guf	g u f	1
+660	TUTT T7	III_16_0152, III_16_0151, III_16_0153, III_16_0150	Waldshut, Waldshut	8.21445, 47.6237	gufe	g u f e	guve	g u v e	1
+661	TÜB M4	III_11_0147, III_11_0079	Oberwolfach, Oberwolfach, Oberwolfach-Walke	8.21698, 48.3174	guv	g u v	guven	g u v e n	2
+662	TÜB M4	III_11_0147, III_11_0079	Oberwolfach, Oberwolfach, Oberwolfach-Walke	8.21698, 48.3174	guv	g u v	glufe	g l u f e	3
+663	TÜB M3/2, TÜB M3/1	III_11_0150	Wolfach, Wolfach	8.22076, 48.30289	gufe	g u f e	guufe	g uu f e	1
+664	TÜB M3/2, TÜB M3/1	III_11_0150	Wolfach, Wolfach	8.22076, 48.30289	kluff	k l u ff	guufe	g uu f e	3
+665	TÜB M3/2, TÜB M3/1	III_11_0150	Wolfach, Wolfach	8.22076, 48.30289	kluff	k l u ff	gufe	g u f e	3
+666	KST M7	III_6_0106	Bischweier, Bischweier	8.28478, 48.83768	guff	g u ff	guf	g u f	1
+667	KST M7	III_6_0106	Bischweier, Bischweier	8.28478, 48.83768	guff	g u ff	cluf	c l u f	3
+668	TUTT c3	III_12_0156, III_12_0157	St. Georgen, St. Georgen	8.33183, 48.12564	gūf	g ū f	guuf	g uu f	2
+669	TUTT c3	III_12_0156, III_12_0157	St. Georgen, St. Georgen	8.33183, 48.12564	gūf	g ū f	guve	g u v e	3
+670	TUTT c3	III_12_0156, III_12_0157	St. Georgen, St. Georgen	8.33183, 48.12564	gūf	g ū f	gluuf	g l uu f	3
+671	KST y 9, KST y 10	III_21_0001	Neureut, Neureut	8.37902, 49.05267	gluft	g l u f t	gluf	g l u f	1
+672	KST y 9, KST y 10	III_21_0001	Neureut, Neureut	8.37902, 49.05267	glūfd	g l ū f d	gluf	g l u f	2
+673	KST y 11	III_20_0008, III_20_0007	Eggenstein, Eggenstein	8.39572, 49.08482	kluv	k l u v	gluf	g l u f	2
+674	KST y 11	III_20_0008, III_20_0007	Eggenstein, Eggenstein	8.39572, 49.08482	kluv	k l u v	klufe	k l u f e	2
+675	KST F14/2, KST F14/1	III_22_0006, III_22_0004, III_22_0005	Ettlingen , Ettlingen, Ettlingen	8.40245, 48.94247	gluft	g l u f t	gluuft	g l uu f t	1
+676	KST F14/2, KST F14/1	III_22_0006, III_22_0004, III_22_0005	Ettlingen , Ettlingen, Ettlingen	8.40245, 48.94247	gluft	g l u f t	kluft	k l u f t	1
+677	KST F14/2, KST F14/1	III_22_0006, III_22_0004, III_22_0005	Ettlingen , Ettlingen, Ettlingen	8.40245, 48.94247	gluuft	g l uu f t	kluft	k l u f t	2
+678	KST y 6	III_21_0002	Karlsruhe, Karlsruhe	8.40919, 49.01038	klufe	k l u f e	kluv	k l u v	2
+679	KST y 6	III_21_0002	Karlsruhe, Karlsruhe	8.40919, 49.01038	klufe	k l u f e	kuv	k u v	3
+680	KST k2	III_19_0007, III_19_0004, III_19_0005	Philippsburg, Philippsburg	8.45298, 49.235	kluf	k l u f	kluv	k l u v	1
+681	KST k2	III_19_0007, III_19_0004, III_19_0005	Philippsburg, Philippsburg	8.45298, 49.235	kluf	k l u f	glufe	g l u f e	2
+682	TUTT k1	III_33_0072, III_33_0070	Vilingen, Villingen	8.45901, 48.0567	glūf	g l ū f	gluuv	g l uu v	3
+683	TUTT k1	III_33_0072, III_33_0070	Vilingen, Villingen	8.45901, 48.0567	glūf	g l ū f	kluf	k l u f	2
+684	TÜB U2	III_31_0007, III_31_0005, III_31_0006	Weiler/Villingen, Tennenbronn	8.46043, 48.17227	glūf	g l ū f	gufe	g u f e	3
+685	TÜB U2	III_31_0007, III_31_0005, III_31_0006	Weiler/Villingen, Tennenbronn	8.46043, 48.17227	glūf	g l ū f	guf	g u f	2
+686	TUTT r7	III_34_0016, III_34_0015, III_34_0120	Hüfingen, Hüfingen	8.48886, 47.92431	glufe	g l u f e	gluve	g l u v e	1
+687	TUTT r8	III_34_0008, III_34_0011, III_34_0009	Donaueschingen, Donaueschingen	8.50052, 47.95113	glufe	g l u f e	gluf	g l u f	1
+688	TUTT r8	III_34_0008, III_34_0011, III_34_0009	Donaueschingen, Donaueschingen	8.50052, 47.95113	glufe	g l u f e	kluffe	k l u ff e	2
+689	KST z8	III_21_0012, III_21_0011, III_21_0013, III_21_0010, III_21_0009	Weingarten, Weingarten	8.53114, 49.0533	gluf	g l u f	kluve	k l u v e	3
+690	KST z8	III_21_0012, III_21_0011, III_21_0013, III_21_0010, III_21_0009	Weingarten, Weingarten	8.53114, 49.0533	gluf	g l u f	gluve	g l u v e	2
+691	KST z8	III_21_0012, III_21_0011, III_21_0013, III_21_0010, III_21_0009	Weingarten, Weingarten	8.53114, 49.0533	gluf	g l u f	klufe	k l u f e	2
+692	KST z8	III_21_0012, III_21_0011, III_21_0013, III_21_0010, III_21_0009	Weingarten, Weingarten	8.53114, 49.0533	gluf	g l u f	kluf	k l u f	1
+693	KST s2, KST s11	III_20_0019, III_20_0018	Bruchsal , Bruchsal (Forstamt), Bruchsal	8.60102, 49.12377	glufte	g l u f t e	kluuf	k l uu f	4
+694	KST s2, KST s11	III_20_0019, III_20_0018	Bruchsal , Bruchsal (Forstamt), Bruchsal	8.60102, 49.12377	glufte	g l u f t e	gluve	g l u v e	2
+695	KST s2, KST s11	III_20_0019, III_20_0018	Bruchsal , Bruchsal (Forstamt), Bruchsal	8.60102, 49.12377	kluf	k l u f	kluuf	k l uu f	1
+696	KST s2, KST s11	III_20_0019, III_20_0018	Bruchsal , Bruchsal (Forstamt), Bruchsal	8.60102, 49.12377	kluf	k l u f	gluve	g l u v e	3
+697	KST G8	III_22_0024, III_22_0018, III_22_0020	Königsbach, Stein, Königsbach	8.61207, 48.96515	gluf	g l u f	gluv	g l u v	1
+698	KST G8	III_22_0024, III_22_0018, III_22_0020	Königsbach, Stein, Königsbach	8.61207, 48.96515	gluf	g l u f	kluf	k l u f	1
+699	KST l4	III_19_0018, III_19_0017, III_19_0020, III_19_0019	Mingolsheim, Mingolsheim	8.65316, 49.21986	kluf	k l u f	glūf	g l ū f	2
+700	KST l4	III_19_0018, III_19_0017, III_19_0020, III_19_0019	Mingolsheim, Mingolsheim	8.65316, 49.21986	kluf	k l u f	gluv	g l u v	2
+701	KST l4	III_19_0018, III_19_0017, III_19_0020, III_19_0019	Mingolsheim, Mingolsheim	8.65316, 49.21986	kluf	k l u f	klufe	k l u f e	1
+702	KST P1	III_22_0027, III_22_0026	Ispringen , Ispringen	8.66764, 48.91655	kluf	k l u f	klufe	k l u f e	1
+703	KST P2	III_23_0032, III_23_0029, III_23_0030, III_23_0031	Brötzingen, Pforzheim-Brötzingen	8.66799, 48.889	gluve	g l u v e	kluv	k l u v	2
+704	KST P2	III_23_0032, III_23_0029, III_23_0030, III_23_0031	Brötzingen, Pforzheim-Brötzingen	8.66799, 48.889	gluve	g l u v e	gluf	g l u f	2
+705	KST P2	III_23_0032, III_23_0029, III_23_0030, III_23_0031	Brötzingen, Pforzheim-Brötzingen	8.66799, 48.889	gluve	g l u v e	gluv	g l u v	1
+706	KST P2	III_23_0032, III_23_0029, III_23_0030, III_23_0031	Brötzingen, Pforzheim-Brötzingen	8.66799, 48.889	gluve	g l u v e	gluuf	g l uu f	2
+707	KST P3/4, KST P3/3, KST P3/2	III_23_0043, III_23_0051, III_23_0039, III_23_0046, III_23_0050, III_23_0052, III_23_0054, III_23_0042, III_23_0038, III_23_0053, III_23_0045, III_23_0041, III_23_0047, III_23_0044, III_23_0048	Pforzheim, Pforzheim	8.70025, 48.89013	glūf	g l ū f	kluv	k l u v	3
+708	KST P3/4, KST P3/3, KST P3/2	III_23_0043, III_23_0051, III_23_0039, III_23_0046, III_23_0050, III_23_0052, III_23_0054, III_23_0042, III_23_0038, III_23_0053, III_23_0045, III_23_0041, III_23_0047, III_23_0044, III_23_0048	Pforzheim, Pforzheim	8.70025, 48.89013	glūf	g l ū f	gluv	g l u v	2
+709	KST P3/4, KST P3/3, KST P3/2	III_23_0043, III_23_0051, III_23_0039, III_23_0046, III_23_0050, III_23_0052, III_23_0054, III_23_0042, III_23_0038, III_23_0053, III_23_0045, III_23_0041, III_23_0047, III_23_0044, III_23_0048	Pforzheim, Pforzheim	8.70025, 48.89013	glūf	g l ū f	gluf	g l u f	1
+710	KST P3/4, KST P3/3, KST P3/2	III_23_0043, III_23_0051, III_23_0039, III_23_0046, III_23_0050, III_23_0052, III_23_0054, III_23_0042, III_23_0038, III_23_0053, III_23_0045, III_23_0041, III_23_0047, III_23_0044, III_23_0048	Pforzheim, Pforzheim	8.70025, 48.89013	glūf	g l ū f	klufe	k l u f e	3
+711	KST P3/4, KST P3/3, KST P3/2	III_23_0043, III_23_0051, III_23_0039, III_23_0046, III_23_0050, III_23_0052, III_23_0054, III_23_0042, III_23_0038, III_23_0053, III_23_0045, III_23_0041, III_23_0047, III_23_0044, III_23_0048	Pforzheim, Pforzheim	8.70025, 48.89013	glūf	g l ū f	gluff	g l u ff	2
+712	KST P3/4, KST P3/3, KST P3/2	III_23_0043, III_23_0051, III_23_0039, III_23_0046, III_23_0050, III_23_0052, III_23_0054, III_23_0042, III_23_0038, III_23_0053, III_23_0045, III_23_0041, III_23_0047, III_23_0044, III_23_0048	Pforzheim, Pforzheim	8.70025, 48.89013	glūf	g l ū f	glufe	g l u f e	2
+713	KST P3/4, KST P3/3, KST P3/2	III_23_0043, III_23_0051, III_23_0039, III_23_0046, III_23_0050, III_23_0052, III_23_0054, III_23_0042, III_23_0038, III_23_0053, III_23_0045, III_23_0041, III_23_0047, III_23_0044, III_23_0048	Pforzheim, Pforzheim	8.70025, 48.89013	glūf	g l ū f	kluf	k l u f	2
+714	KST P3/4, KST P3/3, KST P3/2	III_23_0043, III_23_0051, III_23_0039, III_23_0046, III_23_0050, III_23_0052, III_23_0054, III_23_0042, III_23_0038, III_23_0053, III_23_0045, III_23_0041, III_23_0047, III_23_0044, III_23_0048	Pforzheim, Pforzheim	8.70025, 48.89013	gluff	g l u ff	kluv	k l u v	3
+715	KST P3/4, KST P3/3, KST P3/2	III_23_0043, III_23_0051, III_23_0039, III_23_0046, III_23_0050, III_23_0052, III_23_0054, III_23_0042, III_23_0038, III_23_0053, III_23_0045, III_23_0041, III_23_0047, III_23_0044, III_23_0048	Pforzheim, Pforzheim	8.70025, 48.89013	gluff	g l u ff	gluv	g l u v	2
+716	KST P3/4, KST P3/3, KST P3/2	III_23_0043, III_23_0051, III_23_0039, III_23_0046, III_23_0050, III_23_0052, III_23_0054, III_23_0042, III_23_0038, III_23_0053, III_23_0045, III_23_0041, III_23_0047, III_23_0044, III_23_0048	Pforzheim, Pforzheim	8.70025, 48.89013	gluff	g l u ff	gluf	g l u f	1
+717	KST P3/4, KST P3/3, KST P3/2	III_23_0043, III_23_0051, III_23_0039, III_23_0046, III_23_0050, III_23_0052, III_23_0054, III_23_0042, III_23_0038, III_23_0053, III_23_0045, III_23_0041, III_23_0047, III_23_0044, III_23_0048	Pforzheim, Pforzheim	8.70025, 48.89013	gluff	g l u ff	klufe	k l u f e	2
+718	KST P3/4, KST P3/3, KST P3/2	III_23_0043, III_23_0051, III_23_0039, III_23_0046, III_23_0050, III_23_0052, III_23_0054, III_23_0042, III_23_0038, III_23_0053, III_23_0045, III_23_0041, III_23_0047, III_23_0044, III_23_0048	Pforzheim, Pforzheim	8.70025, 48.89013	gluff	g l u ff	glufe	g l u f e	1
+719	KST P3/4, KST P3/3, KST P3/2	III_23_0043, III_23_0051, III_23_0039, III_23_0046, III_23_0050, III_23_0052, III_23_0054, III_23_0042, III_23_0038, III_23_0053, III_23_0045, III_23_0041, III_23_0047, III_23_0044, III_23_0048	Pforzheim, Pforzheim	8.70025, 48.89013	gluff	g l u ff	kluf	k l u f	2
+720	KST A5	III_21_0027, III_21_0026	Bretten, Bretten	8.70657, 49.03456	kluve	k l u v e	glufe	g l u f e	2
+721	KST A5	III_21_0027, III_21_0026	Bretten, Bretten	8.70657, 49.03456	kluve	k l u v e	klufe	k l u f e	1
+722	KST m5	III_19_0032, III_19_0031, III_19_0030	Michelfeld, Michelfeld	8.7808, 49.22723	klufter	k l u f t e r	gluufde	g l uu f d e	4
+723	KST m5	III_19_0032, III_19_0031, III_19_0030	Michelfeld, Michelfeld	8.7808, 49.22723	klufter	k l u f t e r	klufte	k l u f t e	1
+724	KST n12	III_19_0038, III_19_0039, III_19_0040	Hilsbach, Hilsbach	8.86227, 49.1957	klufte	k l u f t e	klufter	k l u f t e r	1
+725	KST f8	III_18_0048, III_18_0047	Sinsheim, Sinsheim	8.87357, 49.25387	klufern	k l u f e r n	klufte	k l u f t e	3
+726	KST f8	III_18_0048, III_18_0047	Sinsheim, Sinsheim	8.87357, 49.25387	klufern	k l u f e r n	kluufde	k l uu f d e	4
+727	KST f8	III_18_0048, III_18_0047	Sinsheim, Sinsheim	8.87357, 49.25387	klufern	k l u f e r n	klufe	k l u f e	2
+728	KST n2	III_19_0044	Steinsfurt, Steinsfurt	8.90861, 49.24023	glufte	g l u f t e	gluve	g l u v e	2
+729	KST u3	III_20_0050, III_20_0047, III_20_0051, III_20_0049, III_20_0048	Eppingen, Eppingen	8.9098, 49.13704	glufe	g l u f e	klufa	k l u f a	2
+730	KST u3	III_20_0050, III_20_0047, III_20_0051, III_20_0049, III_20_0048	Eppingen, Eppingen	8.9098, 49.13704	glufe	g l u f e	gluva	g l u v a	2
+731	KST u3	III_20_0050, III_20_0047, III_20_0051, III_20_0049, III_20_0048	Eppingen, Eppingen	8.9098, 49.13704	glufe	g l u f e	glufa	g l u f a	1
+732	KST u3	III_20_0050, III_20_0047, III_20_0051, III_20_0049, III_20_0048	Eppingen, Eppingen	8.9098, 49.13704	glufe	g l u f e	kluve	k l u v e	2
+733	KST n8	III_19_0047	Richen, Richen	8.94083, 49.17134	klufe	k l u f e	gluvä	g l u v ä	3
+734	KST n8	III_19_0047	Richen, Richen	8.94083, 49.17134	klufe	k l u f e	kluvä	k l u v ä	2
+735	KST u1	III_20_0053, III_20_0056, III_20_0054, III_20_0055	Gemmingen, Gemmingen	8.98358, 49.15633	glufa	g l u f a	klufe	k l u f e	2
+736	KST u1	III_20_0053, III_20_0056, III_20_0054, III_20_0055	Gemmingen, Gemmingen	8.98358, 49.15633	glufa	g l u f a	gluve	g l u v e	2
+737	KST u1	III_20_0053, III_20_0056, III_20_0054, III_20_0055	Gemmingen, Gemmingen	8.98358, 49.15633	glufa	g l u f a	glufe	g l u f e	1
+738	TUTT K11	III_36_0060, III_36_0063, III_36_0064	Sipplingen, Sipplingen	9.09665, 47.79525	gluff	g l u ff	gluf	g l u f	1
+739	MH T11	II_60_0079	Diedesheim, Diedesheim	9.11367, 49.34933	klufte	k l u f t e	klufe	k l u f e	1
+740	TUTT v10	III_34_0058, III_34_0057	Messkirch, Messkirch	9.11537, 47.99484	glūf	g l ū f	gluf	g l u f	1
+741	TUTT v10	III_34_0058, III_34_0057	Messkirch, Messkirch	9.11537, 47.99484	glūf	g l ū f	kluf	k l u f	2
+742	SIG g2/1	III_34_0065, III_34_0063	Pfullendorf, Pfullendorf	9.25466, 47.92614	gluf	g l u f	glufe	g l u f e	1
+743	STU u1	III_26_0090	Nürtingen, Nürtingen	9.34192, 48.62663	gluf	g l u f	kluf	k l u f	1

@@ -1,0 +1,4 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	MH W1	na	Hüngheim	9.51823, 49.41257	stickheftle	na	999	schtikheftle	na	999	Steckheftle	na	999
+1	na	II_93_0022	Krautheim	9.63369, 49.39159	na	steckheftle	999	na	schtekheftle	999	na	Steckheftle	999
+2	na	II_92_0032	Assamstadt	9.68738, 49.42689	na	steckhäftle	999	na	schtekheftle	999	na	Steckheftle	999

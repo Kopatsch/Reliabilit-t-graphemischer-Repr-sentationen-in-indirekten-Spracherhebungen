@@ -1,0 +1,30 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Co x 5	na	St. Amarin	7.03186, 47.87365	schtupfnodl	na	999	schtupfnodel	na	999	Stopfnadel	na	999
+1	Co M2	III_15_0001	Obersulzbach Kreis Tann (Soppe-Le-Haut), Obersulzbach <Morzweiler> Morzweiler steht nur auf S.1	7.05724, 47.73372	schtupfnodla	stupfnodel	4	schtupfnodla	schtupfnodel	2	Stopfnadel	Stopfnadel	0
+2	Co q 1	na	Lintal (Linthal, Kreis Tann)	7.12943, 47.94619	stopfnadel	na	999	schtopfnadel	na	999	Stopfnadel	na	999
+3	Co y 2	na	Jungholtz	7.1923, 47.88825	stupfnodl	na	999	schtupfnodl	na	999	Stopfnadel	na	999
+4	Hag N 14	III_6_0030, III_6_0029	Ottweiler (Ottwiller), Ottweiler	7.23096, 48.86516	stoppnōdel	stopnodel	2	schtopnodel	schtopnodel	0	Stopfnadel	Stopfnadel	0
+5	Co N4	III_15_0022	Didenheim, Didenheim	7.30295, 47.71749	stōpfnōdlaͤ	stůpfno̊dlaͤ	3	schtopfnodla	schtupfnodla	1	Stopfnadel	Stopfnadel	0
+6	Stra z 1/1	na	Grendelbruch	7.32375, 48.49241	stopfnōdel	na	999	schtopfnodel	na	999	Stopfnadel	na	999
+7	Stra t 15/2	na	Sulzbad (soultz-Les-Bains)	7.48699, 48.572	stopfnodel	na	999	schtopfnodel	na	999	Stopfnadel	na	999
+8	Co H17	na	Banzenheim (Bantzenheim)	7.51396, 47.82468	stupfnodel	na	999	schtupfnodel	na	999	Stopfnadel	na	999
+9	Stra X 1	na	Mussig	7.52018, 48.23003	stopfnudel	na	999	schtopfnudel	na	999	Stopfnadel	na	999
+10	Stra f 6	na	Hohatzenheim	7.61598, 48.71578	schdopfnudel	na	999	schtopfnudel	na	999	Stopfnadel	na	999
+11	Co n 10	na	Lehen	7.80072, 48.01663	stopfnotlä	na	999	schtopfnotlä	na	999	Stopfnadel	na	999
+12	Co g 8	na	Mundingen	7.8346, 48.13735	stopnodla	na	999	schtopnodla	na	999	Stopfnadel	na	999
+13	Co C12	na	Obermünstertal-Spielweg	7.83588, 47.87776	stopfnodel	na	999	schtopfnodel	na	999	Stopfnadel	na	999
+14	KST L3	na	Schaffhausen (Schaffhouse-près-Selz)	8.10006, 48.9087	stopfnudel	na	999	schtopfnudel	na	999	Stopfnadel	na	999
+15	TUTT L12	na	Remetschwiel/Brunnadern	8.14553, 47.68929	stopfnodle	na	999	schtopfnodle	na	999	Stopfnadel	na	999
+16	na	III_13_0096	Mittlach	7.03325, 48.00405	na	stopfnodel	999	na	schtopnodel	999	na	Stopfnadel	999
+17	na	III_17_0030	Largitzen	7.1873, 47.56163	na	stupfnodl	999	na	schtupfnodl	999	na	Stopfnadel	999
+18	na	III_15_0024	Flachslanden	7.30924, 47.69692	na	stůpfno̊dla	999	na	schtupfnodla	999	na	Stopfnadel	999
+19	na	III_11_0085	Diefenbach	7.32766, 48.31529	na	stopfnodel	999	na	schtopnodel	999	na	Stopfnadel	999
+20	na	III_8_0043	Hengweiler	7.33273, 48.66842	na	stopfnodel	999	na	schtopnodel	999	na	Stopfnadel	999
+21	na	III_8_0042	Dimbstal	7.35926, 48.6727	na	stopfnodel	999	na	schtopnodel	999	na	Stopfnadel	999
+22	na	III_11_0092	St. Petersholz	7.36093, 48.3272	na	stopfnudel	999	na	schtopnudel	999	na	Stopfnadel	999
+23	na	III_8_0052	Lochweiler	7.41619, 48.69645	na	schtopfnudel	999	na	schtopfnudel	999	na	Stopfnadel	999
+24	na	III_12_0026	Heidolsheim	7.51527, 48.20131	na	stopfnodel	999	na	schtopnodel	999	na	Stopfnadel	999
+25	na	III_8_0060	Dunzenheim	7.53538, 48.71278	na	stopfnudel	999	na	schtopnudel	999	na	Stopfnadel	999
+26	na	III_8_0073	Bilwisheim	7.65824, 48.70895	na	stopfnudel	999	na	schtopnudel	999	na	Stopfnadel	999
+27	na	III_10_0113	Plobsheim	7.72339, 48.46948	na	stopfnadel	999	na	schtopnadel	999	na	Stopfnadel	999
+28	na	II_91_0007	Gerichtstetten	9.5049, 49.53499	na	stipfnadel	999	na	schtipfnadel	999	na	Stopfnadel	999

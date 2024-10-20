@@ -1,0 +1,8 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Co T1	na	Brückensweiler (Bréchaumont)	7.0684, 47.66973	geisbock	na	999	geisbock	na	999	Geißbock	na	999
+1	Stra P 10/2	na	Schlettstadt (Sélestat)	7.45232, 48.2578	geißbock	na	999	geisbock	na	999	Geißbock	na	999
+2	Co Wa 2	na	Buschweiler (Buschwiller)	7.50989, 47.55993	geißbock	na	999	geisbock	na	999	Geißbock	na	999
+3	MH H10/1	na	Rhei u	8.53056, 49.42924	geesbock	na	999	gesbock	na	999	Geißbock	na	999
+4	na	III_7_0066	Wickersheim	7.53159, 48.78313	na	geißbock	999	na	geisbock	999	na	Geißbock	999
+5	na	III_23_0008	Lange lb	8.50104, 48.84402	na	geißbock	999	na	geisbock	999	na	Geißbock	999
+6	na	III_23_0050	Pforzheim	8.70025, 48.89013	na	gaißbogg	999	na	geisbock	999	na	Geißbock	999

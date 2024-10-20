@@ -1,0 +1,4 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	MH x8	na	Tauberbischofsheim	9.66553, 49.62352	zackerer	na	999	tsackerer	na	999	Zäckerer	na	999
+1	MH P4	na	Assamstadt	9.68738, 49.42689	zäckerer	na	999	tsäckerer	na	999	Zäckerer	na	999
+2	MH y7	na	Vilchband	9.82424, 49.58989	zaïkerer	na	999	tsaickerer	na	999	Zäckerer	na	999

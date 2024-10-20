@@ -1,0 +1,8 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Co B7	III_14_0065	Untermünstertal-Ziegelplatz (Untermünstertal), Untermünstertal	7.78649, 47.85518	budderbaer	buderbeer	2	butterbeer	butterbeer	0	Butterbeere	Butterbeere	0
+1	Co B8	III_14_0151	Untermünstertal-Rotenbuck, Untermünstertal-Rotenbuck	7.79435, 47.84136	butterbeere	butterbeer	1	butterbeere	butterbeer	1	Butterbeere	Butterbeere	0
+2	Co B13	III_14_0054	Obermünstertal-Krumlinden (Obermünstertal), Obermünstertal-Krummlinden	7.81186, 47.87153	butterbeer	butterbeer	0	butterbeer	butterbeer	0	Butterbeere	Butterbeere	0
+3	Co C12	III_14_0066	Obermünstertal-Spielweg, Obermünstertal-Spielweg	7.83588, 47.87776	buttabeer	butteber	2	butterbeer	buttebeer	1	Butterbeere	Butterbeere	0
+4	Co Y 13	na	Dossenbach	7.85693, 47.61597	buddebeeri	na	999	buttebeere	na	999	Butterbeere	na	999
+5	Co C1	na	Obermünstertal-Neuhof	7.86115, 47.84975	budderbeer	na	999	butterbeer	na	999	Butterbeere	na	999
+6	na	III_16_0118	Öflingen	7.91396, 47.59228	na	buddebeeri	999	na	buttebeere	999	na	Butterbeere	999

@@ -1,0 +1,22 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Co W 21	na	Tumringen	7.65564, 47.62739	ziege	na	999	ziege	na	999	Ziege	na	999
+1	KST M7	na	Bischweier	8.28478, 48.83768	ziege	na	999	ziege	na	999	Ziege	na	999
+2	KST F8	III_22_0007	Grünwettersbach, Grünwettersbach	8.46671, 48.95784	ziege	ziege	0	ziege	ziege	0	Ziege	Ziege	0
+3	na	III_5_0039	Lorenzen	7.1752, 48.95249	na	ziege	999	na	ziege	999	na	Ziege	999
+4	na	III_5_0052	Rosteig	7.33838, 48.9327	na	ziege	999	na	ziege	999	na	Ziege	999
+5	na	III_12_0124	Schelingen	7.68308, 48.10435	na	ziege	999	na	ziege	999	na	Ziege	999
+6	na	III_10_0051	Odelshofen	7.88021, 48.56001	na	ziege	999	na	ziege	999	na	Ziege	999
+7	na	III_6_0087	Niederrödern	8.04105, 48.90576	na	ziege	999	na	ziege	999	na	Ziege	999
+8	na	III_6_0088	Schaffhausen	8.10006, 48.9087	na	ziege	999	na	ziege	999	na	Ziege	999
+9	na	III_14_0078	Gündelwangen	8.29672, 47.84246	na	ziege	999	na	ziege	999	na	Ziege	999
+10	na	III_35_0005	U dingen	8.40711, 47.88128	na	ziege	999	na	ziege	999	na	Ziege	999
+11	na	II_59_0042	Mannheim	8.46678, 49.4865	na	ziech	999	na	ziech	999	na	Ziege	999
+12	na	II_60_0036	Plankstadt	8.59271, 49.39179	na	ziege	999	na	ziege	999	na	Ziege	999
+13	na	III_19_0019	Mingolsheim	8.65316, 49.21986	na	ziege	999	na	ziege	999	na	Ziege	999
+14	na	III_23_0049	Pforzheim	8.70025, 48.89013	na	ziege	999	na	ziege	999	na	Ziege	999
+15	na	III_37_0023	Radolfzell	8.97017, 47.74493	na	ziege	999	na	ziege	999	na	Ziege	999
+16	na	II_59_0095	Rocke u	8.99904, 49.44673	na	ziege	999	na	ziege	999	na	Ziege	999
+17	na	III_37_0032	Allensbach	9.06699, 47.71535	na	ziege	999	na	ziege	999	na	Ziege	999
+18	na	III_37_0054	Markdorf	9.38933, 47.72088	na	ziege	999	na	ziege	999	na	Ziege	999
+19	na	II_93_0023	Klepsau	9.67156, 49.38805	na	ziege	999	na	ziege	999	na	Ziege	999
+20	na	II_90_0022	Distelhausen	9.69353, 49.59735	na	ziege	999	na	ziege	999	na	Ziege	999

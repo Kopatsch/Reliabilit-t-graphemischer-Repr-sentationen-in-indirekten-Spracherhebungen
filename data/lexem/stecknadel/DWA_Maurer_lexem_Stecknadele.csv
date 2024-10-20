@@ -1,0 +1,63 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	TUTT w5	na	Raitenbuch	8.14698, 47.86647	schdeggnōdle	na	999	schteknodle	na	999	Stecknadele	na	999
+1	TÜB b6	na	Altschweier	8.16047, 48.69964	stecknådele	na	999	schteknodele	na	999	Stecknadele	na	999
+2	TUTT x6	na	Gündelwangen	8.29672, 47.84246	stekchnädili	na	999	schtekchnädeli	na	999	Stecknadele	na	999
+3	TUTT N4	na	Obermettingen	8.35956, 47.7213	stecknädeli	na	999	schteknädeli	na	999	Stecknadele	na	999
+4	TUTT F12	na	Lembach	8.43056, 47.80389	stecknedili	na	999	schteknedeli	na	999	Stecknadele	na	999
+5	TUTT F9	na	Grimmelshofen	8.49573, 47.78613	schdeggnöddili	na	999	schteknödeli	na	999	Stecknadele	na	999
+6	KST d6	na	Rot	8.63137, 49.26348	stecknedeli	na	999	schteknedeli	na	999	Stecknadele	na	999
+7	TUTT A7	na	Engen	8.76853, 47.85186	stecknädili	na	999	schteknädeli	na	999	Stecknadele	na	999
+8	TUTT Q7	na	Bankholzen	8.92989, 47.7082	schdecknödili	na	999	schteknödeli	na	999	Stecknadele	na	999
+9	TUTT Q5	na	Moos	8.93316, 47.7259	stecknödeli	na	999	schteknödeli	na	999	Stecknadele	na	999
+10	MH C5	na	Waldauerbach	9.15798, 49.52591	sticknedele	na	999	schtiknedele	na	999	Stecknadele	na	999
+11	MH M2	na	Laudenberg	9.21457, 49.48066	sticknēdele	na	999	schtiknedele	na	999	Stecknadele	na	999
+12	MH M1	na	Einbach	9.24238, 49.48477	stecknedele	na	999	schteknedele	na	999	Stecknadele	na	999
+13	MH D8	II_58_0111	Steinbach, Steinbach	9.24327, 49.54854	schdeggnedele	schdiggneedele	2	schteknedele	schtiknedele	1	Stecknadele	Stecknadele	0
+14	MH E1	na	Hainstadt	9.33082, 49.53905	schdecknödele	na	999	schteknödele	na	999	Stecknadele	na	999
+15	MH N1	na	Eberstadt	9.3666, 49.47727	stecknädala	na	999	schteknädela	na	999	Stecknadele	na	999
+16	MH N11	na	Bofsheim	9.41226, 49.4714	stecknōdeli	na	999	schteknodeli	na	999	Stecknadele	na	999
+17	MH w4	II_90_0005	Höpfingen, Höpfingen	9.42753, 49.60185	stecknödele	stecknödele	0	schteknödele	schteknödele	0	Stecknadele	Stecknadele	0
+18	MH o3	na	Sonderriet	9.43938, 49.71753	stechädele	na	999	schtechnädele	na	999	Stecknadele	na	999
+19	MH o7	na	Nassig	9.45146, 49.73582	stecknödele	na	999	schteknödele	na	999	Stecknadele	na	999
+20	MH N7	na	Sindolsheim	9.45384, 49.48715	stecknödele	na	999	schteknödele	na	999	Stecknadele	na	999
+21	MH N9	na	Rosenberg	9.4752, 49.45583	schdeggnödele	na	999	schteknödele	na	999	Stecknadele	na	999
+22	MH F4	na	Gerichtstetten	9.5049, 49.53499	stecknödeli	na	999	schteknödeli	na	999	Stecknadele	na	999
+23	MH O1	na	Hohenstadt	9.51685, 49.49168	schtecknödele	na	999	schteknödele	na	999	Stecknadele	na	999
+24	MH p3	na	Bronnbach	9.54654, 49.71348	stecknödele	na	999	schteknödele	na	999	Stecknadele	na	999
+25	MH g4	II_88_0022	Bettingen, Bettingen	9.5642, 49.77261	stecknödele	schtecknöhdala	5	schteknödele	schteknödela	1	Stecknadele	Stecknadele	0
+26	MH W9	na	Winzenhofen	9.57229, 49.35628	schdecknȫdele	na	999	schteknödele	na	999	Stecknadele	na	999
+27	MH x5	na	Gissigheim	9.58726, 49.59451	stecknoidele	na	999	schteknoidele	na	999	Stecknadele	na	999
+28	MH x1	II_90_0010	Eiersheim, Eiersheim	9.58787, 49.65953	schdegnödele	schdegnödele	0	schteknodele	schteknödele	1	Stecknadele	Stecknadele	0
+29	MH F6	na	Epplingen	9.62742, 49.5054	schdeggnödele	na	999	schteknödele	na	999	Stecknadele	na	999
+30	MH P3	II_92_0028	Bobstadt, Bobstadt	9.67398, 49.46607	stecknödele	stecknödeli	1	schteknödele	schteknödeli	1	Stecknadele	Stecknadele	0
+31	MH G1	II_91_0016	Oberlauda, Oberlauda	9.67912, 49.56608	schdecknöddele	schdecknöddele	0	schteknödele	schteknödele	0	Stecknadele	Stecknadele	0
+32	MH y3	II_90_0024	Grünsfeldhausen, Grünsfeldhausen	9.74055, 49.62456	stecknödele	stecknödeli	1	schteknödele	schteknödeli	1	Stecknadele	Stecknadele	0
+33	MH G8	II_91_0023	Unterbalbach, Unterbalbach	9.74711, 49.52779	schteknödele	steckneddele	5	schteknödele	schteknedele	1	Stecknadele	Stecknadele	0
+34	MH y8	na	Krensheim	9.78002, 49.63781	stecknödela	na	999	schteknödela	na	999	Stecknadele	na	999
+35	MH y7	II_90_0131	Vilchband, Vilchband	9.82424, 49.58989	stecknödele	stecknödela	1	schteknödele	schteknödela	1	Stecknadele	Stecknadele	0
+36	MH y9	na	Poppenhausen	9.82622, 49.63065	steknädela	na	999	schteknädela	na	999	Stecknadele	na	999
+37	MH ya1/2	II_90_0030	Oberwittighausen, Oberwittighausen	9.85164, 49.62585	stecknoedala	stecknädale	3	schteknoedela	schteknädale	4	Stecknadele	Stecknadele	0
+38	na	III_15_0007	St. Kosman	7.06248, 47.68339	na	schdeggnodla	999	na	schteknodla	999	na	Stecknadele	999
+39	na	III_11_0008	St. Martin	7.28942, 48.35047	na	schtecknadler	999	na	schteknadela	999	na	Stecknadele	999
+40	na	III_14_0058	Laufen	7.68471, 47.8434	na	stecknodele	999	na	schteknodele	999	na	Stecknadele	999
+41	na	III_13_0152	Falkensteig	7.99689, 47.94697	na	schdeggnodlä	999	na	schteknodle	999	na	Stecknadele	999
+42	na	III_38_0009	Küssnach	8.36574, 47.59396	na	stecknädeli	999	na	schteknädeli	999	na	Stecknadele	999
+43	na	III_38_0014	Riedern am Sand	8.4462, 47.6245	na	schtecknodele	999	na	schteknodele	999	na	Stecknadele	999
+44	na	III_36_0025	Kommingen	8.61478, 47.81599	na	schtecknedili	999	na	schteknedeli	999	na	Stecknadele	999
+45	na	III_35_0036	Biesendorf	8.81255, 47.91175	na	stecknädeli	999	na	schteknädeli	999	na	Stecknadele	999
+46	na	III_34_0119	Emmingen	8.85302, 47.92883	na	schdeggnaidili	999	na	schteknaideli	999	na	Stecknadele	999
+47	na	III_36_0054	Bodman	9.02835, 47.80402	na	stecknädili	999	na	schteknädeli	999	na	Stecknadele	999
+48	na	III_35_0068, III_35_0067	Herdwangen	9.16937, 47.8629	na	steknädili, stecknädeli	999	na	schteknädeli	999	na	Stecknadele	999
+49	na	II_59_0110	Krumbach	9.18402, 49.45323	na	schdeknodele	999	na	schteknodele	999	na	Stecknadele	999
+50	na	II_58_0107	Donebach	9.19217, 49.56113	na	sticknädele	999	na	schtiknädele	999	na	Stecknadele	999
+51	na	II_90_0002	Glashofen	9.36648, 49.62382	na	stecknödeli	999	na	schteknödeli	999	na	Stecknadele	999
+52	na	II_92_0001	Götzingen	9.39465, 49.49693	na	stecknödele	999	na	schteknödele	999	na	Stecknadele	999
+53	na	II_89_0011, II_89_0010, II_89_0009	Sachsenhausen	9.49147, 49.73223	na	stecknödala, stecknödele	999	na	schteknödele, schteknödela	999	na	Stecknadele	999
+54	na	II_91_0006	Erfeld	9.49597, 49.55416	na	schdegnödele	999	na	schteknödele	999	na	Stecknadele	999
+55	na	II_92_0013	Schillingstadt	9.57461, 49.46035	na	schdecknödele	999	na	schteknödele	999	na	Stecknadele	999
+56	na	II_88_0023	Lindelbach	9.58346, 49.75732	na	schtecknöhdala	999	na	schteknödela	999	na	Stecknadele	999
+57	na	II_92_0020	Schwabhausen	9.60196, 49.45569	na	stecknödeli	999	na	schteknödeli	999	na	Stecknadele	999
+58	na	II_92_0016	Windischbuch	9.62194, 49.43593	na	schdecknödele	999	na	schteknödele	999	na	Stecknadele	999
+59	na	II_90_0017	Hochhausen	9.63526, 49.6621	na	stecknöddele	999	na	schteknödele	999	na	Stecknadele	999
+60	na	II_89_0030	Werbach	9.63871, 49.67029	na	stecknödele	999	na	schteknödele	999	na	Stecknadele	999
+61	na	II_89_0035	Werbachhausen	9.67954, 49.67946	na	stecknodele	999	na	schteknodele	999	na	Stecknadele	999

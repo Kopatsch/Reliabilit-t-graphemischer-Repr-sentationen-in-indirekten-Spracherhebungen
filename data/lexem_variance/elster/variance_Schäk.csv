@@ -1,0 +1,4 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_maurer_align	item_DWA	item_DWA_align	Levenshtein_item
+0	Stra w 6	III_10_0062	Ebersweier, Ebersweier	7.98301, 48.50723	schǟg	sch ǟ g	schäg	sch ä g	1
+1	TÜB h5	III_9_0091	Achern, Achern	8.06363, 48.62871	schǟk	sch ǟ k	schäg	sch ä g	2
+2	TÜB E4	III_11_0079	Oberwolfach, Oberwolfach-Walke	8.21698, 48.3174	schäg	sch ä g	schäge	sch ä g e	1

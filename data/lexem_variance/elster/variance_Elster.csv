@@ -1,0 +1,266 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_maurer_align	item_DWA	item_DWA_align	Levenshtein_item
+0	Co x 2	III_14_0007	Mitzach, Mitzach	7.00519, 47.87122	elschter	e l sch t e r	elster	e l s t e r	2
+1	Co x 3	III_14_0010	Malmerspach, Malmerspach	7.03487, 47.86486	elschter	e l sch t e r	elster	e l s t e r	2
+2	Co x 9	III_14_0013	Geishausen, Geishausen	7.05832, 47.88017	elschter	e l sch t e r	elschder	e l sch d e r	1
+3	Co i 10	III_13_0007	Mühlbach (Muhlbach-Sur-Munster), Mühlbach	7.08731, 48.02582	elschter	e l sch t e r	elschder	e l sch d e r	1
+4	Co i 8	III_13_0001	Hohrodberg, Hohrodberg	7.13528, 48.06037	älschder	ä l sch d e r	elschder	e l sch d e r	1
+5	Co q 7	III_13_0099	Lautenbachzell, Lautenbachzell	7.14925, 47.94057	elster	e l s t e r	elschter	e l sch t e r	2
+6	Co y 1/2, Co y 1/1	III_14_0017	Rimbach-Zell (Rimbachzell), Rimbach-Zell	7.17995, 47.8995	ålster	å l s t e r	elster	e l s t e r	1
+7	Hag N 9	III_6_0018	Adamsweiler (Adamswiller), Adamsweiler	7.20348, 48.90463	elschdr	e l sch d r	elster	e l s t e r	3
+8	Stra z 2	III_10_0086	Natzweiler, Natzweiler	7.25895, 48.43628	elschdr	e l sch d r	elster	e l s t e r	3
+9	Co c 12	III_12_0082	Ammerschweier, Ammerschweier	7.28484, 48.12465	elschter	e l sch t e r	elstr	e l s t r	3
+10	Hag O 4	III_6_0037	Erkartsweiler (Erckartswiller), Erkartsweiler	7.3596, 48.87532	elster	e l s t e r	elschter	e l sch t e r	2
+11	Hag P 14	III_6_0066	Pfaffenhofen, Pfaffenhofen	7.60881, 48.84422	elschdr	e l sch d r	elschter	e l sch t e r	2
+12	Co P15	III_15_0055	Holzen, Holzen	7.62775, 47.69538	elschtere	e l sch t e r e	elschtre	e l sch t r e	1
+13	Co H12	III_14_0142	Obereggenen, Niedereggenen, Obereggenen, Niedereggenen	7.64434, 47.75677	elschdere	e l sch d e r e	elstere	e l s t e r e	3
+14	Co W 7, 9/1	III_16_0086	Wittlingen, Wittlingen	7.64842, 47.6562	elstere	e l s t e r e	elschder	e l sch d e r	4
+15	Co W 21	III_16_0078	Tumringen, Tumringen	7.65564, 47.62739	elschder	e l sch d e r	eschter	e sch t e r	2
+16	Co X 4	III_16_0092	Haagen, Haagen	7.67898, 47.63703	elster	e l s t e r	elschter	e l sch t e r	2
+17	Co X 16	III_16_0096	Inzlingen, Inzlingen	7.68772, 47.58811	elschder	e l sch d e r	elschter	e l sch t e r	1
+18	Co X 5	III_16_0093	Hauingen, Hauingen	7.69375, 47.64287	elschder	e l sch d e r	elster	e l s t e r	3
+19	Co J7	III_14_0147, III_15_0061	Malsburg, Malsburg	7.70866, 47.73257	elster	e l s t e r	elschter	e l sch t e r	2
+20	Co B9	III_14_0059, III_14_0061, III_14_0060	Staufen (bei Freiburg), Staufen	7.72962, 47.88166	elstere	e l s t e r e	elschdere	e l sch d e r e	3
+21	Co Q8	III_15_0062	Endenburg, Endenburg	7.73306, 47.71161	elster	e l s t e r	elschder	e l sch d e r	3
+22	Co X 7	III_16_0098	Steinen, Steinen	7.73911, 47.64447	elschder	e l sch d e r	elschter	e l sch t e r	1
+23	Co X 8	III_16_0099	Höllstein, Höllstein	7.74574, 47.63943	elschtr	e l sch t r	elschtěr	e l sch t ě r	1
+24	Co X 13	III_16_0101	Adelhausen, Adelhausen	7.76116, 47.61477	elstere	e l s t e r e	elschtere	e l sch t e r e	2
+25	Stra Y 8	III_12_0038, III_12_0039, III_12_0037	Herbolzheim a. d. Bleich, Herbolzheim	7.77743, 48.22249	elster	e l s t e r	elschdr	e l sch d r	3
+26	Co u 9	III_13_0140	Ebringen, Ebringen	7.77981, 47.95761	elschter	e l sch t e r	elster	e l s t e r	2
+27	Co B7	III_14_0065	Untermünstertal-Ziegelplatz (Untermünstertal), Untermünstertal	7.78649, 47.85518	elschter	e l sch t e r	elster	e l s t e r	2
+28	Co Q6	III_15_0067	Tegernau, Tegernau	7.79638, 47.72037	elschder	e l sch d e r	elschter	e l sch t e r	1
+29	Co Q10	III_15_0065	Wieslet, Wieslet	7.79819, 47.6893	elschter	e l sch t e r	elstere	e l s t e r e	3
+30	Co u 12	III_13_0132	St. Georgen , St. Georgen	7.8056, 47.97934	elschder	e l sch d e r	elschter	e l sch t e r	1
+31	Co X 12	III_16_0111	Nordschwaben, Nordschwaben	7.81682, 47.6184	elschdr	e l sch d r	elschder	e l sch d e r	1
+32	Co J6	III_14_0150	Neuenweg, Landkreis Lörrach, Neuenweg	7.8271, 47.79543	älster	ä l s t e r	elster	e l s t e r	1
+33	Co g 8	III_12_0131	Mundingen, Mundingen	7.8346, 48.13735	elschter	e l sch t e r	elschder	e l sch d e r	1
+34	Co R12	III_15_0089	Hausen im Wiesental, Hausen im Wiesental	7.84055, 47.68143	elschter	e l sch t e r	elster	e l s t e r	2
+35	Co R13	III_15_0085	Raitbach, Raitbach	7.86089, 47.68233	elschderǟ	e l sch d e r ǟ	elster	e l s t e r	4
+36	Co o 1	III_13_0147	Zähringen, <E.G.> Zähringen	7.86149, 48.02593	elschdr	e l sch d r	elster	e l s t e r	3
+37	Stra D 2	III_10_0117	Hohnhurst, Hohnhurst	7.86191, 48.49204	elschdr	e l sch d r	elster	e l s t e r	3
+38	Co R1	III_15_0069	Pfaffenberg, Pfaffenberg	7.86972, 47.73452	elschdr	e l sch d r	elschder	e l sch d e r	1
+39	Co C10	III_14_0067	Obermünstertal-Stohren, Obermünstertal-Stohren	7.87525, 47.8938	elschder	e l sch d e r	elster	e l s t e r	3
+40	Co K7	III_14_0155	Schönenberg, Schönenberg	7.88227, 47.79265	elschder	e l sch d e r	elster	e l s t e r	3
+41	Co R5	III_15_0076	Mambach, Mambach	7.88363, 47.72839	elschder	e l sch d e r	elschter	e l sch t e r	1
+42	Co R7	III_15_0075	Häg-Rohrberg, Rohrberg	7.90412, 47.7181	elschter	e l sch t e r	elster	e l s t e r	2
+43	Co R3	III_15_0071	Häg (bei Mambach), Häg	7.91432, 47.73207	elsteré	e l s t e r é	elschter	e l sch t e r	3
+44	Co g 15	III_12_0129	Keppenbach, Frei Keppenbach	7.92037, 48.14437	elschder	e l sch d e r	elstere	e l s t e r e	4
+45	Co C4	III_14_0071	Todtnauberg, Todtnauberg	7.94335, 47.85074	elschdr	e l sch d r	elschtere	e l sch t e r e	3
+46	Co K11	III_14_0169	Präg-Herrenschwand, Präg-Herrenschwand	7.95327, 47.76746	elster	e l s t e r	elschter	e l sch t e r	2
+47	Co g 2	III_12_0139	Waldkirch, Waldkirch	7.96049, 48.09361	elschdr	e l sch d r	elster	e l s t e r	3
+48	Co v 4	III_13_0151	Stegen, Stegen	7.96093, 47.98418	elschder	e l sch d e r	eelster	ee l s t e r	4
+49	Co g 11	III_12_0140	Kollnau, Kollnau	7.9721, 48.10586	elschter	e l sch t e r	elster	e l s t e r	2
+50	Co K10	III_14_0154	Präg, Präg	7.97232, 47.77964	elschter	e l sch t e r	elschdr	e l sch d r	2
+51	Co g 6	III_12_0128	Siegelau, Siegelau	7.97753, 48.14612	elschder	e l sch d e r	elster	e l s t e r	3
+52	Co g 16	III_12_0142	Gutach, Gutach	7.98722, 48.11814	elschter	e l sch t e r	elschdr	e l sch d r	2
+53	TUTT L4/2, Co R15, TUTT L4/1	III_15_0073, III_14_0176	Todtmoos, Todtmoos , Todtmoos	8.00438, 47.74133	elschter	e l sch t e r	elster	e l s t e r	2
+54	TUTT a4	III_12_0147	Simonswald, Untersimonswald	8.04838, 48.10278	elschtr	e l sch t r	älschter	ä l sch t e r	2
+55	TUTT D1	III_14_0170	Menzenschwand, Merzenschwand	8.07059, 47.81749	elschdr	e l sch d r	elschter	e l sch t e r	2
+56	TÜB p4	III_10_0074	Ringelbach, Ringelbach	8.08834, 48.55764	elschter	e l sch t e r	elster	e l s t e r	2
+57	TUTT Sa7	III_17_0061	Laufenburg (Baden), Laufenburg	8.0908, 47.58055	elschdere	e l sch d e r e	elster	e l s t e r	4
+58	TUTT h7	III_13_0075	Obersimonswald, Obersimonswald	8.09331, 48.0797	elster	e l s t e r	elstere̯	e l s t e r e ̯	2
+59	TUTT Sa8	III_17_0060	Luttingen und Grunholz, Luttingen	8.09878, 47.57252	elster	e l s t e r	elstere	e l s t e r e	1
+60	TUTT L2	III_15_0110	Wittenschwand, Wittenschwand	8.10083, 47.72846	elster	e l s t e r	elschtre	e l sch t r e	4
+61	TUTT L10	III_15_0100	Wolpadingen, Wolpadingen	8.10774, 47.69861	elstere	e l s t e r e	elster	e l s t e r	1
+62	TÜB a13	III_8_0108	Ottersweier, Ottersweier	8.11279, 48.66967	elster	e l s t e r	elschder	e l sch d e r	3
+63	TÜB S6	III_12_0064	Oberprechtal, Oberprechtal	8.12114, 48.20548	elschtr	e l sch t r	elschter	e l sch t e r	1
+64	TUTT h6	III_13_0076	Gütenbach, Gütenbach	8.13807, 48.04398	elschder	e l sch d e r	ēlschděr	ē l sch d ě r	2
+65	TUTT S16	III_16_0145	Albruck-Kiesenbach, Albruck	8.14411, 47.60046	elstere	e l s t e r e	elster	e l s t e r	1
+66	TUTT w5	III_14_0073	Raitenbuch, Raitenbuch	8.14698, 47.86647	elschdare	e l sch d a r e	elschter	e l sch t e r	3
+67	TÜB h13	III_9_0096, III_9_0095	Neusatz , Neusatz	8.14904, 48.65879	elschder	e l sch d e r	elster	e l s t e r	3
+68	TUTT M2	III_15_0129	Höchenschwand, Höchenschwand	8.16491, 47.73427	elschter	e l sch t e r	elster	e l s t e r	2
+69	TUTT i5	III_13_0093	Neukirch, Neukirch	8.17383, 48.02447	elschder	e l sch d e r	elster	e l s t e r	3
+70	TUTT D3	III_14_0175	Blasiwald (Am Schluchsee), Blasiwald	8.17706, 47.7987	aister	a i s t e r	elster	e l s t e r	2
+71	TÜB x1	III_10_0082	Lierbach, Lierbach	8.19298, 48.52477	elschter	e l sch t e r	elster	e l s t e r	2
+72	TÜB x3	III_10_0141	Maisach, Maisach	8.20067, 48.47223	elschter	e l sch t e r	elster	e l s t e r	2
+73	TUTT i6	III_13_0092	Furtwangen (und Furtwangen-Katzensteig), Furtwangen	8.20648, 48.05227	elschder	e l sch d e r	elschter	e l sch t e r	1
+74	TUTT M14	III_15_0124	Nöggenschwiel, Nöggenschwiel	8.21364, 47.69246	elstere	e l s t e r e	elschder	e l sch d e r	4
+75	TUTT M4	III_15_0122	Brenden, Brenden	8.22606, 47.72946	elschtere	e l sch t e r e	elster	e l s t e r	3
+76	TÜB T2	III_12_0072	Reichenbach, Reichenbach	8.22958, 48.21343	elster	e l s t e r	elschter	e l sch t e r	2
+77	KST M3	III_6_0098, III_6_0099	Ötigheim, Oetigheim	8.23212, 48.89333	elschter	e l sch t e r	elschtr	e l sch t r	1
+78	TUTT q8	III_13_0161	Rudenberg, Rudenberg	8.23807, 47.9196	elschter	e l sch t e r	elschder	e l sch d e r	1
+79	KST T14/4, KST T14/1	III_7_0131	Baden-Baden-West, Baden-Baden , Baden-Baden Weststadt	8.24094, 48.76273	elschder	e l sch d e r	elschter	e l sch t e r	1
+80	TUTT i3	III_13_0089	Urach, Urach	8.25368, 48.00477	elschter	e l sch t e r	elstere	e l s t e r e	3
+81	TUTT b2	III_12_0162	Gremmelsbach, Gremmelsbach	8.25756, 48.15793	elschder	e l sch d e r	elster	e l s t e r	3
+82	TUTT M11	III_15_0126	Berau, Berau	8.25823, 47.69472	elschter	e l sch t e r	elster	e l s t e r	2
+83	TÜB T3	III_12_0070	Schwanenbach (Reichenbach), Schwanenbach	8.26562, 48.1922	elschdĕr	e l sch d ĕ r	elster	e l s t e r	4
+84	KST E5	III_5_0133, III_5_0132	Durmersheim, Durmersheim	8.2685, 48.93129	elschster	e l sch s t e r	elschder	e l sch d e r	2
+85	TUTT T10	III_16_0163	Breitenfeld, Breitenfeld	8.30617, 47.65178	elschter	e l sch t e r	älschtere	ä l sch t e r e	2
+86	TÜB M10	III_11_0152	Lehengericht, Vorderlehengericht	8.30807, 48.2924	elschdr	e l sch d r	elschter	e l sch t e r	2
+87	KST T6	III_7_0133	Staufenberg, Staufenberg	8.3082, 48.76673	elschter	e l sch t e r	elster	e l s t e r	2
+88	TUTT q3	III_13_0158	Hammereisenbach, Hammereisenbach	8.31732, 47.99481	elschder	e l sch d e r	elster	e l s t e r	3
+89	TUTT c3	III_12_0156	St. Georgen, St. Georgen	8.33183, 48.12564	elschder	e l sch d e r	elster	e l s t e r	3
+90	KST N1	III_6_0101, III_6_0100, III_6_0102	Malsch, Malsch	8.3345, 48.88047	elster	e l s t e r	elschter	e l sch t e r	2
+91	KST x 1	III_4_0114	Daxlanden, Daxlanden	8.33737, 49.0022	elschder	e l sch d e r	elster	e l s t e r	3
+92	TUTT U4	III_38_0006	Horheim, Horheim	8.34737, 47.64854	elschdere	e l sch d e r e	elster	e l s t e r	4
+93	KST U1	III_24_0001	Michelbach, Michelbach	8.35062, 48.8186	elsta	e l s t a	elster	e l s t e r	2
+94	TUTT U3	III_38_0004	Schwerzen, Schwerzen	8.35642, 47.64323	elschdere	e l sch d e r e	elschtere	e l sch t e r e	1
+95	KST N2, KST U6	III_24_0002	Sulzbach, Sulzbach	8.35791, 48.80596	elstär	e l s t ä r	elschder	e l sch d e r	4
+96	TÜB c8	III_25_0003, III_25_0004	Forbach, Forbach	8.3589, 48.67857	elster	e l s t e r	elschter	e l sch t e r	2
+97	TÜB c5	III_25_0002	Langenbrand, Langenbrand	8.36334, 48.70441	elsta	e l s t a	elschter	e l sch t e r	4
+98	TUTT k9	III_33_0002	Herzogenweiler, Herzogenweiler	8.37157, 48.0254	elschder	e l sch d e r	elster	e l s t e r	3
+99	TÜB N1	III_30_0007	Schenkenzell, Schenkenzell	8.37253, 48.31105	elschter	e l sch t e r	elschder	e l sch d e r	1
+100	TUTT c2	III_32_0002	Peterzell, Peterzell	8.37425, 48.13255	elschtr	e l sch t r	elschter	e l sch t e r	1
+101	KST F2	III_22_0001	Bulach, Bulach	8.38244, 48.9868	elschdar	e l sch d a r	elschder	e l sch d e r	1
+102	TUTT k7	III_34_0001	Tannheim, Tannheim	8.41033, 47.99946	elstr	e l s t r	elster	e l s t e r	1
+103	TUTT U1	III_38_0002	Erzingen, Erzingen	8.42011, 47.66108	elstera	e l s t e r a	elschdərə	e l sch d ə r ə	5
+104	TUTT U7	III_38_0014	Riedern am Sand (im SprachGIS: Unter Riedern), Riedern am Sand	8.4462, 47.6245	elschdr	e l sch d r	elschter	e l sch t e r	2
+105	TUTT U6	III_38_0013	Weisweil, Weisweil	8.45797, 47.64517	elschdere	e l sch d e r e	elstere	e l s t e r e	3
+106	TUTT k1	III_33_0069	Vilingen, Villingen	8.45901, 48.0567	elschder	e l sch d e r	elschter	e l sch t e r	1
+107	KST N7	III_23_0004, III_23_0003	Etzenrot, Etzenrot	8.46465, 48.90968	elster	e l s t e r	elsta	e l s t a	2
+108	KST y1	III_21_0006	Blankenloch, Blankenloch	8.47137, 49.06482	elster	e l s t e r	elschter	e l sch t e r	2
+109	TUTT r9	III_34_0005	Aufen, Aufen	8.47258, 47.964	elschdr	e l sch d r	elschder	e l sch d e r	1
+110	KST F9	III_22_0008	Palmbach, Palmbach	8.48266, 48.94683	elster	e l s t e r	elschtar	e l sch t a r	3
+111	TUTT U9	III_38_0016	Dettighofen, Dettighofen	8.48357, 47.62374	elschdäre	e l sch d ä r e	elsdere	e l s d e r e	3
+112	Ma h2/1, Ma h2/2	II_59_0064	Neckarau, Mannheim-Neckarau, Mannheim	8.49104, 49.45335	elschta	e l sch t a	elschter	e l sch t e r	2
+113	KST O8	III_23_0008, III_23_0009, III_23_0010	Langenalb, Langenalb	8.50104, 48.84402	elster	e l s t e r	elschster	e l sch s t e r	3
+114	TUTT V4,5	III_38_0017	Baltersweil, Baltersweil	8.51054, 47.63723	elstäre	e l s t ä r e	elstere	e l s t e r e	1
+115	KST s6	III_20_0162	Büchenau, Büchenau	8.52764, 49.10075	elstă	e l s t ă	elschter	e l sch t e r	4
+116	TUTT z8	III_35_0020, III_35_0019	Blumberg, Blumberg	8.53265, 47.83981	elschder	e l sch d e r	elster	e l s t e r	3
+117	TUTT z3	III_35_0015, III_35_0013, III_35_0014	Sumpfohren, Sumpfohren	8.53796, 47.90851	elschter	e l sch t e r	elster	e l s t e r	2
+118	TUTT z6	III_35_0017	Riedböhringen, Riedböhringen	8.53811, 47.87011	elschder	e l sch d e r	elster	e l s t e r	3
+119	KST O6	III_23_0016	Weiler Kr. Pforzheim, Weiler	8.54326, 48.8837	elschter	e l sch t e r	elster	e l s t e r	2
+120	TUTT d4	III_32_0016	Dauchingen, Dauchingen	8.55237, 48.09031	elster	e l s t e r	elschder	e l sch d e r	3
+121	KST O5	III_23_0015	Dietlingen, Dietlingen	8.60093, 48.89654	elschdr	e l sch d r	elschder	e l sch d e r	1
+122	MH H5	II_59_0072	Neckarhausen, Neckarhausen	8.60233, 49.46433	elschter	e l sch t e r	elster	e l s t e r	2
+123	TUTT z9	III_35_0021	Riedöschingen, Riedöschingen	8.6077, 47.84306	elster	e l s t e r	elschter	e l sch t e r	2
+124	KST G10	III_22_0022	Bilfingen, Bilfingen	8.61996, 48.95027	elschter	e l sch t e r	elster	e l s t e r	2
+125	KST G11	III_22_0023	Ersingen, Ersingen	8.63492, 48.93324	elschdr	e l sch d r	elschder	e l sch d e r	1
+126	TUTT s1	III_34_0024	Öfingen, Öfingen	8.63525, 47.99144	elschdĕr	e l sch d ĕ r	elschder	e l sch d e r	1
+127	TUTT G6	III_36_0020	Tengen, Tengen	8.66036, 47.81721	elschder	e l sch d e r	elster	e l s t e r	3
+128	KST P2	III_23_0032, III_23_0029, III_23_0030, III_23_0031	Brötzingen, Pforzheim-Brötzingen	8.66799, 48.889	elschda	e l sch d a	elschter	e l sch t e r	3
+129	KST P7	III_23_0057	Huchenfeld, Huchenfeld	8.69574, 48.85613	elschder	e l sch d e r	elschter	e l sch t e r	1
+130	KST P3/4, KST P3/3, KST P3/1	III_23_0043, III_23_0046, III_23_0039, III_23_0037, III_23_0052, III_23_0048, III_23_0054, III_23_0040, III_23_0038, III_23_0042, III_23_0045, III_23_0041, III_23_0049, III_23_0053, III_23_0047, III_23_0044, III_23_0036	Pforzheim, Pforzheim	8.70025, 48.89013	elschter	e l sch t e r	elster	e l s t e r	2
+131	TUTT J2 /2	III_36_0036, III_36_0037, III_36_0038	Schlatt (am Randen), Schlatt	8.70119, 47.76891	elstera	e l s t e r a	elstere	e l s t e r e	1
+132	TUTT t1	III_34_0032	Esslingen, Esslingen	8.71709, 47.99269	elschter	e l sch t e r	elster	e l s t e r	2
+133	KST H2	III_22_0032, III_22_0031	Bauschlott, Bauschlott	8.72785, 48.97051	elschder	e l sch d e r	elster	e l s t e r	3
+134	KST P8	III_23_0058	Würm, Würm	8.73641, 48.86041	elschder	e l sch d e r	elster	e l s t e r	3
+135	TÜB m1	III_26_0039	Wildberg Kreis Calw, Wildberg	8.73924, 48.62251	elschter	e l sch t e r	elster	e l s t e r	2
+136	KST H6	III_22_0035	Kieselbronn, Kieselbronn	8.75287, 48.93453	elster	e l s t e r	elschter	e l sch t e r	2
+137	KST H5	III_22_0034	Dürrn, Dürrn	8.75615, 48.95653	elschter	e l sch t e r	elster	e l s t e r	2
+138	KST W2	III_24_0024	Hamberg, Hamberg	8.76924, 48.81833	elster	e l s t e r	elsder	e l s d e r	1
+139	KST W4	III_24_0025	Steinegg, Steinegg	8.79091, 48.81349	elschder	e l sch d e r	elschter	e l sch t e r	1
+140	TUTT H1	III_36_0030	Ehingen, Ehingen	8.80075, 47.82351	elschder	e l sch d e r	elster	e l s t e r	3
+141	KST W3	III_24_0026	Tiefenbronn, Tiefenbronn	8.80329, 48.82521	elschder	e l sch d e r	elschdr	e l sch d r	1
+142	MH J13	II_59_0084	Schönau bei Heidelberg, Schönau	8.80977, 49.43706	elschtr	e l sch t r	elschda	e l sch d a	2
+143	TUTT A6	III_35_0035	Bittelbrunn (Aach), Bittelbrunn	8.81087, 47.86719	elschder	e l sch d e r	elschdr	e l sch d r	1
+144	TUTT A5	III_35_0036	Biesendorf, Biesendorf	8.81255, 47.91175	elster	e l s t e r	elschter	e l sch t e r	2
+145	KST m7	III_19_0036	Eichelberg, Eichelberg	8.813, 49.1891	elschter	e l sch t e r	elster	e l s t e r	2
+146	KST W5	III_24_0036	Mühlhausen , Mühlhausen	8.82201, 48.80607	elster	e l s t e r	elschdre	e l sch d r e	4
+147	TUTT J1	III_36_0043	Volkertshausen, Volkertshausen	8.863, 47.82187	elschster	e l sch s t e r	elster	e l s t e r	3
+148	TUTT J6	III_36_0044	Beuren an der Aach, Beuren	8.87459, 47.79932	elster	e l s t e r	elschdr	e l sch d r	3
+149	KST n13	III_19_0037	Weiler, Weiler	8.87587, 49.20862	elschter	e l sch t e r	elster	e l s t e r	2
+150	KST f10	III_18_0043, III_18_0044	Daisbach, Daisbach	8.87705, 49.2938	elschder	e l sch d e r	elster	e l s t e r	3
+151	MH K8	II_59_0097	Neckarhäuserhof, Neckarhäuserhof	8.88191, 49.41513	elschder	e l sch d e r	elschter	e l sch t e r	1
+152	MH S3	II_60_0054	Waldwimmersbach, Waldwimmersbach	8.89219, 49.37538	eltschter	e l t sch t e r	elster	e l s t e r	3
+153	KST u6	III_20_0052	Mühlbach, Mühlbach	8.90301, 49.09703	elschder	e l sch d e r	elschter	e l sch t e r	1
+154	TUTT B3	III_35_0045	Reute, Reute	8.90723, 47.8873	elschter	e l sch t e r	elster	e l s t e r	2
+155	MH S14	II_60_0058	Epfenbach, Epfenbach	8.91088, 49.33719	elschta	e l sch t a	elschdä	e l sch d ä	2
+156	TÜB f1	III_25_0047	Döffingen, Döffingen	8.91383, 48.7106	elschder	e l sch d e r	elster	e l s t e r	3
+157	MH K7	II_59_0088	Moosbrunn, Moosbrunn	8.92878, 49.42533	elschder	e l sch d e r	elschter	e l sch t e r	1
+158	MH S7	II_60_0059	Reichartshausen, Reichartshausen	8.94509, 49.35547	elschter	e l sch t e r	elschder	e l sch d e r	1
+159	KST f7	III_18_0052	Adersbach, Adersbach	8.95454, 49.2632	elschder	e l sch d e r	elschter	e l sch t e r	1
+160	KST n4	III_19_0051	Ehrstädt, Ehrstädt	8.98266, 49.24404	elschda	e l sch d a	elster	e l s t e r	4
+161	TÜB g1	III_25_0044	Sindelfingen, Sindelfingen	9.00194, 48.70797	elschder	e l sch d e r	elster	e l s t e r	3
+162	KST g7	III_18_0059	Untergimern, Untergimern	9.00947, 49.27049	elschder	e l sch d e r	elster	e l s t e r	3
+163	TUTT v6	III_34_0050	Mainwangen, Mainwangen	9.0105, 47.92565	elster	e l s t e r	elschtr	e l sch t r	3
+164	TUTT C6	III_35_0056	Stockach, Stockach	9.01468, 47.85384	elschder	e l sch d e r	elsterer	e l s t e r e r	3
+165	TUTT K7	III_36_0056	Liggeringen, Liggeringen	9.02698, 47.77495	elschder	e l sch d e r	elstr	e l s t r	4
+166	TUTT K6	III_36_0054	Bodman, Bodman	9.02835, 47.80402	elster	e l s t e r	elschtr	e l sch t r	3
+167	TUTT v3	III_34_0053	Bietingen, Bietingen	9.03261, 47.97091	elschter	e l sch t e r	elster	e l s t e r	2
+168	MH T7	II_60_0072	Mörtelstein, Mörtelstein	9.04246, 49.35708	elschder	e l sch d e r	elschda	e l sch d a	2
+169	MH L4	II_59_0099	Zwingenberg, Zwingenberg	9.04439, 49.41287	elschdr	e l sch d r	elschter	e l sch t e r	2
+170	MH C1	II_58_0102	Friedrichsdorf, Friedrichsdorf	9.054, 49.52034	elschder	e l sch d e r	elschter	e l sch t e r	1
+171	KST o2	III_19_0052	Treschklingen, Treschklingen	9.05577, 49.22614	elster	e l s t e r	elschder	e l sch d e r	3
+172	MH T6	II_60_0074	Binau, Binau	9.0577, 49.36658	elschdar	e l sch d a r	elschder	e l sch d e r	1
+173	TUTT C5	III_35_0055	Winterspüren, Winterspüren	9.05857, 47.85618	elschder	e l sch d e r	elster	e l s t e r	3
+174	KST g10	III_18_0063	Kälbertshausen, Kälbertshausen	9.06276, 49.31724	elschder	e l sch d e r	elschter	e l sch t e r	1
+175	MH T17	II_60_0075	Neckargerach, Neckargerach	9.0708, 49.40101	elschda	e l sch d a	elster	e l s t e r	4
+176	MH L3	II_59_0100	Schollbrunn, Schollbrunn	9.07962, 49.43431	elschder	e l sch d e r	elschdér	e l sch d é r	1
+177	KST g3	III_18_0062	Hüffenhardt, Hüffenhardt	9.08386, 49.2913	elschter	e l sch t e r	elster	e l s t e r	2
+178	KST g4	III_18_0061	Siegelsbach, Siegelsbach	9.08942, 49.27263	elschte	e l sch t e	elster	e l s t e r	3
+179	MH T10	II_60_0078	Obrigheim, Obrigheim	9.09608, 49.35186	elschder	e l sch d e r	elster	e l s t e r	3
+180	MH T5	II_60_0076	Reichenbuch, Reichenbuch	9.09708, 49.39371	elschter	e l sch t e r	elschder	e l sch d e r	1
+181	KST g1	III_18_0064	Hochhausen, Hochhausen	9.1008, 49.323	elschder	e l sch d e r	elschter	e l sch t e r	1
+182	TUTT v9	III_34_0049	Wasser, Wasser	9.10143, 47.9671	elster	e l s t e r	elschdr	e l sch d r	3
+183	KST o3	III_19_0058	Bad Rappenau, Bad Rappenau	9.10212, 49.24032	elschta	e l sch t a	elschder	e l sch d e r	3
+184	TUTT 05	III_33_0045	Langenhart, Langenhart	9.10404, 48.04793	elschtr	e l sch t r	elschter	e l sch t e r	1
+185	TUTT v7	III_34_0059	Sauldorf, Sauldorf	9.10721, 47.94343	elschder	e l sch d e r	elschter	e l sch t e r	1
+186	TUTT R1	III_37_0036	Dettingen, Dettingen	9.117, 47.73485	elstr	e l s t r	elschter	e l sch t e r	3
+187	TUTT v8	III_34_0060	Rast, Rast	9.12126, 47.93997	elschder	e l sch d e r	elster	e l s t e r	3
+188	TUTT o6	III_33_0046	Engelswies, Engelswies	9.12846, 48.04259	elschter	e l sch t e r	elschtr	e l sch t r	1
+189	KST g2	III_18_0065	Neckarzimmern, Neckarzimmern	9.1329, 49.31835	eltschter	e l t sch t e r	elschder	e l sch d e r	2
+190	MH T15	II_60_0077	Lohrbach, Lohrbach	9.14183, 49.4	elschder	e l sch d e r	elster	e l s t e r	3
+191	MH T13	II_60_0081, II_60_0082	Mosbach, Mosbach	9.14619, 49.35501	elschder	e l sch d e r	elster	e l s t e r	3
+192	MH L5	II_59_0108	Fahrenbach, Fahrenbach	9.14987, 49.43091	elschder	e l sch d e r	elschter	e l sch t e r	1
+193	SIG d1	III_33_0055	Göggingen, Göggingen	9.20194, 48.00389	elschder	e l sch d e r	elschter	e l sch t e r	1
+194	MH M5	II_59_0117	Limbach, Limbach	9.21181, 49.46142	elschter	e l sch t e r	elschder	e l sch d e r	1
+195	SIG n8	III_36_0077	Lippertsreute, Lippertsreute	9.23743, 47.80427	elster	e l s t e r	elstr	e l s t r	1
+196	MH Y1	III_18_0073	Allfeld, Allfeld	9.24133, 49.32379	elster	e l s t e r	elschter	e l sch t e r	2
+197	MH Y4	III_18_0076	Stein am Kocher, Stein	9.29954, 49.26198	elschdr	e l sch d r	elschděr	e l sch d ě r	1
+198	SIG n11	III_36_0082	Weildorf, Weildorf	9.30037, 47.78969	elschdr	e l sch d r	elschtr	e l sch t r	1
+199	SIG q10	III_37_0048	Hagnau, Hagnau	9.31963, 47.67634	elschder	e l sch d e r	elster	e l s t e r	3
+200	MH o8/2, MH o8/1	II_89_0005	Ebenheid, Ebenheid	9.36095, 49.7158	ellsta	e ll s t a	elster	e l s t e r	3
+201	MH w6	II_90_0002	Glashofen, Glashofen	9.36648, 49.62382	elschter	e l sch t e r	elster	e l s t e r	2
+202	SIG u1	III_38_0026	Immenstaad, Immenstaad	9.3675, 47.66625	elschtr	e l sch t r	elstr	e l s t r	2
+203	MH N4/1	II_92_0004	Zimmern, Zimmern	9.37304, 49.43313	elster	e l s t e r	elschder	e l sch d e r	3
+204	MH V2	II_93_0002	Sennfeld, Sennfeld	9.38438, 49.38045	elschder	e l sch d e r	elschter	e l sch t e r	1
+205	SIG r3	III_37_0052, III_37_0054, III_37_0053, III_37_0055	Markdorf, Markdorf	9.38933, 47.72088	elschder	e l sch d e r	elster	e l s t e r	3
+206	MH V3	II_93_0005	Leibenstadt, Leibenstadt	9.42028, 49.36861	elschter	e l sch t e r	elschder	e l sch d e r	1
+207	MH w2	II_90_0006	Dornberg, Dornberg	9.42843, 49.62542	elschder	e l sch d e r	elschter	e l sch t e r	1
+208	SIG o4	III_36_0094	Limpach, Limpach	9.42902, 47.79495	elschter	e l sch t e r	elschtr	e l sch t r	1
+209	MH V4	II_93_0006	Unterkessach, Unterkessach	9.43829, 49.34571	elschter	e l sch t e r	elster	e l s t e r	2
+210	MH o5	II_89_0011, II_89_0010, II_89_0009	Sachsenhausen, Sachsenhausen	9.49147, 49.73223	elschta	e l sch t a	elsder	e l s d e r	4
+211	MH p6/2, MH p6/1	II_89_0025	Uissigheim, Uissigheim	9.57194, 49.67957	elschder	e l sch d e r	elschter	e l sch t e r	1
+212	MH g2	II_88_0023	Lindelbach, Lindelbach	9.58346, 49.75732	elster	e l s t e r	elstr	e l s t r	1
+213	MH x1	II_90_0010	Eiersheim, Eiersheim	9.58787, 49.65953	elster	e l s t e r	elschder	e l sch d e r	3
+214	MH W8	II_93_0018	Gommersdorf, Gommersdorf	9.61253, 49.36877	elster	e l s t e r	elschter	e l sch t e r	2
+215	MH g1	II_88_0024	Dertingen über Wertheim a.M., Dertingen	9.61957, 49.7665	elster	e l s t e r	elsder	e l s d e r	1
+216	MH F8	II_91_0015	Heckfeld, Heckfeld	9.63713, 49.55077	elschtr	e l sch t r	elster	e l s t e r	3
+217	MH X1	II_93_0023	Klepsau, Klepsau	9.67156, 49.38805	elschter	e l sch t e r	elster	e l s t e r	2
+218	MH P4	II_92_0030, II_92_0031, II_92_0029, II_92_0032	Assamstadt, Assamstadt	9.68738, 49.42689	elschter	e l sch t e r	elster	e l s t e r	2
+219	MH y5	II_90_0022	Distelhausen, Distelhausen	9.69353, 49.59735	ellschter	e ll sch t e r	elster	e l s t e r	3
+220	MH y7	II_90_0131	Vilchband, Vilchband	9.82424, 49.58989	elstr	e l s t r	elster	e l s t e r	1
+221	Co y 1/2, Co y 1/1	III_14_0017	Rimbach-Zell (Rimbachzell), Rimbach-Zell	7.17995, 47.8995	älster	ä l s t e r	elster	e l s t e r	1
+222	Co y 1/2, Co y 1/1	III_14_0017	Rimbach-Zell (Rimbachzell), Rimbach-Zell	7.17995, 47.8995	ålster	å l s t e r	elster	e l s t e r	1
+223	Co J7	III_14_0147, III_15_0061	Malsburg, Malsburg	7.70866, 47.73257	elster	e l s t e r	elschder	e l sch d e r	3
+224	Co J7	III_14_0147, III_15_0061	Malsburg, Malsburg	7.70866, 47.73257	elster	e l s t e r	elschter	e l sch t e r	2
+225	Co X 8	III_16_0099	Höllstein, Höllstein	7.74574, 47.63943	elschter	e l sch t e r	elschtěr	e l sch t ě r	1
+226	Co X 8	III_16_0099	Höllstein, Höllstein	7.74574, 47.63943	elschtr	e l sch t r	elschtěr	e l sch t ě r	1
+227	Co X 14	III_16_0103, III_16_0104	Minseln, Minseln	7.79067, 47.60301	elstere	e l s t e r e	elschter	e l sch t e r	3
+228	Stra D 8	III_10_0128, III_10_0127	Offenburg, Offenburg	7.9447, 48.47195	elster	e l s t e r	elschter	e l sch t e r	2
+229	TUTT L4/2, Co R15, TUTT L4/1	III_15_0073, III_14_0176	Todtmoos, Todtmoos , Todtmoos	8.00438, 47.74133	elschter	e l sch t e r	elster	e l s t e r	2
+230	TUTT L1	III_15_0112, III_15_0111	Urberg, Urberg	8.12409, 47.73478	elschdr	e l sch d r	elschtr	e l sch t r	1
+231	TUTT L12	III_15_0107, III_15_0106, III_15_0104	Remetschwiel/Brunnadern, Brunnadern, Remetschwiel	8.14553, 47.68929	elstere	e l s t e r e	elschtere	e l sch t e r e	2
+232	KST T14/4, KST T14/1	III_7_0131	Baden-Baden-West, Baden-Baden , Baden-Baden Weststadt	8.24094, 48.76273	elster	e l s t e r	elschter	e l sch t e r	2
+233	KST T14/4, KST T14/1	III_7_0131	Baden-Baden-West, Baden-Baden , Baden-Baden Weststadt	8.24094, 48.76273	elschder	e l sch d e r	elschter	e l sch t e r	1
+234	TUTT i2	III_13_0087, III_13_0086	Vöhrenbach, Vöhrenbach	8.30495, 48.04519	elster	e l s t e r	elschter	e l sch t e r	2
+235	KST N1	III_6_0101, III_6_0100, III_6_0102	Malsch, Malsch	8.3345, 48.88047	elster	e l s t e r	elschter	e l sch t e r	2
+236	KST N2, KST U6	III_24_0002	Sulzbach, Sulzbach	8.35791, 48.80596	elschter	e l sch t e r	elschder	e l sch d e r	1
+237	KST N2, KST U6	III_24_0002	Sulzbach, Sulzbach	8.35791, 48.80596	elstär	e l s t ä r	elschder	e l sch d e r	4
+238	KST F14/2, KST F14/1	III_22_0004, III_22_0006	Ettlingen , Ettlingen, Ettlingen	8.40245, 48.94247	elschter	e l sch t e r	elster	e l s t e r	2
+239	KST F14/2, KST F14/1	III_22_0004, III_22_0006	Ettlingen , Ettlingen, Ettlingen	8.40245, 48.94247	elster	e l s t e r	elschter	e l sch t e r	2
+240	KST N7	III_23_0004, III_23_0003	Etzenrot, Etzenrot	8.46465, 48.90968	elster	e l s t e r	elsta	e l s t a	2
+241	Ma h2/1, Ma h2/2	II_59_0064	Neckarau, Mannheim-Neckarau, Mannheim	8.49104, 49.45335	elsta	e l s t a	elschter	e l sch t e r	4
+242	Ma h2/1, Ma h2/2	II_59_0064	Neckarau, Mannheim-Neckarau, Mannheim	8.49104, 49.45335	elschta	e l sch t a	elschter	e l sch t e r	2
+243	KST O8	III_23_0008, III_23_0009, III_23_0010	Langenalb, Langenalb	8.50104, 48.84402	elster	e l s t e r	elschster	e l sch s t e r	3
+244	TUTT z8	III_35_0020, III_35_0019	Blumberg, Blumberg	8.53265, 47.83981	elschder	e l sch d e r	elschter	e l sch t e r	1
+245	TUTT z8	III_35_0020, III_35_0019	Blumberg, Blumberg	8.53265, 47.83981	elschder	e l sch d e r	elster	e l s t e r	3
+246	KST P2	III_23_0032, III_23_0029, III_23_0030, III_23_0031	Brötzingen, Pforzheim-Brötzingen	8.66799, 48.889	elschda	e l sch d a	elschder	e l sch d e r	2
+247	KST P2	III_23_0032, III_23_0029, III_23_0030, III_23_0031	Brötzingen, Pforzheim-Brötzingen	8.66799, 48.889	elschda	e l sch d a	elschter	e l sch t e r	3
+248	KST P3/4, KST P3/3, KST P3/1	III_23_0043, III_23_0046, III_23_0039, III_23_0037, III_23_0052, III_23_0048, III_23_0054, III_23_0040, III_23_0038, III_23_0042, III_23_0045, III_23_0041, III_23_0049, III_23_0053, III_23_0047, III_23_0044, III_23_0036	Pforzheim, Pforzheim	8.70025, 48.89013	elschder	e l sch d e r	elschter	e l sch t e r	1
+249	KST P3/4, KST P3/3, KST P3/1	III_23_0043, III_23_0046, III_23_0039, III_23_0037, III_23_0052, III_23_0048, III_23_0054, III_23_0040, III_23_0038, III_23_0042, III_23_0045, III_23_0041, III_23_0049, III_23_0053, III_23_0047, III_23_0044, III_23_0036	Pforzheim, Pforzheim	8.70025, 48.89013	elschder	e l sch d e r	elster	e l s t e r	3
+250	KST P3/4, KST P3/3, KST P3/1	III_23_0043, III_23_0046, III_23_0039, III_23_0037, III_23_0052, III_23_0048, III_23_0054, III_23_0040, III_23_0038, III_23_0042, III_23_0045, III_23_0041, III_23_0049, III_23_0053, III_23_0047, III_23_0044, III_23_0036	Pforzheim, Pforzheim	8.70025, 48.89013	elschter	e l sch t e r	elschder	e l sch d e r	1
+251	KST P3/4, KST P3/3, KST P3/1	III_23_0043, III_23_0046, III_23_0039, III_23_0037, III_23_0052, III_23_0048, III_23_0054, III_23_0040, III_23_0038, III_23_0042, III_23_0045, III_23_0041, III_23_0049, III_23_0053, III_23_0047, III_23_0044, III_23_0036	Pforzheim, Pforzheim	8.70025, 48.89013	elschter	e l sch t e r	elster	e l s t e r	2
+252	KST H2	III_22_0032, III_22_0031	Bauschlott, Bauschlott	8.72785, 48.97051	elschder	e l sch d e r	elster	e l s t e r	3
+253	TUTT t3	III_34_0029, III_34_0031, III_34_0030	Möhringen, Möhringen	8.75916, 47.96779	elster	e l s t e r	elschter	e l sch t e r	2
+254	KST f10	III_18_0043, III_18_0044	Daisbach, Daisbach	8.87705, 49.2938	elschder	e l sch d e r	elster	e l s t e r	3
+255	KST g4	III_18_0061	Siegelsbach, Siegelsbach	9.08942, 49.27263	elschter	e l sch t e r	elster	e l s t e r	2
+256	KST g4	III_18_0061	Siegelsbach, Siegelsbach	9.08942, 49.27263	elschte	e l sch t e	elster	e l s t e r	3
+257	MH T13	II_60_0081, II_60_0082	Mosbach, Mosbach	9.14619, 49.35501	elschder	e l sch d e r	elschter	e l sch t e r	1
+258	MH T13	II_60_0081, II_60_0082	Mosbach, Mosbach	9.14619, 49.35501	elschder	e l sch d e r	elster	e l s t e r	3
+259	MH o8/2, MH o8/1	II_89_0005	Ebenheid, Ebenheid	9.36095, 49.7158	ellsta	e ll s t a	elster	e l s t e r	3
+260	MH o5	II_89_0011, II_89_0010, II_89_0009	Sachsenhausen, Sachsenhausen	9.49147, 49.73223	elschta	e l sch t a	elster	e l s t e r	4
+261	MH o5	II_89_0011, II_89_0010, II_89_0009	Sachsenhausen, Sachsenhausen	9.49147, 49.73223	elschta	e l sch t a	elsder	e l s d e r	4
+262	MH O6	II_92_0015, II_92_0018, II_92_0017	Windischbuch, Windischbuch	9.62194, 49.43593	elschter	e l sch t e r	elschder	e l sch d e r	1
+263	MH P4	II_92_0030, II_92_0031, II_92_0029, II_92_0032	Assamstadt, Assamstadt	9.68738, 49.42689	elschter	e l sch t e r	elschder	e l sch d e r	1
+264	MH P4	II_92_0030, II_92_0031, II_92_0029, II_92_0032	Assamstadt, Assamstadt	9.68738, 49.42689	elschter	e l sch t e r	elster	e l s t e r	2

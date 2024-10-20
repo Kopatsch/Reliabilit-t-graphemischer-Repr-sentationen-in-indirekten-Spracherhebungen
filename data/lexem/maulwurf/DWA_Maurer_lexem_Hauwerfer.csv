@@ -1,0 +1,4 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	KST G5	na	Nöttingen	8.56916, 48.93008	hauwerfel	na	999	hauwerfel	na	999	Hauwerfer	na	999
+1	KST G8	III_22_0020, III_22_0024	Königsbach, Stein, Königsbach	8.61207, 48.96515	hauwerfa	hauwerfer	2	hauwerfer	hauwerfer	0	Hauwerfer	Hauwerfer	0
+2	KST G9	na	Stein bei Pforzheim	8.6446, 48.9626	hauwerfer	na	999	hauwerfer	na	999	Hauwerfer	na	999

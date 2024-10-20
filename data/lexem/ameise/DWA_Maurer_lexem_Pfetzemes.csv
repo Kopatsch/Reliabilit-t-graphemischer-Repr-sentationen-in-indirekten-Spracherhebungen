@@ -1,0 +1,29 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	MH C3	II_58_0110	Scheidental, Scheidental	9.15106, 49.50744	petzäimetz	petzäimeds	2	petseimetse	petseimetse	0	Pfetzemes	Pfetzemes	0
+1	MH C4	na	Schloßau	9.15226, 49.53935	petzemez	na	999	petsemetse	na	999	Pfetzemes	na	999
+2	MH C5	na	Waldauerbach	9.15798, 49.52591	petzemetz	na	999	petsemetse	na	999	Pfetzemes	na	999
+3	MH D1	II_58_0106	Mörschenhardt, Mörschenhardt	9.17211, 49.56893	petzemez	petzemez	0	petsemetse	petsemetse	0	Pfetzemes	Pfetzemes	0
+4	MH D2	na	Donebach	9.19217, 49.56113	pätzäïmez	na	999	petseimetse	na	999	Pfetzemes	na	999
+5	MH D8	II_58_0111	Steinbach, Steinbach	9.24327, 49.54854	pätzemez	pätzemez	0	petsemetse	petsemese	1	Pfetzemes	Pfetzemes	0
+6	MH v1	II_57_0140	Gottersdorf, Gottersdorf	9.31064, 49.63751	petzemetz	petzemes	2	petsemetse	petsemese	1	Pfetzemes	Pfetzemes	0
+7	MH v3	II_57_0139	Gerolzahn, Gerolzahn	9.31895, 49.62645	pätzemes	pätzemes	0	petsemese	petsemese	0	Pfetzemes	Pfetzemes	0
+8	MH w1	II_90_0001	Reichenhardsachsen, Reichenhardsachsen	9.34508, 49.64003	pätzemetz	petzemetz	1	petsemetse	petsemetse	0	Pfetzemes	Pfetzemes	0
+9	MH o8/1, MH o8/2	II_89_0005	Ebenheid, Ebenheid	9.36095, 49.7158	pätsemes, pädsemedde	petzemes	2	petsemede, petsemese	petsemese	0	Pfetzemes	Pfetzemes	0
+10	MH w6	na	Glashofen	9.36648, 49.62382	pezemez	na	999	petsemetse	na	999	Pfetzemes	na	999
+11	MH o1	II_89_0016	Rauenberg, Rauenberg	9.38407, 49.74117	pätzemetz	pätzemes	2	petsemetse	petsemese	1	Pfetzemes	Pfetzemes	0
+12	MH w7	II_90_0003	Wettersdorf, Wettersdorf	9.38743, 49.63075	petzemez	petzemez	0	petsemetse	petsemetse	0	Pfetzemes	Pfetzemes	0
+13	MH f2	II_88_0005	Boxtal, Boxtal	9.40146, 49.76416	petzemes	petzemes	0	petsemese	petsemese	0	Pfetzemes	Pfetzemes	0
+14	MH o2	II_89_0006	Wessental, Wessental	9.41215, 49.73004	pfetsemes	pfetzemes	1	pfetsemese	pfetsemese	0	Pfetzemes	Pfetzemes	0
+15	MH w4	II_90_0005	Höpfingen, Höpfingen	9.42753, 49.60185	pfetzemes	betzemes	2	pfetsemese	petsemese	1	Pfetzemes	Pfetzemes	0
+16	MH f3	II_88_0014	Grünenwört, Grünenwört	9.47135, 49.77438	pfätzemes	pfetzeämes	2	pfetsemese	pfetsemese	0	Pfetzemes	Pfetzemes	0
+17	MH o6	II_89_0008	Vockenrot, Vockenrot	9.48521, 49.74816	pfetzemes	pfetzeimese	2	pfetsemese	pfetseimese	1	Pfetzemes	Pfetzemes	0
+18	MH p4	na	Dörlesberg	9.501, 49.71273	pfätzemessen	na	999	pfetsemesen	na	999	Pfetzemes	na	999
+19	MH p2	II_89_0022	Reicholzheim, Reicholzheim	9.53393, 49.72663	pfetzemes	pfetzemes	0	pfetsemese	pfetsemese	0	Pfetzemes	Pfetzemes	0
+20	MH p8	II_89_0026	Gamburg, Gamburg	9.59986, 49.69382	pfetzemes	pfetzemes	0	pfetsemese	pfetsemese	0	Pfetzemes	Pfetzemes	0
+21	MH q3	II_89_0035	Werbachhausen, Werbachhausen	9.67954, 49.67946	fazhames	fazhames	0	fatshames	fatshames	0	Pfetzemes	Pfetzemes	0
+22	na	II_60_0051	Schlierbach	8.76062, 49.41501	na	pätzemmeze	999	na	petsemetse	999	na	Pfetzemes	999
+23	na	II_59_0119	Laudenberg	9.21457, 49.48066	na	petzemetz	999	na	petsemetse	999	na	Pfetzemes	999
+24	na	II_57_0143	Hornbach	9.29012, 49.591	na	petzemens	999	na	petsementse	999	na	Pfetzemes	999
+25	na	II_88_0007	Mondfeld	9.41656, 49.7837	na	pätzemetz	999	na	petsemetse	999	na	Pfetzemes	999
+26	na	II_89_0007	Nassig	9.45146, 49.73582	na	pfätzemäs	999	na	pfetsemese	999	na	Pfetzemes	999
+27	na	II_89_0023	Bronnbach	9.54654, 49.71348	na	pätzämes	999	na	petsemese	999	na	Pfetzemes	999

@@ -1,0 +1,19 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	TUTT F2	na	Bonndorf	8.34216, 47.8198	wurmeise	na	999	wurmeise	na	999	Wurmeise	na	999
+1	TUTT H7	na	Büsslingen	8.6839, 47.79252	wurmose	na	999	wurmase	na	999	Wurmeise	na	999
+2	TUTT J2 /2	na	Schlatt (am Randen)	8.70119, 47.76891	wurmåsa	na	999	wurmase	na	999	Wurmeise	na	999
+3	TUTT H6	na	Binningen	8.72585, 47.79296	wurmoße	na	999	wurmase	na	999	Wurmeise	na	999
+4	TUTT A4	na	Zimmerholz	8.74175, 47.86811	wormåse	na	999	wurmase	na	999	Wurmeise	na	999
+5	TUTT P1	na	Ebringen	8.75733, 47.75075	wurmaise	na	999	wurmeise	na	999	Wurmeise	na	999
+6	TUTT H4	na	Hilzingen	8.78189, 47.7649	wurmose	na	999	wurmase	na	999	Wurmeise	na	999
+7	TUTT J8	III_36_0047	Steisslingen, Steisslingen	8.92209, 47.80296	wurmäss	wurmäsen	2	wurmese	wurmesen	1	Wurmeise	Wurmeise	0
+8	na	III_14_0178	Staufen	8.21221, 47.75633	na	wurmeisen	999	na	wurmeisen	999	na	Wurmeise	999
+9	na	III_14_0182, III_14_0183	Birkendorf	8.3126, 47.74971	na	wurmeise	999	na	wurmeise	999	na	Wurmeise	999
+10	na	III_36_0015	Oberwangen	8.3775, 47.7761	na	wurmeise	999	na	wurmeise	999	na	Wurmeise	999
+11	na	III_37_0002	Degernau	8.38187, 47.66635	na	wurmeise	999	na	wurmeise	999	na	Wurmeise	999
+12	na	III_38_0010	Geisslingen	8.39181, 47.61975	na	wurmeise	999	na	wurmeise	999	na	Wurmeise	999
+13	na	III_38_0015	Bergöschingen	8.42093, 47.59537	na	wurmmeise	999	na	wurmeise	999	na	Wurmeise	999
+14	na	III_38_0005	Stetten	8.4393, 47.59011	na	wurmmeise	999	na	wurmeise	999	na	Wurmeise	999
+15	na	III_35_0020	Blumberg	8.53265, 47.83981	na	wurmo̊se	999	na	wurmase	999	na	Wurmeise	999
+16	na	III_38_0021, III_38_0022, III_38_0020	Jestetten	8.57572, 47.65297	na	wurmeise	999	na	wurmeise	999	na	Wurmeise	999
+17	na	III_35_0025	Leipferdingen	8.66787, 47.86461	na	wurmoase	999	na	wurmoase	999	na	Wurmeise	999

@@ -1,0 +1,46 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Stra Y 3	na	Weisweil	7.67618, 48.19761	schdeckgiefle	na	999	schtekgifle	na	999	Steckgifle	na	999
+1	Stra R 11	III_11_0110	Kappel a. Rh., Kappel a. Rh.	7.74182, 48.29235	steckgiefli	stäckgehfle	4	schtekgifli	schtekgefle	2	Steckgifle	Steckgifle	0
+2	Co f 4	na	Bottingen	7.78356, 48.09119	steckgifli	na	999	schtekgifli	na	999	Steckgifle	na	999
+3	Co u 20	na	Sölden	7.80967, 47.93307	steckgiefli	na	999	schtekgifli	na	999	Steckgifle	na	999
+4	Co g 3	na	Wasser	7.8564, 48.09846	steckgīefilī	na	999	schtekgifeli	na	999	Steckgifle	na	999
+5	Co K7	III_14_0155	Schönenberg, Schönenberg	7.88227, 47.79265	schdeckgifli	steckgüfli	4	schtekgifli	schtekgüfli	1	Steckgifle	Steckgifle	0
+6	Co g 4	na	Windenreuthe (Emmendingen)	7.88675, 48.11814	steckgifli	na	999	schtekgifli	na	999	Steckgifle	na	999
+7	Co R7	III_15_0075	Häg-Rohrberg, Rohrberg	7.90412, 47.7181	schteckgöfli	steckgüfli	3	schtekgöfli	schtekgüfli	1	Steckgifle	Steckgifle	0
+8	Co K9	III_14_0162	Tunau, Tunau	7.92311, 47.78574	schdeckgīfli	steckgüfli	4	schtekgifli	schtekgüfli	1	Steckgifle	Steckgifle	0
+9	Stra S 7	na	Wittelbach	7.95069, 48.29243	steckgifli	na	999	schtekgifli	na	999	Steckgifle	na	999
+10	Co R4	na	Happach	7.95137, 47.7412	schdeckgüfli	na	999	schtekgüfli	na	999	Steckgifle	na	999
+11	Co v 6	na	Burg am Wald	7.97957, 47.97091	s͟teckgifli	na	999	schtekgifli	na	999	Steckgifle	na	999
+12	TUTT p3	na	Unteribental	8.00642, 47.97982	steckgifle	na	999	schtekgifle	na	999	Steckgifle	na	999
+13	TUTT Sa8	na	Luttingen und Grunholz	8.09878, 47.57252	steckgüfeli	na	999	schtekgüfeli	na	999	Steckgifle	na	999
+14	TUTT T5	na	Eschbach	8.18086, 47.6336	schdegggüffili	na	999	schtekgüfeli	na	999	Steckgifle	na	999
+15	KST M1	III_6_0097	Steinmauern, Steinmauern	8.19956, 48.90045	steckgiefel	steckgifel	1	schtekgifel	schtekgifel	0	Steckgifle	Steckgifle	0
+16	TUTT M12	na	Aichen	8.26226, 47.67494	steckgüffeli	na	999	schtekgüfeli	na	999	Steckgifle	na	999
+17	TUTT T10	III_16_0163	Breitenfeld, Breitenfeld	8.30617, 47.65178	steckgüffeli	steckgũffeli	1	schtekgüfeli	schtekgufeli	1	Steckgifle	Steckgifle	0
+18	TUTT b1	na	Langenschiltach	8.3168, 48.16202	steckgifle	na	999	schtekgifle	na	999	Steckgifle	na	999
+19	TUTT U13	na	Geißlingen	8.39181, 47.61975	schteckgüffili	na	999	schtekgüfeli	na	999	Steckgifle	na	999
+20	TUTT k8	na	Pfaffenweiler	8.41798, 48.03273	steckglifli	na	999	schtekglifli	na	999	Steckgifle	na	999
+21	TUTT d2	na	Kappel	8.50341, 48.11215	steckklüfli	na	999	schtekglifli	na	999	Steckgifle	na	999
+22	TUTT V3	na	Lottstetten	8.56963, 47.62576	steckgüfelli	na	999	schtekgüfeli	na	999	Steckgifle	na	999
+23	TUTT s1	III_34_0024	Öfingen, Öfingen	8.63525, 47.99144	steckglifle	steckglifle	0	schtekglifle	schtekglifle	0	Steckgifle	Steckgifle	0
+24	TUTT J7	na	Wiechs	8.90712, 47.8158	steckgliffli	na	999	schtekglifli	na	999	Steckgifle	na	999
+25	TUTT C10	III_35_0059	Mühlingen, Mühlingen	9.01554, 47.91191	steckklifli	steckglifli	1	schtekglifli	schtekglifli	0	Steckgifle	Steckgifle	0
+26	TUTT C1	na	Schwackenreute	9.04401, 47.91392	steckglifli	na	999	schtekglifli	na	999	Steckgifle	na	999
+27	na	III_17_0005	Heimersdorf	7.24206, 47.57224	na	schdeckgiefela	999	na	schtekgifela	999	na	Steckgifle	999
+28	na	III_11_0109	Kippenheimweiler	7.80753, 48.31925	na	schdeggiifli	999	na	schtekgifeli	999	na	Steckgifle	999
+29	na	III_14_0066	Obermünstertal-Spielweg	7.83588, 47.87776	na	steggifle	999	na	schtekgifle	999	na	Steckgifle	999
+30	na	III_15_0070	Ehrsberg	7.90629, 47.74318	na	steckgüfli	999	na	schtekgüfli	999	na	Steckgifle	999
+31	na	III_15_0091	Grossherrischwand	8.01017, 47.6797	na	steckbüfeli	999	na	schtekbüfeli	999	na	Steckgifle	999
+32	na	III_15_0094	Wehrhalden	8.01061, 47.70213	na	steckbüfeli	999	na	schtekbüfeli	999	na	Steckgifle	999
+33	na	III_12_0058	Unterbiederbach	8.02694, 48.2183	na	stekgifli	999	na	schtekgüfeli	999	na	Steckgifle	999
+34	na	III_13_0076	Gütenbach	8.13807, 48.04398	na	schdeckgifli	999	na	schtekgifli	999	na	Steckgifle	999
+35	na	III_14_0076	Holzschlag	8.26456, 47.84976	na	streckgofali	999	na	schtrekgofeli	999	na	Steckgifle	999
+36	na	III_12_0169	Brigach	8.3086, 48.11587	na	steckgiefle	999	na	schtekgifle	999	na	Steckgifle	999
+37	na	III_37_0003	Untermettingen	8.34615, 47.70245	na	steckgüffeli	999	na	schtekgüfeli	999	na	Steckgifle	999
+38	na	III_36_0004	Grimmelshofen	8.49573, 47.78613	na	steckgüffeli	999	na	schtekgüfeli	999	na	Steckgifle	999
+39	na	III_38_0017	Baltersweil	8.51054, 47.63723	na	stegüfili	999	na	schtegüfeli	999	na	Steckgifle	999
+40	na	III_19_0013	Wiesental	8.51962, 49.22472	na	steckgliefel	999	na	schtekgifel	999	na	Steckgifle	999
+41	na	III_36_0041	Hausen	8.67575, 47.91421	na	steckklifli	999	na	schtekglifli	999	na	Steckgifle	999
+42	na	III_37_0022	Schienen	8.90035, 47.68774	na	steckglüfli	999	na	schtekglüfli	999	na	Steckgifle	999
+43	na	III_35_0048	Raithaslach	8.96262, 47.88125	na	steckglifli	999	na	schtekglifli	999	na	Steckgifle	999
+44	na	III_36_0092	Mittelstenweiler	9.33753, 47.75241	na	steckglüfle	999	na	schtekglüfle	999	na	Steckgifle	999

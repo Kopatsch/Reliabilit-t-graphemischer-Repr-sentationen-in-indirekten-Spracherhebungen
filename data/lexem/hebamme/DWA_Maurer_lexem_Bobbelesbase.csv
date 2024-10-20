@@ -1,0 +1,4 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	MH E1	II_58_0115	Hainstadt, Hainstadt	9.33082, 49.53905	bobbelischbaasch	boppelischbasch	3	bobbelesbasch	bobbeleschbasch	2	Bobbelesbase	Bobbelesbase	0
+1	MH x6	II_90_0012	Königheim, Königheim	9.59419, 49.61802	bobbelesbāsch	bobbelesbas	3	bobbelesbasch	bobbelesbas	2	Bobbelesbase	Bobbelesbase	0
+2	na	III_18_0060	Obergimpern	9.04013, 49.25574	na	bobbilesbaas	999	na	bobbelesbas	999	na	Bobbelesbase	999

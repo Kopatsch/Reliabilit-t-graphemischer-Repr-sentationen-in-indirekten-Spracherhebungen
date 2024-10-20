@@ -1,0 +1,8 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_maurer_align	item_DWA	item_DWA_align	Levenshtein_item
+0	SIG q10	III_37_0048	Hagnau, Hagnau	9.31963, 47.67634	bodebirre	b o d e b i rr e	boddebirre	b o dd e b i r r e	1
+1	SIG u1	III_38_0026	Immenstaad, Immenstaad	9.3675, 47.66625	bodebirre	b o d e b i rr e	bodebire	b o d e b i r e	1
+2	SIG r5	III_37_0056	Kluftern, Kluftern	9.40004, 47.69278	bodebirre	b o d e b i rr e	boddebirre	b o dd e b i r r e	1
+3	SIG r4	III_37_0057	Riedheim, Riedheim	9.41014, 47.70429	bodabire	b o d a b i r e	bodenbirna	b o d e n b i r n a	4
+4	SIG o4	III_36_0094	Limpach, Limpach	9.42902, 47.79495	bodebire	b o d e b i r e	bodebirre	b o d e b i rr e	1
+5	SIG o6	III_36_0096	Urnau, Urnau	9.43083, 47.76354	bodebiare	b o d e b i a r e	bodebirrĕ	b o d e b i rr ĕ	2
+6	SIG r6	III_37_0058	Hepbach, Hepbach	9.43103, 47.7193	bodenbire	b o d e n b i r e	boddebiere	b o dd e b ie r e	3

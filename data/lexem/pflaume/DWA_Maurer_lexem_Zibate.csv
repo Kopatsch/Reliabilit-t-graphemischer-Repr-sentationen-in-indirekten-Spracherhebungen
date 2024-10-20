@@ -1,0 +1,6 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	TUTT H6	na	Binningen	8.72585, 47.79296	zibate	na	999	zibate	na	999	Zibate	na	999
+1	TUTT J8	na	Steisslingen	8.92209, 47.80296	zibaten	na	999	zibate	na	999	Zibate	na	999
+2	TUTT B8	na	Nenzingen	8.95914, 47.84256	zibadå	na	999	zibate	na	999	Zibate	na	999
+3	na	III_13_0079	St. Märgen	8.09239, 48.00756	na	zibade	999	na	zibate	999	na	Zibate	999
+4	na	III_34_0050	Mainwangen	9.0105, 47.92565	na	zibate	999	na	zibate	999	na	Zibate	999

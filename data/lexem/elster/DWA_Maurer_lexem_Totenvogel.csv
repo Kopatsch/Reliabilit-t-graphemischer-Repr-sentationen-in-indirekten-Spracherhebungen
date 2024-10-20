@@ -1,0 +1,30 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Co n 9	na	Hugstetten	7.78045, 48.05415	todevogel	na	999	totevogel	na	999	Totenvogel	na	999
+1	Co v 1	na	Littenweiler	7.90338, 47.97778	dodevogel	na	999	totevogel	na	999	Totenvogel	na	999
+2	TÜB L1	na	Prinzbach	8.0046, 48.32294	totenvogel	na	999	totenvogel	na	999	Totenvogel	na	999
+3	TUTT Sa5	na	Oberhof	8.0324, 47.58493	dotevogel	na	999	totevogel	na	999	Totenvogel	na	999
+4	TÜB L7	na	Haslach im Kinzigtal	8.08413, 48.28008	totevogel	na	999	totevogel	na	999	Totenvogel	na	999
+5	TÜB b4	III_8_0111, III_8_0110	Neuweier, Neuweier	8.18377, 48.72012	dodevogel	dodevogel	0	totevogel	totevogel	0	Totenvogel	Totenvogel	0
+6	KST T9	na	Haueneberstein	8.22194, 48.80626	dodevoggel	na	999	totevogel	na	999	Totenvogel	na	999
+7	TUTT M8	III_15_0116	Riedern im Wald, Riedern	8.29113, 47.71786	todevogel	totenvogel	2	totevogel	totenvogel	1	Totenvogel	Totenvogel	0
+8	TUTT F4	III_36_0005	Wittlekoffen, Wittlekoffen	8.34635, 47.78326	tōtenvoggel	dotevogel	4	totenvogel	totevogel	1	Totenvogel	Totenvogel	0
+9	TUTT y7	III_35_0001	Mundelfingen, Mundelfingen	8.46432, 47.8676	totevogĕl	totevogl	1	totevogel	totevogel	0	Totenvogel	Totenvogel	0
+10	TUTT G6	na	Tengen	8.66036, 47.81721	totenvogel	na	999	totenvogel	na	999	Totenvogel	na	999
+11	TUTT t2	na	Ippingen	8.67098, 47.98355	totevogel	na	999	totevogel	na	999	Totenvogel	na	999
+12	TUTT H10	na	Welschingen	8.75772, 47.82306	dodeͣ̈voggel	na	999	totevogel	na	999	Totenvogel	na	999
+13	MH S6	na	Mönchzell	8.85327, 49.33612	dōdevogel	na	999	totevogel	na	999	Totenvogel	na	999
+14	TUTT z2	na	Nendingen	8.86067, 48.00602	todenvogel	na	999	totenvogel	na	999	Totenvogel	na	999
+15	TUTT B4	na	Honstetten	8.88331, 47.8933	totenvogel	na	999	totenvogel	na	999	Totenvogel	na	999
+16	TUTT K7	III_36_0055	Liggeringen, Liggeringen	9.02698, 47.77495	dodevogel	dodavogel	1	totevogel	totevogel	0	Totenvogel	Totenvogel	0
+17	na	III_13_0139	Merzhausen	7.82532, 47.96635	na	todevogel	999	na	totevogel	999	na	Totenvogel	999
+18	na	III_16_0120	Bergalingen	7.95943, 47.61266	na	totenvogel	999	na	totenvogel	999	na	Totenvogel	999
+19	na	III_13_0152	Falkensteig	7.99689, 47.94697	na	doodevogel	999	na	totevogel	999	na	Totenvogel	999
+20	na	III_12_0063	Oberprechtal	8.12114, 48.20548	na	dodevogel	999	na	totevogel	999	na	Totenvogel	999
+21	na	III_16_0149	Waldshut	8.21445, 47.6237	na	totenvogel	999	na	totenvogel	999	na	Totenvogel	999
+22	na	III_15_0117	Aichen	8.26226, 47.67494	na	dotenvogel	999	na	totevogel	999	na	Totenvogel	999
+23	na	III_16_0155	Thiengen	8.28181, 47.63443	na	totenvogel	999	na	totenvogel	999	na	Totenvogel	999
+24	na	III_15_0115	Hürrlingen	8.28505, 47.72465	na	totenvogel	999	na	totenvogel	999	na	Totenvogel	999
+25	na	III_36_0006	Wellendingen	8.35185, 47.79705	na	totevogel	999	na	totevogel	999	na	Totenvogel	999
+26	na	III_35_0014, III_35_0015, III_35_0013	Sumpfohren	8.53796, 47.90851	na	totenvogel	999	na	totenvogel	999	na	Totenvogel	999
+27	na	III_33_0040	Buchheim	8.98672, 48.011	na	totenvogel	999	na	totenvogel	999	na	Totenvogel	999
+28	na	III_34_0051	Boll	9.0299, 47.9487	na	dodevegel	999	na	totevegel	999	na	Totenvogel	999

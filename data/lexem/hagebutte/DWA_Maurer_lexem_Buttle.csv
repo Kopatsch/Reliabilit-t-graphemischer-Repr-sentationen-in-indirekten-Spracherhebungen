@@ -1,0 +1,11 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Co T1	III_15_0008	Brückensweiler (Bréchaumont), Brückensweiler	7.0684, 47.66973	buttle	buttla	1	buttle	buttla	1	Buttle	Buttle	0
+1	Co Wa 6	III_17_0037	Grenzach (Grenzach-Wyhlen), Grenzach	7.66607, 47.55136	budele	buttele	2	buttle	buttle	0	Buttle	Buttle	0
+2	Co X 3	na	Schopfheim (/Grenzach, aber gestrichen)	7.82315, 47.64973	buttele	na	999	buttle	na	999	Buttle	na	999
+3	MH F8	II_91_0015	Heckfeld, Heckfeld	9.63713, 49.55077	bützele	bützele	0	bützele	bützele	0	Buttle	Buttle	0
+4	na	III_16_0011	Hindlingen	7.13734, 47.57341	na	buttla	999	na	buttla	999	na	Buttle	999
+5	na	III_17_0002	Friesen	7.15001, 47.56535	na	buttla	999	na	buttla	999	na	Buttle	999
+6	na	III_7_0053	Rosenweiler-Dettweiler	7.45083, 48.76772	na	buttele	999	na	buttle	999	na	Buttle	999
+7	na	III_7_0055	Dettweiler	7.46685, 48.75406	na	buttle	999	na	buttle	999	na	Buttle	999
+8	na	III_10_0027	Ernolsheim	7.56478, 48.56483	na	budderle	999	na	buttle	999	na	Buttle	999
+9	na	III_8_0089	Gambsheim	7.87971, 48.69159	na	butterle	999	na	buttle	999	na	Buttle	999

@@ -1,0 +1,13 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_maurer_align	item_DWA	item_DWA_align	Levenshtein_item
+0	Stra p 7	III_9_0086	Wagshurst, Wagshurst	7.99491, 48.62035	ärdnuhs	ä r d n u h s	erdnuß	e r d n u ß	3
+1	TÜB h1/2, TÜB h1/1	III_9_0103	Gamshurst, Gamshurst	8.0187, 48.66413	erdnuhs	e r d n u h s	erdnuß	e r d n u ß	2
+2	TÜB h2	III_9_0087, III_9_0088	Großweier, Grossweier	8.0487, 48.65502	ärdnuß	ä r d n u ß	erdnuß	e r d n u ß	1
+3	TÜB a13	III_8_0108	Ottersweier, Ottersweier	8.11279, 48.66967	erdnuß	e r d n u ß	erdnuss	e r d n u ss	2
+4	TÜB h12	III_9_0093, III_9_0094	Lauf, Lauf	8.12648, 48.65317	erdnuss	e r d n u ss	erdnuß	e r d n u ß	2
+5	MH g1	II_88_0024	Dertingen über Wertheim a.M., Dertingen	9.61957, 49.7665	ardnüß	a r d n ü ß	ādnūs	ā d n ū s	4
+6	Stra p 7	III_9_0086	Wagshurst, Wagshurst	7.99491, 48.62035	erdnuhs	e r d n u h s	erdnuß	e r d n u ß	2
+7	Stra p 7	III_9_0086	Wagshurst, Wagshurst	7.99491, 48.62035	ärdnuhs	ä r d n u h s	erdnuß	e r d n u ß	3
+8	TÜB h1/2, TÜB h1/1	III_9_0103	Gamshurst, Gamshurst	8.0187, 48.66413	erdnuhs	e r d n u h s	erdnuß	e r d n u ß	2
+9	TÜB h12	III_9_0093, III_9_0094	Lauf, Lauf	8.12648, 48.65317	erdnuss	e r d n u ss	ärdnuß	ä r d n u ß	3
+10	TÜB h12	III_9_0093, III_9_0094	Lauf, Lauf	8.12648, 48.65317	erdnuss	e r d n u ss	erdnuß	e r d n u ß	2
+11	TÜB b9, TÜB b8, TÜB b7	III_8_0112, III_8_0113	Bühlertal-Untertal, Bühlertal-Obertal, Bühlertal-Hof, Bühlertal, Bühlertal-Hof	8.19194, 48.68215	erdnuß	e r d n u ß	erdnuss	e r d n u ss	2

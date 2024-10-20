@@ -1,0 +1,12 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Stra Z 5	na	Freiamt	7.90612, 48.17863	hiaf̆ele	na	999	hiefle	na	999	Hiefele	na	999
+1	MH W8	II_93_0018	Gommersdorf, Gommersdorf	9.61253, 49.36877	hīfel	hiefel	2	hifel	hiefel	1	Hiefele	Hiefele	0
+2	na	III_12_0151	Bleibach	8.00281, 48.12764	na	hüfele	999	na	hifle	999	na	Hiefele	999
+3	na	III_12_0059	Katzenmoos	8.03332, 48.167	na	hiefele	999	na	hiefle	999	na	Hiefele	999
+4	na	III_12_0144	Oberwinden	8.04318, 48.15444	na	hüfle	999	na	hifle	999	na	Hiefele	999
+5	na	III_9_0101	Kappelrodeck	8.11791, 48.59087	na	hüfle	999	na	hifle	999	na	Hiefele	999
+6	na	III_10_0141	Maisach	8.20067, 48.47223	na	hüfle	999	na	hifle	999	na	Hiefele	999
+7	na	III_6_0099, III_6_0098	Oetigheim	8.23212, 48.89333	na	hüffeln	999	na	hifeln	999	na	Hiefele	999
+8	na	III_19_0031	Michelfeld	8.7808, 49.22723	na	hiefla	999	na	hiefla	999	na	Hiefele	999
+9	na	III_18_0046	Sinsheim	8.87357, 49.25387	na	heifle	999	na	hiefle	999	na	Hiefele	999
+10	na	III_37_0035	Allensbach	9.06699, 47.71535	na	hiefle	999	na	hiefle	999	na	Hiefele	999

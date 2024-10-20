@@ -1,0 +1,4 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	MH Q2	na	Schwetzingen	8.57064, 49.38567	gēßl	na	999	gesl	na	999	Geißel	na	999
+1	na	II_60_0038	Sandhausen	8.65837, 49.34236	na	gääßl	999	na	gäsl	999	na	Geißel	999
+2	na	III_24_0034	Neuhausen	8.77888, 48.79256	na	geisle	999	na	geisle	999	na	Geißel	999

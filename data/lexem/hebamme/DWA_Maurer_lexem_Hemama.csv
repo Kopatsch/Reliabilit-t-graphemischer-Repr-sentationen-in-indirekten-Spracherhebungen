@@ -1,0 +1,9 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Co T1	na	Brückensweiler (Bréchaumont)	7.0684, 47.66973	hemamme	na	999	hemame	na	999	Hemama	na	999
+1	Co E13	III_14_0092	Rammersmatt, Rammersmatt	7.07084, 47.78935	hemā̆ma	hehmamme	4	hemama	hemame	1	Hemama	Hemama	0
+2	Co M9	na	Diefmatten Kreis Altkirch	7.11319, 47.70828	hemama	na	999	hemama	na	999	Hemama	na	999
+3	na	III_14_0091	Niederburbach	7.05868, 47.77527	na	hehmama	999	na	hemama	999	na	Hemama	999
+4	na	III_14_0093	Leimbach	7.09999, 47.79305	na	hehmamme	999	na	hemame	999	na	Hemama	999
+5	na	III_14_0095	Alttann	7.12206, 47.80704	na	hebahn	999	na	hemama	999	na	Hemama	999
+6	na	III_14_0099	Niederaspach	7.15065, 47.7618	na	hemamme	999	na	hemame	999	na	Hemama	999
+7	na	III_15_0016	Niedermorschweiler	7.26699, 47.73596	na	hemåmma	999	na	hemama	999	na	Hemama	999

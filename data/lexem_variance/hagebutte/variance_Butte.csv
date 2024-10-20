@@ -1,0 +1,545 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_maurer_align	item_DWA	item_DWA_align	Levenshtein_item
+0	Co D2	III_14_0083	Oberbruck, Oberbruck	6.94324, 47.80838	bodde	b o dd e	butte	b u tt e	3
+1	Co D3	III_14_0080	Rimbach-Pès-Masevaux), Rimbach	6.9473, 47.82212	butta	b u tt a	butte	b u tt e	1
+2	Co D4	III_14_0084	Kirchberg-Wegscheid, Kirchberg	6.95965, 47.79904	butta	b u tt a	butte	b u tt e	1
+3	Co p 2	III_13_0094	Wildenstein bei Krüt, Kreis Tann, Wildenstein	6.96296, 47.98143	budde	b u dd e	butta	b u tt a	3
+4	Co p 1	III_13_0095	Krüt (Kruth), Krüt	6.96629, 47.92912	bo̊ta	b o ̊ t a	butte	b u tt e	3
+5	Co w 4	III_14_0003	Mollau , Mollau	6.97488, 47.87245	buddä	b u dd ä	budde	b u dd e	1
+6	Co w 1	III_14_0004	Oderen, Odern	6.97525, 47.91008	bǔttä	b ǔ tt ä	buttä	b u tt ä	1
+7	Co w 3	III_14_0006	Hüsseren-Wesserling (Husseren-Wesserling), Hüssern-Wesserling	6.98836, 47.88519	butta	b u tt a	butte	b u tt e	1
+8	Co D7	III_14_0086	Masmünster (Masevaux), Maasmünster	6.99386, 47.7727	butta	b u tt a	butte	b u tt e	1
+9	Co x 2	III_14_0007	Mitzach, Mitzach	7.00519, 47.87122	butt	b u tt	butta	b u tt a	1
+10	Co x 1	III_14_0008	Ranspach, Ranspach	7.01113, 47.88081	butta	b u tt a	budda	b u dd a	2
+11	Co E4	III_14_0087	Aue (Lauw), Aue	7.02216, 47.75778	butta	b u tt a	buda	b u d a	2
+12	Co q 5	III_13_0096	Mittlach, Mittlach	7.03325, 48.00405	buta	b u t a	buda	b u d a	1
+13	Co E3	III_14_0090	Sentheim, Sentheim	7.0544, 47.75581	buttä	b u tt ä	buttă	b u tt ă	1
+14	Co M2	III_15_0001	Obersulzbach Kreis Tann (Soppe-Le-Haut), Obersulzbach <Morzweiler> Morzweiler steht nur auf S.1	7.05724, 47.73372	butta	b u tt a	butte	b u tt e	1
+15	Co x 9	III_14_0013	Geishausen, Geishausen	7.05832, 47.88017	butta	b u tt a	budda	b u dd a	2
+16	Co T9	III_16_0014	Gottestal, Luttern (Valdieu-Lutran), Gottestal	7.05852, 47.63139	butt	b u tt	butta	b u tt a	1
+17	Co E2	III_14_0091	Niederburbach (Bourbach-Le-Bas), Niederburbach	7.05868, 47.77527	butte	b u tt e	butta	b u tt a	1
+18	Co x 4	III_14_0012	Weiler, Weiler	7.07073, 47.84351	budda	b u dd a	butte	b u tt e	3
+19	Co E13	III_14_0092	Rammersmatt, Rammersmatt	7.07084, 47.78935	butta	b u tt a	buddea	b u dd e a	3
+20	Co i 3	III_13_0008	Metzeral, Metzeral	7.07146, 48.01325	butta	b u tt a	budda	b u dd a	2
+21	Co q 4	III_13_0097	Sondernach, Sondernach	7.07276, 47.99621	butta	b u tt a	budda	b u dd a	2
+22	Hag M 11/2, Hag M 11/1	III_6_0003	Wolfskirchen, Wolfskirchen	7.07612, 48.87884	putt	p u tt	pude	p u d e	2
+23	Co E9	III_14_0089	Tann-Bitschweiler (Bitschwiller-Lès-Thann), Bitschweiler	7.07947, 47.82929	butte	b u tt e	budde	b u dd e	2
+24	Co i 10	III_13_0007	Mühlbach (Muhlbach-Sur-Munster), Mühlbach	7.08731, 48.02582	butta	b u tt a	budda	b u dd a	2
+25	Co M1	III_15_0002	Gewenheim, Gewenheim	7.0913, 47.75291	butta	b u tt a	butte	b u tt e	1
+26	Co i 7	III_13_0006	Breitenbach (Breitenbach-Haut-Rhin), Breitenbach	7.10087, 48.02382	bůtt	b ů tt	bŭ̊tt	b ŭ ̊ tt	2
+27	Co i 9	III_13_0003, III_13_0004	Stossweier, Stossweier	7.10163, 48.05432	bōtt	b ō tt	bōda	b ō d a	2
+28	Co i 2	III_13_0009	Sulzern (Soultzeren), Sulzern	7.10254, 48.06373	boͧdă	b o ͧ d ă	butta	b u tt a	4
+29	Co x 7	III_14_0014	Goldbach-Altenbach, Goldbach-Altenbach	7.10326, 47.87359	buddä	b u dd ä	butte	b u tt e	3
+30	Co E7	III_14_0094	Tann (Thann), Thann	7.10335, 47.81019	butte	b u tt e	butta	b u tt a	1
+31	Co M9	III_15_0009	Diefmatten Kreis Altkirch, Diefmatten	7.11319, 47.70828	buta	b u t a	butta	b u tt a	1
+32	Co T7	III_16_0007	Wolfersdorf, Wolfersdorf	7.1132, 47.63625	butta	b u tt a	budda	b u dd a	2
+33	Co i 6	III_13_0005	Luttenbach (Luttenbach-Près-Munster), Luttenbach	7.11745, 48.03105	butta	b u tt a	butte	b u tt e	1
+34	Co q 8	III_13_0102	Sengern, Sengern	7.12209, 47.94246	budda	b u dd a	butt	b u tt	3
+35	Co i 5	III_13_0002	Hohrod, Hohrod	7.12607, 48.05444	butte	b u tt e	budde	b u dd e	2
+36	Hag M 7	III_6_0016	Eyweiler (Eywiller), Eyweiler	7.13172, 48.8709	pudd	p u dd	pudde	p u dd e	1
+37	Co i 1/1, Co i 1/2	III_13_0065	Münster (Munster), Münster	7.13185, 48.0418	bud	b u d	but	b u t	1
+38	Co i 8	III_13_0001	Hohrodberg, Hohrodberg	7.13528, 48.06037	bodd	b o dd	botà	b o t à	2
+39	Co q 7	III_13_0099	Lautenbachzell, Lautenbachzell	7.14925, 47.94057	budde	b u dd e	būdde	b ū dd e	1
+40	Co E11	III_14_0099	Niederasbach (Aspach-Le-Bas), Niederaspach	7.15065, 47.7618	butta	b u tt a	buda	b u d a	2
+41	Hag M 5	III_6_0008	Berg, Berg	7.1532, 48.89487	putt	p u tt	put	p u t	1
+42	Co x 8	III_14_0015	Rimbach bei Gebweiler (Rimbach-près-Guebwiller), Rimbach	7.15658, 47.90483	budda	b u dd a	butte	b u tt e	3
+43	Co T4	III_16_0009	Hagenbach, Hagenbach	7.15712, 47.65028	butta	b u tt a	buta	b u t a	1
+44	Hag M 6	III_6_0009	Güngweiler (Gungwiller), Gu[e]ngweiler	7.15771, 48.88171	budde	b u dd e	bŭtte	b ŭ tt e	3
+45	Co q 3	III_13_0011	Wasserburg Kreis Colmar (Wasserbourg), Wasserburg	7.15948, 48.00283	butta	b u tt a	butten	b u tt e n	2
+46	Co M5	III_15_0013	Niederburnhaupt (Burnhaupt-Le-Bas), Niederburnhaupt	7.16039, 47.71674	butte	b u tt e	budda	b u dd a	3
+47	Co Ua 11	III_17_0031	Pfetterhausen (Pfetterhouse), Pfetterhausen	7.16635, 47.50105	butta	b u tt a	butte	b u tt e	1
+48	Co k 2	III_13_0015	Günsbach (Gunsbach), Günsbach	7.17323, 48.0464	budda	b u dd a	budde	b u dd e	1
+49	Co r 6	III_13_0107	Schweighausen Kreis Gebweiler (Schweighouse bei Lautenbach), Schweighausen	7.17716, 47.93851	budda	b u dd a	butta	b u tt a	2
+50	Co F5	III_14_0016	Wattweiler (Wattwiller), Wattweiler	7.17766, 47.83549	buddå	b u dd å	budda	b u dd a	1
+51	Co F1	III_14_0101	Uffholz, Uffholz	7.17804, 47.81981	butte	b u tt e	butta	b u tt a	1
+52	Co F2	III_14_0097	Sennheim (Cerany), Sennheim	7.17837, 47.80918	butte	b u tt e	butta	b u tt a	1
+53	Stra V 1, Stra U 1/2	III_12_0002	Markich (Sainte-Marie-Aux-Marines), Markirch	7.17972, 48.24483	butte	b u tt e	butt	b u tt	1
+54	Co y 1/2, Co y 1/1	III_14_0017	Rimbach-Zell (Rimbachzell), Rimbach-Zell	7.17995, 47.8995	but	b u t	butta	b u tt a	2
+55	Co r 9	III_13_0103	Bühl Landkreis Gebweiler (Buhl), Bühl	7.18638, 47.92816	buda	b u d a	butta	b u tt a	2
+56	Co Ua 5	III_17_0030	Largitzen, Largitzen	7.1873, 47.56163	butta	b u tt a	budde	b u dd e	3
+57	Co N13	III_15_0029	Enschingen (Saint-Bernard), Enschingen	7.20293, 47.67101	butta	b u tt a	butte	b u tt e	1
+58	Co k 11	III_13_0027	Sulzbach (Soultzbach-Les-Bains), Sulzbach	7.20324, 48.03797	buta	b u t a	butte	b u tt e	2
+59	Co k 9	III_13_0014	Weier (Wihr-Au-Val), Weier im Tal	7.20558, 48.05217	bůdd	b ů dd	budd	b u dd	1
+60	Hag N 16	III_6_0028	Sieweiler (Siewiller), Sieweiler	7.20676, 48.84318	butten	b u tt e n	buttä	b u tt ä	2
+61	Co y 4	III_14_0019	Wünheim, Wünheim	7.20969, 47.87406	butta	b u tt a	buta	b u t a	1
+62	Co y 13, Co y 13, 14, Co y 5, Co y 14	III_14_0027	Gebweiler (Guebwiller), Gebweiler (Guebwiller) , Gebweiler	7.21078, 47.9095	butt	b u tt	budda	b u dd a	3
+63	Co U 6	III_16_0028	Karspach (Carspach), Karspach	7.21307, 47.61448	butta	b u tt a	budda	b u dd a	2
+64	Co y 6	III_14_0021	Berrweiler (Berrwiller), Berrweiler	7.21533, 47.8484	butta	b u tt a	butt	b u tt	1
+65	Co Ua 12	III_17_0012	Mooslargue, Moos	7.21833, 47.50939	butta	b u tt a	budda	b u dd a	2
+66	Co r 2	III_13_0104	Osenbach, Osenbach	7.21903, 47.98623	butta	b u tt a	butt	b u tt	1
+67	Hag N 12	III_6_0023	Aßweiler (Asswiller), Assweiler	7.2198, 48.88035	budde	b u dd e	butte	b u tt e	2
+68	Co Ua 6	III_17_0013	Bisel, Bisel	7.22032, 47.53456	budda	b u dd a	butta	b u tt a	2
+69	Co k 8	III_13_0013	Walbach, Walbach	7.22416, 48.06257	butt	b u tt	butta	b u tt a	1
+70	Co y 3	III_14_0022	Sulz (Soultz-Haut-Rhin), Sulz	7.22862, 47.88613	buttă	b u tt ă	butta	b u tt a	1
+71	Co r 8/2, Co r 8/1	III_13_0108	Sulzmatt (Soultzmatt), Sulzmatt	7.23437, 47.96595	butt	b u tt	butte	b u tt e	1
+72	Co U 7/1, Co U 7/2	III_16_0029	Altkirch, Altkirch	7.24009, 47.62592	butta	b u tt a	budde	b u dd e	3
+73	Hag N 15	III_6_0031	Lohr, Lohr	7.24351, 48.85748	buttdde	b u tt d d e	budde	b u dd e	2
+74	Hag N 5	III_6_0019	Tieffenbach, Tieffenbach	7.24987, 48.90483	būdde	b ū dd e	butte	b u tt e	3
+75	Co y 11	III_14_0029	Isenheim (Issenheim), Isenheim	7.25365, 47.90288	budd	b u dd	budde	b u dd e	1
+76	Hag N 6	III_6_0022	Strut (Struth), Strut	7.25475, 48.89009	butte	b u tt e	putte	p u tt e	1
+77	Co F4	III_14_0103	Staffelfelden, Staffelfelden	7.25504, 47.82648	bota	b o t a	botta	b o tt a	1
+78	Co r 3	III_13_0110	Westhalten, Westhalten	7.2595, 47.95742	budda	b u dd a	budde	b u dd e	1
+79	Co y 8	III_14_0023	Bollweiler (Bollwiller), Bollweiler	7.25961, 47.86006	butt	b u tt	butta	b u tt a	1
+80	Co c 1	III_12_0081	Kaysersberg, Kaysersberg	7.2617, 48.13853	bodd	b o dd	bodda	b o dd a	1
+81	Stra G 3	III_11_0010, III_11_0009	Meisengott (Maisonsgoutte), Meisengott	7.26349, 48.3533	butte	b u tt e	butt	b u tt	1
+82	Co N8/1, Co N8/2	III_15_0015	Illfurt (Illfurth), Illfurt	7.26494, 47.67073	butte	b u tt e	butta	b u tt a	1
+83	Co N3	III_15_0016	Niedermorschweiler (Morschwiller-Le-Bas), Niedermorschweiler	7.26699, 47.73596	budda	b u dd a	butta	b u tt a	2
+84	Co N10	III_15_0026, III_15_0025	Frönigen, Fröningen	7.26801, 47.69023	butteͣ	b u tt e ͣ	butte	b u tt e	1
+85	Hag U 3	III_6_0033	Schönburg (Schoenbourg), Schönburg	7.26823, 48.83392	budde	b u dd e	butte	b u tt e	2
+86	Hag N 7	III_6_0035	Petersbach, Petersbach	7.26874, 48.86912	butte	b u tt e	putt	p u tt	2
+87	Co c 6	III_12_0084	Niedermorschweiher, Niedermorschweiher	7.27596, 48.09972	butta	b u tt a	butte	b u tt e	1
+88	Co Ua 2	III_16_0036	Bettendorf, Bettendorf	7.27676, 47.58379	butte	b u tt e	butta	b u tt a	1
+89	Co U 8	III_16_0030	Wittersdorf, Wittersdorf	7.27817, 47.62015	bude	b u d e	buda	b u d a	1
+90	Co c 4	III_12_0085	Türkheim (Turckheim), Türkheim	7.27884, 48.0862	butte	b u tt e	budde	b u dd e	2
+91	Co k 7	III_13_0021	Häusern, Häusern	7.28067, 48.03226	butta	b u tt a	buta	b u t a	1
+92	Co N5	III_15_0018	Hochstatt, Hochstatt	7.28072, 47.70069	buttä	b u tt ä	budde	b u dd e	3
+93	Hag U 2	III_7_0034	Graufthal, Grauftal	7.28092, 48.81935	butte	b u tt e	budde	b u dd e	2
+94	Co y 10	III_14_0030	Rädersheim (Raedersheim), Rädersheim	7.28212, 47.88747	budda	b u dd a	butta	b u tt a	2
+95	Co c 12	III_12_0082	Ammerschweier, Ammerschweier	7.28484, 48.12465	budd	b u dd	budda	b u dd a	1
+96	Co c 5	III_12_0083	Katzenthal, Katzental	7.28497, 48.10796	butt	b u tt	buddä	b u dd ä	3
+97	Co U 2	III_16_0023	Lümschweiler (Luemschwiller) und Tagolsheim, Tagolsheim	7.28747, 47.65547	buda	b u d a	butta	b u tt a	2
+98	Hag N 2	III_6_0021	Hinsburg (Hinsbourg), Hinsburg	7.28852, 48.90706	budde	b u dd e	butte	b u tt e	2
+99	Stra G 4	III_11_0008	St. Martin (Saint-Martin), St. Martin	7.28942, 48.35047	budde	b u dd e	budda	b u dd a	1
+100	Co y 12	III_14_0032	Merxheim, Merxheim	7.29205, 47.91022	butta	b u tt a	butte	b u tt e	1
+101	Stra G 2	III_11_0004, III_11_0003	Breitenbach, Breitenbach	7.2921, 48.36514	butte	b u tt e	butt	b u tt	1
+102	Co r 5	III_13_0112	Gundolsheim, Gundolsheim	7.2942, 47.92837	butte	b u tt e	budde	b u dd e	2
+103	Co N6	III_15_0019	Zillisheim, Zillisheim	7.29485, 47.69387	budda	b u dd a	butta	b u tt a	2
+104	Stra s 3	III_10_0003	Mühlbach (Muhlbach-Sur-Bruche), Mühlbach	7.29709, 48.51659	bůdde	b ů dd e	bŏdde	b ŏ dd e	1
+105	Co k 6	III_13_0023	Hattstatt, Hattstatt	7.30016, 48.0108	budde	b u dd e	budda	b u dd a	1
+106	Co k 12	III_13_0022	Obermorschweier, Obermorschweier	7.30037, 48.01773	butt	b u tt	butta	b u tt a	1
+107	Co Ua 4	III_17_0007	Grenzingen, Grenzingen	7.30068, 47.56354	butta	b u tt a	butten	b u tt e n	2
+108	Stra l 1, Stra l 3	III_9_0005, III_9_0007	Engenthal, Engental, Engental-Windsburg, Engental	7.30153, 48.63467	butt	b u tt	budde	b u dd e	3
+109	Co N4	III_15_0022	Didenheim, Didenheim	7.30295, 47.71749	būddaͤ	b ū dd a ͤ	bůddaͤ	b ů dd a ͤ	1
+110	Co c 9	III_12_0079	Sigolsheim, Sigolsheim	7.3035, 48.13267	budda	b u dd a	buttä	b u tt ä	3
+111	Stra V 2, Stra V 3	III_12_0003	Glashütte, Tannenkirch (Thannenkirch), Tannenkirch	7.30397, 48.22949	butte	b u tt e	butt	b u tt	1
+112	Co y 9	III_14_0031	Ungersheim, Ungersheim	7.30418, 47.87789	butt	b u tt	butta	b u tt a	1
+113	Co k 14	III_13_0020	Egisheim, Egisheim	7.30455, 48.04168	butte	b u tt e	butta	b u tt a	1
+114	Co k 4	III_13_0019	Wettolsheim, Wettolsheim	7.30629, 48.06133	butt	b u tt	butta	b u tt a	1
+115	Co c 10	III_12_0086	Ingersheim, Ingersheim	7.30725, 48.0936	buda	b u d a	butte	b u tt e	3
+116	Co Ub 5	III_17_0066	Lüxdorf (Ligsdorf), Lüxdorf	7.3091, 47.47235	butta	b u tt a	buda	b u d a	2
+117	Co N7	III_15_0024	Flachslanden (Flaxlanden), Flachslanden	7.30924, 47.69692	butta	b u tt a	bůdda	b ů dd a	3
+118	Stra V 6	III_12_0006	Hunaweier (Hunawihr), Hunaweier	7.31671, 48.18091	butt	b u tt	butta	b u tt a	1
+119	Stra d 2	III_8_0026	Reinhardsmünster, Reinhardsmünster	7.31728, 48.67755	bōde	b ō d e	butte	b u tt e	3
+120	Co N16	III_15_0023	Brunnstatt (Brunstatt), Brunstatt	7.31747, 47.72106	butta	b u tt a	budda	b u dd a	2
+121	Hag N 8	III_6_0032	Lützelstein (La Petite-Pierre), Lützelstein	7.32076, 48.85864	bütte	b ü tt e	pütte	p ü tt e	1
+122	Co c 13	III_12_0077, III_12_0076	Mittelweier, Mittelweier	7.32094, 48.14982	bud	b u d	butt	b u tt	2
+123	Co c 3	III_12_0075	Bebelnheim (Beblenheim), Bebelnheim	7.32264, 48.15802	butta	b u tt a	budda	b u dd a	2
+124	Stra z 1/1, Stra z 1/2	III_10_0085	Grendelbruch, Grendelbruch	7.32375, 48.49241	butte	b u tt e	botte	b o tt e	1
+125	Stra G 8	III_11_0006	Triembach (Triembach-Au-Val), Triembach	7.32386, 48.33763	butt	b u tt	butte	b u tt e	1
+126	Co c 8	III_12_0078	Bennweier, Bennweier	7.32417, 48.14496	butt	b u tt	budde	b u dd e	3
+127	Stra G 1	III_11_0002	Le Hohwald, Hohwald	7.33005, 48.40339	budd	b u dd	budde	b u dd e	1
+128	Stra s 1/1, Stra s 1/2	III_10_0001	Oberhaslach, Oberhaslach	7.33046, 48.5499	bud	b u d	bōtte	b ō tt e	4
+129	Stra m 17	III_8_0043	Hengweiler, Hengweiler	7.33273, 48.66842	butta	b u tt a	butte	b u tt e	1
+130	Co G2	III_14_0124	Wittenheim, Wittenheim	7.33993, 47.81085	budda	b u dd a	butta	b u tt a	2
+131	Co Va 13	III_17_0033	Steinsulz (Steinsoultz), Steinsulz	7.34276, 47.55541	butte	b u tt e	budde	b u dd e	2
+132	Co F7/1, Co F7/2	III_14_0107, III_14_0108, III_14_0119, III_14_0115, III_14_0111, III_14_0112, III_14_0116, III_14_0113, III_14_0118, III_14_0117, III_14_0114, III_14_0109, III_14_0110	Mülhausen, Mülhausen	7.34375, 47.7517	butte	b u tt e	bůdde	b ů dd e	3
+133	Co V 1	III_16_0048	Obersteinbrunn (Steinbrunn-le-Haut), Obersteinbrunn	7.3467, 47.65852	butta	b u tt a	buddä	b u dd ä	3
+134	Stra e 1	III_7_0047	Otterstal, Ottersthal	7.34837, 48.75567	bůtte	b ů tt e	botte	b o tt e	1
+135	Co z 6	III_14_0036	Regisheim (Réguisheim), Regisheim	7.35308, 47.89742	būd	b ū d	budd	b u dd	2
+136	Co z 1	III_14_0034, III_14_0035	Ensisheim, Ensisheim	7.35432, 47.86522	bůtta	b ů tt a	butte	b u tt e	2
+137	Hag V 10	III_7_0044	Eckartsweiler, Eckartsweiler	7.357, 48.76744	butte	b u tt e	budde	b u dd e	2
+138	Stra W 4	III_12_0013	Bergheim, Bergheim	7.35777, 48.20604	bott	b o tt	butt	b u tt	1
+139	Co Vd 9	III_17_0077	Kiffis, Kiffis	7.35848, 47.4405	butte	b u tt e	buda	b u d a	3
+140	Stra e 19	III_8_0042	Dimbstal, Dimbstal	7.35926, 48.6727	budde	b u dd e	butte	b u tt e	2
+141	Stra W 7	III_12_0012, III_12_0010	Rohrschweier (Rorschwihr), Rohrschweier	7.36295, 48.21541	bůtt	b ů tt	butte	b u tt e	2
+142	Co G5	III_14_0126	Sausheim, Sausheim	7.3698, 47.78852	budda	b u dd a	butte	b u tt e	3
+143	Stra m 2	III_8_0044	Salental, Salental	7.37043, 48.66739	botte	b o tt e	butte	b u tt e	1
+144	Co d 8	III_12_0093	Hausen bei Kolmar (Houssen), Hausen	7.37665, 48.125	budda	b u dd a	budd	b u dd	1
+145	Co s 3, Co s 6	III_13_0116	Oberenzen, Oberenzen (Oberentzen), Oberenzen	7.37872, 47.94354	butte	b u tt e	butt	b u tt	1
+146	Hag V 8	III_7_0042	Ernolsheim (Ernoldsheim-Lès-Saverne), Ernolsheim	7.38025, 48.78942	budde	b u dd e	budd	b u dd	1
+147	Co Va 8	III_17_0023	Mittelmüspach-Niedermüspach (Muespach), Müspach	7.3807, 47.54728	bůtte	b ů tt e	butte	b u tt e	1
+148	Co s 4	III_13_0117	Niederenzen, Niederenzen	7.38146, 47.94864	butta	b u tt a	buttȧ	b u tt ȧ	1
+149	Co l 3	III_13_0035	Heiligkreuz (Sainte-Croix-en-Plaine), Heiligkreuz	7.3831, 48.00666	budde	b u dd e	butta	b u tt a	3
+150	Stra W 1, Stra W 2	III_12_0009, III_12_0008	St. Pilt (saint-Hyppolyte), Orschweiler (Orschwiller), St. Pilt, Orschweiler	7.38445, 48.24184	bud	b u d	butte	b u tt e	3
+151	Stra H 7	III_11_0020	Reichsfeld, Reichsfeld	7.38628, 48.36613	bútt	b ú tt	butt	b u tt	1
+152	Co s 2	III_13_0119, III_13_0118	Bilzheim (Biltzheim), Bilzheim	7.38657, 47.95675	butt	b u tt	butte	b u tt e	1
+153	Stra m 3/2	III_8_0045	Singrist, Singrist	7.38757, 48.6705	butt	b u tt	butte	b u tt e	1
+154	Stra t 9	III_10_0014	Heiligenberg, Heiligenberg	7.3916, 48.53799	butta	b u tt a	butte	b u tt e	1
+155	Stra W 5	III_12_0014	Gemar (Guémar), Gemar	7.39289, 48.18656	butte	b u tt e	butt	b u tt	1
+156	Co V 17/2, Co V 17/1	III_16_0050	Kötzingen (Kœtzingue), Kötzingen	7.394, 47.65091	butta	b u tt a	buda	b u d a	2
+157	Co Vd 2/2, Co Vd 2/1	III_17_0072	Oltingen (Oltingue), Oltingen	7.39411, 47.48862	butta	b u tt a	butte	b u tt e	1
+158	Co s 7/2, Co s 7/3	III_13_0120	Oberhergheim, Oberhergheim	7.39442, 47.96547	butta	b u tt a	budd	b u dd	3
+159	Co O1/2, Co O1/1	III_15_0031, III_15_0032	Rixheim, Napoleoninsel Rixheim, Rixheim	7.39739, 47.74412	buda	b u d a	buta	b u t a	1
+160	Co s 5	III_13_0121	Niederhergheim, Niederhergheim	7.39795, 47.9862	butta	b u tt a	budda	b u dd a	2
+161	Co O10	III_15_0040	Eschenzweiler (Eschentzwiller), Eschenzweiler	7.39812, 47.71239	budda	b u dd a	butta	b u tt a	2
+162	Stra A 5, Stra H 6	III_10_0094, III_11_0019	Bernhardsweiler (Bernardvillé), Bernhardsweiler	7.40011, 48.36706	budd	b u dd	budde	b u dd e	1
+163	Hag V 5	III_7_0040	Neuweiler (Neuwiller-Lès-Saverne), Neuweiler	7.4034, 48.82391	budde	b u dd e	budd	b u dd	1
+164	V	III_17_0025	Knöringen  (Knœringue) (im Elsass), Knöringen	7.4042, 47.5624	butta	b u tt a	buda	b u d a	2
+165	Stra t 4	III_10_0013	Still, Still	7.4048, 48.54953	butt	b u tt	butte	b u tt e	1
+166	Stra e 18	III_8_0046	Reutenburg, Reutenburg	7.4064, 48.68515	bota	b o t a	bütt	b ü tt	2
+167	Co O6	III_15_0038	Schlierbach, Schlierbach	7.4066, 47.68284	butta	b u tt a	butte	b u tt e	1
+168	Stra m 8	III_9_0010	Romansweiler, Romansweiler	7.40829, 48.64445	budde	b u dd e	butte	b u tt e	2
+169	Co l 8	III_12_0101	Weier auf dem Land (Wihr-en-Plaine), Weier auf dem Land	7.41118, 48.0844	butt	b u tt	botte	b o tt e	2
+170	Stra e 4	III_8_0037	Schweinheim (Schwenheim), Schweinheim	7.4132, 48.71301	butt	b u tt	butte	b u tt e	1
+171	Hag O 12	III_6_0040	Weitersweiler (Weiterswiller), Weitersweiler	7.41341, 48.85298	butte	b u tt e	butt	b u tt	1
+172	Stra m 4	III_8_0047	Jettersweiler, Jettersweiler	7.41482, 48.67034	butt	b u tt	butte	b u tt e	1
+173	Co l 2	III_13_0031	Sundhofen (Sundhoffen), Sundhofen	7.41499, 48.04248	boͧdda	b o ͧ dd a	budde	b u dd e	3
+174	Co V 12	III_16_0046	Helfrantskirch (Helfrantzkirch), Helfrantskirch	7.41694, 47.6072	budda	b u dd a	budde	b u dd e	1
+175	Stra H 5	III_11_0018	Andlau, Andlau	7.41747, 48.38635	butte	b u tt e	butt	b u tt	1
+176	Stra A 11	III_10_0090	Klingenthal, Klingental	7.41771, 48.47239	butt	b u tt	bůtt	b ů tt	1
+177	Stra H 14	III_11_0025	Blienschweiler (Blienschwiller), Blienschweiler	7.41844, 48.34128	butt	b u tt	butte	b u tt e	1
+178	Hag O 2	III_6_0038	Wimmenau, Wimmenau	7.41957, 48.91035	bōtte	b ō tt e	butte	b u tt e	1
+179	Stra P 6	III_11_0095	Diefental (Dieffenthal), Diefental	7.4217, 48.30979	butter	b u tt e r	buda	b u d a	4
+180	Co V 2	III_15_0030	Geispitzen, Geispitzen	7.42236, 47.66739	buddä	b u dd ä	butta	b u tt a	3
+181	Stra A 7	III_10_0095	St. Nabor (Sain-Nabor), St. Nabor	7.42423, 48.4458	bůtte	b ů tt e	bo̊tt	b o ̊ tt	3
+182	Co d 4	III_12_0094	Holzweier, Holzweier	7.42541, 48.11028	bo̊dd	b o ̊ dd	butt	b u tt	4
+183	Co V 3	III_16_0037	Waltenheim, Waltenheim	7.42684, 47.65714	buddä	b u dd ä	butta	b u tt a	3
+184	Stra t 5	III_10_0015, III_10_0016	Dinsheim (Dinsheim-Sur-Bruche), Dinsheim	7.4273, 48.54254	botte	b o tt e	butte	b u tt e	1
+185	Stra t 15/1	III_10_0007, III_10_0006	Flexburg, Flexburg	7.43177, 48.57213	budde	b u dd e	bute	b u t e	2
+186	Stra t 10	III_10_0017	Gressweiler, Gressweiler	7.43186, 48.53571	butt	b u tt	butte	b u tt e	1
+187	Stra H 12	III_11_0021	Ittersweiler (Itterswiller), Ittersweiler	7.4322, 48.36386	bude	b u d e	butten	b u tt e n	3
+188	Stra A 6/2, Stra A 6/1	III_10_0091	Ottrott, Ottrott	7.43298, 48.46056	bud	b u d	butt	b u tt	2
+189	Stra W 6	III_12_0015, III_12_0016	Illhäusern (Illhaeusern), Illhäusern	7.43355, 48.18466	butt	b u tt	buda	b u d a	2
+190	Co d 6	III_12_0095	Wickerschweier, Wickerschweier	7.43868, 48.10708	budd	b u dd	budde	b u dd e	1
+191	Co l 10	III_13_0032	Appenweier (Appenwihr), Appenweier	7.43962, 48.02594	budde	b u dd e	butt	b u tt	3
+192	Stra A 3/1, Stra A 3/2	III_10_0089	Börsch (Boersch), Börsch	7.43994, 48.47577	bůtte	b ů tt e	butten	b u tt e n	2
+193	Hag O 6	III_6_0047, III_6_0046	Weinburg (Weinbourg), Weinburg	7.44029, 48.87157	bůtt	b ů tt	būtt	b ū tt	1
+194	Stra t 11	III_10_0021	Rosenweiler, Rosenweiler	7.4409, 48.50587	butt	b u tt	butte	b u tt e	1
+195	Co V 14	III_16_0054	Kappeln (Kappelen), Kappeln	7.44156, 47.61975	butta	b u tt a	buttä	b u tt ä	1
+196	Co Va 2	III_17_0021	Obermichelbach (Michelbach-le-Haut), Obermichelbach	7.44645, 47.56623	bütta	b ü tt a	bütte	b ü tt e	1
+197	Stra m 9/1, Stra m 9/2	III_9_0009	Wasselnheim (Wasselonne), Wasselnheim	7.44724, 48.63718	butte	b u tt e	butt	b u tt	1
+198	Co z 4	III_14_0037	Hirzfelden, Hirzfelden	7.4473, 47.90935	budde	b u dd e	butte	b u tt e	2
+199	Co Vd 8	III_17_0071	Biedertal (Biederthal), Biedertal	7.44789, 47.46978	butte	b u tt e	buddä	b u dd ä	3
+200	Stra e 12,13	III_8_0051	Westhausen (Westhouse-Marmoutier), Westhausen	7.44963, 48.68592	butte	b u tt e	budde	b u dd e	2
+201	Hag O 11	III_6_0041	Obersulzbach (Obersoultzbach), Obersulzbach	7.45013, 48.85174	bůtt	b ů tt	butte	b u tt e	2
+202	Stra t 6	III_10_0018	Mutzig, Mutzig	7.45043, 48.53927	butte	b u tt e	bu˚tte	b u ˚ tt e	1
+203	Co d 10	III_12_0099	Fortschweier, Fortschweier	7.45233, 48.08996	bůdda	b ů dd a	butte	b u tt e	4
+204	Stra H 2/1, Stra H 2/2, Stra H 2/3	III_11_0013	Barr, Barr	7.45244, 48.40651	butta	b u tt a	bůdde	b ů dd e	4
+205	Co z 2	III_14_0038	Münchhausen (Munchhausen), Münchhausen	7.45274, 47.86847	budde	b u dd e	buddä	b u dd ä	1
+206	Hag V 3	III_7_0051	Imbsheim, Imbsheim	7.45399, 48.80165	boͧtte	b o ͧ tt e	butt	b u tt	3
+207	Co V 5	III_16_0055	Sierenz (Sierentz), Sierenz	7.45597, 47.6532	butta	b u tt a	butte	b u tt e	1
+208	Co l 11	III_13_0033	Hettenschlag , Hettenschlag	7.45782, 48.00441	budda	b u dd a	butta	b u tt a	2
+209	Co Va 3	III_17_0018	Attenschweiler (Attenschwiller), Attenschweiler/Attenweiler	7.46216, 47.56912	botta	b o tt a	boda	b o d a	2
+210	Co V 13/2, Co V 13/1	III_16_0047	Niedermichelbach (Michelbach-le-Bas), Niedermichelbach	7.46442, 47.59288	budde	b u dd e	butte	b u tt e	2
+211	Stra m 15	III_9_0019	Tränheim, Tränheim	7.46472, 48.59545	bodde	b o dd e	budde	b u dd e	1
+212	Stra H 11/2, Stra H 11/1	III_11_0022, III_11_0023	Epfig, Epfig	7.4655, 48.35803	bū̃t	b ū ̃ t	bo̊t	b o ̊ t	2
+213	Hag O 10	III_6_0042	Niedersulzbach (Niedersoultzbach), Niedersulzbach	7.4662, 48.84923	butt	b u tt	budd	b u dd	2
+214	Co z 3	III_14_0039	Roggenhausen, Roggenhausen	7.46704, 47.8888	būtte	b ū tt e	budde	b u dd e	3
+215	Stra H 1	III_11_0012	Gertweiler (Gertwiller), Gertweiler	7.46795, 48.4111	butte	b u tt e	budde	b u dd e	2
+216	Stra A 1/3, Stra A 1/2, Stra A 1/1	III_10_0087	Rosheim, Rosheim	7.46905, 48.49622	bodde	b o dd e	botte	b o tt e	2
+217	Co d 2 , Co k 3	III_12_0096	Munzenheim (Muntzenheim), Munzenheim	7.47318, 48.10199	butt	b u tt	butte	b u tt e	1
+218	Co Va 7	III_17_0017	Niederhagental (Hagenthal-le-Bas), Niederhagental	7.47691, 47.52383	buttte	b u tt t e	butte	b u tt e	1
+219	Co V 9	III_16_0056	Bartenheim, Bartenheim	7.47707, 47.63392	buddå	b u dd å	buda	b u d a	2
+220	Stra t 13	III_9_0020	Irmstett, Irmstett	7.47751, 48.58828	bõtt	b õ tt	bo̠tte	b o ̠ tt e	3
+221	Co d 7	III_12_0091	Jebsheim, Jebsheim	7.47771, 48.12279	budda	b u dd a	bodda	b o dd a	1
+222	Hag V 1/1, Hag V 1/2	III_7_0041	Buchsweiler (Bouxwiller), Buchsweiler	7.47851, 48.82528	butte	b u tt e	budd	b u dd	3
+223	Stra m 6	III_9_0016	Rangen, Rangen	7.47865, 48.66636	budde	b u dd e	butt	b u tt	3
+224	Hag V 14	III_7_0056	Gottesheim, Gottesheim	7.47938, 48.77591	budde	b u dd e	but	b u t	3
+225	Hag V 2	III_7_0052	Riedheim, Riedheim	7.47956, 48.81064	budde	b u dd e	butte	b u tt e	2
+226	Hag O 7	III_6_0045	Ingweiler (Ingwiller), Ingweiler	7.48031, 48.87322	butt	b u tt	butte	b u tt e	1
+227	Co Va 5	III_17_0034	Wenzweiler (Wentzwiller), Wenzweiler	7.48036, 47.55042	būta	b ū t a	bute	b u t e	2
+228	Hag O 1	III_5_0059	Lichtenberg, Lichtenberg	7.48181, 48.9216	butte	b u tt e	budde	b u dd e	2
+229	Stra t 8	III_10_0020	Dorlisheim, Dorlisheim	7.48538, 48.52471	butt	b u tt	budde	b u dd e	3
+230	Stra e 8	III_8_0055	Friedolsheim, Friedolsheim	7.48538, 48.70717	budde	b u dd e	butte	b u tt e	2
+231	Co l 12	III_12_0098	Urschenheim, Urschenheim	7.48632, 48.08696	butt	b u tt	butte	b u tt e	1
+232	Hag O 9	III_6_0043	Uttweiler (Uttwiller), Uttweiler	7.48667, 48.84591	bůde	b ů d e	butte	b u tt e	3
+233	Stra t 15/2	III_10_0010	Sulzbad (soultz-Les-Bains), Sulzbad	7.48699, 48.572	butte	b u tt e	butt	b u tt	1
+234	Stra m 13	III_9_0018	Odratzheim, Odratzheim	7.48778, 48.60108	budde	b u dd e	butte	b u tt e	2
+235	Co d 11	III_12_0090	Grussenheim, Grussenheim	7.48794, 48.1443	butte	b u tt e	butta	b u tt a	1
+236	Co s 1	III_13_0123	Dessenheim, Dessenheim	7.48828, 47.97561	budda	b u dd a	butta	b u tt a	2
+237	Stra A 9	III_11_0011	Burgheim (Bourgheim), Burgheim	7.49064, 48.41936	butta	b u tt a	butte	b u tt e	1
+238	Stra t 7	III_10_0019	Molsheim, Molsheim	7.49067, 48.54038	butt	b u tt	butte	b u tt e	1
+239	Stra m 14	III_9_0021	Scharrachbergheim, Scharrachbergheim	7.49581, 48.593	butt	b u tt	budde	b u dd e	3
+240	Stra e 15	III_8_0038	Landersheim, Landersheim	7.49655, 48.69022	budde	b u dd e	boudde	b o u dd e	1
+241	Stra u 7	III_10_0011	Avolsheim, Avolsheim	7.50043, 48.56159	butte	b u tt e	budd	b u dd	3
+242	Stra P 11	III_11_0098	Ebersheim, Ebersheim	7.50132, 48.30759	butte	b u tt e	butt	b u tt	1
+243	Co m 11	III_13_0047	Wolfganzen, Wolfganzen	7.5016, 48.02747	bůtt	b ů tt	but	b u t	2
+244	Co H15	III_14_0130	Homburg Kreis Mülhausen (Hombourg), Homburg	7.50503, 47.75908	budde	b u dd e	budda	b u dd a	1
+245	Co H16	III_14_0131	Ottmarsheim, Ottmarsheim	7.50646, 47.78661	buddene	b u dd e n e	buddane	b u dd a n e	1
+246	Stra X 11	III_12_0027	Ohnenheim, Ohnenheim	7.50726, 48.18379	budd	b u dd	butte	b u tt e	3
+247	Hag W 13	III_7_0057	Bosselshausen, Bosselshausen	7.50884, 48.80522	bůdd	b ů dd	butte	b u tt e	4
+248	Co P11	III_15_0044	Niffer, Niffer	7.50904, 47.71353	budde	b u dd e	budda	b u dd a	1
+249	Stra u 18	III_10_0024	Wolxheim, Wolxheim	7.51077, 48.56903	butt	b u tt	butte	b u tt e	1
+250	Stra f 15	III_8_0059, III_8_0058	Sässolsheim, Sässolsheim	7.51503, 48.70869	bute	b u t e	butte	b u tt e	1
+251	Co Wa 5	III_17_0028	Neuweiler (Neuwiller), Neuweiler	7.51526, 47.52439	bueddä	b u e dd ä	budä	b u d ä	2
+252	Co A3	III_14_0040	Rumersheim (Rumersheim-le-Haute), Rumersheim	7.51712, 47.85248	butte	b u tt e	budde	b u dd e	2
+253	Hag W 16/1, Hag W 16/2	III_7_0077	Melsheim, Melsheim	7.51974, 48.75911	butte	b u tt e	būdde	b ū dd e	3
+254	Stra X 1	III_12_0018	Mussig, Mussig	7.52018, 48.23003	butt	b u tt	bŭtta	b ŭ tt a	2
+255	Stra B 7	III_10_0102, III_10_0103	Walf (Valff)), Walf	7.52068, 48.42151	butt	b u tt	butte	b u tt e	1
+256	Co Wa 1	III_17_0026	Häsingen (Hésingue), Häsingen	7.5211, 47.57633	butte	b u tt e	butta	b u tt a	1
+257	Stra Q 1	III_11_0097	Ebersmünster (Ebersmunster), Ebersmunster	7.52112, 48.31139	bůtt	b ů tt	butte	b u tt e	2
+258	Hag W 12/2, Hag W 12/1	III_7_0135	Zöbersdorf, Zöbersdorf	7.52538, 48.79381	butt	b u tt	budda	b u dd a	3
+259	Stra n 10	III_9_0024	Küttolsheim, Küttolsheim	7.52543, 48.64343	bůdd	b ů dd	boudd	b o u dd	2
+260	Stra u 13	III_10_0040	Altdorf (Altorf), Altdorf	7.52793, 48.52186	butte	b u tt e	butt	b u tt	1
+261	Hag P 3	III_6_0048	Rotbach, Rotbach	7.52883, 48.90568	budde	b u dd e	butte	b u tt e	2
+262	Co m 6	III_13_0045	Neubreisach (Neuf-Brisach), Neubreisach	7.52909, 48.01843	butta	b u tt a	butte	b u tt e	1
+263	Stra B 1	III_10_0038, III_10_0039	Griesheim (Griesheim-Près-Molsheim), Griesheim	7.53227, 48.50237	butt	b u tt	butte	b u tt e	1
+264	Co A2	III_14_0185	Blodelsheim, Blodelsheim	7.53396, 47.88426	butte	b u tt e	budde	b u dd e	2
+265	Co m 7	III_13_0036	Künheim (Kunheim), Künheim	7.53422, 48.07788	budda	b u dd a	butta	b u tt a	2
+266	Stra f 14	III_8_0060	Dunzenheim, Dunzenheim	7.53538, 48.71278	butta	b u tt a	butte	b u tt e	1
+267	Co W 1	III_16_0067	Istein , Istein	7.53541, 47.66186	butte	b u tt e	butta	b u tt a	1
+268	Co t 1	III_13_0124	Heiteren, Heiteren	7.53776, 47.96942	butt	b u tt	butte	b u tt e	1
+269	Co H1	III_14_0132	Eichwald (Chalampé), Eichwald	7.53969, 47.81643	buddänä	b u dd ä n ä	buddännä	b u dd ä n n ä	1
+270	Hag P 4	III_6_0049	Bischholz, Bischholz	7.53995, 48.89301	butt	b u tt	budde	b u dd e	3
+271	Stra J 12	III_11_0037	Kogenheim, Kogenheim	7.5423, 48.33798	butteͣ	b u tt e ͣ	butten	b u tt e n	1
+272	Hag P 2	III_6_0059	Offweiler, Offweiler	7.54296, 48.91021	bůt	b ů t	butte	b u tt e	3
+273	Stra f 17	III_8_0062	Rohr, Rohr	7.54735, 48.69609	butte	b u tt e	butt	b u tt	1
+274	Hag P 16	III_6_0061, III_6_0062	Zutzendorf, Zutzendorf	7.54972, 48.85428	buda	b u d a	bůdd	b ů dd	2
+275	Stra J 11	III_11_0036	Sermersheim, Sermersheim	7.55199, 48.34632	butt	b u tt	butte	b u tt e	1
+276	Co m 8	III_13_0043	Volgelsheim, Vogelsheim	7.55292, 48.01693	putta	p u tt a	but̊te	b u t ̊ t e	3
+277	Stra u 2/1	III_9_0025	Osthofen, Osthofen	7.55672, 48.58641	bud	b u d	butte	b u tt e	3
+278	Hag W 15	III_7_0068	Bossendorf, Bossendorf	7.55983, 48.78146	butte	b u tt e	butt	b u tt	1
+279	Stra f 2	III_8_0078	Schaffhausen bei Hochfelden (schaffhouse-sur-Zorn), Schaffhausen	7.56211, 48.7324	butte	b u tt e	butt	b u tt	1
+280	Stra X 3	III_12_0019	Bösenbiesen (Boesenbiesen), Bösenbiesen	7.56377, 48.22957	budde	b u dd e	butte	b u tt e	2
+281	Co W 2	III_16_0068	Efringen (Efringen-Kirchen), Efringen	7.56471, 47.64989	butte	b u tt e	budde	b u dd e	2
+282	Stra f 16	III_8_0065	Gugenheim, Gugenheim	7.56591, 48.70185	butt	b u tt	butte	b u tt e	1
+283	Stra X 13	III_12_0028	Mackenheim, Mackenheim	7.56598, 48.18437	buta	b u t a	budda	b u dd a	2
+284	Stra Q 5	III_11_0100	Hilsenheim, Hilsenheim	7.56768, 48.29055	budda	b u dd a	butte	b u tt e	3
+285	Stra f 22	III_9_0041	Schnersheim, Schnersheim	7.568, 48.65809	butte	b u tt e	budde	b u dd e	2
+286	Stra n 14	III_9_0036, III_9_0035	Quatzenheim, Quatzenheim	7.57372, 48.62636	budd	b u dd	butt	b u tt	2
+287	Stra X 8	III_12_0024	Artolsheim, Artolsheim	7.57377, 48.20951	butte	b u tt e	būtte	b ū tt e	1
+288	Stra X 4	III_12_0020	Schwobsheim, Schwobsheim	7.57481, 48.2329	budde	b u dd e	butt	b u tt	3
+289	Stra f 18	III_8_0064	Kienheim, Kienheim	7.57862, 48.68905	butte	b u tt e	budde	b u dd e	2
+290	Co W 17	III_16_0066	Hüningen (Huningue), Hüningen	7.58374, 47.5912	budda	b u dd a	butta	b u tt a	2
+291	Hag W 3	III_7_0060	Ettendorf, Ettendorf	7.58414, 48.81374	butte	b u tt e	budde	b u dd e	2
+292	Co P7	III_15_0048	Hertingen, Hertingen	7.58442, 47.7231	buddene	b u dd e n e	boudene	b o u d e n e	2
+293	Stra f 3	III_8_0079	Mutzenhausen (Mutzenouse), Mutzenhausen	7.58822, 48.7411	buddā	b u dd ā	butte	b u tt e	3
+294	Stra u 17	III_10_0028	Kolbsheim, Kolbsheim	7.58834, 48.56138	budde	b u dd e	butte	b u tt e	2
+295	Stra J 2	III_11_0029	Westhausen (Westhouse), Westhausen	7.58855, 48.39622	budde	b u dd e	butte	b u tt e	2
+296	Stra f 1	III_8_0077	Gingsheim, Gingsheim	7.58895, 48.71645	butte	b u tt e	bute	b u t e	1
+297	Stra u 11	III_10_0036	Düppigheim und Duttlenheim (Duppigheim), Düppigheim	7.58968, 48.52813	butte	b u tt e	butta	b u tt a	1
+298	Hag P 1	III_5_0068	Zinsweiler, Zinsweiler	7.59018, 48.9196	budd	b u dd	budde	b u dd e	1
+299	Stra J 4/3, Stra J 4/2, Stra J 4/1	III_11_0033	Benfeld, Benfeld	7.59385, 48.37263	botte	b o tt e	butt	b u tt	2
+300	Stra n 17, Stra n 18	III_9_0031	Ittenheim, Ittenheim	7.59542, 48.60404	būede	b ū e d e	budde	b u dd e	2
+301	Hag P 15	III_6_0057	Kindweiler, Kindweiler	7.59731, 48.86227	butte	b u tt e	bodde	b o dd e	3
+302	Co t 6	III_13_0126	Geiswasser, Geiswasser	7.60042, 47.97883	budd	b u dd	butt	b u tt	2
+303	Stra u 3	III_10_0029	Breuschwickersheim, Breuschwickersheim	7.60198, 48.5795	buttete	b u tt e t e	budedde	b u d e dd e	4
+304	Stra Q 8/2, Stra Q 8/1	III_11_0105	Sundhausen (Sundhouse), Sundhausen	7.60327, 48.25126	butte	b u tt e	bude	b u d e	2
+305	Stra n 5	III_9_0029	Truchtersheim, Truchtersheim	7.60723, 48.66319	budde	b u dd e	butte	b u tt e	2
+306	Stra f 11	III_8_0066	Gimbrett, Gimbrett	7.60781, 48.69592	butte	b u tt e	budde	b u dd e	2
+307	Stra u 14	III_10_0035	Bläsheim, Bläsheim	7.60783, 48.50535	bůdde	b ů dd e	butte	b u tt e	3
+308	Hag H 1	III_5_0062	Oberbronn, Oberbronn	7.6082, 48.94109	budd	b u dd	butt	b u tt	2
+309	Hag P 14, Hag P 19	III_6_0066	Pfaffenhofen -Volksberg, Pfaffenhofen, Pfaffenhofen	7.60881, 48.84422	butte	b u tt e	bŭdde	b ŭ dd e	3
+310	Stra B 8	III_10_0104	Bolsenheim, Bolsenheim	7.6099, 48.42013	butt	b u tt	butte	b u tt e	1
+311	Stra Q 2	III_11_0099	Witternheim, Witternheim	7.61297, 48.31375	butte	b u tt e	butten	b u tt e n	1
+312	Hag P 7	III_6_0055	Engweiler, Engweiler	7.61501, 48.88508	butt	b u tt	budde	b u dd e	3
+313	Stra u 10	III_10_0031	Hangenbieten, Hangenbieten	7.61529, 48.55876	budde	b u dd e	bůdde	b ů dd e	1
+314	Stra f 6	III_8_0075	Hohatzenheim, Hohatzenheim	7.61598, 48.71578	budde	b u dd e	butte	b u tt e	2
+315	Stra J 9	III_11_0038	Roßfeld (Rossfeld), Roßfeld	7.61683, 48.33696	budda	b u dd a	butte	b u tt e	3
+316	Stra n 8	III_9_0033, III_9_0032	Offenheim, Stutzheim-Offenheim, Offenheim	7.61838, 48.63195	butte	b u tt e	butten	b u tt e n	1
+317	Hag W 9	III_7_0070	Minversheim, Minversheim	7.61936, 48.78575	butte	b u tt e	budde	b u dd e	2
+318	Stra B 9	III_10_0106	Schäfersheim (Schaeffersheim), Schäfersheim	7.6199, 48.42864	budde	b u dd e	butt	b u tt	3
+319	Stra u 4	III_10_0030	Achenheim, Achenheim	7.62578, 48.5817	butte	b u tt e	budde	b u dd e	2
+320	Hag W 2	III_7_0062	Morschweiler, Morschweiler	7.62689, 48.81972	budde	b u dd e	butte	b u tt e	2
+321	Hag P 12	III_6_0064	Überach (Uberach), Überach	7.62806, 48.84844	butte	b u tt e	butt	b u tt	1
+322	Hag P 8	III_6_0050	Gumbrechtshofen, Gumbrechtshofen	7.6319, 48.90544	bůtt	b ů tt	butte	b u tt e	2
+323	Stra J 8	III_11_0039	Herbsheim, Herbsheim	7.6323, 48.3467	butt	b u tt	butte	b u tt e	1
+324	Co P5	III_15_0058	Riedlingen, Riedlingen	7.63561, 47.71579	bůdde	b ů dd e	butte	b u tt e	3
+325	Co A4	III_14_0046	Buggingen, Buggingen	7.63735, 47.8479	buddene	b u dd e n e	buttene	b u tt e n e	2
+326	Hag P 10	III_6_0056	Mietesheim, Mietesheim	7.63837, 48.87814	buddä	b u dd ä	budde	b u dd e	1
+327	Hag W 8	III_7_0071	Hüttendorf, Hüttendorf	7.64259, 48.80222	budde	b u dd e	butte	b u tt e	2
+328	Hag H 2/3, Hag H 2/1, Hag H 2/2	III_5_0066, III_5_0067	Niederbronn (GID von Niederbronn les bains), Bad-Niederbronn (Niederbronn-Les-Bains), Bad-Niederbronn	7.64282, 48.95108	butte	b u tt e	butt	b u tt	1
+329	Stra u 15	III_10_0034	Geispolsheim, Geispolsheim	7.64329, 48.51516	butte	b u tt e	butta	b u tt a	1
+330	Stra v 8	III_10_0032	Holzheim, Holzheim	7.64383, 48.55724	budde	b u dd e	buddede	b u dd e d e	2
+331	Co H12	III_14_0142	Obereggenen, Niedereggenen, Obereggenen, Niedereggenen	7.64434, 47.75677	butte	b u tt e	buttene	b u tt e n e	2
+332	Stra B 11	III_10_0107	Limersheim, Limersheim	7.64596, 48.45465	butt	b u tt	butta	b u tt a	1
+333	Stra X 7	III_12_0023	Schönau (Schoenau), Schönau	7.64715, 48.22339	butte	b u tt e	butta	b u tt a	1
+334	Stra f 9	III_8_0072	Mittelschäffolsheim, Mittelschäffolsheim	7.65125, 48.70026	bud	b u d	budde	b u dd e	2
+335	Hag W 1	III_6_0067	Dauendorf, Dauendorf	7.65509, 48.82974	butte	b u tt e	butt	b u tt	1
+336	Stra f 13	III_8_0070, III_8_0069	Berstett, Berstett	7.65758, 48.67898	budde	b u dd e	butt	b u tt	3
+337	Hag W 19	III_7_0073	Wittersheim, Wittersheim	7.66007, 48.78303	butte	b u tt e	but	b u t	2
+338	Co P16	III_15_0046	Kandern, Kandern	7.66224, 47.71456	bůdde	b ů dd e	butte	b u tt e	3
+339	Stra v 6	III_9_0027	Wolfisheim, Wolfisheim	7.66606, 48.58281	butte	b u tt e	butten	b u tt e n	1
+340	Stra o 6, 7	III_9_0043	Dingsheim, Griesheim, Dingsheim, Griesheim	7.66779, 48.62966	būtte	b ū tt e	butte	b u tt e	1
+341	Stra B 3	III_10_0109	Lipsheim, Lipsheim	7.66966, 48.49284	butt	b u tt	buda	b u d a	2
+342	Stra R 2	III_11_0107	Friesenheim, Friesenheim	7.67044, 48.30971	bude	b u d e	butte	b u tt e	2
+343	Hag X 13	III_7_0089	Hochstett, Hochstett	7.67779, 48.77853	butte	b u tt e	but	b u t	2
+344	Co X 4	III_16_0091, III_16_0092	Haagen, Haagen	7.67898, 47.63703	buddä	b u dd ä	butte	b u tt e	3
+345	Stra R 1	III_11_0106	Boofzheim, Boofzheim	7.68036, 48.33214	budde	b u dd e	butten	b u tt e n	3
+346	Stra o 16	III_9_0045	Straßburg-Oberhausbergen, Strassburg-Oberhausbergen	7.68507, 48.60569	bůtte	b ů tt e	butte	b u tt e	1
+347	Co X 16	III_16_0096	Inzlingen, Inzlingen	7.68772, 47.58811	bŭtte	b ŭ tt e	butte	b u tt e	1
+348	Stra K 8	III_11_0041	Gerstheim, Gerstheim	7.69824, 48.38295	bud	b u d	butt	b u tt	2
+349	Co J3	III_14_0153	Schweighof, Schweighof	7.69904, 47.80743	bu̍dddene	b u ̍ dd d e n e	buddene	b u dd e n e	2
+350	Stra o 4	III_9_0075	Lamgertheim, Lamgertheim	7.70087, 48.65016	butte	b u tt e	budde	b u dd e	2
+351	Hag X 15	III_7_0086	Wintershausen, Winterhausen	7.70271, 48.79349	butte	b u tt e	butt	b u tt	1
+352	Hag J 12	III_5_0073	Nehweiler (Nehwiller), Nehweiler	7.70322, 48.96072	bůdde	b ů dd e	butt	b u tt	4
+353	Stra g 2	III_8_0084	Brumath, Brumath	7.71045, 48.73026	budde	b u dd e	bode	b o d e	2
+354	Stra v 5, Stra v 4	III_10_0042	Illkirch-Grafenstaden, Illkirch-Grafenstaden	7.71183, 48.5288	butt	b u tt	butte	b u tt e	1
+355	Stra g 10	III_8_0083	Vendenheim, Vendenheim	7.71285, 48.66933	budde	b u dd e	budd	b u dd	1
+356	Hag Q 3	III_6_0071	Forstheim, Forstheim	7.71468, 48.89506	butte	b u tt e	butt	b u tt	1
+357	Stra o 3	III_9_0076	Mundolsheim, Mundolsheim	7.71544, 48.64179	butte	b u tt e	budde	b u dd e	2
+358	Stra C 2	III_10_0111	Eschau, Eschau	7.71556, 48.48796	butte	b u tt e	budde	b u dd e	2
+359	Stra K 6	III_11_0048	Daubensand, Daubensand	7.71659, 48.34964	budde	b u dd e	butte	b u tt e	2
+360	Hag Q 2	III_6_0070	Eberbach , Eberbach	7.71711, 48.91154	budde	b u dd e	butte	b u tt e	2
+361	Hag Q 10	III_6_0072	Laubach, Laubach	7.72032, 48.88168	budde	b u dd e	buddä	b u dd ä	1
+362	Hag J 11	III_5_0074	Fröschweiler (Frœschwiller), Fröschweiler	7.72171, 48.94318	buddä̆	b u dd ä ̆	butte	b u tt e	4
+363	Hag X 3/2, Hag X 3/1	III_7_0082	Schweighausen (Schweighouse-Sur-Moder), Schweighausen	7.73517, 48.82151	budde	b u dd e	butt	b u tt	3
+364	Stra o 11	III_9_0065, III_9_0060, III_9_0059, III_9_0057, III_9_0063, III_9_0066, III_9_0071, III_9_0073, III_9_0062, III_9_0072, III_9_0070, III_9_0069, III_9_0067, III_9_0068, III_9_0061, III_9_0058	Straßburg, Straßburg	7.73609, 48.58523	butt	b u tt	butte	b u tt e	1
+365	Hag Q 9	III_6_0073	Eschbach, Eschbach	7.73641, 48.87453	butt	b u tt	butte	b u tt e	1
+366	Stra o 8	III_9_0053	Suffelweyersheim, Suffelweyersheim	7.74147, 48.6355	butte	b u tt e	budde	b u dd e	2
+367	Hag J 10	III_5_0075	Wört (Woerth), Wört	7.74374, 48.93677	budde	b u dd e	butte	b u tt e	2
+368	Hag Q 5	III_6_0075	Hagenheim (Hegeney), Hagenheim	7.74557, 48.89153	budde	b u dd e	bůdde	b ů dd e	1
+369	Co X 8	III_16_0099	Höllstein, Höllstein	7.74574, 47.63943	buttĕ	b u tt ĕ	buttä	b u tt ä	1
+370	Stra g 3	III_8_0085	Geudertheim, Geudertheim	7.74686, 48.72273	bude	b u d e	budde	b u dd e	1
+371	Stra o 13	III_9_0049	Schiltigheim, Schiltigheim	7.74856, 48.60595	bůdde	b ů dd e	butte	b u tt e	3
+372	Stra o 14	III_9_0051, III_9_0050	Straßburg-Bischheim, Straßburg-Bischheim	7.75254, 48.61483	bůdd	b ů dd	butte	b u tt e	4
+373	Hag J 9	III_5_0084	Oberdorf-Spachbach, Oberdorf-Spachbach	7.75696, 48.92512	butt	b u tt	budde	b u dd e	3
+374	Hag J 5	III_5_0076	Görsdorf (Goersdorf), Görsdorf	7.76782, 48.95111	buͥtt	b u ͥ tt	butt	b u tt	1
+375	Hag J 8	III_5_0079	Diefenbach (Dieffenbach-Lès-Woerth), Diefenbach	7.77425, 48.93532	būtte	b ū tt e	butte	b u tt e	1
+376	Hag X 7	III_7_0094	Weitbruch, Weitbruch	7.77586, 48.7535	budde	b u dd e	butten	b u tt e n	3
+377	Stra K 1	III_11_0040	Meissenheim, Meissenheim	7.77738, 48.40898	buttä	b u tt ä	budde	b u dd e	3
+378	Hag Q 7	III_6_0069	Biblisheim, Biblisheim	7.79196, 48.89991	budd	b u dd	budde	b u dd e	1
+379	Co Q3	III_14_0152	Raich, Raich	7.79724, 47.75076	budde	b u dd e	butte	b u tt e	2
+380	Stra o 17	III_9_0056	Straßburg-Ruprechtsau, Straßburg-Ruprechtsau	7.80059, 48.61004	butt	b u tt	butte	b u tt e	1
+381	Hag J 6	III_5_0085	Preuschdorf, Preuschdorf	7.80425, 48.9435	budde	b u dd e	butte	b u tt e	2
+382	Hag X 6	III_7_0091	Gries , Gries	7.81383, 48.75262	botte	b o tt e	butte	b u tt e	1
+383	Stra o 1	III_9_0055	Wanzenau, Wanzenau	7.82574, 48.65926	budde	b u dd e	bude	b u d e	1
+384	Co J6	III_14_0150	Neuenweg, Landkreis Lörrach, Neuenweg	7.8271, 47.79543	bud	b u d	butte	b u tt e	3
+385	Hag Y 4	III_7_0095	Kaltenhausen, Kaltenhausen	7.83521, 48.79041	budda	b u dd a	butte	b u tt e	3
+386	Hag K 22	III_5_0108	Oberkutzenhausen, Oberkutzenhausen	7.84049, 48.93847	budde	b u dd e	butte	b u tt e	2
+387	Hag K 21	III_5_0090	Lobsann, Lobsann	7.84681, 48.96327	budda	b u dd a	budde	b u dd e	1
+388	Hag K 15	III_5_0107	Kutzenhausen, Kutzenhausen	7.85624, 48.93375	budde	b u dd e	butte	b u tt e	2
+389	Stra h 10	III_8_0088	Kilstett, Kilstett	7.85798, 48.67473	bud	b u d	butte	b u tt e	3
+390	Hag K 17	III_5_0093, III_5_0094	Memmelshofen (Memmelshoffen), Memmelshofen	7.87106, 48.96013	budde	b u dd e	butt	b u tt	3
+391	Hag R 4	III_6_0080	Schwabweiler, Schwabweiler	7.87665, 48.90207	budde	b u dd e	butten	b u tt e n	3
+392	Hag R 5/1	III_6_0082	Oberbetschdorf, Oberbetschdorf	7.89812, 48.8986	butte	b u tt e	butten	b u tt e n	1
+393	Hag Y 7	III_7_0102	Rohrwiller, Rohrweiler	7.90543, 48.75592	budde	b u dd e	boddä	b o dd ä	2
+394	Stra h 1	III_8_0091	Herlisheim (Herrlisheim), Herlisheim	7.90651, 48.72976	budd	b u dd	budde	b u dd e	1
+395	Hag Y 1	III_6_0079	Sufflenheim, Sufflenheim	7.95924, 48.82979	butten	b u tt e n	butta	b u tt a	2
+396	Hag Y 9	III_7_0104	Falhünden (Dalhünden), Dallhuenden, Fallhuenden	7.98835, 48.77367	butte	b u tt e	bŭtte	b ŭ tt e	1
+397	KST S1	III_7_0124	Stattmatten, Stattmatten	7.9997, 48.79553	buttä	b u tt ä	butte	b u tt e	1
+398	KST S3	III_7_0107	Runzenheim (Rountzenheim), Runzenheim	8.00708, 48.82172	butte	b u tt e	buttē	b u tt ē	1
+399	KST L9	III_6_0091	Leutenheim, Leutenheim	8.02175, 48.843	butt	b u tt	budde	b u dd e	3
+400	KST L2	III_6_0087	Niederrödern/Elsass, Niederrödern	8.04105, 48.90576	butta	b u tt a	butten	b u tt e n	2
+401	KST S5	III_7_0111	Neuhäusel (Neuhaeusel), Neuhäusel	8.08594, 48.82427	budde	b u dd e	butt	b u tt	3
+402	Co p 1	III_13_0095	Krüt (Kruth), Krüt	6.96629, 47.92912	bo̊ta	b o ̊ t a	buda	b u d a	3
+403	Co p 1	III_13_0095	Krüt (Kruth), Krüt	6.96629, 47.92912	bo̊ta	b o ̊ t a	butte	b u tt e	3
+404	Co w 1	III_14_0004	Oderen, Odern	6.97525, 47.91008	bǔttä	b ǔ tt ä	butt	b u tt	2
+405	Co w 1	III_14_0004	Oderen, Odern	6.97525, 47.91008	bǔttä	b ǔ tt ä	buttä	b u tt ä	1
+406	Co x 6	III_14_0011	Moosch, Moosch	7.04865, 47.86081	butt	b u tt	butte	b u tt e	1
+407	Hag M 11/2, Hag M 11/1	III_6_0003	Wolfskirchen, Wolfskirchen	7.07612, 48.87884	putte	p u tt e	pude	p u d e	2
+408	Hag M 11/2, Hag M 11/1	III_6_0003	Wolfskirchen, Wolfskirchen	7.07612, 48.87884	putt	p u tt	pude	p u d e	2
+409	Co i 9	III_13_0003, III_13_0004	Stossweier, Stossweier	7.10163, 48.05432	bōtt	b ō tt	bōda	b ō d a	2
+410	Co i 1/1, Co i 1/2	III_13_0065	Münster (Munster), Münster	7.13185, 48.0418	butta	b u tt a	but	b u t	2
+411	Co i 1/1, Co i 1/2	III_13_0065	Münster (Munster), Münster	7.13185, 48.0418	bud	b u d	but	b u t	1
+412	Stra V 1, Stra U 1/2	III_12_0002	Markich (Sainte-Marie-Aux-Marines), Markirch	7.17972, 48.24483	butte	b u tt e	butt	b u tt	1
+413	Co y 13, Co y 13, 14, Co y 5, Co y 14	III_14_0027	Gebweiler (Guebwiller), Gebweiler (Guebwiller) , Gebweiler	7.21078, 47.9095	butta	b u tt a	budda	b u dd a	2
+414	Co y 13, Co y 13, 14, Co y 5, Co y 14	III_14_0027	Gebweiler (Guebwiller), Gebweiler (Guebwiller) , Gebweiler	7.21078, 47.9095	butt	b u tt	budda	b u dd a	3
+415	Hag N 14	III_6_0030, III_6_0029	Ottweiler (Ottwiller), Ottweiler	7.23096, 48.86516	butt	b u tt	budde	b u dd e	3
+416	Co r 8/2, Co r 8/1	III_13_0108	Sulzmatt (Soultzmatt), Sulzmatt	7.23437, 47.96595	budda	b u dd a	butte	b u tt e	3
+417	Co r 8/2, Co r 8/1	III_13_0108	Sulzmatt (Soultzmatt), Sulzmatt	7.23437, 47.96595	butt	b u tt	butte	b u tt e	1
+418	Co U 7/1, Co U 7/2	III_16_0029	Altkirch, Altkirch	7.24009, 47.62592	butta 	b u tt a 	budde	b u dd e	4
+419	Co U 7/1, Co U 7/2	III_16_0029	Altkirch, Altkirch	7.24009, 47.62592	butta	b u tt a	budde	b u dd e	3
+420	Co y 11	III_14_0029	Isenheim (Issenheim), Isenheim	7.25365, 47.90288	budda	b u dd a	budde	b u dd e	1
+421	Co y 11	III_14_0029	Isenheim (Issenheim), Isenheim	7.25365, 47.90288	budd	b u dd	budde	b u dd e	1
+422	Co N8/1, Co N8/2	III_15_0015	Illfurt (Illfurth), Illfurt	7.26494, 47.67073	butte	b u tt e	butta	b u tt a	1
+423	Co N10	III_15_0026, III_15_0025	Frönigen, Fröningen	7.26801, 47.69023	butteͣ	b u tt e ͣ	butta	b u tt a	2
+424	Co N10	III_15_0026, III_15_0025	Frönigen, Fröningen	7.26801, 47.69023	butteͣ	b u tt e ͣ	butte	b u tt e	1
+425	Co k 5	III_13_0025, III_13_0024	Geberschweiher (Gueberschwihr), Geberschweier	7.27661, 48.00444	butt	b u tt	budda	b u dd a	3
+426	Stra O 5, Stra U 2	III_11_0082	klein Leberau (Lièpvre), Leberau (Lièpvre), Leberau	7.28169, 48.2709	buttdä	b u tt d ä	butte	b u tt e	2
+427	Co k 13	III_13_0017	Vöklinshofen (Voegtlinshoffen), Vöklinshofen	7.28224, 48.01954	butta 	b u tt a 	butt	b u tt	2
+428	Co c 7	III_12_0080	Kientzheim, Kientzheim	7.28695, 48.13649	butta	b u tt a	butt	b u tt	1
+429	Co r 10/2, Co r 10/1	III_13_0111	Pfaffenheim, Pfaffenheim	7.2903, 47.98827	butta	b u tt a	butte	b u tt e	1
+430	Stra l 1, Stra l 3	III_9_0005, III_9_0007	Engenthal, Engental, Engental-Windsburg, Engental	7.30153, 48.63467	bůdde	b ů dd e	budde	b u dd e	1
+431	Stra l 1, Stra l 3	III_9_0005, III_9_0007	Engenthal, Engental, Engental-Windsburg, Engental	7.30153, 48.63467	butt	b u tt	budde	b u dd e	3
+432	Stra G 6	III_11_0007, III_11_0005	Weiler (Villé), Weiler, Weiler, ortsteil Erlenbach	7.30273, 48.34253	butt	b u tt	butta	b u tt a	1
+433	Stra V 2, Stra V 3	III_12_0003	Glashütte, Tannenkirch (Thannenkirch), Tannenkirch	7.30397, 48.22949	butte	b u tt e	butt	b u tt	1
+434	Stra z 1/1, Stra z 1/2	III_10_0085	Grendelbruch, Grendelbruch	7.32375, 48.49241	būtte	b ū tt e	botte	b o tt e	1
+435	Stra z 1/1, Stra z 1/2	III_10_0085	Grendelbruch, Grendelbruch	7.32375, 48.49241	butte	b u tt e	botte	b o tt e	1
+436	Stra s 1/1, Stra s 1/2	III_10_0001	Oberhaslach, Oberhaslach	7.33046, 48.5499	bůtt	b ů tt	bōtte	b ō tt e	2
+437	Stra s 1/1, Stra s 1/2	III_10_0001	Oberhaslach, Oberhaslach	7.33046, 48.5499	bud	b u d	bōtte	b ō tt e	4
+438	Co F7/1, Co F7/2	III_14_0107, III_14_0108, III_14_0119, III_14_0115, III_14_0111, III_14_0112, III_14_0116, III_14_0113, III_14_0118, III_14_0117, III_14_0114, III_14_0109, III_14_0110	Mülhausen, Mülhausen	7.34375, 47.7517	buda	b u d a	buttă	b u tt ă	3
+439	Co F7/1, Co F7/2	III_14_0107, III_14_0108, III_14_0119, III_14_0115, III_14_0111, III_14_0112, III_14_0116, III_14_0113, III_14_0118, III_14_0117, III_14_0114, III_14_0109, III_14_0110	Mülhausen, Mülhausen	7.34375, 47.7517	buda	b u d a	butta	b u tt a	2
+440	Co F7/1, Co F7/2	III_14_0107, III_14_0108, III_14_0119, III_14_0115, III_14_0111, III_14_0112, III_14_0116, III_14_0113, III_14_0118, III_14_0117, III_14_0114, III_14_0109, III_14_0110	Mülhausen, Mülhausen	7.34375, 47.7517	buda	b u d a	bůdda	b ů dd a	2
+441	Co F7/1, Co F7/2	III_14_0107, III_14_0108, III_14_0119, III_14_0115, III_14_0111, III_14_0112, III_14_0116, III_14_0113, III_14_0118, III_14_0117, III_14_0114, III_14_0109, III_14_0110	Mülhausen, Mülhausen	7.34375, 47.7517	buda	b u d a	butte	b u tt e	3
+442	Co F7/1, Co F7/2	III_14_0107, III_14_0108, III_14_0119, III_14_0115, III_14_0111, III_14_0112, III_14_0116, III_14_0113, III_14_0118, III_14_0117, III_14_0114, III_14_0109, III_14_0110	Mülhausen, Mülhausen	7.34375, 47.7517	buda	b u d a	bůdde	b ů dd e	3
+443	Co F7/1, Co F7/2	III_14_0107, III_14_0108, III_14_0119, III_14_0115, III_14_0111, III_14_0112, III_14_0116, III_14_0113, III_14_0118, III_14_0117, III_14_0114, III_14_0109, III_14_0110	Mülhausen, Mülhausen	7.34375, 47.7517	butte	b u tt e	buttă	b u tt ă	1
+444	Co F7/1, Co F7/2	III_14_0107, III_14_0108, III_14_0119, III_14_0115, III_14_0111, III_14_0112, III_14_0116, III_14_0113, III_14_0118, III_14_0117, III_14_0114, III_14_0109, III_14_0110	Mülhausen, Mülhausen	7.34375, 47.7517	butte	b u tt e	butta	b u tt a	1
+445	Co F7/1, Co F7/2	III_14_0107, III_14_0108, III_14_0119, III_14_0115, III_14_0111, III_14_0112, III_14_0116, III_14_0113, III_14_0118, III_14_0117, III_14_0114, III_14_0109, III_14_0110	Mülhausen, Mülhausen	7.34375, 47.7517	butte	b u tt e	buda	b u d a	3
+446	Co F7/1, Co F7/2	III_14_0107, III_14_0108, III_14_0119, III_14_0115, III_14_0111, III_14_0112, III_14_0116, III_14_0113, III_14_0118, III_14_0117, III_14_0114, III_14_0109, III_14_0110	Mülhausen, Mülhausen	7.34375, 47.7517	butte	b u tt e	bůdda	b ů dd a	4
+447	Co F7/1, Co F7/2	III_14_0107, III_14_0108, III_14_0119, III_14_0115, III_14_0111, III_14_0112, III_14_0116, III_14_0113, III_14_0118, III_14_0117, III_14_0114, III_14_0109, III_14_0110	Mülhausen, Mülhausen	7.34375, 47.7517	butte	b u tt e	bůdde	b ů dd e	3
+448	Co G4, Co G7	III_14_0122	Napoleonsinsel (Ile Napoléon), Illzach, Illzach, Illzach	7.34839, 47.78217	būtta	b ū tt a	butta	b u tt a	1
+449	Stra e 16	III_8_0039, III_8_0040	Tal bei Maursmünster (Marmoutier), Tal-Maursmünster	7.35204, 48.70268	butte	b u tt e	budde	b u dd e	2
+450	Co z 6	III_14_0036	Regisheim (Réguisheim), Regisheim	7.35308, 47.89742	būdda	b ū dd a	budd	b u dd	2
+451	Co z 6	III_14_0036	Regisheim (Réguisheim), Regisheim	7.35308, 47.89742	būd	b ū d	budd	b u dd	2
+452	Co z 1	III_14_0034, III_14_0035	Ensisheim, Ensisheim	7.35432, 47.86522	bůtta	b ů tt a	buttă	b u tt ă	2
+453	Co z 1	III_14_0034, III_14_0035	Ensisheim, Ensisheim	7.35432, 47.86522	bůtta	b ů tt a	butte	b u tt e	2
+454	Stra W 7	III_12_0012, III_12_0010	Rohrschweier (Rorschwihr), Rohrschweier	7.36295, 48.21541	bůtt	b ů tt	buute	b uu t e	3
+455	Stra W 7	III_12_0012, III_12_0010	Rohrschweier (Rorschwihr), Rohrschweier	7.36295, 48.21541	bůtt	b ů tt	butte	b u tt e	2
+456	Stra e 2/3, Stra e 2/1, Stra e 2/2	III_8_0029	Zabern, Zabern	7.36605, 48.73948	bůtte	b ů tt e	butte	b u tt e	1
+457	Co s 3, Co s 6	III_13_0116	Oberenzen, Oberenzen (Oberentzen), Oberenzen	7.37872, 47.94354	butte	b u tt e	butt	b u tt	1
+458	Stra e 17, Stra m 3/1	III_8_0041	Maursmünster, Maursmünster (Marmoutier), Maursmünster	7.38108, 48.69056	butt	b u tt	budd	b u dd	2
+459	Stra W 1, Stra W 2	III_12_0009, III_12_0008	St. Pilt (saint-Hyppolyte), Orschweiler (Orschwiller), St. Pilt, Orschweiler	7.38445, 48.24184	bůtt	b ů tt	budde	b u dd e	4
+460	Stra W 1, Stra W 2	III_12_0009, III_12_0008	St. Pilt (saint-Hyppolyte), Orschweiler (Orschwiller), St. Pilt, Orschweiler	7.38445, 48.24184	bůtt	b ů tt	butte	b u tt e	2
+461	Stra W 1, Stra W 2	III_12_0009, III_12_0008	St. Pilt (saint-Hyppolyte), Orschweiler (Orschwiller), St. Pilt, Orschweiler	7.38445, 48.24184	bud	b u d	budde	b u dd e	2
+462	Stra W 1, Stra W 2	III_12_0009, III_12_0008	St. Pilt (saint-Hyppolyte), Orschweiler (Orschwiller), St. Pilt, Orschweiler	7.38445, 48.24184	bud	b u d	butte	b u tt e	3
+463	Stra t 12	III_10_0022, III_10_0023	Mollkirch, Mollkirch	7.38528, 48.50755	butte	b u tt e	budde	b u dd e	2
+464	Co s 2	III_13_0119, III_13_0118	Bilzheim (Biltzheim), Bilzheim	7.38657, 47.95675	butt	b u tt	butta	b u tt a	1
+465	Co s 2	III_13_0119, III_13_0118	Bilzheim (Biltzheim), Bilzheim	7.38657, 47.95675	butt	b u tt	butte	b u tt e	1
+466	Co O1/2, Co O1/1	III_15_0031, III_15_0032	Rixheim, Napoleoninsel Rixheim, Rixheim	7.39739, 47.74412	budde	b u dd e	butta	b u tt a	3
+467	Co O1/2, Co O1/1	III_15_0031, III_15_0032	Rixheim, Napoleoninsel Rixheim, Rixheim	7.39739, 47.74412	budde	b u dd e	buta	b u t a	3
+468	Co O1/2, Co O1/1	III_15_0031, III_15_0032	Rixheim, Napoleoninsel Rixheim, Rixheim	7.39739, 47.74412	buda	b u d a	butta	b u tt a	2
+469	Co O1/2, Co O1/1	III_15_0031, III_15_0032	Rixheim, Napoleoninsel Rixheim, Rixheim	7.39739, 47.74412	buda	b u d a	buta	b u t a	1
+470	Stra A 5, Stra H 6	III_10_0094, III_11_0019	Bernhardsweiler (Bernardvillé), Bernhardsweiler	7.40011, 48.36706	butt	b u tt	budde	b u dd e	3
+471	Stra A 5, Stra H 6	III_10_0094, III_11_0019	Bernhardsweiler (Bernardvillé), Bernhardsweiler	7.40011, 48.36706	budd	b u dd	budde	b u dd e	1
+472	Stra t 15/1	III_10_0007, III_10_0006	Flexburg, Flexburg	7.43177, 48.57213	budde	b u dd e	bute	b u t e	2
+473	Stra A 6/2, Stra A 6/1	III_10_0091	Ottrott, Ottrott	7.43298, 48.46056	boͧtr	b o ͧ t r	butt	b u tt	3
+474	Stra A 6/2, Stra A 6/1	III_10_0091	Ottrott, Ottrott	7.43298, 48.46056	bud	b u d	butt	b u tt	2
+475	Stra W 6	III_12_0015, III_12_0016	Illhäusern (Illhaeusern), Illhäusern	7.43355, 48.18466	butt	b u tt	butta	b u tt a	1
+476	Stra W 6	III_12_0015, III_12_0016	Illhäusern (Illhaeusern), Illhäusern	7.43355, 48.18466	butt	b u tt	buda	b u d a	2
+477	Stra A 3/1, Stra A 3/2	III_10_0089	Börsch (Boersch), Börsch	7.43994, 48.47577	butt	b u tt	butten	b u tt e n	2
+478	Stra A 3/1, Stra A 3/2	III_10_0089	Börsch (Boersch), Börsch	7.43994, 48.47577	bůtte	b ů tt e	butten	b u tt e n	2
+479	Hag O 6	III_6_0047, III_6_0046	Weinburg (Weinbourg), Weinburg	7.44029, 48.87157	bůtt	b ů tt	budd	b u dd	3
+480	Hag O 6	III_6_0047, III_6_0046	Weinburg (Weinbourg), Weinburg	7.44029, 48.87157	bůtt	b ů tt	būtt	b ū tt	1
+481	Stra m 9/1, Stra m 9/2	III_9_0009	Wasselnheim (Wasselonne), Wasselnheim	7.44724, 48.63718	butte	b u tt e	butt	b u tt	1
+482	Stra P 10/2, Stra P 10/1, Stra P 10/3	III_11_0093	Schlettstadt (Sélestat), Schlettstadt	7.45232, 48.2578	budde	b u dd e	butte	b u tt e	2
+483	Stra P 10/2, Stra P 10/1, Stra P 10/3	III_11_0093	Schlettstadt (Sélestat), Schlettstadt	7.45232, 48.2578	bo̊tt	b o ̊ tt	butte	b u tt e	3
+484	Stra H 2/1, Stra H 2/2, Stra H 2/3	III_11_0013	Barr, Barr	7.45244, 48.40651	buddě	b u dd ě	bůdde	b ů dd e	2
+485	Stra H 2/1, Stra H 2/2, Stra H 2/3	III_11_0013	Barr, Barr	7.45244, 48.40651	butta	b u tt a	bůdde	b ů dd e	4
+486	Stra t 2/1, Stra t 2/2	III_10_0008	Bergbieten, Bergbieten	7.45869, 48.57632	butt	b u tt	butte	b u tt e	1
+487	Stra H 11/2, Stra H 11/1	III_11_0022, III_11_0023	Epfig, Epfig	7.4655, 48.35803	butt	b u tt	bo̊t	b o ̊ t	2
+488	Stra H 11/2, Stra H 11/1	III_11_0022, III_11_0023	Epfig, Epfig	7.4655, 48.35803	bū̃t	b ū ̃ t	butt	b u tt	2
+489	Stra H 11/2, Stra H 11/1	III_11_0022, III_11_0023	Epfig, Epfig	7.4655, 48.35803	bū̃t	b ū ̃ t	bo̊t	b o ̊ t	2
+490	Stra A 1/3, Stra A 1/2, Stra A 1/1	III_10_0087	Rosheim, Rosheim	7.46905, 48.49622	budde	b u dd e	botte	b o tt e	3
+491	Stra A 1/3, Stra A 1/2, Stra A 1/1	III_10_0087	Rosheim, Rosheim	7.46905, 48.49622	bott	b o tt	botte	b o tt e	1
+492	Stra A 1/3, Stra A 1/2, Stra A 1/1	III_10_0087	Rosheim, Rosheim	7.46905, 48.49622	bodde	b o dd e	botte	b o tt e	2
+493	Co d 2 , Co k 3	III_12_0096	Munzenheim (Muntzenheim), Munzenheim	7.47318, 48.10199	butta	b u tt a	butte	b u tt e	1
+494	Co d 2 , Co k 3	III_12_0096	Munzenheim (Muntzenheim), Munzenheim	7.47318, 48.10199	butt	b u tt	butte	b u tt e	1
+495	Hag V 1/1, Hag V 1/2	III_7_0041	Buchsweiler (Bouxwiller), Buchsweiler	7.47851, 48.82528	butt	b u tt	budd	b u dd	2
+496	Hag V 1/1, Hag V 1/2	III_7_0041	Buchsweiler (Bouxwiller), Buchsweiler	7.47851, 48.82528	butte	b u tt e	budd	b u dd	3
+497	Stra e 7/2, Stra e 7/1	III_8_0033	Lupstein, Lupstein	7.48491, 48.73763	būtte	b ū tt e	butte	b u tt e	1
+498	Co W 15/1, Co W 15, 14, Co W 15/2	III_16_0039, III_16_0062	Boltzheim (Blotzheim), Blotzheim	7.49611, 47.60128	budda	b u dd a	butta	b u tt a	2
+499	Co P10/3, Co P10/2, Co P10/1	III_16_0059, III_16_0060, III_15_0042	Kembs-Neuweg, Kembs  , Kembs, Kembs-Neuweg	7.50399, 47.6877	budde	b u dd e	budda	b u dd a	1
+500	Co P10/3, Co P10/2, Co P10/1	III_16_0059, III_16_0060, III_15_0042	Kembs-Neuweg, Kembs  , Kembs, Kembs-Neuweg	7.50399, 47.6877	budde	b u dd e	butta	b u tt a	3
+501	Co P10/3, Co P10/2, Co P10/1	III_16_0059, III_16_0060, III_15_0042	Kembs-Neuweg, Kembs  , Kembs, Kembs-Neuweg	7.50399, 47.6877	butta	b u tt a	budda	b u dd a	2
+502	Hag W 13	III_7_0057	Bosselshausen, Bosselshausen	7.50884, 48.80522	bůdde	b ů dd e	butte	b u tt e	3
+503	Hag W 13	III_7_0057	Bosselshausen, Bosselshausen	7.50884, 48.80522	bůdd	b ů dd	butte	b u tt e	4
+504	Co m 13	III_13_0046	Umgebung von Neubreisach (Weckolsheim), Weckolsheim	7.51347, 48.00264	butta	b u tt a	butt	b u tt	1
+505	Stra f 15	III_8_0059, III_8_0058	Sässolsheim, Sässolsheim	7.51503, 48.70869	bute	b u t e	budde	b u dd e	2
+506	Stra f 15	III_8_0059, III_8_0058	Sässolsheim, Sässolsheim	7.51503, 48.70869	bute	b u t e	butte	b u tt e	1
+507	Hag W 16/1, Hag W 16/2	III_7_0077	Melsheim, Melsheim	7.51974, 48.75911	budd	b u dd	būdde	b ū dd e	2
+508	Hag W 16/1, Hag W 16/2	III_7_0077	Melsheim, Melsheim	7.51974, 48.75911	butte	b u tt e	būdde	b ū dd e	3
+509	Stra u 6/2, Stra u 6/1	III_10_0025	Ergersheim (wohnt seit 41 in Breitenau), Ergersheim, Ergersheim	7.52806, 48.56941	budda	b u dd a	butte	b u tt e	3
+510	Stra B 1	III_10_0038, III_10_0039	Griesheim (Griesheim-Près-Molsheim), Griesheim	7.53227, 48.50237	butt	b u tt	butte	b u tt e	1
+511	Hag P 16	III_6_0061, III_6_0062	Zutzendorf, Zutzendorf	7.54972, 48.85428	buda	b u d a	bůdde	b ů dd e	3
+512	Hag P 16	III_6_0061, III_6_0062	Zutzendorf, Zutzendorf	7.54972, 48.85428	buda	b u d a	budde	b u dd e	2
+513	Hag P 16	III_6_0061, III_6_0062	Zutzendorf, Zutzendorf	7.54972, 48.85428	buda	b u d a	bůdd	b ů dd	2
+514	Co Wa 4	III_16_0065, III_16_0063, III_16_0064	Sankt Ludwig (Saint-Louis) , Sankt Ludwig	7.56351, 47.58575	butte	b u tt e	budda	b u dd a	3
+515	Stra n 14	III_9_0036, III_9_0035	Quatzenheim, Quatzenheim	7.57372, 48.62636	budde	b u dd e	butt	b u tt	3
+516	Stra n 14	III_9_0036, III_9_0035	Quatzenheim, Quatzenheim	7.57372, 48.62636	budd	b u dd	budde	b u dd e	1
+517	Stra n 14	III_9_0036, III_9_0035	Quatzenheim, Quatzenheim	7.57372, 48.62636	budd	b u dd	butt	b u tt	2
+518	Stra J 4/3, Stra J 4/2, Stra J 4/1	III_11_0033	Benfeld, Benfeld	7.59385, 48.37263	butta	b u tt a	butt	b u tt	1
+519	Stra J 4/3, Stra J 4/2, Stra J 4/1	III_11_0033	Benfeld, Benfeld	7.59385, 48.37263	bůdd	b ů dd	butt	b u tt	3
+520	Stra J 4/3, Stra J 4/2, Stra J 4/1	III_11_0033	Benfeld, Benfeld	7.59385, 48.37263	botte	b o tt e	butt	b u tt	2
+521	Stra n 17, Stra n 18	III_9_0031	Ittenheim, Ittenheim	7.59542, 48.60404	būede	b ū e d e	budde	b u dd e	2
+522	Stra Q 8/2, Stra Q 8/1	III_11_0105	Sundhausen (Sundhouse), Sundhausen	7.60327, 48.25126	budde	b u dd e	bude	b u d e	1
+523	Stra Q 8/2, Stra Q 8/1	III_11_0105	Sundhausen (Sundhouse), Sundhausen	7.60327, 48.25126	butte	b u tt e	bude	b u d e	2
+524	Stra Q 4	III_11_0101	Bindernheim, Bindernheim	7.60713, 48.28366	botta	b o tt a	butta	b u tt a	1
+525	Stra Q 4	III_11_0101	Bindernheim, Bindernheim	7.60713, 48.28366	butta	b u tt a	botta	b o tt a	1
+526	Hag P 14, Hag P 19	III_6_0066	Pfaffenhofen -Volksberg, Pfaffenhofen, Pfaffenhofen	7.60881, 48.84422	budde	b u dd e	bŭdde	b ŭ dd e	1
+527	Hag P 14, Hag P 19	III_6_0066	Pfaffenhofen -Volksberg, Pfaffenhofen, Pfaffenhofen	7.60881, 48.84422	butte	b u tt e	bŭdde	b ŭ dd e	3
+528	Stra n 8	III_9_0033, III_9_0032	Offenheim, Stutzheim-Offenheim, Offenheim	7.61838, 48.63195	butte	b u tt e	budde	b u dd e	2
+529	Stra n 8	III_9_0033, III_9_0032	Offenheim, Stutzheim-Offenheim, Offenheim	7.61838, 48.63195	butte	b u tt e	butten	b u tt e n	1
+530	Hag H 2/3, Hag H 2/1, Hag H 2/2	III_5_0066, III_5_0067	Niederbronn (GID von Niederbronn les bains), Bad-Niederbronn (Niederbronn-Les-Bains), Bad-Niederbronn	7.64282, 48.95108	budde	b u dd e	butt	b u tt	3
+531	Hag H 2/3, Hag H 2/1, Hag H 2/2	III_5_0066, III_5_0067	Niederbronn (GID von Niederbronn les bains), Bad-Niederbronn (Niederbronn-Les-Bains), Bad-Niederbronn	7.64282, 48.95108	butte	b u tt e	butt	b u tt	1
+532	Stra f 13	III_8_0070, III_8_0069	Berstett, Berstett	7.65758, 48.67898	budde	b u dd e	butt	b u tt	3
+533	Stra v 5, Stra v 4	III_10_0042	Illkirch-Grafenstaden, Illkirch-Grafenstaden	7.71183, 48.5288	budde	b u dd e	butte	b u tt e	2
+534	Stra v 5, Stra v 4	III_10_0042	Illkirch-Grafenstaden, Illkirch-Grafenstaden	7.71183, 48.5288	butt	b u tt	butte	b u tt e	1
+535	Stra g 10	III_8_0083	Vendenheim, Vendenheim	7.71285, 48.66933	budde	b u dd e	budd	b u dd	1
+536	Hag X 3/2, Hag X 3/1	III_7_0082	Schweighausen (Schweighouse-Sur-Moder), Schweighausen	7.73517, 48.82151	budda	b u dd a	butt	b u tt	3
+537	Hag X 3/2, Hag X 3/1	III_7_0082	Schweighausen (Schweighouse-Sur-Moder), Schweighausen	7.73517, 48.82151	budde	b u dd e	butt	b u tt	3
+538	Stra o 11	III_9_0065, III_9_0060, III_9_0059, III_9_0057, III_9_0063, III_9_0066, III_9_0071, III_9_0073, III_9_0062, III_9_0072, III_9_0070, III_9_0069, III_9_0067, III_9_0068, III_9_0061, III_9_0058	Straßburg, Straßburg	7.73609, 48.58523	butt	b u tt	budde	b u dd e	3
+539	Stra o 11	III_9_0065, III_9_0060, III_9_0059, III_9_0057, III_9_0063, III_9_0066, III_9_0071, III_9_0073, III_9_0062, III_9_0072, III_9_0070, III_9_0069, III_9_0067, III_9_0068, III_9_0061, III_9_0058	Straßburg, Straßburg	7.73609, 48.58523	butt	b u tt	butte	b u tt e	1
+540	Stra o 14	III_9_0051, III_9_0050	Straßburg-Bischheim, Straßburg-Bischheim	7.75254, 48.61483	bůdd	b ů dd	butt	b u tt	3
+541	Stra o 14	III_9_0051, III_9_0050	Straßburg-Bischheim, Straßburg-Bischheim	7.75254, 48.61483	bůdd	b ů dd	butte	b u tt e	4
+542	Hag K 17	III_5_0093, III_5_0094	Memmelshofen (Memmelshoffen), Memmelshofen	7.87106, 48.96013	budde	b u dd e	butt	b u tt	3
+543	Stra h 1	III_8_0091	Herlisheim (Herrlisheim), Herlisheim	7.90651, 48.72976	budd	b u dd	budde	b u dd e	1

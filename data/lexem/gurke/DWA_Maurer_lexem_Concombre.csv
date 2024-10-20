@@ -1,0 +1,7 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Co T10	na	Schaffnatt am Weier (Chavannes-Sur-LÉtang)	7.02504, 47.63178	gugumber	na	999	gugumber	na	999	Concombre	na	999
+1	Co l 4	na	Logelbach	7.30991, 48.0865	concombre	na	999	concombre	na	999	Concombre	na	999
+2	Co U 3	na	Obermorschweiler (Obermorschwiller)	7.31001, 47.64239	kokombre	na	999	cocombere	na	999	Concombre	na	999
+3	Co Va 1	III_17_0024	Oberranspach (Ranspach-le-Haut), Oberranspach	7.4175, 47.57697	concombre	concombre	0	concombre	concombre	0	Concombre	Concombre	0
+4	Stra A 3/2	na	Börsch (Boersch)	7.43994, 48.47577	concombre	na	999	concombre	na	999	Concombre	na	999
+5	na	III_12_0027	Ohnenheim	7.50726, 48.18379	na	concombre	999	na	concombre	999	na	Concombre	999

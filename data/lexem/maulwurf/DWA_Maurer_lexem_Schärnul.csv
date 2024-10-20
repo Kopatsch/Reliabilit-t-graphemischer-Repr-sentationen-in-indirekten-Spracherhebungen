@@ -1,0 +1,5 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Co l 4	na	Logelbach	7.30991, 48.0865	scharnerl	na	999	scharnerl	na	999	Schärnul	na	999
+1	TUTT H4	III_36_0040	Hilzingen, Hilzingen	8.78189, 47.7649	schernuhl	schernul	1	schernul	schernul	0	Schärnul	Schärnul	0
+2	na	III_12_0089	Elsenheim	7.50131, 48.16133	na	schallnierel	999	na	schalnierel	999	na	Schärnul	999
+3	na	III_36_0039	Riedheim	8.74873, 47.76389	na	scherrnul	999	na	schernul	999	na	Schärnul	999

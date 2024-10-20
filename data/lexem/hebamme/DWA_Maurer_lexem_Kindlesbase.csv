@@ -1,0 +1,5 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	KST l4	III_19_0017, III_19_0019	Mingolsheim, Mingolsheim	8.65316, 49.21986	kinnerbese	kinderbase, kinnerbas, kinnbas	2	kinnerbese	kinderbase, kinnerbas	2	Kindlesbase	Kindlesbase	0
+1	KST n6	na	Kirchardt	8.9918, 49.20667	kindlesbas	na	999	kindlesbas	na	999	Kindlesbase	na	999
+2	na	III_20_0016	Karlsdorf	8.54164, 49.1363	na	kinnelsbas	999	na	kinnelsbas	999	na	Kindlesbase	999
+3	na	II_92_0006	Osterburken	9.42838, 49.4308	na	kindlesbas	999	na	kindlesbas	999	na	Kindlesbase	999

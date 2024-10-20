@@ -1,0 +1,95 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	KST G2	na	Kleinsteinbach	8.55383, 48.96613	ebbiere	na	999	erbire	na	999	Erdbirne	na	999
+1	MH R4	na	Leimen	8.68891, 49.34902	ebire	na	999	erbire	na	999	Erdbirne	na	999
+2	KST t5	III_20_0030	Oberacker, Oberacker	8.71399, 49.1087	äbire	äbiere	1	erbire	erbire	0	Erdbirne	Erdbirne	0
+3	KST t6	III_20_0032	Gochsheim, Gochsheim	8.74551, 49.10407	erbiere	erbiere	0	erbire	erbire	0	Erdbirne	Erdbirne	0
+4	KST t10	III_20_0031	Menzingen, Menzingen	8.77067, 49.13931	erbīre	ärbierä	4	erbire	erbire	0	Erdbirne	Erdbirne	0
+5	KST m5	III_19_0030, III_19_0031	Michelfeld, Michelfeld	8.7808, 49.22723	erbīere	erbire, erbiere	1	erbire	erbire	0	Erdbirne	Erdbirne	0
+6	KST t9	III_20_0034	Bahnbrücken, Bahnbrücken	8.78671, 49.11865	ärbiere	äbiere	1	erbire	erbire	0	Erdbirne	Erdbirne	0
+7	KST t11	III_20_0033	Landshausen, Landshausen	8.80627, 49.14899	erbiere	erbier	1	erbire	erbire	0	Erdbirne	Erdbirne	0
+8	KST t8	III_20_0040	Zaisenhausen, Zaisenhausen	8.81712, 49.10745	äbiera	äbira	1	erbire	erbire	0	Erdbirne	Erdbirne	0
+9	KST e6	na	Zuzenhausen	8.82176, 49.29778	erbirre	na	999	erbire	na	999	Erdbirne	na	999
+10	KST n1	III_19_0034	Dühren, Dühren	8.83562, 49.24557	erbira	erbiere	2	erbire	erbire	0	Erdbirne	Erdbirne	0
+11	KST n11	III_19_0042, III_19_0041, III_19_0043	Elsenz, Elsenz	8.83766, 49.17408	erbiere	erbiere	0	erbire	erbire	0	Erdbirne	Erdbirne	0
+12	KST B1	III_21_0033	Kürnbach, Kürnbach	8.84279, 49.07732	arbierä	erbiere	2	arbire	erbire	1	Erdbirne	Erdbirne	0
+13	KST u4	III_20_0041	Rohrbach (am Giesshübel), Rohrbach	8.85649, 49.14055	erbire	erbiere	1	erbire	erbire	0	Erdbirne	Erdbirne	0
+14	KST u5	III_20_0043, III_20_0042, III_20_0163, III_20_0045, III_20_0044	Sulzfeld, Sulzfeld	8.85671, 49.10336	erbira	erbira, erbiera, erbiere	0	erbire	erbire	0	Erdbirne	Erdbirne	0
+15	KST n13	III_19_0037	Weiler, Weiler	8.87587, 49.20862	erbire	erdbire	1	erbire	erdbire	1	Erdbirne	Erdbirne	0
+16	KST n10	III_20_0046	Adelshofen, Adelshofen	8.89073, 49.16806	äbbiere	erbiere	2	erbire	erbire	0	Erdbirne	Erdbirne	0
+17	KST u6	III_20_0052	Mühlbach, Mühlbach	8.90301, 49.09703	ärbirre	ärbiere	1	erbire	erbire	0	Erdbirne	Erdbirne	0
+18	KST u3	III_20_0047, III_20_0048, III_20_0050, III_20_0049, III_20_0051	Eppingen, Eppingen	8.9098, 49.13704	erbiere	ärbira, ärbiere, ärbiera, erbiere	0	erbire	erbire	0	Erdbirne	Erdbirne	0
+19	KST f3	na	Waibstadt	8.9198, 49.29982	erbire	na	999	erbire	na	999	Erdbirne	na	999
+20	KST n9	III_19_0046	Ittlingen, Ittlingen	8.93691, 49.19224	erbiere	erdbire	2	erbire	erdbire	1	Erdbirne	Erdbirne	0
+21	KST n8	III_19_0047	Richen, Richen	8.94083, 49.17134	erbīre	ärbierä	4	erbire	erbire	0	Erdbirne	Erdbirne	0
+22	KST f7	na	Adersbach	8.95454, 49.2632	erbire	na	999	erbire	na	999	Erdbirne	na	999
+23	KST u2	na	Stebbach	8.96448, 49.14676	äbirä	na	999	erbire	na	999	Erdbirne	na	999
+24	KST n7	III_19_0048	Berwangen, Berwangen	8.98098, 49.18431	äbire	erdbiere	4	erbire	erdbire	1	Erdbirne	Erdbirne	0
+25	KST n4	na	Ehrstädt	8.98266, 49.24404	erbira	na	999	erbire	na	999	Erdbirne	na	999
+26	KST u1	III_20_0056, III_20_0053, III_20_0054, III_20_0055	Gemmingen, Gemmingen	8.98358, 49.15633	äbiere	erbire	3	erbire	erbire	0	Erdbirne	Erdbirne	0
+27	KST n6	III_19_0049	Kirchardt, Kirchardt	8.9918, 49.20667	erbire	erbire	0	erbire	erbire	0	Erdbirne	Erdbirne	0
+28	TÜB g1	III_25_0044	Sindelfingen, Sindelfingen	9.00194, 48.70797	a͜ebirâ	erdbirn	4	erbire	erdbirne	2	Erdbirne	Erdbirne	0
+29	KST g6	na	Obergimpern	9.04013, 49.25574	ärdbi̊ere	na	999	erdbire	na	999	Erdbirne	na	999
+30	KST g3	III_18_0062	Hüffenhardt, Hüffenhardt	9.08386, 49.2913	erdbieren	erbieren	1	erdbire	erbire	1	Erdbirne	Erdbirne	0
+31	KST o3	III_19_0057, III_19_0058	Bad Rappenau, Bad Rappenau	9.10212, 49.24032	erbiire	erbiire, erbiere	0	erbire	erbire	0	Erdbirne	Erdbirne	0
+32	KST v1	III_20_0066	Schluchtern, Schluchtern	9.1026, 49.14843	erbiere	erdbirne	3	erbire	erdbirne	2	Erdbirne	Erdbirne	0
+33	MH Y4	III_18_0076	Stein am Kocher, Stein	9.29954, 49.26198	äbbirre	äbbirn	2	erbire	erbirne	1	Erdbirne	Erdbirne	0
+34	STU h1	III_24_0080	Stetten/Remstal, Stetten/Remstal	9.34045, 48.79285	ebbira	äbira	2	erbire	erbire	0	Erdbirne	Erdbirne	0
+35	STU u1	III_26_0090	Nürtingen, Nürtingen	9.34192, 48.62663	aibire	äbiera, ebier	4	aibire	erbire	2	Erdbirne	Erdbirne	0
+36	MH Z1	III_18_0081	Ruchsen, Ruchsen	9.37887, 49.31914	äbbirn	erdbirn	3	erbirne	erdbirne	1	Erdbirne	Erdbirne	0
+37	MH V2	II_93_0002	Sennfeld, Sennfeld	9.38438, 49.38045	äbiern	äbier	1	erbirne	erbire	1	Erdbirne	Erdbirne	0
+38	MH V1	II_93_0003	Adlesheim, Adlesheim	9.39101, 49.40289	erbiern	erbiere	1	erbirne	erbire	1	Erdbirne	Erdbirne	0
+39	MH V5	II_93_0004	Korb, Korb	9.39732, 49.35594	äbbirn	erdbirn	3	erbirne	erdbirne	1	Erdbirne	Erdbirne	0
+40	MH N11	II_92_0005	Bofsheim, Bofsheim	9.41226, 49.4714	ebirn	ebirn	0	erbirne	erbirne	0	Erdbirne	Erdbirne	0
+41	MH V3	II_93_0005	Leibenstadt, Leibenstadt	9.42028, 49.36861	ebiern	erbiern	1	erbirne	erbirne	0	Erdbirne	Erdbirne	0
+42	MH N5	II_92_0007, II_92_0006	Osterburken, Osterburken	9.42838, 49.4308	ebirn	aebiirn, ebiirn	1	erbirne	erbirne	0	Erdbirne	Erdbirne	0
+43	MH V4	II_93_0006	Unterkessach, Unterkessach	9.43829, 49.34571	äbīrn	ēbirn	2	erbirne	erbirne	0	Erdbirne	Erdbirne	0
+44	MH N7	II_92_0009	Sindolsheim, Sindolsheim	9.45384, 49.48715	ebīrn	ebiern	2	erbirne	erbirne	0	Erdbirne	Erdbirne	0
+45	MH N9	II_92_0008	Rosenberg, Rosenberg	9.4752, 49.45583	ebirn	äbir	2	erbirne	erbire	1	Erdbirne	Erdbirne	0
+46	MH N6	II_92_0133	Bronnacker, Bronnacker	9.48305, 49.4446	äbirn	ebire	2	erbirne	erbire	1	Erdbirne	Erdbirne	0
+47	STU u2	III_26_0084	Bissingen/Teck, Bissingen-Teck	9.49128, 48.60024	aibīra	aibiere	3	aibire	aibire	0	Erdbirne	Erdbirne	0
+48	MH O2	na	Hirschlanden	9.50074, 49.47297	erdbirne	na	999	erdbirne	na	999	Erdbirne	na	999
+49	MH W11	II_93_0010	Merchingen, Merchingen	9.50633, 49.4003	ebirn	ebirn	0	erbirne	erbirne	0	Erdbirne	Erdbirne	0
+50	MH O1	II_92_0010	Hohenstadt, Hohenstadt	9.51685, 49.49168	äbirn	äbirn	0	erbirne	erbirne	0	Erdbirne	Erdbirne	0
+51	MH W1	II_93_0009	Hüngheim, Hüngheim	9.51823, 49.41257	erbirn	erbirn	0	erbirne	erbirne	0	Erdbirne	Erdbirne	0
+52	MH O3	II_92_0012	Berolzheim, Berolzheim	9.54042, 49.4749	äbirn	ebiern	2	erbirne	erbirne	0	Erdbirne	Erdbirne	0
+53	MH W10	na	Unterwittstadt	9.54936, 49.41004	abirn	na	999	arbirne	na	999	Erdbirne	na	999
+54	MH W2	II_93_0011	Ballenberg, Ballenberg	9.55086, 49.40093	äbirn	ebirn	1	erbirne	erbirne	0	Erdbirne	Erdbirne	0
+55	MH W3	II_93_0012	Erlenbach, Erlenbach	9.5514, 49.38553	äbiern	äbirn	1	erbirne	erbirne	0	Erdbirne	Erdbirne	0
+56	MH O7	II_92_0014	Oberwittstadt, Oberwittstadt	9.55565, 49.43027	äbirn	ebirn	1	erbirne	erbirne	0	Erdbirne	Erdbirne	0
+57	MH W9	II_93_0015	Winzenhofen, Winzenhofen	9.57229, 49.35628	äbirn	äbirn	0	erbirne	erbirne	0	Erdbirne	Erdbirne	0
+58	MH O4	II_92_0013	Schillingstadt, Schillingstadt	9.57461, 49.46035	ebirn	erbiera	3	erbirne	erbire	1	Erdbirne	Erdbirne	0
+59	MH W4	II_93_0019	Oberndorf, Oberndorf	9.59181, 49.40817	ebirn	erbirn	1	erbirne	erbirne	0	Erdbirne	Erdbirne	0
+60	MH O8	II_91_0012	Uiffingen, Uiffingen	9.59227, 49.50171	erbira	ebiern	3	erbire	erbirne	1	Erdbirne	Erdbirne	0
+61	MH O9	II_92_0022	Angeltürn, Angeltürn	9.59726, 49.48572	äbirn	äbiern	1	erbirne	erbirne	0	Erdbirne	Erdbirne	0
+62	MH O5	II_92_0021, II_92_0020, II_92_0019	Schwabhausen, Schwabhausen	9.60196, 49.45569	ebirn	ebbirn, äbiern	1	erbirne	erbirne	0	Erdbirne	Erdbirne	0
+63	MH W8	II_93_0018	Gommersdorf, Gommersdorf	9.61253, 49.36877	äbbīrn	ebbirn	2	erbirne	erbirne	0	Erdbirne	Erdbirne	0
+64	MH W5	II_93_0020	Neunstetten, Neunstetten	9.61267, 49.41114	äbirn	äbirn	0	erbirne	erbirne	0	Erdbirne	Erdbirne	0
+65	MH F7	II_91_0013	Kupprichhausen-Lengenrieden, Kupprichhausen u. Lengenrieden	9.62002, 49.52627	érbirn	ärbiirn	2	erbirne	erbirne	0	Erdbirne	Erdbirne	0
+66	MH O6	II_92_0015, II_92_0017, II_92_0018, II_92_0016	Windischbuch, Windischbuch	9.62194, 49.43593	erdbirn	ebbirn, ebirn, ebiern, eebirn	2	erdbirne	erbirne	1	Erdbirne	Erdbirne	0
+67	MH F6	II_91_0014	Epplingen, Epplingen	9.62742, 49.5054	ebbiere	ebiern	2	erbire	erbirne	1	Erdbirne	Erdbirne	0
+68	MH O10	II_92_0023, II_92_0025, II_92_0024	Wölchingen, Wölchingen	9.63011, 49.48494	ebbiern	ebbirn, ebbiern, ebirn	0	erbirne	erbirne	0	Erdbirne	Erdbirne	0
+69	MH W7	II_93_0022	Krautheim, Krautheim	9.63369, 49.39159	ĕbiern	ebiern	1	erbirne	erbirne	0	Erdbirne	Erdbirne	0
+70	MH F8	II_91_0015	Heckfeld, Heckfeld	9.63713, 49.55077	äbbir	äbbir	0	erbire	erbire	0	Erdbirne	Erdbirne	0
+71	MH O11	II_92_0026	Boxberg, Boxberg	9.64298, 49.48181	erbirn	ebirn	1	erbirne	erbirne	0	Erdbirne	Erdbirne	0
+72	MH W6	II_93_0021	Horrenbach, Horrenbach	9.66028, 49.40826	ebirn	ebirn	0	erbirne	erbirne	0	Erdbirne	Erdbirne	0
+73	MH P2	II_92_0040	Schweigern, Schweigern	9.66576, 49.49224	äbirn	äbiern	1	erbirne	erbirne	0	Erdbirne	Erdbirne	0
+74	MH X1	na	Klepsau	9.67156, 49.38805	ebīrn	na	999	erbirne	na	999	Erdbirne	na	999
+75	MH P3	II_92_0028	Bobstadt, Bobstadt	9.67398, 49.46607	ebirn	erbirn	1	erbirne	erbirne	0	Erdbirne	Erdbirne	0
+76	MH G11	II_91_0019	Oberschüpf, Oberschüpf	9.67687, 49.52252	äbīre	ebire	2	erbire	erbire	0	Erdbirne	Erdbirne	0
+77	MH G1	na	Oberlauda	9.67912, 49.56608	erdbiere	na	999	erdbire	na	999	Erdbirne	na	999
+78	MH P4	II_92_0032, II_92_0031, II_92_0030, II_92_0029	Assamstadt, Assamstadt	9.68738, 49.42689	erbirn, erdbirn	erdbier, erdbirn	0	erbirne	erdbirne, erdbire	1	Erdbirne	Erdbirne	0
+79	MH G12	II_91_0020	Unterschüpf, Unterschüpf	9.68922, 49.51437	äbiere	äbiere	0	erbire	erbire	0	Erdbirne	Erdbirne	0
+80	MH G13	II_91_0021	Sachsenflur, Sachsenflur	9.71, 49.52377	äbbiere	äbiere	1	erbire	erbire	0	Erdbirne	Erdbirne	0
+81	MH P1	II_92_0027	Dainbach-Herold, Dainbach	9.71553, 49.49662	äbīere	äbirn	3	erbire	erbirne	1	Erdbirne	Erdbirne	0
+82	MH G4	II_91_0025	Marbach, Marbach	9.7264, 49.56581	äbīere	äbiere	1	erbire	erbire	0	Erdbirne	Erdbirne	0
+83	MH G9	II_91_0022	Königshofen, Königshofen	9.73105, 49.54759	ebbiere	ebiere	1	erbire	erbire	0	Erdbirne	Erdbirne	0
+84	MH G8	II_91_0023	Unterbalbach, Unterbalbach	9.74711, 49.52779	äbire	ebiere	2	erbire	erbire	0	Erdbirne	Erdbirne	0
+85	MH G7/2, MH G7/1	II_91_0032	Oberbalbach, Oberbalbach	9.7938, 49.53997	ebīra, epira	äbira	2	erbire	erbire	0	Erdbirne	Erdbirne	0
+86	na	III_23_0038, III_23_0052	Pforzheim	8.70025, 48.89013	na	erbier, äbbīre, ebiere	999	na	erbire	999	na	Erdbirne	999
+87	na	III_20_0035, III_20_0037	Flehingen	8.78694, 49.0869	na	erdbiere, erbiere	999	na	erdbire, erbire	999	na	Erdbirne	999
+88	na	III_19_0045	Reihen	8.91628, 49.21715	na	ebirn	999	na	erbirne	999	na	Erdbirne	999
+89	na	III_18_0058	Wollenberg	9.03453, 49.29152	na	erdbire	999	na	erdbire	999	na	Erdbirne	999
+90	na	III_19_0052	Treschklingen	9.05577, 49.22614	na	erbierer	999	na	erbire	999	na	Erdbirne	999
+91	na	II_92_0002	Eberstadt	9.3666, 49.47727	na	ebier	999	na	erbire	999	na	Erdbirne	999
+92	na	II_91_0011	Eubigheim	9.53977, 49.5018	na	äbirn	999	na	erbirne	999	na	Erdbirne	999
+93	na	II_91_0028	Messelhausen	9.7887, 49.5756	na	äbiere	999	na	erbire	999	na	Erdbirne	999

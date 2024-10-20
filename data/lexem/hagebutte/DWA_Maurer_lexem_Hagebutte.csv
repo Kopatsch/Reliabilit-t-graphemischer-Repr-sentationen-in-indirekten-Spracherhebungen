@@ -1,0 +1,1354 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Co w 5	na	Urbis, St. Amarintal (Urbès)	6.95521, 47.88255	hagebutt	na	999	hagebutt	na	999	Hagebutte	na	999
+1	Co T10	na	Schaffnatt am Weier (Chavannes-Sur-LÉtang)	7.02504, 47.63178	hagebutt	na	999	hagebutt	na	999	Hagebutte	na	999
+2	Co x 5	na	St. Amarin	7.03186, 47.87365	hā̊gebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+3	Co T16	na	Menglatt (Magny)	7.05408, 47.6019	hågäbuttā̄	na	999	hagebutte	na	999	Hagebutte	na	999
+4	Co M7	III_15_0007	St Kosman (Saint-Cosme), St. Kosman	7.06248, 47.68339	hågabudda	hagabudda	1	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+5	Co T2	na	Niedertraubach (traubach-Le-Haute)	7.09169, 47.66903	hegbutte	na	999	hegbutte	na	999	Hagebutte	na	999
+6	Co T12	III_16_0002	Altenach, Altenach	7.11466, 47.60658	hågebuddă	hågabutta	4	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+7	Co T6	III_16_0018	Dammerkirch (Dannemarie), Dammerkirch	7.1214, 47.63024	haagebudda	hagabutta	4	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+8	Co T3	na	Büttweiler (Buethwiller)	7.14982, 47.65627	hågabutta	na	999	hagebutte	na	999	Hagebutte	na	999
+9	Co N12	III_15_0028	Balschweiler bei Altkirch, Balschweiler	7.1681, 47.66772	hagebutte	hagabudda	4	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+10	Hag F 5	III_5_0040	Diemeringen, Diemeringen	7.18685, 48.94061	hāgebutte	haupütt	6	hagebutte	haubütte	3	Hagebutte	Hagebutte	0
+11	Hag N 10	na	Dürstel (Durstel)	7.19745, 48.89156	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+12	Co r 4	na	Winzfelden (Wintzfelden)	7.19806, 47.97442	hā̊gebutta	na	999	hagebutte	na	999	Hagebutte	na	999
+13	Co U 12	III_16_0021, III_16_0020	Hirzbach (Hirtzbach), Hirzbach	7.22017, 47.59449	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+14	Co U 5	na	Aspach	7.23354, 47.6401	hāgabūtta	na	999	hagebutte	na	999	Hagebutte	na	999
+15	Co k 15	na	Zimmerbach	7.23755, 48.07261	håjebudde	na	999	hajebutte	na	999	Hagebutte	na	999
+16	Co F3/1, Co F3/2	na	Wittelsheim	7.24063, 47.81047	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+17	Co Ub 1	III_17_0063	Dürlinsdorf (Durlinsdorf), Dürlinsdorf	7.24121, 47.48531	hågebutte	hagebudde	3	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+18	Hag N 6	na	Strut (Struth)	7.25475, 48.89009	hāwlbutte	na	999	hawelbutte	na	999	Hagebutte	na	999
+19	Co Ua 7/2	na	Riespach	7.28623, 47.54132	hagebutta	na	999	hagebutte	na	999	Hagebutte	na	999
+20	Stra V 4	na	Rappoltsweiler (Ribeauvillé)	7.32486, 48.19355	haïbutt	na	999	hajbutt	na	999	Hagebutte	na	999
+21	Co V 16	na	Rantsweiler (Rantzwiller)	7.37595, 47.65241	hāgebuttene	na	999	hagebuttene	na	999	Hagebutte	na	999
+22	Co O3	na	Zimmersheim	7.38892, 47.72013	hå̄gabutta	na	999	hagebutte	na	999	Hagebutte	na	999
+23	Stra P 9	III_11_0094	Kinzheim (Kintzheim), Kinzheim	7.39476, 48.25441	haggebudde	heckebudde	3	hagebutte	hegebutte	1	Hagebutte	Hagebutte	0
+24	Stra e 11	na	Lochweiler	7.41619, 48.69645	heckebutte	na	999	hegebutte	na	999	Hagebutte	na	999
+25	Co Va 4/1	na	Volkensberg (Folgensbourg)	7.4473, 47.55147	hagebudda	na	999	hagebutte	na	999	Hagebutte	na	999
+26	Co Vd 3	na	Liebenzweiler (Liebenswiller)	7.45821, 47.49881	hāgabutta	na	999	hagebutte	na	999	Hagebutte	na	999
+27	Hag G 3	na	Reipertsweiler (Reipertswiller)	7.46373, 48.93214	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+28	Co Vd 4	na	Leimen (Leymen)	7.48218, 47.4954	hāgabutta	na	999	hagebutte	na	999	Hagebutte	na	999
+29	Co P10/1	na	Kembs-Neuweg	7.50399, 47.6877	hågåbutte	na	999	hagebutte	na	999	Hagebutte	na	999
+30	Co e 8	III_12_0097	Dürrenenzen (Dürrenentzen), Dürrenenzen	7.50406, 48.09192	hajabutt	hajabǔtta	2	hajebutt	hajebutte	1	Hagebutte	Hagebutte	0
+31	Co Wa 3	na	Hegenheim (Hégenheim)	7.52344, 47.56115	håagabutta	na	999	hagebutte	na	999	Hagebutte	na	999
+32	Co P9	na	Rheinweiler	7.53324, 47.71013	hagebutt	na	999	hagebutt	na	999	Hagebutte	na	999
+33	Co P12	na	Blansingen	7.54141, 47.69158	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+34	Stra n 4	na	Neugartheim und Ittlenheim	7.54562, 48.6548	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+35	Co P18	na	Huttingen	7.5497, 47.67294	hagebudde	na	999	hagebutte	na	999	Hagebutte	na	999
+36	Co H14	na	Steinenstadt	7.55314, 47.76918	hagebuttene	na	999	hagebuttene	na	999	Hagebutte	na	999
+37	Co H2	III_14_0134	Neuenburg (am Rhein), Neuenburg	7.56012, 47.81393	hagebuttene	hagebuttene	0	hagebuttene	hagebuttene	0	Hagebutte	Hagebutte	0
+38	Co W 3	III_16_0069	Kirchen (Efringen-Kirchen), Kirchen	7.56471, 47.64989	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+39	Hag W 17	na	Hochfelden	7.57004, 48.75735	hāgebuda	na	999	hagebutte	na	999	Hagebutte	na	999
+40	Co W 16	III_16_0061	Neudorf (Village-Neuf), Neudorf	7.57149, 47.60532	hagabûtta	hagabutta	1	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+41	Co H13	III_14_0135	Schliengen, Schliengen	7.57624, 47.75579	hagebutte	hagebudde	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+42	Co A10	III_14_0042	Zienken (Müllheim), Zienken	7.57779, 47.84303	hāgebuttene	hagebutte	3	hagebuttene	hagebutte	2	Hagebutte	Hagebutte	0
+43	Co H8	III_14_0136	Auggen, Auggen	7.59221, 47.78776	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+44	Co A9	III_14_0043	Grißheim (Grissheim) , Grissheim	7.59238, 47.87313	hagäbuttä	hagebutte	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+45	Co m 1	III_13_0040	Breisach, Breisach	7.59332, 48.04535	hagebudde	hagebutte	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+46	Co W 11, 18	na	(Weil am Rhein und) Eimeldingen	7.59518, 47.63113	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+47	Co W 4, 5	III_16_0087, III_16_0088	Egringen und Fischingen, Egringen, Fischingen	7.59628, 47.66366	hagebutte	hagebudde	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+48	Co P14	III_15_0054	Mappach, Mappach	7.59794, 47.68033	hāgebuttē	hagebudde	4	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+49	Co e 4	III_12_0108	Burkheim am Kaiserstuhl, Burkheim am Kaiserstuhl	7.59943, 48.10194	hagäbudde	hagebutte	3	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+50	Co P3	III_15_0049	Liel, Liel	7.604, 47.73928	hagebudde	hagebuttene	4	hagebutte	hagebuttene	2	Hagebutte	Hagebutte	0
+51	Co e 14	na	Jechtingen am Kaierstuhl	7.60965, 48.11815	hagäbutä	na	999	hagebutte	na	999	Hagebutte	na	999
+52	Co P6	III_15_0057	Tannenkirch, Tannenkirch	7.6103, 47.71116	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+53	Co e 12	III_12_0103	Sasbach, Sasbach	7.61363, 48.13798	hågebutti	hagebuttä	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+54	Co H3	na	Hügelheim	7.6208, 47.82868	hagäbutte	na	999	hagebutte	na	999	Hagebutte	na	999
+55	Co A8	III_14_0044	Bremgarten (Hartheim), Bremgarten	7.62385, 47.91694	hagebudde	hagebudde	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+56	Co W 10	III_16_0073, III_16_0072	Binzen, Märkt, Binzen	7.62403, 47.63133	hagabutta	hagebutta, hangabutte, hagebutti	1	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+57	Co m 4	III_13_0037	Achkarren, Achkarren	7.62448, 48.06769	hagebutte	hagebütte	1	hagebutte	hagebütte	1	Hagebutte	Hagebutte	0
+58	Co e 6	III_12_0106	Bischoffingen, Bischoffingen	7.62537, 48.10625	hågebuddä	hagebutte	4	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+59	Stra n 9	na	Stutzheim-Offenheim	7.62623, 48.6279	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+60	Co t 4	na	Hartheim	7.62702, 47.93691	hagebuteme	na	999	hagebutteme	na	999	Hagebutte	na	999
+61	Co P15	III_15_0055	Holzen, Holzen	7.62775, 47.69538	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+62	Co H7	na	Müllheim	7.62923, 47.80821	hagebudde	na	999	hagebutte	na	999	Hagebutte	na	999
+63	Stra f 7	na	Mittelhausen	7.63107, 48.7093	håjebudde	na	999	hajebutte	na	999	Hagebutte	na	999
+64	Co W 18	III_16_0085	Weil am Rhein, Weil	7.63299, 47.59278	hagebutte	hagebudde	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+65	Co e 13	III_12_0107	Oberrotweil, Oberrotweil	7.63551, 48.08944	hagebutte	hãgabutta	3	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+66	Co e 3	na	Leiselheim	7.6357, 48.12586	hāgebütte	na	999	hagebutte	na	999	Hagebutte	na	999
+67	Co A5	III_14_0045	Seefelden, Seefelden	7.63962, 47.85945	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+68	Co W 7, 9/2	na	Rümmingen	7.64143, 47.64099	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+69	Co m 2	III_13_0039	Gündlingen, Gündlingen	7.64227, 48.01556	hagebutteme	hagebutteme	0	hagebutteme	hagebutteme	0	Hagebutte	Hagebutte	0
+70	Co m 5	na	Bickensohl	7.64262, 48.07988	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+71	Co m 3	III_13_0038	Ihringen, Ihringen	7.64554, 48.04572	hagebuttä	haagabuda	5	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+72	Co W 7, 9/1	III_16_0086	Wittlingen, Wittlingen	7.64842, 47.6562	hagebutte	haagebudde	3	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+73	Co e 7	na	Wyhl am Kaiserstuhl	7.64933, 48.1663	hagebuttä	na	999	hagebutte	na	999	Hagebutte	na	999
+74	Co A7	III_14_0048	Eschbach (bei Heitersheim), Eschbach	7.65221, 47.8908	hagebuttene	hagebutte	2	hagebuttene	hagebutte	2	Hagebutte	Hagebutte	0
+75	Co e 2	III_12_0105	Kiechlinsbergen, Kiechlinsbergen	7.65306, 48.12469	hagebudde	hagebutte	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+76	Co e 11	III_12_0104	Königschaffhausen am Kaiserstuhl, Königschaffhausen	7.65562, 48.13337	hāgebutta	haagebutte	3	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+77	Co W 21	na	Tumringen	7.65564, 47.62739	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+78	Co e 5	na	Oberbergen	7.65599, 48.09787	hagebudde	na	999	hagebutte	na	999	Hagebutte	na	999
+79	Co t 2	na	Oberrimsingen	7.6594, 47.97942	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+80	Stra B 10	na	Erstein	7.66295, 48.4211	hajellbutt	na	999	hajelbutt	na	999	Hagebutte	na	999
+81	Co W 20, Co W 19	III_16_0082, III_16_0079, III_16_0083	Lörrach, Lörrach , Lörrach <Adolf Hitler Schule>, Lörrach	7.66409, 47.61258	hagebutte, hagebuttä	hagebudde, hagebuttä	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+82	Co B1	III_14_0051, III_14_0050	Tunsel, Tunsel	7.66581, 47.90315	hagabutte	hagebutta, hagabuttä	1	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+83	Co A6	na	Heitersheim	7.66768, 47.87108	hagebuttena	na	999	hagebuttene	na	999	Hagebutte	na	999
+84	Co J1	III_14_0144	Britzingen, Britzingen	7.67237, 47.82744	hågebutte	hagebuttene	3	hagebutte	hagebuttene	2	Hagebutte	Hagebutte	0
+85	Co u 21	III_13_0134	Schlatt, Schlatt	7.67473, 47.92531	hagebudde	hagebutte	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+86	Stra Y 3	III_12_0036	Weisweil, Weisweil	7.67618, 48.19761	hagebudde	hagebutte	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+87	Co f 12	III_12_0123	Amoltern, Amoltern	7.67629, 48.12873	hagebudde	hagebutte	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+88	Hag Q 12	na	Griesbach	7.67856, 48.89026	hågebutt	na	999	hagebutt	na	999	Hagebutte	na	999
+89	Co B2	na	Gallenweiler	7.68027, 47.88527	hagebuttena	na	999	hagebuttene	na	999	Hagebutte	na	999
+90	Co n 14	na	Wasenweiler	7.6813, 48.05162	hagebuttä	na	999	hagebutte	na	999	Hagebutte	na	999
+91	Co f 6	III_12_0124	Schelingen am Kaiserstuhl, Schelingen	7.68308, 48.10435	hagäbuttä	hagebutte	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+92	Co B5	na	Laufen	7.68471, 47.8434	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+93	Co X 16	na	Inzlingen	7.68772, 47.58811	hāgebŭtte	na	999	hagebutte	na	999	Hagebutte	na	999
+94	Co n 4	III_13_0059, III_13_0058	Merdingen, Merdingen	7.68864, 48.0173	hågebutte	hagebutte	1	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+95	Co u 1/2	III_13_0135	Biengen, Biengen	7.68958, 47.93875	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+96	Co Xa 5	III_17_0038, III_17_0040, III_17_0039	Wyhlen, Wyhlen	7.69103, 47.54989	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+97	Co X 6	III_16_0095, III_16_0094	Brombach (/Maulburg, aber gestrichen), Brombach	7.69236, 47.63395	hagebudde	hagebutte	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+98	Co X 5	III_16_0093	Hauingen, Hauingen	7.69375, 47.64287	hachebudde	hagäbuddä	4	hachebutte	hagebutte	2	Hagebutte	Hagebutte	0
+99	Co B3	III_14_0055, III_14_0056	Wettelbrunn, Wettelbrunn	7.69689, 47.87134	hagebuddene	hagebutte	4	hagebuttene	hagebutte	2	Hagebutte	Hagebutte	0
+100	Co u 16	III_13_0129	Munzingen, Munzingen	7.69883, 47.96873	hagebudde	hāgebutte	3	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+101	Co B4	III_14_0049	Ballrechten-Dottingen, Ballrechten	7.70076, 47.86061	hagebutte	hagebutten	1	hagebutte	hagebutten	1	Hagebutte	Hagebutte	0
+102	Co f 9	III_12_0119	Forchheim, Forchheim	7.7031, 48.16341	hagȇbuddȇ	hagebudde	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+103	Co f 1	na	Endingen	7.70312, 48.1419	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+104	Co B11	III_14_0053, III_14_0052	Bad Krozingen, Bad Krozingen	7.70333, 47.91813	hāgebutte, hāgebutze	hagebutze	1	hagebutte, hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+105	Co B6	III_14_0064	Sulzburg, Sulzburg	7.70727, 47.84122	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+106	Co Q1	na	Malsburg	7.70866, 47.73257	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+107	Stra Y 2	III_12_0035	Oberhausen, Oberhausen	7.71048, 48.22667	hågabut	hagebutte	4	hagebutt	hagebutte	1	Hagebutte	Hagebutte	0
+108	Co u 3	na	Offnadingen	7.71217, 47.93434	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+109	Stra Y 1	III_12_0171	Niederhausen, Niederhausen	7.71317, 48.23982	hagabudä	hagaͤbudaͤ	3	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+110	Co u 17	na	Mengen	7.71392, 47.95851	hagebudde	na	999	hagebutte	na	999	Hagebutte	na	999
+111	Hag B 3	na	Niedersteinbach	7.71501, 49.0295	hågebutt	na	999	hagebutt	na	999	Hagebutte	na	999
+112	Co u 15	III_13_0057	Opfingen, Opflingen	7.71585, 48.00052	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+113	Co u 14	III_13_0128	Tiengen, Tiengen	7.71599, 47.98216	hagebudde	hagebutte	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+114	Co n 13	III_13_0056	Waltershofen, Waltershofen	7.71857, 48.02338	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+115	Co B10	III_14_0057	Grunern bei Müllheim, Grunern	7.72184, 47.87162	haggebüdde	hagebutte	4	hagebütte	hagebutte	1	Hagebutte	Hagebutte	0
+116	Co n 12	III_13_0050, III_13_0051	Bötzingen, Bötzingen	7.72593, 48.07743	hagebudde	hagebutte	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+117	Co u 5	III_13_0136	Norsingen, Norsingen	7.72683, 47.93837	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+118	Co n 8	na	Gottenheim	7.72686, 48.04969	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+119	Co X 1	III_16_0097	Hägelberg, Hägelberg	7.72778, 47.66132	hagäbutte	hagebudde	3	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+120	Co B9	III_14_0060, III_14_0059, III_14_0061	Staufen (bei Freiburg), Staufen	7.72962, 47.88166	hāgebudds	hagebuddeme	4	hagebutz	hagebutteme	4	Hagebutte	Hagebutte	0
+121	Co Q8	na	Endenburg	7.73306, 47.71161	hagebuttene	na	999	hagebuttene	na	999	Hagebutte	na	999
+122	Co Q11	na	Schlächtenhaus-Hofen	7.73863, 47.69047	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+123	Co X 7	III_16_0098	Steinen, Steinen	7.73911, 47.64447	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+124	Co f 10	III_12_0111	Bahlingen, Bahlingen	7.73937, 48.12209	haagebuddaͤ	haagebudde	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+125	Co X 9	III_16_0100	Hüsingen, Hüsingen	7.74114, 47.63121	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+126	Stra R 11	III_11_0110, III_11_0111	Kappel a. Rh., Grafenhausen, Kappel a. Rh.	7.74182, 48.29235	hagäbudä	hagebutte, hagabutta	4	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+127	Co u 4	III_13_0164	Kirchhofen, Kirchhofen	7.74356, 47.91979	hagebuddä	hagebuddä	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+128	Co f 7	III_12_0125	Eichstetten, Eichstetten	7.74563, 48.09417	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+129	Co Xa 1	III_17_0041	Degerfelden, Degerfelden	7.74584, 47.5696	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+130	Co B12	na	Ehrenstetten	7.75208, 47.91557	hågabutta	na	999	hagebutte	na	999	Hagebutte	na	999
+131	Stra o 2	III_9_0054	Reichstett, Reichstett	7.75359, 48.6483	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+132	Co u 6	na	Pfaffenweiler	7.75445, 47.94133	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+133	Stra K 2	na	Ottenheim	7.75477, 48.38593	hāgabutt	na	999	hagebutt	na	999	Hagebutte	na	999
+134	Hag R 9	na	Walburg-Hinterfeld (Hinterfeld)	7.75568, 48.88314	hagebudde	na	999	hagebutte	na	999	Hagebutte	na	999
+135	Co X 15	III_16_0102	Eichsel (GID von Obereichsel), Eichsel	7.75815, 47.59842	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+136	Stra R 4	na	Wittenweier	7.75888, 48.32591	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+137	Stra K 5	na	Nonnenweier	7.76001, 48.34931	hagebudde	na	999	hagebutte	na	999	Hagebutte	na	999
+138	Co X 13	na	Adelhausen	7.76116, 47.61477	hagebudde	na	999	hagebutte	na	999	Hagebutte	na	999
+139	Co u 8	na	Schallstadt	7.76422, 47.959	hagebudde	na	999	hagebutte	na	999	Hagebutte	na	999
+140	Co Q9	III_15_0064	Weitenau, Weitenau	7.76525, 47.67775	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+141	Stra Y 14	III_12_0046	Hecklingen, Hecklingen	7.76731, 48.16962	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+142	Stra R 12	na	Grafenhausen (Kappel-Grafenhausen)	7.76775, 48.2841	hāgebuddaä	na	999	hagebutte	na	999	Hagebutte	na	999
+143	Stra Y 13	III_12_0044	Kenzingen, Kenzingen	7.77005, 48.19298	hāgebudde	hagebutte	3	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+144	Co Xa 2	III_17_0042	Nollingen, Nollingen	7.7716, 47.57363	hagebudde	hagebutte	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+145	Co Q7	na	Sallneck	7.7724, 47.72297	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+146	Stra Y 8	III_12_0038, III_12_0037, III_12_0039	Herbolzheim a. d. Bleich, Herbolzheim	7.77743, 48.22249	hagebutte	hagebutte, hagebuttr	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+147	Co X 10	na	Maulburg	7.77782, 47.64075	hagebuttä	na	999	hagebutte	na	999	Hagebutte	na	999
+148	Co f 3	III_12_0118	Nimburg, Nimburg	7.77794, 48.10762	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+149	Co n 11	III_13_0052	Buchheim, Buchheim	7.77912, 48.06092	hāgǟbutä	hagäbudä	3	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+150	Co u 19/2, Co u 19/1	na	Bollschweil	7.77924, 47.91994	hagebutte, haagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+151	Co u 9	III_13_0140	Ebringen, Ebringen	7.77981, 47.95761	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+152	Stra Y 4	III_12_0033	Ringsheim, Ringsheim	7.78041, 48.24632	hagebudde	hagebutte	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+153	Co n 9	III_13_0054	Hugstetten, Hugstetten	7.78045, 48.05415	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+154	Stra K 4	III_11_0047	Allmannsweier, Allmannsweier	7.78326, 48.36703	hagebutte	hagebudde	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+155	Co f 4	III_12_0173	Bottingen, Bottingen	7.78356, 48.09119	hagebudder	hagebutte	3	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+156	Co Xa 3	III_17_0045, III_17_0046, III_17_0044	Rheinfelden-Stadt (Baden), Rheinfelden	7.78875, 47.55945	hagebutte	hagebutte, hagebutze, hagäbutze	0	hagebutte	hagebutte, hagebutze	0	Hagebutte	Hagebutte	0
+157	Co X 14	III_16_0103, III_16_0104	Minseln, Minseln	7.79067, 47.60301	hagebutte	hagebutte, hagebutt	0	hagebutte	hagebutte, hagebutt	0	Hagebutte	Hagebutte	0
+158	Co f 5	III_12_0117	Malterdingen, Malterdingen	7.79392, 48.16302	hāgebude	hagebutter	4	hagebutte	hagebutter	1	Hagebutte	Hagebutte	0
+159	Co B8	na	Untermünstertal-Rotenbuck	7.79435, 47.84136	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+160	Stra Y 9	III_12_0043	Wagenstadt, Wagenstadt	7.79647, 48.20762	hagebudde	hagebudde	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+161	Co Q10	na	Wieslet	7.79819, 47.6893	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+162	Co X 17	III_16_0105	Karzau (Karsau) , Karsau	7.79868, 47.58875	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+163	Co X 2	na	Langenau	7.79884, 47.65734	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+164	Co n 7	na	Holzhausen	7.79978, 48.07044	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+165	Co n 6	III_13_0053	Hochdorf, Hochdorf	7.80212, 48.0489	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+166	Co u 12	III_13_0132	St. Georgen , St. Georgen	7.8056, 47.97934	hāgebutte	hagebutte	1	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+167	Co f 8	III_12_0114	Köndringen, Köndringen	7.80591, 48.13912	hāgebutte	hagebütte	2	hagebutte	hagebütte	1	Hagebutte	Hagebutte	0
+168	Stra Y 7	III_12_0040	Tutschfelden, Tutschfelden	7.80659, 48.21534	hagebutte	hagebutter	1	hagebutte	hagebutter	1	Hagebutte	Hagebutte	0
+169	Stra R 6	III_11_0109	Kippenheimweiler, Kippenheimweiler	7.80753, 48.31925	hagebuttä	hågebudde	4	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+170	Co u 20	III_13_0137	Sölden, Sölden	7.80967, 47.93307	hagebutzge	hagebutte	2	hagebutzge	hagebutte	2	Hagebutte	Hagebutte	0
+171	Co X 11	III_16_0107, III_16_0108	Wiechs, Wiechs	7.81236, 47.63655	hagebutte	hagebutte, hagebudde	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+172	Stra R 7	III_11_0113	Mahlberg, Mahlberg	7.81323, 48.28708	hagabuddeͣ	hagebudde	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+173	Stra R 10	III_11_0117	Ettenheim, Ettenheim	7.81361, 48.25631	hagebutter	hagebutter	0	hagebutter	hagebutter	0	Hagebutte	Hagebutte	0
+174	Stra Y 11	III_12_0045	Nordweil, Nordweil	7.81384, 48.19396	hagebutter	hagebutte	1	hagebutter	hagebutte	1	Hagebutte	Hagebutte	0
+175	Stra C 5	III_10_0114	Altenheim, Altenheim	7.81393, 48.46505	hagebudde	hagebutte	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+176	Co u 2	III_13_0138	Wittnau, Wittnau	7.814, 47.94661	hagebutzge	hagebutzke	1	hagebutze	hagebutzge	1	Hagebutte	Hagebutte	0
+177	Stra R 9	III_11_0116, III_11_0115	Altdorf, Altdorf	7.81401, 48.26606	hagebudde	hagebudde, hagebuddere	0	hagebutte	hagebutte, hagebuttere	0	Hagebutte	Hagebutte	0
+178	Stra v 1	III_10_0047	Kehl, Kehl	7.81494, 48.57419	hagebutt	hauebutte	2	hagebutt	hawebutte	2	Hagebutte	Hagebutte	0
+179	Co n 1	na	Betzenhausen	7.81511, 48.00987	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+180	Stra C 6	III_10_0115	Dundenheim, Dundenheim	7.81569, 48.44904	hagebut	hagebudde	3	hagebutt	hagebutte	1	Hagebutte	Hagebutte	0
+181	Co X 12	III_16_0111	Nordschwaben, Nordschwaben	7.81682, 47.6184	hågebudde	hagebutte	3	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+182	Stra Y 12	III_12_0172	Bombach, Bombach	7.81686, 48.17869	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+183	Stra v 3	na	Goldscheuer	7.81911, 48.51308	hagebudde	na	999	hagebutte	na	999	Hagebutte	na	999
+184	Stra Y 5	III_12_0034	Ettenheimweiler, Ettenheimweiler	7.82007, 48.23676	hågebutte	hagebutte	1	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+185	Co Q5	III_15_0068	Gresgen, Gresgen	7.82053, 47.71127	hagebudde	hagebudde	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+186	Stra v 2	III_10_0048	Marlen, Marlen	7.8231, 48.52207	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+187	Stra R 5	III_11_0112	Kippenheim, Kippenheim	7.82466, 48.29439	hagabudda	hagebudde	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+188	Co u 11	III_13_0139	Merzhausen, Merzhausen	7.82532, 47.96635	hagebutte	hagebutzge	2	hagebutte	hagebutzge	2	Hagebutte	Hagebutte	0
+189	Co n 2	III_13_0060	Reute, Reute	7.82538, 48.08175	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+190	Stra K 9	III_11_0045	Langenwinkel, Langenwinkel	7.82557, 48.3325	hagebütt	hagebudde	4	hagebütt	hagebutte	2	Hagebutte	Hagebutte	0
+191	Co J5	III_14_0149	Bürchau, Bürchau	7.82686, 47.77616	hagebute	hagebutte	1	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+192	Stra Y 6	III_12_0041	Broggingen, Broggingen	7.82928, 48.21892	hågebude	hagebutte	3	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+193	Stra Y a 1	III_12_0112	Heimbach, Heimbach	7.82936, 48.1638	hā̊gebützge	hagebudde	6	hagebutze	hagebutte	1	Hagebutte	Hagebutte	0
+194	Co u 10	na	Au	7.82976, 47.95687	hagebutzge	na	999	hagebutzge	na	999	Hagebutte	na	999
+195	Co Q4	na	Elbenschwand	7.83139, 47.7509	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+196	Stra D 1	III_10_0057	Kittersburg, Kittersburg	7.83346, 48.49695	hāgebutte	hagebutte	1	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+197	Stra D 16	III_10_0134	Müllen, Müllen	7.83364, 48.46521	hagebutt	hagebutte	1	hagebutt	hagebutte	1	Hagebutte	Hagebutte	0
+198	Co g 8	III_12_0131	Mundingen, Mundingen	7.8346, 48.13735	hāgabutta	hoagebudde	6	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+199	Stra p 9	ungeodnet2	Auenheim, Auenheim	7.83597, 48.6051	haagebudte	hajebutt	4	hagebutte	hajebutte	1	Hagebutte	Hagebutte	0
+200	Co R8	III_15_0078	Adelsberg, Adelsberg	7.83666, 47.71725	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+201	Stra L 10	III_11_0044	Hugsweier, Hugsweier	7.83742, 48.36009	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+202	Co C9	na	St Ulrich	7.83776, 47.909	hagebutte, hagebutze	na	999	hagebutte, hagebutze	na	999	Hagebutte	na	999
+203	Stra S 1	na	Mietersheim	7.83797, 48.32639	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+204	Co Y 15	III_16_0122	Eichen, Eichen	7.83816, 47.6471	hagebudde	hagebutte	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+205	Co K6	III_14_0168	Böllen, Böllen	7.84054, 47.80226	hagebudde	hagebutte	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+206	Co R12	III_15_0089	Hausen im Wiesental, Hausen im Wiesental	7.84055, 47.68143	hagebūtte	hagebuede	3	hagebutte	hagebuette	1	Hagebutte	Hagebutte	0
+207	Co g 10	na	Landeck	7.84077, 48.14954	hagebudde	na	999	hagebutte	na	999	Hagebutte	na	999
+208	Stra L 8	III_11_0052	Schutterzell, Schutterzell	7.84148, 48.4057	hågebütte	hagebutte	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+209	Stra w 1	III_10_0049	Neumühl, Neumühl	7.84392, 48.57012	höwebutte	hagebutte	2	höwebutte	hagebutte	2	Hagebutte	Hagebutte	0
+210	Hag R 3	na	Surburg	7.84913, 48.90982	haabutte	na	999	habutte	na	999	Hagebutte	na	999
+211	Co g 1	na	Emmendingen	7.84951, 48.1209	hagebudde̊	na	999	hagebutte	na	999	Hagebutte	na	999
+212	Co o 8	III_13_0070	Vörstetten, Vörstetten	7.85113, 48.06391	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+213	Stra w 10	III_10_0056	Eckartsweier, Eckartsweier	7.85175, 48.52985	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+214	Stra S 10	III_11_0132	Wallburg, Wallburg	7.85339, 48.26704	hāgebutte	hagebutt	2	hagebutte	hagebutt	1	Hagebutte	Hagebutte	0
+215	Stra p 4	III_9_0077	Leutesheim, Leutesheim	7.85613, 48.62423	häöebutte	hagebutte	2	hewebutte	hagebutte	2	Hagebutte	Hagebutte	0
+216	Co g 3	III_12_0135	Wasser, Wasser	7.8564, 48.09846	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+217	Stra S 9	III_11_0123	Schmieheim, Schmieheim	7.85658, 48.27938	hagäbuddä	hagebutte	4	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+218	Stra L 11	III_11_0058	Dinglingen, Dinglingen	7.85875, 48.34966	hackebütte	hagebutte	3	hagebütte	hagebutte	1	Hagebutte	Hagebutte	0
+219	Stra S 11	na	Münchweier	7.85884, 48.24754	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+220	Co v 9	III_13_0141	Horben, Horben	7.85911, 47.93223	hagebutte	hagebudde	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+221	Stra S 3, Stra S 2	III_11_0121	Sulz, Langenhard-Sulz	7.86031, 48.31851	hagebutte, hagebutt	hagebutt	0	hagebutte, hagebutt	hagebutt	0	Hagebutte	Hagebutte	0
+222	Co R13	III_15_0085	Raitbach, Raitbach	7.86089, 47.68233	hagebuttä	hagebudde	3	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+223	Co o 1	III_13_0147	Zähringen, <E.G.> Zähringen	7.86149, 48.02593	hagebudde	hagebudde	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+224	Stra D 2	III_10_0117	Hohnhurst, Hohnhurst	7.86191, 48.49204	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+225	Co Y 2	III_16_0116	Kürnberg, Kürnberg	7.86873, 47.6649	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+226	Stra w 13	III_10_0050	Kork, Kork	7.86899, 48.56537	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+227	Co R1	III_15_0069	Pfaffenberg, Pfaffenberg	7.86972, 47.73452	hagebudde	hagebŭdde	1	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+228	Co o 6	na	Gundelfingen	7.87313, 48.04353	hagebudde	na	999	hagebutte	na	999	Hagebutte	na	999
+229	Co o 2	na	Wöldtal (Wildtal)	7.87337, 48.0328	hagebudde	na	999	hagebutte	na	999	Hagebutte	na	999
+230	Co R6	na	Atzenbach	7.8735, 47.71532	hagebudde	na	999	hagebutte	na	999	Hagebutte	na	999
+231	Stra p 10	III_9_0079	Bodersweier, Bodersweier	7.87462, 48.60047	hawebotta	höuwebotte	3	hawebutte	höwebotte	2	Hagebutte	Hagebutte	0
+232	Stra L 7	III_11_0055, III_11_0054, III_11_0056	Friesenheim, Friesenheim	7.87515, 48.37378	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+233	Co C10	III_14_0067	Obermünstertal-Stohren, Obermünstertal-Stohren	7.87525, 47.8938	hāgebutze	hagebutze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+234	Stra L 12	III_11_0059, III_11_0060	Lahr (Lahr/Schwarzwald), Lahr	7.87603, 48.34018	hegebutte	hagebutte, hagebutt	1	hegebutte	hagebutte, hagebutt	1	Hagebutte	Hagebutte	0
+235	Co g 12	III_12_0136	Kollmarsreute, Kollmarsreute	7.87829, 48.10253	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+236	Hag K 16	na	Retschweiler (Retschwiller)	7.87838, 48.95025	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+237	Co o 9	III_13_0063, III_13_0062, III_13_0064	Denzlingen, Denzlingen	7.87987, 48.06793	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+238	Co Y 12	III_16_0168	Schwörstadt, Schwörstadt	7.87989, 47.59379	hagebuttä	hagebutte	1	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+239	Stra Z 1	III_12_0047	Ettenheimmünster, Ettenheimmünster	7.88015, 48.24152	hagebutte	hagebudder	3	hagebutte	hagebutter	1	Hagebutte	Hagebutte	0
+240	Stra w 2	III_10_0051	Odelshofen, Odelshofen	7.88021, 48.56001	hågebudde	hagebutte	3	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+241	Stra w 9/2, Stra w 9/1	III_10_0058	Hesselhurst, Hesselhurst	7.88114, 48.52042	hagebudde, hagebutt	hagebudde	0	hagebutte, hagebutt	hagebutte	0	Hagebutte	Hagebutte	0
+242	Co C2	III_14_0070	Wieden, Wieden	7.8814, 47.84169	hagebudde	hagebutte	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+243	Co K7	III_14_0155	Schönenberg, Schönenberg	7.88227, 47.79265	hāgebudde	haagebudde	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+244	Hag K 14	III_5_0099	Sulz u. (f) (Soultz-Sous-Forêts), Sulz u. Wald	7.88268, 48.93782	håchebutze	håchebutze	0	hachebutze	hachebutze	0	Hagebutte	Hagebutte	0
+245	Co R5	III_15_0076	Mambach, Mambach	7.88363, 47.72839	hagebudde	hagebudde	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+246	Co K14	III_14_0164, III_14_0163	Fröhnd, Fröhnd-Stutz, Fröhnd-Ittenschwand	7.88397, 47.7603	hagebutte	hagebutte, hagebude	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+247	Co g 9	na	Maleck	7.88416, 48.12924	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+248	Co g 4	III_12_0134	Windenreuthe (Emmendingen), Windenreute	7.88675, 48.11814	hagebutte	hogebutte	1	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+249	Stra D 17	III_10_0131, III_10_0133	Schutterwald, Schutterwald	7.88679, 48.45347	haagebutze	hagebutte	2	hagebutze	hagebutte	1	Hagebutte	Hagebutte	0
+250	Stra p 2/1	III_9_0084	Diersheim, Diersheim	7.8874, 48.64789	hawebutt	hajebutte	2	hawebutte	hajebutte	1	Hagebutte	Hagebutte	0
+251	Co R10	na	Riedichen	7.88873, 47.70465	hāgebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+252	Stra w 11	III_10_0055	Willstätt, Willstätt	7.89222, 48.53868	häwebudde	hauebudde	2	hawebutte	hawebutte	0	Hagebutte	Hagebutte	0
+253	Co K8	III_14_0158, III_14_0156, III_14_0159, III_14_0157	Schönau, Schönau	7.89443, 47.78637	hagebutte	hagebudde	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+254	Co K5	III_14_0160	Aitern, Aitern	7.89522, 47.80317	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+255	Stra p 5	na	Linx	7.89706, 48.62687	hāuebutt	na	999	hawebutte	na	999	Hagebutte	na	999
+256	Co C7	III_14_0068	Hofsgrund, Hofsgrund	7.89778, 47.90096	hagäbutzä, hagbutz	hagebutze	2	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+257	Co Y 3	III_16_0115	Hasel, Hasel	7.89786, 47.65393	hagebudde	hagebutte	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+258	Co o 12	na	Heuweiler	7.9028, 48.0513	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+259	Co v 2	na	Ebnet	7.90282, 47.98715	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+260	Co v 1	na	Littenweiler	7.90338, 47.97778	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+261	Stra p 8	III_9_0081	Zierolshofen, Zierolshofen	7.9036, 48.60838	hanwebudde	haewebudde	1	hawebutte	hawebutte	0	Hagebutte	Hagebutte	0
+262	Co R7	III_15_0075	Häg-Rohrberg, Rohrberg	7.90412, 47.7181	hāgebudde	hagebutte	3	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+263	Co Y 14	III_16_0117	Wehr, Wehr	7.9045, 47.62927	hagebutte	hagebudde	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+264	Co R2	III_15_0070	Ehrsberg, Ehrsberg	7.90629, 47.74318	hagebudde	hagebudde	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+265	Stra L 13	na	Kuhbach	7.90787, 48.33884	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+266	co g 7	III_12_0137	Sexau, Sexau	7.90788, 48.10424	hagebūtte	hagebütte	1	hagebutte	hagebütte	1	Hagebutte	Hagebutte	0
+267	Co v 10	III_13_0149	Kappel, Kappel	7.90831, 47.96423	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+268	Co o 11	III_13_0066	Buchholz i.Br., Buchholz	7.91201, 48.08253	hagebudde	hagebudde	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+269	Co K4	III_14_0161	Utzenfeld, Utzenfeld	7.91301, 47.80054	hagebutzge	hagebutte	2	hagebutzge	hagebutte	2	Hagebutte	Hagebutte	0
+270	Hag C 4	III_4_0091	Rott, Rott	7.91304, 49.02495	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+271	Hag K 13	III_5_0096	Schönenburg (Schoenenbourg), Schönenburg	7.91332, 48.95207	håfebutze	hafenbutz	3	hafebutze	hafenbutz	2	Hagebutte	Hagebutte	0
+272	Co Ya 1	III_17_0047	Wallbach, Wallbach	7.91336, 47.56871	hagebudde	hagebutte	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+273	Co Y 11	na	Öfflingen (Öflingen)	7.91396, 47.59228	hagebudde	na	999	hagebutte	na	999	Hagebutte	na	999
+274	Co R3	III_15_0071	Häg (bei Mambach), Häg	7.91432, 47.73207	hagebuddi	hagebŭtte	4	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+275	Hag R 6	III_6_0083	Niederbetschdorf, Niederbetschdorf	7.91693, 48.8985	häjebutte	hagebutte	2	hajebutte	hagebutte	1	Hagebutte	Hagebutte	0
+276	Co C5	na	Muggenbrunn	7.91725, 47.857	hagebudde	na	999	hagebutte	na	999	Hagebutte	na	999
+277	Stra D 3	III_10_0130	Weier, Weier	7.91766, 48.49812	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+278	Stra D 12	na	Waltersweier	7.91883, 48.48554	hagebutta	na	999	hagebutte	na	999	Hagebutte	na	999
+279	Co g 15	III_12_0129	Keppenbach, Frei Keppenbach	7.92037, 48.14437	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+280	Stra w 12	III_10_0059	Sand, Sand	7.92148, 48.53823	hauebutte	hagebutte	1	hawebutte	hagebutte	1	Hagebutte	Hagebutte	0
+281	Co K9	III_14_0162	Tunau, Tunau	7.92311, 47.78574	hāgebudde	haagebudde	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+282	Co o 3	na	Föhrental (Föhrenthal)	7.92468, 48.0349	hagabuda	na	999	hagebutte	na	999	Hagebutte	na	999
+283	Co g 13	na	Freiamt-Reichenbach	7.92477, 48.15747	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+284	Co C3	na	Aftersteg (bei Todtnau)	7.92836, 47.843	hagebutzge	na	999	hagebutze	na	999	Hagebutte	na	999
+285	Stra p 1	III_9_0085	Rheinbischofsheim, Rheinbischofsheim	7.92904, 48.65493	hāgebutte	hawebudde	4	hagebutte	hawebutte	1	Hagebutte	Hagebutte	0
+286	Stra D 4	na	Bühl	7.93242, 48.4947	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+287	Stra h 8	III_8_0092	Freistett, Freistett	7.93582, 48.67138	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+288	Hag K 3	III_5_0092	Ingolsheim, Ingolsheim	7.93636, 48.97357	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+289	Stra L 3	III_11_0063	Diersburg, Diersburg	7.93733, 48.40041	hågebudde	hagebutte	3	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+290	Co K2	III_14_0166	Schlechtnau, Schlechtnau	7.93888, 47.8175	hagebutzge	hagebuzge	1	hagebutzge	hagebutzge	0	Hagebutte	Hagebutte	0
+291	Co K3	III_14_0165	Geschwend, Geschwend	7.93964, 47.80434	hagebutte	hagebuzge	2	hagebutte	hagebutzge	2	Hagebutte	Hagebutte	0
+292	Stra S 6	III_11_0128, III_11_0129, III_11_0127	Seelbach, Seelbach	7.94104, 48.30987	hagenbudde	hagebutte	3	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+293	Hag K 10	na	Hofen (Hoffen)	7.9412, 48.92766	hackebutt	na	999	hagebutt	na	999	Hagebutte	na	999
+294	Co v 3	III_13_0069	Wittental, Wittental	7.94267, 48.00437	hagebutte	hagebudde	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+295	Co C4	III_14_0071	Todtnauberg, Todtnauberg	7.94335, 47.85074	hagebutze	hagebutte	1	hagebutze	hagebutte	1	Hagebutte	Hagebutte	0
+296	Stra D 8	III_10_0127, III_10_0128	Offenburg, Offenburg	7.9447, 48.47195	hagäbuttä	hagebutte	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+297	Co v 8	III_13_0150	Oberried, Oberried	7.94506, 47.93146	hagäbuttä	hagebutte	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+298	Stra D 14	III_10_0120	Zunsweier, Zunsweier	7.94627, 48.42199	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+299	Co K1	III_14_0167	Todtnau, Todtnau	7.94634, 47.82887	hagebutzge	hagebutzge	0	hagebutzge	hagebutzge	0	Hagebutte	Hagebutte	0
+300	Co Y 7	III_16_0119	Hütten, Hütten	7.94873, 47.62902	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+301	Co C6	III_14_0069	Sankt Wilhelm, St. Wilhelm	7.94887, 47.89511	hagebude	hagäbudä	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+302	Co o 4	na	Unterglottertal-Ohrensbach	7.95, 48.04291	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+303	Co v 5	na	Zarten	7.95028, 47.97747	hagebudde	na	999	hagebutte	na	999	Hagebutte	na	999
+304	Stra S 7	na	Wittelbach	7.95069, 48.29243	hagebudd	na	999	hagebutt	na	999	Hagebutte	na	999
+305	Co R4	na	Happach	7.95137, 47.7412	hagäbutti	na	999	hagebutte	na	999	Hagebutte	na	999
+306	Co v 7	na	Kirchzarten	7.95261, 47.96345	hâgebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+307	Co K11	III_14_0169	Präg-Herrenschwand, Präg-Herrenschwand	7.95327, 47.76746	hagebutte	hagebudde	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+308	Stra S 8	III_11_0131	Schuttertal, Schuttertal	7.95562, 48.27087	hagebutte	hagebutten	1	hagebutte	hagebutten	1	Hagebutte	Hagebutte	0
+309	Hag R 7	III_6_0084	Rittershofen, Rittershofen	7.95587, 48.90241	hågebutt	hagebutte	2	hagebutt	hagebutte	1	Hagebutte	Hagebutte	0
+310	Stra w 7	na	Windschläg	7.95693, 48.5148	hagebutt	na	999	hagebutt	na	999	Hagebutte	na	999
+311	Co Y 9	III_16_0120	Bergalingen, Bergalingen	7.95943, 47.61266	hagebutta	hagebutte	1	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+312	Co g 2	na	Waldkirch	7.96049, 48.09361	hagebudde	na	999	hagebutte	na	999	Hagebutte	na	999
+313	Co v 4	III_13_0151	Stegen, Stegen	7.96093, 47.98418	hagebudde	hagebutte	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+314	Co Ya 2	III_17_0055, III_17_0048, III_17_0049, III_17_0052, III_17_0054, III_17_0051, III_17_0053	Obersäckingen, Säckingen	7.96171, 47.57476	hagebutte	hagebutte, hagebudde	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+315	Co o 5	III_13_0068	Oberglottertal, Oberglottertal	7.96407, 48.04803	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+316	Co C8	na	Zastler	7.965, 47.93356	hagebutze	na	999	hagebutze	na	999	Hagebutte	na	999
+317	Stra h 4	III_8_0095	Helmlingen, Helmlingen	7.9656, 48.70959	hagebutt	hauebutte	2	hagebutt	hawebutte	2	Hagebutte	Hagebutte	0
+318	Stra D 6	III_10_0126	Rammersweier, Rammersweier	7.96625, 48.48439	hagebutte	hagebudde	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+319	Stra D 11	III_10_0123	Ortenberg, Ortenberg	7.97048, 48.45192	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+320	Co g 11	III_12_0140	Kollnau, Kollnau	7.9721, 48.10586	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+321	Co K10	III_14_0154	Präg, Präg	7.97232, 47.77964	hagebutte	hagebudde	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+322	Co Y 10	III_16_0125	Willaringen, Willaringen	7.97281, 47.60577	hāgebutte	hagebutte	1	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+323	Co C11	na	Brandenberg	7.97372, 47.84091	hagebutza	na	999	hagebutze	na	999	Hagebutte	na	999
+324	Co g 6	III_12_0128	Siegelau, Siegelau	7.97753, 48.14612	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+325	Co Y 8	na	Rickenbach	7.97772, 47.61891	hāgebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+326	Co v 6	na	Burg am Wald	7.97957, 47.97091	hagåbuttå	na	999	hagebutte	na	999	Hagebutte	na	999
+327	Co o 7	na	Eschbach über Freiburg i.Br.	7.98047, 48.00263	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+328	Stra D 9	III_10_0125	Zell-Weierbach (Weierbach), Zell-Weierbach	7.98174, 48.47408	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+329	Stra h 3	III_8_0097	Grauelsbaum, Grauelsbaum	7.98186, 48.73575	hagebodde	hagebutte	3	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+330	Stra h 7	III_8_0093	Memprechtshofen, Memprechtshofen	7.98237, 48.68233	håjebude	hauebudde	3	hajebutte	hawebutte	1	Hagebutte	Hagebutte	0
+331	Stra L 4	III_11_0064	Berghaupten, Berhaupten	7.98716, 48.40675	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+332	Co g 16	III_12_0142	Gutach, Gutach	7.98722, 48.11814	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+333	Stra Z 6	na	Oberspitzenbach	7.98858, 48.1762	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+334	TUTT Sa1/2	III_17_0057	Rippolingen und Harpolingen, Rippolingen	7.9892, 47.57843	hugebutte	hagebutte	1	hugebutte	hagebutte	1	Hagebutte	Hagebutte	0
+335	Stra L 5	III_11_0062	Bermersbach, Bermersbach	7.99239, 48.38717	hagebutte	hagabutte	1	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+336	Stra D 13	III_10_0121	Ohlsbach, Ohlsbach	7.99275, 48.43199	hagebutt	hagebutte	1	hagebutt	hagebutte	1	Hagebutte	Hagebutte	0
+337	TUTT p5	III_13_0152	Falkensteig, Falkensteig	7.99689, 47.94697	hagebuddä	hagebudde	1	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+338	TUTT Sa1	III_17_0056	Rippolingen und Harpolingen, Harpolingen	8.00062, 47.57274	hugebutte	hagebutte	1	hugebutte	hagebutte	1	Hagebutte	Hagebutte	0
+339	TUTT S3	III_15_0087	Herrischried, Herrischried	8.00161, 47.66587	hagebudde	hagebutte	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+340	TUTT a3	na	Bleibach	8.00281, 48.12764	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+341	TUTT L4/1, TUTT D5, Co R15, Co K12, TUTT L4/2	III_15_0073, III_14_0176	Todtmoos (-Rütte), Todtmoos , Todtmoos, Todtmoos	8.00438, 47.74133	hagabude, hagebutte, hagebudde	hagebude, hagabutta	1	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+342	TÜB L1	III_11_0125, III_11_0124	Prinzbach, Prinzbach	8.0046, 48.32294	hagebutt	hagebutte	1	hagebutt	hagebutte	1	Hagebutte	Hagebutte	0
+343	TÜB p11	III_10_0065	Nesselried, Nesselried	8.00608, 48.52212	hågebudd	hagebutte	4	hagebutt	hagebutte	1	Hagebutte	Hagebutte	0
+344	TUTT p3	III_13_0153	Unteribental, Unteribental	8.00642, 47.97982	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+345	TÜB a1	na	Lichtenau	8.00691, 48.72636	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+346	KST S9	III_7_0118	Greffern, Greffern	8.00704, 48.7525	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+347	TUTT p4	III_13_0155	Buchenbach, Buchenbach	8.00773, 47.96134	hagebůtze	hagebutte	2	hagebutze	hagebutte	1	Hagebutte	Hagebutte	0
+348	TUTT L6	na	Grossherrischwand	8.01017, 47.6797	hagebudde	na	999	hagebutte	na	999	Hagebutte	na	999
+349	TUTT L5	na	Wehrhalden	8.01061, 47.70213	hagebuddi	na	999	hagebutte	na	999	Hagebutte	na	999
+350	TÜB h8	III_9_0097	Renchen, Renchen	8.01285, 48.58724	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+351	Co R14	III_15_0086	Rütte (bei Todtmoos; es gibt auch noch eines bei Herreschrie und eines bei Todtnauberg), Rütte	8.01336, 47.76141	hugebudde	hagebudde	1	hugebutte	hagebutte	1	Hagebutte	Hagebutte	0
+352	TÜB D8	III_11_0070	Strohbach, Strohbach	8.01398, 48.38754	hagebutt	hagebutte	1	hagebutt	hagebutte	1	Hagebutte	Hagebutte	0
+353	TÜB a2	na	Ulm (bei Bühl)	8.01434, 48.727	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+354	TUTT S4	na	Hogschür	8.01475, 47.64742	hagebud	na	999	hagebutt	na	999	Hagebutte	na	999
+355	TUTT D2/1	na	Bernau(-Hof)	8.01571, 47.82095	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+356	TÜB D9	III_11_0065	Gengenbach, Gengenbach	8.01593, 48.40299	hagebutze	hagebutte	1	hagebutze	hagebutte	1	Hagebutte	Hagebutte	0
+357	TÜB p13	III_10_0069	Zusenhofen, Zusenhofen	8.01675, 48.54725	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+358	TÜB D7	III_11_0071	Fußbach, Fußbach	8.01836, 48.36476	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+359	TÜB h1/1, TÜB h1/2	na	Gamshurst	8.0187, 48.66413	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+360	TÜB L10	na	Welschensteinach	8.01871, 48.27471	hagebudde	na	999	hagebutte	na	999	Hagebutte	na	999
+361	TÜB w6	III_10_0139	Reichenbach, Reichenbach	8.01986, 48.42981	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+362	TUTT Sa3	III_17_0058	Murg, Murg	8.02352, 47.55376	hagebutte	hagebudde	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+363	TÜB D6	III_11_0072	Biberach, Biberach	8.0278, 48.33891	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+364	TUTT S20	III_16_0138	Hänner, Hänner	8.03004, 47.59489	hagebutte	hagebudde	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+365	TUTT Sa5	III_16_0137	Oberhof, Oberhof	8.0324, 47.58493	hagebutte	hagebudde	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+366	TÜB D10	III_11_0066, III_11_0067	Schwaibach, Schwaibach	8.03268, 48.39239	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+367	Stra S 5	III_11_0126	Schönberg, Schönberg	8.0327, 48.36461	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+368	TÜB h7	III_9_0098	Önsbach, Oensbach	8.03279, 48.60579	hagebudde	hagebudde	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+369	TÜB S3	na	Katzenmoos	8.03332, 48.167	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+370	TUTT h1	na	St. Peter-Sägendobel	8.03377, 48.03722	hagebutze	na	999	hagebutze	na	999	Hagebutte	na	999
+371	TUTT h2	na	St. Peter	8.03492, 48.01587	hagebutze	na	999	hagebutze	na	999	Hagebutte	na	999
+372	TUTT D2/2	na	Bernau	8.03629, 47.80171	hāgebūte	na	999	hagebutte	na	999	Hagebutte	na	999
+373	KST L10	III_6_0092, III_6_0093	Forstfeld, Forstfeld	8.03702, 48.859	hågebudde	hagebutt, hågebudde	0	hagebutte	hagebutte, hagebutt	0	Hagebutte	Hagebutte	0
+374	TUTT Sa4	III_17_0059	Niederhof, Niederhof	8.03951, 47.56938	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+375	KST S4	na	Röschwoog (Roeschwoog)	8.04001, 48.83085	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+376	TUTT a1	na	Oberwinden	8.04318, 48.15444	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+377	TÜB a3	III_7_0119	Schwarzach (bei Bühl), Schwarzach	8.04423, 48.74717	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+378	TUTT S6	III_16_0129, III_16_0130	Oberwihl, Oberwihl	8.04597, 47.62098	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+379	TUTT p2	III_13_0154	Wagensteig, Wagensteig	8.04607, 47.98466	hagebutze	hagebutte	1	hagebutze	hagebutte	1	Hagebutte	Hagebutte	0
+380	TUTT L/S7, TUTT S1	III_15_0095, III_15_0093	Strittmatt, Strittmatt und Engelschwand, Engelschwand, Strittmatt	8.04718, 47.66382	hagebutta	hagebutta	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+381	KST S8	III_7_0117	Stollhofen, Stollhofen	8.04874, 48.76575	hagebutte	hagebudde	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+382	TÜB p1	III_10_0072	Ulm Kr. Offenburg, Ulm	8.05069, 48.57993	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+383	TÜB h6	na	Fautenbach	8.05129, 48.62351	hagebudde	na	999	hagebutte	na	999	Hagebutte	na	999
+384	TÜB w5	III_10_0140	Haigerach, Haigerach	8.05467, 48.42157	hagebutte	haggebutt	2	hagebutte	hagebutt	1	Hagebutte	Hagebutte	0
+385	TÜB p2	na	Haslach	8.05661, 48.56552	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+386	KST L8	na	Roppenheim	8.05791, 48.8465	hā̊gebude	na	999	hagebutte	na	999	Hagebutte	na	999
+387	KST S6	III_7_0110	Ludwigsfeste (bei Roeschwoog) (Fort-Louis), Fort-Louis, Ludwigsfeste	8.05803, 48.80321	hagebutte	hagebutten	1	hagebutte	hagebutten	1	Hagebutte	Hagebutte	0
+388	TÜB a14	III_8_0104	Unzhurst, Unzhurst	8.05808, 48.68815	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+389	TÜB L5	III_11_0135	Steinach, Steinach	8.05831, 48.30508	hagebutze	hagebutte	1	hagebutze	hagebutte	1	Hagebutte	Hagebutte	0
+390	TÜB L2	III_11_0133	Unterentersbach, Unterentersbach	8.05965, 48.32962	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+391	TUTT Sa6	III_17_0062	Binzgen, Binzgen	8.06143, 47.57622	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+392	TUTT S19	III_16_0139	Rotzel, Rotzel	8.06151, 47.59473	hagebūtte	hagebutte	1	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+393	TÜB D5	na	Zell am Harmersbach/Neuhausen	8.06267, 48.3591	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+394	TÜB h5	III_9_0090	Achern, Achern	8.06363, 48.62871	hagebudde	hagebutz	3	hagebutte	hagebutz	2	Hagebutte	Hagebutte	0
+395	TÜB p3	na	Tiergarten	8.06377, 48.55715	hagebutti	na	999	hagebutte	na	999	Hagebutte	na	999
+396	TUTT L8	III_15_0097	Hartschwand, Hartschwand	8.0655, 47.67119	hagebutta	hagebutte	1	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+397	TÜB a5	na	Moos	8.06679, 48.71918	hagebutt	na	999	hagebutt	na	999	Hagebutte	na	999
+398	KST L11	III_6_0096	Kesseldorf (Weissenburg), Kesseldorf	8.06748, 48.87606	hågebutte	hågebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+399	TUTT D1	III_14_0170	Menzenschwand, Merzenschwand	8.07059, 47.81749	hagebudde	hagebutte	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+400	TUTT L3	III_15_0109	Ibach, Ibach	8.07077, 47.73259	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+401	TUTT S8	III_16_0132	Rüsswihl, Rüßwihl	8.07093, 47.63063	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+402	TUTT S7	III_16_0131	Niederwihl, Niederwihl	8.07095, 47.61851	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+403	TÜB S4	III_12_0056, III_12_0057, III_12_0055	Elzach, Elzach	8.07142, 48.17331	hagebudde	hagebudde	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+404	KST D2	na	Salmbach (bei Weißenburg)	8.07143, 48.97818	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+405	TUTT p6	III_13_0156	Breitnau, Breitnau	8.07603, 47.94014	hagebutze	hagebutten	2	hagebutze	hagebutten	2	Hagebutte	Hagebutte	0
+406	TUTT S10	III_15_0096	Rotzingen, Rotzingen	8.0762, 47.66588	hagabutter	hagebutte	2	hagebutter	hagebutte	1	Hagebutte	Hagebutte	0
+407	TUTT L17	III_15_0101	Fröhnd, Fröhnd	8.07717, 47.70011	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+408	TUTT S9	III_16_0134	Görwihl, Görwihl	8.07817, 47.64186	hagebudde	hagebutte	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+409	TUTT S18	III_16_0140	Hochsal, Hochsal	8.08003, 47.5887	hggabutza	hagebudda	4	hegebutze	hagebutte	2	Hagebutte	Hagebutte	0
+410	TÜB h10	III_9_0099	Oberachern, Oberachern	8.08066, 48.6193	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+411	TÜB D1/2	III_11_0069, III_11_0068	Nordrach, Nordrach	8.08082, 48.39898	hagebutte	hagebutte, hagebudde	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+412	KST L12	III_6_0095	Beinheim (Weissenburg), Beinheim	8.08253, 48.86153	hågebutte	hagebude	3	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+413	TÜB w2	III_10_0066, III_10_0067	Ödsbach, Oedsbach	8.08784, 48.49713	hagebudde	hagebutte, hagebudde	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+414	TÜB p4	III_10_0074	Ringelbach, Ringelbach	8.08834, 48.55764	hagebudde	hagebutte	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+415	TÜB D4/2, TÜB D4/1	III_11_0075, III_11_0073, III_11_0074	Unterharmersbach, Unterharmersbach, Zell am Harmersbach	8.08843, 48.35461	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+416	TUTT Sa7	III_17_0061	Laufenburg (Baden), Laufenburg	8.0908, 47.58055	hagebudde	hagebutte	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+417	TÜB L3	III_11_0134	Oberentersbach, Oberentersbach	8.09119, 48.32718	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+418	TUTT L/8,9	III_15_0098, III_15_0099	Hierbach - Wilfingen, Wilfingen, Hierbach	8.09123, 47.686	hagebutze	hagebutze, hagebutza	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+419	TÜB h4	III_9_0092	Sasbach , Sasbach	8.09181, 48.63896	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+420	TUTT h3, TUTT p1	III_13_0080, III_13_0079, III_13_0078, III_13_0081	St. Märgen-Schweighöfe, St. Märgen, St. Märgen	8.09239, 48.00756	hagebutze, hagebůtze	hagebutte, hagebude, hagebutze	0	hagebutze	hagebutte, hagebutze	0	Hagebutte	Hagebutte	0
+421	TUTT h7	na	Obersimonswald	8.09331, 48.0797	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+422	TUTT S21	III_16_0141	Schachen, Schachen	8.09406, 47.60368	hagebuttä	hagebutte	1	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+423	TUTT w3	III_14_0072	Bärental, Bärental	8.0952, 47.86975	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+424	KST S10	III_7_0120	Leiberstung, Lieberstung	8.09585, 48.75131	hāgebudde	hagebudde	1	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+425	TÜB a7	III_8_0105	Balzhofen, Balzhofen	8.09765, 48.71247	hagebutt	hagebutte	1	hagebutt	hagebutte	1	Hagebutte	Hagebutte	0
+426	TUTT Sa8, TUTT S5	III_17_0060	Luttingen, Luttingen und Grunholz, Luttingen	8.09878, 47.57252	hagebutte, hāgäbuddä	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+427	TUTT L2	III_15_0110	Wittenschwand, Wittenschwand	8.10083, 47.72846	hagebutzge	hagebutzke	1	hagebutzge	hagebutzke	1	Hagebutte	Hagebutte	0
+428	TUTT w2	na	Hinterzarten	8.10487, 47.90631	hagebutze	na	999	hagebutze	na	999	Hagebutte	na	999
+429	TÜB h11	III_9_0100	Obersasbach, Obersasbach	8.10713, 48.63223	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+430	TUTT L10	III_15_0100	Wolpadingen, Wolpadingen	8.10774, 47.69861	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+431	TÜB L8	na	Mühlenbach	8.10795, 48.25629	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+432	TÜB a12	na	Oberweier	8.10851, 48.70178	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+433	KST S14	III_7_0113	Hügelsheim, Hügelsheim	8.10904, 48.79654	hagebutte	hagebudde	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+434	TUTT S17	III_16_0146	Albert, Albbruck-Albert	8.11012, 47.58535	hagebutte	hagebutt	1	hagebutte	hagebutt	1	Hagebutte	Hagebutte	0
+435	TUTT w6	III_14_0074	Altglashütten, Altglashütten	8.11016, 47.85701	hagebutze	hagepuze	2	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+436	TÜB L4	III_11_0137	Fischerbach, Fischerbach	8.11097, 48.28707	hagebutr	hagebutt	1	hagebutte	hagebutt	1	Hagebutte	Hagebutte	0
+437	TÜB a13	III_8_0108	Ottersweier, Ottersweier	8.11279, 48.66967	hagebutte	hagebudde	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+438	TUTT S15	III_16_0142	Buch über Waldshut, Buch	8.11336, 47.61399	hagebute	hagebutze	1	hagebutte	hagebutze	1	Hagebutte	Hagebutte	0
+439	TÜB h15	na	Kappelrodeck	8.11791, 48.59087	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+440	TÜB S5, TÜB S6	III_12_0061, III_12_0062, III_12_0063	Oberprechtal, Unterprechtal, Oberprechtal, Unterprechtal	8.12114, 48.20548	hagebutte	hagebutte, hagebudde	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+441	TÜB h14	na	Sasbachwalden	8.12201, 48.62035	habutte	na	999	habutte	na	999	Hagebutte	na	999
+442	TUTT w7	na	Aha	8.1233, 47.8356	hagebutze	na	999	hagebutze	na	999	Hagebutte	na	999
+443	TUTT L1	III_15_0111, III_15_0112	Urberg, Urberg	8.12409, 47.73478	hagäbutzä	hagäbutzgä, hagebutzge	1	hagebutze	hagebutzge	1	Hagebutte	Hagebutte	0
+444	TUTT w4	na	Falkau	8.12453, 47.8699	hagebutze	na	999	hagebutze	na	999	Hagebutte	na	999
+445	TUTT L16	III_15_0103	Schlageten, Schlageten	8.12512, 47.71178	hageputze	hagenbutze	2	hagebutze	hagenbutze	1	Hagebutte	Hagebutte	0
+446	TUTT L11	na	Immeneich	8.12543, 47.69719	hageputze	na	999	hagebutze	na	999	Hagebutte	na	999
+447	TÜB h12	III_9_0094, III_9_0093	Lauf, Lauf	8.12648, 48.65317	hagebutte	hagebutte, hagebudde	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+448	TÜB E1, TÜB D2/2, TÜB D3, TÜB D2/1	III_11_0076, III_11_0077	Oberharmersbach, Oberharmersbach	8.12723, 48.37386	hagebutte, hāgebudde	hagebutte, hagebuddi	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+449	TUTT D4	III_14_0172, III_14_0174, III_14_0173, III_14_0171	St. Blasien, St. Blasien	8.12792, 47.76144	hagebutze	haagebudde, hagebudde	2	hagebutze	hagebutte	1	Hagebutte	Hagebutte	0
+450	TUTT S14	III_16_0143	Birndorf, Birndorf	8.13384, 47.62519	hagebutzeä	hagäbutze	2	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+451	TUTT S12	III_16_0135	Unteralpfen, Unteralpfen	8.13573, 47.64543	hagabutze	hagebutze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+452	TÜB a11	na	Bühl	8.13592, 48.69536	hagebudde	na	999	hagebutte	na	999	Hagebutte	na	999
+453	TUTT h6	na	Gütenbach	8.13807, 48.04398	hagebudde	na	999	hagebutte	na	999	Hagebutte	na	999
+454	TUTT p7,8	na	(Breitnau-)Eckbach	8.13811, 47.9479	hagebutze	na	999	hagebutze	na	999	Hagebutte	na	999
+455	KST S15	III_7_0112	Iffezheim, Iffezheim	8.14011, 48.82287	hagebutt	hagebutte	1	hagebutt	hagebutte	1	Hagebutte	Hagebutte	0
+456	TÜB w3	III_10_0078	Ramsbach, Ramsbach	8.14144, 48.49573	hagebutt	hägebutti	2	hagebutt	hegebutte	2	Hagebutte	Hagebutte	0
+457	TUTT S16	III_16_0145	Albruck-Kiesenbach, Albruck	8.14411, 47.60046	hagebutti	hagebutte	1	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+458	TUTT L15	III_15_0108	Tiefenhäusern, Tiefenhäusern	8.14547, 47.70277	hagelputzen	hagebutze	3	hagelbutzen	hagebutze	2	Hagebutte	Hagebutte	0
+459	TUTT L12	III_15_0105, III_15_0106, III_15_0104, III_15_0107	Remetschwiel/Brunnadern, Brunnadern, Remetschwiel	8.14553, 47.68929	hagebutze	hagebudde, hagebutze	0	hagebutze	hagebutte, hagebutze	0	Hagebutte	Hagebutte	0
+460	TUTT w5	III_14_0073	Raitenbuch, Raitenbuch	8.14698, 47.86647	haggebuddze	hagebutze	3	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+461	TUTT S13	III_16_0169	Birkingen, Birkingen	8.1477, 47.62511	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+462	TÜB h13	III_9_0095, III_9_0096	Neusatz , Neusatz	8.14904, 48.65879	hagebudde	hagebutte	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+463	TUTT w1/2, TUTT w1/1	na	Titisee	8.14936, 47.90254	hagebutze	na	999	hagebutze	na	999	Hagebutte	na	999
+464	TUTT S11	III_16_0136	Oberalpfen, Oberalpfen	8.15262, 47.65791	hāgabutze	hagebutze	2	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+465	KST L6	na	Ottersdorf	8.15398, 48.86103	hagebudde	na	999	hagebutte	na	999	Hagebutte	na	999
+466	TÜB b6	na	Altschweier	8.16047, 48.69964	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+467	TUTT E1	na	Fischbach	8.16112, 47.84388	hagebuze	na	999	hagebutze	na	999	Hagebutte	na	999
+468	TUTT q1	na	Waldau	8.16331, 47.98172	haggebutze	na	999	hagebutze	na	999	Hagebutte	na	999
+469	TÜB x2	III_10_0137	Oppenau, Oppenau	8.16423, 48.47333	hagebutti	hagenbutte	2	hagebutte	hagenbutte	1	Hagebutte	Hagebutte	0
+470	TUTT M2	III_15_0113, III_15_0129	Höchenschwand, Höchenschwand	8.16491, 47.73427	hagebutze	hagebutze, hagäbutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+471	KST S12	na	Sinzheim bei Winden	8.16564, 48.76405	haggebutt	na	999	hagebutt	na	999	Hagebutte	na	999
+472	TUTT M1	III_15_0120	Attlisberg, Attlisberg	8.16607, 47.72173	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+473	TUTT L14, TUTT L13	III_15_0123	Remetschwiel und Bannholz, Bannholz, Bannholz	8.167, 47.67614	hagebutzä, hagebutzar	hagebutze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+474	TUTT M16	na	Häusern	8.16959, 47.75398	hagebudde	na	999	hagebutte	na	999	Hagebutte	na	999
+475	TUTT T4	III_16_0147	Waldkirch, Waldkirch	8.17132, 47.65851	hagebutze	hagebutzə	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+476	TUTT T6	III_16_0157	Dogern, Dogern	8.17239, 47.60884	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+477	TUTT i5	na	Neukirch	8.17383, 48.02447	hagebudde	na	999	hagebutte	na	999	Hagebutte	na	999
+478	TÜB x8	III_10_0148	Löcherberg, Löcherberg	8.17462, 48.43425	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+479	TUTT x3	na	Saig	8.17667, 47.89199	hagebutze	na	999	hagebutze	na	999	Hagebutte	na	999
+480	TUTT D3	III_14_0175	Blasiwald (Am Schluchsee), Blasiwald	8.17706, 47.7987	hagebutze	hagebutzen	1	hagebutze	hagebutzen	1	Hagebutte	Hagebutte	0
+481	TUTT E2	III_14_0177	Schluchsee, Schluchsee	8.17828, 47.81706	hagebutza	hagebutzen	2	hagebutze	hagebutzen	1	Hagebutte	Hagebutte	0
+482	KST E1	III_5_0127	Lauterburg (Weissenburg) (Lauterbourg), Lauterburg	8.18046, 48.97495	håchäbuddä	hagebutte	7	hachebutte	hagebutte	2	Hagebutte	Hagebutte	0
+483	TUTT T5	III_16_0158	Eschbach, Eschbach	8.18086, 47.6336	hagebutze	haggebutze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+484	KST T13	na	Sinzheim-Vormberg-Ebenung	8.18209, 48.7552	hagebutt	na	999	hagebutt	na	999	Hagebutte	na	999
+485	TUTT M3	III_15_0121	Amrigschwand, Amrigschwand	8.1855, 47.71974	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+486	TUTT M15	III_15_0114	Bierbronnen, Bierbronnen	8.18848, 47.6749	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+487	TÜB b8, TÜB b7	na	Bühlertal-Obertal, Bühlertal-Untertal	8.19194, 48.68215	hagebudde	na	999	hagebutte	na	999	Hagebutte	na	999
+488	TUTT T3	III_16_0159	Schmitzingen, Schmitzingen	8.19315, 47.65491	hagebutte	hagabuttə	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+489	KST T10	na	Sandweier	8.19586, 48.80855	hagebutze	na	999	hagebutze	na	999	Hagebutte	na	999
+490	TÜB x3	na	Maisach	8.20067, 48.47223	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+491	KST M10/2, KST M10/1	na	Rastatt	8.20142, 48.8573	hagebutte, hagebutze	na	999	hagebutte, hagebutze	na	999	Hagebutte	na	999
+492	TUTT x4	III_14_0079	Lenzkirch und Kappel, Lenzkirch	8.20144, 47.8687	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+493	TÜB q1, TÜB E2	ungeodnet, III_11_0080	Seebach, Seebach	8.20278, 48.57466	hagebutte, hagebutt	hagebutze, hagebutt	0	hagebutte, hagebutt	hagebutze, hagebutt	0	Hagebutte	Hagebutte	0
+494	TUTT i6	III_13_0091, III_13_0092	Furtwangen (und Furtwangen-Katzensteig), Furtwangen	8.20648, 48.05227	hagebutte	haggebutze, hagebutze	1	hagebutte	hagebutze	1	Hagebutte	Hagebutte	0
+495	TÜB x7	III_10_0146	Bad Peterstal, Bad Peterstal	8.20916, 48.43032	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+496	TÜB M7	III_12_0174	Gutach, Gutach	8.21021, 48.25051	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+497	TUTT E5	III_14_0178	Staufen, Staufen	8.21221, 47.75633	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+498	TUTT x2	na	Neustadt	8.21309, 47.91261	hagebutze	na	999	hagebutze	na	999	Hagebutte	na	999
+499	KST E7	na	Elchesheim	8.2136, 48.93047	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+500	TUTT M14	III_15_0124	Nöggenschwiel, Nöggenschwiel	8.21364, 47.69246	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+501	TUTT T7	na	Waldshut	8.21445, 47.6237	hagebutte, hagebutze	na	999	hagebutte, hagebutze	na	999	Hagebutte	na	999
+502	TÜB M4, TÜB E4	III_11_0079, III_11_0147	Oberwolfach, Oberwolfach, Oberwolfach-Walke	8.21698, 48.3174	hagebutte	hagebutte, hegebutte	0	hagebutte	hagebutte, hegebutte	0	Hagebutte	Hagebutte	0
+503	TÜB M3/2, TÜB M3/1	III_11_0150	Wolfach, Wolfach	8.22076, 48.30289	hagebuze, hāgebutze	hagebutte	2	hagebutze	hagebutte	1	Hagebutte	Hagebutte	0
+504	TUTT T2	III_16_0160	Indlekofen, Indlekofen	8.22113, 47.65889	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+505	KST T9	na	Haueneberstein	8.22194, 48.80626	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+506	TUTT M4	III_15_0122	Brenden, Brenden	8.22606, 47.72946	hagebutze	hagebutzè	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+507	KST T8	na	Baden-Baden/Balg	8.22708, 48.78962	hagebütte	na	999	hagebütte	na	999	Hagebutte	na	999
+508	TÜB T4	III_12_0067, III_12_0068	Niederwasser, Niederwasser	8.22818, 48.18982	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+509	TÜB T2	III_12_0072, III_12_0073	Reichenbach, Reichenbach	8.22958, 48.21343	hagebutze	hagebuze, hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+510	TÜB T1	III_12_0065, III_12_0066	Hornberg, Hornberg	8.23036, 48.21193	hagebutte	hagebudde, hagebutze	1	hagebutte	hagebutte, hagebutze	0	Hagebutte	Hagebutte	0
+511	TUTT b4	III_12_0163, III_12_0165	Triberg, Triberg	8.2316, 48.13032	hagebudde	hagebutte	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+512	KST M3	na	Ötigheim	8.23212, 48.89333	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+513	TUTT i7	III_13_0090	Schönenbach, Schönenbach	8.23618, 48.04705	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+514	TUTT q8	III_13_0161	Rudenberg, Rudenberg	8.23807, 47.9196	haggebutze	hagebutze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+515	KST E9	na	Au am Rhein	8.23933, 48.95136	hagebudde	na	999	hagebutte	na	999	Hagebutte	na	999
+516	TÜB x9	III_10_0142	Bad Griesbach, Bad Griesbach	8.23935, 48.45251	hagabutt	hagebutt	1	hagebutt	hagebutt	0	Hagebutte	Hagebutte	0
+517	TUTT q9	na	Schwärzenbach	8.23987, 47.948	hagebutt	na	999	hagebutt	na	999	Hagebutte	na	999
+518	TUTT T1	III_16_0161	Weilheim, Weilheim	8.24051, 47.65862	hagebutze	hagebutte	1	hagebutze	hagebutte	1	Hagebutte	Hagebutte	0
+519	KST T14/3, KST T14/1, KST T14/4	III_7_0131	Baden-Baden, Baden-Baden-West, Baden-Baden , Baden-Baden Weststadt	8.24094, 48.76273	hagebutte, hagebudde, hagebutt	hagebutt	0	hagebutte, hagebutt	hagebutt	0	Hagebutte	Hagebutte	0
+520	TUTT M13	III_15_0128	Dietlingen, Dietlingen	8.24371, 47.67342	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+521	TUTT q2	III_13_0157	Schollach, Schollach	8.24463, 47.98628	hagebuttä	hagebutze	2	hagebutte	hagebutze	1	Hagebutte	Hagebutte	0
+522	TÜB M8	III_11_0154	Kirnbach, Kirnbach	8.24598, 48.26194	hagebutze	hagebutte	1	hagebutze	hagebutte	1	Hagebutte	Hagebutte	0
+523	TUTT T8	III_16_0162	Gurtweil, Gurtweil	8.24698, 47.64159	hāgebutte	hagebutze	2	hagebutte	hagebutze	1	Hagebutte	Hagebutte	0
+524	KST T11	na	Baden-Oos	8.24755, 48.76768	hagebutze	na	999	hagebutze	na	999	Hagebutte	na	999
+525	TÜB M2	III_11_0148	Langenbach, Langenbach	8.25164, 48.3205	hāgebudde	hagebutte	3	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+526	KST M2	na	Bietigheim	8.25343, 48.91099	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+527	TUTT i3	III_13_0089	Urach, Urach	8.25368, 48.00477	haggebutze	haggebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+528	KST T1	III_7_0128	Kuppenheim, Kuppenheim	8.25452, 48.82818	hagebutte	hagebutt	1	hagebutte	hagebutt	1	Hagebutte	Hagebutte	0
+529	KST E6	III_5_0139	Würmersheim, Würmersheim	8.25452, 48.94056	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+530	TUTT q7	III_14_0075	Friedenweiler, Friedenweiler	8.25483, 47.91602	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+531	TUTT b2	III_12_0162	Gremmelsbach, Gremmelsbach	8.25756, 48.15793	hagebutte	hagebudde	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+532	TUTT i1	na	Rohrbach	8.25784, 48.07437	hagebudde	na	999	hagebutte	na	999	Hagebutte	na	999
+533	TUTT M11	III_15_0125, III_15_0126	Berau, Berau	8.25823, 47.69472	hagebutze	hagebutte, hagebutze	0	hagebutze	hagebutte, hagebutze	0	Hagebutte	Hagebutte	0
+534	TÜB b2/2, TÜB b2/1	na	Lichtent(h)al	8.2614, 48.74458	hagebutte, hagebutt	na	999	hagebutte, hagebutt	na	999	Hagebutte	na	999
+535	TUTT E3, TUTT E4	na	Grafenhausen	8.26186, 47.7749	haggebutze, hagebutze	na	999	hagebutze	na	999	Hagebutte	na	999
+536	TUTT M12	III_15_0117	Aichen, Aichen	8.26226, 47.67494	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+537	TUTT x5	III_14_0076	Holzschlag, Holzschlag	8.26456, 47.84976	hagebutzen	hagebütze	2	hagebutzen	hagebütze	2	Hagebutte	Hagebutte	0
+538	TÜB T3	III_12_0071, III_12_0070	Schwanenbach (Reichenbach), Schwanenbach	8.26562, 48.1922	hagebutzĕ	hagebutze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+539	TUTT i4	III_13_0088	Linach, Linach	8.26602, 48.02831	hágebutze	haagebuze	3	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+540	TUTT M5	III_14_0179	Mettenberg, Mettenberg	8.26708, 47.75087	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+541	TUTT q4	III_13_0160	Eisenbach, Eisenbach	8.26837, 47.96084	hagebutza	hagebutze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+542	KST E5	III_5_0132, III_5_0133	Durmersheim, Durmersheim	8.2685, 48.93129	hagebutse	hagebudde	2	hagebutze	hagebutte	1	Hagebutte	Hagebutte	0
+543	TÜB M9	III_11_0151	Halbmeil, Halbmeil	8.27063, 48.29042	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+544	TÜB i2	III_9_0105	Forbach-Hundsbach, Forbach-Hundsbach	8.27064, 48.62026	hagebutte	hagebudde	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+545	KST T2	na	Oberndorf	8.27573, 48.82868	hāgebutze	na	999	hagebutze	na	999	Hagebutte	na	999
+546	KST M4	na	Muggensturm	8.2763, 48.87021	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+547	TUTT T9	na	Tiengen	8.28181, 47.63443	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+548	KST M7	III_6_0106	Bischweier, Bischweier	8.28478, 48.83768	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+549	TUTT M7	III_15_0115	Hürrlingen, Hürrlingen	8.28505, 47.72465	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+550	TÜB E3	III_11_0081	Schapbach, Schapbach	8.28904, 48.37778	hagebudde	hagebutte	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+551	TUTT q6	na	Oberbränd	8.2909, 47.94957	hagebutze	na	999	hagebutze	na	999	Hagebutte	na	999
+552	TUTT M8	III_15_0116	Riedern im Wald, Riedern	8.29113, 47.71786	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+553	TÜB M1	III_11_0149	Sankt Roman, St. Roman	8.2924, 48.33187	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+554	TUTT x1	na	Rötenbach	8.29448, 47.89247	hagebutze	na	999	hagebutze	na	999	Hagebutte	na	999
+555	TUTT T14	III_16_0154	Kadelburg, Kadelburg	8.29552, 47.60851	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+556	TUTT q5	III_13_0159	Bubenbach, Bubenbach	8.29595, 47.96531	haggebutze	haggebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+557	TUTT x6	III_14_0078	Gündelwangen, Gündelwangen	8.29672, 47.84246	hagebutze	hagebutte	1	hagebutze	hagebutte	1	Hagebutte	Hagebutte	0
+558	TUTT T12	III_16_0164	Unterlauchringen, Unterlauchringen	8.30394, 47.63095	hagåbutzå	hagebutze	2	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+559	TUTT M10	III_15_0119	Krenkingen, Krenkingen	8.30454, 47.68312	hagebutze	hagebutte	1	hagebutze	hagebutte	1	Hagebutte	Hagebutte	0
+560	TUTT T16	III_16_0166	Rheinheim, Rheinheim	8.30495, 47.58771	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+561	TUTT i2	III_13_0087, III_13_0084, III_13_0086	Vöhrenbach, Vöhrenbach	8.30495, 48.04519	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+562	TUTT T10	III_16_0163	Breitenfeld, Breitenfeld	8.30617, 47.65178	hagĕbuttĕ	hagebutte	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+563	TÜB M10	III_11_0152, III_11_0153	Lehengericht, Vorderlehengericht, Hinterlehengericht	8.30807, 48.2924	hagebutze	hagabuda, hagebutze	0	hagebutze	hagebutte, hagebutze	0	Hagebutte	Hagebutte	0
+564	KST T6	III_7_0133	Staufenberg, Staufenberg	8.3082, 48.76673	hagebutze	hagebutte	1	hagebutze	hagebutte	1	Hagebutte	Hagebutte	0
+565	TUTT b6	III_12_0169	Brigach (und Sommerau), Brigach	8.3086, 48.11587	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+566	KST T3	na	(Bad) Rotenfels (Ortsteil von Gaggenau)	8.30895, 48.81087	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+567	TÜB x4	III_10_0144, III_10_0143	Kniebis, Kniebis	8.3101, 48.47233	hāgebutte	hagebutte, hagebutze	1	hagebutte	hagebutte, hagebutze	0	Hagebutte	Hagebutte	0
+568	KST M6	na	Oberweier	8.31051, 48.84847	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+569	TUTT x7	III_14_0077	Göschweiler, Göschweiler	8.31065, 47.85812	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+570	TUTT M6	III_14_0181, III_14_0180, III_14_0182, III_14_0183	Birkendorf, Birkendorf	8.3126, 47.74971	hagebutze	haggebutze, hagebutze, hagenbutze	0	hagebutze	hagebutze, hagenbutze	0	Hagebutte	Hagebutte	0
+571	KST T5	na	Selbach	8.31271, 48.78121	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+572	TUTT b1	III_12_0158, III_12_0160, III_12_0159	Langenschiltach, Langenschiltach	8.3168, 48.16202	hagebutzen	hagebutze	1	hagebutzen	hagebutze	1	Hagebutte	Hagebutte	0
+573	KST E3	III_5_0135	Forchheim, Forchheim	8.31683, 48.97425	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+574	TUTT q3	III_13_0158	Hammereisenbach, Hammereisenbach	8.31732, 47.99481	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+575	TUTT M9	III_15_0127	Uhlingen, Uhlingen Ühlingen	8.31845, 47.7201	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+576	TUTT b7	III_12_0170	Oberkirnach, Oberkirnach	8.31901, 48.09369	ha̠ggabutza	hagabutza	2	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+577	TUTT T15	III_16_0167	Dangstetten, Dangstetten	8.31944, 47.59581	hajebutze	hagebutze	1	hajebutze	hagebutze	1	Hagebutte	Hagebutte	0
+578	TUTT T11	na	Detzeln	8.32062, 47.66643	hagebutze	na	999	hagebutze	na	999	Hagebutte	na	999
+579	TUTT T13	III_16_0165	Oberlauchringen, Oberlauchringen	8.32685, 47.62036	hagabutza	hagebuze	3	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+580	TÜB x5, TÜB x6	III_10_0145	Bad Rippoldsau, Bad Rippoldsau	8.32852, 48.42806	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+581	TUTT Ta1	III_16_0156	Reckingen, Reckingen	8.33116, 47.57477	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+582	KST M5	III_6_0103	Waldprechtsweier, Waldprechtsweier	8.33173, 48.8612	hagebutte, hawerbutze	hagebutten	1	hagebutze, hawebutte	hagebutten	2	Hagebutte	Hagebutte	0
+583	TUTT c3	III_12_0157, III_12_0156, III_12_0155	St. Georgen, St. Georgen	8.33183, 48.12564	haggäbuds	haggebutze, hagebutze	4	hagebutz	hagebutze	1	Hagebutte	Hagebutte	0
+584	KST N1	III_6_0100, III_6_0102, III_6_0101	Malsch, Malsch	8.3345, 48.88047	hagebütte	hagebutte	1	hagebütte	hagebutte	1	Hagebutte	Hagebutte	0
+585	KST U4	III_7_0134	Gernsbach, Gernsbach	8.33578, 48.76294	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+586	TÜB c6	na	Bermersbach	8.34126, 48.69401	harebuttä	na	999	hachebutte	na	999	Hagebutte	na	999
+587	TUTT F2	na	Bonndorf	8.34216, 47.8198	hagebuttse	na	999	hagebutze	na	999	Hagebutte	na	999
+588	TÜB N2	III_30_0008	Schiltach, Schiltach	8.34259, 48.29033	hågebutzge	hagebutte	3	hagebutze	hagebutte	1	Hagebutte	Hagebutte	0
+589	KST U3	na	Hörden	8.34313, 48.78046	hagebutt	na	999	hagebutt	na	999	Hagebutte	na	999
+590	KST y 8	na	Karlsruhe-Knielingen	8.34437, 49.03039	hawerbauze	na	999	hawebutte	na	999	Hagebutte	na	999
+591	TUTT y2	na	Löffingen	8.34547, 47.8844	hagebutze	na	999	hagebutze	na	999	Hagebutte	na	999
+592	TUTT N5	III_37_0003	Untermettingen, Untermettingen	8.34615, 47.70245	haggebutze	hagebutze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+593	TÜB c1	III_25_0006, III_25_0007	Obertsrot und Hilpertsau, Hilpertsau, Obertsrot	8.34633, 48.74303	hagebutte	hagebutte, hagebutt	0	hagebutte	hagebutte, hagebutt	0	Hagebutte	Hagebutte	0
+594	TUTT F4	III_36_0005	Wittlekoffen, Wittlekoffen	8.34635, 47.78326	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+595	TÜB U1	na	Tennenbronn	8.34688, 48.1887	hagäbutze	na	999	hagebutze	na	999	Hagebutte	na	999
+596	TUTT U4	III_38_0006	Horheim, Horheim	8.34737, 47.64854	haggebuze	haggebutze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+597	TUTT y3	III_35_0003	Seppenhofen, Seppenhofen	8.34864, 47.8748	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+598	TÜB k1	III_26_0001	Raumünzach, Raumänzach	8.34869, 48.63918	hagebudde	hagebudde	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+599	TUTT y4	III_35_0002	Reiselfingen, Reiselfingen	8.35108, 47.85467	hagebuze	hagebutze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+600	TUTT F3	III_36_0006	Wellendingen, Wellendingen	8.35185, 47.79705	hage̠butze̠	hagebutze	2	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+601	TÜB F1	na	Kaltbrunn	8.35246, 48.34621	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+602	TÜB c2	na	Weisenbach	8.35397, 48.72827	hagäbutt	na	999	hagebutt	na	999	Hagebutte	na	999
+603	KST y 7	na	Karlsruhe-Grünwinkel	8.35529, 49.0032	hagebutte	na	999	hagebutze	na	999	Hagebutte	na	999
+604	TUTT U3	III_38_0004	Schwerzen, Schwerzen	8.35642, 47.64323	hagebudde	hagebutze	2	hagebutte	hagebutze	1	Hagebutte	Hagebutte	0
+605	TUTT r4	III_34_0017	Unterbränd, Unterbränd	8.35693, 47.93373	hagebutzi	hagabutze	2	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+606	KST N2, KST U6	III_24_0002	Sulzbach, Sulzbach	8.35791, 48.80596	hagebutte, hagebutt	hagebudde	2	hagebutte, hagebutt	hagebutte	0	Hagebutte	Hagebutte	0
+607	TÜB c8	na	Forbach	8.3589, 48.67857	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+608	TUTT N4	III_37_0001	Obermettingen, Obermettingen	8.35956, 47.7213	hagebutze	hagebutse	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+609	TÜB c7	na	Gausbach	8.36067, 48.68405	hagebudde	na	999	hagebutte	na	999	Hagebutte	na	999
+610	TUTT F6	III_36_0014	Bettmaringen, Bettmaringen	8.36102, 47.75368	hagebutzå	hagebutze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+611	TÜB c4	na	Au im Murgtal	8.36129, 48.72172	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+612	TUTT y1	III_35_0004	Dittishausen, Dittishausen	8.36266, 47.90077	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+613	TÜB c5	III_25_0002	Langenbrand, Langenbrand	8.36334, 48.70441	harebutte	hagebutte	1	hachebutte	hagebutte	2	Hagebutte	Hagebutte	0
+614	TÜB N3	na	Hinterlehengericht	8.36541, 48.26734	hagebutze	na	999	hagebutze	na	999	Hagebutte	na	999
+615	TUTT U14	III_38_0008, III_38_0009	Küßnach, Küssnach	8.36574, 47.59396	hagebutze	hagebutte, hagebutze	0	hagebutze	hagebutte, hagebutze	0	Hagebutte	Hagebutte	0
+616	TUTT U5	III_38_0007	Wutöschingen, Wutöschingen	8.36613, 47.65918	hagebuze	hagebuze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+617	TUTT k10	III_33_0001	Unterkirnach, Unterkirnach	8.36628, 48.07845	hagebutze	hagabutze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+618	KST U5	na	Lautenbach bei Gernsbach	8.37068, 48.75614	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+619	KST F13	III_22_0002	Bruchhausen bei Ettlingen, Bruchhausen	8.371, 48.92716	hagebudde	hagebudde	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+620	TUTT k9	III_33_0002	Herzogenweiler, Herzogenweiler	8.37157, 48.0254	hāgebuze	hagebutze	2	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+621	TÜB N1	III_30_0007	Schenkenzell, Schenkenzell	8.37253, 48.31105	hagebudde	hagebudde, hagebutze	0	hagebutte	hagebutte, hagebutze	0	Hagebutte	Hagebutte	0
+622	TUTT c2	III_32_0002	Peterzell, Peterzell	8.37425, 48.13255	hagebutze	hagebutz	1	hagebutze	hagebutz	1	Hagebutte	Hagebutte	0
+623	TUTT Ua1	III_38_0083	Lienheim, Lienheim	8.37469, 47.5721	haggebutze	hagebutze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+624	TUTT N8	III_37_0005	Ofteringen, Ofteringen	8.37663, 47.67838	haggebutze	haggebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+625	TUTT F5	III_36_0015	Oberwangen u. Unterwangen, Oberwangen	8.3775, 47.7761	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+626	KST N3	III_23_0002	Oberweier, Oberweier	8.37866, 48.91717	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+627	TUTT F14	III_36_0007	Brunnadern, Brunnadern	8.38083, 47.79495	hagebutzi	haggebútze	3	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+628	TUTT N9	III_37_0002	Degernau, Degernau	8.38187, 47.66635	haggebutze	hagebutze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+629	KST F12	na	Ettlingenweier	8.38589, 48.92887	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+630	TUTT N6	III_37_0006	Obereggingen, Obereggingen	8.38631, 47.70175	hagebutze	hagebůtte	2	hagebutze	hagebutte	1	Hagebutte	Hagebutte	0
+631	TUTT r3	III_34_0006	Hubertshofen, Hubertshofen	8.38827, 47.96002	hagebutze	haggebutze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+632	KST N12	na	Moosbronn	8.38849, 48.83638	hagebutze	na	999	hagebutze	na	999	Hagebutte	na	999
+633	TUTT N3	III_37_0004	Mauchen, Mauchen	8.39032, 47.73994	hagebutzå	hagebutze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+634	TÜB c3	III_25_0005	Reichental, Reichental	8.39101, 48.72956	hagäbudde	hagäbuttä	3	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+635	TUTT U13	III_38_0010	Geißlingen, Geisslingen	8.39181, 47.61975	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+636	TUTT N7	III_37_0007	Untereggingen, Untereggingen	8.39385, 47.69277	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+637	KST y 11	III_20_0008	Eggenstein, Eggenstein	8.39572, 49.08482	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+638	TUTT F1	na	Münchingen	8.39596, 47.82501	haggebutze	na	999	hagebutze	na	999	Hagebutte	na	999
+639	KST N13	na	Völkersbach	8.39644, 48.8701	hagäbutt	na	999	hagebutt	na	999	Hagebutte	na	999
+640	TUTT U2	III_38_0001	Rechberg, Rechberg	8.39987, 47.6501	haggebuze	hagebutze	2	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+641	TUTT r5	na	Waldhausen	8.4011, 47.92931	hagebutzi	na	999	hagebutze	na	999	Hagebutte	na	999
+642	KST F14/2, KST F14/1	III_22_0004, III_22_0006	Ettlingen, Ettlingen , Ettlingen	8.40245, 48.94247	hagebutte, hagebutze, hagebutt	hagebutt	0	hagebutte, hagebutze, hagebutt	hagebutt	0	Hagebutte	Hagebutte	0
+643	TUTT F13	III_36_0010, III_36_0008, III_36_0009	Dillendorf, Dillendorf	8.40272, 47.79846	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+644	TUTT y11	III_35_0009	Bachheim, Bachheim	8.4031, 47.85931	haggebutze	haggebuze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+645	KST F3	na	Karlsruhe-Rüppurr	8.406, 48.97394	hagebutze	na	999	hagebutze	na	999	Hagebutte	na	999
+646	TUTT y10	III_35_0005	Unadingen, Unadingen	8.40711, 47.88128	hagebutze	hagebutte	1	hagebutze	hagebutte	1	Hagebutte	Hagebutte	0
+647	KST r3	III_20_0005	Linkenheim, Linkenheim	8.40844, 49.12418	hagebutzen	hagenbutzen	1	hagebutzen	hagenbutzen	1	Hagebutte	Hagebutte	0
+648	KST k1	na	Rheinsheim	8.40954, 49.23272	hawerbutze, hawerbutzer	na	999	hawerbutte	na	999	Hagebutte	na	999
+649	TUTT k7	III_34_0001	Tannheim, Tannheim	8.41033, 47.99946	haggäbutzä	hagebutze	3	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+650	TUTT U12	III_38_0011	Grießen, Griessen	8.4114, 47.62774	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+651	KST r1	III_20_0002	Liedolsheim, Liedolsheim	8.41451, 49.16221	hahbutta	habutt	2	habutte	habutt	1	Hagebutte	Hagebutte	0
+652	KST r2	III_20_0003, III_20_0004	Hochstetten, Hochstetten	8.41566, 49.13702	hagebutze	hagebutze, haarebutze	0	hagebutze	hachebutze, hagebutze	0	Hagebutte	Hagebutte	0
+653	TUTT k8	III_33_0005, III_33_0004, III_33_0003	Pfaffenweiler, Pfaffenweiler	8.41798, 48.03273	haggebuze	haggebutze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+654	TUTT U1	III_38_0003, III_38_0002	Erzingen, Erzingen	8.42011, 47.66108	hagebutze	hagebutze, hăgeₔbutzə	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+655	TUTT U11	III_38_0015	Bergöschingen, Bergöschingen	8.42093, 47.59537	hagebutte	hagebutze	1	hagebutte	hagebutze	1	Hagebutte	Hagebutte	0
+656	KST k4	na	Rußheim	8.42435, 49.18617	hagäbuddä	na	999	hagebutte	na	999	Hagebutte	na	999
+657	TUTT F7	III_36_0016	Schwaningen, Schwaningen	8.42524, 47.77843	hagebudde	hagebutze	2	hagebutte	hagebutze	1	Hagebutte	Hagebutte	0
+658	TUTT r2	III_34_0002	Wolterdingen, Wolterdingen	8.42701, 47.96861	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+659	TUTT N2	III_37_0008	Eberfingen, Eberfingen	8.42708, 47.72036	hagebutte	hagebutze	1	hagebutte	hagebutze	1	Hagebutte	Hagebutte	0
+660	TUTT c8	III_32_0009	Mönchweiler, Mönchweiler	8.42939, 48.09993	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+661	TUTT F12	III_36_0011	Lembach, Lembach	8.43056, 47.80389	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+662	TUTT y9	III_35_0006	Döggingen, Döggingen	8.43444, 47.8919	hagebutze	haggebutze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+663	KST N9	na	Burbach	8.43853, 48.87037	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+664	TUTT U10	III_38_0005	Stetten (bei Waldshut), Stetten	8.4393, 47.59011	hagebutte	hagebutze	1	hagebutte	hagebutze	1	Hagebutte	Hagebutte	0
+665	TUTT Ua2	na	Hohentengen	8.43962, 47.57174	hegebutze	na	999	hegebutze	na	999	Hagebutte	na	999
+666	TUTT y5	III_35_0010	Ewattingen, Ewattingen	8.44464, 47.83863	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+667	TUTT U7	III_38_0014	Riedern am Sand (im SprachGIS: Unter Riedern), Riedern am Sand	8.4462, 47.6245	haggebudde	haggebudde	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+668	TUTT N1	III_37_0009	Stühlingen, Stühlingen	8.44659, 47.74541	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+669	TUTT r6	III_34_0004, III_34_0003	Bräunlingen, Bräunlingen	8.44765, 47.9301	haggebutze	haggebuzze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+670	Ma f1/2	na	Mannheim-Sandhofen	8.44789, 49.5433	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+671	KST N11	III_23_0013	Schielberg, Schielberg	8.44945, 48.84311	hagebutte	hagabutta	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+672	KST y 5	III_21_0004	Rintheim, Rintheim	8.45071, 49.0099	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+673	KST F4	na	Wolfartsweier	8.45219, 48.97443	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+674	TUTT F11	III_36_0012	Lausheim, Lausheim	8.45286, 47.81178	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+675	KST k2	III_19_0004, III_19_0005, III_19_0007	Philippsburg, Philippsburg	8.45298, 49.235	hachebudde	hachebutte, haggebutze	2	hachebutte	hachebutte, hagebutze	0	Hagebutte	Hagebutte	0
+676	TUTT k2	III_33_0006	Rietheim, Rietheim	8.45381, 48.02981	haggebutza	hagebutze	2	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+677	TUTT k6	III_33_0010	Überauchen, Überauchen	8.45524, 48.01134	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+678	TUTT U6	III_38_0013	Weisweil, Weisweil	8.45797, 47.64517	hagebudde	hagebutze	2	hagebutte	hagebutze	1	Hagebutte	Hagebutte	0
+679	TUTT k1	III_33_0070, III_33_0072, III_33_0069	Vilingen, Villingen	8.45901, 48.0567	haggebutze	hagebutze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+680	TUTT c5	III_32_0006	Neuhausen, Neuhausen	8.45905, 48.13221	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+681	TÜB U2	III_31_0006, III_31_0005, III_31_0007	Weiler/Villingen, Tennenbronn	8.46043, 48.17227	hagebutz	hagebutze, hegebutze	1	hagebutz	hagebutze, hegebutze	1	Hagebutte	Hagebutte	0
+682	KST F5	na	Karlsruhe-Aue	8.46138, 48.9881	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+683	TUTT F8	III_36_0149	Weizen, Weizen	8.46354, 47.77888	haggebudze	hagebutze	2	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+684	TUTT y7	III_35_0001	Mundelfingen, Mundelfingen	8.46432, 47.8676	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+685	TUTT U8	III_38_0012	Bühl, Bühl	8.4644, 47.61616	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+686	KST F8	III_22_0007	Grünwettersbach, Grünwettersbach	8.46671, 48.95784	hagebutt	hagebutt	0	hagebutt	hagebutt	0	Hagebutte	Hagebutte	0
+687	TUTT k5	III_33_0008	Klengen, Klengen	8.46686, 48.00388	hagebutze	haggebutze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+688	KST y 2	na	Büchig	8.46824, 49.04811	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+689	TUTT c7	III_32_0008	Obereschach, Obereschach	8.46928, 48.10596	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+690	TUTT k4	III_33_0009	Kirchdorf, Kirchdorf	8.4704, 48.01378	haggebutze	haggebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+691	KST F6	III_21_0008	Karlsruhe-Durlach, Durlach	8.4704, 48.99897	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+692	KST N8	III_23_0011	Spielberg, Spielberg	8.47045, 48.89758	hagebudde	hagebudde	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+693	TUTT r1	III_34_0014	Grüningen, Grüningen	8.47107, 47.98253	hagäbutzä	hagäbutzä	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+694	TUTT k3	III_33_0007	Marbach, Marbach	8.47117, 48.03143	hagebutze	hagenbutzen	2	hagebutze	hagenbutzen	2	Hagebutte	Hagebutte	0
+695	KST y1	III_21_0006	Blankenloch, Blankenloch	8.47137, 49.06482	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+696	TUTT r9	III_34_0005	Aufen, Aufen	8.47258, 47.964	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+697	KST c1	na	Rheinhausen	8.47341, 49.28141	haggebudde	na	999	hagebutte	na	999	Hagebutte	na	999
+698	Ma h1/1	na	Siedlung Schönau (Mannheim)	8.47602, 49.54338	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+699	Ma f2	na	Mannheim-Waldhof (Luzenberg)	8.47981, 49.52527	hagebudde	na	999	hagebutte	na	999	Hagebutte	na	999
+700	KST r5	III_20_0009	Friedrichstal, Friedrichstal	8.48091, 49.10481	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+701	KST F9	III_22_0008	Palmbach, Palmbach	8.48266, 48.94683	hagebutte	harabutta	3	hagebutte	hachebutte	2	Hagebutte	Hagebutte	0
+702	TUTT U9	III_38_0016	Dettighofen, Dettighofen	8.48357, 47.62374	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+703	TUTT y6	III_35_0008	Achdorf-Aselfingen, Achdorf	8.48733, 47.84	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+704	TUTT r7	III_34_0120, III_34_0016, III_34_0015	Hüfingen, Hüfingen	8.48886, 47.92431	hagebutze	hagebutzä	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+705	KST r6	III_20_0010	Graben, Graben	8.48928, 49.16535	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+706	TUTT y8	III_35_0007	Hausen vor Wald, Hausen	8.49054, 47.89134	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+707	Ma h2/3, Ma h2/2, Ma h2/1	na	Neckarau, Mannheim-Neckarau	8.49104, 49.45335	hagebutte, hāgebudde	na	999	hagebutte	na	999	Hagebutte	na	999
+708	TUTT c4	na	Fischbach	8.49142, 48.15251	hagebutzen	na	999	hagebutzen	na	999	Hagebutte	na	999
+709	TUTT c6	na	Schabenhausen	8.49251, 48.1303	hagebutze	na	999	hagebutze	na	999	Hagebutte	na	999
+710	KST y 4	III_21_0021	Grötzingen, Grötzingen	8.49556, 49.00711	hagebutze	hegebutze	1	hagebutze	hegebutze	1	Hagebutte	Hagebutte	0
+711	TUTT F9	III_36_0004	Grimmelshofen, Grimmelshofen	8.49573, 47.78613	haggebutze	haggebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+712	TUTT F10	III_36_0013	Blumegg, Blumegg	8.49815, 47.80904	haggebutze	hagebutze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+713	KST d2	III_18_0008, III_18_0009	Altlußheim, Altlussheim	8.49951, 49.30106	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+714	MH za1	na	Mannheim-Gartenstadt	8.50016, 49.5305	haagebudde	na	999	hagebutte	na	999	Hagebutte	na	999
+715	TUTT r8	III_34_0010, III_34_0007, III_34_0011, III_34_0013, III_34_0008, III_34_0009, III_34_0012	Donaueschingen, Donaueschingen	8.50052, 47.95113	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+716	TUTT s6	III_34_0019	Donaueschingen-Allmendshofen, Donaueschingen-Allmendshofen	8.50063, 47.9405	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+717	TUTT d3	III_32_0118	Weilersbach, Weilersbach	8.50084, 48.09608	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+718	KST O8	III_23_0009, III_23_0010, III_23_0008	Langenalb, Langenalb	8.50104, 48.84402	hagebutte	hagabuza, hagenbutza, hagerbutza	3	hagebutte	hagebutze, hagenbutze	1	Hagebutte	Hagebutte	0
+719	TUTT z7	na	Eschach	8.50328, 47.86021	häggebutse	na	999	hagebutze	na	999	Hagebutte	na	999
+720	TUTT d2	III_32_0007	Kappel, Kappel	8.50341, 48.11215	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+721	KST O1	III_22_0014	Langensteinbach, Langensteinbach	8.50638, 48.915	hagebuzze	hagebutze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+722	KST O7	na	Ittersbach	8.50684, 48.86638	hēgebutz	na	999	hegebutz	na	999	Hagebutte	na	999
+723	KST s7	III_20_0015, III_20_0013, III_20_0014	Staffort, Staffort	8.51034, 49.09079	hagabutza	hagebutte, hagebutze, hagebutza	1	hagebutze	hagebutte, hagebutze	0	Hagebutte	Hagebutte	0
+724	TUTT V4,5	III_38_0017	Baltersweil, Baltersweil	8.51054, 47.63723	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+725	KST G7	III_22_0145	Stupferich, Stupferich	8.51098, 48.95396	hackebutz	hackebut	1	hagebutz	hagebutt	1	Hagebutte	Hagebutte	0
+726	TUTT z4	III_35_0012	Behla, Behla	8.51475, 47.89489	hagebutze	hagebutza	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+727	MH z4/2	II_58_0065, II_58_0066	Mannheim-Käfertal, Käferthal	8.51715, 49.51259	hagebutte	hachebutt, hachäbuttä	3	hagebutte	hachebutt, hachebutte	2	Hagebutte	Hagebutte	0
+728	KST d3	III_18_0017	Neulußheim, Neulußheim	8.522, 49.29291	hachebutte	hagebutte	2	hachebutte	hagebutte	2	Hagebutte	Hagebutte	0
+729	KST z6	III_21_0015, III_21_0014	Berghausen, Berghausen	8.52712, 49.00389	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+730	TUTT d1	na	Niedereschach	8.52734, 48.13129	hagebutze	na	999	hagebutze	na	999	Hagebutte	na	999
+731	TUTT G1	III_36_0018, III_36_0017	Fützen, Fützen	8.5291, 47.80794	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+732	MH H10/2	na	Mannheim-Rheinau	8.53056, 49.4292	hagebudde	na	999	hagebutte	na	999	Hagebutte	na	999
+733	KST z8	III_21_0012, III_21_0011, III_21_0013, III_21_0010, III_21_0009	Weingarten, Weingarten	8.53114, 49.0533	hagebutze	hagebutze, hageputzen	0	hagebutze	hagebutze, hagebutzen	0	Hagebutte	Hagebutte	0
+734	KST O2	III_23_0014	Auerbach, Auerbach	8.53163, 48.91379	hagebutte	hagebutze	1	hagebutte	hagebutze	1	Hagebutte	Hagebutte	0
+735	TUTT l2	III_33_0017, III_33_0016, III_33_0018	Bad Dürrheim, Bad Dürrheim	8.53214, 48.01807	hagebutze	hagebuze, hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+736	TUTT z8	III_35_0020, III_35_0019	Blumberg, Blumberg	8.53265, 47.83981	hagebutze	hagebútze, hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+737	KST G6	III_22_0015	Mutschelbach, Mutschelbach	8.53428, 48.94409	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+738	MH Q1	na	Brühl	8.53485, 49.3951	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+739	TUTT z3	III_35_0014, III_35_0015, III_35_0013	Sumpfohren, Sumpfohren	8.53796, 47.90851	hagebutze	hagebutze, hagĕbutzĕ	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+740	TUTT z6	III_35_0017	Riedböhringen, Riedböhringen	8.53811, 47.87011	hagebutzi	hagebutze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+741	KST s3	na	Karlsdorf	8.54164, 49.1363	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+742	KST G1	III_22_0013, III_22_0011, III_22_0012, III_22_0010	Söllingen, Söllingen	8.5425, 48.98622	hagebutze	hagebutze, hagenbutzen	0	hagebutze	hagebutze, hagenbutzen	0	Hagebutte	Hagebutte	0
+743	KST O6	III_23_0016	Weiler Kr. Pforzheim, Weiler	8.54326, 48.8837	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+744	KST l8	III_19_0021	Hambrücken, Hambrücken	8.54514, 49.18532	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+745	MH H1	na	Wennheim-Wallstadt	8.5484, 49.4957	hagebudde	na	999	hagebutte	na	999	Hagebutte	na	999
+746	TUTT s7	III_34_0023	Aasen, Aasen	8.5512, 47.98	hagebutzä	hagebutze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+747	TUTT d4	III_32_0016	Dauchingen, Dauchingen	8.55237, 48.09031	hagebutz	hagebutze	1	hagebutz	hagebutze	1	Hagebutte	Hagebutte	0
+748	TUTT z5	III_35_0016	Fürstenberg, Fürstenberg	8.55367, 47.89124	hagabutze	hagebutze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+749	KST G2	na	Kleinsteinbach	8.55383, 48.96613	hagebutze	na	999	hagebutze	na	999	Hagebutte	na	999
+750	TUTT G2/1, TUTT G2/2	III_36_0019	Epfenhofen, Epfenhofen	8.55432, 47.81867	hagebutze, hagabutza	hagabuze	2	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+751	TUTT s5	III_34_0018	Pfohren, Pfohren	8.55997, 47.9474	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+752	KST O3	na	Dietenhausen	8.56003, 48.91574	harebutze	na	999	hachebutze	na	999	Hagebutte	na	999
+753	TUTT s8	na	Heidenhofen	8.5657, 47.98295	hagebutzä	na	999	hagebutze	na	999	Hagebutte	na	999
+754	MH H3	II_59_0069	Ilvesheim, Ilvesheim	8.56668, 49.47129	hagebutt	hagebutte	1	hagebutt	hagebutte	1	Hagebutte	Hagebutte	0
+755	KST z5	III_21_0017	Wöschbach, Wöschbach	8.56737, 48.99948	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+756	KST G3	III_22_0016	Singen bei Pforzheim, Singen	8.56804, 48.95764	hage̊budse̊	hāge̊budze	3	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+757	KST G5	na	Nöttingen	8.56916, 48.93008	hagebutzen	na	999	hagebutzen	na	999	Hagebutte	na	999
+758	KST d4	III_18_0018	Reilingen, Reilingen	8.56943, 49.29368	hagebudde	hagebutte	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+759	TUTT V3	III_38_0018, III_38_0019	Lottstetten, Lottstetten	8.56963, 47.62576	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+760	TUTT l1	na	Hochemmingen	8.56986, 48.02587	häggebuzze	na	999	hegebutze	na	999	Hagebutte	na	999
+761	MH Q2	II_60_0035, II_60_0034	Schwetzingen, Schwetzingen	8.57064, 49.38567	hāgebudde	hagebudd	2	hagebutte	hagebutt	1	Hagebutte	Hagebutte	0
+762	KST z7	na	Jöhlingen	8.5744, 49.03222	hagebutza	na	999	hagebutze	na	999	Hagebutte	na	999
+763	MH H7	na	Mannheim-Friedrichsfeld	8.57534, 49.44026	hagebudde	na	999	hagebutte	na	999	Hagebutte	na	999
+764	TUTT V2	III_38_0021, III_38_0022, III_38_0020	Jestetten, Jestetten	8.57572, 47.65297	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+765	KST O4	III_23_0021	Ellmendingen, Ellmendingen	8.5761, 48.90131	haräbutzä	hāgebutze	4	hachebutze	hagebutze	2	Hagebutte	Hagebutte	0
+766	MH Q3	II_60_0036	Plankstadt, Plankstadt	8.59271, 49.39179	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+767	TUTT V1	III_38_0023	Altenburg, Altenburg	8.59899, 47.65513	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+768	KST O5	III_23_0015	Dietlingen, Dietlingen	8.60093, 48.89654	hagebutz	hagebutze	1	hagebutz	hagebutze	1	Hagebutte	Hagebutte	0
+769	MH H5	II_59_0072	Neckarhausen, Neckarhausen	8.60233, 49.46433	hågebutte	hagebutte	1	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+770	TUTT s2	III_34_0025	Oberbaldingen, Oberbaldingen	8.60629, 47.97542	hagebutze	haggebutze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+771	TUTT G4	na	Nordhalden	8.60654, 47.8069	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+772	TUTT z9	III_35_0021	Riedöschingen, Riedöschingen	8.6077, 47.84306	hagebutze	hagabutza	2	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+773	MH H4	II_59_0070	Ladenburg, Ladenburg	8.61098, 49.47244	hagebudde	hagebutte	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+774	KST z4	III_21_0018	Wössingen, Wössingen	8.61142, 49.01017	hagebutze	hagebuze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+775	MH H8	II_59_0073	Edingen, Edingen	8.61196, 49.44847	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+776	KST G8	III_22_0020, III_22_0018, III_22_0021, III_22_0019, III_22_0024	Königsbach, Stein, Königsbach	8.61207, 48.96515	hagebutze	hagebutze, hegebutze	0	hagebutze	hagebutze, hegebutze	0	Hagebutte	Hagebutte	0
+777	TUTT s3	III_34_0026	Unterbaldingen, Unterbaldingen	8.61256, 47.96992	hagebutze	haggebutze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+778	TUTT G3	III_36_0025	Kommingen, Kommingen	8.61478, 47.81599	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+779	TUTT z1	III_35_0023	Gutmadingen, Gutmadingen	8.61605, 47.91149	hāgebutze	hagebutse	2	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+780	KST G10	III_22_0022	Bilfingen, Bilfingen	8.61996, 48.95027	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+781	KST s1	III_20_0024	Ubstadt, Ubstadt	8.6322, 49.16181	hagebudde	hagebutte	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+782	TUTT G5	III_36_0026	Uttenhofen, Uttenhofen	8.63235, 47.80782	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+783	KST G11	III_22_0023	Ersingen, Ersingen	8.63492, 48.93324	hagebutze	hagäbutzä	2	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+784	TUTT s1	III_34_0024	Öfingen, Öfingen	8.63525, 47.99144	hagebutzä	hagebutze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+785	TUTT G7	III_36_0024	Wiechs a. R., Wiechs	8.64153, 47.78137	hagebutzi	hagebutze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+786	KST s9	na	Helmsheim	8.64229, 49.08509	hagebutze	na	999	hagebutze	na	999	Hagebutte	na	999
+787	KST G9	na	Stein bei Pforzheim	8.6446, 48.9626	hagebutze	na	999	hagebutze	na	999	Hagebutte	na	999
+788	KST s10	III_20_0026	Heidelsheim, Heidelsheim	8.64542, 49.10114	hagebutze	hagenbutzen	2	hagebutze	hagenbutzen	2	Hagebutte	Hagebutte	0
+789	KST l5	na	(Bad) Langenbrücken	8.6466, 49.20296	hagebudda, hagebudd	na	999	hagebutte, hagebutt	na	999	Hagebutte	na	999
+790	MH R1/2	na	Heidelberg-Pfaffengrund	8.64698, 49.40282	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+791	MH r2	na	Hemsbach	8.64707, 49.59198	hagebued	na	999	hagebuett	na	999	Hagebutte	na	999
+792	KST z3	III_21_0019	Dürrenbüchig, Dürrenbüchig	8.64747, 49.0227	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+793	TUTT s4, TUTT A1	III_34_0028	Geisingen, Geisingen (Kirchenhausen), Geisingen	8.65129, 47.93283	hagebutta, hagebutze	hagebutze	0	hagebutte, hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+794	KST l4	III_19_0018, III_19_0020, III_19_0019	Mingolsheim, Mingolsheim	8.65316, 49.21986	hagebutt	hagenbutzen, hugebutte, hagelbudde	2	hagebutt	hagenbutzen, hugebutte, hagelbutte	2	Hagebutte	Hagebutte	0
+795	KST z2	III_21_0020	Gondelsheim, Gondelsheim	8.65584, 49.0596	hagebutze	hagebudda	3	hagebutze	hagebutte	1	Hagebutte	Hagebutte	0
+796	TUTT G6	III_36_0020	Tengen, Tengen	8.66036, 47.81721	hagabutse	hagebutze	2	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+797	KST O9	III_23_0028	Büchenbronn, Büchenbronn	8.66335, 48.85558	heckebutze	heckebutze	0	hegebutze	hegebutze	0	Hagebutte	Hagebutte	0
+798	KST t3	III_20_0025	Unteröwisheim, Unteröwisheim	8.66595, 49.14423	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+799	KST P1	III_22_0027, III_22_0026	Ispringen , Ispringen	8.66764, 48.91655	hagebuze	hagebutze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+800	TUTT A2	na	Leipferdingen	8.66787, 47.86461	hagebutze	na	999	hagebutze	na	999	Hagebutte	na	999
+801	KST P2	III_23_0029, III_23_0032, III_23_0030, III_23_0031	Brötzingen, Pforzheim-Brötzingen	8.66799, 48.889	hagebutte	hagebutze, hogebutze	1	hagebutte	hagebutze	1	Hagebutte	Hagebutte	0
+802	MH J2	II_59_0076	Dossenheim, Dossenheim	8.66806, 49.44988	hagebutt	hagebutte	1	hagebutt	hagebutte	1	Hagebutte	Hagebutte	0
+803	KST H4	III_22_0025	Eisingen, Eisingen	8.66865, 48.94773	hagaebutze	hagebutze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+804	TUTT t2	III_34_0027	Ippingen, Ippingen	8.67098, 47.98355	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+805	KST m10	III_19_0027	Zeutern, Zeutern	8.67522, 49.17718	hagelbutze	hagelbutze	0	hagelbutze	hagelbutze	0	Hagebutte	Hagebutte	0
+806	KST A8	na	Sprantal	8.6823, 49.00345	hagebutze	na	999	hagebutze	na	999	Hagebutte	na	999
+807	KST A7	III_21_0024	Rinklingen , Rinklingen	8.6832, 49.03485	hagebutza	hagebutze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+808	TUTT H8	na	Blumenfeld	8.68358, 47.81394	hagebutze	na	999	hagebutze	na	999	Hagebutte	na	999
+809	TUTT H12	III_36_0031, III_36_0032	Beuren a(m) R(ied), Büsslingen, Beuren	8.6839, 47.79252	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+810	KST A3	na	Neibsheim (bei Bruchsal)	8.68509, 49.07104	hagebuddä	na	999	hagebutte	na	999	Hagebutte	na	999
+811	MH J3/2	na	Heidelberg-Handschuhsheim	8.68613, 49.42774	hagebutt	na	999	hagebutt	na	999	Hagebutte	na	999
+812	MH R4	II_60_0042	Leimen, Leimen	8.68891, 49.34902	hagebutt	hagebutt	0	hagebutt	hagebutt	0	Hagebutte	Hagebutte	0
+813	KST t2	III_20_0028	Oberöwisheim, Oberöwisheim	8.6891, 49.14532	hagebutze	haugebutze	1	hagebutze	haugebutze	1	Hagebutte	Hagebutte	0
+814	TUTT P6	III_37_0011, III_37_0013, III_37_0010, III_37_0012	Büsingen, Büsingen	8.69282, 47.69702	hagebutze	hagebudde, hagebutze	0	hagebutze	hagebutte, hagebutze	0	Hagebutte	Hagebutte	0
+815	KST H1	III_22_0028	Nussbaum, Nussbaum	8.69353, 48.98977	hagebudze	hagebutze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+816	KST P7	III_23_0057	Huchenfeld, Huchenfeld	8.69574, 48.85613	hagebuze	haggebutze	2	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+817	KST P3/3, KST P3/4, KST P3/1, KST P3/2	III_23_0054, III_23_0045, III_23_0049, III_23_0042, III_23_0052, III_23_0038, III_23_0039, III_23_0040, III_23_0050, III_23_0044, III_23_0037, III_23_0048, III_23_0053, III_23_0047, III_23_0051, III_23_0043, III_23_0046, III_23_0036, III_23_0041	Pforzheim, Pforzheim	8.70025, 48.89013	hagebutze, hagebutt, hagebudze	hagebutz, hagebutt, hagenbutzen, hagabutza, hagebutte, hagebutze, hȃgebutze	0	hagebutze, hagebutt	hagebutz, hagebutt, hagenbutzen, hagebutte, hagebutze	0	Hagebutte	Hagebutte	0
+818	TUTT J2 /2	III_36_0037, III_36_0038, III_36_0036	Schlatt (am Randen), Schlatt	8.70119, 47.76891	hagabutta	hagebutte	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+819	KST e2/2, KST e2/1	III_18_0023, III_18_0036	Wiesloch, Wiesloch	8.70178, 49.29504	hagbutte, hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+820	TUTT H9	III_36_0035	Weil, Weil	8.7018, 47.81859	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+821	KST A5	III_21_0026, III_21_0025, III_21_0027	Bretten, Bretten	8.70657, 49.03456	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+822	KST H3	III_22_0029	Göbrichen, Göbrichen	8.70848, 48.95808	hagenbutzen	hagebutze	2	hagebutzen	hagebutze	1	Hagebutte	Hagebutte	0
+823	KST A2	III_21_0031	Büchig (bei Bretten), Büchig	8.70984, 49.0742	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+824	KST e11	na	Rotenberg	8.71207, 49.25813	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+825	KST m11	III_19_0025, III_19_0026	Östringen, Östringen	8.7137, 49.22037	hagebutte	haghebutzä, haghebutzä̆	3	hagebutte	hagebutze, haghebutze	1	Hagebutte	Hagebutte	0
+826	KST t5	na	Oberacker	8.71399, 49.1087	hagebude	na	999	hagebutte	na	999	Hagebutte	na	999
+827	TUTT t5	III_34_0038	Zimmern, Zimmern	8.71521, 47.94848	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+828	KST t4	III_20_0029	Münzesheim, Münzesheim	8.71579, 49.12246	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+829	TUTT A3	III_35_0026	Stetten (bei Engen), Stetten	8.71683, 47.87248	hagebutze	haggebutze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+830	TUTT t1	III_34_0032	Esslingen, Esslingen	8.71709, 47.99269	haggebutze	haggebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+831	KST t1	na	Neuenbürg	8.71854, 49.15352	hagebutte, hagebutze	na	999	hagebutte, hagebutze	na	999	Hagebutte	na	999
+832	KST A4	na	Gölshausen	8.72322, 49.04608	hagebuze̊	na	999	hagebutze	na	999	Hagebutte	na	999
+833	KST A9	na	Ruit	8.72435, 49.00924	hagebutze	na	999	hagebutze	na	999	Hagebutte	na	999
+834	TUTT H6	III_36_0033	Binningen, Binningen	8.72585, 47.79296	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+835	KST H2	III_22_0031, III_22_0032	Bauschlott, Bauschlott	8.72785, 48.97051	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+836	TUTT P2	III_37_0014	Bietingen, Bietingen	8.73023, 47.73862	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+837	TUTT t4	III_34_0039, III_34_0041, III_34_0040	Immendingen, Immendingen	8.73032, 47.95055	hagäbutze	haggebutze, haggebutzä	2	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+838	KST P6	na	Hohenwart	8.73054, 48.83244	hagebutze	na	999	hagebutze	na	999	Hagebutte	na	999
+839	KST P8	III_23_0058	Würm, Würm	8.73641, 48.86041	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+840	KST e3	III_18_0027	Baiertal, Baiertal	8.73772, 49.30253	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+841	MH J7	na	Altenbach / Schriesheim	8.73843, 49.48622	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+842	MH R6	II_60_0047	Ochsenbach, Ochsenbach	8.73932, 49.33778	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+843	TUTT A4	III_35_0028	Zimmerholz, Zimmerholz	8.74175, 47.86811	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+844	KST W1	III_24_0023	Schellbronn, Schellbronn	8.74222, 48.81738	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+845	KST t6	III_20_0032	Gochsheim, Gochsheim	8.74551, 49.10407	hauebutze	hagebutze	1	hawebutte	hagebutze	2	Hagebutte	Hagebutte	0
+846	KST P4	na	Eutingen	8.74574, 48.91069	hagebutti	na	999	hagebutte	na	999	Hagebutte	na	999
+847	TUTT H5	na	Riedheim	8.74873, 47.76389	hagebutza	na	999	hagebutze	na	999	Hagebutte	na	999
+848	KST m9	III_19_0028	Odenheim, Odenheim	8.75076, 49.17902	hagebutze	hagebutte	1	hagebutze	hagebutte	1	Hagebutte	Hagebutte	0
+849	KST H6	III_22_0035	Kieselbronn, Kieselbronn	8.75287, 48.93453	hāgebutze	hagebutze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+850	TUTT P3	na	Randegg	8.75435, 47.72246	hagebutze	na	999	hagebutze	na	999	Hagebutte	na	999
+851	TUTT P5	III_37_0015	Gailingen, Gailingen	8.75499, 47.69685	haggebutze	hagebutte, hagebutze	1	hagebutze	hagebutte, hagebutze	0	Hagebutte	Hagebutte	0
+852	KST H5	III_22_0034	Dürrn, Dürrn	8.75615, 48.95653	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+853	KST e12	III_18_0029	Tairnbach, Tairnbach	8.75625, 49.26367	hagebudde	hagebutte	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+854	TUTT P1	na	Ebringen	8.75733, 47.75075	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+855	TUTT H10	na	Welschingen	8.75772, 47.82306	haggebutze	na	999	hagebutze	na	999	Hagebutte	na	999
+856	KST e4	III_18_0032	Schatthausen, Schatthausen	8.75841, 49.319	harebudde	harebudde	0	hachebutte	hachebutte	0	Hagebutte	Hagebutte	0
+857	TUTT t3	III_34_0030, III_34_0031, III_34_0029	Möhringen, Möhringen	8.75916, 47.96779	haggebutze	hagebutze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+858	TUTT A8	III_35_0029	Anselfingen, Anselfingen	8.76516, 47.84558	hagebutze	haggebutze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+859	TUTT A7	III_35_0033, III_35_0032, III_35_0034	Engen, Engen	8.76853, 47.85186	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+860	TUTT H11	III_36_0028, III_36_0029, III_36_0027	Weiterdingen, Weiterdingen	8.76917, 47.79954	hagebutze	hagebuze, hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+861	KST W2	III_24_0024	Hamberg, Hamberg	8.76924, 48.81833	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+862	KST t10	III_20_0031	Menzingen, Menzingen	8.77067, 49.13931	hagebutze	hagäbuddä	4	hagebutze	hagebutte	1	Hagebutte	Hagebutte	0
+863	MH R12	II_60_0044	Waldhilsbach, Waldhilsbach	8.77179, 49.3721	hagebudde	hagebutte	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+864	KST m4	na	Eichtersheim	8.7742, 49.23438	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+865	TUTT A9	III_35_0031, III_35_0030	Neuhausen (b. Engen), Neuhausen	8.77423, 47.8379	hagebutze	hagəbutzə	2	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+866	KST H7	na	Niefern	8.77601, 48.91977	heegebutze	na	999	hegebutze	na	999	Hagebutte	na	999
+867	MH R9	II_60_0046	Bammental, Bammental	8.77604, 49.35511	hagebutte	harebudde	3	hagebutte	hachebutte	2	Hagebutte	Hagebutte	0
+868	TUTT P4	III_37_0016	Gotttmadingen, Gottmadingen	8.77716, 47.73498	hagebutze	hagebuza	2	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+869	KST W7	III_24_0034	Neuhausen, Neuhausen	8.77888, 48.79256	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+870	KST m5	III_19_0030, III_19_0032, III_19_0031	Michelfeld, Michelfeld	8.7808, 49.22723	hagebutte	hagebutte, hagabutter, hagebutze	0	hagebutte	hagebutte, hagebutter, hagebutze	0	Hagebutte	Hagebutte	0
+871	TUTT H4	na	Hilzingen	8.78189, 47.7649	hagebutze	na	999	hagebutze	na	999	Hagebutte	na	999
+872	KST e14	III_18_0030	Eschelbach, Eschelbach	8.78417, 49.24823	hagebudde	hagebudde	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+873	TUTT t6	III_34_0042	Hattingen, Hattingen	8.78447, 47.92082	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+874	KST t9	III_20_0034	Bahnbrücken, Bahnbrücken	8.78671, 49.11865	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+875	KST t7	III_20_0036, III_20_0035, III_20_0039, III_20_0037	Flehingen , Flehingen	8.78694, 49.0869	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+876	TUTT H3	III_36_0034	Duchtlingen, Duchtlingen	8.79029, 47.79154	hagebutze	hagebutee	1	hagebutze	hagebutte	1	Hagebutte	Hagebutte	0
+877	KST W4	III_24_0025	Steinegg, Steinegg	8.79091, 48.81349	haggebutze	hagebutze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+878	KST m8	na	Tiefenbach	8.79638, 49.17561	haugerbuzär	na	999	haugerbutte	na	999	Hagebutte	na	999
+879	MH J10	na	Heiligkreuzsteinach	8.79709, 49.48538	haugebutt	na	999	haugebutte	na	999	Hagebutte	na	999
+880	MH R13	II_60_0045	Neckargemünd, Neckargemünd	8.79751, 49.39508	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+881	MH R8	II_60_0049	Mauer, Mauer	8.79767, 49.34127	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+882	TUTT H1	III_36_0030	Ehingen, Ehingen	8.80075, 47.82351	hagebutte	hagebutze	1	hagebutte	hagebutze	1	Hagebutte	Hagebutte	0
+883	KST W3	III_24_0026	Tiefenbronn, Tiefenbronn	8.80329, 48.82521	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+884	KST m6	III_19_0033	Waldangelloch, Waldangelloch	8.80551, 49.21046	hauaputza	hauebutzen	4	hawebutte	hawebutzen	2	Hagebutte	Hagebutte	0
+885	KST t11	III_20_0033	Landshausen, Landshausen	8.80627, 49.14899	haugebutze	hagebutze	1	haugebutze	hagebutze	1	Hagebutte	Hagebutte	0
+886	MH J13	na	Schönau bei Heidelberg	8.80977, 49.43706	hagebudde	na	999	hagebutte	na	999	Hagebutte	na	999
+887	TUTT A6	III_35_0035	Bittelbrunn (Aach), Bittelbrunn	8.81087, 47.86719	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+888	TUTT A5	III_35_0036	Biesendorf, Biesendorf	8.81255, 47.91175	hagabutza	hagebutze	2	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+889	KST m7	III_19_0036	Eichelberg, Eichelberg	8.813, 49.1891	haurebutze	hagebutte	3	hawebutte	hagebutte	1	Hagebutte	Hagebutte	0
+890	KST P5	III_23_0035	Öschelbronn, Öschelbronn	8.81415, 48.90599	hagebutzen	hagebutze	1	hagebutzen	hagebutze	1	Hagebutte	Hagebutte	0
+891	KST e5	III_18_0034, III_18_0033	Meckesheim, Meckesheim	8.81557, 49.32167	hageputze	hagebutze  , hagebutze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+892	KST W6	III_24_0035	Lehningen, Lehningen	8.81639, 48.79486	hagebutzē	hagebutze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+893	KST t8	III_20_0040	Zaisenhausen, Zaisenhausen	8.81712, 49.10745	hagebutza	hagabudda	3	hagebutze	hagebutte	1	Hagebutte	Hagebutte	0
+894	TUTT H2	na	Mühlhausen	8.81866, 47.80792	hagebuze	na	999	hagebutze	na	999	Hagebutte	na	999
+895	KST e6	III_18_0035	Zuzenhausen, Zuzenhausen	8.82176, 49.29778	harebutte	harebutte	0	hachebutte	hachebutte	0	Hagebutte	Hagebutte	0
+896	KST W5	III_24_0036	Mühlhausen , Mühlhausen	8.82201, 48.80607	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+897	TUTT J4	III_36_0150	Singen, Singen	8.83317, 47.76378	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+898	TUTT J2 /1	III_36_0052	Schlatt (unter Krähen), Schlatt	8.83529, 47.80435	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+899	KST n1	III_19_0034	Dühren, Dühren	8.83562, 49.24557	hagabutza	haagebutze	3	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+900	MH S1	II_60_0052	Dilsberg, Dilsberg	8.8362, 49.39832	hagebudde	hawwerbutze	5	hagebutte	hawerbutze	3	Hagebutte	Hagebutte	0
+901	TUTT Q13	III_37_0017	Rieslasingen, Rielasingen	8.83715, 47.73231	hagebutze	hagbutze	1	hagebutze	hagbutze	1	Hagebutte	Hagebutte	0
+902	KST n11	III_19_0042, III_19_0041, III_19_0043	Elsenz, Elsenz	8.83766, 49.17408	hagebutze	hagebutze, hoagebutze	0	hagebutze	hagebutze, hoagebutze	0	Hagebutte	Hagebutte	0
+903	KST f9	III_18_0045	Hoffenheim, Hoffenheim	8.8417, 49.27088	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+904	KST B1	III_21_0033	Kürnbach, Kürnbach	8.84279, 49.07732	hagäbutsä	haagebutze	4	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+905	TUTT J3	na	Hausen an der Aach	8.84574, 47.7917	hagabutze	na	999	hagebutze	na	999	Hagebutte	na	999
+906	TUTT B6	III_35_0042	Aach, Aach	8.8497, 47.84307	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+907	TUTT u5	III_34_0119	Emmingen, Emmingen	8.85302, 47.92883	haggåbudze	hagebutze	3	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+908	MH S6	II_60_0056	Mönchzell, Mönchzell	8.85327, 49.33612	harebutze	harebutte	1	hachebutze	hachebutte	1	Hagebutte	Hagebutte	0
+909	KST u4	III_20_0041	Rohrbach (am Giesshübel), Rohrbach	8.85649, 49.14055	haugebutze	hagebutze	1	haugebutze	hagebutze	1	Hagebutte	Hagebutte	0
+910	KST u5	III_20_0043, III_20_0042, III_20_0163, III_20_0045, III_20_0044	Sulzfeld, Sulzfeld	8.85671, 49.10336	hagabudza	hagebutze, hagabutze  , hagabutza	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+911	TUTT z2	III_33_0041	Nendingen, Nendingen	8.86067, 48.00602	hagebutze	haggebutza	2	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+912	KST n12	III_19_0040, III_19_0038	Hilsbach, Hilsbach	8.86227, 49.1957	hagebutze	hagebutze, hagenbutzen	0	hagebutze	hagebutze, hagenbutzen	0	Hagebutte	Hagebutte	0
+913	TUTT J1	III_36_0043	Volkertshausen, Volkertshausen	8.863, 47.82187	hagebutza	hagebutze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+914	TUTT Q3	III_37_0019	Worblingen, Worblingen	8.86677, 47.72492	haggabuza	hagebuza	2	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+915	KST f1	III_18_0041, III_18_0040, III_18_0038, III_18_0039, III_18_0037	Eschelbronn, Eschelbronn	8.86825, 49.3202	chagebutze	harbutzer, haräbutzä, hagebutze, haräbutze, harebutzer	1	chagebutze	hachebutze, hagebutze, hachebutzer, hachbutze	1	Hagebutte	Hagebutte	0
+916	MH S4	II_60_0055	Lobenfeld, Lobenfeld	8.8718, 49.35884	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+917	KST f8	na	Sinsheim	8.87357, 49.25387	hagerbutzer	na	999	hagebutze	na	999	Hagebutte	na	999
+918	TUTT J6	III_36_0044	Beuren an der Aach, Beuren	8.87459, 47.79932	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+919	TUTT J5	na	Friedingen	8.87581, 47.78669	hagebuttä	na	999	hagebutte	na	999	Hagebutte	na	999
+920	KST n13	III_19_0037	Weiler, Weiler	8.87587, 49.20862	hagabutza	haagebutze	3	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+921	KST f10	III_18_0044, III_18_0043	Daisbach, Daisbach	8.87705, 49.2938	hagebudde	hagebutte, hagebudde, hagerbudder	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+922	MH K8	II_59_0097	Neckarhäuserhof, Neckarhäuserhof	8.88191, 49.41513	hagebutte	hagebutte, hagebudde	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+923	TUTT B4	III_35_0044	Honstetten, Honstetten	8.88331, 47.8933	hagebutze	haggebutze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+924	KST f2	III_18_0042	Neidenstein, Neidenstein	8.88423, 49.31637	harebutze	harebuddä	3	hachebutze	hachebutte	1	Hagebutte	Hagebutte	0
+925	KST n10	III_20_0046	Adelshofen, Adelshofen	8.89073, 49.16806	hagebutze	hagebutte	1	hagebutze	hagebutte	1	Hagebutte	Hagebutte	0
+926	TUTT X1	III_38_0024	Öhningen, Öhningen	8.89136, 47.66162	hagebutte	hagebutta	1	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+927	MH S3	II_60_0054	Waldwimmersbach, Waldwimmersbach	8.89219, 49.37538	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+928	TUTT Q4	III_37_0021	Bohlingen, Bohlingen	8.8965, 47.72199	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+929	TUTT B5	III_35_0043	Eigeltingen, Eigeltingen	8.8974, 47.85806	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+930	TUTT Q2	III_37_0020	Überlingen am Ried, Überlingen am Ried	8.89807, 47.73495	hagebutze	haggebutte	2	hagebutze	hagebutte	1	Hagebutte	Hagebutte	0
+931	TUTT Q12	III_37_0022	Schienen, Schienen	8.90035, 47.68774	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+932	KST u6	III_20_0052	Mühlbach, Mühlbach	8.90301, 49.09703	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+933	KST f11	na	Rohrbach	8.9042, 49.25168	hagäbuzä	na	999	hagebutze	na	999	Hagebutte	na	999
+934	TUTT J7	na	Wiechs	8.90712, 47.8158	hagebutze	na	999	hagebutze	na	999	Hagebutte	na	999
+935	TUTT B3	III_35_0045	Reute, Reute	8.90723, 47.8873	hagunbutzun	hagebutze	4	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+936	TUTT u4	III_34_0047	Liptingen, Liptingen	8.90748, 47.93756	haggoabutzoå	hagebutzä	5	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+937	KST n2	III_19_0044	Steinsfurt, Steinsfurt	8.90861, 49.24023	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+938	KST u3	III_20_0047, III_20_0048, III_20_0050, III_20_0049, III_20_0051	Eppingen, Eppingen	8.9098, 49.13704	hagebutze	hagabudza, hagabutza, hagebutza, hagebudze, hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+939	TÜB f1	III_25_0047	Döffingen, Döffingen	8.91383, 48.7106	hegåbutzå	hegenbutzen	4	hegebutze	hegenbutzen	2	Hagebutte	Hagebutte	0
+940	KST n3	III_19_0045	Reihen, Reihen	8.91628, 49.21715	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+941	KST f3	III_18_0050	Waibstadt, Waibstadt	8.9198, 49.29982	hagebutte	hagebutze	1	hagebutte	hagebutze	1	Hagebutte	Hagebutte	0
+942	TUTT B2	III_35_0041	Rorgenwies, Rorgenwies	8.92043, 47.90334	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+943	TUTT J8	III_36_0047	Steisslingen, Steisslingen	8.92209, 47.80296	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+944	MH S13	na	Schönbrunn	8.92851, 49.41228	hā̊räbutzä	na	999	hachebutze	na	999	Hagebutte	na	999
+945	MH K7	II_59_0088	Moosbrunn, Moosbrunn	8.92878, 49.42533	hågebutte	hagebudde	3	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+946	MH S11	II_60_0067	Haag, Haag	8.92912, 49.39429	hāchebudde	hagĕbuddĕ	5	hachebutte	hagebutte	2	Hagebutte	Hagebutte	0
+947	TUTT B7	III_35_0038	Orsingen, Orsingen	8.92977, 47.83688	hageͣbudde	hagebutze	3	hagebutte	hagebutze	1	Hagebutte	Hagebutte	0
+948	TUTT Q7	III_37_0025	Bankholzen, Bankholzen	8.92989, 47.7082	hagebutze	hagäbutzä	2	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+949	TUTT X2	III_38_0025	Wangen, Wangen	8.93161, 47.6599	hagebutza	hagebutte	2	hagebutze	hagebutte	1	Hagebutte	Hagebutte	0
+950	TUTT Q5	III_37_0024	Moos, Moos	8.93316, 47.7259	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+951	TUTT B1	III_35_0047	Heudorf, Heudorf	8.93517, 47.91373	haggebutze	hagebutze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+952	TUTT Q1	na	Böhringen	8.93568, 47.75355	hagebutzen	na	999	hagebutzen	na	999	Hagebutte	na	999
+953	TUTT f1	III_32_0032	Hartheim, Hartheim	8.93612, 48.15571	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+954	KST n9	III_19_0046	Ittlingen, Ittlingen	8.93691, 49.19224	hagebutte, hagebuze	hagenbutze	2	hagebutte, hagebutze	hagenbutze	1	Hagebutte	Hagebutte	0
+955	KST n8	III_19_0047	Richen, Richen	8.94083, 49.17134	hagebutze	hagebudzä	2	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+956	MH S7	na	Reichartshausen	8.94509, 49.35547	hachebutte	na	999	hachebutte	na	999	Hagebutte	na	999
+957	MH K2	na	Igelsbach	8.94534, 49.46217	hagebudde	na	999	hagebutte	na	999	Hagebutte	na	999
+958	MH K5	II_59_0093, II_59_0094	Pleutersbach, Pleutersbach	8.95293, 49.45367	harebutte	hagebutte, hagebudde	1	hachebutte	hagebutte	2	Hagebutte	Hagebutte	0
+959	TUTT B9	III_35_0049	Homberg Münchhof, Münchhöf	8.95295, 47.88032	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+960	KST f7	III_18_0052	Adersbach, Adersbach	8.95454, 49.2632	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+961	MH K6/2, MH K6/1	II_59_0096	Allemühl, Allemühl	8.95618, 49.42613	hagebutte, hagebutze	harebutze	1	hagebutte, hagebutze	hachebutze	2	Hagebutte	Hagebutte	0
+962	TUTT B8	III_35_0051	Nenzingen, Nenzingen	8.95914, 47.84256	hagēbutze	hagebutze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+963	KST f4	na	Neckarbischofheim	8.96103, 49.29275	hagebutze	na	999	hagebutze	na	999	Hagebutte	na	999
+964	TUTT B10	III_35_0048	Raithaslach, Raithaslach	8.96262, 47.88125	hagebutze	haggebutze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+965	TUTT f2	III_32_0038	Heinstetten, Heinstetten	8.96312, 48.13491	hagabutza	haggebutze	3	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+966	KST u2	III_20_0057	Stebbach, Stebbach	8.96448, 49.14676	hagebutzä	hagebutze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+967	TUTT Q11	III_37_0029	Hemmenhofen, Hemmenhofen	8.96502, 47.67294	hagebutze	hagebudde	2	hagebutze	hagebutte	1	Hagebutte	Hagebutte	0
+968	MH S10	II_60_0061	Michelbach, Michelbach	8.96532, 49.37259	harebutte	hagebutte	1	hachebutte	hagebutte	2	Hagebutte	Hagebutte	0
+969	TUTT J10	III_36_0048	Wahlwies, Wahlwies	8.96632, 47.81985	hagebutze	hegabutze	2	hagebutze	hegebutze	1	Hagebutte	Hagebutte	0
+970	KST n5	na	Bockschaft	8.96721, 49.20342	hagebutze	na	999	hagebutze	na	999	Hagebutte	na	999
+971	KST f5	na	Helmstadt	8.97487, 49.32604	hagebutze	na	999	hagebutze	na	999	Hagebutte	na	999
+972	TUTT J9	III_36_0049	Stahringen, Stahringen	8.97547, 47.78849	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+973	MH S12	II_60_0063	Schwanheim, Schwanheim	8.97596, 49.40194	hagebudde	hachebudde	2	hagebutte	hachebutte	2	Hagebutte	Hagebutte	0
+974	TUTT C4, TUTT B11	III_35_0050	Mahlspüren, Mahlspüren	8.97748, 47.87563	haggebutze, hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+975	KST n7	III_19_0048	Berwangen, Berwangen	8.98098, 49.18431	hagebutte	hagebutze	1	hagebutte	hagebutze	1	Hagebutte	Hagebutte	0
+976	TUTT u1	na	Oberschwandorf	8.98238, 47.9602	hagebutze	na	999	hagebutze	na	999	Hagebutte	na	999
+977	KST n4	III_19_0051	Ehrstädt, Ehrstädt	8.98266, 49.24404	hagabuddr	hagebutte	4	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+978	TUTT Q10	III_37_0026	Gaienhofen, Gaienhofen	8.9829, 47.68263	hagēͣbutze	hagebutze	2	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+979	KST u1	III_20_0056, III_20_0053, III_20_0054, III_20_0055	Gemmingen, Gemmingen	8.98358, 49.15633	hagebutte	hagebutte, hagebutze, hakenputzen, hagebuttä	0	hagebutte	hagebutte, hagebutze, hagenbutzen	0	Hagebutte	Hagebutte	0
+980	KST f6	na	Hasselbach	8.98363, 49.25911	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+981	TUTT n1	III_33_0040	Buchheim, Buchheim	8.98672, 48.011	hagabutza	hagenbutze	3	hagebutze	hagenbutze	1	Hagebutte	Hagebutte	0
+982	MH K3	II_59_0092	Eberbach, Eberbach	8.98755, 49.46322	hawerbutze	hawerbutze	0	hawebutte	hawerbutze	2	Hagebutte	Hagebutte	0
+983	MH T8, MH S8	na	Aglasterhausen, Aglasterhausen-Daudenzell	8.98981, 49.35471	hagebutte, hagebutzer	na	999	hagebutte, hagebutze	na	999	Hagebutte	na	999
+984	KST n6	III_19_0049	Kirchardt, Kirchardt	8.9918, 49.20667	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+985	TUTT Q9	III_37_0027	Horn, Horn	8.99438, 47.69562	hagǟbutzǟ	hagäbutzi	2	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+986	TUTT f3	III_32_0041	Schwenningen, Schwenningen	8.99619, 48.10638	hagebutz	hagebutze	1	hagebutz	hagebutze	1	Hagebutte	Hagebutte	0
+987	TUTT u2	III_34_0045	Unterschwandorf, Unterschwandorf	8.99628, 47.95028	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+988	TUTT u3	III_34_0048	Gallmannsweil, Gallmannsweil	8.99683, 47.92357	haggebutze	hagebutze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+989	TUTT J11	III_36_0050, III_36_0051	Güttingen, Güttingen	8.998, 47.77415	hagabutza	hagebuza, hagebuze	2	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+990	TUTT v2	III_34_0046	Worndorf, Worndorf	8.9985, 47.98553	hagebutte	hagebutze	1	hagebutte	hagebutze	1	Hagebutte	Hagebutte	0
+991	MH K4	II_59_0095	Rockenau, Rockenau	8.99904, 49.44673	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+992	KST g11	III_18_0053	Flinsbach, Flinsbach	8.9996, 49.30946	hagebutze	haarebutze	2	hagebutze	hachebutze	2	Hagebutte	Hagebutte	0
+993	TUTT C8	III_35_0040	Zizenhausen, Zizenhausen	9.0005, 47.87365	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+994	TÜB g1	III_25_0044	Sindelfingen, Sindelfingen	9.00194, 48.70797	hagâbutzâ, hegabutzâ	hagabutza	2	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+995	TUTT K8	III_36_0045	Möggingen, Möggingen	9.00337, 47.76589	hagebutzå	hagebutze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+996	TUTT R3	III_37_0030	Markelfingen, Markelfingen	9.00452, 47.74143	hagebutze̊	hagebutze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+997	MH T1	na	Lindach	9.00508, 49.41658	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+998	TUTT C9	III_35_0060	Hoppetenzell, Hoppetenzell	9.00808, 47.89295	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+999	MH T2	II_60_0068	Neunkirchen, Neunkirchen	9.00887, 49.38789	hagebutze	hahrebudde	4	hagebutze	hachebutte	3	Hagebutte	Hagebutte	0
+1000	TUTT C7	III_35_0039	Hindelwangen, Hindelwangen	9.00909, 47.86237	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+1001	KST g7	III_18_0059	Untergimern, Untergimern	9.00947, 49.27049	hachebudde	hagebudde	2	hachebutte	hagebutte	2	Hagebutte	Hagebutte	0
+1002	TUTT v6	III_34_0050	Mainwangen, Mainwangen	9.0105, 47.92565	hagebutza	hagebutze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+1003	TUTT K5	III_36_0053	Espasingen, Espasingen	9.01058, 47.82135	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+1004	TUTT C6	III_35_0056	Stockach, Stockach	9.01468, 47.85384	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+1005	TUTT o3	III_33_0047	Leibertingen, Leibertingen	9.01551, 48.04265	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+1006	TUTT C10	III_35_0059	Mühlingen, Mühlingen	9.01554, 47.91191	hagabutzå	hagebutza	2	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+1007	MH T16	II_60_0070	Breitenbronn, Breitenbronn	9.02197, 49.36483	harebudde	hagabuda	4	hachebutte	hagebutte	2	Hagebutte	Hagebutte	0
+1008	KST g9	III_18_0057	Bargen, Bargen	9.02233, 49.30537	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+1009	MH T9	II_60_0071	Asbach, Asbach	9.02562, 49.34133	hagebutte	hagebutze	1	hagebutte	hagebutze	1	Hagebutte	Hagebutte	0
+1010	TUTT K7	III_36_0056, III_36_0055	Liggeringen, Liggeringen	9.02698, 47.77495	hagebutze	hagabutze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+1011	TUTT K6	III_36_0054	Bodman, Bodman	9.02835, 47.80402	hagebutze	hagäbuzä	3	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+1012	TUTT v5	III_34_0051	Boll, Boll	9.0299, 47.9487	hagebutza	hagebutze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+1013	TUTT v3	III_34_0053	Bietingen, Bietingen	9.03261, 47.97091	hagebutze	hagebūtze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+1014	TUTT v1	III_34_0054	Altheim, Altheim	9.03387, 47.99511	hagebūtze	hagebutze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+1015	KST g8	III_18_0058	Wollenberg, Wollenberg	9.03453, 49.29152	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+1016	TUTT g1	III_32_0042	Glashütte (Heuberg), Glashütte	9.03485, 48.1237	hagabuzza	hagabutza	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+1017	TUTT o2	na	Hausen im Tal	9.03969, 48.0848	hagabutza	na	999	hagebutze	na	999	Hagebutte	na	999
+1018	KST g6	na	Obergimpern	9.04013, 49.25574	hagebutze	na	999	hagebutze	na	999	Hagebutte	na	999
+1019	TUTT C2/1, TUTT C2/2	III_35_0052	Zoznegg, Zoznegg	9.04053, 47.89958	haggebutze, hageͣbutza	hagebutzen	2	hagebutze	hagebutzen	1	Hagebutte	Hagebutte	0
+1020	MH T7	II_60_0072	Mörtelstein, Mörtelstein	9.04246, 49.35708	hagebutte	harebutte, hawerbutze	1	hagebutte	hachebutte, hawerbutze	2	Hagebutte	Hagebutte	0
+1021	TUTT C1	III_35_0054	Schwackenreute, Schwackenreute	9.04401, 47.91392	hagebutze	hagebutza	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+1022	MH L4	II_59_0099	Zwingenberg, Zwingenberg	9.04439, 49.41287	hāgebutze	hagebudde	3	hagebutze	hagebutte	1	Hagebutte	Hagebutte	0
+1023	TUTT v4	III_34_0052	Krumbach, Krumbach	9.04788, 47.96159	hagebute	hagebutze	1	hagebutte	hagebutze	1	Hagebutte	Hagebutte	0
+1024	TUTT o4	III_33_0042	Kreenheinstetten, Kreenheinstetten	9.05221, 48.0555	hagebutza	hagebutze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+1025	MH L2	II_59_0101	Oberdielbach, Oberdielbach	9.05361, 49.44781	hāgebutze	hagebutze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+1026	MH C1	II_58_0102	Friedrichsdorf, Friedrichsdorf	9.054, 49.52034	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+1027	MH L6	II_59_0102	Waldkatzenbach, Waldkatzenbach	9.05484, 49.45603	hagebutte	hagebudde	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+1028	KST o2	III_19_0052	Treschklingen, Treschklingen	9.05577, 49.22614	hageputze	hagerbutze	2	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+1029	MH T6	II_60_0074	Binau, Binau	9.0577, 49.36658	harebuddä	harebudde	1	hachebutte	hachebutte	0	Hagebutte	Hagebutte	0
+1030	TUTT K4	III_36_0059	Ludwigshafen, Ludwigshafen	9.05916, 47.8189	hagä̆butzä̆	haggebutze	4	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+1031	TUTT R6	III_37_0040, III_37_0038, III_37_0039	Reichenau, Reichenau	9.06125, 47.69789	hagebutte	hagebute, hagebudde, hagebude	1	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+1032	KST g10	III_18_0063	Kälbertshausen, Kälbertshausen	9.06276, 49.31724	hagebudde	hagebutte	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+1033	TUTT R4	III_37_0033, III_37_0032, III_37_0034	Allensbach, Allensbach	9.06699, 47.71535	hagabutte	haggebutte, hagebutte, hagebutze	1	hagebutte	hagebutte, hagebutze	0	Hagebutte	Hagebutte	0
+1034	MH T17	II_60_0075	Neckargerach, Neckargerach	9.0708, 49.40101	hagebutte	hauerbutze	3	hagebutte	hawerbutze	3	Hagebutte	Hagebutte	0
+1035	TUTT v11	III_34_0055	Heudorf, Heudorf	9.07121, 47.99412	hagebutze	haggebutze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+1036	TUTT R2	III_37_0031	Kaltbrunn, Kaltbrunn	9.07201, 47.73526	hagabutza	hagabutza	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+1037	TUTT K12	III_36_0058	Langenrain, Langenrain	9.07596, 47.76281	hagebutze	haggebutze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+1038	TUTT g2	III_32_0043	Stetten a.k.M. (am kalten Markt), Stetten	9.07816, 48.12086	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+1039	MH L3	II_59_0100	Schollbrunn, Schollbrunn	9.07962, 49.43431	hagebudde	hagebudde	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+1040	KST g3	III_18_0062	Hüffenhardt, Hüffenhardt	9.08386, 49.2913	hagebutze	hagebutte, hagebutze	0	hagebutze	hagebutte, hagebutze	0	Hagebutte	Hagebutte	0
+1041	KST g4	III_18_0061	Siegelsbach, Siegelsbach	9.08942, 49.27263	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+1042	TUTT K3	III_36_0066	Bonndorf, Bonndorf	9.09477, 47.82968	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+1043	MH T10	II_60_0078	Obrigheim, Obrigheim	9.09608, 49.35186	hagebudde	hagebutte	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+1044	TUTT K11	III_36_0064, III_36_0063, III_36_0060, III_36_0062, III_36_0061	Sipplingen, Sipplingen	9.09665, 47.79525	haggabutza	hagebuze, haggabutza, hagebutze, hagabutza	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+1045	MH T5	II_60_0076	Reichenbuch, Reichenbuch	9.09708, 49.39371	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+1046	TUTT R5	na	Hegne	9.09929, 47.7097	hagebudde	na	999	hagebutte	na	999	Hagebutte	na	999
+1047	KST g1	III_18_0064	Hochhausen, Hochhausen	9.1008, 49.323	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+1048	TUTT v9	III_34_0049	Wasser, Wasser	9.10143, 47.9671	hagabutza	hagabütza	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+1049	TUTT 07	III_33_0049	Rohrdorf, Rohrdorf	9.10207, 48.01811	hagaͤbutzaͤ	hagabudda	4	hagebutze	hagebutte	1	Hagebutte	Hagebutte	0
+1050	KST o3	III_19_0057, III_19_0058	Bad Rappenau, Bad Rappenau	9.10212, 49.24032	hagebutze	hagebutze, hagerbudder	0	hagebutze	hagebutze, hagerbutter	0	Hagebutte	Hagebutte	0
+1051	KST v1	III_20_0066	Schluchtern, Schluchtern	9.1026, 49.14843	hagabutte	hagebutte	1	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+1052	TUTT 05	III_33_0045	Langenhart, Langenhart	9.10404, 48.04793	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+1053	MH T12	na	Neckarelz	9.10533, 49.34204	haagebudde	na	999	hagebutte	na	999	Hagebutte	na	999
+1054	TUTT v7	III_34_0059	Sauldorf, Sauldorf	9.10721, 47.94343	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+1055	MH T11	II_60_0079	Diedesheim, Diedesheim	9.11367, 49.34933	hagebutte, hagebutze	hagebutze	0	hagebutte, hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+1056	TUTT v10	III_34_0057, III_34_0058	Messkirch, Messkirch	9.11537, 47.99484	hagebutze	hagebutze, hagĕbutzĕ	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+1057	TUTT R1	III_37_0036	Dettingen, Dettingen	9.117, 47.73485	hagabutta	haggebutte	3	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+1058	TUTT K2	III_36_0065	Nesselwangen, Nesselwangen	9.11824, 47.81683	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+1059	TUTT v8	III_34_0060	Rast, Rast	9.12126, 47.93997	hagebutza	hagebutza	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+1060	KST g5	na	Zimmerhof	9.1218, 49.25206	hagebutze	na	999	hagebutze	na	999	Hagebutte	na	999
+1061	MH T14	na	Nüstenbach	9.12548, 49.37329	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+1062	TUTT C3	III_35_0061	Sentenhart, Sentenhart	9.12618, 47.91369	hagebutze	haggebutze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+1063	TUTT o6	III_33_0046	Engelswies, Engelswies	9.12846, 48.04259	hagebutze	hagebutzae	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+1064	TUTT K10	III_36_0151	Hödingen, Hödingen	9.13275, 47.78865	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+1065	KST g2	III_18_0065	Neckarzimmern, Neckarzimmern	9.1329, 49.31835	hachebutze	hachebutze	0	hachebutze	hachebutze	0	Hagebutte	Hagebutte	0
+1066	KST g13	na	Neckarmühlbach	9.13604, 49.28364	hagebutze	na	999	hagebutze	na	999	Hagebutte	na	999
+1067	TUTT K1	na	Billafingen	9.13657, 47.83337	hagäbutzä	na	999	hagebutze	na	999	Hagebutte	na	999
+1068	MH T15	II_60_0077	Lohrbach, Lohrbach	9.14183, 49.4	hahebutte	hagebutte	1	hachebutte	hagebutte	2	Hagebutte	Hagebutte	0
+1069	KST g12	III_18_0066	Hassmersheim, Hassmersheim	9.14257, 49.30049	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+1070	MH T13	II_60_0082, II_60_0081	Mosbach, Mosbach	9.14619, 49.35501	hagebutte	hachebudde, hachebutte	2	hagebutte	hachebutte	2	Hagebutte	Hagebutte	0
+1071	KST g14	III_18_0069	Heinsheim, Heinsheim	9.14778, 49.26416	hagebudde	hachebutte	4	hagebutte	hachebutte	2	Hagebutte	Hagebutte	0
+1072	MH L5	II_59_0108	Fahrenbach, Fahrenbach	9.14987, 49.43091	hagebutte	hagebudde	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+1073	TUTT R7	na	Dingelsdorf	9.15648, 47.7384	hagebudde	na	999	hagebutte	na	999	Hagebutte	na	999
+1074	TUTT o8	III_33_0051	Menningen, Menningen	9.15825, 48.01089	hågebutze	hagebutze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+1075	TUTT K9	III_36_0071	Überlingen, Überlingen	9.1592, 47.76732	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+1076	MH L7	II_59_0107	Robern, Robern	9.16265, 49.45394	haggebutte	hagebudde	3	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+1077	MH U1	II_60_0083	Neckarburken, Neckarburken	9.165, 49.37662	hāgebudde	hagebudde	1	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+1078	MH U10	na	Sattelbach	9.16732, 49.40849	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+1079	SIG k7, SIG k6	na	Großschönach (Herdwangen-Schönach), Herdwangen	9.16937, 47.86289	hagebutze	na	999	hagebutze	na	999	Hagebutte	na	999
+1080	SIG q1	na	Litzelstetten	9.17296, 47.71413	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+1081	SIG n1	na	Öwingen	9.17351, 47.80982	hagebutze	na	999	hagebutze	na	999	Hagebutte	na	999
+1082	MH M3	II_59_0109	Balsbach, Balsbach	9.17362, 49.47895	hachebudde	hachebudde	0	hachebutte	hachebutte	0	Hagebutte	Hagebutte	0
+1083	SIG t1	III_38_0131	Konstanz, Konstanz	9.17758, 47.66385	hageputze	hagebutte	2	hagebutze	hagebutte	1	Hagebutte	Hagebutte	0
+1084	MH M6	II_59_0110	Krumbach, Krumbach	9.18402, 49.45323	hachebutze	håchebudde	3	hachebutze	hachebutte	1	Hagebutte	Hagebutte	0
+1085	SIG n2	na	Andelshofen	9.1896, 47.78026	hāgåbūtzå	na	999	hagebutze	na	999	Hagebutte	na	999
+1086	SIG o7	na	Homberg	9.19109, 47.83714	hagebutze	na	999	hagebutze	na	999	Hagebutte	na	999
+1087	MH U2	II_60_0084	Dallau, Dallau	9.19192, 49.38655	hachebutze	hachebutze	0	hachebutze	hachebutze	0	Hagebutte	Hagebutte	0
+1088	SIG n16	III_36_0075	Nußdorf, Nußdorf	9.19513, 47.75277	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+1089	SIG k1	III_35_0076	Aach-Linz, Aach-Linz	9.20037, 47.91152	hagebutte	hagebutze	1	hagebutte	hagebutze	1	Hagebutte	Hagebutte	0
+1090	SIG d1	III_33_0055	Göggingen, Göggingen	9.20194, 48.00389	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+1091	MH M8	na	Muckental	9.20231, 49.42474	hachebutte	na	999	hachebutte	na	999	Hagebutte	na	999
+1092	MH D4	na	Mudau-Langenelz	9.20495, 49.51744	hachebudde	na	999	hachebutte	na	999	Hagebutte	na	999
+1093	SIG n3	III_36_0076	Hohenbodmann, Hohenbodmann	9.21042, 47.82312	haggebutze	haggebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+1094	MH M5	II_59_0117	Limbach, Limbach	9.21181, 49.46142	håchebutte	hachebude	3	hachebutte	hachebutte	0	Hagebutte	Hagebutte	0
+1095	MH M2	II_59_0119	Laudenberg, Laudenberg	9.21457, 49.48066	hagebudde	hagebutte	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+1096	SIG q7	III_36_0074	Deisendorf, Deisendorf	9.21621, 47.76835	hagebutze	hagebutte	1	hagebutze	hagebutte	1	Hagebutte	Hagebutte	0
+1097	MH U11	II_60_0088	Sulzbach, Sulzbach	9.22127, 49.35156	harrebutte	harrebutte	0	hachebutte	hachebutte	0	Hagebutte	Hagebutte	0
+1098	MH U9	II_60_0094	Auerbach, Auerbach	9.22666, 49.39927	hauerbutze	haggebudde	5	hawerbutte	hagebutte	2	Hagebutte	Hagebutte	0
+1099	SIG q2	III_37_0042	Unteruhldingen, Unteruhldingen	9.2334, 47.72271	hagebutta	hagebutta	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+1100	MH M4	II_59_0116	Scheringen, Scheringen	9.23513, 49.46663	hagebutte	hagebutze	1	hagebutte	hagebutze	1	Hagebutte	Hagebutte	0
+1101	MH M9	II_59_0114	Rittersbach, Rittersbach	9.23597, 49.42445	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+1102	SIG n8	III_36_0077	Lippertsreute, Lippertsreute	9.23743, 47.80427	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+1103	MH Y1	III_18_0073	Allfeld, Allfeld	9.24133, 49.32379	hachebutte	hachebutte	0	hachebutte	hachebutte	0	Hagebutte	Hagebutte	0
+1104	MH M1	II_59_0120	Einbach, Waldhausen/Einbach	9.24238, 49.48477	hachebudde	hachebutte	2	hachebutte	hachebutte	0	Hagebutte	Hagebutte	0
+1105	SIG k2	na	Aftholderberg	9.2431, 47.89832	hagebutze	na	999	hagebutze	na	999	Hagebutte	na	999
+1106	SIG q3	III_37_0041	Oberuhldingen, Oberuhldingen	9.24549, 47.73557	hāgebūtze	hagebutze	2	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+1107	MH M10	II_59_0115	Heidersbach, Heidersbach	9.2468, 49.45517	hachelbutze	hachebutze	1	hachelbutze	hachebutze	1	Hagebutte	Hagebutte	0
+1108	SIG n4	na	Altheim	9.25398, 47.82461	hagebutze	na	999	hagebutze	na	999	Hagebutte	na	999
+1109	MH U8	II_60_0089	Billigheim, Billigheim	9.25406, 49.34748	hachebutze	hagebutte	3	hachebutze	hagebutte	3	Hagebutte	Hagebutte	0
+1110	SIG g2/2, SIG g2/1	III_34_0063, III_34_0065	Pfullendorf, Pfullendorf	9.25466, 47.92614	hagebutza	hagebutze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+1111	MH M11	na	Waldhausen	9.25731, 49.46733	hagebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+1112	SIG g1	na	Zell am Andelsbach	9.25932, 47.96971	hagebutze	na	999	hagebutze	na	999	Hagebutte	na	999
+1113	MH Y3	III_18_0075	Herbolzheim, Herbolzheim	9.26007, 49.28376	hāchebutze	hachebutze	1	hachebutze	hachebutze	0	Hagebutte	Hagebutte	0
+1114	SIG n9	na	Rickenbach	9.26015, 47.7972	hagebutze	na	999	hagebutze	na	999	Hagebutte	na	999
+1115	SIG q11	na	Mühlhofen	9.26168, 47.73847	hagabuze	na	999	hagebutze	na	999	Hagebutte	na	999
+1116	MH U6	II_60_0087	Katzental, Katzental	9.26618, 49.37338	haggebudde	haggebudde	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+1117	SIG q8/2	na	Meersburg/Daisendorf	9.26779, 47.71169	hāgebuttå	na	999	hagebutte	na	999	Hagebutte	na	999
+1118	MH Y2	III_18_0074	Neudenau, Neudenau	9.27037, 49.2923	hachebudde	hachebudze	1	hachebutte	hachebutze	1	Hagebutte	Hagebutte	0
+1119	SIG n7	III_36_0078	Frickingen, Frickingen	9.27056, 47.81023	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+1120	MH U5	II_60_0086	Unterschefflenz, Unterschefflenz	9.27076, 49.39154	hauerbutze	hagebutze	2	hawerbutte	hagebutze	3	Hagebutte	Hagebutte	0
+1121	SIG q8/1	III_37_0047	Meersburg, Meersburg	9.27244, 47.69466	hagebutze	hagebutt	2	hagebutze	hagebutt	2	Hagebutte	Hagebutte	0
+1122	SIG k5	III_35_0075	Hattenweiler, Hattenweiler	9.27568, 47.85957	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+1123	MH U4	II_60_0085	Mittelschefflenz, Mittelschefflenz	9.27967, 49.40042	hawerbutze	hawerbutze	0	hawebutte	hawerbutze	2	Hagebutte	Hagebutte	0
+1124	MH U7	II_60_0090	Waldmühlbach, Waldmühlbach	9.28262, 49.36078	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+1125	SIG n13	III_36_0083, III_36_0085, III_36_0086	Mimmenausen, Mimmenausen	9.2852, 47.76025	hagebutze	hagebutte, hagebutze	0	hagebutze	hagebutte, hagebutze	0	Hagebutte	Hagebutte	0
+1126	SIG n12	III_36_0081	Salem, Salem	9.28599, 47.77663	hagebutze	hagebutza	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+1127	MH M14	na	Kleineicholzheim	9.28876, 49.42893	hagebudde	na	999	hagebutte	na	999	Hagebutte	na	999
+1128	MH M13	II_59_0122	Großeicholzheim, Großeicholzheim	9.28966, 49.44361	hachebutze	hachebutze	0	hachebutze	hachebutze	0	Hagebutte	Hagebutte	0
+1129	SIG n6	III_36_0079	Leustetten, Leustetten	9.29433, 47.80634	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+1130	SIG q5	III_37_0044	Grasbeuren, Grasbeuren	9.29766, 47.73029	hagebutze	hagebůtte	2	hagebutze	hagebutte	1	Hagebutte	Hagebutte	0
+1131	SIG q4	III_37_0043	Buggensegel, Buggensegel	9.29936, 47.74645	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+1132	MH Y4	III_18_0076	Stein am Kocher, Stein	9.29954, 49.26198	hachebudde	hachebudde	0	hachebutte	hachebutte	0	Hagebutte	Hagebutte	0
+1133	SIG q9	na	Stetten	9.2999, 47.69243	hagebutze	na	999	hagebutze	na	999	Hagebutte	na	999
+1134	SIG n11	III_36_0082	Weildorf, Weildorf	9.30037, 47.78969	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+1135	SIG k3	III_35_0071, III_35_0073, III_35_0072, III_35_0074	Denkingen, Denkingen	9.30821, 47.89505	hagabutze	hagebutze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+1136	SIG n14	na	Neufrach	9.31134, 47.75967	hagăbutză	na	999	hagebutze	na	999	Hagebutte	na	999
+1137	SIG n5	III_36_0072	Heiligenberg, Heiligenberg	9.31203, 47.81993	haggebudde	hagebutt	4	hagebutte	hagebutt	1	Hagebutte	Hagebutte	0
+1138	MH M12	na	Bödigheim	9.31522, 49.47408	hågebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+1139	SIG q10	III_37_0048	Hagnau, Hagnau	9.31963, 47.67634	hagebutte	hagebutten	1	hagebutte	hagebutten	1	Hagebutte	Hagebutte	0
+1140	SIG n10	III_36_0073	Beuren, Beuren	9.32135, 47.80541	haggebuddä	hagabutze	5	hagebutte	hagebutze	1	Hagebutte	Hagebutte	0
+1141	SIG q6	III_37_0045, III_37_0046	Ahausen, Ahausen	9.32247, 47.72502	hagebutz	hagbutz, hagebutze	1	hagebutz	hagebutze	1	Hagebutte	Hagebutte	0
+1142	SIG n15	III_36_0080	Röhrenbach, Röhrenbach	9.3248, 47.82972	haggebutze	hagebutze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+1143	SIG k4	na	Echbeck/Rickertsreute/Boshasel	9.32995, 47.85865	hagebutze	na	999	hagebutze	na	999	Hagebutte	na	999
+1144	MH N3	II_59_0123	Seckach, Seckach	9.33368, 49.44238	hachebutte	haachebudde	3	hachebutte	hachebutte	0	Hagebutte	Hagebutte	0
+1145	SIG r1	III_36_0092	Mittelstenweiler, Mittelstenweiler	9.33753, 47.75241	hagebutze	haggebutze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+1146	STU h1	III_24_0080	Stetten/Remstal, Stetten/Remstal	9.34045, 48.79285	hagabutza	hagabutza	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+1147	SIG r7	III_37_0051	Ittendorf, Ittendorf	9.34074, 47.70119	hagebutte	hagebudde, hagebutze	1	hagebutte	hagebutte, hagebutze	0	Hagebutte	Hagebutte	0
+1148	STU u1	III_26_0090	Nürtingen, Nürtingen	9.34192, 48.62663	hagabutz	hagabutza	1	hagebutz	hagebutze	1	Hagebutte	Hagebutte	0
+1149	SIG o1	III_36_0088	Betenbrunn, Betenbrunn	9.34649, 47.8185	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+1150	SIG r2	III_37_0050	Bermatingen, Bermatingen	9.34868, 47.73084	hagebutze, hagebutz	hagĕbutzĕ	2	hagebutze, hagebutz	hagebutze	0	Hagebutte	Hagebutte	0
+1151	SIG l1	na	Burgweiler	9.35318, 47.91762	hagebutze	na	999	hagebutze	na	999	Hagebutte	na	999
+1152	SIG o3	III_36_0098	Lellwangen, Lellwangen	9.36523, 47.79833	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+1153	MH N1	II_92_0002	Eberstadt, Eberstadt	9.3666, 49.47727	hachaboutta	hachabutze	3	hachebotte	hachebutze	2	Hagebutte	Hagebutte	0
+1154	SIG u1	III_38_0026	Immenstaad, Immenstaad	9.3675, 47.66625	hagebutzä	hagebutze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+1155	MH N2	II_92_0003	Schlierstadt, Schlierstadt	9.36816, 49.45257	håchelbutze	hoͣchebudde	5	hachelbutze	hachebutte	2	Hagebutte	Hagebutte	0
+1156	MH N4/1	II_92_0004	Zimmern, Zimmern	9.37304, 49.43313	hagebutte	hagebutte	0	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+1157	SIG l2	III_35_0080	Illmensee, Illmensee	9.37456, 47.86209	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+1158	MH Z1	na	Ruchsen	9.37887, 49.31914	hagebutze	na	999	hagebutze	na	999	Hagebutte	na	999
+1159	MH V2	II_93_0002	Sennfeld, Sennfeld	9.38438, 49.38045	hachebudze	hachebudde	1	hachebutze	hachebutte	1	Hagebutte	Hagebutte	0
+1160	SIG o2	III_36_0089	Deggenhausen, Deggenhausen	9.3844, 47.80143	hagebutze	hagebuzze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+1161	SIG r3	III_37_0054, III_37_0055, III_37_0053, III_37_0052	Markdorf, Markdorf	9.38933, 47.72088	hagebutz	hagebutte, hagäbuzä, hagebutze, hagenbutzen	1	hagebutz	hagebutte, hagebutze, hagenbutzen	1	Hagebutte	Hagebutte	0
+1162	MH V1	II_93_0003	Adlesheim, Adlesheim	9.39101, 49.40289	hachebudde	hachebudde	0	hachebutte	hachebutte	0	Hagebutte	Hagebutte	0
+1163	MH N8	II_92_0001	Götzingen, Götzingen	9.39465, 49.49693	hågebutte	hāchebutte	3	hagebutte	hachebutte	2	Hagebutte	Hagebutte	0
+1164	MH V5	II_93_0004	Korb, Korb	9.39732, 49.35594	hachebutze	hagebutze	2	hachebutze	hagebutze	2	Hagebutte	Hagebutte	0
+1165	SIG r5	III_37_0056	Kluftern, Kluftern	9.40004, 47.69278	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+1166	MH N10/1, MH N10/2	na	Hemsbach	9.40014, 49.42726	hachebutze	na	999	hachebutze	na	999	Hagebutte	na	999
+1167	SIG o5	III_36_0093	Roggenbeuren, Roggenbeuren	9.40565, 47.76961	hagebutze	hagebutze	0	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+1168	SIG r4	III_37_0057	Riedheim, Riedheim	9.41014, 47.70429	hagebutza	hagebutze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+1169	MH N11	II_92_0005	Bofsheim, Bofsheim	9.41226, 49.4714	hachebudde	hachelbudde	1	hachebutte	hachelbutte	1	Hagebutte	Hagebutte	0
+1170	MH V3	II_93_0005	Leibenstadt, Leibenstadt	9.42028, 49.36861	hachebutze	hachebutze	0	hachebutze	hachebutze	0	Hagebutte	Hagebutte	0
+1171	MH N5	II_92_0007, II_92_0006	Osterburken, Osterburken	9.42838, 49.4308	hachebutte	hachebutte  , hachebutten	0	hachebutte	hachebutte, hachebutten	0	Hagebutte	Hagebutte	0
+1172	SIG o4	III_36_0094	Limpach, Limpach	9.42902, 47.79495	hagebutze	hagebtze	1	hagebutze	hagebtze	1	Hagebutte	Hagebutte	0
+1173	SIG o6	III_36_0096	Urnau, Urnau	9.43083, 47.76354	hagebutze	haggebutze	1	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+1174	SIG r6	na	Hepbach	9.43103, 47.7193	hagebutze	na	999	hagebutze	na	999	Hagebutte	na	999
+1175	MH V4	II_93_0006	Unterkessach, Unterkessach	9.43829, 49.34571	hachebutze	hagebutze	2	hachebutze	hagebutze	2	Hagebutte	Hagebutte	0
+1176	MH E4	II_91_0003	Altheim, Altheim	9.4436, 49.51915	hachebutte	haachebutte	1	hachebutte	hachebutte	0	Hagebutte	Hagebutte	0
+1177	MH N7	II_92_0009	Sindolsheim, Sindolsheim	9.45384, 49.48715	hachebutte	hachebudde	2	hachebutte	hachebutte	0	Hagebutte	Hagebutte	0
+1178	MH N9	II_92_0008	Rosenberg, Rosenberg	9.4752, 49.45583	håchebudde	hachebudde	1	hachebutte	hachebutte	0	Hagebutte	Hagebutte	0
+1179	MH N6	II_92_0133	Bronnacker, Bronnacker	9.48305, 49.4446	hachebudde	hachebutze	2	hachebutte	hachebutze	1	Hagebutte	Hagebutte	0
+1180	STU u2	III_26_0084	Bissingen/Teck, Bissingen-Teck	9.49128, 48.60024	hagabutza	hagebutze	2	hagebutze	hagebutze	0	Hagebutte	Hagebutte	0
+1181	MH O2	na	Hirschlanden	9.50074, 49.47297	hachebutte	na	999	hachebutte	na	999	Hagebutte	na	999
+1182	MH W11	II_93_0010	Merchingen, Merchingen	9.50633, 49.4003	hachebutze	hachebutte	1	hachebutze	hachebutte	1	Hagebutte	Hagebutte	0
+1183	MH O1	II_92_0010	Hohenstadt, Hohenstadt	9.51685, 49.49168	hachebutte	hachebudde	2	hachebutte	hachebutte	0	Hagebutte	Hagebutte	0
+1184	MH p5	na	Külsheim	9.5236, 49.66947	hågebutte	na	999	hagebutte	na	999	Hagebutte	na	999
+1185	MH W2	na	Ballenberg	9.55086, 49.40093	hachebudde	na	999	hachebutte	na	999	Hagebutte	na	999
+1186	MH W3	II_93_0012	Erlenbach, Erlenbach	9.5514, 49.38553	haihebutze	hachebutte	2	hajebutze	hachebutte	3	Hagebutte	Hagebutte	0
+1187	MH g1	II_88_0024	Dertingen über Wertheim a.M., Dertingen	9.61957, 49.7665	håchabutta	ha͞ochăbuddă	7	hachebutte	hachebutte	0	Hagebutte	Hagebutte	0
+1188	STU XIII 1	na	(Bad) Schussenried	9.65803, 48.0041	hagåbutzå	na	999	hagebutze	na	999	Hagebutte	na	999
+1189	STU k1	III_24_0105	Wäschenbeuren, Wäschenbeuren	9.68695, 48.75984	hagabutta	hagêbuttê	2	hagebutte	hagebutte	0	Hagebutte	Hagebutte	0
+1190	MH y1	II_89_0036	Großrinderfeld, Grossrinderfeld	9.73405, 49.66558	haochebutze, haochebutte	hoachebutte	2	hachebutte, hachebutze	hachebutte	0	Hagebutte	Hagebutte	0
+1191	na	III_14_0005	Felleringen	6.98613, 47.89621	na	hagabudda	999	na	hagebutte	999	na	Hagebutte	999
+1192	na	III_14_0007	Mitzach	7.00519, 47.87122	na	hågebutta	999	na	hagebutte	999	na	Hagebutte	999
+1193	na	III_14_0008	Ranspach	7.01113, 47.88081	na	hagabudda	999	na	hagebutte	999	na	Hagebutte	999
+1194	na	III_14_0088	Oberburbach	7.02973, 47.7953	na	hågabutta	999	na	hagebutte	999	na	Hagebutte	999
+1195	na	III_14_0010	Malmerspach	7.03487, 47.86486	na	hogebutte	999	na	hachebutte	999	na	Hagebutte	999
+1196	na	III_14_0013	Geishausen	7.05832, 47.88017	na	hagabudda	999	na	hagebutte	999	na	Hagebutte	999
+1197	na	III_15_0004	Bretten	7.0716, 47.69963	na	hagabutta	999	na	hagebutte	999	na	Hagebutte	999
+1198	na	III_16_0003	St. Ulrich	7.11911, 47.59537	na	hågabudda	999	na	hagebutte	999	na	Hagebutte	999
+1199	na	III_14_0095	Alttann	7.12206, 47.80704	na	hågabutta	999	na	hagebutte	999	na	Hagebutte	999
+1200	na	III_14_0098	Oberaspach	7.13352, 47.77692	na	hagabutta	999	na	hagebutte	999	na	Hagebutte	999
+1201	na	III_15_0011	Gildweiler	7.13461, 47.6894	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1202	na	III_15_0013	Niederburnhaupt	7.16039, 47.71674	na	hagabudda	999	na	hagebutte	999	na	Hagebutte	999
+1203	na	III_13_0101	Murbach	7.1604, 47.92318	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1204	na	III_16_0010	Ballersdorf	7.1624, 47.625	na	haagabutta	999	na	hagebutte	999	na	Hagebutte	999
+1205	na	III_6_0017	Rexingen	7.17654, 48.90012	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1206	na	III_14_0017	Rimbach-Zell	7.17995, 47.8995	na	hågebutta	999	na	hagebutte	999	na	Hagebutte	999
+1207	na	III_5_0037	Dehlingen	7.19095, 48.98016	na	hahpütte	999	na	habutte	999	na	Hagebutte	999
+1208	na	III_15_0017	Galfingen	7.22481, 47.70563	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1209	na	III_15_0020	Reiningen	7.2319, 47.74911	na	hagabutta	999	na	hagebutte	999	na	Hagebutte	999
+1210	na	III_16_0034	Hirsingen	7.25483, 47.58601	na	hagabuta	999	na	hagebutte	999	na	Hagebutte	999
+1211	na	III_14_0024	Bollweiler	7.25961, 47.86006	na	hagebudde	999	na	hagebutte	999	na	Hagebutte	999
+1212	na	III_16_0026	Walheim	7.26432, 47.63975	na	hågebudda	999	na	hagebutte	999	na	Hagebutte	999
+1213	na	III_17_0006	Rüderbach	7.26824, 47.56144	na	hogabutta	999	na	hagebutte	999	na	Hagebutte	999
+1214	na	III_11_0001	Bassenberg	7.28546, 48.33566	na	heckebudde	999	na	hegebutte	999	na	Hagebutte	999
+1215	na	III_16_0035	Weiler	7.31925, 47.5857	na	hagabutta	999	na	hagebutte	999	na	Hagebutte	999
+1216	na	III_5_0052	Rosteig	7.33838, 48.9327	na	hågebüdde	999	na	hagebütte	999	na	Hagebutte	999
+1217	na	III_10_0012	Niederhaslach	7.34119, 48.54244	na	haibutte	999	na	hajbutte	999	na	Hagebutte	999
+1218	na	III_14_0121, III_14_0120, III_14_0111	Mülhausen	7.34375, 47.7517	na	hagebutta, hagabutta	999	na	hagebutte	999	na	Hagebutte	999
+1219	na	III_14_0125	Rülisheim	7.35868, 47.82216	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1220	na	III_15_0034	Brubach	7.35964, 47.70073	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1221	na	III_15_0033	Mülhausen-Riedisheim	7.36836, 47.74966	na	hãgabutta	999	na	hagebutte	999	na	Hagebutte	999
+1222	na	III_5_0057	Wingen	7.38129, 48.91753	na	hagebudde	999	na	hagebutte	999	na	Hagebutte	999
+1223	na	III_14_0128	Battenheim	7.38278, 47.81739	na	hågabudda	999	na	hagebutte	999	na	Hagebutte	999
+1224	na	III_16_0049	Uffheim	7.44285, 47.65062	na	hågabudda	999	na	hagebutte	999	na	Hagebutte	999
+1225	na	III_15_0043	Kleinlandau	7.52082, 47.73028	na	hagebutta	999	na	hagebutte	999	na	Hagebutte	999
+1226	na	III_15_0050	Kleinkembs	7.52279, 47.691	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1227	na	III_14_0041	Fessenheim	7.53712, 47.91578	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1228	na	III_12_0109	Balzenheim	7.55624, 48.09319	na	hooge̊budde̊	999	na	hagebutte	999	na	Hagebutte	999
+1229	na	III_15_0047	Bellingen	7.55728, 47.7319	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1230	na	III_16_0065, III_16_0064	Sankt Ludwig	7.56351, 47.58575	na	hagebutte, hagabudda	999	na	hagebutte	999	na	Hagebutte	999
+1231	na	III_15_0053	Wintersweiler	7.56756, 47.67374	na	hagebŭdda	999	na	hagebutte	999	na	Hagebutte	999
+1232	na	III_13_0041	Vogelgrün	7.57243, 48.0111	na	hagăbuddă	999	na	hagebutte	999	na	Hagebutte	999
+1233	na	III_16_0071	Märkt	7.58103, 47.627	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1234	na	III_11_0104	Wittisheim	7.58962, 48.26345	na	haiebutt	999	na	hajebutte	999	na	Hagebutte	999
+1235	na	III_16_0089, III_16_0090	Haltingen	7.61378, 47.61384	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1236	na	III_16_0075	Ötlingen	7.62133, 47.62261	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1237	na	III_16_0076	Schallbach	7.62759, 47.65706	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1238	na	III_14_0140	Feldberg	7.64081, 47.7737	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1239	na	III_14_0142	Obereggenen, Niedereggenen	7.64434, 47.75677	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1240	na	III_14_0143	Zunzingen	7.65195, 47.82164	na	hagebuttene	999	na	hagebuttene	999	na	Hagebutte	999
+1241	na	III_15_0056	Wollbach	7.65387, 47.67054	na	hagebuddene	999	na	hagebuttene	999	na	Hagebutte	999
+1242	na	III_14_0141	Lipburg	7.65665, 47.78685	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1243	na	III_14_0139	Dattingen	7.65681, 47.83383	na	hegebuddene	999	na	hegebuttene	999	na	Hagebutte	999
+1244	na	III_8_0073	Bilwisheim	7.65824, 48.70895	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1245	na	III_13_0127	Niederrimsingen	7.67114, 47.98702	na	hagebutteme	999	na	hagebutteme	999	na	Hagebutte	999
+1246	na	III_7_0080	Uhlweiler	7.67396, 48.82047	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1247	na	III_11_0118	Rust	7.72571, 48.26873	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1248	na	III_14_0146	Marzell über Kandern	7.72688, 47.77116	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1249	na	III_16_0099	Höllstein	7.74574, 47.63943	na	hagäbuttä	999	na	hagebutte	999	na	Hagebutte	999
+1250	na	III_13_0131	Wolfenweiler	7.76194, 47.96231	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1251	na	III_13_0055	Umkirch	7.7624, 48.03183	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1252	na	III_6_0077	Walburg	7.78939, 48.88652	na	hagebudde	999	na	hagebutte	999	na	Hagebutte	999
+1253	na	III_15_0067	Tegernau	7.79638, 47.72037	na	hagebudde	999	na	hagebutte	999	na	Hagebutte	999
+1254	na	III_11_0114	Orschweier	7.79862, 48.27835	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1255	na	III_12_0115	Teningen	7.80344, 48.12897	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1256	na	III_10_0147	Ichenheim	7.81161, 48.43161	na	hagebütte	999	na	hagebütte	999	na	Hagebutte	999
+1257	na	III_16_0110	Schopfheim	7.82315, 47.64973	na	hagebudde	999	na	hagebutte	999	na	Hagebutte	999
+1258	na	III_12_0042	Bleichheim	7.8306, 48.20842	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1259	na	III_15_0079, III_15_0080	Zell im Wiesental	7.85301, 47.70753	na	hagebudde	999	na	hagebutte	999	na	Hagebutte	999
+1260	na	III_10_0118	Niederschopfheim	7.891, 48.41717	na	hakebute	999	na	hagebutte	999	na	Hagebutte	999
+1261	na	III_12_0051	Ottoschwanden	7.89687, 48.18611	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1262	na	III_11_0050	Oberweier	7.89815, 48.37746	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1263	na	III_11_0051	Oberschopfheim	7.90095, 48.39821	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1264	na	III_10_0052	Legelshurst	7.91306, 48.56803	na	haubutte	999	na	hawbutte	999	na	Hagebutte	999
+1265	na	III_9_0083	Holzhausen	7.92018, 48.62595	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1266	na	III_5_0102	Hohweiler	7.92307, 48.91408	na	hagebutt	999	na	hagebutt	999	na	Hagebutte	999
+1267	na	III_11_0122	Reichenbach	7.9231, 48.33196	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1268	na	III_10_0060	Bohlsbach	7.94796, 48.49264	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1269	na	III_4_0094	Weißenburg	7.9521, 49.03733	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1270	na	III_12_0050	Schweighausen	7.96799, 48.22021	na	hagebutze	999	na	hagebutze	999	na	Hagebutte	999
+1271	na	III_4_0099	Altenstadt	7.96964, 49.03158	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1272	na	III_16_0123	Altenschwand	7.976, 47.63697	na	haagabudda	999	na	hagebutte	999	na	Hagebutte	999
+1273	na	III_10_0062	Ebersweier	7.98301, 48.50723	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1274	na	III_8_0094	Muckenschopf	7.98806, 48.69362	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1275	na	III_16_0113	Niedergebisbach	7.99251, 47.65054	na	hagebugge	999	na	hagebugge	999	na	Hagebutte	999
+1276	na	III_9_0086	Wagshurst	7.99491, 48.62035	na	hagäbuttä	999	na	hagebutte	999	na	Hagebutte	999
+1277	na	III_8_0096	Scherzheim	7.99655, 48.7137	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1278	na	III_7_0108	Auenheim	8.00818, 48.81256	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1279	na	III_16_0126	Segeten	8.02357, 47.65954	na	hagebudde	999	na	hagebutte	999	na	Hagebutte	999
+1280	na	III_12_0060	Oberbiederbach	8.02694, 48.2183	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1281	na	III_12_0147	Untersimonswald	8.04838, 48.10278	na	hagebuette	999	na	hagebuette	999	na	Hagebutte	999
+1282	na	III_9_0088, III_9_0087	Grossweier	8.0487, 48.65502	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1283	na	III_7_0114	Söllingen	8.05486, 48.78147	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1284	na	III_8_0103	Hildmannsfeld	8.05893, 48.73423	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1285	na	III_10_0136	Hesselbach	8.06498, 48.49863	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1286	na	III_11_0140	Haslach i. K.	8.08413, 48.28008	na	hagebudde	999	na	hagebutte	999	na	Hagebutte	999
+1287	na	III_9_0089	Sasbachried	8.08648, 48.65688	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1288	na	III_13_0077	Wildgutach	8.11606, 48.0323	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1289	na	III_8_0100	Steinbach	8.16038, 48.72843	na	hagebudde	999	na	hagebutte	999	na	Hagebutte	999
+1290	na	III_10_0138	Ibach	8.16274, 48.45618	na	hagebutti	999	na	hagebutte	999	na	Hagebutte	999
+1291	na	III_8_0101, III_8_0102	Eisental	8.16417, 48.71189	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1292	na	III_11_0146, III_11_0144, III_11_0145	Einbach, Einbach-Hauserbach	8.16759, 48.2974	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1293	na	III_11_0141	Hausach	8.17189, 48.28424	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1294	na	III_8_0111, III_8_0110	Neuweier	8.18377, 48.72012	na	hagebudde	999	na	hagebutte	999	na	Hagebutte	999
+1295	na	III_6_0097	Steinmauern	8.19956, 48.90045	na	hagabutta	999	na	hagebutte	999	na	Hagebutte	999
+1296	na	III_12_0152, III_12_0154	Nussbach	8.25836, 48.13097	na	hagebutze	999	na	hagebutze	999	na	Hagebutte	999
+1297	na	III_9_0104	Herrenwies	8.26593, 48.65907	na	hagebutt	999	na	hagebutt	999	na	Hagebutte	999
+1298	na	III_5_0137, III_5_0136, III_5_0138	Mörsch	8.28883, 48.96003	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1299	na	III_24_0001	Michelbach	8.35062, 48.8186	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1300	na	III_32_0001	Buchenberg	8.37655, 48.16035	na	hagebutze	999	na	hagebutze	999	na	Hagebutte	999
+1301	na	III_22_0001	Bulach	8.38244, 48.9868	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1302	na	III_21_0007	Hagsfeld	8.45514, 49.02773	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1303	na	II_59_0060, II_59_0057, II_59_0043, II_59_0048, II_59_0061, II_59_0052, II_59_0050, II_59_0042, II_59_0062, II_59_0047, II_59_0045, II_59_0055, II_59_0056, II_59_0038, II_59_0040, II_59_0039, II_59_0058	Mannheim	8.46678, 49.4865	na	hachebudde, hachebutt, hāchebudde, hagebutt, hachebutte, hagebutte, hagebütze, hagebutze, hagebudde	999	na	hachebutt, hagebutt, hachebutte, hagebutte, hagebütze, hagebutze	999	na	Hagebutte	999
+1304	na	III_18_0016	Waghäusel	8.51733, 49.25118	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1305	na	III_20_0162	Büchenau	8.52764, 49.10075	na	hagebudde	999	na	hagebutte	999	na	Hagebutte	999
+1306	na	II_59_0074	Rheinau	8.53056, 49.42924	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1307	na	III_20_0023, III_20_0021	Untergrombach	8.55318, 49.0861	na	hagebutze, hawerbutze	999	na	hagebutze, hawerbutze	999	na	Hagebutte	999
+1308	na	III_22_0017	Wilferdingen	8.57281, 48.9487	na	hagebutze	999	na	hagebutze	999	na	Hagebutte	999
+1309	na	II_60_0092	Oftersheim	8.58107, 49.36823	na	hagekitzl, hagebutze	999	na	hagekitzl, hagebutze	999	na	Hagebutte	999
+1310	na	III_20_0018, III_20_0019	Bruchsal	8.60102, 49.12377	na	hagebutze	999	na	hagebutze	999	na	Hagebutte	999
+1311	na	III_18_0019	Sankt Leon	8.6025, 49.26526	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1312	na	II_58_0067	Heddesheim	8.60327, 49.50529	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1313	na	III_18_0020	Walldorf	8.64294, 49.3028	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1314	na	II_58_0071	Lützelsachsen	8.66627, 49.52737	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1315	na	III_36_0042, III_36_0041	Hausen	8.67575, 47.91421	na	hagebutte, hagebutze	999	na	hagebutte, hagebutze	999	na	Hagebutte	999
+1316	na	III_21_0023	Diedelsheim	8.67848, 49.04109	na	hagebutze	999	na	hagebutze	999	na	Hagebutte	999
+1317	na	II_60_0048	Gauangelloch	8.75579, 49.34078	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1318	na	II_60_0050	Wiesenbach	8.80354, 49.36103	na	haarebuddä	999	na	hachebutte	999	na	Hagebutte	999
+1319	na	II_60_0053	Mückenloch	8.8554, 49.3886	na	hagebudde	999	na	hagebutte	999	na	Hagebutte	999
+1320	na	II_60_0057	Spechbach	8.88396, 49.34588	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1321	na	III_36_0046	Wiechs	8.90712, 47.81585	na	hagebutze	999	na	hagebutze	999	na	Hagebutte	999
+1322	na	III_33_0073	Unterkirnach	8.93786, 48.0371	na	hagebutze	999	na	hagebutze	999	na	Hagebutte	999
+1323	na	III_37_0028	Weiler	8.95347, 47.70847	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1324	na	III_37_0023	Radolfzell	8.97017, 47.74493	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1325	na	II_60_0064	Unterschwarzach	8.98202, 49.36856	na	hawerbutze	999	na	hawerbutze	999	na	Hagebutte	999
+1326	na	III_19_0050	Grombach	8.99507, 49.22687	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1327	na	II_60_0069	Neckarkatzenbach	9.03457, 49.38441	na	haarebudde	999	na	hachebutte	999	na	Hagebutte	999
+1328	na	III_19_0061	Babstadt	9.05798, 49.24212	na	hagebutze	999	na	hagebutze	999	na	Hagebutte	999
+1329	na	III_35_0055	Winterspüren	9.05857, 47.85618	na	hagebutze	999	na	hagebutze	999	na	Hagebutte	999
+1330	na	II_60_0073	Guttenbach	9.07142, 49.38983	na	hawebutze	999	na	hawebutze	999	na	Hagebutte	999
+1331	na	II_59_0103	Strümpfelbrunn	9.07574, 49.4645	na	hagebudde	999	na	hagebutte	999	na	Hagebutte	999
+1332	na	II_59_0104	Mülben	9.09946, 49.46414	na	hagebütze	999	na	hagebütze	999	na	Hagebutte	999
+1333	na	II_58_0104	Reisenbach	9.12415, 49.50336	na	hoachebudde	999	na	hachebutte	999	na	Hagebutte	999
+1334	na	II_59_0106	Wagenschwend	9.14637, 49.47256	na	ho͞agebudde	999	na	hagebutte	999	na	Hagebutte	999
+1335	na	III_35_0070, III_35_0066, III_35_0069, III_35_0068, III_35_0067	Herdwangen	9.16937, 47.8629	na	hagebutze, hagabutza, hagebutzen, hagabutze	999	na	hagebutze, hagebutzen	999	na	Hagebutte	999
+1336	na	III_35_0065	Aftholderberg	9.2431, 47.8983	na	hagebutze	999	na	hagebutze	999	na	Hagebutte	999
+1337	na	II_57_0143	Hornbach	9.29012, 49.591	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1338	na	III_35_0081	Echbeck	9.32995, 47.8587	na	hagebutze	999	na	hagebutze	999	na	Hagebutte	999
+1339	na	III_35_0079	Burgweiler	9.35318, 47.9176	na	hagebütze	999	na	hagebütze	999	na	Hagebutte	999
+1340	na	II_91_0001	Hettingen	9.36644, 49.5194	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1341	na	II_90_0002	Glashofen	9.36648, 49.62382	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1342	na	III_36_0091	Untersiggingen	9.37828, 47.77517	na	hagabutza	999	na	hagebutze	999	na	Hagebutte	999
+1343	na	II_89_0012	Sonderriet	9.43938, 49.71753	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1344	na	II_89_0007	Nassig	9.45146, 49.73582	na	hochebudde	999	na	hachebutte	999	na	Hagebutte	999
+1345	na	II_89_0013	Dörlesberg	9.501, 49.71273	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1346	na	II_93_0009	Hüngheim	9.51823, 49.41257	na	hachebutte	999	na	hachebutte	999	na	Hagebutte	999
+1347	na	II_92_0021, II_92_0020, II_92_0019	Schwabhausen	9.60196, 49.45569	na	hachebudde, hagebutte	999	na	hagebutte, hachebutte	999	na	Hagebutte	999
+1348	na	II_92_0015, II_92_0017, II_92_0018	Windischbuch	9.62194, 49.43593	na	hachebudde, hachebutte, haachebudde	999	na	hachebutte	999	na	Hagebutte	999
+1349	na	II_92_0026	Boxberg	9.64298, 49.48181	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1350	na	II_93_0021	Horrenbach	9.66028, 49.40826	na	hachebutte	999	na	hachebutte	999	na	Hagebutte	999
+1351	na	II_93_0023	Klepsau	9.67156, 49.38805	na	hagebutte	999	na	hagebutte	999	na	Hagebutte	999
+1352	na	II_89_0037	Steinbach	9.72212, 49.71075	na	hãgäbuttä	999	na	hagebutte	999	na	Hagebutte	999

@@ -1,0 +1,872 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Hag D 2	III_5_0022	Altweiler (Altwiller), Altweiler	6.98122, 48.93023	grumbēre	grumbiere	2	grumbere	grumbire	1	Grundbirne	Grundbirne	0
+1	Hag D 1	na	Hinsingen	6.99156, 48.9525	krumbier	na	999	grumbire	na	999	Grundbirne	na	999
+2	Hag E 10	na	Bissert	7.02465, 48.94167	krumber	na	999	grumbere	na	999	Grundbirne	na	999
+3	Co x 5	III_14_0009	St. Amarin, St. Amarin	7.03186, 47.87365	grundbirne	grumbera	5	grundbirne	grumbere	4	Grundbirne	Grundbirne	0
+4	Hag E 9	III_5_0027	Harskirchen, Harskirchen	7.0389, 48.93409	grummber	grumbeer	2	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+5	Hag E 7	III_5_0024	Keskastel, Keskastel	7.04339, 48.96955	grumbire	grumbier	2	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+6	Hag M 12	III_6_0005	Diedendorf, Diedendorf	7.04974, 48.87869	grumbeere	grumbeer	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+7	Hag E 8	III_5_0026	Schopperten, Schopperten	7.05316, 48.94524	grumbeer	grundbirne, grumbeere	1	grumbere	grumbere, grundbirne	0	Grundbirne	Grundbirne	0
+8	Hag T 2	III_7_0006	Kirberg (Kirrberg), Kirberg	7.06204, 48.8233	grumbier	grumbirr	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+9	Hag M 2	III_6_0002	Pisdorf (Bischtroff-sur-Sarre), Pisdorf	7.06995, 48.9005	grumbier	krummbire	4	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+10	Hag M 11/1, Hag M 11/2	III_6_0003	Wolfskirchen, Wolfskirchen	7.07612, 48.87884	krummbeer, grumbeer	grumbeer	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+11	Hag M 1	III_5_0034	Zollingen, Zollingen	7.07636, 48.91048	grůmbeer	grummberre	4	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+12	Hag T 4	III_7_0013	Goerlingen, Görlingen	7.08247, 48.79646	grumbier	grumbiere	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+13	Hag x 2	III_4_0053	Herbitzheim, Herbitzheim	7.08355, 49.01459	grumbeere	grumbier	2	grumbere	grumbire	1	Grundbirne	Grundbirne	0
+14	Hag E 5	III_5_0033	Saarwerden (Sarrewerden), Saarwerden	7.08411, 48.9218	grumbēre	grumbär	2	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+15	Hag M 10	III_6_0012	Bärendorf (Baerendorf), Bärendorf	7.08463, 48.83742	krummbir	krumbier	2	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+16	Hag E 6/2, Hag E 6/1	III_5_0028, III_5_0029	Saarbuckenheim (Sarre-Union), Saarbuckenheim	7.08686, 48.93919	grůmbiͤr, grumbeer	grumbier, grumbeer	0	grumbere, grumbire	grumbere, grumbire	0	Grundbirne	Grundbirne	0
+17	Hag x 1	III_4_0044	Silzheim (Siltzheim), Silzheim	7.09071, 49.0616	grumbiere	grumbeern	2	grumbire	grumberne	2	Grundbirne	Grundbirne	0
+18	Hag T 3	III_7_0008	Rauweiler, Rauweiler	7.10907, 48.81139	grummbeere	grumbeere	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+19	Hag M 3	III_6_0004	Burbach, Burbach	7.11226, 48.90144	grumbeer	grummbeer	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+20	Hag T 1	III_6_0011	Hirschland, Hirschland	7.11324, 48.83701	grumbeere	grumbeere	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+21	Hag M 8	III_6_0007	Eschweiler (Eschwiller), Eschweiler	7.11652, 48.8596	grumbiere	grummbiere	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+22	Hag E 4	III_5_0032	Rimsdorf, Rimsdorf	7.12568, 48.92923	krummbier	grumber	3	grumbire	grumbere	1	Grundbirne	Grundbirne	0
+23	Hag E 1	III_4_0050	Örmingen (Oermingen), Örmingen	7.12881, 49.00062	grumbeͥr	grumbeeͥr	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+24	Hag M 7	III_6_0016	Eyweiler (Eywiller), Eyweiler	7.13172, 48.8709	grummbeer	grumbeere	2	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+25	Hag E 2	III_5_0030	Völlerdingen (Voellerdingen), Völlerdingen	7.14098, 48.9622	grůmbeer	grumberre	3	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+26	Hag M 4	na	Tal bei Drulingen (Thal-Drulingen)	7.1452, 48.90983	grumbeer	na	999	grumbere	na	999	Grundbirne	na	999
+27	Hag E 3	III_5_0031	Domfessel, Domfessel	7.15171, 48.95143	grumbeer	grumbea	2	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+28	Hag M 5	III_6_0008	Berg, Berg	7.1532, 48.89487	grumbir	groummbeer	4	grumbire	grumbere	1	Grundbirne	Grundbirne	0
+29	Hag M 6	III_6_0009	Güngweiler (Gungwiller), Gu[e]ngweiler	7.15771, 48.88171	grumbär	grůmbeer	3	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+30	Hag M 9	III_6_0010	Weyer, Weyer	7.15976, 48.85488	grummbire	grumbire	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+31	Hag F 6	III_5_0041	Mackweiler (Mackwiller), Mackweiler	7.17502, 48.9258	krumbier	grumbiere	2	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+32	Hag F 4	III_5_0039	Lorenzen (Lorentzen), Lorenzen	7.1752, 48.95249	grumbir	krumbiere	3	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+33	Hag N 17	III_6_0017	Berg, Rexingen, Rexingen	7.17654, 48.90012	grumbeer	grumbir	2	grumbere	grumbire	1	Grundbirne	Grundbirne	0
+34	Hag N 11	III_6_0025	Bettweiler (Bettwiller), Bettweiler	7.17993, 48.88617	grumberĕ	grumbiere	2	grumbere	grumbire	1	Grundbirne	Grundbirne	0
+35	Hag F 5	III_5_0040	Diemeringen, Diemeringen	7.18685, 48.94061	grumbeer	krumbeer	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+36	Hag N 13	III_6_0026	Drulingen, Drulingen	7.18979, 48.8662	grombeer	grombeere	1	grombere	grombere	0	Grundbirne	Grundbirne	0
+37	Hag F 1	III_5_0037	Dehlingen, Dehlingen	7.19095, 48.98016	grumbier	grumbiere	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+38	Hag N 10	III_6_0024	Dürstel (Durstel), Durstel	7.19745, 48.89156	grumbeere	krumbere	2	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+39	Hag N 9	III_6_0018	Adamsweiler (Adamswiller), Adamsweiler	7.20348, 48.90463	grumbēre	krumbeere	3	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+40	Hag N 16	III_6_0028	Sieweiler (Siewiller), Sieweiler	7.20676, 48.84318	krummbirä	krummbiere	2	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+41	Hag F 7	III_5_0050	Waldhambach, Waldhambach	7.21529, 48.92578	grummbir	grumbia	2	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+42	Hag N 12	III_6_0023	Aßweiler (Asswiller), Assweiler	7.2198, 48.88035	grumbirr	grumbier	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+43	Hag F 2	III_5_0042	Bütten (Butten), Bütten	7.2205, 48.97095	grumbeer	grumbire	3	grumbere	grumbire	1	Grundbirne	Grundbirne	0
+44	Hag N 14	III_6_0030, III_6_0029	Ottweiler (Ottwiller), Ottweiler	7.23096, 48.86516	grumbeer	grumbeer	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+45	Hag U 4	na	Büst (Bust)	7.2357, 48.82915	krumbeerä	na	999	grumbere	na	999	Grundbirne	na	999
+46	Hag F 3	III_5_0044	Ratzweiler (Ratzwiller), Ratzweiler	7.23978, 48.95501	grumberr	grumbire	2	grumbere	grumbire	1	Grundbirne	Grundbirne	0
+47	Hag N 15	III_6_0031	Lohr, Lohr	7.24351, 48.85748	grumbeer	grumbeere	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+48	Hag N 5	III_6_0019	Tieffenbach, Tieffenbach	7.24987, 48.90483	grumbeer	grumbeere	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+49	Hag N 4	III_5_0048	Weislingen, Weislingen	7.25159, 48.91879	grumbeere	grumbeer	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+50	Hag N 6	III_6_0022	Strut (Struth), Strut	7.25475, 48.89009	grumbire	krombēr	4	grumbire	grombere	2	Grundbirne	Grundbirne	0
+51	Hag U 5	III_7_0032	Pfalzweier (-weyer), Pfalzweier	7.25813, 48.80543	grummbeer	grumbeere	2	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+52	Stra G 3	na	Meisengott (Maisonsgoutte)	7.26349, 48.3533	grumbeere	na	999	grumbere	na	999	Grundbirne	na	999
+53	Hag U 3	III_6_0033	Schönburg (Schoenbourg), Schönburg	7.26823, 48.83392	krumbeere	grumbeere	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+54	Hag N 7	III_6_0035	Petersbach, Petersbach	7.26874, 48.86912	grumbere	grummbier	3	grumbere	grumbire	1	Grundbirne	Grundbirne	0
+55	Hag N 3	III_6_0020	Frohmühl (Frohmuhl), Frohmühl	7.28007, 48.90754	krumbiere	grumbeer	3	grumbire	grumbere	1	Grundbirne	Grundbirne	0
+56	Hag U 2	III_7_0034	Graufthal, Grauftal	7.28092, 48.81935	krumbire	grumbiere	2	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+57	Hag N 2	III_6_0021	Hinsburg (Hinsbourg), Hinsburg	7.28852, 48.90706	grumbier	grumbeer	1	grumbire	grumbere	1	Grundbirne	Grundbirne	0
+58	Hag U 1	III_7_0033	Etschburg (Eschbourg), Eschburg	7.29591, 48.81267	grumbire	grumbire	0	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+59	Stra l 3	na	Engental	7.30153, 48.63467	grumbäre	na	999	grumbere	na	999	Grundbirne	na	999
+60	Co U 3	na	Obermorschweiler (Obermorschwiller)	7.31001, 47.64239	krumbere	na	999	grumbere	na	999	Grundbirne	na	999
+61	Hag N 1	III_5_0049	Puberg, Puberg	7.31461, 48.91322	grumbeer	grummbeer	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+62	Hag N 8	III_6_0032	Lützelstein (La Petite-Pierre), Lützelstein	7.32076, 48.85864	grumbiere	grummbier	2	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+63	Stra z 1/2	na	Grendelbruch	7.32375, 48.49241	grumbere	na	999	grumbere	na	999	Grundbirne	na	999
+64	Hag G 1	III_5_0052	Rosteig, Rosteig	7.33838, 48.9327	grumbeer	krombeere	3	grumbere	grombere	1	Grundbirne	Grundbirne	0
+65	Stra e 21	na	Hägen	7.33939, 48.71422	grumbere	na	999	grumbere	na	999	Grundbirne	na	999
+66	Stra t 14	na	Niederhaslach	7.34119, 48.54244	grumbeer	na	999	grumbere	na	999	Grundbirne	na	999
+67	Stra m 1	na	Birkenwald	7.34505, 48.65874	grumbēr	na	999	grumbere	na	999	Grundbirne	na	999
+68	Hag O 3	III_6_0036	Zittersheim, Zittersheim	7.34551, 48.89955	grummbeere	grumbier	3	grumbere	grumbire	1	Grundbirne	Grundbirne	0
+69	Stra e 1	III_7_0047	Otterstal, Ottersthal	7.34837, 48.75567	grůmbeere	grombeere	1	grumbere	grombere	1	Grundbirne	Grundbirne	0
+70	Hag V 10	III_7_0044	Eckartsweiler, Eckartsweiler	7.357, 48.76744	grummbeer	grumbeer	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+71	Hag O 4	III_6_0037	Erkartsweiler (Erckartswiller), Erkartsweiler	7.3596, 48.87532	krumbere	grūmbeere	3	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+72	Hag V 9	III_7_0045, III_7_0046	St. Johann (Saint-Jean-Saverne), St. Johann	7.36064, 48.76931	grumbeere	grumbeer, grumbeere	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+73	Co l 1/5	na	Kolmar	7.36359, 48.08198	grumbeere	na	999	grumbere	na	999	Grundbirne	na	999
+74	Stra e 2/3, Stra e 2/2, Stra e 2/1	III_8_0029, III_8_0030	Zabern, Zabern	7.36605, 48.73948	grumber, grumbeer	grundbirne, grumbeere	1	grumbere	grumbere, grundbirne	0	Grundbirne	Grundbirne	0
+75	Stra e 3	na	Ottersweiler (Otterswiller)	7.37883, 48.7258	grumbäre	na	999	grumbere	na	999	Grundbirne	na	999
+76	Hag V 8	III_7_0042	Ernolsheim (Ernoldsheim-Lès-Saverne), Ernolsheim	7.38025, 48.78942	grumbeer	grumbeer	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+77	Hag G 2	III_5_0057	Wingen (Wingen-Sur-Moder), Wingen	7.38129, 48.91753	grumbir	grumbeer	2	grumbire	grumbere	1	Grundbirne	Grundbirne	0
+78	Co l 3	na	Heiligkreuz (Sainte-Croix-en-Plaine)	7.3831, 48.00666	grumbe̍ra	na	999	grumbere	na	999	Grundbirne	na	999
+79	Hag V 6	III_7_0043	Dossenheim (Dossenheim-Sur-Zinsel), Dossenheim	7.40138, 48.80593	grumbeͥr	grummbeer	2	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+80	Hag V 5	III_7_0040	Neuweiler (Neuwiller-Lès-Saverne), Neuweiler	7.4034, 48.82391	grumbeer	grumbeer	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+81	Stra e 18	III_8_0046	Reutenburg, Reutenburg	7.4064, 48.68515	grumbära	krumbeera	3	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+82	Stra m 8	III_9_0010	Romansweiler, Romansweiler	7.40829, 48.64445	grumber	krumbeere	3	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+83	Stra e 4	III_8_0037	Schweinheim (Schwenheim), Schweinheim	7.4132, 48.71301	grumbär	grumbär	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+84	Hag V 11	III_7_0049	Steinburg (Steinbourg), Steinburg	7.41332, 48.7697	grumbeere	grumbere	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+85	Hag O 12	III_6_0040	Weitersweiler (Weiterswiller), Weitersweiler	7.41341, 48.85298	grumbeer, grumbeere	grombeer	1	grumbere	grombere	1	Grundbirne	Grundbirne	0
+86	Stra m 4	III_8_0047	Jettersweiler, Jettersweiler	7.41482, 48.67034	grumbäre	grumbäre	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+87	Hag O 5	III_6_0039	Sparsbach, Sparsbach	7.41533, 48.87754	grumbēre	grumbeere	2	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+88	Hag O 2	III_6_0038	Wimmenau, Wimmenau	7.41957, 48.91035	grumbiere	grumbier	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+89	Hag V 7	III_7_0050	Hattmatt, Hattmatt	7.42386, 48.79158	grumbeer	grumbeer	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+90	Stra m 5	III_9_0011	Krastatt, Krastatt	7.4265, 48.65831	grumbeere	grummbeere	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+91	Stra A 6/1	na	Ottrott	7.43298, 48.46056	grombeer	na	999	grombere	na	999	Grundbirne	na	999
+92	Stra e 22	III_8_0032	Waldolwisheim, Waldolwisheim	7.43629, 48.73254	grumbēre	grumbeere	2	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+93	Hag V 4	na	Griesbach Le Bastberg	7.43717, 48.81355	krummbeer	na	999	grumbere	na	999	Grundbirne	na	999
+94	Stra t 1	III_10_0005	Balbronn, Balbronn	7.43736, 48.58406	grummbeer	grumbeer	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+95	Stra e 5	III_8_0036	Furchhausen, Furchhausen	7.43921, 48.71868	grommbeer	grommbeer	0	grombere	grombere	0	Grundbirne	Grundbirne	0
+96	Hag O 6	III_6_0047, III_6_0046	Weinburg (Weinbourg), Weinburg	7.44029, 48.87157	grůmmbeer	grumbier, grumbeer	2	grumbere	grumbere, grumbire	0	Grundbirne	Grundbirne	0
+97	Stra e 12	na	Kleingöft	7.44376, 48.69162	grumbeer	na	999	grumbere	na	999	Grundbirne	na	999
+98	Stra m 9/1	na	Wasselnheim (Wasselonne)	7.44724, 48.63718	grundbeer	na	999	grumbere	na	999	Grundbirne	na	999
+99	Stra e 12,13	III_8_0051	Westhausen (Westhouse-Marmoutier), Westhausen	7.44963, 48.68592	grůmber	krummbeere	5	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+100	Hag O 11	III_6_0041	Obersulzbach (Obersoultzbach), Obersulzbach	7.45013, 48.85174	grůmbeer	grŭmbeer	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+101	Hag V 12	III_7_0053	Rosenweiler-Dettweiler, Rosenweiler-Dettweiler	7.45083, 48.76772	grumbeere	grumbeere	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+102	Stra e 20	III_8_0048	Zehnacker, Zehnacker	7.45086, 48.67123	grumbeere	grumbeere	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+103	Stra e 10	III_8_0053	Wolschheim, Wolschheim	7.45106, 48.70358	krumbär	grumbär	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+104	Stra H 2/2, Stra H 2/1	na	Barr	7.45244, 48.40651	grumbeere	na	999	grumbere	na	999	Grundbirne	na	999
+105	Hag V 3	III_7_0051	Imbsheim, Imbsheim	7.45399, 48.80165	grombeer	grumbeer	1	grombere	grumbere	1	Grundbirne	Grundbirne	0
+106	Stra e 14	III_8_0050	Knörsheim, Knörrsheim	7.46052, 48.68079	krumbäre	gromber	4	grumbere	grombere	1	Grundbirne	Grundbirne	0
+107	Stra e 9	III_8_0054	Männolsheim, Männolsheim	7.46258, 48.69969	grumbär	grumbeer	2	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+108	Hag G 3	III_5_0058	Reipertsweiler (Reipertswiller), Reipertsweiler	7.46373, 48.93214	grumbeer	krumbeer	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+109	Stra e 6	III_8_0035	Altenheim, Altenheim	7.46448, 48.71956	grumbeer	grumbeer	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+110	Hag O 10	III_6_0042	Niedersulzbach (Niedersoultzbach), Niedersulzbach	7.4662, 48.84923	grumbär	grumbär	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+111	Hag V 13	III_7_0055	Dettweiler, Dettweiler	7.46685, 48.75406	grumbēr	grumbeer	2	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+112	Stra m 7	III_9_0017	Hohengöft, Hohengött	7.47311, 48.66189	grumbǟre	grombäre	2	grumbere	grombere	1	Grundbirne	Grundbirne	0
+113	Stra t 13	na	Irmstett	7.47751, 48.58828	krõmbĕr	na	999	grombere	na	999	Grundbirne	na	999
+114	Hag V 1/2, Hag V 1/1	III_7_0041	Buchsweiler (Bouxwiller), Buchsweiler	7.47851, 48.82528	grumbeer	grumbeer	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+115	Stra m 6	III_9_0016	Rangen, Rangen	7.47865, 48.66636	grumbeere	krummbäre	4	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+116	Hag V 15	III_7_0054	Gottesheim-Prinzheim, Prinzheim	7.47921, 48.79113	grumbeer	grumbeere	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+117	Hag V 14	III_7_0056	Gottesheim, Gottesheim	7.47938, 48.77591	grumbeer	grumbeere	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+118	Hag V 2	III_7_0052	Riedheim, Riedheim	7.47956, 48.81064	grumbeer	grumbeere	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+119	Hag O 7	III_6_0045	Ingweiler (Ingwiller), Ingweiler	7.48031, 48.87322	grumber	grumbiere	2	grumbere	grumbire	1	Grundbirne	Grundbirne	0
+120	Hag O 1	III_5_0059	Lichtenberg, Lichtenberg	7.48181, 48.9216	grumbiar	grummbir	2	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+121	Stra e 7/2, Stra e 7/1	III_8_0033	Lupstein, Lupstein	7.48491, 48.73763	grumbiere, grumbäre	grundbeere	3	grumbere, grumbire	grundbere	2	Grundbirne	Grundbirne	0
+122	Stra t 8	na	Dorlisheim	7.48538, 48.52471	grůmbär	na	999	grumbere	na	999	Grundbirne	na	999
+123	Stra e 8	III_8_0055	Friedolsheim, Friedolsheim	7.48538, 48.70717	grumbēr	grummbeere	4	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+124	Hag O 9	III_6_0043	Uttweiler (Uttwiller), Uttweiler	7.48667, 48.84591	grumbeer	grumbeer	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+125	Stra m 13	na	Odratzheim	7.48778, 48.60108	grumbeer	na	999	grumbere	na	999	Grundbirne	na	999
+126	Stra t 7	III_10_0019	Molsheim, Molsheim	7.49067, 48.54038	grumber	grumber	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+127	Hag O 8	III_6_0044	Menchhofen (Menchhoffen), Menchhofen	7.49498, 48.85955	grumbäre	krumbeer	4	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+128	Stra e 15	III_8_0038	Landersheim, Landersheim	7.49655, 48.69022	grumbeere	grommbäre	4	grumbere	grombere	1	Grundbirne	Grundbirne	0
+129	Co d 9	na	Elsenheim	7.50131, 48.16133	grummbeere	na	999	grumbere	na	999	Grundbirne	na	999
+130	Stra f 20	III_8_0056	Wilwisheim, Wilwisheim	7.5074, 48.74799	grumbeere	grumbeere	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+131	Hag W 13	III_7_0057	Bosselshausen, Bosselshausen	7.50884, 48.80522	grumbēre	groͧmbeer, groͧmbeere	4	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+132	Stra n 11	III_9_0038	Nordheim, Nordheim	7.51005, 48.63544	krumbēre	krumbiere	2	grumbere	grumbire	1	Grundbirne	Grundbirne	0
+133	Stra f 19	III_8_0061	Willgottheim, Willgottheim	7.51166, 48.67082	grumbere	grumbeere	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+134	Stra n 1	III_9_0037	Winzenheim (Wintzenheim-Kochersberg), Winzenheim	7.51469, 48.65916	grumbēr	grumbeer	2	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+135	Stra f 15	III_8_0059, III_8_0058	Sässolsheim, Sässolsheim	7.51503, 48.70869	grumbeere	krumbeere, grumbeer	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+136	Hag W 16/2, Hag W 16/1	III_7_0077	Melsheim, Melsheim	7.51974, 48.75911	grumbeer, grumbeere	grumbeere	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+137	Stra f 21	III_8_0057	Ingenheim, Ingenheim	7.52092, 48.7349	grumbeere	grumbeere	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+138	Co P19	III_15_0050	Kleinkems, Kleinkembs	7.52279, 47.691	grumbiere	grumbiere	0	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+139	Hag P 17	III_6_0052	Schillersdorf, Schillersdorf	7.52526, 48.87312	grumbeer	grumbiere	2	grumbere	grumbire	1	Grundbirne	Grundbirne	0
+140	Hag W 12/1, Hag W 12/2	III_7_0135	Zöbersdorf, Zöbersdorf	7.52538, 48.79381	grumbēr, grumbeer	grumbeer	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+141	Stra n 10	III_9_0024	Küttolsheim, Küttolsheim	7.52543, 48.64343	gråmbeer	groumber	3	grombere	grumbere	1	Grundbirne	Grundbirne	0
+142	Hag P 3	III_6_0048	Rotbach, Rotbach	7.52883, 48.90568	grumbier	grumbier	0	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+143	Hag W 6	III_7_0058	Kirrweiler, Kirweiler	7.53026, 48.81331	grumbeͥer	grumbeer	1	grumbire	grumbere	1	Grundbirne	Grundbirne	0
+144	Hag W 14	III_7_0066	Wickersheim, Wickersheim	7.53159, 48.78313	grumbeer	grumbeer	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+145	Stra f 14	III_8_0060	Dunzenheim, Dunzenheim	7.53538, 48.71278	grumbeere	grumbeere	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+146	Stra n 12	na	Fessenheim (Fessenheim-le-Bas)	7.5391, 48.63315	groͣmbeer	na	999	grombere	na	999	Grundbirne	na	999
+147	Hag P 18	III_6_0060	Obermodern, Obermodern	7.53932, 48.84466	grumbeer	grumbeere	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+148	Hag P 4	III_6_0049	Bischholz, Bischholz	7.53995, 48.89301	grumbeer	krumbeer	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+149	Co P12	III_15_0051	Blansingen, Blansingen	7.54141, 47.69158	grumbiere	grůmbiere	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+150	Hag P 2	III_6_0059	Offweiler, Offweiler	7.54296, 48.91021	grumbēr	grumbäre	2	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+151	Stra n 4	na	Neugartheim und Ittlenheim	7.54562, 48.6548	grumbere	na	999	grumbere	na	999	Grundbirne	na	999
+152	Stra n 2	na	Ittlenheim	7.54562, 48.65481	krumbeere	na	999	grumbere	na	999	Grundbirne	na	999
+153	Hag W 11	III_7_0065, III_7_0064	Lixhausen, Lixhausen	7.5473, 48.79426	grumbiere	grumbiere, grumbier	0	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+154	Stra f 17	III_8_0062	Rohr, Rohr	7.54735, 48.69609	grumbär	grumbär	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+155	Hag P 16	III_6_0062, III_6_0061	Zutzendorf, Zutzendorf	7.54972, 48.85428	grumbeer	grumbeer	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+156	Hag P 5	III_6_0053	Mühlhausen, Mühlhausen	7.5527, 48.88226	grumbeer	grumbeer	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+157	Hag W 7	III_7_0063	Ringendorf, Ringendorf	7.55409, 48.80777	grumbeer	grumbeer	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+158	Stra u 2/1	na	Osthofen	7.55672, 48.58641	grumbeere	na	999	grumbere	na	999	Grundbirne	na	999
+159	Hag W 4	III_7_0059	Büsweiler (Buswiller), Büsweiler	7.55923, 48.82025	grumbeer	grůmbeer	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+160	Hag W 5	III_6_0065	Schalkendorf, Schalkendorf	7.55965, 48.83213	grumbeere	grummbeere	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+161	Hag W 15	III_7_0068	Bossendorf, Bossendorf	7.55983, 48.78146	grumbeer	grůmbeer	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+162	Stra f 2	III_8_0078	Schaffhausen bei Hochfelden (schaffhouse-sur-Zorn), Schaffhausen	7.56211, 48.7324	grummbeeere	krombär	7	grumbere	grombere	1	Grundbirne	Grundbirne	0
+163	Co P13	na	Welmlingen	7.56233, 47.68899	grumbire	na	999	grumbire	na	999	Grundbirne	na	999
+164	Co W 2, Co W 3	III_16_0068, III_16_0069	Efringen (Efringen-Kirchen), Kirchen (Efringen-Kirchen), Kirchen, Efringen	7.56471, 47.64989	grumbier, grumbire	krummbiere, grumbiire	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+165	Stra f 16	III_8_0065	Gugenheim, Gugenheim	7.56591, 48.70185	grumbär	grumbeer	2	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+166	Co P17	III_15_0053	Wintersweiler, Wintersweiler	7.56756, 47.67374	grumbire	krŭmbire	2	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+167	Stra f 22	III_9_0041	Schnersheim, Schnersheim	7.568, 48.65809	grumbēre	grummbeere	3	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+168	Hag W 17	III_7_0079	Hochfelden, Hochfelden	7.57004, 48.75735	grumbeera	grummbeere	2	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+169	Stra n 13	na	Dossenheim-Kochersberg	7.57335, 48.63816	grumbeer	na	999	grumbere	na	999	Grundbirne	na	999
+170	Stra n 14	III_9_0036, III_9_0035	Quatzenheim, Quatzenheim	7.57372, 48.62636	grumbier	grumbeer	1	grumbire	grumbere	1	Grundbirne	Grundbirne	0
+171	Stra f 18	III_8_0064	Kienheim, Kienheim	7.57862, 48.68905	grumbeer	grumbeer	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+172	Hag P 6	III_6_0054	Uhrweiler (Uhrwiller), Uhrweiler	7.57892, 48.8784	grumbīr	grumbir	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+173	Stra n 19	na	Kleinfrankenheim	7.58074, 48.66169	grumbeer	na	999	grumbere	na	999	Grundbirne	na	999
+174	Co W 12	III_16_0071, III_16_0070	Märkt, Märkt	7.58103, 47.627	chrumbiere	grumbiere, grumbire	2	chrumbire	grumbire	2	Grundbirne	Grundbirne	0
+175	Hag W 3	III_7_0060	Ettendorf, Ettendorf	7.58414, 48.81374	grumbeere	krumbäre	3	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+176	Stra f 3	III_8_0079	Mutzenhausen (Mutzenouse), Mutzenhausen	7.58822, 48.7411	krumbera	grumbeer	3	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+177	Stra f 1	III_8_0077	Gingsheim, Gingsheim	7.58895, 48.71645	grumbär	grumbäre	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+178	Hag P 1	III_5_0068	Zinsweiler, Zinsweiler	7.59018, 48.9196	grombeer	grombeer	0	grombere	grombere	0	Grundbirne	Grundbirne	0
+179	Stra n 15	III_9_0040	Hürtigheim, Hürtigheim	7.59369, 48.6152	krümbēr	krumbere	3	grümbere	grumbere	1	Grundbirne	Grundbirne	0
+180	Stra J 4/2	na	Benfeld	7.59385, 48.37263	krommbära	na	999	grombere	na	999	Grundbirne	na	999
+181	Hag W 10	III_7_0069	Alteckendorf, Alteckendorf	7.59484, 48.79272	grumbeere	grumbeere	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+182	Co W 11, 18	III_16_0074	(Weil am Rhein und) Eimeldingen, Binzen	7.59518, 47.63113	grumbire	grumbire	0	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+183	Co W 4, 5	III_16_0087, III_16_0088	Egringen und Fischingen, Egringen, Fischingen	7.59628, 47.66366	grumbiere	grumbiere	0	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+184	Hag P 15	III_6_0057	Kindweiler, Kindweiler	7.59731, 48.86227	grummbäre	grombäre	2	grumbere	grombere	1	Grundbirne	Grundbirne	0
+185	Co P14	III_15_0054	Mappach, Mappach	7.59794, 47.68033	grumbire	grumbiere	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+186	Hag W 18	III_7_0078	Schwindratzheim, Schwindratzheim	7.59981, 48.7561	grumbeer	grumbeere	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+187	Stra n 5	III_9_0029	Truchtersheim, Truchtersheim	7.60723, 48.66319	grumbeer	grumbeer	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+188	Stra n 7	III_9_0034	Wiwersheim, Wiwersheim	7.60738, 48.63994	grumber	grumbeer	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+189	Stra f 11	III_8_0066	Gimbrett, Gimbrett	7.60781, 48.69592	grumbeer	grümbeer	1	grumbere	grümbere	1	Grundbirne	Grundbirne	0
+190	Stra u 14	III_10_0035	Bläsheim, Bläsheim	7.60783, 48.50535	grůmbeer	grumbiere	3	grumbere	grumbire	1	Grundbirne	Grundbirne	0
+191	Hag H 1	III_5_0062	Oberbronn, Oberbronn	7.6082, 48.94109	grumbeer	grumbeer	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+192	Hag P 19, Hag P 14	III_6_0066	Pfaffenhofen -Volksberg, Pfaffenhofen, Pfaffenhofen	7.60881, 48.84422	grůmbeer, grumbeere	grŭmbär	3	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+193	Hag X 5	na	Walk (La Walck)	7.60966, 48.84793	krummbeere	na	999	grumbere	na	999	Grundbirne	na	999
+194	Co P6	III_15_0057	Tannenkirch, Tannenkirch	7.6103, 47.71116	grumbire	grumbiere	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+195	Co W 22	III_16_0089, III_16_0090	Haltingen, Haltingen	7.61378, 47.61384	grum̄biere	grumbiere, grumbire	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+196	Hag P 7	III_6_0055	Engweiler, Engweiler	7.61501, 48.88508	grumbēr	grumbeer	2	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+197	Stra f 12	III_8_0067	Reitweiler, Reitweiler	7.61546, 48.67598	grunnbèr	grumber	3	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+198	Stra f 6	III_8_0075	Hohatzenheim, Hohatzenheim	7.61598, 48.71578	grümbeere	grümbeere	0	grümbere	grümbere	0	Grundbirne	Grundbirne	0
+199	Stra n 8	III_9_0032, III_9_0033	Offenheim, Stutzheim-Offenheim, Offenheim	7.61838, 48.63195	grumbeere	krumbeere, grumbeere	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+200	Hag P 11	III_6_0058	Bitschhofen, Bitschhofen	7.61913, 48.85878	grumbeer	grumbeer	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+201	Hag W 9	III_7_0070	Minversheim, Minversheim	7.61936, 48.78575	grumbeer	grumbeere	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+202	Co W 23	III_16_0075	Ötlingen, Ötlingen	7.62133, 47.62261	grum̄biere	krummbiere	2	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+203	Co W 10	III_16_0073, III_16_0072	Binzen, Märkt, Binzen	7.62403, 47.63133	grumbēr, grumbēra	grumbeera, grumbiira, grumbire	2	grumbere	grumbere, grumbire	0	Grundbirne	Grundbirne	0
+204	Stra n 9	na	Stutzheim-Offenheim	7.62623, 48.6279	krumbeere	na	999	grumbere	na	999	Grundbirne	na	999
+205	Hag P 13	na	Niedermodern	7.62648, 48.84525	grumbära	na	999	grumbere	na	999	Grundbirne	na	999
+206	Hag W 2	III_7_0062	Morschweiler, Morschweiler	7.62689, 48.81972	grumbeere	grumbeere	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+207	Co W 6	III_16_0076	Schallbach, Schallbach	7.62759, 47.65706	grumbiere	chrumbiere	2	grumbire	chrumbire	2	Grundbirne	Grundbirne	0
+208	Co P15	III_15_0055	Holzen, Holzen	7.62775, 47.69538	grumbiere	grum̄biere	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+209	Hag P 12	III_6_0064	Überach (Uberach), Überach	7.62806, 48.84844	grummbeere	grummbere	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+210	Co H7	na	Müllheim	7.62923, 47.80821	grumbīre	na	999	grumbire	na	999	Grundbirne	na	999
+211	Stra f 4	na	Waltenheim	7.62965, 48.74804	grumbeer	na	999	grumbere	na	999	Grundbirne	na	999
+212	Stra f 7	III_8_0074	Mittelhausen, Mittelhausen	7.63107, 48.7093	grümbiere	grumbeer	3	grümbire	grumbere	2	Grundbirne	Grundbirne	0
+213	Hag A 1	III_4_0077	Dambach, Dambach	7.63179, 49.00256	grumbeer	grumbeere	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+214	Hag P 8	III_6_0050	Gumbrechtshofen, Gumbrechtshofen	7.6319, 48.90544	grůmbear	grummbäre	5	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+215	Co W 18	III_16_0085	Weil am Rhein, Weil	7.63299, 47.59278	grumbire	grumbirä	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+216	Stra f 5	III_8_0076	Wingersheim, Wingersheim	7.63371, 48.72198	grumbǟre	grümmbäre	3	grumbere	grümbere	1	Grundbirne	Grundbirne	0
+217	Stra f 10	III_8_0071	Rumersheim, Rumersheim	7.6354, 48.69228	grumbeer	grummbeer	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+218	Co P5	III_15_0058	Riedlingen, Riedlingen	7.63561, 47.71579	grumbīre	krumbire	2	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+219	Stra u 16	na	Enzheim	7.63634, 48.53413	grumbiere	na	999	grumbire	na	999	Grundbirne	na	999
+220	Hag P 10	III_6_0056	Mietesheim, Mietesheim	7.63837, 48.87814	grumbär	grumbär	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+221	Co H11	III_14_0140	Feldberg, Feldberg	7.64081, 47.7737	grumbire	grumbiere	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+222	Co W 7, 9/2	III_16_0077	Rümmingen, Rümmingen	7.64143, 47.64099	grumbīre	grumbiere	2	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+223	Co P4	III_15_0059	Feuerbach, Feuerbach	7.642, 47.73653	grumbīre	grumbiere	2	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+224	Hag W 8	III_7_0071	Hüttendorf, Hüttendorf	7.64259, 48.80222	grumbeere	grumbeere	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+225	Hag H 2/3, Hag H 2/2, Hag H 2/1	III_5_0067, III_5_0066	Bad-Niederbronn (Niederbronn-Les-Bains), Niederbronn (GID von Niederbronn les bains), Bad-Niederbronn	7.64282, 48.95108	krummbea, grumbǟre, grumbeere	grumbeer, krummbere	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+226	Stra n 6	III_9_0030	Pfettisheim, Pfettisheim	7.64331, 48.66042	krummbēere	krumbeere	2	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+227	Stra v 8	III_10_0032	Holzheim, Holzheim	7.64383, 48.55724	grumbēere	krumbäre	3	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+228	Co H12	III_14_0142	Obereggenen, Niedereggenen, Obereggenen, Niedereggenen	7.64434, 47.75677	grumbiir	grumbiire	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+229	Co H6	na	Niederweiler	7.64763, 47.80664	grumbiere	na	999	grumbire	na	999	Grundbirne	na	999
+230	Co W 7, 9/1	III_16_0086	Wittlingen, Wittlingen	7.64842, 47.6562	grumbīre	grummbiere	3	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+231	Stra f 9	III_8_0072	Mittelschäffolsheim, Mittelschäffolsheim	7.65125, 48.70026	grumbeer	grumbeer	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+232	Stra u 5	III_9_0028	Oberschäffolsheim, Oberschäffolsheim	7.65236, 48.5868	grumbeere	grumbeere	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+233	Co W 8	III_15_0056	Wollbach, Wollbach	7.65387, 47.67054	grumbīre	grumbiire	2	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+234	Hag W 1	III_6_0067	Dauendorf, Dauendorf	7.65509, 48.82974	grumbeer	grumbeer	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+235	Co W 21	III_16_0078	Tumringen, Tumringen	7.65564, 47.62739	grumbire	grumbirä, grumbira	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+236	Co H9	III_14_0141	Lipburg, Lipburg	7.65665, 47.78685	grumbīre	grumbiire	2	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+237	Stra f 13	III_8_0069, III_8_0070	Berstett, Berstett	7.65758, 48.67898	grumbeere	grumber, grumbeer	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+238	Stra f 8	III_8_0073	Bilwisheim, Bilwisheim	7.65824, 48.70895	krummbeer	krumbär	3	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+239	Hag P 9	III_5_0063	Gundershofen, Gundershofen	7.6592, 48.90652	grumbeer	krummbeere	3	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+240	Hag W 19	III_7_0073	Wittersheim, Wittersheim	7.66007, 48.78303	grumbier	grumbeer	1	grumbire	grumbere	1	Grundbirne	Grundbirne	0
+241	Co P16	III_15_0046	Kandern, Kandern	7.66224, 47.71456	grumbīre	grumbire	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+242	Hag H 3	III_5_0065, III_5_0064	Reichshofen (Reichshoffen), Reichshofen, Reichshofen-Werk	7.66338, 48.93223	grumbeera	krumbeer, grumbäre	2	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+243	Co W 20, Co W 19	III_16_0082, III_16_0080, III_16_0081	Lörrach, Lörrach , Lörrach	7.66409, 47.61258	grumbire, krumbire	grumbirě, grumbire	0	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+244	Stra v 6	III_9_0027	Wolfisheim, Wolfisheim	7.66606, 48.58281	grumbere	krumbeere	2	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+245	Stra o 6, 7	III_9_0043	Dingsheim, Griesheim, Dingsheim, Griesheim	7.66779, 48.62966	grumbeere	grumbeere	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+246	Stra o 5	III_9_0044	Pfulgriesheim, Pfulgriesheim	7.67069, 48.64279	grumbeere	grumbeer	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+247	Stra C 4	III_10_0112	Hipsheim, Hipsheim	7.67249, 48.46706	grumbeere	grumbeere	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+248	Hag X 1	III_7_0080	Uhlweiler, Uhlweiler	7.67396, 48.82047	grumbäre	grumbeeren	3	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+249	Stra g 8	III_8_0080, III_8_0081	Olwisheim, Olwisheim	7.67511, 48.69681	grümbeere	grumbeer, grumbeere	1	grümbere	grumbere	1	Grundbirne	Grundbirne	0
+250	Hag X 13	III_7_0089	Hochstett, Hochstett	7.67779, 48.77853	grumbier	grumbeer	1	grumbire	grumbere	1	Grundbirne	Grundbirne	0
+251	Hag Q 12	III_6_0068	Griesbach, Griesbach	7.67856, 48.89026	grumbeer	grumbeere	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+252	Co X 4	III_16_0091, III_16_0092	Haagen, Haagen	7.67898, 47.63703	grumbiere	grumbire, krumbire	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+253	Co J2	na	Badenweiler	7.67934, 47.80555	grumbīre	na	999	grumbire	na	999	Grundbirne	na	999
+254	Hag Q 11	III_6_0078	Merzweiler (Mertzwiller), Merzweiler	7.67936, 48.86259	grumbeer	grumbeer	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+255	Stra o 16	III_9_0045	Straßburg-Oberhausbergen, Strassburg-Oberhausbergen	7.68507, 48.60569	grumbeer	grumbier	1	grumbere	grumbire	1	Grundbirne	Grundbirne	0
+256	Hag X 12	na	Wahlenheim	7.68522, 48.76281	grumbeere	na	999	grumbere	na	999	Grundbirne	na	999
+257	Stra g 1	na	Krautweiler	7.68667, 48.73776	grombärä	na	999	grombere	na	999	Grundbirne	na	999
+258	Stra v 7	na	Eckbolsheim	7.68725, 48.57932	grumbeer	na	999	grumbere	na	999	Grundbirne	na	999
+259	Hag X 11	III_7_0090	Bernolsheim, Bernolsheim	7.69085, 48.75532	grumbär	grumbäre	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+260	Co X 6	III_16_0095, III_16_0094	Brombach (/Maulburg, aber gestrichen), Brombach	7.69236, 47.63395	grumbīre	grumbiire, grumbire	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+261	Stra o 10	III_9_0046	Mittelhausbergen, Mittelhausbergen	7.69275, 48.61406	grumbeer	grumbeer	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+262	Stra g 9	III_8_0082	Eckwersheim, Eckwersheim	7.69351, 48.68244	grumbeer	grumbeeren	2	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+263	Hag B 2	III_4_0080	Obersteinbach, Obersteinbach	7.69364, 49.03549	grumbāre	grumbeere	2	grumbare	grumbere	1	Grundbirne	Grundbirne	0
+264	Co X 5	III_16_0093	Hauingen, Hauingen	7.69375, 47.64287	grumbiere	grumbirä	2	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+265	Stra o 9	III_9_0047	Niederhausbergen, Niederhausbergen	7.70033, 48.62313	grümbere	grümbeer	2	grümbere	grümbere	0	Grundbirne	Grundbirne	0
+266	Hag X 2	III_7_0081	Ohlungen, Ohlungen	7.70034, 48.81187	grummbeer	grum̄beer	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+267	Stra o 4	III_9_0075	Lamgertheim, Lamgertheim	7.70087, 48.65016	grumbeere	grumbeere	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+268	Hag X 15	III_7_0086	Wintershausen, Winterhausen	7.70271, 48.79349	grumbeer	grummbeere	2	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+269	Hag J 12	III_5_0073	Nehweiler (Nehwiller), Nehweiler	7.70322, 48.96072	grumbere	grumbeer	2	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+270	Hag X 14	III_7_0087	Batzendorf, Batzendorf	7.70638, 48.78331	grumbeere	grŭmber	3	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+271	Co J7, Co Q1	III_15_0061, III_14_0147	Malsburg, Malsburg	7.70866, 47.73257	grumbiere, grumbīre	grumbire, grumbīēre	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+272	Stra g 2	III_8_0084	Brumath, Brumath	7.71045, 48.73026	grumbeer, grümbeer	grombeere	2	grumbere, grümbere	grombere	1	Grundbirne	Grundbirne	0
+273	Stra v 4	na	Illkirch-Grafenstaden	7.71183, 48.5288	grumbier	na	999	grumbire	na	999	Grundbirne	na	999
+274	Stra g 10	III_8_0083	Vendenheim, Vendenheim	7.71285, 48.66933	grömbeer	grümbär	3	grömbere	grümbere	1	Grundbirne	Grundbirne	0
+275	Hag X 10	na	Rottelsheim	7.7144, 48.75688	grumbǟr	na	999	grumbere	na	999	Grundbirne	na	999
+276	Hag Q 3	III_6_0071	Forstheim, Forstheim	7.71468, 48.89506	gruummbärä	krumpieere	7	grumbere	grumbire	1	Grundbirne	Grundbirne	0
+277	Hag B 3	III_4_0081	Niedersteinbach, Niedersteinbach	7.71501, 49.0295	grumbär	krummbeer	4	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+278	Stra o 3	III_9_0076	Mundolsheim, Mundolsheim	7.71544, 48.64179	grumbeere	grumbeere	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+279	Hag B 1	na	Wengelsbach	7.71622, 49.05104	grumbäre	na	999	grumbere	na	999	Grundbirne	na	999
+280	Hag Q 2	III_6_0070	Eberbach , Eberbach	7.71711, 48.91154	grumbere	grumbeere	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+281	Hag Q 10	III_6_0072	Laubach, Laubach	7.72032, 48.88168	grumbärä	grummbere	3	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+282	Hag J 11	III_5_0074	Fröschweiler (Frœschwiller), Fröschweiler	7.72171, 48.94318	grummbi͜͞arä̆	grommbeare	6	grumbire	grombere	2	Grundbirne	Grundbirne	0
+283	Stra C 3	III_10_0113	Plobsheim, Plobsheim	7.72339, 48.46948	grumbeere	grumbeer	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+284	Hag X 9	na	Kriegsheim	7.72687, 48.75719	grumbēēre	na	999	grumbere	na	999	Grundbirne	na	999
+285	Co J4	III_14_0146	Marzell bei Kandern, Marzell über Kandern	7.72688, 47.77116	chrumbire	krumbiere	3	chrumbire	grumbire	2	Grundbirne	Grundbirne	0
+286	Co X 1	III_16_0097	Hägelberg, Hägelberg	7.72778, 47.66132	grumbire	grumbire	0	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+287	Stra o 12	III_9_0048	Kronenburg (Cronenbourg), Kronenburg	7.73212, 48.59535	grumbeer	grombeeren	3	grumbere	grombere	1	Grundbirne	Grundbirne	0
+288	Co Q8	III_15_0062	Endenburg, Endenburg	7.73306, 47.71161	grumbiere	grumbiire	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+289	Hag J 13	III_5_0072	Langensulzbach (Langensoultzbach), Langensulzbach	7.73367, 48.96812	grombiͤr	grumbeere	4	grombire	grumbere	2	Grundbirne	Grundbirne	0
+290	Hag X 3/1, Hag X 3/2	III_7_0082	Schweighausen (Schweighouse-Sur-Moder), Schweighausen	7.73517, 48.82151	grumbeer, grumbieer	krummbiere, grummbiere	3	grumbere, grumbire	grumbire	0	Grundbirne	Grundbirne	0
+291	Stra o 11	III_9_0072, III_9_0060, III_9_0058, III_9_0065, III_9_0068, III_9_0064, III_9_0063, III_9_0074, III_9_0057, III_9_0070, III_9_0073, III_9_0071, III_9_0061, III_9_0059, III_9_0066, III_9_0069, III_9_0062, III_9_0067	Straßburg, Straßburg	7.73609, 48.58523	grumbēr	grumbeer, grumbär, grumbeere, grumbeeere, grumber	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+292	Hag Q 9	III_6_0073	Eschbach, Eschbach	7.73641, 48.87453	grumbeere	grumbeere	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+293	Hag X 8	na	Niederschäffolsheim	7.7384, 48.7721	grumbeere	na	999	grumbere	na	999	Grundbirne	na	999
+294	Co Q11	na	Schlächtenhaus-Hofen	7.73863, 47.69047	grumbire	na	999	grumbire	na	999	Grundbirne	na	999
+295	Co X 7	III_16_0098	Steinen, Steinen	7.73911, 47.64447	grumbire	grumbiere	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+296	Co X 9	III_16_0100	Hüsingen, Hüsingen	7.74114, 47.63121	grumbiere	grumbiere	0	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+297	Stra o 8	III_9_0053	Suffelweyersheim, Suffelweyersheim	7.74147, 48.6355	grumbēr	grumbiere	3	grumbere	grumbire	1	Grundbirne	Grundbirne	0
+298	Hag Q 4	III_6_0074	Morsbronn (Morsbronn-Les-Bains), Morbronn	7.74283, 48.90037	krumbire	krumbīre	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+299	Hag J 10	III_5_0075	Wört (Woerth), Wört	7.74374, 48.93677	grumbeer	grummbeer	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+300	Hag Q 5	III_6_0075	Hagenheim (Hegeney), Hagenheim	7.74557, 48.89153	grumbīre	grůmbiere	3	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+301	Co X 8	III_16_0099	Höllstein, Höllstein	7.74574, 47.63943	grumbīre	grumbiirä	3	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+302	Stra g 3	III_8_0085	Geudertheim, Geudertheim	7.74686, 48.72273	grambaer	grumbär	3	grombere	grumbere	1	Grundbirne	Grundbirne	0
+303	Stra o 13	III_9_0049	Schiltigheim, Schiltigheim	7.74856, 48.60595	grumbēr	grumbeer	2	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+304	Stra o 14	III_9_0051, III_9_0050	Straßburg-Bischheim, Straßburg-Bischheim	7.75254, 48.61483	grůmmbĕĕr	grumbeer, grumbeere	4	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+305	Stra o 2	III_9_0054	Reichstett, Reichstett	7.75359, 48.6483	grombeere	grumbeere	1	grombere	grumbere	1	Grundbirne	Grundbirne	0
+306	Stra K 2	III_11_0042	Ottenheim, Ottenheim	7.75477, 48.38593	grumbera	krummbiere	4	grumbere	grumbire	1	Grundbirne	Grundbirne	0
+307	Stra o 15	III_9_0052	Hönheim, Straßburg-Hönheim	7.75526, 48.62105	grumbeere	grumbeere	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+308	Hag R 9	na	Walburg-Hinterfeld (Hinterfeld)	7.75568, 48.88314	grumbeere	na	999	grumbere	na	999	Grundbirne	na	999
+309	Hag J 9	III_5_0084	Oberdorf-Spachbach, Oberdorf-Spachbach	7.75696, 48.92512	grumbier	grummbeere	3	grumbire	grumbere	1	Grundbirne	Grundbirne	0
+310	Stra R 4	na	Wittenweier	7.75888, 48.32591	grumbier	na	999	grumbire	na	999	Grundbirne	na	999
+311	Stra K 5	III_11_0046	Nonnenweier, Nonnenweier	7.76001, 48.34931	grumbire	grumbiere	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+312	Hag J 2	III_5_0071	Mattstall, Mattstall	7.7613, 48.98757	grumbäre	grumbära	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+313	Hag Q 1	na	Gunstett	7.76471, 48.91584	grumbėar	na	999	grumbere	na	999	Grundbirne	na	999
+314	Co Q9	III_15_0064	Weitenau, Weitenau	7.76525, 47.67775	grumbiere	grumbire	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+315	Co Q2	III_14_0148	Wies, Wies	7.76723, 47.74789	grumbīre	grumbiere	2	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+316	Hag J 5	III_5_0076	Görsdorf (Goersdorf), Görsdorf	7.76782, 48.95111	gruͥmbear	grumbeer	2	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+317	Hag Q 6	III_6_0076	Dürrenbach (Durrenbach), Dürrenbach	7.76797, 48.89675	grumbeer	grumbeere	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+318	Co Q7	III_15_0066	Sallneck, Sallneck	7.7724, 47.72297	krumbiere	grumbiere	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+319	Hag J 8	III_5_0079	Diefenbach (Dieffenbach-Lès-Woerth), Diefenbach	7.77425, 48.93532	grumbier	grummbeere	3	grumbire	grumbere	1	Grundbirne	Grundbirne	0
+320	Hag X 7	III_7_0094	Weitbruch, Weitbruch	7.77586, 48.7535	grumbeer	grumbeere	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+321	Stra K 1	III_11_0040	Meissenheim, Meissenheim	7.77738, 48.40898	grumbier	krummbeere	4	grumbire	grumbere	1	Grundbirne	Grundbirne	0
+322	Co X 10	III_16_0106	Maulburg , Maulburg	7.77782, 47.64075	grumbīre	grumbiere	2	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+323	Stra g 4	na	Bietlenheim	7.7826, 48.71905	krümbier	na	999	grümbire	na	999	Grundbirne	na	999
+324	Stra g 7	III_8_0086	Hördt, Hördt	7.78279, 48.69341	grumbäre	krumbeere	3	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+325	Stra K 4	III_11_0047	Allmannsweier, Allmannsweier	7.78326, 48.36703	grumbiire	grumbir	2	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+326	Hag J 4	III_5_0077	Mitschdorf, Mitschdorf	7.78435, 48.9524	krumber, grumber	grumber	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+327	Hag X 4	III_7_0083, III_7_0084	Hagenau, Hagenau	7.78868, 48.81435	grumbeer	krummbeere	3	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+328	Hag Q 8	III_6_0077	Walburg (Walbourg), Walburg	7.78939, 48.88652	grumbeere	grumbeere	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+329	Hag B 5	III_4_0086	Lembach, Lembach	7.78942, 49.00701	grumbeer	grumbeer	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+330	Hag Q 7	III_6_0069	Biblisheim, Biblisheim	7.79196, 48.89991	grumbēre	grumbeer	3	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+331	Co Q6	III_15_0067	Tegernau, Tegernau	7.79638, 47.72037	grumbīre	grumbiire	2	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+332	Co Q3	III_14_0152	Raich, Raich	7.79724, 47.75076	grumber, grumbīre	grumbiere	2	grumbere, grumbire	grumbire	0	Grundbirne	Grundbirne	0
+333	Co Q10	III_15_0065	Wieslet, Wieslet	7.79819, 47.6893	grumbiere	grumbiere	0	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+334	Co X 2	na	Langenau	7.79884, 47.65734	grumbiere	na	999	grumbire	na	999	Grundbirne	na	999
+335	Stra o 17	III_9_0056	Straßburg-Ruprechtsau, Straßburg-Ruprechtsau	7.80059, 48.61004	grumbeer	grumbeere	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+336	Stra g 6	na	Weyersheim	7.8009, 48.7126	grumbeer	na	999	grumbere	na	999	Grundbirne	na	999
+337	Co f 11	na	Teningen	7.80344, 48.12897	grumbire	na	999	grumbire	na	999	Grundbirne	na	999
+338	Hag J 6	III_5_0085	Preuschdorf, Preuschdorf	7.80425, 48.9435	grumbeer	grümbiere	3	grumbere	grümbire	2	Grundbirne	Grundbirne	0
+339	Stra g 5	III_8_0087	Kurzenhausen, Kurzenhausen	7.80901, 48.74019	krumbeer	krumbeere	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+340	Co X 11	III_16_0107, III_16_0108	Wiechs, Wiechs	7.81236, 47.63655	grumbiire	grumbiere, grumbiire	0	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+341	Hag X 6	III_7_0091	Gries , Gries	7.81383, 48.75262	grümbeere	krombeere	2	grümbere	grombere	1	Grundbirne	Grundbirne	0
+342	Stra C 5	III_10_0114	Altenheim, Altenheim	7.81393, 48.46505	grundbiere	grumbiere	2	grundbire	grumbire	2	Grundbirne	Grundbirne	0
+343	Stra v 1	III_10_0047	Kehl, Kehl	7.81494, 48.57419	grumbeer	grumbeere	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+344	Hag J 3	III_5_0078	Lampertsloch, Lampertsloch	7.81713, 48.95698	krumber	grumbiere	3	grumbere	grumbire	1	Grundbirne	Grundbirne	0
+345	Hag B 4	III_4_0087	Wingen, Wingen	7.81729, 49.02601	grumbier	grumbe̊e̊r	3	grumbire	grumbere	1	Grundbirne	Grundbirne	0
+346	Co Q5	III_15_0068	Gresgen, Gresgen	7.82053, 47.71127	grumbire	grumbĕre	1	grumbire	grumbere	1	Grundbirne	Grundbirne	0
+347	Co X 3	III_16_0109, III_16_0110	Schopfheim (/Grenzach, aber gestrichen), Schopfheim	7.82315, 47.64973	grumbiere	grumbiére, krumbiére	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+348	Stra K 9	III_11_0045	Langenwinkel, Langenwinkel	7.82557, 48.3325	grūmbiär	grumbir	2	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+349	Stra o 1	III_9_0055	Wanzenau, Wanzenau	7.82574, 48.65926	krumbäre	krumbere	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+350	Co J5	III_14_0149	Bürchau, Bürchau	7.82686, 47.77616	grumbīre	grumbire	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+351	Hag J 7	III_5_0081	Merkweiler (Merkwiller-Pechelbronn), Merkweiler	7.82707, 48.93886	grumbeer	grumbeer	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+352	Hag J 1	III_5_0082	Lembach-Pfaffenbronn (Pfaffenbronn) , Lembach-Pfaffenbronn	7.83111, 48.99355	grumbäre	krummbeer	5	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+353	Co Q4	III_14_0186	Elbenschwand, Elbenschwand	7.83139, 47.7509	grummbiere	grumbiere	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+354	Hag Y 4	III_7_0095	Kaltenhausen, Kaltenhausen	7.83521, 48.79041	grumbeere	gůmbeere	2	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+355	Stra p 9	ungeodnet2	Auenheim, Auenheim	7.83597, 48.6051	grombier	grumbir	2	grombire	grumbire	1	Grundbirne	Grundbirne	0
+356	Co Y 1	III_16_0121	Fahrnau, Fahrnau	7.83602, 47.66179	grumbiere	grumbiire	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+357	Stra L 10	III_11_0044	Hugsweier, Hugsweier	7.83742, 48.36009	grumbīr	grumbire	2	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+358	Stra S 1	III_11_0119	Mietersheim, Mietersheim	7.83797, 48.32639	grummbiere	grumbir	3	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+359	Co Y 15	III_16_0122	Eichen, Eichen	7.83816, 47.6471	grumbire	grumbiere	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+360	Hag K 22	III_5_0108	Oberkutzenhausen, Oberkutzenhausen	7.84049, 48.93847	grumbäre	grumbeerä	3	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+361	Co R12	III_15_0089	Hausen im Wiesental, Hausen im Wiesental	7.84055, 47.68143	grumbire	grumbire	0	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+362	Stra w 1	III_10_0049	Neumühl, Neumühl	7.84392, 48.57012	krombeer	gromber	2	grombere	grombere	0	Grundbirne	Grundbirne	0
+363	Hag K 21	III_5_0090	Lobsann, Lobsann	7.84681, 48.96327	grumbire	grummbere	2	grumbire	grumbere	1	Grundbirne	Grundbirne	0
+364	Hag R 3	III_6_0086	Surburg, Surburg	7.84913, 48.90982	grumbär	krumbäre	2	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+365	Hag C 8	III_4_0088	Klimbach (Climbach), Klimbach	7.85041, 49.01803	grummbeer	grummbeer	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+366	Stra w 10	III_10_0056	Eckartsweier, Eckartsweier	7.85175, 48.52985	grommbeere	grumbiere	3	grombere	grumbire	2	Grundbirne	Grundbirne	0
+367	Stra p 4	III_9_0077	Leutesheim, Leutesheim	7.85613, 48.62423	grombeere	grumbiere	2	grombere	grumbire	2	Grundbirne	Grundbirne	0
+368	Hag K 15	III_5_0107	Kutzenhausen, Kutzenhausen	7.85624, 48.93375	grumbär	grumbär	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+369	Co Y 13	III_16_0114	Dossenbach, Dossenbach	7.85693, 47.61597	grumbire	grumbiere	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+370	Stra h 10	III_8_0088	Kilstett, Kilstett	7.85798, 48.67473	grümmbeere	grumbäre	4	grümbere	grumbere	1	Grundbirne	Grundbirne	0
+371	Stra L 11	III_11_0058	Dinglingen, Dinglingen	7.85875, 48.34966	grumbere	krumbier	3	grumbere	grumbire	1	Grundbirne	Grundbirne	0
+372	Hag Y 6	III_7_0100	Bischweiler, Bischweiler	7.85912, 48.76826	grumbeere	grumbeere	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+373	Co R13	III_15_0085	Raitbach, Raitbach	7.86089, 47.68233	grummbirä	grumbiire	3	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+374	Stra D 2	III_10_0117	Hohnhurst, Hohnhurst	7.86191, 48.49204	grumbīr	krummbeere	5	grumbire	grumbere	1	Grundbirne	Grundbirne	0
+375	Hag Y 5	III_7_0105	Oberhofen (Oberhoffen-Sur-Moder), Oberhofen	7.86327, 48.78298	grumbere	grumbeere	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+376	Stra p 11	III_9_0080	Querbach, Querbach	7.86754, 48.58924	grumbiere	grumbiere	0	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+377	Co Y 2	III_16_0116	Kürnberg, Kürnberg	7.86873, 47.6649	grumbire	grumbiere	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+378	Stra w 13	III_10_0050	Kork, Kork	7.86899, 48.56537	grumbire	grummbeere	3	grumbire	grumbere	1	Grundbirne	Grundbirne	0
+379	Hag K 20	III_5_0086	Drachenbronn, Drachenbronn	7.87037, 48.98626	grumbäre	grumbäre	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+380	Hag K 17	III_5_0094, III_5_0093	Memmelshofen (Memmelshoffen), Memmelshofen	7.87106, 48.96013	grumbär	grumbäre	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+381	Stra p 3	III_9_0078	Honau, Honau	7.87132, 48.64025	grumbiere	grumbier	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+382	Stra p 10	III_9_0079	Bodersweier, Bodersweier	7.87462, 48.60047	grumbīre	grombir	3	grumbire	grombire	1	Grundbirne	Grundbirne	0
+383	Stra L 12	III_11_0059, III_11_0060	Lahr (Lahr/Schwarzwald), Lahr	7.87603, 48.34018	grumbīre	krumbiere, krumbir	3	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+384	Hag R 4	III_6_0080, III_6_0081	Schwabweiler, Schwabweiler	7.87665, 48.90207	grumbeer	grumbeere, kumbeere	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+385	Hag K 16	III_5_0095	Retschweiler (Retschwiller), Retschweiler	7.87838, 48.95025	grumbär	grummber	2	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+386	Stra h 9	III_8_0089	Gambsheim, Gambsheim	7.87971, 48.69159	grümbǟr	grümmbäre	3	grümbere	grümbere	0	Grundbirne	Grundbirne	0
+387	Stra w 2	III_10_0051	Odelshofen, Odelshofen	7.88021, 48.56001	grombīre	krummbire	4	grombire	grumbire	1	Grundbirne	Grundbirne	0
+388	Stra w 9/2, Stra w 9/1	III_10_0058	Hesselhurst, Hesselhurst	7.88114, 48.52042	groůmbeerä, grumbeer	grumbeere	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+389	Hag K 18	III_5_0091	Keffenach, Keffenach	7.88225, 48.96489	grumbeere	grumbär	3	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+390	Hag K 14	III_5_0099	Sulz u. (f) (Soultz-Sous-Forêts), Sulz u. Wald	7.88268, 48.93782	grumbär	grmbäre	2	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+391	Hag K 19	III_5_0089	Birlenbach, Birlenbach	7.8829, 48.9763	grumbär	grumbär	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+392	Hag R 2	III_5_0101	Reimersweiler, Reimersweiler	7.88417, 48.9137	grumbere	grumbire	1	grumbere	grumbire	1	Grundbirne	Grundbirne	0
+393	Stra p 2/2, Stra p 2/1	III_9_0084	Diersheim, Diersheim	7.8874, 48.64789	grumbier, grombeere	grombeer	1	grumbire, grombere	grombere	0	Grundbirne	Grundbirne	0
+394	Stra w 11	III_10_0055	Willstätt, Willstätt	7.89222, 48.53868	grumbier	grumbeere	2	grumbire	grumbere	1	Grundbirne	Grundbirne	0
+395	Hag C 7	III_4_0090	Kleeburg (Cleebourg), Kleeburg	7.89318, 49.00093	grumbär	grumbeere	3	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+396	Stra p 5	III_9_0082	Linx, Linx	7.89706, 48.62687	grumbier	grumbire	2	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+397	Co Y 3	III_16_0115	Hasel, Hasel	7.89786, 47.65393	grumbiire	grumbiere	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+398	Hag R 5/1	III_6_0082	Oberbetschdorf, Oberbetschdorf	7.89812, 48.8986	grumbeere	grumbeere	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+399	Hag K 2	III_5_0087	Bremmelbach, Bremmelbach	7.90023, 48.986	grumbärä	grumbeere	3	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+400	Stra p 8	III_9_0081	Zierolshofen, Zierolshofen	7.9036, 48.60838	grumbeͥr	grumbire, grundbirne	3	grumbere	grumbire, grundbirne	1	Grundbirne	Grundbirne	0
+401	Hag Y 7	III_7_0102	Rohrwiller, Rohrweiler	7.90543, 48.75592	grůmbeere	grumbäre	3	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+402	Hag Y 3	III_7_0097, III_7_0096	Schirrhein, Schirrhein	7.90562, 48.80154	grumbeere	grumbeere	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+403	Stra h 1	III_8_0091	Herlisheim (Herrlisheim), Herlisheim	7.90651, 48.72976	grümbīr	grümbier	2	grümbire	grümbire	0	Grundbirne	Grundbirne	0
+404	Hag K 12	III_5_0100	Hermersweiler (Hermerswiller), Hermersweiler	7.91205, 48.93588	krumbeere	krumbeer	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+405	Hag C 1	III_4_0100	Weißenburg-Weiler, Weissenburg-Weiler	7.91271, 49.0377	grumbeer	grumbäre	3	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+406	Hag C 4	III_4_0091	Rott, Rott	7.91304, 49.02495	grumbeere	grundbeere	2	grumbere	grundbere	2	Grundbirne	Grundbirne	0
+407	Stra w 3	III_10_0052	Legelshurst, Legelshurst	7.91306, 48.56803	grumbeere	grombeere	1	grumbere	grombere	1	Grundbirne	Grundbirne	0
+408	Hag K 13	III_5_0096	Schönenburg (Schoenenbourg), Schönenburg	7.91332, 48.95207	grumbir	grummbir	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+409	Stra h 2	III_8_0090	Offendorf, Offendorf	7.91375, 48.71167	grümbier	grumbeere	3	grümbire	grumbere	2	Grundbirne	Grundbirne	0
+410	Co Y 11	na	Öfflingen (Öflingen)	7.91396, 47.59228	grumbīre	na	999	grumbire	na	999	Grundbirne	na	999
+411	Hag R 5/2	na	Betschdorf	7.91634, 48.89883	grumbeere	na	999	grumbere	na	999	Grundbirne	na	999
+412	Hag R 6	III_6_0083	Niederbetschdorf, Niederbetschdorf	7.91693, 48.8985	grumbeeer	grumbeer	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+413	Hag C 5	na	Oberhoffen-lès-Wissembourg	7.91832, 49.01679	grumbere	na	999	grumbere	na	999	Grundbirne	na	999
+414	Hag Y 2	III_7_0106	Schirrhofen, Schirrhofen	7.9193, 48.8066	grumbeer	grumbeer	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+415	Stra p 6	III_9_0083	Holzhausen, Holzhausen	7.92018, 48.62595	grōmbeere	grumbeeire, grumbeere	1	grombere	grumbere	1	Grundbirne	Grundbirne	0
+416	Stra w 12	III_10_0059	Sand, Sand	7.92148, 48.53823	grumbiere	grumbiere	0	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+417	Hag R 1, Hag K 11 R 1	III_5_0102	Kühlendorf (Kuhlendorf) und Hohweiler, Kühlendorf (Kuhlendorf), Hohweiler	7.92307, 48.91408	grumbeer, grumbeere	grumbär	2	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+418	Stra p 1	III_9_0085	Rheinbischofsheim, Rheinbischofsheim	7.92904, 48.65493	grombeer	grumbire	4	grombere	grumbire	2	Grundbirne	Grundbirne	0
+419	Hag C 6	III_4_0092	Steinselz (Steinseltz), Steinselz	7.93035, 49.0109	grumbär	grumbär	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+420	Stra h 8	III_8_0092	Freistett, Freistett	7.93582, 48.67138	grummbīr	grumbire	3	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+421	Hag K 3	III_5_0092	Ingolsheim, Ingolsheim	7.93636, 48.97357	krumbeer	krumbeer	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+422	Hag K 10	III_5_0109	Hofen (Hoffen), Hofen	7.9412, 48.92766	grumbeere	grumbeere	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+423	Hag K 5	III_5_0097	Hunspach, Hunspach	7.94316, 48.9536	grumbeere	grümbeer	2	grumbere	grümbere	1	Grundbirne	Grundbirne	0
+424	Stra D 8	na	Offenburg	7.9447, 48.47195	grumbire	na	999	grumbire	na	999	Grundbirne	na	999
+425	Hag K 9	III_5_0103	Leitersweiler (Leiterswiller), Leitersweiler	7.94768, 48.92407	krummbeere	krummbeere	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+426	Hag K 1	III_5_0088	Riedselz (Riedseltz), Riedselz	7.95195, 48.99281	grumbere	krumbeere, grundbeere	2	grumbere	grumbere, grundbere	0	Grundbirne	Grundbirne	0
+427	Hag C 2	III_4_0094, III_4_0093	Weißenburg (Wissembourg), Weißenburg	7.9521, 49.03733	grumbier	grumbeer, grumbire	1	grumbire	grumbere, grumbire	0	Grundbirne	Grundbirne	0
+428	Hag Y 8	na	Drusenheim	7.95234, 48.7651	grumbiere	na	999	grumbire	na	999	Grundbirne	na	999
+429	Hag R 7	III_6_0084	Rittershofen, Rittershofen	7.95587, 48.90241	grumbeer	grumbeer	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+430	Hag Y 1	III_6_0079	Sufflenheim, Sufflenheim	7.95924, 48.82979	grumbeere	grumbeere	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+431	Stra h 4	III_8_0095	Helmlingen, Helmlingen	7.9656, 48.70959	grumbir	grumbiere	2	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+432	Hag C 3	III_4_0099	Altenstadt, Altenstadt	7.96964, 49.03158	grumbeer	grumbeere	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+433	Hag R 8	III_6_0085	Hatten, Hatten	7.97777, 48.90173	grumbeer	grumbeer	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+434	Stra h 3	III_8_0097	Grauelsbaum, Grauelsbaum	7.98186, 48.73575	krumbir	grumbeer	3	grumbire	grumbere	1	Grundbirne	Grundbirne	0
+435	Stra h 7	III_8_0093	Memprechtshofen, Memprechtshofen	7.98237, 48.68233	grumbeere	grumbiere	1	grumbere	grumbire	1	Grundbirne	Grundbirne	0
+436	Hag K 6	III_5_0106	Aschbach, Aschbach	7.98262, 48.93423	grumbeeren	grumbiere	2	grumbere	grumbire	1	Grundbirne	Grundbirne	0
+437	Stra h 6	III_8_0094	Muckenschopf am Rhein, Muckenschopf	7.98806, 48.69362	grumbire	grumbere	1	grumbire	grumbere	1	Grundbirne	Grundbirne	0
+438	Hag Y 9	III_7_0104	Falhünden (Dalhünden), Dallhuenden, Fallhuenden	7.98835, 48.77367	grumbäre	grumbire	1	grumbere	grumbire	1	Grundbirne	Grundbirne	0
+439	Hag K 4	III_5_0098	Oberseebach, Oberseebach	7.98947, 48.9672	krummbeere	grumbeere	2	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+440	Hag K 7	III_5_0105	Stundweiler (Stundwiller), Stundweiler	7.99256, 48.92477	grumbere	grumbeer	2	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+441	Stra h 5	III_8_0096	Scherzheim, Scherzheim	7.99655, 48.7137	grummber	grumbeere	3	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+442	KST S1	III_7_0124	Stattmatten, Stattmatten	7.9997, 48.79553	krumbeer	grumbeer	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+443	KST L1	III_5_0111	Bühl (Buhl), Bühl	8.00666, 48.91753	grumbeere	grumbeere	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+444	TÜB a1	III_8_0098	Lichtenau, Lichtenau	8.00691, 48.72636	grumbeer	grommbeere	3	grumbere	grombere	1	Grundbirne	Grundbirne	0
+445	KST S9	III_7_0118	Greffern, Greffern	8.00704, 48.7525	grumbeere	grumbēre	2	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+446	KST S3	III_7_0107	Runzenheim (Rountzenheim), Runzenheim	8.00708, 48.82172	grumbēere	grumbeer	2	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+447	KST S2	III_7_0108	Auenheim, Auenheim	8.00818, 48.81256	grumbeer	grummbeer	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+448	TÜB a2	na	Ulm (bei Bühl)	8.01434, 48.727	krummbeere	na	999	grumbere	na	999	Grundbirne	na	999
+449	KST D11	III_5_0110, III_5_0112	Trimbach, Trimbach	8.0182, 48.94347	grumbeere	grumbeer	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+450	TÜB h1/2	na	Gamshurst	8.0187, 48.66413	grumbeere	na	999	grumbere	na	999	Grundbirne	na	999
+451	TUTT a2	na	Niederwinden	8.02152, 48.14244	krummbīre	na	999	grumbire	na	999	Grundbirne	na	999
+452	KST L9	III_6_0091	Leutenheim, Leutenheim	8.02175, 48.843	grumbeer	grumbeer	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+453	KST D12	na	Kaidenburg (Kaidenbourg)	8.03018, 48.94495	grumbeer	na	999	grumbere	na	999	Grundbirne	na	999
+454	KST D13	na	Kröttweiler (Croettwiller)	8.03043, 48.93123	krummbeͣre	na	999	grumbere	na	999	Grundbirne	na	999
+455	KST L10	III_6_0092, III_6_0093	Forstfeld, Forstfeld	8.03702, 48.859	grumbeer	grumbeer, grombeer	0	grumbere	grumbere, grombere	0	Grundbirne	Grundbirne	0
+456	KST S4	III_7_0109	Röschwoog (Roeschwoog), Röschwoog	8.04001, 48.83085	grumbeer	grummbere	3	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+457	KST L2	III_6_0087	Niederrödern/Elsass, Niederrödern	8.04105, 48.90576	grumbeere	grumbeere	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+458	KST D10	III_5_0125	Siegen (Weissenburg), Siegen	8.04269, 48.9581	grumbēer	krummbeer	3	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+459	TÜB a3	III_7_0119	Schwarzach (bei Bühl), Schwarzach	8.04423, 48.74717	grumbeere	grumbeere	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+460	KST D1	III_5_0123	Schleital (Schleithal), Schleithal	8.04688, 48.98799	krumbeere	grumbeere	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+461	KST S8	III_7_0117, III_7_0115, III_7_0116	Stollhofen, Stollhofen	8.04874, 48.76575	grumbeere	grumbeer, grumbeere	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+462	KST S7	III_7_0114	Söllingen, Söllingen	8.05486, 48.78147	grumbeere	grumbeere	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+463	KST L8	III_6_0094	Roppenheim, Roppenheim	8.05791, 48.8465	krūmbären	krumbeer	4	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+464	KST S6	III_7_0110	Ludwigsfeste (bei Roeschwoog) (Fort-Louis), Fort-Louis, Ludwigsfeste	8.05803, 48.80321	grummbeer	grumbeer	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+465	TÜB a14	III_8_0104	Unzhurst, Unzhurst	8.05808, 48.68815	grumbeere	grumbere	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+466	TÜB a4	III_8_0103	Hildmannsfeld, Hildmannsfeld	8.05893, 48.73423	krumbeere	grumbeere	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+467	TÜB h5	III_9_0091, III_9_0090	Achern, Achern	8.06363, 48.62871	krummbīre	grumbir, grumbiere	4	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+468	TÜB a5	na	Moos	8.06679, 48.71918	grumbire	na	999	grumbire	na	999	Grundbirne	na	999
+469	KST D14	III_5_0113	Eberbach-Selz, Eberbach-Selz	8.06718, 48.92481	grum̄bēre	krummbiere	4	grumbere	grumbire	1	Grundbirne	Grundbirne	0
+470	KST L11	III_6_0096	Kesseldorf (Weissenburg), Kesseldorf	8.06748, 48.87606	grumbere	grumbere	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+471	KST D9	III_5_0124	Oberlauterbach, Oberlauterbach	8.07041, 48.94851	grumbeer	grumbeer	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+472	KST D2	III_5_0122	Salmbach (bei Weißenburg), Salmbach	8.07143, 48.97818	grumbeere	grumbeere	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+473	KST L12	III_6_0095	Beinheim (Weissenburg), Beinheim	8.08253, 48.86153	grumbeer	grumbeere	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+474	KST S5	III_7_0111	Neuhäusel (Neuhaeusel), Neuhäusel	8.08594, 48.82427	grumbäre	grumbär	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+475	TÜB a6	na	Oberbruch	8.08775, 48.72893	krummbire	na	999	grumbire	na	999	Grundbirne	na	999
+476	KST S10	III_7_0120	Leiberstung, Lieberstung	8.09585, 48.75131	grumbeere	grummbeer	2	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+477	TÜB a7	III_8_0105	Balzhofen, Balzhofen	8.09765, 48.71247	grumbier	grumbire	2	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+478	KST L3	III_6_0088	Schaffhausen (Schaffhouse-près-Selz), Schaffhausen	8.10006, 48.9087	grumbeere	grůmbeere	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+479	KST D8	III_5_0114	Winzenbach (Winthenbach), Winzenbach	8.1038, 48.9341	grumbeer	grumbeer	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+480	KST L4	III_6_0089	Selz (Seltz), Selz	8.10383, 48.89457	grumbeere	grumbeere	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+481	KST D3/3, KST D3/2, KST D3/1	III_5_0121	Niederlauterbach, Niederlauterbach	8.10398, 48.97233	grumbeere, grumbeer, grumbeeren	grumbeer	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+482	TÜB a12	na	Oberweier	8.10851, 48.70178	grumbīr	na	999	grumbire	na	999	Grundbirne	na	999
+483	KST S14	III_7_0113	Hügelsheim, Hügelsheim	8.10904, 48.79654	grumbēr	grummbeere	4	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+484	TÜB a8	III_8_0106	Vimbuch, Vimbuch	8.11501, 48.71676	krumbeere	krummbeer	2	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+485	TÜB S6	na	Oberprechtal	8.12114, 48.20548	grumbiere	na	999	grumbire	na	999	Grundbirne	na	999
+486	KST D5	III_5_0118	Neeweiler (Neewiller-près-Lauterbourg), Neeweiler	8.12624, 48.95491	grumbeerä	grumbeerä	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+487	TÜB a9	III_8_0099	Weitenung, Weitenung	8.12886, 48.73998	grummbēere	grumbeere	2	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+488	KST L7	na	Wintersdorf	8.13451, 48.84595	grombeere	na	999	grombere	na	999	Grundbirne	na	999
+489	KST D4	III_5_0119, III_5_0120	Scheibenhard, Scheibenhard, Scheibenhardt	8.13481, 48.97663	grumbeer	grumbeer, grumbeere	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+490	KST S13	na	Liedelshof bei Sinzheim	8.13914, 48.74435	grummbir	na	999	grumbire	na	999	Grundbirne	na	999
+491	KST S15	III_7_0112	Iffezheim, Iffezheim	8.14011, 48.82287	grumbier	grumbiere	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+492	KST S11	III_7_0122	Halberstung, Halberstung	8.14298, 48.76025	grumbire	krumbire	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+493	KST D7	III_5_0115, III_5_0116	Münchhausen (Munchhausen), Münchhausen	8.14635, 48.92142	grumbeā	grumbea, grumbeere	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+494	KST D6	III_5_0117	Motern (Mothern), Motern	8.15128, 48.93354	grummbeere	grummbeere	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+495	KST L6	na	Ottersdorf	8.15398, 48.86103	krummbeer	na	999	grumbere	na	999	Grundbirne	na	999
+496	KST L5	III_6_0090	Plittersdorf bei Rastatt, Plittersdorf	8.15649, 48.88249	groumbiere	groumbiere	0	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+497	TÜB a10	III_8_0100	Steinbach, Steinbach	8.16038, 48.72843	grumbire	grumbier	2	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+498	TÜB b5	III_8_0101, III_8_0102	Eisental, Eisental	8.16417, 48.71189	grumbeere	grumbiere	1	grumbere	grumbire	1	Grundbirne	Grundbirne	0
+499	KST T12	na	Kartung bei Sinzheim	8.16546, 48.771	grumber	na	999	grumbere	na	999	Grundbirne	na	999
+500	KST S12	III_7_0136, III_7_0123	Sinzheim bei Winden, Sinzheim	8.16564, 48.76405	grumbiere	grumbeere	1	grumbire	grumbere	1	Grundbirne	Grundbirne	0
+501	TÜB b3	na	Varnhalt	8.17941, 48.73522	grumbire	na	999	grumbire	na	999	Grundbirne	na	999
+502	KST E1	III_5_0127	Lauterburg (Weissenburg) (Lauterbourg), Lauterburg	8.18046, 48.97495	grummbäar	grumbeere	4	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+503	KST T13	na	Sinzheim-Vormberg-Ebenung	8.18209, 48.7552	krumbeere	na	999	grumbere	na	999	Grundbirne	na	999
+504	TÜB b4	III_8_0111, III_8_0110	Neuweier, Neuweier	8.18377, 48.72012	grumbira	grumbire	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+505	TÜB b8, TÜB b7	na	Bühlertal-Obertal, Bühlertal-Untertal	8.19194, 48.68215	grummbiere	na	999	grumbire	na	999	Grundbirne	na	999
+506	KST T10	III_7_0125	Sandweier, Sandweier	8.19586, 48.80855	krummbir	krummbier	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+507	KST M1	III_6_0097	Steinmauern, Steinmauern	8.19956, 48.90045	grumbern	grumbeer	2	grumberne	grumbere	1	Grundbirne	Grundbirne	0
+508	KST M10/2, KST M10/1	III_6_0109	Rastatt, Rastatt	8.20142, 48.8573	grumbier	grumbiere	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+509	KST E8	III_5_0129	Illingen, Illingen	8.20923, 48.9349	grumbēre	grumbere	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+510	KST E7	III_5_0130	Elchesheim, Elchesheim	8.2136, 48.93047	krumbeere	krumbeer	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+511	KST M9	III_6_0108	Niederbühl, Niederbühl	8.21769, 48.84547	grumbere	grumbern	1	grumbere	grumberne	1	Grundbirne	Grundbirne	0
+512	KST T9	III_7_0127, III_7_0126	Haueneberstein, Haueneberstein	8.22194, 48.80626	krumber	grumbier	2	grumbere	grumbire	1	Grundbirne	Grundbirne	0
+513	KST T8	na	Baden-Baden/Balg	8.22708, 48.78962	grumbīre	na	999	grumbire	na	999	Grundbirne	na	999
+514	KST M3	III_6_0099, III_6_0098	Ötigheim, Oetigheim	8.23212, 48.89333	grumbeer	grumbeer	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+515	KST E9	III_5_0131	Au am Rhein, Au am Rhein	8.23933, 48.95136	grumbēr	grumbirn	2	grumbere	grumbirne	2	Grundbirne	Grundbirne	0
+516	KST T14/3, KST T14/1, KST T14/4	III_7_0131	Baden-Baden, Baden-Baden-West, Baden-Baden , Baden-Baden Weststadt	8.24094, 48.76273	grummbier, grumber, grumbire, grumbīre	grumbiere	1	grumbere, grumbire	grumbire	0	Grundbirne	Grundbirne	0
+517	TÜB b1	na	Gerolsau	8.24536, 48.73474	krumbiere	na	999	grumbire	na	999	Grundbirne	na	999
+518	KST T11	na	Baden-Oos	8.24755, 48.76768	grumbier	na	999	grumbire	na	999	Grundbirne	na	999
+519	KST M8	III_6_0107	Rauental, Rauental	8.24794, 48.8572	grumbiere	krumbiere	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+520	TÜB M2	na	Langenbach	8.25164, 48.3205	grumbirre	na	999	grumbire	na	999	Grundbirne	na	999
+521	KST M2	na	Bietigheim	8.25343, 48.91099	grumber	na	999	grumbere	na	999	Grundbirne	na	999
+522	KST T1	III_7_0128	Kuppenheim, Kuppenheim	8.25452, 48.82818	grumbiere	grumbier	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+523	KST E6	III_5_0139	Würmersheim, Würmersheim	8.25452, 48.94056	grumbere	grumber	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+524	TÜB b2/2, TÜB b2/1	na	Lichtent(h)al	8.2614, 48.74458	grumbīr, grumbīer	na	999	grumbire	na	999	Grundbirne	na	999
+525	TÜB i1	III_9_0104	Herrenwies, Herrenwies	8.26593, 48.65907	krumbir	krummbiere	3	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+526	KST E2	na	Neuburgweier	8.26776, 48.96981	grummbeere, grummbeer	na	999	grumbere	na	999	Grundbirne	na	999
+527	KST E5	III_5_0132, III_5_0133	Durmersheim, Durmersheim	8.2685, 48.93129	grumbier	grumber	1	grumbire	grumbere	1	Grundbirne	Grundbirne	0
+528	KST T7	III_7_0132	Ebersteinburg, Ebersteinburg	8.26889, 48.77997	grumbier	krumbiere	2	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+529	TÜB i2	III_9_0105	Forbach-Hundsbach, Forbach-Hundsbach	8.27064, 48.62026	grum̄biere	grumbeere	2	grumbire	grumbere	1	Grundbirne	Grundbirne	0
+530	KST T2	na	Oberndorf	8.27573, 48.82868	grumbiere	na	999	grumbire	na	999	Grundbirne	na	999
+531	KST M4	III_6_0104, III_6_0105	Muggensturm, Muggenturm	8.2763, 48.87021	grumbīr	grumbir, grummbir	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+532	KST M7	III_6_0106	Bischweier, Bischweier	8.28478, 48.83768	grumbiere	grumbire	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+533	KST E4	III_5_0137, III_5_0136, III_5_0138	Mörsch, Mörsch	8.28883, 48.96003	grumbire	grumbiere	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+534	TÜB M10	na	Lehengericht	8.30807, 48.2924	grumbiere	na	999	grumbire	na	999	Grundbirne	na	999
+535	KST T6	III_7_0133	Staufenberg, Staufenberg	8.3082, 48.76673	grumbire	krummbiere, krummbirne	3	grumbire	grumbirne, grumbire	0	Grundbirne	Grundbirne	0
+536	KST T3	na	(Bad) Rotenfels (Ortsteil von Gaggenau)	8.30895, 48.81087	grumbern, krumbir	na	999	grumberne, grumbire	na	999	Grundbirne	na	999
+537	KST M6	na	Oberweier	8.31051, 48.84847	grumbiere	na	999	grumbire	na	999	Grundbirne	na	999
+538	KST T5	na	Selbach	8.31271, 48.78121	grumbiare	na	999	grumbire	na	999	Grundbirne	na	999
+539	KST E3	III_5_0135	Forchheim, Forchheim	8.31683, 48.97425	grumbier	grumbiere	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+540	KST T4	na	Gaggenau/Murg	8.32147, 48.801	grumbire	na	999	grumbire	na	999	Grundbirne	na	999
+541	KST M5	III_6_0103	Waldprechtsweier, Waldprechtsweier	8.33173, 48.8612	grummbiere	grummbere	1	grumbire	grumbere	1	Grundbirne	Grundbirne	0
+542	KST U2	na	Ottenau	8.33322, 48.79344	krumbeere	na	999	grumbere	na	999	Grundbirne	na	999
+543	KST N1	III_6_0100, III_6_0102, III_6_0101	Malsch, Malsch	8.3345, 48.88047	krum̄biere	krummbire, grumbire	2	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+544	KST U4	III_7_0134	Gernsbach, Gernsbach	8.33578, 48.76294	grumbiere	grumbieren	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+545	KST x 1	III_4_0114	Daxlanden, Daxlanden	8.33737, 49.0022	grumbir	grumbiere	2	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+546	TÜB c6	III_25_0008, III_25_0009	Bermersbach, Bermersbach	8.34126, 48.69401	grumbeer	grumbeer	0	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+547	KST U3	na	Hörden	8.34313, 48.78046	grumbiere	na	999	grumbire	na	999	Grundbirne	na	999
+548	KST y 8	na	Karlsruhe-Knielingen	8.34437, 49.03039	grumbiere	na	999	grumbire	na	999	Grundbirne	na	999
+549	TÜB c1	III_25_0007	Obertsrot und Hilpertsau, Hilpertsau	8.34633, 48.74303	grumbire	grumbirn	1	grumbire	grumbirne	1	Grundbirne	Grundbirne	0
+550	TÜB k1	III_26_0001	Raumünzach, Raumänzach	8.34869, 48.63918	grumbīre	grumbiere	2	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+551	KST U1	III_24_0001	Michelbach, Michelbach	8.35062, 48.8186	grumbire	grumbirn	1	grumbire	grumbirne	1	Grundbirne	Grundbirne	0
+552	TÜB c2	na	Weisenbach	8.35397, 48.72827	grumbier, grumbiern	na	999	grumbirne, grumbire	na	999	Grundbirne	na	999
+553	KST N2, KST U6	III_24_0002	Sulzbach, Sulzbach	8.35791, 48.80596	grummbīr, grombīr	grumbir	2	grombire, grumbire	grumbire	0	Grundbirne	Grundbirne	0
+554	TÜB c8	III_25_0003, III_25_0004	Forbach, Forbach	8.3589, 48.67857	grummbian	krummbeere, grummbian	0	grumbirne	grumbere, grumbirne	0	Grundbirne	Grundbirne	0
+555	TÜB c7	na	Gausbach	8.36067, 48.68405	grumbeer	na	999	grumbere	na	999	Grundbirne	na	999
+556	TÜB c4	na	Au im Murgtal	8.36129, 48.72172	grumbär	na	999	grumbire	na	999	Grundbirne	na	999
+557	TÜB c5	III_25_0002	Langenbrand, Langenbrand	8.36334, 48.70441	krumbäre	krumbarn	2	grumbere	grumberne	1	Grundbirne	Grundbirne	0
+558	KST U5	na	Lautenbach bei Gernsbach	8.37068, 48.75614	grumbire	na	999	grumbire	na	999	Grundbirne	na	999
+559	KST F13	III_22_0002	Bruchhausen bei Ettlingen, Bruchhausen	8.371, 48.92716	grummbier	grombier	2	grumbire	grombire	1	Grundbirne	Grundbirne	0
+560	KST F1	na	Karlsruhe-Beiertheim	8.37277, 48.9907	grombīr	na	999	grombire	na	999	Grundbirne	na	999
+561	KST N3	III_23_0002	Oberweier, Oberweier	8.37866, 48.91717	krumbiere	krommbiere	2	grumbire	grombire	1	Grundbirne	Grundbirne	0
+562	KST y 9, KST y 10	III_21_0001	Neureut, Neureut	8.37902, 49.05267	grumbiere	grummbiere	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+563	KST F2	III_22_0001	Bulach, Bulach	8.38244, 48.9868	grumbiera	grombier	2	grumbire	grombire	1	Grundbirne	Grundbirne	0
+564	KST F12	III_22_0003	Ettlingenweier, Ettlingenweier	8.38589, 48.92887	grombira	grumbiere	3	grombire	grumbire	1	Grundbirne	Grundbirne	0
+565	KST N12	na	Moosbronn	8.38849, 48.83638	grumbiere	na	999	grumbire	na	999	Grundbirne	na	999
+566	TÜB c3	III_25_0005	Reichental, Reichental	8.39101, 48.72956	krumbär	grumban	3	grumbere	grumberne	1	Grundbirne	Grundbirne	0
+567	KST r4	III_20_0006	Leopoldshafen, Leopoldshafen	8.3923, 49.09933	grumbier	grumbir	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+568	KST y 11	III_20_0007, III_20_0008	Eggenstein, Eggenstein	8.39572, 49.08482	grumbire	grumbire	0	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+569	KST N4	III_23_0007	Schluttenbach, Schluttenbach	8.40022, 48.89885	grumbiere	grummbiere	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+570	KST F14/2, KST F14/1	III_22_0005, III_22_0004, III_22_0006	Ettlingen, Ettlingen , Ettlingen	8.40245, 48.94247	grumbiere, grumbier	grumbier, grombiere	0	grumbire	grombire, grumbire	0	Grundbirne	Grundbirne	0
+571	KST F3	III_21_0003	Karlsruhe-Rüppurr, Karlsruhe-Rüppurr	8.406, 48.97394	grombiere, grombier	grumbiere	1	grombire	grumbire	1	Grundbirne	Grundbirne	0
+572	KST r3	III_20_0005	Linkenheim, Linkenheim	8.40844, 49.12418	krůmmbiere	grumbiere	3	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+573	KST k1	III_19_0003	Rheinsheim, Rheinsheim	8.40954, 49.23272	grummbēr	grumbier	3	grumbere	grumbire	1	Grundbirne	Grundbirne	0
+574	KST r1	III_20_0002	Liedolsheim, Liedolsheim	8.41451, 49.16221	grumbia	grumbier	2	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+575	KST r2	III_20_0003, III_20_0004	Hochstetten, Hochstetten	8.41566, 49.13702	grumbier, grumbiera	grumbiere, grumbire	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+576	KST N5	na	Schöllbronn bei Ettlingen	8.42179, 48.89892	grumbiere	na	999	grumbire	na	999	Grundbirne	na	999
+577	KST k4	na	Rußheim	8.42435, 49.18617	krumbier	na	999	grumbire	na	999	Grundbirne	na	999
+578	KST N6	na	Spessart	8.42992, 48.91189	krumbïr	na	999	grumbire	na	999	Grundbirne	na	999
+579	KST N9	III_23_0012	Burbach, Burbach	8.43853, 48.87037	grumbiere	grumbiere	0	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+580	KST N11	III_23_0013	Schielberg, Schielberg	8.44945, 48.84311	krummbiere	krummbiere	0	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+581	KST y 5	na	Rintheim	8.45071, 49.0099	grumbiere	na	999	grumbire	na	999	Grundbirne	na	999
+582	KST F4	na	Wolfartsweier	8.45219, 48.97443	grŭmbïre	na	999	grumbire	na	999	Grundbirne	na	999
+583	KST k2	III_19_0004, III_19_0005, III_19_0007	Philippsburg, Philippsburg	8.45298, 49.235	grumbier	grumbier, grummbiere	0	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+584	KST y 3	III_21_0007	Hagsfeld, Hagsfeld	8.45514, 49.02773	grumbier	grumbier	0	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+585	KST N10	na	Pfaffenrot	8.45861, 48.86075	grumbieren	na	999	grumbire	na	999	Grundbirne	na	999
+586	KST F5	na	Karlsruhe-Aue	8.46138, 48.9881	grummbiere	na	999	grumbire	na	999	Grundbirne	na	999
+587	KST F10	na	Busenbach	8.46237, 48.93179	grumbiere	na	999	grumbire	na	999	Grundbirne	na	999
+588	KST N7	III_23_0004, III_23_0003	Etzenrot, Etzenrot	8.46465, 48.90968	grumbier	grumbiere, grumbire	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+589	KST F8	III_22_0007	Grünwettersbach, Grünwettersbach	8.46671, 48.95784	grumbier	grumbier	0	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+590	Ma h1/2	II_59_0060, II_59_0048, II_59_0040, II_59_0049, II_59_0050, II_59_0042, II_59_0052, II_59_0051, II_59_0053, II_59_0056, II_59_0047, II_59_0039, II_59_0054	Mannheim, Mannheim	8.46678, 49.4865	grumbeere	grumbier, grumbire, grumbiere, grumbeer, grundbirne, grumbiern, grumbeere, krummbiere, grumbäre, grummbeer	0	grumbere	grumbere, grumbirne, grumbire, grundbirne	0	Grundbirne	Grundbirne	0
+591	KST y 2	na	Büchig	8.46824, 49.04811	grummbir	na	999	grumbire	na	999	Grundbirne	na	999
+592	KST k3	III_19_0008	Huttenheim, Huttenheim	8.46955, 49.1967	grumbier	grumbiere	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+593	KST F6	III_21_0008	Karlsruhe-Durlach, Durlach	8.4704, 48.99897	grummbier	grumbir	2	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+594	KST N8	III_23_0011	Spielberg, Spielberg	8.47045, 48.89758	grumbiere	grumbier	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+595	KST y1	III_21_0006	Blankenloch, Blankenloch	8.47137, 49.06482	grumbier	krumbire	3	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+596	KST c1	III_18_0010	Rheinhausen, Rheinhausen	8.47341, 49.28141	gru̠mbīr	krum̄bire	5	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+597	KST F11	III_22_0009	Reichenbach bei Ettlingen, Reichenbach	8.47546, 48.92348	grumbīre	grummbir	3	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+598	KST F7	na	Hohenwettersbach	8.47808, 48.96713	grumbir	na	999	grumbire	na	999	Grundbirne	na	999
+599	KST r5	III_20_0009	Friedrichstal, Friedrichstal	8.48091, 49.10481	grumbeere	grumbeer	1	grumbere	grumbere	0	Grundbirne	Grundbirne	0
+600	KST F9	III_22_0008	Palmbach, Palmbach	8.48266, 48.94683	grummbīr	grombiera	5	grumbire	grombire	1	Grundbirne	Grundbirne	0
+601	KST c2	III_18_0011, III_18_0012, III_18_0014, III_18_0013	Oberhausen, Oberhausen	8.48324, 49.26035	grumbire	grummbiara, grumbira, grumbiera	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+602	KST r6	III_20_0010	Graben, Graben	8.48928, 49.16535	grumbier	grumbiere	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+603	KST y 4	III_21_0021	Grötzingen, Grötzingen	8.49556, 49.00711	grummbir	grumbir	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+604	KST l9	III_19_0012, III_19_0011, III_19_0009, III_19_0010	Neudorf, Neudorf	8.49692, 49.17524	grumbiere	grumbir, krumbiire	2	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+605	KST O8	III_23_0009, III_23_0010, III_23_0008	Langenalb, Langenalb	8.50104, 48.84402	grumbier	grombira, krumbierer, grumbira	2	grumbire	grombire, grumbire	0	Grundbirne	Grundbirne	0
+606	KST O1	III_22_0014	Langensteinbach, Langensteinbach	8.50638, 48.915	grummbīr	grumbire	3	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+607	KST O7	na	Ittersbach	8.50684, 48.86638	grummbiă	na	999	grumbire	na	999	Grundbirne	na	999
+608	KST s5	na	Spöck	8.51033, 49.11179	grumbiere	na	999	grumbire	na	999	Grundbirne	na	999
+609	KST s7	III_20_0015, III_20_0013, III_20_0014	Staffort, Staffort	8.51034, 49.09079	grumbier	grumbier, grumbierer	0	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+610	KST G7	III_22_0145	Stupferich, Stupferich	8.51098, 48.95396	grumbier	grumbiere	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+611	KST d8	III_18_0016	Waghäusel, Waghäusel	8.51733, 49.25118	grummbier	grummbir	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+612	KST l1	III_19_0013	Wiesental, Wiesental	8.51962, 49.22472	krumbire	grumbier	3	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+613	KST s4	III_20_0011	Neuthard, Neuthard	8.52086, 49.1278	grumbier	grumbiera	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+614	KST z6	III_21_0015, III_21_0014	Berghausen, Berghausen	8.52712, 49.00389	grummbier	grummbier	0	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+615	KST s6	III_20_0162	Büchenau, Büchenau	8.52764, 49.10075	grumbir	grumbiră	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+616	MH H10/2	na	Mannheim-Rheinau	8.53056, 49.4292	grumber, grumberä	na	999	grumbere	na	999	Grundbirne	na	999
+617	MH H10/1	na	Rheinau	8.53056, 49.42924	grumbēr	na	999	grumbere	na	999	Grundbirne	na	999
+618	KST z8	III_21_0012, III_21_0011, III_21_0013, III_21_0010, III_21_0009	Weingarten, Weingarten	8.53114, 49.0533	grumbiere	grummbiere, grumbier, grumbiere	0	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+619	KST O2	III_23_0014	Auerbach, Auerbach	8.53163, 48.91379	krombire	krombir	1	grombire	grombire	0	Grundbirne	Grundbirne	0
+620	KST G6	III_22_0015	Mutschelbach, Mutschelbach	8.53428, 48.94409	grommbīr	krommbiere	4	grombire	grombire	0	Grundbirne	Grundbirne	0
+621	KST s3	III_20_0016	Karlsdorf, Karlsdorf	8.54164, 49.1363	grumbire	grumbäre	1	grumbire	grumbere	1	Grundbirne	Grundbirne	0
+622	KST G1	III_22_0013, III_22_0011, III_22_0010	Söllingen, Söllingen	8.5425, 48.98622	grumbiere	krummbiere, grumbier	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+623	KST O6	III_23_0016	Weiler Kr. Pforzheim, Weiler	8.54326, 48.8837	grumbiere	grumbeere	1	grumbire	grumbere	1	Grundbirne	Grundbirne	0
+624	KST l8	III_19_0021	Hambrücken, Hambrücken	8.54514, 49.18532	grumbier	grumbire	2	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+625	KST l2	III_19_0161	Kirrlach, Kirrlach	8.54938, 49.24183	grumbier	grumbier	0	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+626	KST s8	III_20_0023, III_20_0022, III_20_0021	Untergrombach, Untergrombach	8.55318, 49.0861	grumbiere	grumbiere, grumbiern	0	grumbire	grumbirne, grumbire	0	Grundbirne	Grundbirne	0
+627	KST G2	na	Kleinsteinbach	8.55383, 48.96613	grumbiere	na	999	grumbire	na	999	Grundbirne	na	999
+628	KST O3	na	Dietenhausen	8.56003, 48.91574	grombier	na	999	grombire	na	999	Grundbirne	na	999
+629	KST z5	III_21_0017	Wöschbach, Wöschbach	8.56737, 48.99948	krum̄biere	krummbiere	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+630	KST G3	III_22_0016	Singen bei Pforzheim, Singen	8.56804, 48.95764	grummbiere̊	grombīere̊	3	grumbire	grombire	1	Grundbirne	Grundbirne	0
+631	KST G5	na	Nöttingen	8.56916, 48.93008	grumbier	na	999	grumbire	na	999	Grundbirne	na	999
+632	KST G4	III_22_0017	Wilferdingen, Wilferdingen	8.57281, 48.9487	krumbiere	grumbiere	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+633	KST z7	na	Jöhlingen	8.5744, 49.03222	grumbīr	na	999	grumbire	na	999	Grundbirne	na	999
+634	KST O4	III_23_0021	Ellmendingen, Ellmendingen	8.5761, 48.90131	grombier	grombier	0	grombire	grombire	0	Grundbirne	Grundbirne	0
+635	KST z 1	III_21_0016	Obergrombach, Obergrombach	8.58542, 49.07709	grumbier	grumbiere	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+636	KST O5	III_23_0015	Dietlingen, Dietlingen	8.60093, 48.89654	grummbier	grummbier	0	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+637	KST s2, KST s11	III_20_0018, III_20_0020, III_20_0019	Bruchsal (Forstamt), Bruchsal , Bruchsal	8.60102, 49.12377	grumbiere, grumbier	grumbiere, grummbier	0	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+638	KST d7	III_18_0019	Sankt Leon, Sankt Leon	8.6025, 49.26526	grumbier	krumbirne	4	grumbire	grumbirne	1	Grundbirne	Grundbirne	0
+639	KST z4	III_21_0018	Wössingen, Wössingen	8.61142, 49.01017	grumbir	grumbiere, grumbier	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+640	KST G8	III_22_0020, III_22_0018, III_22_0021, III_22_0019, III_22_0024	Königsbach, Stein, Königsbach	8.61207, 48.96515	gråmbia	grumbier, krombiere, krummbiere, grombiere, krumbier	3	grombire	grombire, grumbire	0	Grundbirne	Grundbirne	0
+641	KST G10	III_22_0022	Bilfingen, Bilfingen	8.61996, 48.95027	krummbiere	krumbier	2	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+642	KST l7	III_19_0015	Weiher, Weiher	8.62179, 49.17863	grumbirer	grumbier	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+643	KST d6	III_18_0021	Rot, Rot	8.63137, 49.26348	grumbier	grummbiere	2	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+644	KST s1	III_20_0024	Ubstadt, Ubstadt	8.6322, 49.16181	grum̄bīre	grumbire	2	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+645	KST l3	III_19_0014	Kronau, Kronau	8.63449, 49.21954	grumbīere	krummbiere	3	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+646	KST G11	III_22_0023	Ersingen, Ersingen	8.63492, 48.93324	grum̄bire	grumbiere	2	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+647	KST s9	na	Helmsheim	8.64229, 49.08509	grumbiere	na	999	grumbire	na	999	Grundbirne	na	999
+648	KST G9	na	Stein bei Pforzheim	8.6446, 48.9626	grumbier	na	999	grumbire	na	999	Grundbirne	na	999
+649	KST l6	III_19_0016	Stettfeld, Stettfeld	8.64516, 49.18353	grumbiere	grumbiir	2	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+650	KST s10	III_20_0026	Heidelsheim, Heidelsheim	8.64542, 49.10114	grumbierä	grumbiere	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+651	KST l5	na	(Bad) Langenbrücken	8.6466, 49.20296	krumbier	na	999	grumbire	na	999	Grundbirne	na	999
+652	MH R1/2	na	Heidelberg-Pfaffengrund	8.64698, 49.40282	grumbiere	na	999	grumbire	na	999	Grundbirne	na	999
+653	KST z3	III_21_0019	Dürrenbüchig, Dürrenbüchig	8.64747, 49.0227	grumbier	grumbīr	2	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+654	KST l4	III_19_0017, III_19_0018, III_19_0020, III_19_0019	Mingolsheim, Mingolsheim	8.65316, 49.21986	grumbier	grúmmbīr, grumbiere, krumbiere, grumbire	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+655	KST z2	III_21_0020	Gondelsheim, Gondelsheim	8.65584, 49.0596	grumbiere	grumbiere	0	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+656	KST O9	III_23_0028	Büchenbronn, Büchenbronn	8.66335, 48.85558	grumbier	grummbier	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+657	KST t3	III_20_0025	Unteröwisheim, Unteröwisheim	8.66595, 49.14423	grumbire	grumbire	0	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+658	KST P1	III_22_0027, III_22_0026	Ispringen , Ispringen	8.66764, 48.91655	krombīre	grumbiere, krumbire	2	grombire	grumbire	1	Grundbirne	Grundbirne	0
+659	KST P2	III_23_0029, III_23_0032, III_23_0030, III_23_0031	Brötzingen, Pforzheim-Brötzingen	8.66799, 48.889	grom̄bier	grombiere, grombier	1	grombire	grombire	0	Grundbirne	Grundbirne	0
+660	KST H4	III_22_0025	Eisingen, Eisingen	8.66865, 48.94773	grumbierä	grumbiere	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+661	KST m10	III_19_0027	Zeutern, Zeutern	8.67522, 49.17718	grumbire	grumbire	0	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+662	KST A6	III_21_0023	Diedelsheim, Diedelsheim	8.67848, 49.04109	grumbiere	krumbiere	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+663	KST e10	III_18_0024	Malschenberg, Malschenberg	8.67996, 49.25599	grumbiare	grumbiere	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+664	KST m1	na	Malsch	8.68153, 49.24579	grumbire	na	999	grumbire	na	999	Grundbirne	na	999
+665	KST A8	na	Sprantal	8.6823, 49.00345	grummbiere	na	999	grumbire	na	999	Grundbirne	na	999
+666	KST A7	III_21_0024	Rinklingen , Rinklingen	8.6832, 49.03485	krumbieră	grummbiere	3	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+667	KST A3	III_21_0022	Neibsheim (bei Bruchsal), Neibsheim	8.68509, 49.07104	grumbire	krummbiere	3	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+668	MH J3/2	na	Heidelberg-Handschuhsheim	8.68613, 49.42774	grumbiere	na	999	grumbire	na	999	Grundbirne	na	999
+669	MH R4	na	Leimen	8.68891, 49.34902	grum̄bire	na	999	grumbire	na	999	Grundbirne	na	999
+670	KST t2	III_20_0028	Oberöwisheim, Oberöwisheim	8.6891, 49.14532	grumbiere	grumbiere	0	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+671	MH R3	na	Heidelberg-Rohrbach	8.69, 49.38005	grumbiere	na	999	grumbire	na	999	Grundbirne	na	999
+672	KST H1	III_22_0028	Nussbaum, Nussbaum	8.69353, 48.98977	grumbīre	grumbiere	2	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+673	KST P7	III_23_0057	Huchenfeld, Huchenfeld	8.69574, 48.85613	grombier	grombir	1	grombire	grombire	0	Grundbirne	Grundbirne	0
+674	KST m2	III_19_0023	Rettigheim, Rettigheim	8.6981, 49.24111	grummbiere	krummbiere	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+675	KST P3/3, KST P3/4, KST P3/1, KST P3/2	III_23_0054, III_23_0045, III_23_0049, III_23_0042, III_23_0052, III_23_0038, III_23_0039, III_23_0040, III_23_0050, III_23_0044, III_23_0037, III_23_0048, III_23_0053, III_23_0047, III_23_0051, III_23_0043, III_23_0046, III_23_0036, III_23_0041	Pforzheim, Pforzheim	8.70025, 48.89013	grumbiere, grombīr, grom̄bier, krummbīre	grombīre, grumbier, grummbier, grumbire, krummbir, grumbiere, grummbir, grombier, krummbire, grombiere, grombir, krommbier	0	grombire, grumbire	grombire, grumbire	0	Grundbirne	Grundbirne	0
+676	KST e9	III_18_0025	Rauenberg, Rauenberg	8.70096, 49.27036	grumbiere	grumbier	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+677	KST A5	III_21_0026, III_21_0025, III_21_0027	Bretten, Bretten	8.70657, 49.03456	grumbier	krummbiere, grumbier, grombiere	0	grumbire	grombire, grumbire	0	Grundbirne	Grundbirne	0
+678	KST H3	III_22_0029	Göbrichen, Göbrichen	8.70848, 48.95808	grummbiren	krumpiere	5	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+679	KST A2	III_21_0031	Büchig (bei Bretten), Büchig	8.70984, 49.0742	grumbire	krummbir	3	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+680	KST e11	na	Rotenberg	8.71207, 49.25813	grumbier	na	999	grumbire	na	999	Grundbirne	na	999
+681	KST m11	III_19_0024, III_19_0025, III_19_0026	Östringen, Östringen	8.7137, 49.22037	grumbiere	grumbiere, krummbier, grumbire	0	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+682	KST t4	III_20_0029	Münzesheim, Münzesheim	8.71579, 49.12246	krummbiere	krummbiere	0	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+683	KST t1	na	Neuenbürg	8.71854, 49.15352	grumbiere	na	999	grumbire	na	999	Grundbirne	na	999
+684	KST m3	na	Mühlhausen	8.72271, 49.24953	grumbiire	na	999	grumbire	na	999	Grundbirne	na	999
+685	KST A4	na	Gölshausen	8.72322, 49.04608	grumbierå	na	999	grumbire	na	999	Grundbirne	na	999
+686	KST A9	na	Ruit	8.72435, 49.00924	grombiere	na	999	grombire	na	999	Grundbirne	na	999
+687	KST H2	III_22_0031, III_22_0032	Bauschlott, Bauschlott	8.72785, 48.97051	grummbiére	grummbiere	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+688	KST P6	na	Hohenwart	8.73054, 48.83244	grumbier	na	999	grumbire	na	999	Grundbirne	na	999
+689	KST e8	III_18_0028	Dielheim, Dielheim	8.7354, 49.28257	grumbīr	grummbier	3	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+690	KST P8	III_23_0058	Würm, Würm	8.73641, 48.86041	krombiere	grombier	2	grombire	grombire	0	Grundbirne	Grundbirne	0
+691	TÜB m1	III_26_0039	Wildberg Kreis Calw, Wildberg	8.73924, 48.62251	grumbier	grommbiir	3	grumbire	grombire	1	Grundbirne	Grundbirne	0
+692	KST W1	III_24_0023	Schellbronn, Schellbronn	8.74222, 48.81738	krumbier	grumbier	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+693	KST A1	na	Bauerbach	8.74269, 49.07514	krummbīre	na	999	grumbire	na	999	Grundbirne	na	999
+694	KST t6	III_20_0032	Gochsheim, Gochsheim	8.74551, 49.10407	grumbiere	grumbiera	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+695	KST P4	na	Eutingen	8.74574, 48.91069	krumbier	na	999	grumbire	na	999	Grundbirne	na	999
+696	KST m9	III_19_0028	Odenheim, Odenheim	8.75076, 49.17902	grumbiere	grumbiere	0	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+697	KST H6	III_22_0035	Kieselbronn, Kieselbronn	8.75287, 48.93453	grombirä	grommbiere	3	grombire	grombire	0	Grundbirne	Grundbirne	0
+698	KST H5	III_22_0034	Dürrn, Dürrn	8.75615, 48.95653	krummbire	grombire	3	grumbire	grombire	1	Grundbirne	Grundbirne	0
+699	KST e12	III_18_0029	Tairnbach, Tairnbach	8.75625, 49.26367	grumbire	krumbiere	2	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+700	MH R14	na	Schlierbach	8.76062, 49.41501	grummbia	na	999	grumbire	na	999	Grundbirne	na	999
+701	KST W2	III_24_0024	Hamberg, Hamberg	8.76924, 48.81833	grumbiere	grumbiere	0	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+702	KST H7	na	Niefern	8.77601, 48.91977	grombiere	na	999	grombire	na	999	Grundbirne	na	999
+703	TUTT P4	na	Gotttmadingen	8.77716, 47.73498	grundbirne	na	999	grundbirne	na	999	Grundbirne	na	999
+704	KST W7	III_24_0034	Neuhausen, Neuhausen	8.77888, 48.79256	grumbiere	grumbiere	0	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+705	KST t7	III_20_0036, III_20_0039, III_20_0037, III_20_0035, III_20_0038	Flehingen , Flehingen	8.78694, 49.0869	grumbiere	grumbiere, krummbire, grum̄biere	0	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+706	KST W4	III_24_0025	Steinegg, Steinegg	8.79091, 48.81349	grombier	krombiere	2	grombire	grombire	0	Grundbirne	Grundbirne	0
+707	KST m8	na	Tiefenbach	8.79638, 49.17561	grumbierä	na	999	grumbire	na	999	Grundbirne	na	999
+708	KST W3	III_24_0026	Tiefenbronn, Tiefenbronn	8.80329, 48.82521	krummbiere	grummbier	2	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+709	KST m6	III_19_0033	Waldangelloch, Waldangelloch	8.80551, 49.21046	grumbīra	grumbira	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+710	KST m7	III_19_0036	Eichelberg, Eichelberg	8.813, 49.1891	grummbiere	krummbir	3	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+711	KST P5	III_23_0035	Öschelbronn, Öschelbronn	8.81415, 48.90599	grombīre	grumbier	4	grombire	grumbire	1	Grundbirne	Grundbirne	0
+712	KST W6	III_24_0035	Lehningen, Lehningen	8.81639, 48.79486	grombire	krombiere	2	grombire	grombire	0	Grundbirne	Grundbirne	0
+713	KST W5	III_24_0036	Mühlhausen , Mühlhausen	8.82201, 48.80607	grumbir	grombiere	3	grumbire	grombire	1	Grundbirne	Grundbirne	0
+714	KST f9	III_18_0045	Hoffenheim, Hoffenheim	8.8417, 49.27088	grumbiere	krumbirne	3	grumbire	grumbirne	1	Grundbirne	Grundbirne	0
+715	KST B1	na	Kürnbach	8.84279, 49.07732	grümbierä	na	999	grümbire	na	999	Grundbirne	na	999
+716	KST n12	III_19_0040, III_19_0039, III_19_0038	Hilsbach, Hilsbach	8.86227, 49.1957	grummbire	krummbiere, grumbiere, grumbeere	2	grumbire	grumbere, grumbire	0	Grundbirne	Grundbirne	0
+717	KST f10	na	Daisbach	8.87705, 49.2938	grumbire	na	999	grumbire	na	999	Grundbirne	na	999
+718	KST n10	na	Adelshofen	8.89073, 49.16806	krummbiere	na	999	grumbire	na	999	Grundbirne	na	999
+719	TÜB f1	III_25_0047	Döffingen, Döffingen	8.91383, 48.7106	grum̄bier	krumbir	3	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+720	KST g3	III_18_0062	Hüffenhardt, Hüffenhardt	9.08386, 49.2913	grumbieren	grumbieren	0	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+721	SIG k5	na	Hattenweiler	9.27568, 47.85957	grundbire	na	999	grundbire	na	999	Grundbirne	na	999
+722	MH E1	na	Hainstadt	9.33082, 49.53905	grumbern	na	999	grumberne	na	999	Grundbirne	na	999
+723	MH o8/1, MH o8/2	II_89_0005	Ebenheid, Ebenheid	9.36095, 49.7158	grumbirn, grummbern	grumbera	2	grumberne, grumbirne	grumbere	1	Grundbirne	Grundbirne	0
+724	SIG u1	na	Immenstaad	9.3675, 47.66625	grumbirre	na	999	grumbire	na	999	Grundbirne	na	999
+725	MH E7	na	Walldürn	9.36793, 49.58322	grumbern	na	999	grumberne	na	999	Grundbirne	na	999
+726	MH N4/2	na	Zimmern	9.37304, 49.43313	grumbira	na	999	grumbire	na	999	Grundbirne	na	999
+727	SIG o8	na	Untersiggingen	9.37828, 47.77517	grundbera	na	999	grundbere	na	999	Grundbirne	na	999
+728	MH o1	II_89_0016	Rauenberg, Rauenberg	9.38407, 49.74117	grumbern	krumbǟrn	2	grumberne	grumberne	0	Grundbirne	Grundbirne	0
+729	SIG r3	na	Markdorf	9.38933, 47.72088	grundbirä	na	999	grundbire	na	999	Grundbirne	na	999
+730	MH f2	na	Boxtal	9.40146, 49.76416	grumbiere	na	999	grumbire	na	999	Grundbirne	na	999
+731	MH o2	II_89_0006	Wessental, Wessental	9.41215, 49.73004	krumbirn	krummbirne	2	grumbirne	grumbirne	0	Grundbirne	Grundbirne	0
+732	MH f1	II_88_0007	Mondfeld, Krs. Tauberbischofsheim, Mondfeld	9.41656, 49.7837	grummbirn	krummbirn	1	grumbirne	grumbirne	0	Grundbirne	Grundbirne	0
+733	MH w4	na	Höpfingen	9.42753, 49.60185	grummbeern	na	999	grumberne	na	999	Grundbirne	na	999
+734	MH w2	II_90_0006	Dornberg, Dornberg	9.42843, 49.62542	grumbern	grumbere	1	grumberne	grumbere	1	Grundbirne	Grundbirne	0
+735	MH o4	II_89_0014	Hundheim, Hundheim	9.46691, 49.69109	krumbirn	krumbirn	0	grumbirne	grumbirne	0	Grundbirne	Grundbirne	0
+736	MH q1	na	Steinbach	9.47108, 49.68011	grumbiere	na	999	grumbire	na	999	Grundbirne	na	999
+737	MH E6	II_91_0005	Bretzingen, Bretzingen	9.48682, 49.57826	grumbern	grumbern	0	grumberne	grumberne	0	Grundbirne	Grundbirne	0
+738	MH p4	II_89_0013	Dörlesberg, Dörlesberg	9.501, 49.71273	krumbern	grumbirnen	4	grumberne	grumbirne	1	Grundbirne	Grundbirne	0
+739	MH p5	II_89_0024	Külsheim, Külsheim	9.5236, 49.66947	krumbere	grummbiere	3	grumbere	grumbire	1	Grundbirne	Grundbirne	0
+740	MH F1	II_91_0008	Pülfringen, Pülfringen	9.52624, 49.58149	krumbeern	krummbiern	2	grumberne	grumbirne	1	Grundbirne	Grundbirne	0
+741	MH p2	II_89_0022	Reicholzheim, Reicholzheim	9.53393, 49.72663	krumbern	grumbirne	3	grumberne	grumbirne	1	Grundbirne	Grundbirne	0
+742	MH p3	II_89_0023	Bronnbach, Bronnbach	9.54654, 49.71348	grumbiere	grumbiere	0	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+743	MH p6/1, MH p6/2	II_89_0025	Uissigheim, Uissigheim	9.57194, 49.67957	grumbiere, grummbiere	grummbiere	0	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+744	MH x1	II_90_0010	Eiersheim, Eiersheim	9.58787, 49.65953	grumbēre	grumbiere	2	grumbere	grumbire	1	Grundbirne	Grundbirne	0
+745	MH p8	II_89_0026	Gamburg, Gamburg	9.59986, 49.69382	grumbiere	krumbiere	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+746	MH p12	II_89_0020	Dietenhan, Dietenhan	9.6066, 49.74297	grummbīre	grummbiera	3	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+747	MH p11a/1, MH p11a/2	II_89_0021	Kembach, Kembach	9.62461, 49.74217	krummbiere	grummbiera	2	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+748	MH x2	II_90_0017, II_90_0020, II_90_0018, II_90_0019	Hochhausen, Hochhausen	9.63526, 49.6621	grummbiere	grumbiere, krumbihre	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+749	MH p7	II_89_0031, II_89_0030, II_89_0032	Werbach, Werbach	9.63871, 49.67029	grumbire	krumbiere, grumbire, krumbire	0	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+750	MH q3	II_89_0035	Werbachhausen, Werbachhausen	9.67954, 49.67946	grumbiere	krummbiere	2	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+751	STU k1	III_24_0105	Wäschenbeuren, Wäschenbeuren	9.68695, 48.75984	grombira	grombirê, grundbirne	1	grombire	grombire, grundbirne	0	Grundbirne	Grundbirne	0
+752	MH q2	II_89_0034	Wenkheim, Wenkheim	9.70149, 49.70022	krumbire	krumbiere	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+753	MH G2	II_91_0017	Lauda, Lauda	9.70203, 49.5702	krummbire	krummbiere	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+754	MH G3	II_91_0026	Gerlachsheim, Gerlachsheim	9.71775, 49.57998	grumbiere	grumbiere	0	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+755	MH y1	II_89_0036	Großrinderfeld, Grossrinderfeld	9.73405, 49.66558	grummbiere	grummbiere	0	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+756	MH y3	II_90_0024	Grünsfeldhausen, Grünsfeldhausen	9.74055, 49.62456	grumbiere	grumbiere	0	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+757	MH y6	II_90_0023	Grünsfeld, Grünsfeld	9.74656, 49.6066	grumbire	grumbire	0	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+758	MH y2	II_90_0025	Paimar, Paimar	9.75368, 49.6402	krumbiere	grumbiere	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+759	MH G5	II_91_0027	Kützbrunn, Kützbrunn	9.76136, 49.58159	grumbīre	grumbiere	2	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+760	MH y8	II_90_0026	Krensheim, Krensheim	9.78002, 49.63781	krumbïera	krummbira	3	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+761	MH q4	II_89_0040	Gerchsheim, Gerchsheim	9.78301, 49.70681	grumbiere	grumbiere	0	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+762	MH G6	II_91_0028, II_91_0029	Messelhausen, Messelhausen	9.7887, 49.5756	grumbire	krummbiere, grumbire	0	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+763	MH y10	II_89_0042	Ilmspan, Ilmspan	9.79016, 49.66609	krumbira	krumbira	0	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+764	MH G7/2, MH G7/1	na	Oberbalbach	9.7938, 49.53997	grumbīra, grumbira	na	999	grumbire	na	999	Grundbirne	na	999
+765	MH q5	II_89_0041	Schönfeld, Schönfeld	9.80069, 49.67702	grumbire	grumbiera	2	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+766	MH y7	II_90_0131	Vilchband, Vilchband	9.82424, 49.58989	grummbiere	krummbiera	2	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+767	MH y9	II_90_0027	Poppenhausen, Poppenhausen	9.82622, 49.63065	grumbira	krumbira	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+768	MH ya2	II_90_0028	Unterwittighausen, Unterwittighausen	9.83878, 49.61344	grumbira	krumbira	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+769	MH ya1/1, MH ya1/2	II_90_0030	Oberwittighausen, Oberwittighausen	9.85164, 49.62585	grummbiara	krummbiara	1	grumbire	grumbire	0	Grundbirne	Grundbirne	0
+770	na	III_16_0017	Retzweiler	7.09315, 47.63072	na	grumbeera	999	na	grumbere	999	na	Grundbirne	999
+771	na	III_16_0004	Gommersdorf	7.13318, 47.64299	na	grumbeera	999	na	grumbere	999	na	Grundbirne	999
+772	na	III_11_0082	Leberau	7.28169, 48.2709	na	grumbeere	999	na	grumbere	999	na	Grundbirne	999
+773	na	III_10_0003	Mühlbach	7.29709, 48.51659	na	grŏmbeeere	999	na	grombere	999	na	Grundbirne	999
+774	na	III_12_0007	Zellenberg	7.31874, 48.17063	na	grummbeere	999	na	grumbere	999	na	Grundbirne	999
+775	na	III_13_0026	Herlisheim	7.32932, 48.01677	na	grumbiere	999	na	grumbire	999	na	Grundbirne	999
+776	na	III_14_0111	Mülhausen	7.34375, 47.7517	na	grumbeere	999	na	grumbere	999	na	Grundbirne	999
+777	na	III_12_0011	Rodern	7.35716, 48.22457	na	grumbeera	999	na	grumbere	999	na	Grundbirne	999
+778	na	III_8_0052	Lochweiler	7.41619, 48.69645	na	krumbeer	999	na	grumbere	999	na	Grundbirne	999
+779	na	III_10_0087	Rosheim	7.46905, 48.49622	na	grumbeere	999	na	grumbere	999	na	Grundbirne	999
+780	na	III_10_0010	Sulzbad	7.48699, 48.572	na	grumbeer	999	na	grumbere	999	na	Grundbirne	999
+781	na	III_9_0021	Scharrachbergheim	7.49581, 48.593	na	grombere	999	na	grombere	999	na	Grundbirne	999
+782	na	III_12_0027	Ohnenheim	7.50726, 48.18379	na	grumbeer	999	na	grumbere	999	na	Grundbirne	999
+783	na	III_10_0039	Griesheim	7.53227, 48.50237	na	grombeer	999	na	grombere	999	na	Grundbirne	999
+784	na	III_9_0039	Nuegartheim, Ittlenheim	7.53766, 48.6623	na	grundbeere	999	na	grundbere	999	na	Grundbirne	999
+785	na	III_16_0063	Sankt Ludwig	7.56351, 47.58575	na	grumbera	999	na	grumbere	999	na	Grundbirne	999
+786	na	III_9_0042	Fürdenheim	7.56378, 48.61325	na	grumbeere	999	na	grumbere	999	na	Grundbirne	999
+787	na	III_16_0061	Neudorf	7.57149, 47.60532	na	crummbeeri	999	na	grumbere	999	na	Grundbirne	999
+788	na	III_10_0098	Innenheim	7.57348, 48.49644	na	krumbeera	999	na	grumbere	999	na	Grundbirne	999
+789	na	III_16_0066	Hüningen	7.58374, 47.5912	na	grumbirne	999	na	grumbirne	999	na	Grundbirne	999
+790	na	III_10_0028	Kolbsheim	7.58834, 48.56138	na	krombeere	999	na	grombere	999	na	Grundbirne	999
+791	na	III_9_0031	Ittenheim	7.59542, 48.60404	na	grumbeere	999	na	grumbere	999	na	Grundbirne	999
+792	na	III_14_0137	Hügelheim	7.6208, 47.82868	na	grumbeeri	999	na	grumbere	999	na	Grundbirne	999
+793	na	III_10_0030	Achenheim	7.62578, 48.5817	na	grumbeere	999	na	grumbere	999	na	Grundbirne	999
+794	na	III_10_0110	Fegersheim	7.67959, 48.4897	na	grumbeere	999	na	grumbere	999	na	Grundbirne	999
+795	na	III_17_0038	Wyhlen	7.69103, 47.54989	na	grumbeere	999	na	grumbere	999	na	Grundbirne	999
+796	na	III_14_0063	Sulzburg	7.70727, 47.84122	na	grumbiere	999	na	grumbire	999	na	Grundbirne	999
+797	na	III_16_0102	Eichsel	7.75815, 47.59842	na	krummbire	999	na	grumbire	999	na	Grundbirne	999
+798	na	III_15_0081, III_15_0079, III_15_0080	Zell im Wiesental	7.85301, 47.70753	na	grumbiere, grumbīre	999	na	grumbire	999	na	Grundbirne	999
+799	na	III_13_0147	<E.G.> Zähringen	7.86149, 48.02593	na	krummbiere	999	na	grumbire	999	na	Grundbirne	999
+800	na	III_13_0071, III_13_0073	Gundelfingen	7.87313, 48.04353	na	grumbere, grombiere	999	na	grombire, grumbere	999	na	Grundbirne	999
+801	na	III_13_0067	Suggental	7.92471, 48.07551	na	grumbire	999	na	grumbire	999	na	Grundbirne	999
+802	na	III_11_0131	Schuttertal	7.95562, 48.27087	na	grumbeere	999	na	grumbere	999	na	Grundbirne	999
+803	na	III_12_0055	Elzach	8.07142, 48.17331	na	grumbīre	999	na	grumbire	999	na	Grundbirne	999
+804	na	III_9_0100	Obersasbach	8.10713, 48.63223	na	grumbiere	999	na	grumbire	999	na	Grundbirne	999
+805	na	III_16_0146	Albbruck-Albert	8.11012, 47.58535	na	grumbire	999	na	grumbire	999	na	Grundbirne	999
+806	na	III_16_0142	Buch	8.11336, 47.61399	na	grundbirä	999	na	grundbire	999	na	Grundbirne	999
+807	na	III_8_0107	Bühl	8.13592, 48.69536	na	grumbier	999	na	grumbire	999	na	Grundbirne	999
+808	na	III_9_0095, III_9_0096	Neusatz	8.14904, 48.65879	na	grumbiere	999	na	grumbire	999	na	Grundbirne	999
+809	na	III_16_0150	Waldshut	8.21445, 47.6237	na	grundbire	999	na	grundbire	999	na	Grundbirne	999
+810	na	III_12_0066	Hornberg	8.23036, 48.21193	na	grumbire	999	na	grumbire	999	na	Grundbirne	999
+811	na	III_12_0163	Triberg	8.2316, 48.13032	na	krumbiere	999	na	grumbire	999	na	Grundbirne	999
+812	na	III_10_0144	Kniebis	8.3101, 48.47233	na	grombir	999	na	grombire	999	na	Grundbirne	999
+813	na	III_15_0118	Detzeln	8.32062, 47.66643	na	grumpele, grumbiere	999	na	grumbere, grumbire	999	na	Grundbirne	999
+814	na	III_30_0008	Schiltach	8.34259, 48.29033	na	grumbire	999	na	grumbire	999	na	Grundbirne	999
+815	na	III_23_0006	Völkersbach	8.39644, 48.8701	na	krummbir	999	na	grumbire	999	na	Grundbirne	999
+816	na	III_21_0002	Karlsruhe	8.40919, 49.01038	na	krummbiere	999	na	grumbire	999	na	Grundbirne	999
+817	na	II_58_0061	Mannheim-Sandhofen, Mannheim-Sandhofen	8.44789, 49.5433	na	grumbähre	999	na	grumbere	999	na	Grundbirne	999
+818	na	III_33_0070	Villingen	8.45901, 48.0567	na	groumbire	999	na	grumbire	999	na	Grundbirne	999
+819	na	II_59_0064	Mannheim	8.49104, 49.45335	na	grumbeere	999	na	grumbere	999	na	Grundbirne	999
+820	na	III_18_0008, III_18_0009	Altlussheim	8.49951, 49.30106	na	grumbeere	999	na	grumbere	999	na	Grundbirne	999
+821	na	III_34_0008	Donaueschingen	8.50052, 47.95113	na	grundbirre	999	na	grundbire	999	na	Grundbirne	999
+822	na	III_32_0007	Kappel	8.50341, 48.11215	na	grumbire	999	na	grumbire	999	na	Grundbirne	999
+823	na	II_58_0066	Käferthal	8.51715, 49.51259	na	grumbierä	999	na	grumbire	999	na	Grundbirne	999
+824	na	III_18_0017	Neulußheim	8.522, 49.29291	na	grumbire	999	na	grumbire	999	na	Grundbirne	999
+825	na	II_59_0067	Feudenheim	8.53299, 49.4864	na	grum̄bern	999	na	grumberne	999	na	Grundbirne	999
+826	na	II_59_0075	Wieblingen	8.64805, 49.42539	na	krumbere	999	na	grumbere	999	na	Grundbirne	999
+827	na	II_59_0071	Schriesheim	8.66514, 49.47649	na	grumbeer	999	na	grumbere	999	na	Grundbirne	999
+828	na	III_18_0023, III_18_0036	Wiesloch	8.70178, 49.29504	na	grumbiere, grumbier	999	na	grumbire	999	na	Grundbirne	999
+829	na	III_36_0039	Riedheim	8.74873, 47.76389	na	grummbire	999	na	grumbire	999	na	Grundbirne	999
+830	na	II_59_0079	Ziegelhausen	8.75688, 49.41876	na	grumbier	999	na	grumbire	999	na	Grundbirne	999
+831	na	III_36_0028	Weiterdingen	8.76917, 47.79954	na	grumbiere	999	na	grumbire	999	na	Grundbirne	999
+832	na	III_18_0031	Horrenberg	8.78051, 49.28149	na	grumbire	999	na	grumbire	999	na	Grundbirne	999
+833	na	III_19_0030, III_19_0031	Michelfeld	8.7808, 49.22723	na	grumbiere, krummbire	999	na	grumbire	999	na	Grundbirne	999
+834	na	II_60_0049	Mauer	8.79767, 49.34127	na	krummbirn	999	na	grumbirne	999	na	Grundbirne	999
+835	na	III_19_0034	Dühren	8.83562, 49.24557	na	grumbiere	999	na	grumbire	999	na	Grundbirne	999
+836	na	III_18_0047	Sinsheim	8.87357, 49.25387	na	krummbiere	999	na	grumbire	999	na	Grundbirne	999
+837	na	III_20_0048	Eppingen	8.9098, 49.13704	na	krummbira	999	na	grumbire	999	na	Grundbirne	999
+838	na	III_19_0045	Reihen	8.91628, 49.21715	na	grumbirn	999	na	grumbirne	999	na	Grundbirne	999
+839	na	III_18_0050, III_18_0049	Waibstadt	8.9198, 49.29982	na	grummbiern, grumbirn	999	na	grumbirne	999	na	Grundbirne	999
+840	na	III_32_0032	Hartheim	8.93612, 48.15571	na	grumbire	999	na	grumbire	999	na	Grundbirne	999
+841	na	III_20_0057	Stebbach	8.96448, 49.14676	na	krummbiere	999	na	grumbire	999	na	Grundbirne	999
+842	na	III_20_0056	Gemmingen	8.98358, 49.15633	na	grumbire	999	na	grumbire	999	na	Grundbirne	999
+843	na	III_34_0046	Worndorf	8.9985, 47.98553	na	grundbiere	999	na	grundbire	999	na	Grundbirne	999
+844	na	III_25_0044	Sindelfingen	9.00194, 48.70797	na	krumbira	999	na	grumbire	999	na	Grundbirne	999
+845	na	III_36_0055	Liggeringen	9.02698, 47.77495	na	grumbirra	999	na	grumbire	999	na	Grundbirne	999
+846	na	III_18_0060	Obergimpern	9.04013, 49.25574	na	krumbire	999	na	grumbire	999	na	Grundbirne	999
+847	na	III_35_0052	Zoznegg	9.04053, 47.89958	na	grumbiere	999	na	grumbire	999	na	Grundbirne	999
+848	na	III_35_0054	Schwackenreute	9.04401, 47.91392	na	grumbira	999	na	grumbire	999	na	Grundbirne	999
+849	na	III_19_0058	Bad Rappenau	9.10212, 49.24032	na	grumbiire	999	na	grumbire	999	na	Grundbirne	999
+850	na	III_34_0058	Messkirch	9.11537, 47.99484	na	grumbĕĕrĕ	999	na	grumbere	999	na	Grundbirne	999
+851	na	III_18_0074	Neudenau	9.27037, 49.2923	na	krumbäre	999	na	grumbere	999	na	Grundbirne	999
+852	na	II_57_0140	Gottersdorf	9.31064, 49.63751	na	grumbern	999	na	grumberne	999	na	Grundbirne	999
+853	na	II_57_0139	Gerolzahn	9.31895, 49.62645	na	grumbieren	999	na	grumbire	999	na	Grundbirne	999
+854	na	II_55_0129, II_55_0128	Freudenberg	9.32533, 49.75145	na	grumbern	999	na	grumberne	999	na	Grundbirne	999
+855	na	III_36_0092	Mittelstenweiler	9.33753, 47.75241	na	grundbire	999	na	grundbire	999	na	Grundbirne	999
+856	na	III_35_0080	Illmensee	9.37456, 47.86209	na	grumbirre	999	na	grumbire	999	na	Grundbirne	999
+857	na	II_90_0003	Wettersdorf	9.38743, 49.63075	na	krummbere	999	na	grumbere	999	na	Grundbirne	999
+858	na	II_92_0007	Osterburken	9.42838, 49.4308	na	grumbiirn	999	na	grumbirne	999	na	Grundbirne	999
+859	na	II_90_0007	Hardheim	9.47457, 49.60804	na	krumbire	999	na	grumbire	999	na	Grundbirne	999
+860	na	II_91_0006	Erfeld	9.49597, 49.55416	na	grumbere	999	na	grumbere	999	na	Grundbirne	999
+861	na	II_92_0011	Hirschlanden	9.50074, 49.47297	na	krummbeere	999	na	grumbere	999	na	Grundbirne	999
+862	na	II_89_0027	Niklashausen	9.6175, 49.70453	na	grumbierä	999	na	grumbire	999	na	Grundbirne	999
+863	na	II_90_0014	Dittwar	9.63593, 49.58974	na	krumbire	999	na	grumbire	999	na	Grundbirne	999
+864	na	II_91_0015	Heckfeld	9.63713, 49.55077	na	krummbir	999	na	grumbire	999	na	Grundbirne	999
+865	na	II_90_0016	Impfingen	9.65946, 49.64719	na	krumbiere	999	na	grumbire	999	na	Grundbirne	999
+866	na	II_90_0015	Tauberbischofsheim	9.66553, 49.62352	na	krumbiire	999	na	grumbire	999	na	Grundbirne	999
+867	na	II_90_0022	Distelhausen	9.69353, 49.59735	na	grumbiere	999	na	grumbire	999	na	Grundbirne	999
+868	na	II_91_0018	Beckstein	9.70422, 49.54668	na	krumbiere	999	na	grumbire	999	na	Grundbirne	999
+869	na	II_89_0037	Steinbach	9.72212, 49.71075	na	krummbierä	999	na	grumbire	999	na	Grundbirne	999
+870	na	II_91_0023	Unterbalbach	9.74711, 49.52779	na	grumbire	999	na	grumbire	999	na	Grundbirne	999

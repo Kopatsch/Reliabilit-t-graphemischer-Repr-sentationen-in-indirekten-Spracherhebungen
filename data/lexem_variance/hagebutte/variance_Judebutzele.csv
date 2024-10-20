@@ -1,0 +1,5 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_maurer_align	item_DWA	item_DWA_align	Levenshtein_item
+0	MH E1	II_58_0115	Hainstadt, Hainstadt	9.33082, 49.53905	judebützeli	j u d e b ü tz e l i	judebüzzeli	j u d e b ü zz e l i	1
+1	MH E3	II_91_0002	Rinschheim, Rinschheim	9.39249, 49.51369	judebützeli	j u d e b ü tz e l i	judelbüzeli	j u d e l b ü z e l i	2
+2	MH O3	II_92_0012	Berolzheim, Berolzheim	9.54042, 49.4749	judebüzelli	j u d e b ü z e ll i	judebützele	j u d e b ü tz e l e	3
+3	MH F3	II_91_0010	Buch, Buch	9.55592, 49.53858	judebützeli	j u d e b ü tz e l i	judebützele	j u d e b ü tz e l e	1

@@ -1,0 +1,4 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_maurer_align	item_DWA	item_DWA_align	Levenshtein_item
+0	TUTT B9	III_35_0049	Homberg Münchhof, Münchhöf	8.95295, 47.88032	grieche	g r ie ch e	krieche	k r ie ch e	1
+1	TUTT B10	III_35_0048	Raithaslach, Raithaslach	8.96262, 47.88125	griéche	g r i é ch e	grieche	g r ie ch e	1
+2	TUTT B11	III_35_0050	Mahlspüren, Mahlspüren	8.97748, 47.87563	grīeche	g r ī e ch e	krieche	k r ie ch e	2

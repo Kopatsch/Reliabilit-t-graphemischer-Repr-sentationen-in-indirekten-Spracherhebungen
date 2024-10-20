@@ -1,0 +1,41 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Co q 5	na	Mittlach	7.03325, 48.00405	grïecha	na	999	grieche	na	999	Grieche	na	999
+1	Co i 3	na	Metzeral	7.07146, 48.01325	griacha	na	999	grieche	na	999	Grieche	na	999
+2	Co q 4	na	Sondernach	7.07276, 47.99621	griacha	na	999	grieche	na	999	Grieche	na	999
+3	Co i 8	na	Hohrodberg	7.13528, 48.06037	griach	na	999	griech	na	999	Grieche	na	999
+4	Co Ua 9	na	Waldighofen	7.31605, 47.55061	chriacha	na	999	chrieche	na	999	Grieche	na	999
+5	Co Vd 1	na	Sondersdorf	7.33509, 47.48234	chrieche	na	999	chrieche	na	999	Grieche	na	999
+6	Co Va 8	na	Mittelmüspach-Niedermüspach (Muespach)	7.3807, 47.54728	chri̊che	na	999	chriche	na	999	Grieche	na	999
+7	TUTT H6	na	Binningen	8.72585, 47.79296	grieche	na	999	grieche	na	999	Grieche	na	999
+8	TUTT H10	na	Welschingen	8.75772, 47.82306	gri̊ch	na	999	grich	na	999	Grieche	na	999
+9	TUTT H11	na	Weiterdingen	8.76917, 47.79954	krieche	na	999	grieche	na	999	Grieche	na	999
+10	TUTT J5	na	Friedingen	8.87581, 47.78669	grieche	na	999	grieche	na	999	Grieche	na	999
+11	TUTT Q1	na	Böhringen	8.93568, 47.75355	kriechen	na	999	grieche	na	999	Grieche	na	999
+12	TUTT B9	III_35_0049	Homberg Münchhof, Münchhöf	8.95295, 47.88032	grieche	krieche	1	grieche	grieche	0	Grieche	Grieche	0
+13	TUTT B8	na	Nenzingen	8.95914, 47.84256	griachå	na	999	grieche	na	999	Grieche	na	999
+14	TUTT B10	III_35_0048	Raithaslach, Raithaslach	8.96262, 47.88125	griéche	grieche	1	grieche	grieche	0	Grieche	Grieche	0
+15	TUTT J9	na	Stahringen	8.97547, 47.78849	grieche	na	999	grieche	na	999	Grieche	na	999
+16	TUTT B11	III_35_0050	Mahlspüren, Mahlspüren	8.97748, 47.87563	grīeche	krieche	2	grieche	grieche	0	Grieche	Grieche	0
+17	TUTT u3	na	Gallmannsweil	8.99683, 47.92357	grieche	na	999	grieche	na	999	Grieche	na	999
+18	TUTT C10	na	Mühlingen	9.01554, 47.91191	griechå	na	999	grieche	na	999	Grieche	na	999
+19	TUTT K4	na	Ludwigshafen	9.05916, 47.8189	griä̆che	na	999	grieche	na	999	Grieche	na	999
+20	TUTT K1	na	Billafingen	9.13657, 47.83337	grihchä	na	999	griche	na	999	Grieche	na	999
+21	MH D8	na	Steinbach	9.24327, 49.54854	krichche	na	999	griche	na	999	Grieche	na	999
+22	MH n1	na	Freudenberg	9.32533, 49.75145	griche	na	999	griche	na	999	Grieche	na	999
+23	na	III_13_0006	Breitenbach	7.10087, 48.02382	na	griëch	999	na	griech	999	na	Grieche	999
+24	na	III_15_0010	Falkweiler	7.13461, 47.6894	na	griacha	999	na	grieche	999	na	Grieche	999
+25	na	III_17_0031	Pfetterhausen	7.16635, 47.50105	na	chriecha	999	na	chrieche	999	na	Grieche	999
+26	na	III_16_0021	Hirzbach	7.22017, 47.59449	na	krieche	999	na	grieche	999	na	Grieche	999
+27	na	III_14_0119	Mülhausen	7.34375, 47.7517	na	griacher	999	na	grieche	999	na	Grieche	999
+28	na	III_35_0031, III_35_0030	Neuhausen	8.77423, 47.8379	na	griəchə	999	na	grieche	999	na	Grieche	999
+29	na	III_36_0040	Hilzingen	8.78189, 47.7649	na	griechen	999	na	grieche	999	na	Grieche	999
+30	na	III_36_0052	Schlatt	8.83529, 47.80435	na	grieche	999	na	grieche	999	na	Grieche	999
+31	na	III_35_0044	Honstetten	8.88331, 47.8933	na	kriache	999	na	grieche	999	na	Grieche	999
+32	na	III_36_0046	Wiechs	8.90712, 47.81585	na	griëche	999	na	grieche	999	na	Grieche	999
+33	na	III_34_0047	Liptingen	8.90748, 47.93756	na	krieche	999	na	grieche	999	na	Grieche	999
+34	na	III_36_0048	Wahlwies	8.96632, 47.81985	na	grī́ëche	999	na	grieche	999	na	Grieche	999
+35	na	III_36_0050, III_36_0051	Güttingen	8.998, 47.77415	na	grieche  , grieche	999	na	grieche	999	na	Grieche	999
+36	na	III_34_0046	Worndorf	8.9985, 47.98553	na	griéche	999	na	grieche	999	na	Grieche	999
+37	na	II_58_0102	Friedrichsdorf	9.054, 49.52034	na	griche	999	na	griche	999	na	Grieche	999
+38	na	III_37_0040, III_37_0039	Reichenau	9.06125, 47.69789	na	kriech, kriche	999	na	griech, griche	999	na	Grieche	999
+39	na	II_58_0116	Schloßau	9.15226, 49.53935	na	kriche	999	na	griche	999	na	Grieche	999

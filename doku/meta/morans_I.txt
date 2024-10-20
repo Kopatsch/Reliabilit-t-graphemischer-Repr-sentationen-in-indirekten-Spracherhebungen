@@ -1,0 +1,379 @@
+
+ameise item
+
+               observed	0.00704516042811639
+
+               expected	-0.00049800796812749
+
+               sd	0.00117443262024665
+
+               p.value	1.33773436772344e-10
+ameise phontype
+
+               observed	0.0423826352213184
+
+               expected	-0.00049800796812749
+
+               sd	0.00117432695522298
+
+               p.value	0
+ameise lextype
+
+               observed	0.0333936698295225
+
+               expected	-0.00049800796812749
+
+               sd	0.00116937914780165
+
+               p.value	0
+begräbnis item
+
+               observed	0.0363540380114285
+
+               expected	-0.000487329434697856
+
+               sd	0.00114701943334821
+
+               p.value	0
+begräbnis phontype
+
+               observed	0.0378417717466789
+
+               expected	-0.000487329434697856
+
+               sd	0.00114663311732534
+
+               p.value	0
+begräbnis lextype
+
+               observed	0.0189257934440575
+
+               expected	-0.000487329434697856
+
+               sd	0.00114414436169802
+
+               p.value	0
+deichsel item
+
+               observed	0.066056225902667
+
+               expected	-0.00049825610363727
+
+               sd	0.00116891150820997
+
+               p.value	0
+deichsel phontype
+
+               observed	0.032032143822763
+
+               expected	-0.00049825610363727
+
+               sd	0.00116812024593855
+
+               p.value	0
+deichsel lextype
+
+               observed	5.83026068678287e-06
+
+               expected	-0.00049825610363727
+
+               sd	0.00114413949137082
+
+               p.value	0.659516206559399
+elster item
+
+               observed	0.020141564619818
+
+               expected	-0.000529380624669137
+
+               sd	0.00124489566138547
+
+               p.value	0
+elster phontype
+
+               observed	0.0363342967732182
+
+               expected	-0.000529380624669137
+
+               sd	0.00124493516719453
+
+               p.value	0
+elster lextype
+
+               observed	0.023641955989776
+
+               expected	-0.000529380624669137
+
+               sd	0.00124442132049537
+
+               p.value	0
+fledermaus item
+
+               observed	0.00419129163524524
+
+               expected	-0.00050761421319797
+
+               sd	0.00119393425483988
+
+               p.value	8.29722556079382e-05
+fledermaus phontype
+
+               observed	0.0113093207718828
+
+               expected	-0.00050761421319797
+
+               sd	0.00119379481136726
+
+               p.value	0
+fledermaus lextype
+
+               observed	0.0529758669650817
+
+               expected	-0.00050761421319797
+
+               sd	0.00118806789742598
+
+               p.value	0
+gurke item
+
+               observed	0.0137402887615787
+
+               expected	-0.00048780487804878
+
+               sd	0.00114736617160571
+
+               p.value	0
+gurke phontype
+
+               observed	0.0166161749152781
+
+               expected	-0.00048780487804878
+
+               sd	0.00114751816765489
+
+               p.value	0
+gurke lextype
+
+               observed	0.027943246029422
+
+               expected	-0.00048780487804878
+
+               sd	0.00114518480910112
+
+               p.value	0
+hagebutte item
+
+               observed	0.00430882336575154
+
+               expected	-0.000513874614594039
+
+               sd	0.00121096312192529
+
+               p.value	6.81852732618005e-05
+hagebutte phontype
+
+               observed	0.0136089701324303
+
+               expected	-0.000513874614594039
+
+               sd	0.00121086465827648
+
+               p.value	0
+hagebutte lextype
+
+               observed	0.0151495136041376
+
+               expected	-0.000513874614594039
+
+               sd	0.00120900516376264
+
+               p.value	0
+hebamme item
+
+               observed	0.0094709160027788
+
+               expected	-0.000507872016251904
+
+               sd	0.00119588896453684
+
+               p.value	0
+hebamme phontype
+
+               observed	0.0179199667917952
+
+               expected	-0.000507872016251904
+
+               sd	0.0011958626640724
+
+               p.value	0
+hebamme lextype
+
+               observed	0.0397059891726032
+
+               expected	-0.000507872016251904
+
+               sd	0.00118632392264483
+
+               p.value	0
+kartoffel item
+
+               observed	0.00788094145020418
+
+               expected	-0.000487567040468064
+
+               sd	0.00114309853377853
+
+               p.value	2.4624746686186e-13
+kartoffel phontype
+
+               observed	0.00688420152511051
+
+               expected	-0.000487567040468064
+
+               sd	0.00114297278522487
+
+               p.value	1.12112541472698e-10
+kartoffel lextype
+
+               observed	0.0153463413209598
+
+               expected	-0.000487567040468064
+
+               sd	0.00113218441271416
+
+               p.value	0
+maulwurf item
+
+               observed	0.0231279388163238
+
+               expected	-0.000490436488474743
+
+               sd	0.00115589139491744
+
+               p.value	0
+maulwurf phontype
+
+               observed	0.0109620727356523
+
+               expected	-0.000490436488474743
+
+               sd	0.00115608828216213
+
+               p.value	0
+maulwurf lextype
+
+               observed	0.0218251973955749
+
+               expected	-0.000490436488474743
+
+               sd	0.00115492101070934
+
+               p.value	0
+pflaume item
+
+               observed	0.0116715950572522
+
+               expected	-0.000502765208647562
+
+               sd	0.00117907481345816
+
+               p.value	0
+pflaume phontype
+
+               observed	0.0293171101985411
+
+               expected	-0.000502765208647562
+
+               sd	0.00117892318200355
+
+               p.value	0
+pflaume lextype
+
+               observed	0.00720710093767828
+
+               expected	-0.000502765208647562
+
+               sd	0.00117336047312661
+
+               p.value	5.00601782249532e-11
+stecknadel item
+
+               observed	0.0185941420492777
+
+               expected	-0.00049480455220188
+
+               sd	0.0011643250485014
+
+               p.value	0
+stecknadel phontype
+
+               observed	0.0162841320527941
+
+               expected	-0.00049480455220188
+
+               sd	0.00116460154330019
+
+               p.value	0
+stecknadel lextype
+
+               observed	0.0109318292859412
+
+               expected	-0.00049480455220188
+
+               sd	0.00116430442145078
+
+               p.value	0
+ziege item
+
+               observed	0.0158230974742212
+
+               expected	-0.000485436893203883
+
+               sd	0.0011425892956501
+
+               p.value	0
+ziege phontype
+
+               observed	0.040309860285493
+
+               expected	-0.000485436893203883
+
+               sd	0.00114083409084787
+
+               p.value	0
+ziege lextype
+
+               observed	-0.00129733256196273
+
+               expected	-0.000485436893203883
+
+               sd	0.00111730776201729
+
+               p.value	0.467438205682628
+zimmerfliege item
+
+               observed	0.0207102607264927
+
+               expected	-0.000491400491400491
+
+               sd	0.00115782335595152
+
+               p.value	0
+zimmerfliege phontype
+
+               observed	0.029851539031454
+
+               expected	-0.00048828125
+
+               sd	0.0011484398568691
+
+               p.value	0
+zimmerfliege lextype
+
+               observed	0.018934760370355
+
+               expected	-0.00048828125
+
+               sd	0.00114365565345144
+
+               p.value	0

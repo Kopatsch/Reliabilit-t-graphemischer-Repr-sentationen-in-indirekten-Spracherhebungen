@@ -1,0 +1,6 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	KST O7	na	Ittersbach	8.50684, 48.86638	hōwärd	na	999	howärd	na	999	Hauerde	na	999
+1	KST O6	III_23_0016	Weiler Kr, Pforzheim, Weiler	8.54326, 48.8837	hauwerder	hauwerder	0	hauwerder	hauwerder	0	Hauerde	Hauerde	0
+2	KST O4	na	Ellmendingen	8.5761, 48.90131	hauärde	na	999	hauärde	na	999	Hauerde	na	999
+3	KST O5	na	Dietlingen	8.60093, 48.89654	hauardl, hauard	na	999	hauärd	na	999	Hauerde	na	999
+4	KST G11	III_22_0023	Ersingen, Ersingen	8.63492, 48.93324	hauärd	hauärd	0	hauärd	hauärd	0	Hauerde	Hauerde	0

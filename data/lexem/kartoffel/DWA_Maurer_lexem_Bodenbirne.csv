@@ -1,0 +1,16 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	SIG o7	na	Homberg	9.19109, 47.83714	bodebirre	na	999	bodebire	na	999	Bodenbirne	na	999
+1	SIG q10	III_37_0048	Hagnau, Hagnau	9.31963, 47.67634	bodebirre	boddebirre	1	bodebire	bodebire	0	Bodenbirne	Bodenbirne	0
+2	SIG u1	III_38_0026	Immenstaad, Immenstaad	9.3675, 47.66625	bodebirre	bodebire	1	bodebire	bodebire	0	Bodenbirne	Bodenbirne	0
+3	SIG r5	III_37_0056	Kluftern, Kluftern	9.40004, 47.69278	bodebirre	boddebirre	1	bodebire	bodebire	0	Bodenbirne	Bodenbirne	0
+4	SIG o5	na	Roggenbeuren	9.40565, 47.76961	bodebira	na	999	bodebire	na	999	Bodenbirne	na	999
+5	SIG r4	III_37_0057	Riedheim, Riedheim	9.41014, 47.70429	bodabire	bodenbirna	4	bodebire	bodenbirne	2	Bodenbirne	Bodenbirne	0
+6	SIG o4	III_36_0094	Limpach, Limpach	9.42902, 47.79495	bodebire	bodebirre	1	bodebire	bodebire	0	Bodenbirne	Bodenbirne	0
+7	SIG o6	III_36_0096	Urnau, Urnau	9.43083, 47.76354	bodebiare	bodebirrĕ	2	bodebire	bodebire	0	Bodenbirne	Bodenbirne	0
+8	SIG r6	III_37_0058	Hepbach, Hepbach	9.43103, 47.7193	bodenbire	boddebiere	3	bodenbire	bodebire	1	Bodenbirne	Bodenbirne	0
+9	STU XIII 1	na	(Bad) Schussenried	9.65803, 48.0041	bodåbier	na	999	bodebire	na	999	Bodenbirne	na	999
+10	na	III_32_0032	Hartheim	8.93612, 48.15571	na	bodebiere	999	na	bodebire	999	na	Bodenbirne	999
+11	na	III_36_0092	Mittelstenweiler	9.33753, 47.75241	na	bodebire	999	na	bodebire	999	na	Bodenbirne	999
+12	na	III_37_0051	Ittendorf	9.34074, 47.70119	na	boddebirre	999	na	bodebire	999	na	Bodenbirne	999
+13	na	III_35_0080	Illmensee	9.37456, 47.86209	na	bodebirre	999	na	bodebire	999	na	Bodenbirne	999
+14	na	III_37_0055, III_37_0054, III_37_0052	Markdorf	9.38933, 47.72088	na	bodebiere, bodäbirrä, bodebirr	999	na	bodebire	999	na	Bodenbirne	999

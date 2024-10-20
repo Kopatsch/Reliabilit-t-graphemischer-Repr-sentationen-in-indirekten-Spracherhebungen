@@ -1,0 +1,31 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Hag D 1	na	Hinsingen	6.99156, 48.9525	achgrätzere	na	999	arschkrätzere	na	999	Arschkrätzer	na	999
+1	Hag E 10	na	Bissert	7.02465, 48.94167	aschgrätzer	na	999	arschkrätzer	na	999	Arschkrätzer	na	999
+2	Hag E 9	III_5_0027	Harskirchen, Harskirchen	7.0389, 48.93409	arschkretzer	aschkretzer	1	arschkrätzer	arschkrätzer	0	Arschkrätzer	Arschkrätzer	0
+3	Hag E 7	na	Keskastel	7.04339, 48.96955	arschkrâtzer	na	999	arschkrätzer	na	999	Arschkrätzer	na	999
+4	Hag M 12	III_6_0005	Diedendorf, Diedendorf	7.04974, 48.87869	arschkrätzer	arschkrätzer	0	arschkrätzer	arschkrätzer	0	Arschkrätzer	Arschkrätzer	0
+5	Hag E 8	III_5_0026	Schopperten, Schopperten	7.05316, 48.94524	arschkrätzer	arschkrätzer	0	arschkrätzer	arschkrätzer	0	Arschkrätzer	Arschkrätzer	0
+6	Hag T 2	III_7_0006	Kirberg (Kirrberg), Kirberg	7.06204, 48.8233	åschgräzer	oaschgrätzere	4	arschkrätzer	arschkrätzere	1	Arschkrätzer	Arschkrätzer	0
+7	Hag M 2	III_6_0002	Pisdorf (Bischtroff-sur-Sarre), Pisdorf	7.06995, 48.9005	aschkrätzer	arschkrätzere	2	arschkrätzer	arschkrätzere	1	Arschkrätzer	Arschkrätzer	0
+8	Hag M 1	III_5_0034	Zollingen, Zollingen	7.07636, 48.91048	arschgrätzer	aschgrätzere	2	arschkrätzer	arschkrätzere	1	Arschkrätzer	Arschkrätzer	0
+9	Hag x 2	III_4_0053	Herbitzheim, Herbitzheim	7.08355, 49.01459	arschkrätzert	arschkrätzert	0	arschkrätzert	arschkrätzert	0	Arschkrätzer	Arschkrätzer	0
+10	Hag E 5	III_5_0033	Saarwerden (Sarrewerden), Saarwerden	7.08411, 48.9218	aschkrätzer	aschkretzere	2	arschkrätzer	arschkrätzere	1	Arschkrätzer	Arschkrätzer	0
+11	Hag M 10	III_6_0012	Bärendorf (Baerendorf), Bärendorf	7.08463, 48.83742	årschkrätzer	arschkrätzer	1	arschkrätzer	arschkrätzer	0	Arschkrätzer	Arschkrätzer	0
+12	Hag E 6/2, Hag E 6/1	III_5_0028, III_5_0029	Saarbuckenheim (Sarre-Union), Saarbuckenheim	7.08686, 48.93919	ärschkrätzer	arschkrätzer, ärchkrätzer	1	ärschkrätzer	arschkrätzer, ärschkrätzer	0	Arschkrätzer	Arschkrätzer	0
+13	Hag x 1	III_4_0044	Silzheim (Siltzheim), Silzheim	7.09071, 49.0616	ärchkrätzer	ärchkretzer	1	ärschkrätzer	ärschkrätzer	0	Arschkrätzer	Arschkrätzer	0
+14	Hag M 3	III_6_0004	Burbach, Burbach	7.11226, 48.90144	arschkratzer	arschkratzer	0	arschkrätzer	arschkratzer	1	Arschkrätzer	Arschkrätzer	0
+15	Hag M 8	III_6_0007	Eschweiler (Eschwiller), Eschweiler	7.11652, 48.8596	årschkrätzere	arschkrätzere	1	arschkrätzere	arschkrätzere	0	Arschkrätzer	Arschkrätzer	0
+16	Hag E 4	III_5_0032	Rimsdorf, Rimsdorf	7.12568, 48.92923	arschkretzer	årschkrezer	2	arschkrätzer	arschkrätzer	0	Arschkrätzer	Arschkrätzer	0
+17	Hag M 7	III_6_0016	Eyweiler (Eywiller), Eyweiler	7.13172, 48.8709	ārschkrätzer	arschkrâtzer	2	arschkrätzer	arschkratzer	1	Arschkrätzer	Arschkrätzer	0
+18	Hag E 3	III_5_0031	Domfessel, Domfessel	7.15171, 48.95143	arschgrätzer	aaschgrätzer	1	arschkrätzer	arschkrätzer	0	Arschkrätzer	Arschkrätzer	0
+19	Hag M 9	III_6_0010	Weyer, Weyer	7.15976, 48.85488	årschgrätzere	arschgretzere	2	arschkrätzere	arschkrätzere	0	Arschkrätzer	Arschkrätzer	0
+20	Hag F 6	III_5_0041	Mackweiler (Mackwiller), Mackweiler	7.17502, 48.9258	arschkrätzer	aschkrätzer	1	arschkrätzer	arschkrätzer	0	Arschkrätzer	Arschkrätzer	0
+21	Hag F 4	III_5_0039	Lorenzen (Lorentzen), Lorenzen	7.1752, 48.95249	archkrätzere	archkrätz	3	arschkrätzere	arschkrätz	3	Arschkrätzer	Arschkrätzer	0
+22	Hag N 11	III_6_0025	Bettweiler (Bettwiller), Bettweiler	7.17993, 48.88617	årschkråtzerĕ	oaschkråtzer	3	arschkrätzere	arschkratzer	2	Arschkrätzer	Arschkrätzer	0
+23	Hag N 9	na	Adamsweiler (Adamswiller)	7.20348, 48.90463	årschkratzr	na	999	arschkrätzer	na	999	Arschkrätzer	na	999
+24	Hag F 7	III_5_0050	Waldhambach, Waldhambach	7.21529, 48.92578	oaschgrätzä	oaschgrätze	1	arschkrätze	arschkrätze	0	Arschkrätzer	Arschkrätzer	0
+25	Hag F 2	III_5_0042	Bütten (Butten), Bütten	7.2205, 48.97095	aschkrätzer	oaschgrätzere	3	arschkrätzer	arschkrätzere	1	Arschkrätzer	Arschkrätzer	0
+26	Hag F 3	III_5_0044	Ratzweiler (Ratzwiller), Ratzweiler	7.23978, 48.95501	arschgrätzer	arschgrätzer	0	arschkrätzer	arschkrätzer	0	Arschkrätzer	Arschkrätzer	0
+27	Hag N 4	III_5_0048	Weislingen, Weislingen	7.25159, 48.91879	årschgratzr	arschgratzer	2	arschkrätzer	arschkratzer	1	Arschkrätzer	Arschkrätzer	0
+28	Stra m 18	na	Koßweiler (Cosswiller)	7.39912, 48.63165	arschkratzer	na	999	arschkrätzer	na	999	Arschkrätzer	na	999
+29	na	III_6_0011	Hirschland	7.11324, 48.83701	na	arschgrätzer	999	na	arschkrätzer	999	na	Arschkrätzer	999

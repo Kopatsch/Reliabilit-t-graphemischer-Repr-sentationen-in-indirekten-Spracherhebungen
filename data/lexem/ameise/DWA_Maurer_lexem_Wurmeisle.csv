@@ -1,0 +1,87 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	TUTT M4	na	Brenden	8.22606, 47.72946	wurmeisle	na	999	wurmeisle	na	999	Wurmeisle	na	999
+1	TUTT M11	III_15_0126	Berau, Berau	8.25823, 47.69472	wurmmaisle	wurmmeisle	1	wurmeisle	wurmeisle	0	Wurmeisle	Wurmeisle	0
+2	TUTT M12	III_15_0117	Aichen, Aichen	8.26226, 47.67494	wurmmasile	wurmmeisle	3	wurmeisle	wurmeisle	0	Wurmeisle	Wurmeisle	0
+3	TUTT M5	na	Mettenberg	8.26708, 47.75087	wurmeisle	na	999	wurmeisle	na	999	Wurmeisle	na	999
+4	TUTT M7	III_15_0115	Hürrlingen, Hürrlingen	8.28505, 47.72465	wurmmeisle	wurmeisle	1	wurmeisle	wurmeisle	0	Wurmeisle	Wurmeisle	0
+5	TUTT M8	III_15_0116	Riedern im Wald, Riedern	8.29113, 47.71786	wurmmeisle	wurmeisle	1	wurmeisle	wurmeisle	0	Wurmeisle	Wurmeisle	0
+6	TUTT M10	na	Krenkingen	8.30454, 47.68312	wurmaisle	na	999	wurmeisle	na	999	Wurmeisle	na	999
+7	TUTT M6	III_14_0181, III_14_0180	Birkendorf, Birkendorf	8.3126, 47.74971	wūrmaisle	wurmeisle, wurmaisle	1	wurmeisle	wurmeisle	0	Wurmeisle	Wurmeisle	0
+8	TUTT M9	III_15_0127	Uhlingen, Uhlingen Ühlingen	8.31845, 47.7201	wurmmeisle	wurmmeisle	0	wurmeisle	wurmeisle	0	Wurmeisle	Wurmeisle	0
+9	TUTT T15	III_16_0167	Dangstetten, Dangstetten	8.31944, 47.59581	wurmmeisle	wurmmeisle	0	wurmeisle	wurmeisle	0	Wurmeisle	Wurmeisle	0
+10	TUTT T11	III_15_0118	Detzeln, Detzeln	8.32062, 47.66643	wurmaisle	wurmmeisle	2	wurmeisle	wurmeisle	0	Wurmeisle	Wurmeisle	0
+11	TUTT Ta1	III_16_0156	Reckingen, Reckingen	8.33116, 47.57477	wurmmaisele	wurmaisle	2	wurmeisle	wurmeisle	0	Wurmeisle	Wurmeisle	0
+12	TUTT N5	III_37_0003	Untermettingen, Untermettingen	8.34615, 47.70245	wurmeisle	wurmeisle	0	wurmeisle	wurmeisle	0	Wurmeisle	Wurmeisle	0
+13	TUTT F4	III_36_0005	Wittlekoffen, Wittlekoffen	8.34635, 47.78326	wormaisle	wurmeisle	2	wurmeisle	wurmeisle	0	Wurmeisle	Wurmeisle	0
+14	TUTT U4	III_38_0006	Horheim, Horheim	8.34737, 47.64854	wurmaisle	wurmeisle	1	wurmeisle	wurmeisle	0	Wurmeisle	Wurmeisle	0
+15	TUTT F3	III_36_0006	Wellendingen, Wellendingen	8.35185, 47.79705	wurmaisle	wurmeisle	1	wurmeisle	wurmeisle	0	Wurmeisle	Wurmeisle	0
+16	TUTT N4	III_37_0001	Obermettingen, Obermettingen	8.35956, 47.7213	wurm₌meisle	wurmeisle	2	wurmeisle	wurmeisle	0	Wurmeisle	Wurmeisle	0
+17	TUTT F6	III_36_0014	Bettmaringen, Bettmaringen	8.36102, 47.75368	wurmmeislå	wurmeisle	2	wurmeisla	wurmeisle	1	Wurmeisle	Wurmeisle	0
+18	TUTT U14	III_38_0008, III_38_0009	Küßnach, Küssnach	8.36574, 47.59396	wurmmaisle	wurmeisle, wurmeisel	2	wurmeisle	wurmeisle, wurmeisl	0	Wurmeisle	Wurmeisle	0
+19	TUTT Ua1	III_38_0083	Lienheim, Lienheim	8.37469, 47.5721	wurmeisele	wurmeisle	1	wurmeisle	wurmeisle	0	Wurmeisle	Wurmeisle	0
+20	TUTT N8	na	Ofteringen	8.37663, 47.67838	wurmaisle	na	999	wurmeisle	na	999	Wurmeisle	na	999
+21	TUTT F5	na	Oberwangen u. Unterwangen	8.3775, 47.7761	wurmeisle	na	999	wurmeisle	na	999	Wurmeisle	na	999
+22	TUTT F14	III_36_0007	Brunnadern, Brunnadern	8.38083, 47.79495	wūrmmaisle	wurmeisle	3	wurmeisle	wurmeisle	0	Wurmeisle	Wurmeisle	0
+23	TUTT N9	na	Degernau	8.38187, 47.66635	wurmeisle	na	999	wurmeisle	na	999	Wurmeisle	na	999
+24	TUTT N6	III_37_0006	Obereggingen, Obereggingen	8.38631, 47.70175	wurmaisle	wurmeisle	1	wurmeisle	wurmeisle	0	Wurmeisle	Wurmeisle	0
+25	TUTT N3	III_37_0004	Mauchen, Mauchen	8.39032, 47.73994	wurmmeisle	wurmeisle	1	wurmeisle	wurmeisle	0	Wurmeisle	Wurmeisle	0
+26	TUTT U13	na	Geißlingen	8.39181, 47.61975	wurmaisle	na	999	wurmeisle	na	999	Wurmeisle	na	999
+27	TUTT F1	na	Münchingen	8.39596, 47.82501	wurmeisle	na	999	wurmeisle	na	999	Wurmeisle	na	999
+28	TUTT U2	III_38_0001	Rechberg, Rechberg	8.39987, 47.6501	wurmmaisle	wurmeisel	4	wurmeisle	wurmeisl	1	Wurmeisle	Wurmeisle	0
+29	TUTT F13	III_36_0010, III_36_0008, III_36_0009	Dillendorf, Dillendorf	8.40272, 47.79846	wurmeisle	wurmeisele	1	wurmeisle	wurmeisle	0	Wurmeisle	Wurmeisle	0
+30	TUTT U12	III_38_0011	Grießen, Griessen	8.4114, 47.62774	wurmeisle	wurmeisle	0	wurmeisle	wurmeisle	0	Wurmeisle	Wurmeisle	0
+31	TUTT U1	III_38_0003	Erzingen, Erzingen	8.42011, 47.66108	wurmeisla	wurmeisle	1	wurmeisla	wurmeisle	1	Wurmeisle	Wurmeisle	0
+32	TUTT F7	III_36_0016	Schwaningen, Schwaningen	8.42524, 47.77843	wurmeisle	wurmeisle	0	wurmeisle	wurmeisle	0	Wurmeisle	Wurmeisle	0
+33	TUTT N2	III_37_0008	Eberfingen, Eberfingen	8.42708, 47.72036	wurmaisle	wurmeisle	1	wurmeisle	wurmeisle	0	Wurmeisle	Wurmeisle	0
+34	TUTT F12	III_36_0011	Lembach, Lembach	8.43056, 47.80389	wurmeisle	wurmeisle	0	wurmeisle	wurmeisle	0	Wurmeisle	Wurmeisle	0
+35	TUTT U10	na	Stetten (bei Waldshut)	8.4393, 47.59011	wurmeisle	na	999	wurmeisle	na	999	Wurmeisle	na	999
+36	TUTT Ua2	na	Hohentengen	8.43962, 47.57174	wurmmaisle	na	999	wurmeisle	na	999	Wurmeisle	na	999
+37	TUTT y5	III_35_0010	Ewattingen, Ewattingen	8.44464, 47.83863	wormåsleͦ	wormosle	2	wurmasle	wormasle	1	Wurmeisle	Wurmeisle	0
+38	TUTT N1	III_37_0009	Stühlingen, Stühlingen	8.44659, 47.74541	wurmmaisle	wurmeisle	2	wurmeisle	wurmeisle	0	Wurmeisle	Wurmeisle	0
+39	TUTT F11	III_36_0012	Lausheim, Lausheim	8.45286, 47.81178	wurmeisle	wurmeisli	1	wurmeisle	wurmeisli	1	Wurmeisle	Wurmeisle	0
+40	TUTT F8	III_36_0149	Weizen, Weizen	8.46354, 47.77888	wuormaisele	wurmeisle	3	wurmeisle	wurmeisle	0	Wurmeisle	Wurmeisle	0
+41	TUTT U8	III_38_0012	Bühl, Bühl	8.4644, 47.61616	wurmeisle	wurmeisle	0	wurmeisle	wurmeisle	0	Wurmeisle	Wurmeisle	0
+42	TUTT U9	III_38_0016	Dettighofen, Dettighofen	8.48357, 47.62374	wurmaisle	wurmeisle	1	wurmeisle	wurmeisle	0	Wurmeisle	Wurmeisle	0
+43	TUTT y6	III_35_0008	Achdorf-Aselfingen, Achdorf	8.48733, 47.84	wormoasle	wurmåsele	4	wurmasle	wurmasle	0	Wurmeisle	Wurmeisle	0
+44	TUTT F9	III_36_0004	Grimmelshofen, Grimmelshofen	8.49573, 47.78613	wurmosle	wormosl	2	wurmasle	wurmasl	1	Wurmeisle	Wurmeisle	0
+45	TUTT F10	III_36_0013	Blumegg, Blumegg	8.49815, 47.80904	wurmoͦsel	wurmaosle	4	wurmasl	wurmaosle	2	Wurmeisle	Wurmeisle	0
+46	TUTT V4,5	III_38_0017	Baltersweil, Baltersweil	8.51054, 47.63723	wurmaisle	wurmeisle	1	wurmeisle	wurmeisle	0	Wurmeisle	Wurmeisle	0
+47	TUTT G1	III_36_0018, III_36_0017	Fützen, Fützen	8.5291, 47.80794	wormosle	wurmosle, wormosle	0	wurmasle	wurmasle	0	Wurmeisle	Wurmeisle	0
+48	TUTT G2/1, TUTT G2/2	III_36_0019	Epfenhofen, Epfenhofen	8.55432, 47.81867	wormosla, wurmåsle	wurmosle	1	wurmasle, wurmasla	wurmasle	0	Wurmeisle	Wurmeisle	0
+49	TUTT G4	na	Nordhalden	8.60654, 47.8069	wurmōsle	na	999	wurmasle	na	999	Wurmeisle	na	999
+50	TUTT z9	III_35_0021	Riedöschingen, Riedöschingen	8.6077, 47.84306	wurmåsele	wormosala	4	wurmasle	wormasla	2	Wurmeisle	Wurmeisle	0
+51	TUTT G3	III_36_0025	Kommingen, Kommingen	8.61478, 47.81599	wumosle	wurmosle	1	wurmasle	wurmasle	0	Wurmeisle	Wurmeisle	0
+52	TUTT z1	III_35_0023	Gutmadingen, Gutmadingen	8.61605, 47.91149	wurmōsele	wurmosele	1	wurmasle	wormasle	1	Wurmeisle	Wurmeisle	0
+53	TUTT G5	III_36_0026	Uttenhofen, Uttenhofen	8.63235, 47.80782	wurmåsle	womosle	3	wurmasle	wormasle	1	Wurmeisle	Wurmeisle	0
+54	TUTT G7	III_36_0024	Wiechs a. R., Wiechs	8.64153, 47.78137	wurmosle	wurmosele	1	wurmasle	wurmasle	0	Wurmeisle	Wurmeisle	0
+55	TUTT A1	na	Geisingen (Kirchenhausen)	8.65129, 47.93283	wormosele	na	999	wurmasle	na	999	Wurmeisle	na	999
+56	TUTT G6	III_36_0020	Tengen, Tengen	8.66036, 47.81721	wurmoasla	wurmoasle	1	wurmasla	wurmasle	1	Wurmeisle	Wurmeisle	0
+57	TUTT A2	na	Leipferdingen	8.66787, 47.86461	wurmmosele	na	999	wurmasle	na	999	Wurmeisle	na	999
+58	TUTT H8	na	Blumenfeld	8.68358, 47.81394	wurmōsle	na	999	wurmasle	na	999	Wurmeisle	na	999
+59	TUTT H12	III_36_0031, III_36_0032	Beuren a(m) R(ied), Büsslingen, Beuren	8.6839, 47.79252	wurmosele	wurmausel, wurmmosle	2	wurmasle	wurmausl, wurmasle	0	Wurmeisle	Wurmeisle	0
+60	TUTT P6	III_37_0011, III_37_0013, III_37_0010, III_37_0012	Büsingen, Büsingen	8.69282, 47.69702	wurmåsele	wurmasle	2	wurmasle	wurmasle	0	Wurmeisle	Wurmeisle	0
+61	TUTT H9	III_36_0035	Weil, Weil	8.7018, 47.81859	wurmōₐssle	wurmosle	3	wurmasle	wurmasle	0	Wurmeisle	Wurmeisle	0
+62	TUTT A3	III_35_0026	Stetten (bei Engen), Stetten	8.71683, 47.87248	womosele	wormosele	1	wurmasle	wormasle	1	Wurmeisle	Wurmeisle	0
+63	TUTT P2	III_37_0014	Bietingen, Bietingen	8.73023, 47.73862	wurmåsle	wurmoasle	2	wurmasle	wurmasle	0	Wurmeisle	Wurmeisle	0
+64	TUTT H5	na	Riedheim	8.74873, 47.76389	wurmoͦsle	na	999	wurmasle	na	999	Wurmeisle	na	999
+65	TUTT P5	III_37_0015	Gailingen, Gailingen	8.75499, 47.69685	wurmasle	wurmasle	0	wurmasle	wurmasle	0	Wurmeisle	Wurmeisle	0
+66	TUTT H10	na	Welschingen	8.75772, 47.82306	wuͤrmoͣseͣ̈leͣ̈	na	999	wurmasle	na	999	Wurmeisle	na	999
+67	TUTT A8	III_35_0029	Anselfingen, Anselfingen	8.76516, 47.84558	wurmmåsle	wurmoasle	2	wurmasle	wurmoasle	1	Wurmeisle	Wurmeisle	0
+68	TUTT H11	III_36_0028, III_36_0029, III_36_0027	Weiterdingen, Weiterdingen	8.76917, 47.79954	wormosele	wurmosle, wormosle	1	wurmasle	wormasle, wurmasle	0	Wurmeisle	Wurmeisle	0
+69	TUTT A9	III_35_0031, III_35_0030	Neuhausen (b. Engen), Neuhausen	8.77423, 47.8379	wurmoasle	wurmosle	1	wurmasle	wurmasle	0	Wurmeisle	Wurmeisle	0
+70	TUTT H3	III_36_0034	Duchtlingen, Duchtlingen	8.79029, 47.79154	wurmausle	wurmausle	0	wurmaosle	wurmausle	1	Wurmeisle	Wurmeisle	0
+71	TUTT H1	III_36_0030	Ehingen, Ehingen	8.80075, 47.82351	wormosle	wurmosla	2	wurmasle	wurmasla	1	Wurmeisle	Wurmeisle	0
+72	TUTT J4	III_36_0150	Singen, Singen	8.83317, 47.76378	wourmmosle, wormmosle	wurmosle	2	wurmasle	wurmasle	0	Wurmeisle	Wurmeisle	0
+73	TUTT J2 /1	III_36_0052	Schlatt (unter Krähen), Schlatt	8.83529, 47.80435	wurmasle	wurmosle	1	wurmasle	wurmasle	0	Wurmeisle	Wurmeisle	0
+74	na	III_14_0076	Holzschlag	8.26456, 47.84976	na	wurmeisle	999	na	wurmeisle	999	na	Wurmeisle	999
+75	na	III_16_0154	Kadelburg	8.29552, 47.60851	na	wurméesle	999	na	wurmeisle	999	na	Wurmeisle	999
+76	na	III_38_0004	Schwerzen	8.35642, 47.64323	na	wurmaislĕ	999	na	wurmeisle	999	na	Wurmeisle	999
+77	na	III_38_0007	Wutöschingen	8.36613, 47.65918	na	wurmeisle	999	na	wurmeisle	999	na	Wurmeisle	999
+78	na	III_37_0007	Untereggingen	8.39385, 47.69277	na	wurmeisle	999	na	wurmeisle	999	na	Wurmeisle	999
+79	na	III_38_0013	Weisweil	8.45797, 47.64517	na	wurmeisel	999	na	wurmeisl	999	na	Wurmeisle	999
+80	na	III_34_0014	Grüningen	8.47107, 47.98253	na	wormmosele	999	na	wormasle	999	na	Wurmeisle	999
+81	na	III_36_0037, III_36_0038, III_36_0036	Schlatt	8.70119, 47.76891	na	wormosle	999	na	wormasle	999	na	Wurmeisle	999
+82	na	III_35_0028	Zimmerholz	8.74175, 47.86811	na	wormosele	999	na	wormasle	999	na	Wurmeisle	999
+83	na	III_35_0033, III_35_0032, III_35_0034	Engen	8.76853, 47.85186	na	wurmosle, wurmösle	999	na	wurmasle	999	na	Wurmeisle	999
+84	na	III_37_0016	Gottmadingen	8.77716, 47.73498	na	wurmmosle	999	na	wurmasle	999	na	Wurmeisle	999
+85	na	III_36_0040	Hilzingen	8.78189, 47.7649	na	wurmosle	999	na	wurmasle	999	na	Wurmeisle	999

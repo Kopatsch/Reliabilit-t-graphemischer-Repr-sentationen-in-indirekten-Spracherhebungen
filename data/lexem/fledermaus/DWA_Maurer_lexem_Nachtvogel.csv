@@ -1,0 +1,9 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	TUTT x4	na	Lenzkirch und Kappel	8.20144, 47.8687	nāchtvogel	na	999	nachtvogel	na	999	Nachtvogel	na	999
+1	TUTT Q9	na	Horn	8.99438, 47.69562	nachtvogel	na	999	nachtvogel	na	999	Nachtvogel	na	999
+2	SIG u1	na	Immenstaad	9.3675, 47.66625	nachtvogl	na	999	nachtvogel	na	999	Nachtvogel	na	999
+3	na	III_16_0164	Unterlauchringen	8.30394, 47.63095	na	nachtvogel	999	na	nachtvogel	999	na	Nachtvogel	999
+4	na	III_32_0032	Hartheim	8.93612, 48.15571	na	nachtvogel	999	na	nachtvogel	999	na	Nachtvogel	999
+5	na	III_35_0052	Zoznegg	9.04053, 47.89958	na	nachtvogel	999	na	nachtvogel	999	na	Nachtvogel	999
+6	na	III_35_0054	Schwackenreute	9.04401, 47.91392	na	nachtvogel	999	na	nachtvogel	999	na	Nachtvogel	999
+7	na	III_37_0032	Allensbach	9.06699, 47.71535	na	nachtvögel	999	na	nachtvögel	999	na	Nachtvogel	999

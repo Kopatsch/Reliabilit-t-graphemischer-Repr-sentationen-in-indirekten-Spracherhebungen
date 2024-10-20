@@ -1,0 +1,5 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Co g 5	III_12_0141	Siensbach, Siensbach	7.98804, 48.10755	hüfebeer	hiefåberä	5	hifebeer	hiefebeere	2	Hiefebeere	Hiefebeere	0
+1	TUTT h4	na	(Alt)Glashütte	8.13564, 48.0008	hifabeer	na	999	hifebeer	na	999	Hiefebeere	na	999
+2	TÜB M5	na	Hausach und Einbach	8.16759, 48.2974	hiefebeere	na	999	hiefebeere	na	999	Hiefebeere	na	999
+3	TÜB M6	III_11_0142	Hausach, Hausach	8.17189, 48.28424	hiefebeer	hiêfebeere	2	hiefebeer	hiefebeere	1	Hiefebeere	Hiefebeere	0

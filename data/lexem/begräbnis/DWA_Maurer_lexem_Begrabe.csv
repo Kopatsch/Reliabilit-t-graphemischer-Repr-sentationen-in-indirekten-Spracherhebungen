@@ -1,0 +1,20 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	MH A1	na	Weinheim	8.67068, 49.55495	begrawe	na	999	begrawe	na	999	Begrabe	na	999
+1	MH F7	na	Kupprichhausen-Lengenrieden	9.62002, 49.52627	begråbe	na	999	begrabe	na	999	Begrabe	na	999
+2	MH y5	II_90_0022	Distelhausen, Distelhausen	9.69353, 49.59735	begrabe	begraben	1	begrabe	begraben	1	Begrabe	Begrabe	0
+3	na	III_5_0058	Reipertsweiler	7.46373, 48.93214	na	begraben	999	na	begraben	999	na	Begrabe	999
+4	na	III_5_0065	Reichshofen-Werk	7.66338, 48.93223	na	begrabe	999	na	begrabe	999	na	Begrabe	999
+5	na	III_13_0134	Schlatt	7.67473, 47.92531	na	begraben	999	na	begraben	999	na	Begrabe	999
+6	na	III_38_0009	Küssnach	8.36574, 47.59396	na	begrabe	999	na	begrabe	999	na	Begrabe	999
+7	na	II_59_0043	Mannheim	8.46678, 49.4865	na	begraben	999	na	begraben	999	na	Begrabe	999
+8	na	III_19_0015	Weiher	8.62179, 49.17863	na	begraben	999	na	begraben	999	na	Begrabe	999
+9	na	III_18_0042	Neidenstein	8.88423, 49.31637	na	begrawä	999	na	begrawe	999	na	Begrabe	999
+10	na	II_58_0116	Schloßau	9.15226, 49.53935	na	begrawä	999	na	begrawe	999	na	Begrabe	999
+11	na	II_59_0117	Limbach	9.21181, 49.46142	na	begrabe	999	na	begrabe	999	na	Begrabe	999
+12	na	II_57_0139	Gerolzahn	9.31895, 49.62645	na	begrabe	999	na	begrabe	999	na	Begrabe	999
+13	na	II_55_0129, II_55_0128	Freudenberg	9.32533, 49.75145	na	begrabe	999	na	begrabe	999	na	Begrabe	999
+14	na	II_91_0006	Erfeld	9.49597, 49.55416	na	begrawe	999	na	begrawe	999	na	Begrabe	999
+15	na	II_93_0009	Hüngheim	9.51823, 49.41257	na	begrabe	999	na	begrabe	999	na	Begrabe	999
+16	na	II_92_0015	Windischbuch	9.62194, 49.43593	na	bagrowe	999	na	begrawe	999	na	Begrabe	999
+17	na	II_89_0041	Schönfeld	9.80069, 49.67702	na	begrala	999	na	begrabe	999	na	Begrabe	999
+18	na	II_90_0030	Oberwittighausen	9.85164, 49.62585	na	bagroba	999	na	begrabe	999	na	Begrabe	999

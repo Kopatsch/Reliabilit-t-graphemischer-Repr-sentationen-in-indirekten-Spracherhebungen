@@ -1,0 +1,4 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	na	III_11_0069	Nordrach	8.08082, 48.39898	na	hexegguuf	999	na	hekseguf	999	na	Hexegluf	999
+1	na	III_19_0011, III_19_0009, III_19_0010	Neudorf	8.49692, 49.17524	na	hexekluft, hexekluuft	999	na	heksegluft	999	na	Hexegluf	999
+2	na	III_19_0161	Kirrlach	8.54938, 49.24183	na	hexenkluf	999	na	heksegluf	999	na	Hexegluf	999

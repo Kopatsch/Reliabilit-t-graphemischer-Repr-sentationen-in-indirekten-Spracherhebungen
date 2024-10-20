@@ -1,0 +1,11 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_maurer_align	item_DWA	item_DWA_align	Levenshtein_item
+0	Stra Z 2	III_12_0049	Dörlinbach, Dörlinbach	7.95383, 48.24804	juckpulver	j u ck p u l v e r	juckbulver	j u ck b u l v e r	1
+1	TÜB w1/1, TÜB w1/2	III_10_0135	Durbach, Durbach	8.01775, 48.49407	juckbulver	j u ck b u l v e r	juckpulver	j u ck p u l v e r	1
+2	KST T9	III_7_0126, III_7_0127	Haueneberstein, Haueneberstein	8.22194, 48.80626	juckpulver	j u ck p u l v e r	juckbulver	j u ck b u l v e r	1
+3	KST y 9, KST y 10	III_21_0001	Neureut, Neureut	8.37902, 49.05267	juckbulver	j u ck b u l v e r	juckpulver	j u ck p u l v e r	1
+4	KST e12	III_18_0029	Tairnbach, Tairnbach	8.75625, 49.26367	jugbulfe	j u g b u l f e	juckpulver	j u ck p u l v e r	5
+5	MH S14	II_60_0058	Epfenbach, Epfenbach	8.91088, 49.33719	juckpulver	j u ck p u l v e r	jugbulwä	j u g b u l w ä	6
+6	MH S13	II_60_0062	Schönbrunn, Schönbrunn	8.92851, 49.41228	juxäbulva	j u x ä b u l v a	juxebulva	j u x e b u l v a	1
+7	MH M7	II_59_0112	Trienz, Trienz	9.16956, 49.44002	juxtebulver	j u x t e b u l v e r	juxepulver	j u x e p u l v e r	2
+8	TÜB w1/1, TÜB w1/2	III_10_0135	Durbach, Durbach	8.01775, 48.49407	juckbulfer	j u ck b u l f e r	juckpulver	j u ck p u l v e r	2
+9	TÜB w1/1, TÜB w1/2	III_10_0135	Durbach, Durbach	8.01775, 48.49407	juckbulver	j u ck b u l v e r	juckpulver	j u ck p u l v e r	1

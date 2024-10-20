@@ -1,0 +1,19 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_maurer_align	item_DWA	item_DWA_align	Levenshtein_item
+0	TÜB S2, TÜB S1	III_12_0060, III_12_0058	Biederbach, Ober- und Unterbiederbach, Unterbiederbach, Oberbiederbach	8.02694, 48.2183	hieve	h ie v e	hiäfe	h i ä f e	2
+1	TUTT a6	III_12_0145	Yach, Yach	8.0932, 48.15752	hiēfe	h i ē f e	hiéfe	h i é f e	1
+2	TÜB S6	III_12_0062, III_12_0064	Oberprechtal, Unterprechtal, Oberprechtal	8.12114, 48.20548	hie̤fe	h ie ̤ f e	hièfe	h i è f e	2
+3	TUTT h6	III_13_0076	Gütenbach, Gütenbach	8.13807, 48.04398	hīfe	h ī f e	hifä	h i f ä	2
+4	TUTT i5	III_13_0093	Neukirch, Neukirch	8.17383, 48.02447	hiefe	h ie f e	hiifa	h ii f a	2
+5	TÜB T5	III_12_0069	Rensberg, Rensberg	8.1889, 48.17741	hiefe	h ie f e	hiëfe	h i ë f e	1
+6	TUTT b3	III_12_0161	Schonach, Schonach	8.20179, 48.14296	hiafe	h i a f e	híǎfe	h í ǎ f e	2
+7	MH n1	II_55_0128, II_55_0129	Freudenberg, Freudenberg	9.32533, 49.75145	hiffe	h i ff e	hiffer	h i ff e r	1
+8	MH y7	II_90_0131	Vilchband, Vilchband	9.82424, 49.58989	hiffa	h i ff a	hiffe	h i ff e	1
+9	MH ya1/2, MH ya1/1	II_90_0030	Oberwittighausen, Oberwittighausen	9.85164, 49.62585	hīfa	h ī f a	hiffa	h i ff a	2
+10	TÜB S2, TÜB S1	III_12_0060, III_12_0058	Biederbach, Ober- und Unterbiederbach, Unterbiederbach, Oberbiederbach	8.02694, 48.2183	hiefe	h ie f e	hiäfe	h i ä f e	1
+11	TÜB S2, TÜB S1	III_12_0060, III_12_0058	Biederbach, Ober- und Unterbiederbach, Unterbiederbach, Oberbiederbach	8.02694, 48.2183	hieve	h ie v e	hiefe	h ie f e	1
+12	TÜB S2, TÜB S1	III_12_0060, III_12_0058	Biederbach, Ober- und Unterbiederbach, Unterbiederbach, Oberbiederbach	8.02694, 48.2183	hieve	h ie v e	hiäfe	h i ä f e	2
+13	TUTT a4	III_12_0148, III_12_0149	Simonswald, Untersimonswald	8.04838, 48.10278	hiffe	h i ff e	hiefe	h ie f e	1
+14	TÜB S6	III_12_0062, III_12_0064	Oberprechtal, Unterprechtal, Oberprechtal	8.12114, 48.20548	hie̤fe	h ie ̤ f e	hiëfe	h i ë f e	2
+15	TÜB S6	III_12_0062, III_12_0064	Oberprechtal, Unterprechtal, Oberprechtal	8.12114, 48.20548	hie̤fe	h ie ̤ f e	hièfe	h i è f e	2
+16	MH ya2	II_90_0028	Unterwittighausen, Unterwittighausen	9.83878, 49.61344	heffa	h e ff a	hiffa	h i ff a	1
+17	MH ya1/2, MH ya1/1	II_90_0030	Oberwittighausen, Oberwittighausen	9.85164, 49.62585	hīfa	h ī f a	hiffa	h i ff a	2

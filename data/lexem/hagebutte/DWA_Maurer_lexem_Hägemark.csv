@@ -1,0 +1,11 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Stra L 2	na	Oberschopfheim	7.90095, 48.39821	hägemark	na	999	hegemark	na	999	Hägemark	na	999
+1	MH S9	na	Unterschwarzach	8.98202, 49.36856	hechemarig	na	999	hechemarik	na	999	Hägemark	na	999
+2	na	III_11_0046	Nonnenweier	7.76001, 48.34931	na	hägemark	999	na	hegemark	999	na	Hägemark	999
+3	na	III_13_0132	St. Georgen	7.8056, 47.97934	na	hēgemark	999	na	hegemark	999	na	Hägemark	999
+4	na	III_10_0054, III_10_0053	Urloffen	7.96889, 48.557	na	hegemark, hagemark	999	na	hegemark, hagemark	999	na	Hägemark	999
+5	na	III_10_0124	Fessenbach	7.97963, 48.46469	na	hägemark	999	na	hegemark	999	na	Hägemark	999
+6	na	III_10_0075	Oberkirch	8.07823, 48.5312	na	hegemark	999	na	hegemark	999	na	Hägemark	999
+7	na	II_59_0059	Mannheim	8.46678, 49.4865	na	hegemark	999	na	hegemark	999	na	Hägemark	999
+8	na	III_22_0023	Ersingen	8.63492, 48.93324	na	hegämark	999	na	hegemark	999	na	Hägemark	999
+9	na	III_23_0038	Pforzheim	8.70025, 48.89013	na	hägenmark	999	na	hegenmark	999	na	Hägemark	999

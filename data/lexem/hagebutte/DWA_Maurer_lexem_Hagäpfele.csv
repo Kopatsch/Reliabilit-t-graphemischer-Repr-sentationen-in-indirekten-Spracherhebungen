@@ -1,0 +1,7 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Stra C 3	III_10_0113	Plobsheim, Plobsheim	7.72339, 48.46948	heuiepfele	heuäpfele	2	heuepfle	heuepfle	0	Hagäpfele	Hagäpfele	0
+1	Stra Y 4	na	Ringsheim	7.78041, 48.24632	hagapfili	na	999	hagapfeli	na	999	Hagäpfele	na	999
+2	Stra L 1	na	Niederschopfheim	7.891, 48.41717	hagenepfele	na	999	hagenepfele	na	999	Hagäpfele	na	999
+3	na	III_13_0107	Schweighausen	7.17716, 47.93851	na	hagkepfela	999	na	hagepfla	999	na	Hagäpfele	999
+4	na	III_13_0030	Kolmar	7.36359, 48.08198	na	hagāpfela	999	na	hagapfela	999	na	Hagäpfele	999
+5	na	III_16_0040	Blotzheim	7.49611, 47.60128	na	hogäpfele	999	na	hagepfele	999	na	Hagäpfele	999

@@ -1,0 +1,5 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	TUTT J9	na	Stahringen	8.97547, 47.78849	glamos	na	999	klamas	na	999	Klamoasa	na	999
+1	TUTT J11	III_36_0050, III_36_0051	Güttingen, Güttingen	8.998, 47.77415	klamoasa	klamos	2	klamoase	klamas	2	Klamoasa	Klamoasa	0
+2	TUTT K8	III_36_0045	Möggingen, Möggingen	9.00337, 47.76589	glamoaså	klamoasa	2	klamoase	klamoase	0	Klamoasa	Klamoasa	0
+3	na	III_36_0086	Mimmenausen	9.2852, 47.76025	na	klamosen	999	na	klamasen	999	na	Klamoasa	999

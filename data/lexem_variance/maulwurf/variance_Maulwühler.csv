@@ -1,0 +1,5 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_maurer_align	item_DWA	item_DWA_align	Levenshtein_item
+0	KST o2	III_19_0052	Treschklingen, Treschklingen	9.05577, 49.22614	maulwiehler	m a u l w ie h l e r	maulwieler	m a u l w ie l e r	1
+1	MH T11	II_60_0079	Diedesheim, Diedesheim	9.11367, 49.34933	maulwiler	m a u l w i l e r	maulwühler	m a u l w ü h l e r	2
+2	MH T11	II_60_0079	Diedesheim, Diedesheim	9.11367, 49.34933	maulwüler	m a u l w ü l e r	maulwühler	m a u l w ü h l e r	1
+3	MH T11	II_60_0079	Diedesheim, Diedesheim	9.11367, 49.34933	maulwiler	m a u l w i l e r	maulwühler	m a u l w ü h l e r	2

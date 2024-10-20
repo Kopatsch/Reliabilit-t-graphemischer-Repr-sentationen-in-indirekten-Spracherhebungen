@@ -1,0 +1,42 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Co x 3	na	Malmerspach	7.03487, 47.86486	vergrawa	na	999	vergrawe	na	999	Vergrabe	na	999
+1	Co E2	na	Niederburbach (Bourbach-Le-Bas)	7.05868, 47.77527	vergrabe	na	999	vergrabe	na	999	Vergrabe	na	999
+2	Co U 13	na	Hisingen (Hirsingue)	7.25483, 47.58601	vergrawa	na	999	vergrawe	na	999	Vergrabe	na	999
+3	Co B13	na	Obermünstertal-Krumlinden (Obermünstertal)	7.81186, 47.87153	vergrāba	na	999	vergrabe	na	999	Vergrabe	na	999
+4	TUTT S2	na	Segeten	8.02357, 47.65954	vergraben	na	999	vergraben	na	999	Vergrabe	na	999
+5	TUTT L8	III_15_0097	Hartschwand, Hartschwand	8.0655, 47.67119	vergraba	vergrabe	1	vergrabe	vergrabe	0	Vergrabe	Vergrabe	0
+6	TÜB a12	na	Oberweier	8.10851, 48.70178	vergrabe	na	999	vergrabe	na	999	Vergrabe	na	999
+7	TUTT c1	na	Buchenberg	8.37655, 48.16035	vergrawe	na	999	vergrawe	na	999	Vergrabe	na	999
+8	TUTT A4	na	Zimmerholz	8.74175, 47.86811	vergrabe	na	999	vergrabe	na	999	Vergrabe	na	999
+9	na	III_15_0016	Niedermorschweiler	7.26699, 47.73596	na	vi̊rgrawa	999	na	vergrawe	999	na	Vergrabe	999
+10	na	III_17_0033	Steinsulz	7.34276, 47.55541	na	vergrōbe	999	na	vergrabe	999	na	Vergrabe	999
+11	na	III_13_0058	Merdingen	7.68864, 48.0173	na	vergraben	999	na	vergraben	999	na	Vergrabe	999
+12	na	III_12_0119	Forchheim	7.7031, 48.16341	na	vergrabe	999	na	vergrabe	999	na	Vergrabe	999
+13	na	III_10_0134	Müllen	7.83364, 48.46521	na	vergraben	999	na	vergraben	999	na	Vergrabe	999
+14	na	III_16_0113	Niedergebisbach	7.99251, 47.65054	na	vergraben	999	na	vergraben	999	na	Vergrabe	999
+15	na	III_15_0090	Grossherrischwand	8.01017, 47.6797	na	vergrabe	999	na	vergrabe	999	na	Vergrabe	999
+16	na	III_11_0133	Unterentersbach	8.05965, 48.32962	na	vugraben	999	na	vergraben	999	na	Vergrabe	999
+17	na	III_6_0099, III_6_0098	Oetigheim	8.23212, 48.89333	na	vergrawe	999	na	vergrawe	999	na	Vergrabe	999
+18	na	III_9_0105	Forbach-Hundsbach	8.27064, 48.62026	na	vergrawe	999	na	vergrawe	999	na	Vergrabe	999
+19	na	III_36_0006	Wellendingen	8.35185, 47.79705	na	vergrābe	999	na	vergrabe	999	na	Vergrabe	999
+20	na	III_36_0014	Bettmaringen	8.36102, 47.75368	na	vergrabe	999	na	vergrabe	999	na	Vergrabe	999
+21	na	III_33_0071	Villingen	8.45901, 48.0567	na	vergraben	999	na	vergraben	999	na	Vergrabe	999
+22	na	III_31_0007	Tennenbronn	8.46043, 48.17227	na	vergrabe	999	na	vergrabe	999	na	Vergrabe	999
+23	na	III_23_0008	Langenalb	8.50104, 48.84402	na	vergraber	999	na	vergrabe	999	na	Vergrabe	999
+24	na	III_32_0016	Dauchingen	8.55237, 48.09031	na	vergrbe	999	na	vergrabe	999	na	Vergrabe	999
+25	na	III_35_0016	Fürstenberg	8.55367, 47.89124	na	vergrabe	999	na	vergrabe	999	na	Vergrabe	999
+26	na	III_20_0020	Bruchsal	8.60102, 49.12377	na	vergraben	999	na	vergraben	999	na	Vergrabe	999
+27	na	III_22_0027	Ispringen	8.66764, 48.91655	na	vergrabe	999	na	vergrabe	999	na	Vergrabe	999
+28	na	III_36_0032	Beuren	8.6839, 47.79252	na	vergrabbe	999	na	vergrabe	999	na	Vergrabe	999
+29	na	III_20_0028	Oberöwisheim	8.6891, 49.14532	na	vergraben	999	na	vergraben	999	na	Vergrabe	999
+30	na	III_20_0029	Münzesheim	8.71579, 49.12246	na	vergrabe	999	na	vergrabe	999	na	Vergrabe	999
+31	na	III_36_0029, III_36_0027	Weiterdingen	8.76917, 47.79954	na	vergrabe  , vergrabe	999	na	vergrabe	999	na	Vergrabe	999
+32	na	III_24_0036	Mühlhausen	8.82201, 48.80607	na	vorgraawe	999	na	vergrawe	999	na	Vergrabe	999
+33	na	III_33_0041	Nendingen	8.86067, 48.00602	na	ougrabbe	999	na	vergrabe	999	na	Vergrabe	999
+34	na	III_34_0051	Boll	9.0299, 47.9487	na	vegrawe	999	na	vergrawe	999	na	Vergrabe	999
+35	na	III_37_0031	Kaltbrunn	9.07201, 47.73526	na	vergraba	999	na	vergrabe	999	na	Vergrabe	999
+36	na	III_36_0066	Bonndorf	9.09477, 47.82968	na	vergrabe	999	na	vergrabe	999	na	Vergrabe	999
+37	na	III_33_0049	Rohrdorf	9.10207, 48.01811	na	vagraba	999	na	vergrabe	999	na	Vergrabe	999
+38	na	III_35_0066, III_35_0068, III_35_0069, III_35_0067	Herdwangen	9.16937, 47.8629	na	vergraben, fagraba, fergraben	999	na	vergraben, vergrabe	999	na	Vergrabe	999
+39	na	III_36_0082	Weildorf	9.30037, 47.78969	na	vergrabe	999	na	vergrabe	999	na	Vergrabe	999
+40	na	III_37_0052	Markdorf	9.38933, 47.72088	na	vergrabä	999	na	vergrabe	999	na	Vergrabe	999

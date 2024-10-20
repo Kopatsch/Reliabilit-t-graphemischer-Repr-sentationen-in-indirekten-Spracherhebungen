@@ -1,0 +1,6 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Co s 7/3	na	Oberhergheim	7.39442, 47.96547	hollmüser	na	999	hohlmüser	na	999	Hohlmauser	na	999
+1	Co s 7/1	III_13_0122	Rüstenhart (Rustenhart), Rüstenhart	7.46359, 47.94159	hōlmüser	hohlmüsr	3	hohlmüser	hohlmüser	0	Hohlmauser	Hohlmauser	0
+2	Co s 1	III_13_0123	Dessenheim, Dessenheim	7.48828, 47.97561	hohlmüser	hohlmüser	0	hohlmüser	hohlmüser	0	Hohlmauser	Hohlmauser	0
+3	na	III_12_0075	Bebelnheim	7.32264, 48.15802	na	hohlmüser	999	na	hohlmüser	999	na	Hohlmauser	999
+4	na	III_13_0033	Hettenschlag	7.45782, 48.00441	na	hohlmüser	999	na	hohlmüser	999	na	Hohlmauser	999

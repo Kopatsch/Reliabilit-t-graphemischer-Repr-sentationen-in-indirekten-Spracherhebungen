@@ -1,0 +1,16 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	TUTT z1	na	Gutmadingen	8.61605, 47.91149	jäg	na	999	jäk	na	999	Jäk	na	999
+1	TUTT H8	na	Blumenfeld	8.68358, 47.81394	jäk	na	999	jäk	na	999	Jäk	na	999
+2	TUTT H7	na	Büsslingen	8.6839, 47.79252	jöck	na	999	jök	na	999	Jäk	na	999
+3	TUTT B8	na	Nenzingen	8.95914, 47.84256	jägg	na	999	jäk	na	999	Jäk	na	999
+4	TUTT Q11	III_37_0029	Hemmenhofen, Hemmenhofen	8.96502, 47.67294	jäk	jäck	1	jäk	jäk	0	Jäk	Jäk	0
+5	TUTT Q10	na	Gaienhofen	8.9829, 47.68263	jäk	na	999	jäk	na	999	Jäk	na	999
+6	TUTT J11	na	Güttingen	8.998, 47.77415	jäk	na	999	jäk	na	999	Jäk	na	999
+7	TUTT K5	na	Espasingen	9.01058, 47.82135	jäk	na	999	jäk	na	999	Jäk	na	999
+8	TUTT K10	na	Hödingen	9.13275, 47.78865	jäk	na	999	jäk	na	999	Jäk	na	999
+9	TUTT R7	na	Dingelsdorf	9.15648, 47.7384	jäg	na	999	jäk	na	999	Jäk	na	999
+10	SIG q1	na	Litzelstetten	9.17296, 47.71413	jäg	na	999	jäk	na	999	Jäk	na	999
+11	SIG n12	na	Salem	9.28599, 47.77663	jägg	na	999	jäk	na	999	Jäk	na	999
+12	na	III_36_0040	Hilzingen	8.78189, 47.7649	na	jäk	999	na	jäk	999	na	Jäk	999
+13	na	III_34_0046	Worndorf	8.9985, 47.98553	na	jäg	999	na	jäk	999	na	Jäk	999
+14	na	III_37_0030	Markelfingen	9.00452, 47.74143	na	jak	999	na	jak	999	na	Jäk	999

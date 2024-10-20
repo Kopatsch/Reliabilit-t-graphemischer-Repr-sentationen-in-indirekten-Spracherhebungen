@@ -1,0 +1,5 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_maurer_align	item_DWA	item_DWA_align	Levenshtein_item
+0	TUTT f1	III_32_0032	Hartheim, Hartheim	8.93612, 48.15571	nagehhex	n a g e hh e x	nageläxgelhäx	n a g e l ä x g e l h ä x	7
+1	TUTT f2	III_32_0038	Heinstetten, Heinstetten	8.96312, 48.13491	naggelhäx	n a gg e l h ä x	nagelhäx	n a g e l h ä x	1
+2	TUTT f3	III_32_0041	Schwenningen, Schwenningen	8.99619, 48.10638	nagelhex	n a g e l h e x	nagellex	n a g e ll e x	1
+3	TUTT g2	III_32_0043	Stetten a.k.M. (am kalten Markt), Stetten	9.07816, 48.12086	nagelhäx	n a g e l h ä x	nagelhex	n a g e l h e x	1

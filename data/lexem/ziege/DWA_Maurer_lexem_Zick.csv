@@ -1,0 +1,12 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Stra m 3/2	na	Singrist	7.38757, 48.6705	zieg	na	999	zig	na	999	Zick	na	999
+1	Hag O 8	III_6_0044	Menchhofen (Menchhoffen), Menchhofen	7.49498, 48.85955	zigg	zigg	0	zig	zig	0	Zick	Zick	0
+2	Hag P 2	na	Offweiler	7.54296, 48.91021	zegg	na	999	zeg	na	999	Zick	na	999
+3	Hag W 17	na	Hochfelden	7.57004, 48.75735	zigg	na	999	zig	na	999	Zick	na	999
+4	Hag J 12	na	Nehweiler (Nehwiller)	7.70322, 48.96072	ziͤck	na	999	zig	na	999	Zick	na	999
+5	Hag Q 10	III_6_0072	Laubach, Laubach	7.72032, 48.88168	zigg	zigg	0	zig	zig	0	Zick	Zick	0
+6	Hag J 13	III_5_0072	Langensulzbach (Langensoultzbach), Langensulzbach	7.73367, 48.96812	zeg	zig	1	zeg	zig	1	Zick	Zick	0
+7	KST S6	na	Ludwigsfeste (bei Roeschwoog) (Fort-Louis)	8.05803, 48.80321	zick	na	999	zig	na	999	Zick	na	999
+8	KST H1	na	Nussbaum	8.69353, 48.98977	zīg	na	999	zig	na	999	Zick	na	999
+9	na	III_5_0063	Gundershofen	7.6592, 48.90652	na	zigg	999	na	zig	999	na	Zick	999
+10	na	III_33_0009	Kirchdorf	8.4704, 48.01378	na	zuug	999	na	zug	999	na	Zick	999

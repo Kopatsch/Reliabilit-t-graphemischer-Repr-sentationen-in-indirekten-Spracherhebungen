@@ -1,0 +1,4 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	MH y9	II_90_0027	Poppenhausen, Poppenhausen	9.82622, 49.63065	gagrhärz	gagrherz	1	gagerherts	gagerherts	0	Gagerherz	Gagerherz	0
+1	MH ya2	II_90_0028	Unterwittighausen, Unterwittighausen	9.83878, 49.61344	gågrhärz	gagerherz	3	gagerherts	gagerherts	0	Gagerherz	Gagerherz	0
+2	na	II_90_0030	Oberwittighausen	9.85164, 49.62585	na	gagelherz	999	na	gagelherts	999	na	Gagerherz	999

@@ -1,0 +1,63 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	KST D2	III_5_0122	Salmbach (bei Weißenburg), Salmbach	8.07143, 48.97818	saachemsa	saacheemse	2	sechemse	sachemse	1	Seichemes	Seichemes	0
+1	KST D8	III_5_0114	Winzenbach (Winthenbach), Winzenbach	8.1038, 48.9341	sächemse	sachemase	2	sechemse	sachemase	2	Seichemes	Seichemes	0
+2	KST D3/3, KST D3/1	III_5_0121	Niederlauterbach, Niederlauterbach	8.10398, 48.97233	sachemsa, sāchemse	sachems	1	sachemse, sechemse	sachemse	0	Seichemes	Seichemes	0
+3	KST D5	III_5_0118	Neeweiler (Neewiller-près-Lauterbourg), Neeweiler	8.12624, 48.95491	sächäms	sächäms	0	sachemse	sachemse	0	Seichemes	Seichemes	0
+4	KST D4	III_5_0119, III_5_0120	Scheibenhard, Scheibenhard, Scheibenhardt	8.13481, 48.97663	sächemse	sächems	1	sechemse	sachemse	1	Seichemes	Seichemes	0
+5	KST D6	III_5_0117	Motern (Mothern), Motern	8.15128, 48.93354	saichämse	saichhämse	1	seichemse	seichhemse	1	Seichemes	Seichemes	0
+6	TÜB c6	na	Bermersbach	8.34126, 48.69401	saichhämmesse	na	999	seichhemese	na	999	Seichemes	na	999
+7	TÜB c8	III_25_0003, III_25_0004	Forbach, Forbach	8.3589, 48.67857	saichhämes	saichhemes, seichhemes	1	seichhemese	seichhemese	0	Seichemes	Seichemes	0
+8	TÜB c5	III_25_0002	Langenbrand, Langenbrand	8.36334, 48.70441	saichhämise	saichhämese	1	seichhemise	seichhemese	1	Seichemes	Seichemes	0
+9	MH C4	II_58_0116	Schloßau, Schloßau	9.15226, 49.53935	säichemez	säichemetz	1	seichemetse	seichemetse	0	Seichemes	Seichemes	0
+10	MH D1	na	Mörschenhardt	9.17211, 49.56893	senchemez	na	999	senchemetse	na	999	Seichemes	na	999
+11	MH D2	II_58_0107	Donebach, Donebach	9.19217, 49.56113	sǟïchemez	zēichēmez	4	seichemetse	seichemetse	0	Seichemes	Seichemes	0
+12	MH D3	II_58_0108	Mudau, Mudau	9.20615, 49.53336	säichemeds	säichemes	1	seichemetse	seichemese	1	Seichemes	Seichemes	0
+13	MH M5	na	Limbach	9.21181, 49.46142	soīchemeze	na	999	seichemetse	na	999	Seichemes	na	999
+14	MH M2	II_59_0119	Laudenberg, Laudenberg	9.21457, 49.48066	såchemeetze	so͡aichemetz	6	sachemetse	seichemetse	2	Seichemes	Seichemes	0
+15	MH M4	na	Scheringen	9.23513, 49.46663	saichmēze	na	999	seichemetse	na	999	Seichemes	na	999
+16	MH M1	na	Einbach	9.24238, 49.48477	soichemez	na	999	seichemetse	na	999	Seichemes	na	999
+17	MH D8	na	Steinbach	9.24327, 49.54854	säichemez	na	999	seichemetse	na	999	Seichemes	na	999
+18	MH M11	na	Waldhausen	9.25731, 49.46733	soichemeze	na	999	seichemetse	na	999	Seichemes	na	999
+19	MH D9	na	Hornbach (Hettingenbeuern)	9.29012, 49.591	senchemets	na	999	senchemetse	na	999	Seichemes	na	999
+20	MH n1	II_55_0129, II_55_0128	Freudenberg, Freudenberg	9.32533, 49.75145	sachimmelse	saachimertse	4	sachimelse	sachimertse	2	Seichemes	Seichemes	0
+21	MH N4/2	na	Zimmern	9.37304, 49.43313	sächemse	na	999	sechemse	na	999	Seichemes	na	999
+22	MH o7	na	Nassig	9.45146, 49.73582	seichemes	na	999	seichemese	na	999	Seichemes	na	999
+23	MH q1	na	Steinbach	9.47108, 49.68011	saachemetz	na	999	sachemetse	na	999	Seichemes	na	999
+24	MH w5	na	Steinfurt	9.48425, 49.64828	sachhemes	na	999	sachhemese	na	999	Seichemes	na	999
+25	MH o5	II_89_0011, II_89_0010, II_89_0009	Sachsenhausen, Sachsenhausen	9.49147, 49.73223	seichpemes, seichemes	seichhemes, saichpehmes	1	seichemese, seichpemese	seichpemes, seichhemese	1	Seichemes	Seichemes	0
+26	MH O2	II_92_0011	Hirschlanden, Hirschlanden	9.50074, 49.47297	zachelemes	zachemes	2	tsachelemese	tsachemese	2	Seichemes	Seichemes	0
+27	MH F4	II_91_0007	Gerichtstetten, Gerichtstetten	9.5049, 49.53499	sāchēmēs	sachēmes	2	sachemese	sachemese	0	Seichemes	Seichemes	0
+28	MH O1	II_92_0010	Hohenstadt, Hohenstadt	9.51685, 49.49168	sachīmes	sachiemes	2	sachemese	sachimese	1	Seichemes	Seichemes	0
+29	MH p1	II_89_0018	Waldenhausen, Waldenhausen	9.52298, 49.74357	sachhēmese	sachemese	2	sachhemese	sachemese	1	Seichemes	Seichemes	0
+30	MH p5	II_89_0024	Külsheim, Külsheim	9.5236, 49.66947	sirchemes	sachemetz	4	sirchemese	sachemetse	3	Seichemes	Seichemes	0
+31	MH x7	II_90_0009	Schweinberg, Schweinberg	9.52459, 49.61864	saachhemez	sachhemes	2	sachhemetse	sachhemese	1	Seichemes	Seichemes	0
+32	MH F1	na	Pülfringen	9.52624, 49.58149	sachimes	na	999	sachemese	na	999	Seichemes	na	999
+33	MH g5	na	Wertheim-Eichel	9.54093, 49.76546	saichamese	na	999	seichamese	na	999	Seichemes	na	999
+34	MH p3	na	Bronnbach	9.54654, 49.71348	sāchemes	na	999	sachemes	na	999	Seichemes	na	999
+35	MH g4	II_88_0022	Bettingen, Bettingen	9.5642, 49.77261	sachamesse	saachhammessa	4	sachemese	sachhamese	2	Seichemes	Seichemes	0
+36	MH p13	II_89_0019	Urphar, Urphar	9.5706, 49.74798	sǟchēmăsă	sächemesa	4	sechemese	sechemese	0	Seichemes	Seichemes	0
+37	MH p6/1, MH p6/2	II_89_0025	Uissigheim, Uissigheim	9.57194, 49.67957	sachemes	sachemes	0	sachemese	sachemese	0	Seichemes	Seichemes	0
+38	MH g2	II_88_0023	Lindelbach, Lindelbach	9.58346, 49.75732	sächhamasa	sächhamesa	1	sechhamese	sechhamese	0	Seichemes	Seichemes	0
+39	MH x1	II_90_0010	Eiersheim, Eiersheim	9.58787, 49.65953	săchēmes	sachemes	2	sachemese	sachemese	0	Seichemes	Seichemes	0
+40	MH p12	II_89_0020	Dietenhan, Dietenhan	9.6066, 49.74297	sachames	saachhamesa	3	sachemese	sachhamese	2	Seichemes	Seichemes	0
+41	MH g1	II_88_0024	Dertingen über Wertheim a.M., Dertingen	9.61957, 49.7665	zächamasa	sächhāmāsā	5	tsechamase	sachhamese	4	Seichemes	Seichemes	0
+42	MH p11a/1, MH p11a/2	II_89_0021	Kembach, Kembach	9.62461, 49.74217	sachhamese, sachhamesse	saachhamasa	3	sachhamese	sachhamese	0	Seichemes	Seichemes	0
+43	MH q2	II_89_0034	Wenkheim, Wenkheim	9.70149, 49.70022	sächhamäsä	sechhamese	3	sachhamese	sachhamese	0	Seichemes	Seichemes	0
+44	MH y2	II_90_0025	Paimar, Paimar	9.75368, 49.6402	särchamsa	sächemse	3	sechamse	sechemse	1	Seichemes	Seichemes	0
+45	MH q4	II_89_0040	Gerchsheim, Gerchsheim	9.78301, 49.70681	sächamse	sächamsa	1	sechamse	sechamse	0	Seichemes	Seichemes	0
+46	MH y10	II_89_0042	Ilmspan, Ilmspan	9.79016, 49.66609	sâchamsa	sächamsa	1	sachamse	sechamse	1	Seichemes	Seichemes	0
+47	MH G7/2, MH G7/1	II_91_0032	Oberbalbach, Oberbalbach	9.7938, 49.53997	sachemsa, sachemsch	sachehmse	2	sachemsche, sechemse	sachemse	1	Seichemes	Seichemes	0
+48	MH q5	II_89_0041	Schönfeld, Schönfeld	9.80069, 49.67702	sächamasa	sächamasa	0	sechamese	sechamese	0	Seichemes	Seichemes	0
+49	MH y7	II_90_0131	Vilchband, Vilchband	9.82424, 49.58989	sāchames	sächamse	3	sachamese	sechamse	2	Seichemes	Seichemes	0
+50	MH y9	II_90_0027	Poppenhausen, Poppenhausen	9.82622, 49.63065	sächamsa	sächamsa	0	sachamse	sechamse	1	Seichemes	Seichemes	0
+51	MH ya2	II_90_0028	Unterwittighausen, Unterwittighausen	9.83878, 49.61344	sächams	sächamse	1	sachamse	sachamse	0	Seichemes	Seichemes	0
+52	MH ya1/1, MH ya1/2	II_90_0030	Oberwittighausen, Oberwittighausen	9.85164, 49.62585	sächamsa, sächamza	sächemsa	1	sechamse, sechamtse	sechemse	1	Seichemes	Seichemes	0
+53	na	II_58_0109	Langenelz	9.20495, 49.51744	na	sächemetz	999	na	sachemetse	999	na	Seichemes	999
+54	na	II_59_0115	Heidersbach	9.2468, 49.45517	na	seuchemez	999	na	seichemetse	999	na	Seichemes	999
+55	na	II_90_0007	Hardheim	9.47457, 49.60804	na	sachemez	999	na	sachemetse	999	na	Seichemes	999
+56	na	II_89_0013	Dörlesberg	9.501, 49.71273	na	seichemes	999	na	seichemese	999	na	Seichemes	999
+57	na	II_89_0022	Reicholzheim	9.53393, 49.72663	na	sachemes	999	na	sachemese	999	na	Seichemes	999
+58	na	II_89_0028	Höhefeld	9.60905, 49.71271	na	sachhemese	999	na	sachhemese	999	na	Seichemes	999
+59	na	II_89_0037	Steinbach	9.72212, 49.71075	na	sächamsä	999	na	sachamse	999	na	Seichemes	999
+60	na	II_89_0036	Grossrinderfeld	9.73405, 49.66558	na	sächames	999	na	sechamese	999	na	Seichemes	999
+61	na	II_90_0026	Krensheim	9.78002, 49.63781	na	sächamsa	999	na	sechamse	999	na	Seichemes	999

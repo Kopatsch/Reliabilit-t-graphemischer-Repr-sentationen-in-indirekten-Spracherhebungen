@@ -1,0 +1,4 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	na	III_13_0154	Wagensteig	8.04607, 47.98466	na	mueller	999	na	mueler	999	na	Mühler	999
+1	na	III_23_0038	Pforzheim	8.70025, 48.89013	na	mule	999	na	mule	999	na	Mühler	999
+2	na	II_57_0143	Hornbach	9.29012, 49.591	na	mühler	999	na	mühler	999	na	Mühler	999

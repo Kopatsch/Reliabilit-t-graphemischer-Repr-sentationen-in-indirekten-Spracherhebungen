@@ -1,0 +1,860 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Co p 2	na	Wildenstein bei Krüt, Kreis Tann	6.96296, 47.98143	hatzl	na	999	hatsel	na	999	Atzel	na	999
+1	Hag D 2	III_5_0022	Altweiler (Altwiller), Altweiler	6.98122, 48.93023	åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+2	Hag D 1	na	Hinsingen	6.99156, 48.9525	åtzel	na	999	atsel	na	999	Atzel	na	999
+3	Hag E 10	na	Bissert	7.02465, 48.94167	åtzel	na	999	atsel	na	999	Atzel	na	999
+4	Co E1	na	Oberburbach (Bourbach-Les-Haut)	7.02973, 47.7953	hatzel	na	999	hatsel	na	999	Atzel	na	999
+5	Hag E 9	III_5_0027	Harskirchen, Harskirchen	7.0389, 48.93409	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+6	Hag E 7	III_5_0024	Keskastel, Keskastel	7.04339, 48.96955	åzzel	atzel	2	atsel	atsel	0	Atzel	Atzel	0
+7	Hag M 12	III_6_0005	Diedendorf, Diedendorf	7.04974, 48.87869	ātzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+8	Hag E 8	III_5_0026	Schopperten, Schopperten	7.05316, 48.94524	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+9	Hag T 2	III_7_0006	Kirberg (Kirrberg), Kirberg	7.06204, 48.8233	åzel	atzel	2	atsel	atsel	0	Atzel	Atzel	0
+10	Hag M 2	III_6_0002	Pisdorf (Bischtroff-sur-Sarre), Pisdorf	7.06995, 48.9005	åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+11	Hag M 11/1, Hag M 11/2	III_6_0003	Wolfskirchen, Wolfskirchen	7.07612, 48.87884	åtzel, atzel	åtzel	0	atsel	atsel	0	Atzel	Atzel	0
+12	Hag M 1	III_5_0034	Zollingen, Zollingen	7.07636, 48.91048	åtzel	åtzel	0	atsel	atsel	0	Atzel	Atzel	0
+13	Hag T 4	III_7_0013	Goerlingen, Görlingen	7.08247, 48.79646	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+14	Hag x 2	III_4_0053	Herbitzheim, Herbitzheim	7.08355, 49.01459	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+15	Hag E 5	III_5_0033	Saarwerden (Sarrewerden), Saarwerden	7.08411, 48.9218	åtzl	atzel	2	atsel	atsel	0	Atzel	Atzel	0
+16	Hag M 10	III_6_0012	Bärendorf (Baerendorf), Bärendorf	7.08463, 48.83742	åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+17	Hag E 6/2, Hag E 6/1	III_5_0028, III_5_0029	Saarbuckenheim (Sarre-Union), Saarbuckenheim	7.08686, 48.93919	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+18	Hag x 1	III_4_0044	Silzheim (Siltzheim), Silzheim	7.09071, 49.0616	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+19	Co i 9	na	Stossweier	7.10163, 48.05432	ātzl	na	999	atsel	na	999	Atzel	na	999
+20	Hag T 3	III_7_0008	Rauweiler, Rauweiler	7.10907, 48.81139	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+21	Hag M 3	III_6_0004	Burbach, Burbach	7.11226, 48.90144	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+22	Hag T 1	III_6_0011	Hirschland, Hirschland	7.11324, 48.83701	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+23	Hag M 8	III_6_0007	Eschweiler (Eschwiller), Eschweiler	7.11652, 48.8596	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+24	Co i 6	III_13_0005	Luttenbach (Luttenbach-Près-Munster), Luttenbach	7.11745, 48.03105	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+25	Hag E 4	III_5_0032	Rimsdorf, Rimsdorf	7.12568, 48.92923	åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+26	Co i 5	na	Hohrod	7.12607, 48.05444	atzel	na	999	atsel	na	999	Atzel	na	999
+27	Hag E 1	III_4_0050	Örmingen (Oermingen), Örmingen	7.12881, 49.00062	åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+28	Hag M 7	III_6_0016	Eyweiler (Eywiller), Eyweiler	7.13172, 48.8709	ātzel	âtzel	1	atsel	atsel	0	Atzel	Atzel	0
+29	Co i 1/2	III_13_0065	Münster (Munster), Münster	7.13185, 48.0418	atsel	ătzel	2	atsel	atsel	0	Atzel	Atzel	0
+30	Hag E 2	III_5_0030	Völlerdingen (Voellerdingen), Völlerdingen	7.14098, 48.9622	atzel	azel	1	atsel	atsel	0	Atzel	Atzel	0
+31	Hag M 4	na	Tal bei Drulingen (Thal-Drulingen)	7.1452, 48.90983	atzel	na	999	atsel	na	999	Atzel	na	999
+32	Co i 4	na	Eschbach	7.14594, 48.02896	åtzel	na	999	atsel	na	999	Atzel	na	999
+33	Hag E 3	III_5_0031	Domfessel, Domfessel	7.15171, 48.95143	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+34	Hag M 5	III_6_0008	Berg, Berg	7.1532, 48.89487	atzel	aotzel	1	atsel	atsel	0	Atzel	Atzel	0
+35	Hag M 6	III_6_0009	Güngweiler (Gungwiller), Gu[e]ngweiler	7.15771, 48.88171	atzl	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+36	Hag M 9	III_6_0010	Weyer, Weyer	7.15976, 48.85488	åtzel	atsil	3	atsel	atsel	0	Atzel	Atzel	0
+37	Co k 1	III_13_0016	Griesbach (Griesbach-Au-Val), Griesbach	7.17071, 48.03351	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+38	Co k 2	III_13_0015	Günsbach (Gunsbach), Günsbach	7.17323, 48.0464	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+39	Hag F 6	III_5_0041	Mackweiler (Mackwiller), Mackweiler	7.17502, 48.9258	åtsel	atzel	2	atsel	atsel	0	Atzel	Atzel	0
+40	Hag F 4	na	Lorenzen (Lorentzen)	7.1752, 48.95249	ātzel	na	999	atsel	na	999	Atzel	na	999
+41	Hag N 17	III_6_0017	Berg, Rexingen, Rexingen	7.17654, 48.90012	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+42	Stra U 1/2	III_12_0002	Markich (Sainte-Marie-Aux-Marines), Markirch	7.17972, 48.24483	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+43	Hag N 11	na	Bettweiler (Bettwiller)	7.17993, 48.88617	åtzl	na	999	atsel	na	999	Atzel	na	999
+44	Hag F 5	III_5_0040	Diemeringen, Diemeringen	7.18685, 48.94061	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+45	Hag N 13	III_6_0026	Drulingen, Drulingen	7.18979, 48.8662	atzel	azel	1	atsel	atsel	0	Atzel	Atzel	0
+46	Hag F 1	III_5_0037	Dehlingen, Dehlingen	7.19095, 48.98016	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+47	Hag N 10	III_6_0024	Dürstel (Durstel), Durstel	7.19745, 48.89156	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+48	Co k 9	III_13_0014	Weier (Wihr-Au-Val), Weier im Tal	7.20558, 48.05217	åtzel	åtzel	0	atsel	atsel	0	Atzel	Atzel	0
+49	Hag N 16	III_6_0028	Sieweiler (Siewiller), Sieweiler	7.20676, 48.84318	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+50	Hag F 7	III_5_0050	Waldhambach, Waldhambach	7.21529, 48.92578	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+51	Hag N 12	III_6_0023	Aßweiler (Asswiller), Assweiler	7.2198, 48.88035	åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+52	Hag F 2	III_5_0042	Bütten (Butten), Bütten	7.2205, 48.97095	atzle	atzel	2	atsel	atsel	0	Atzel	Atzel	0
+53	Co k 8	III_13_0013	Walbach, Walbach	7.22416, 48.06257	ātzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+54	Hag N 14	III_6_0030, III_6_0029	Ottweiler (Ottwiller), Ottweiler	7.23096, 48.86516	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+55	Hag U 4	na	Büst (Bust)	7.2357, 48.82915	atzel	na	999	atsel	na	999	Atzel	na	999
+56	Co k 15	III_13_0012	Zimmerbach, Zimmerbach	7.23755, 48.07261	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+57	Hag F 3	III_5_0044	Ratzweiler (Ratzwiller), Ratzweiler	7.23978, 48.95501	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+58	Hag N 15	III_6_0031	Lohr, Lohr	7.24351, 48.85748	åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+59	Hag N 5	III_6_0019	Tieffenbach, Tieffenbach	7.24987, 48.90483	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+60	Hag N 6	na	Strut (Struth)	7.25475, 48.89009	åtzel	na	999	atsel	na	999	Atzel	na	999
+61	Hag U 5	III_7_0032	Pfalzweier (-weyer), Pfalzweier	7.25813, 48.80543	åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+62	Co c 1	III_12_0081	Kaysersberg, Kaysersberg	7.2617, 48.13853	åtzl	atzel	2	atsel	atsel	0	Atzel	Atzel	0
+63	Stra G 3	III_11_0010	Meisengott (Maisonsgoutte), Meisengott	7.26349, 48.3533	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+64	Hag U 3	III_6_0033	Schönburg (Schoenbourg), Schönburg	7.26823, 48.83392	åtzel	ātzel	1	atsel	atsel	0	Atzel	Atzel	0
+65	Hag N 7	na	Petersbach	7.26874, 48.86912	ātzel	na	999	atsel	na	999	Atzel	na	999
+66	Co c 6	III_12_0084	Niedermorschweiher, Niedermorschweiher	7.27596, 48.09972	åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+67	Hag U 2	III_7_0034	Graufthal, Grauftal	7.28092, 48.81935	ätzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+68	Co c 5	na	Katzenthal	7.28497, 48.10796	atzel	na	999	atsel	na	999	Atzel	na	999
+69	Co c 7	III_12_0080	Kientzheim, Kientzheim	7.28695, 48.13649	åtzel	åtzel	0	atsel	atsel	0	Atzel	Atzel	0
+70	Hag N 2	III_6_0021	Hinsburg (Hinsbourg), Hinsburg	7.28852, 48.90706	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+71	Hag U 1	III_7_0033	Etschburg (Eschbourg), Eschburg	7.29591, 48.81267	å̄tzel	atzel	2	atsel	atsel	0	Atzel	Atzel	0
+72	Stra s 3	na	Mühlbach (Muhlbach-Sur-Bruche)	7.29709, 48.51659	atzl	na	999	atsel	na	999	Atzel	na	999
+73	Stra O 4	III_11_0086	Wanzel (La Vancelle), Wanzel	7.30201, 48.28406	åtzel	aotzel	2	atsel	atsel	0	Atzel	Atzel	0
+74	Stra G 6	III_11_0005	Weiler (Villé), Weiler, ortsteil Erlenbach	7.30273, 48.34253	åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+75	Co c 9	III_12_0079	Sigolsheim, Sigolsheim	7.3035, 48.13267	oͣtzel	oatzel	1	atsel	oatsel	1	Atzel	Atzel	0
+76	Co k 14	III_13_0020	Egisheim, Egisheim	7.30455, 48.04168	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+77	Co k 4	III_13_0019	Wettolsheim, Wettolsheim	7.30629, 48.06133	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+78	Co c 10	na	Ingersheim	7.30725, 48.0936	ātzel	na	999	atsel	na	999	Atzel	na	999
+79	Stra O 2	na	Neukirch (Neuve-Église)	7.31338, 48.32872	åtzel	na	999	atsel	na	999	Atzel	na	999
+80	Hag N 1	III_5_0049	Puberg, Puberg	7.31461, 48.91322	atzel	ātzel	1	atsel	atsel	0	Atzel	Atzel	0
+81	Stra V 6	III_12_0006	Hunaweier (Hunawihr), Hunaweier	7.31671, 48.18091	åtzel	atsel	2	atsel	atsel	0	Atzel	Atzel	0
+82	Stra G 5	na	Erlenbach (Albé)	7.31832, 48.35651	ātzel	na	999	atsel	na	999	Atzel	na	999
+83	Stra V 5	III_12_0007	Zellenberg, Zellenberg	7.31874, 48.17063	atzel	atzl	1	atsel	atsel	0	Atzel	Atzel	0
+84	Hag N 8	III_6_0032	Lützelstein (La Petite-Pierre), Lützelstein	7.32076, 48.85864	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+85	Co c 13	III_12_0076, III_12_0077	Mittelweier, Mittelweier	7.32094, 48.14982	åtzl	atzel	2	atsel	atsel	0	Atzel	Atzel	0
+86	Co c 3	III_12_0075	Bebelnheim (Beblenheim), Bebelnheim	7.32264, 48.15802	åtzl	âtzel	2	atsel	atsel	0	Atzel	Atzel	0
+87	Stra G 8	III_11_0006	Triembach (Triembach-Au-Val), Triembach	7.32386, 48.33763	ådzel	atzel	2	atsel	atsel	0	Atzel	Atzel	0
+88	Co c 8	III_12_0078	Bennweier, Bennweier	7.32417, 48.14496	atzel	azel	1	atsel	atsel	0	Atzel	Atzel	0
+89	Stra s 2	III_10_0004	Urmatt, Urmatt	7.32457, 48.52675	åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+90	Stra V 4	III_12_0005	Rappoltsweiler (Ribeauvillé), Rappoltsweiler	7.32486, 48.19355	ātzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+91	Stra O 3	III_11_0085	Diefenbach (Dieffenbach-Au-Val), Diefenbach	7.32766, 48.31529	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+92	Stra s 1/2	III_10_0001	Oberhaslach, Oberhaslach	7.33046, 48.5499	åtsel	ãtsel	1	atsel	atsel	0	Atzel	Atzel	0
+93	Stra m 17	na	Hengweiler	7.33273, 48.66842	atzel	na	999	atsel	na	999	Atzel	na	999
+94	Stra P 1	III_11_0091	St Moritz (Saint-Maurice), St. Moritz	7.33562, 48.32669	åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+95	Hag G 1	III_5_0052	Rosteig, Rosteig	7.33838, 48.9327	aztel	åtzel	3	atsel	atsel	0	Atzel	Atzel	0
+96	Stra P 4	na	Gereut (Neubois)	7.33937, 48.3063	atzel	na	999	atsel	na	999	Atzel	na	999
+97	Stra e 21	na	Hägen	7.33939, 48.71422	åtzl	na	999	atsel	na	999	Atzel	na	999
+98	Stra t 14	III_10_0012	Niederhaslach, Niederhaslach	7.34119, 48.54244	ātzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+99	Stra m 1	III_9_0013	Birkenwald, Birkenwald	7.34505, 48.65874	åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+100	Hag O 3	III_6_0036	Zittersheim, Zittersheim	7.34551, 48.89955	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+101	Stra e 1	III_7_0047	Otterstal, Ottersthal	7.34837, 48.75567	atsel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+102	Stra e 16	na	Tal bei Maursmünster (Marmoutier)	7.35204, 48.70268	atzel	na	999	atsel	na	999	Atzel	na	999
+103	Stra P 3	na	Tannweiler (Thanvillé)	7.35364, 48.32384	atzel	na	999	atsel	na	999	Atzel	na	999
+104	Co z 1	III_14_0035	Ensisheim, Ensisheim	7.35432, 47.86522	hatzel	hatzel	0	hatsel	hatsel	0	Atzel	Atzel	0
+105	Hag V 10	III_7_0044	Eckartsweiler, Eckartsweiler	7.357, 48.76744	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+106	Stra W 3	na	Rodern	7.35716, 48.22457	atzel	na	999	atsel	na	999	Atzel	na	999
+107	Stra W 4	III_12_0013	Bergheim, Bergheim	7.35777, 48.20604	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+108	Stra e 19	III_8_0042	Dimbstal, Dimbstal	7.35926, 48.6727	atzel	atsel	1	atsel	atsel	0	Atzel	Atzel	0
+109	Hag V 9	III_7_0045, III_7_0046	St. Johann (Saint-Jean-Saverne), St. Johann	7.36064, 48.76931	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+110	Stra W 7	III_12_0010, III_12_0012	Rohrschweier (Rorschwihr), Rohrschweier	7.36295, 48.21541	å̄tzl	atzel	3	atsel	atsel	0	Atzel	Atzel	0
+111	Co l 1/5, Co l 1/6, Co l 1/4, Co l 1/2, Co l 1/3	III_13_0030	Kolmar, Kolmar	7.36359, 48.08198	åtzel, aͤtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+112	Stra e 2/3, Stra e 2/2, Stra e 2/1	III_8_0029, III_8_0030	Zabern, Zabern	7.36605, 48.73948	atzl, atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+113	Co d 1	III_12_0088	Ostheim, Ostheim	7.37011, 48.1551	atzel	ātzel	1	atsel	atsel	0	Atzel	Atzel	0
+114	Co d 8	III_12_0093	Hausen bei Kolmar (Houssen), Hausen	7.37665, 48.125	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+115	Stra m 16	na	Allenweiler	7.37795, 48.65555	azel	na	999	atsel	na	999	Atzel	na	999
+116	Stra e 3	na	Ottersweiler (Otterswiller)	7.37883, 48.7258	at̄sel	na	999	atsel	na	999	Atzel	na	999
+117	Hag V 8	III_7_0042	Ernolsheim (Ernoldsheim-Lès-Saverne), Ernolsheim	7.38025, 48.78942	åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+118	Stra m 3/1, Stra e 17	III_8_0041	Maursmünster (Marmoutier), Maursmünster, Maursmünster	7.38108, 48.69056	åtzel, atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+119	Hag G 2	III_5_0057	Wingen (Wingen-Sur-Moder), Wingen	7.38129, 48.91753	atzel	atsel	1	atsel	atsel	0	Atzel	Atzel	0
+120	Stra W 2, Stra W 1	III_12_0008	Orschweiler (Orschwiller), St. Pilt (saint-Hyppolyte), Orschweiler	7.38445, 48.24184	åtzel, atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+121	Stra t 12	III_10_0022, III_10_0023	Mollkirch, Mollkirch	7.38528, 48.50755	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+122	Stra H 7	III_11_0020	Reichsfeld, Reichsfeld	7.38628, 48.36613	ātzel	atzl	2	atsel	atsel	0	Atzel	Atzel	0
+123	Stra m 3/2	III_8_0045	Singrist, Singrist	7.38757, 48.6705	åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+124	Stra W 5	III_12_0014	Gemar (Guémar), Gemar	7.39289, 48.18656	ātzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+125	Stra P 9	III_11_0094	Kinzheim (Kintzheim), Kinzheim	7.39476, 48.25441	åzel	aotzel, atzel	2	atsel	atsel, aotsel	0	Atzel	Atzel	0
+126	Stra m 18	III_9_0012	Koßweiler (Cosswiller), Kossweiler	7.39912, 48.63165	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+127	Stra P 8	III_11_0096	Kestenholz (Châtenois), Kestenholz	7.39919, 48.27183	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+128	Hag V 6	III_7_0043	Dossenheim (Dossenheim-Sur-Zinsel), Dossenheim	7.40138, 48.80593	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+129	Hag V 5	III_7_0040	Neuweiler (Neuwiller-Lès-Saverne), Neuweiler	7.4034, 48.82391	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+130	Stra t 4	na	Still	7.4048, 48.54953	atzel	na	999	atsel	na	999	Atzel	na	999
+131	Stra e 18	III_8_0046	Reutenburg, Reutenburg	7.4064, 48.68515	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+132	Stra m 8	III_9_0010	Romansweiler, Romansweiler	7.40829, 48.64445	åzel	atzel	2	atsel	atsel	0	Atzel	Atzel	0
+133	Co l 8	III_12_0101	Weier auf dem Land (Wihr-en-Plaine), Weier auf dem Land	7.41118, 48.0844	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+134	Stra e 4	III_8_0037	Schweinheim (Schwenheim), Schweinheim	7.4132, 48.71301	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+135	Hag V 11	III_7_0049	Steinburg (Steinbourg), Steinburg	7.41332, 48.7697	åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+136	Hag O 12	III_6_0040	Weitersweiler (Weiterswiller), Weitersweiler	7.41341, 48.85298	aztel	atzel	2	atsel	atsel	0	Atzel	Atzel	0
+137	Stra m 4	III_8_0047	Jettersweiler, Jettersweiler	7.41482, 48.67034	åtzel	åtzel	0	atsel	atsel	0	Atzel	Atzel	0
+138	Co l 2	III_13_0031	Sundhofen (Sundhoffen), Sundhofen	7.41499, 48.04248	åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+139	Co l 9	III_13_0029	Andolsheim, Andolsheim	7.41512, 48.06763	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+140	Hag O 5	III_6_0039	Sparsbach, Sparsbach	7.41533, 48.87754	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+141	Stra H 5	III_11_0018	Andlau, Andlau	7.41747, 48.38635	atzel	åtzel	1	atsel	atsel	0	Atzel	Atzel	0
+142	Stra A 11	na	Klingenthal	7.41771, 48.47239	atzel	na	999	atsel	na	999	Atzel	na	999
+143	Stra H 14	III_11_0025	Blienschweiler (Blienschwiller), Blienschweiler	7.41844, 48.34128	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+144	Stra H 13	III_11_0024	Nothalten, Nothalten	7.41957, 48.3503	āzel	atzel	2	atsel	atsel	0	Atzel	Atzel	0
+145	Hag O 2	na	Wimmenau	7.41957, 48.91035	atzel	na	999	atsel	na	999	Atzel	na	999
+146	Stra P 7	III_11_0087	Scherweiler (Scherwiller), Scherweiler	7.4198, 48.28734	ātzel	aatzel	2	atsel	atsel	0	Atzel	Atzel	0
+147	Stra P 6	na	Diefental (Dieffenthal)	7.4217, 48.30979	atzel	na	999	atsel	na	999	Atzel	na	999
+148	Hag V 7	III_7_0050	Hattmatt, Hattmatt	7.42386, 48.79158	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+149	Stra A 7	III_10_0095	St. Nabor (Sain-Nabor), St. Nabor	7.42423, 48.4458	åtzel	åtzel	0	atsel	atsel	0	Atzel	Atzel	0
+150	Co d 4	III_12_0094	Holzweier, Holzweier	7.42541, 48.11028	åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+151	Stra m 5	III_9_0011	Krastatt, Krastatt	7.4265, 48.65831	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+152	Stra P 5	III_11_0089, III_11_0090	Dambach (Dambach-La-Ville), Dambach	7.42838, 48.32103	atzle	nazl	3	atsel	natsel	1	Atzel	Atzel	0
+153	Stra t 15/1	III_10_0006	Flexburg, Flexburg	7.43177, 48.57213	adzel	ātzel	2	atsel	atsel	0	Atzel	Atzel	0
+154	Stra H 12	na	Ittersweiler (Itterswiller)	7.4322, 48.36386	azel	na	999	atsel	na	999	Atzel	na	999
+155	Stra W 6	na	Illhäusern (Illhaeusern)	7.43355, 48.18466	åtzel	na	999	atsel	na	999	Atzel	na	999
+156	Stra e 22	III_8_0032	Waldolwisheim, Waldolwisheim	7.43629, 48.73254	åtzl	atzl	1	atsel	atsel	0	Atzel	Atzel	0
+157	Hag V 4	na	Griesbach Le Bastberg	7.43717, 48.81355	ātzel	na	999	atsel	na	999	Atzel	na	999
+158	Co d 6	III_12_0095	Wickerschweier, Wickerschweier	7.43868, 48.10708	åtzl	åtzl	0	atsel	atsel	0	Atzel	Atzel	0
+159	Stra e 5	III_8_0036	Furchhausen, Furchhausen	7.43921, 48.71868	åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+160	Co l 10	III_13_0032	Appenweier (Appenwihr), Appenweier	7.43962, 48.02594	atzel	ātzel	1	atsel	atsel	0	Atzel	Atzel	0
+161	Stra A 3/2	III_10_0089	Börsch (Boersch), Börsch	7.43994, 48.47577	åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+162	Hag O 6	III_6_0047, III_6_0046	Weinburg (Weinbourg), Weinburg	7.44029, 48.87157	åtzel	ātzel, atzel	1	atsel	atsel	0	Atzel	Atzel	0
+163	Stra H 3	III_11_0017	Mittelbergheim, Mittelbergheim	7.44252, 48.39603	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+164	Stra m 19	III_9_0022	Westhofen, Westhofen	7.44341, 48.60424	åtzel	azel	2	atsel	atsel	0	Atzel	Atzel	0
+165	Stra e 12	na	Kleingöft	7.44376, 48.69162	atsel	na	999	atsel	na	999	Atzel	na	999
+166	Co d 5	na	Riedweier	7.44536, 48.12387	åtzel	na	999	atsel	na	999	Atzel	na	999
+167	Stra m 9/1	na	Wasselnheim (Wasselonne)	7.44724, 48.63718	atzel	na	999	atsel	na	999	Atzel	na	999
+168	Co z 4	na	Hirzfelden	7.4473, 47.90935	hatzl	na	999	hatsel	na	999	Atzel	na	999
+169	Hag O 11	III_6_0041	Obersulzbach (Obersoultzbach), Obersulzbach	7.45013, 48.85174	åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+170	Stra t 6	na	Mutzig	7.45043, 48.53927	åtsel	na	999	atsel	na	999	Atzel	na	999
+171	Stra e 20	na	Zehnacker	7.45086, 48.67123	atzel	na	999	atsel	na	999	Atzel	na	999
+172	Stra e 10	III_8_0053	Wolschheim, Wolschheim	7.45106, 48.70358	atzl	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+173	Stra A 8	III_10_0096	Heiligenstein, Heiligenstein	7.45184, 48.41784	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+174	Stra P 10/2, Stra P 10/1, Stra P 10/3	III_11_0093	Schlettstadt (Sélestat), Schlettstadt	7.45232, 48.2578	åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+175	Co d 10	III_12_0099	Fortschweier, Fortschweier	7.45233, 48.08996	åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+176	Stra H 2/2, Stra H 2/1	na	Barr	7.45244, 48.40651	atzel	na	999	atsel	na	999	Atzel	na	999
+177	Hag V 3	III_7_0051	Imbsheim, Imbsheim	7.45399, 48.80165	atzel	åtzel	1	atsel	atsel	0	Atzel	Atzel	0
+178	Stra e 14	III_8_0050	Knörsheim, Knörrsheim	7.46052, 48.68079	âzel	attsel	4	atsel	atsel	0	Atzel	Atzel	0
+179	Stra e 9	III_8_0054	Männolsheim, Männolsheim	7.46258, 48.69969	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+180	Hag G 3	III_5_0058	Reipertsweiler (Reipertswiller), Reipertsweiler	7.46373, 48.93214	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+181	Stra e 6	III_8_0035	Altenheim, Altenheim	7.46448, 48.71956	åtzel	ătzel	1	atsel	atsel	0	Atzel	Atzel	0
+182	Stra m 15	III_9_0019	Tränheim, Tränheim	7.46472, 48.59545	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+183	Stra H 11/2, Stra H 11/1	III_11_0023, III_11_0022	Epfig, Epfig	7.4655, 48.35803	åtzel, åzl	a̽tzel, ahzel	2	atsel	atsel	0	Atzel	Atzel	0
+184	Hag O 10	III_6_0042	Niedersulzbach (Niedersoultzbach), Niedersulzbach	7.4662, 48.84923	åtzel	åtzel	0	atsel	atsel	0	Atzel	Atzel	0
+185	Stra m 10	III_9_0023	Wangen , Wangen	7.4664, 48.61834	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+186	Hag V 13	III_7_0055	Dettweiler, Dettweiler	7.46685, 48.75406	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+187	Stra m 7	III_9_0017	Hohengöft, Hohengött	7.47311, 48.66189	åzl	åzl	0	atsel	atsel	0	Atzel	Atzel	0
+188	Co d 2 , Co k 3	III_12_0096	Munzenheim (Muntzenheim), Munzenheim	7.47318, 48.10199	åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+189	Stra t 13	III_9_0020	Irmstett, Irmstett	7.47751, 48.58828	ãtzel	a̠tzl	3	atsel	atsel	0	Atzel	Atzel	0
+190	Co d 7	III_12_0091	Jebsheim, Jebsheim	7.47771, 48.12279	åtzel	åtzel	0	atsel	atsel	0	Atzel	Atzel	0
+191	Hag V 1/2, Hag V 1/1	III_7_0041	Buchsweiler (Bouxwiller), Buchsweiler	7.47851, 48.82528	ātzel, åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+192	Stra m 6	III_9_0016	Rangen, Rangen	7.47865, 48.66636	åzl	atzel	3	atsel	atsel	0	Atzel	Atzel	0
+193	Hag V 15	III_7_0054	Gottesheim-Prinzheim, Prinzheim	7.47921, 48.79113	åtzl	atzel	2	atsel	atsel	0	Atzel	Atzel	0
+194	Hag V 2	III_7_0052	Riedheim, Riedheim	7.47956, 48.81064	åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+195	Hag O 7	III_6_0045	Ingweiler (Ingwiller), Ingweiler	7.48031, 48.87322	ātzl	atzel	2	atsel	atsel	0	Atzel	Atzel	0
+196	Hag O 1	III_5_0059	Lichtenberg, Lichtenberg	7.48181, 48.9216	åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+197	Stra A 10	III_10_0097	Goxweiler (Goxwiller), Goxweiler	7.48432, 48.43288	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+198	Stra e 7/2, Stra e 7/1	III_8_0033	Lupstein, Lupstein	7.48491, 48.73763	atzel	azel	1	atsel	atsel	0	Atzel	Atzel	0
+199	Stra e 8	III_8_0055	Friedolsheim, Friedolsheim	7.48538, 48.70717	atzel	ātzel	1	atsel	atsel	0	Atzel	Atzel	0
+200	Hag O 9	III_6_0043	Uttweiler (Uttwiller), Uttweiler	7.48667, 48.84591	åtzl	atzel	2	atsel	atsel	0	Atzel	Atzel	0
+201	Co d 11	III_12_0090	Grussenheim, Grussenheim	7.48794, 48.1443	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+202	Stra m 11	III_9_0015	Marlenheim, Kärchheim, Marlenheim	7.49054, 48.62101	åtzl	åzl	1	atsel	atsel	0	Atzel	Atzel	0
+203	Hag O 8	III_6_0044	Menchhofen (Menchhoffen), Menchhofen	7.49498, 48.85955	åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+204	Stra e 15	III_8_0038	Landersheim, Landersheim	7.49655, 48.69022	ātzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+205	Stra A 2	III_10_0088	Bischofsheim (Bischoffsheim), Bischofsheim	7.49675, 48.48669	átzel	atzl	2	atsel	atsel	0	Atzel	Atzel	0
+206	Stra P 11	III_11_0098	Ebersheim, Ebersheim	7.50132, 48.30759	åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+207	Co e 8	III_12_0097	Dürrenenzen (Dürrenentzen), Dürrenenzen	7.50406, 48.09192	atzel	ǎtzel	1	atsel	atsel	0	Atzel	Atzel	0
+208	Stra f 20	III_8_0056	Wilwisheim, Wilwisheim	7.5074, 48.74799	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+209	Hag W 13	III_7_0057	Bosselshausen, Bosselshausen	7.50884, 48.80522	åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+210	Stra n 11	III_9_0038	Nordheim, Nordheim	7.51005, 48.63544	åtzel	atzl	2	atsel	atsel	0	Atzel	Atzel	0
+211	Stra n 1	III_9_0037	Winzenheim (Wintzenheim-Kochersberg), Winzenheim	7.51469, 48.65916	åtzel	åtzel	0	atsel	atsel	0	Atzel	Atzel	0
+212	Stra f 15	III_8_0058	Sässolsheim, Sässolsheim	7.51503, 48.70869	atzel	azel	1	atsel	atsel	0	Atzel	Atzel	0
+213	Stra B 6	III_10_0100	Niederehnheim (Niedernai), Niederehnheim	7.51765, 48.45309	atzel	åtzel	1	atsel	atsel	0	Atzel	Atzel	0
+214	Hag W 16/2, Hag W 16/1	III_7_0077	Melsheim, Melsheim	7.51974, 48.75911	atzel	ātzel	1	atsel	atsel	0	Atzel	Atzel	0
+215	Stra f 21	III_8_0057	Ingenheim, Ingenheim	7.52092, 48.7349	ātzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+216	Stra Q 1	III_11_0097	Ebersmünster (Ebersmunster), Ebersmunster	7.52112, 48.31139	atzl	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+217	Hag P 17	III_6_0052	Schillersdorf, Schillersdorf	7.52526, 48.87312	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+218	Hag W 12/1, Hag W 12/2	III_7_0135	Zöbersdorf, Zöbersdorf	7.52538, 48.79381	åtzel	otzel	1	atsel	atsel	0	Atzel	Atzel	0
+219	Stra n 10	III_9_0024	Küttolsheim, Küttolsheim	7.52543, 48.64343	åtzel	antzel	2	atsel	antsel	1	Atzel	Atzel	0
+220	Hag P 3	III_6_0048	Rotbach, Rotbach	7.52883, 48.90568	åtzel	odsel	3	atsel	atsel	0	Atzel	Atzel	0
+221	Hag W 6	III_7_0058	Kirrweiler, Kirweiler	7.53026, 48.81331	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+222	Hag W 14	III_7_0066	Wickersheim, Wickersheim	7.53159, 48.78313	åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+223	Stra Q 6	III_11_0103	Müttersholz (Muttersholtz), Muttersholz	7.53321, 48.2674	ãtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+224	Co m 7	III_13_0036	Künheim (Kunheim), Künheim	7.53422, 48.07788	åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+225	Stra f 14	III_8_0060	Dunzenheim, Dunzenheim	7.53538, 48.71278	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+226	Stra n 12	na	Fessenheim (Fessenheim-le-Bas)	7.5391, 48.63315	åtzel	na	999	atsel	na	999	Atzel	na	999
+227	Stra X 2	III_12_0017	Baldenheim, Baldenheim	7.53925, 48.23746	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+228	Hag P 18	III_6_0060	Obermodern, Obermodern	7.53932, 48.84466	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+229	Hag P 4	III_6_0049	Bischholz, Bischholz	7.53995, 48.89301	aatzel	aotzel	1	atsel	atsel	0	Atzel	Atzel	0
+230	Stra J 12	III_11_0037	Kogenheim, Kogenheim	7.5423, 48.33798	atzleͣ, atzl	atzel	1	atsele, atsel	atsel	0	Atzel	Atzel	0
+231	Hag P 2	III_6_0059	Offweiler, Offweiler	7.54296, 48.91021	åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+232	Stra n 2	na	Ittlenheim	7.54562, 48.65481	atzel	na	999	atsel	na	999	Atzel	na	999
+233	Hag W 11	III_7_0065, III_7_0064	Lixhausen, Lixhausen	7.5473, 48.79426	åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+234	Stra f 17	III_8_0062	Rohr, Rohr	7.54735, 48.69609	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+235	Hag P 16	III_6_0062, III_6_0061	Zutzendorf, Zutzendorf	7.54972, 48.85428	åtzl	àtzel, atzel	2	atsel	atsel	0	Atzel	Atzel	0
+236	Stra J 11	III_11_0036	Sermersheim, Sermersheim	7.55199, 48.34632	åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+237	Hag P 5	III_6_0053	Mühlhausen, Mühlhausen	7.5527, 48.88226	åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+238	Hag W 7	III_7_0063	Ringendorf, Ringendorf	7.55409, 48.80777	åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+239	Hag W 4	III_7_0059	Büsweiler (Buswiller), Büsweiler	7.55923, 48.82025	åtzel	åtzel	0	atsel	atsel	0	Atzel	Atzel	0
+240	Hag W 5	III_6_0065	Schalkendorf, Schalkendorf	7.55965, 48.83213	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+241	Hag W 15	III_7_0068	Bossendorf, Bossendorf	7.55983, 48.78146	atzl	atzl	0	atsel	atsel	0	Atzel	Atzel	0
+242	Stra f 2	III_8_0078	Schaffhausen bei Hochfelden (schaffhouse-sur-Zorn), Schaffhausen	7.56211, 48.7324	atzel	atsl	2	atsel	atsel	0	Atzel	Atzel	0
+243	Stra n 16	III_9_0042	Fürdenheim, Fürdenheim	7.56378, 48.61325	åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+244	Stra u 9	na	Ernolsheim	7.56478, 48.56483	atzel	na	999	atsel	na	999	Atzel	na	999
+245	Stra f 16	III_8_0065	Gugenheim, Gugenheim	7.56591, 48.70185	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+246	Stra Q 5	III_11_0100	Hilsenheim, Hilsenheim	7.56768, 48.29055	åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+247	Stra f 22	III_9_0041	Schnersheim, Schnersheim	7.568, 48.65809	åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+248	Co m 9	na	Vogelgrün (Vogelgrun)	7.57243, 48.0111	åtzl	na	999	atsel	na	999	Atzel	na	999
+249	Stra n 13	na	Dossenheim-Kochersberg	7.57335, 48.63816	åtzel	na	999	atsel	na	999	Atzel	na	999
+250	Stra n 14	III_9_0036, III_9_0035	Quatzenheim, Quatzenheim	7.57372, 48.62636	åtzl	åtzel, atzel	1	atsel	atsel	0	Atzel	Atzel	0
+251	Stra f 18	na	Kienheim	7.57862, 48.68905	atzl	na	999	atsel	na	999	Atzel	na	999
+252	Hag P 6	III_6_0054	Uhrweiler (Uhrwiller), Uhrweiler	7.57892, 48.8784	åtzel	atzl	2	atsel	atsel	0	Atzel	Atzel	0
+253	Stra n 19	na	Kleinfrankenheim	7.58074, 48.66169	atzel	na	999	atsel	na	999	Atzel	na	999
+254	Hag W 3	III_7_0060	Ettendorf, Ettendorf	7.58414, 48.81374	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+255	Stra f 3	III_8_0079	Mutzenhausen (Mutzenouse), Mutzenhausen	7.58822, 48.7411	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+256	Stra u 17	III_10_0028	Kolbsheim, Kolbsheim	7.58834, 48.56138	åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+257	Stra f 1	III_8_0077	Gingsheim, Gingsheim	7.58895, 48.71645	åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+258	Hag P 1	III_5_0068	Zinsweiler, Zinsweiler	7.59018, 48.9196	azzl	atzel	2	atsel	atsel	0	Atzel	Atzel	0
+259	Stra n 15	III_9_0040	Hürtigheim, Hürtigheim	7.59369, 48.6152	åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+260	Hag W 10	III_7_0069	Alteckendorf, Alteckendorf	7.59484, 48.79272	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+261	Stra n 17, Stra n 18	III_9_0031	Ittenheim, Ittenheim	7.59542, 48.60404	åtzel, adsel	adsel	0	atsel	atsel	0	Atzel	Atzel	0
+262	Hag P 15	III_6_0057	Kindweiler, Kindweiler	7.59731, 48.86227	åtzel	aotzl, atzl	2	atsel	atsel, aotsel	0	Atzel	Atzel	0
+263	Hag W 18	III_7_0078	Schwindratzheim, Schwindratzheim	7.59981, 48.7561	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+264	Stra u 3	III_10_0029	Breuschwickersheim, Breuschwickersheim	7.60198, 48.5795	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+265	Stra Q 8/2	III_11_0105	Sundhausen (Sundhouse), Sundhausen	7.60327, 48.25126	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+266	Stra Q 4	na	Bindernheim	7.60713, 48.28366	ātzel	na	999	atsel	na	999	Atzel	na	999
+267	Stra n 5	III_9_0029	Truchtersheim, Truchtersheim	7.60723, 48.66319	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+268	Stra f 11	III_8_0066	Gimbrett, Gimbrett	7.60781, 48.69592	åtzel	åtzl	1	atsel	atsel	0	Atzel	Atzel	0
+269	Hag H 1	III_5_0062	Oberbronn, Oberbronn	7.6082, 48.94109	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+270	Hag X 5	na	Walk (La Walck)	7.60966, 48.84793	atzel	na	999	atsel	na	999	Atzel	na	999
+271	Stra Q 2	III_11_0099	Witternheim, Witternheim	7.61297, 48.31375	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+272	Hag P 7	III_6_0055	Engweiler, Engweiler	7.61501, 48.88508	atzel	atsel	1	atsel	atsel	0	Atzel	Atzel	0
+273	Stra u 10	III_10_0031	Hangenbieten, Hangenbieten	7.61529, 48.55876	åtzel	åtzel	0	atsel	atsel	0	Atzel	Atzel	0
+274	Stra f 12	III_8_0067	Reitweiler, Reitweiler	7.61546, 48.67598	ātzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+275	Stra f 6	III_8_0075	Hohatzenheim, Hohatzenheim	7.61598, 48.71578	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+276	Stra X 6	III_12_0022	Saasenheim, Saasenheim	7.61664, 48.23405	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+277	Stra J 9	III_11_0038	Roßfeld (Rossfeld), Roßfeld	7.61683, 48.33696	åtzl	atzel	2	atsel	atsel	0	Atzel	Atzel	0
+278	Stra n 8	III_9_0032, III_9_0033	Offenheim, Stutzheim-Offenheim, Offenheim	7.61838, 48.63195	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+279	Hag P 11	III_6_0058	Bitschhofen, Bitschhofen	7.61913, 48.85878	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+280	Hag W 9	III_7_0070	Minversheim, Minversheim	7.61936, 48.78575	åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+281	Stra u 4	III_10_0030	Achenheim, Achenheim	7.62578, 48.5817	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+282	Stra n 9	na	Stutzheim-Offenheim	7.62623, 48.6279	atzel	na	999	atsel	na	999	Atzel	na	999
+283	Hag P 13	na	Niedermodern	7.62648, 48.84525	åtzel	na	999	atsel	na	999	Atzel	na	999
+284	Hag W 2	III_7_0062	Morschweiler, Morschweiler	7.62689, 48.81972	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+285	Hag P 12	III_6_0064	Überach (Uberach), Überach	7.62806, 48.84844	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+286	Stra f 4	na	Waltenheim	7.62965, 48.74804	atzel	na	999	atsel	na	999	Atzel	na	999
+287	Stra f 7	III_8_0074	Mittelhausen, Mittelhausen	7.63107, 48.7093	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+288	Hag A 1	na	Dambach	7.63179, 49.00256	atzel	na	999	atsel	na	999	Atzel	na	999
+289	Hag P 8	III_6_0050	Gumbrechtshofen, Gumbrechtshofen	7.6319, 48.90544	åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+290	Stra u 16	na	Enzheim	7.63634, 48.53413	atzl	na	999	atsel	na	999	Atzel	na	999
+291	Hag P 10	na	Mietesheim	7.63837, 48.87814	åtzel	na	999	atsel	na	999	Atzel	na	999
+292	Hag W 8	III_7_0071	Hüttendorf, Hüttendorf	7.64259, 48.80222	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+293	Hag H 2/3, Hag H 2/2, Hag H 2/1	III_5_0067, III_5_0066	Bad-Niederbronn (Niederbronn-Les-Bains), Niederbronn (GID von Niederbronn les bains), Bad-Niederbronn	7.64282, 48.95108	åtzel, aztel, atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+294	Stra u 15	III_10_0034	Geispolsheim, Geispolsheim	7.64329, 48.51516	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+295	Stra v 8	III_10_0032	Holzheim, Holzheim	7.64383, 48.55724	åtzel	åtzel, o̊tzel	0	atsel	atsel	0	Atzel	Atzel	0
+296	Stra f 9	III_8_0072	Mittelschäffolsheim, Mittelschäffolsheim	7.65125, 48.70026	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+297	Hag W 1	III_6_0067	Dauendorf, Dauendorf	7.65509, 48.82974	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+298	Stra f 13	III_8_0069, III_8_0070	Berstett, Berstett	7.65758, 48.67898	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+299	Stra f 8	na	Bilwisheim	7.65824, 48.70895	åtzel	na	999	atsel	na	999	Atzel	na	999
+300	Hag P 9	III_5_0063	Gundershofen, Gundershofen	7.6592, 48.90652	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+301	Hag W 19	na	Wittersheim	7.66007, 48.78303	atzel	na	999	atsel	na	999	Atzel	na	999
+302	Stra Q 3	III_11_0102	Diebolsheim, Diebolsheim	7.66174, 48.29015	åtzel	åzl	2	atsel	atsel	0	Atzel	Atzel	0
+303	Hag H 3	III_5_0065, III_5_0064	Reichshofen (Reichshoffen), Reichshofen, Reichshofen-Werk	7.66338, 48.93223	ātzel	azel, atzel	1	atsel	atsel	0	Atzel	Atzel	0
+304	Stra v 6	III_9_0027	Wolfisheim, Wolfisheim	7.66606, 48.58281	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+305	Stra o 6, 7	na	Dingsheim, Griesheim	7.66779, 48.62966	ātzel	na	999	atsel	na	999	Atzel	na	999
+306	Stra R 2	III_11_0107	Friesenheim, Friesenheim	7.67044, 48.30971	atzel	azel	1	atsel	atsel	0	Atzel	Atzel	0
+307	Hag X 1	na	Uhlweiler	7.67396, 48.82047	atzel	na	999	atsel	na	999	Atzel	na	999
+308	Stra g 8	III_8_0080, III_8_0081	Olwisheim, Olwisheim	7.67511, 48.69681	ātzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+309	Hag X 13	III_7_0089	Hochstett, Hochstett	7.67779, 48.77853	ātzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+310	Hag Q 12	III_6_0068	Griesbach, Griesbach	7.67856, 48.89026	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+311	Hag Q 11	III_6_0078	Merzweiler (Mertzwiller), Merzweiler	7.67936, 48.86259	nāzel	atzel	2	natsel	atsel	1	Atzel	Atzel	0
+312	Stra o 16	III_9_0045	Straßburg-Oberhausbergen, Strassburg-Oberhausbergen	7.68507, 48.60569	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+313	Hag X 12	na	Wahlenheim	7.68522, 48.76281	åtzl	na	999	atsel	na	999	Atzel	na	999
+314	Stra g 1	na	Krautweiler	7.68667, 48.73776	adsel	na	999	atsel	na	999	Atzel	na	999
+315	Stra v 7	na	Eckbolsheim	7.68725, 48.57932	atzel	na	999	atsel	na	999	Atzel	na	999
+316	Stra K 7	na	Obenheim	7.68912, 48.35924	ātzel	na	999	atsel	na	999	Atzel	na	999
+317	Hag X 11	na	Bernolsheim	7.69085, 48.75532	åtzel	na	999	atsel	na	999	Atzel	na	999
+318	Stra o 10	III_9_0046	Mittelhausbergen, Mittelhausbergen	7.69275, 48.61406	åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+319	Stra g 9	na	Eckwersheim	7.69351, 48.68244	åtzel	na	999	atsel	na	999	Atzel	na	999
+320	Hag B 2	na	Obersteinbach	7.69364, 49.03549	atzel	na	999	atsel	na	999	Atzel	na	999
+321	Stra K 8	III_11_0041	Gerstheim, Gerstheim	7.69824, 48.38295	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+322	Stra o 9	III_9_0047	Niederhausbergen, Niederhausbergen	7.70033, 48.62313	åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+323	Hag X 2	III_7_0081	Ohlungen, Ohlungen	7.70034, 48.81187	ātsel	atsel	1	atsel	atsel	0	Atzel	Atzel	0
+324	Stra o 4	III_9_0075	Lamgertheim, Lamgertheim	7.70087, 48.65016	åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+325	Hag X 15	na	Wintershausen	7.70271, 48.79349	atzel	na	999	atsel	na	999	Atzel	na	999
+326	Hag J 12	III_5_0073	Nehweiler (Nehwiller), Nehweiler	7.70322, 48.96072	åtzl	atzel	2	atsel	atsel	0	Atzel	Atzel	0
+327	Stra R 3	III_11_0108	Rheinau (Rhinau), Rheinau	7.70498, 48.3175	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+328	Hag X 14	III_7_0087	Batzendorf, Batzendorf	7.70638, 48.78331	åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+329	Stra g 2	III_8_0084	Brumath, Brumath	7.71045, 48.73026	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+330	Stra g 10	III_8_0083	Vendenheim, Vendenheim	7.71285, 48.66933	åtzl	atzel	2	atsel	atsel	0	Atzel	Atzel	0
+331	Hag X 10	na	Rottelsheim	7.7144, 48.75688	åtzel	na	999	atsel	na	999	Atzel	na	999
+332	Hag Q 3	III_6_0071	Forstheim, Forstheim	7.71468, 48.89506	åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+333	Stra o 3	III_9_0076	Mundolsheim, Mundolsheim	7.71544, 48.64179	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+334	Stra C 2	III_10_0111	Eschau, Eschau	7.71556, 48.48796	atzel	azl	2	atsel	atsel	0	Atzel	Atzel	0
+335	Stra K 6	III_11_0048	Daubensand, Daubensand	7.71659, 48.34964	azel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+336	Hag Q 2	III_6_0070	Eberbach , Eberbach	7.71711, 48.91154	aztl	atzel	2	atsel	atsel	0	Atzel	Atzel	0
+337	Hag Q 10	na	Laubach	7.72032, 48.88168	otzl, atzl	na	999	atsel	na	999	Atzel	na	999
+338	Hag J 11	III_5_0074	Fröschweiler (Frœschwiller), Fröschweiler	7.72171, 48.94318	å̆tzl	â̂tzel	3	atsel	atsel	0	Atzel	Atzel	0
+339	Stra C 3	III_10_0113	Plobsheim, Plobsheim	7.72339, 48.46948	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+340	Stra R 13	na	Rust	7.72571, 48.26873	atzel	na	999	atsel	na	999	Atzel	na	999
+341	Hag X 9	na	Kriegsheim	7.72687, 48.75719	atzel	na	999	atsel	na	999	Atzel	na	999
+342	Stra o 12	III_9_0048	Kronenburg (Cronenbourg), Kronenburg	7.73212, 48.59535	åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+343	Hag J 13	III_5_0072	Langensulzbach (Langensoultzbach), Langensulzbach	7.73367, 48.96812	åtzel	antsel	3	atsel	antsel	1	Atzel	Atzel	0
+344	Hag X 3/1, Hag X 3/2	III_7_0082	Schweighausen (Schweighouse-Sur-Moder), Schweighausen	7.73517, 48.82151	atzel	otzel, atzel	0	atsel	atsel	0	Atzel	Atzel	0
+345	Stra o 11	III_9_0072, III_9_0060, III_9_0058, III_9_0065, III_9_0068, III_9_0064, III_9_0063, III_9_0074, III_9_0057, III_9_0070, III_9_0073, III_9_0071, III_9_0061, III_9_0059, III_9_0066, III_9_0062, III_9_0067	Straßburg, Straßburg	7.73609, 48.58523	åtzel	atsel, ãtzel, atzel	1	atsel	atsel	0	Atzel	Atzel	0
+346	Hag Q 9	III_6_0073	Eschbach, Eschbach	7.73641, 48.87453	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+347	Hag X 8	na	Niederschäffolsheim	7.7384, 48.7721	åtzel	na	999	atsel	na	999	Atzel	na	999
+348	Hag Q 4	III_6_0074	Morsbronn (Morsbronn-Les-Bains), Morbronn	7.74283, 48.90037	atzl	åtzel	2	atsel	atsel	0	Atzel	Atzel	0
+349	Hag J 10	III_5_0075	Wört (Woerth), Wört	7.74374, 48.93677	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+350	Hag Q 5	III_6_0075	Hagenheim (Hegeney), Hagenheim	7.74557, 48.89153	åtzl	atzel	2	atsel	atsel	0	Atzel	Atzel	0
+351	Stra g 3	III_8_0085	Geudertheim, Geudertheim	7.74686, 48.72273	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+352	Stra o 13	III_9_0049	Schiltigheim, Schiltigheim	7.74856, 48.60595	åtzl	atzel	2	atsel	atsel	0	Atzel	Atzel	0
+353	Stra o 14	III_9_0050	Straßburg-Bischheim, Straßburg-Bischheim	7.75254, 48.61483	ådzl	atzel	3	atsel	atsel	0	Atzel	Atzel	0
+354	Stra o 2	III_9_0054	Reichstett, Reichstett	7.75359, 48.6483	azel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+355	Stra K 2	na	Ottenheim	7.75477, 48.38593	åtzel	na	999	atsel	na	999	Atzel	na	999
+356	Stra o 15	III_9_0052	Hönheim, Straßburg-Hönheim	7.75526, 48.62105	åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+357	Hag R 9	na	Walburg-Hinterfeld (Hinterfeld)	7.75568, 48.88314	atzel	na	999	atsel	na	999	Atzel	na	999
+358	Hag J 9	III_5_0084	Oberdorf-Spachbach, Oberdorf-Spachbach	7.75696, 48.92512	åtzl	åtzel	1	atsel	atsel	0	Atzel	Atzel	0
+359	Stra K 5	III_11_0046	Nonnenweier, Nonnenweier	7.76001, 48.34931	azel	atzl	2	atsel	atsel	0	Atzel	Atzel	0
+360	Hag J 2	III_5_0071	Mattstall, Mattstall	7.7613, 48.98757	åtzel	åtzel	0	atsel	atsel	0	Atzel	Atzel	0
+361	Hag Q 1	na	Gunstett	7.76471, 48.91584	atzel	na	999	atsel	na	999	Atzel	na	999
+362	Hag J 5	III_5_0076	Görsdorf (Goersdorf), Görsdorf	7.76782, 48.95111	åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+363	Hag Q 6	III_6_0076	Dürrenbach (Durrenbach), Dürrenbach	7.76797, 48.89675	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+364	Hag J 8	III_5_0079	Diefenbach (Dieffenbach-Lès-Woerth), Diefenbach	7.77425, 48.93532	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+365	Hag X 7	III_7_0094	Weitbruch, Weitbruch	7.77586, 48.7535	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+366	Stra K 1	na	Meissenheim	7.77738, 48.40898	atsl	na	999	atsel	na	999	Atzel	na	999
+367	Stra g 4	na	Bietlenheim	7.7826, 48.71905	atzel	na	999	atsel	na	999	Atzel	na	999
+368	Hag J 4	III_5_0077	Mitschdorf, Mitschdorf	7.78435, 48.9524	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+369	Hag X 4	III_7_0083	Hagenau, Hagenau	7.78868, 48.81435	åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+370	Hag Q 8	III_6_0077	Walburg (Walbourg), Walburg	7.78939, 48.88652	åtzl	atzl	1	atsel	atsel	0	Atzel	Atzel	0
+371	Hag B 5	III_4_0086	Lembach, Lembach	7.78942, 49.00701	åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+372	Hag Q 7	III_6_0069	Biblisheim, Biblisheim	7.79196, 48.89991	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+373	Stra o 17	III_9_0056	Straßburg-Ruprechtsau, Straßburg-Ruprechtsau	7.80059, 48.61004	åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+374	Stra g 6	na	Weyersheim	7.8009, 48.7126	atzel	na	999	atsel	na	999	Atzel	na	999
+375	Hag J 6	III_5_0085	Preuschdorf, Preuschdorf	7.80425, 48.9435	atzel	atzl	1	atsel	atsel	0	Atzel	Atzel	0
+376	Stra g 5	III_8_0087	Kurzenhausen, Kurzenhausen	7.80901, 48.74019	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+377	Stra C 7	III_10_0147	Ichenheim, Ichenheim	7.81161, 48.43161	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+378	Hag X 6	III_7_0091	Gries , Gries	7.81383, 48.75262	åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+379	Stra C 5	III_10_0114	Altenheim, Altenheim	7.81393, 48.46505	hatzl	atzel	2	hatsel	atsel	1	Atzel	Atzel	0
+380	Stra v 1	III_10_0047	Kehl, Kehl	7.81494, 48.57419	atzl	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+381	Stra C 6	III_10_0115	Dundenheim, Dundenheim	7.81569, 48.44904	azzl	atzll	2	atsel	atsel	0	Atzel	Atzel	0
+382	Stra K 3	III_11_0043	Kürzell, Kürzell	7.81571, 48.38829	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+383	Hag J 3	III_5_0078	Lampertsloch, Lampertsloch	7.81713, 48.95698	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+384	Hag B 4	III_4_0087	Wingen, Wingen	7.81729, 49.02601	atzel	åtzel	1	atsel	atsel	0	Atzel	Atzel	0
+385	Stra v 3	na	Goldscheuer	7.81911, 48.51308	azel	na	999	atsel	na	999	Atzel	na	999
+386	Stra v 2	III_10_0048	Marlen, Marlen	7.8231, 48.52207	åzel	azel	1	atsel	atsel	0	Atzel	Atzel	0
+387	Stra K 9	III_11_0045	Langenwinkel, Langenwinkel	7.82557, 48.3325	ātzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+388	Stra o 1	III_9_0055	Wanzenau, Wanzenau	7.82574, 48.65926	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+389	Hag J 7	III_5_0081	Merkweiler (Merkwiller-Pechelbronn), Merkweiler	7.82707, 48.93886	åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+390	Hag J 1	III_5_0082	Lembach-Pfaffenbronn (Pfaffenbronn) , Lembach-Pfaffenbronn	7.83111, 48.99355	åtzel	atsel	2	atsel	atsel	0	Atzel	Atzel	0
+391	Stra D 1	III_10_0057	Kittersburg, Kittersburg	7.83346, 48.49695	atzel	azl	2	atsel	atsel	0	Atzel	Atzel	0
+392	Stra D 16	na	Müllen	7.83364, 48.46521	atzel	na	999	atsel	na	999	Atzel	na	999
+393	Hag Y 4	III_7_0095	Kaltenhausen, Kaltenhausen	7.83521, 48.79041	åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+394	Stra p 9	ungeodnet2	Auenheim, Auenheim	7.83597, 48.6051	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+395	Stra S 1	III_11_0119	Mietersheim, Mietersheim	7.83797, 48.32639	azl, aozl	atzel	2	atsel, aotsel	atsel	0	Atzel	Atzel	0
+396	Hag K 22	III_5_0108	Oberkutzenhausen, Oberkutzenhausen	7.84049, 48.93847	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+397	Stra L 8	III_11_0052	Schutterzell, Schutterzell	7.84148, 48.4057	atzl	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+398	Stra w 1	na	Neumühl	7.84392, 48.57012	atzel	na	999	atsel	na	999	Atzel	na	999
+399	Hag K 21	na	Lobsann	7.84681, 48.96327	adzl	na	999	atsel	na	999	Atzel	na	999
+400	Hag R 3	na	Surburg	7.84913, 48.90982	åtzel	na	999	atsel	na	999	Atzel	na	999
+401	Hag C 8	III_4_0088	Klimbach (Climbach), Klimbach	7.85041, 49.01803	oͣtzel	åtzel	2	atsel	atsel	0	Atzel	Atzel	0
+402	Stra w 10	III_10_0056	Eckartsweier, Eckartsweier	7.85175, 48.52985	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+403	Stra p 4	III_9_0077	Leutesheim, Leutesheim	7.85613, 48.62423	atzel	atzl	1	atsel	atsel	0	Atzel	Atzel	0
+404	Hag K 15	III_5_0107	Kutzenhausen, Kutzenhausen	7.85624, 48.93375	å̄tzel	âtzel	2	atsel	atsel	0	Atzel	Atzel	0
+405	Stra S 9	na	Schmieheim	7.85658, 48.27938	atzl	na	999	atsel	na	999	Atzel	na	999
+406	Stra h 10	III_8_0088	Kilstett, Kilstett	7.85798, 48.67473	atzel	azel	1	atsel	atsel	0	Atzel	Atzel	0
+407	Stra S 3	III_11_0121	Sulz, Langenhard-Sulz	7.86031, 48.31851	atzl	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+408	Hag Y 5	na	Oberhofen (Oberhoffen-Sur-Moder)	7.86327, 48.78298	åtzel	na	999	atsel	na	999	Atzel	na	999
+409	Stra w 13	III_10_0050	Kork, Kork	7.86899, 48.56537	atzl	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+410	Hag K 20	III_5_0086	Drachenbronn, Drachenbronn	7.87037, 48.98626	åzel, åzl	åtzel	1	atsel	atsel	0	Atzel	Atzel	0
+411	Hag K 17	III_5_0094	Memmelshofen (Memmelshoffen), Memmelshofen	7.87106, 48.96013	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+412	Stra p 3	III_9_0078	Honau, Honau	7.87132, 48.64025	atzel	adsl	3	atsel	atsel	0	Atzel	Atzel	0
+413	Stra p 10	III_9_0079	Bodersweier, Bodersweier	7.87462, 48.60047	atsl	atzel	2	atsel	atsel	0	Atzel	Atzel	0
+414	Stra L 7	III_11_0055, III_11_0054, III_11_0056	Friesenheim, Friesenheim	7.87515, 48.37378	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+415	Stra L 12	na	Lahr (Lahr/Schwarzwald)	7.87603, 48.34018	atzl	na	999	atsel	na	999	Atzel	na	999
+416	Hag R 4	III_6_0080, III_6_0081	Schwabweiler, Schwabweiler	7.87665, 48.90207	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+417	Hag K 16	III_5_0095	Retschweiler (Retschwiller), Retschweiler	7.87838, 48.95025	ātzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+418	Stra w 2	na	Odelshofen	7.88021, 48.56001	atzel	na	999	atsel	na	999	Atzel	na	999
+419	Stra w 9/2, Stra w 9/1	III_10_0058	Hesselhurst, Hesselhurst	7.88114, 48.52042	aotzl, atzel	o͜atzl	3	atsel	oatsel	1	Atzel	Atzel	0
+420	Hag K 18	III_5_0091	Keffenach, Keffenach	7.88225, 48.96489	atzel	atsel	1	atsel	atsel	0	Atzel	Atzel	0
+421	Hag K 14	III_5_0099	Sulz u. (f) (Soultz-Sous-Forêts), Sulz u. Wald	7.88268, 48.93782	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+422	Hag K 19	III_5_0089	Birlenbach, Birlenbach	7.8829, 48.9763	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+423	Hag R 2	III_5_0101	Reimersweiler, Reimersweiler	7.88417, 48.9137	åzel	atsel	3	atsel	atsel	0	Atzel	Atzel	0
+424	Stra p 2/1	III_9_0084	Diersheim, Diersheim	7.8874, 48.64789	atzl	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+425	Hag C 7	III_4_0090	Kleeburg (Cleebourg), Kleeburg	7.89318, 49.00093	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+426	Stra p 5	III_9_0082	Linx, Linx	7.89706, 48.62687	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+427	Hag R 5/1	III_6_0082	Oberbetschdorf, Oberbetschdorf	7.89812, 48.8986	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+428	Stra L 6	III_11_0050	Oberweier, Oberweier	7.89815, 48.37746	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+429	Hag K 2	na	Bremmelbach	7.90023, 48.986	ådsel	na	999	atsel	na	999	Atzel	na	999
+430	Stra L 2	III_11_0051	Oberschopfheim, Oberschopfheim	7.90095, 48.39821	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+431	Stra p 8	III_9_0081	Zierolshofen, Zierolshofen	7.9036, 48.60838	atzl	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+432	Hag Y 7	III_7_0102	Rohrwiller, Rohrweiler	7.90543, 48.75592	atzel	oazl	3	atsel	atsel	0	Atzel	Atzel	0
+433	Stra h 1	III_8_0091	Herlisheim (Herrlisheim), Herlisheim	7.90651, 48.72976	åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+434	Stra L 13	na	Kuhbach	7.90787, 48.33884	adzl	na	999	atsel	na	999	Atzel	na	999
+435	Stra D 15	III_10_0119	Hofweier, Hofweier	7.90797, 48.42392	azel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+436	Hag K 12	III_5_0100	Hermersweiler (Hermerswiller), Hermersweiler	7.91205, 48.93588	åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+437	Hag C 1	III_4_0100	Weißenburg-Weiler, Weissenburg-Weiler	7.91271, 49.0377	åtzel	åtzl	1	atsel	atsel	0	Atzel	Atzel	0
+438	Hag C 4	III_4_0091	Rott, Rott	7.91304, 49.02495	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+439	Stra w 3	III_10_0052	Legelshurst, Legelshurst	7.91306, 48.56803	åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+440	Hag K 13	III_5_0096	Schönenburg (Schoenenbourg), Schönenburg	7.91332, 48.95207	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+441	Stra h 2	III_8_0090	Offendorf, Offendorf	7.91375, 48.71167	åtzel	aatzel	2	atsel	atsel	0	Atzel	Atzel	0
+442	Hag R 5/2	na	Betschdorf	7.91634, 48.89883	atzel	na	999	atsel	na	999	Atzel	na	999
+443	Hag R 6	III_6_0083	Niederbetschdorf, Niederbetschdorf	7.91693, 48.8985	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+444	Stra D 3	III_10_0130	Weier, Weier	7.91766, 48.49812	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+445	Hag C 5	na	Oberhoffen-lès-Wissembourg	7.91832, 49.01679	atzel	na	999	atsel	na	999	Atzel	na	999
+446	Stra D 7, Stra D 12	na	Waltersweier	7.91883, 48.48554	ātzel, atzel	na	999	atsel	na	999	Atzel	na	999
+447	Hag Y 2	III_7_0106	Schirrhofen, Schirrhofen	7.9193, 48.8066	ātzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+448	Stra p 6	III_9_0083	Holzhausen, Holzhausen	7.92018, 48.62595	åzel	azl	2	atsel	atsel	0	Atzel	Atzel	0
+449	Stra w 12	III_10_0059	Sand, Sand	7.92148, 48.53823	atzel	azel	1	atsel	atsel	0	Atzel	Atzel	0
+450	Hag R 1, Hag K 11 R 1	III_5_0102	Kühlendorf (Kuhlendorf) und Hohweiler, Kühlendorf (Kuhlendorf), Hohweiler	7.92307, 48.91408	åtzel, oatzel	oatzel	0	atsel, oatsel	oatsel	0	Atzel	Atzel	0
+451	Stra w 8	III_10_0064	Griesheim, Griesheim	7.924, 48.51041	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+452	Stra p 1	III_9_0085	Rheinbischofsheim, Rheinbischofsheim	7.92904, 48.65493	atzel	adsl, atzl	1	atsel	atsel	0	Atzel	Atzel	0
+453	Stra D 4	III_10_0129	Bühl, Bühl	7.93242, 48.4947	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+454	Stra h 8	na	Freistett	7.93582, 48.67138	atzel	na	999	atsel	na	999	Atzel	na	999
+455	Stra L 3	III_11_0063	Diersburg, Diersburg	7.93733, 48.40041	adzl	atzel	2	atsel	atsel	0	Atzel	Atzel	0
+456	Hag K 10	III_5_0109	Hofen (Hoffen), Hofen	7.9412, 48.92766	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+457	Hag K 5	III_5_0097	Hunspach, Hunspach	7.94316, 48.9536	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+458	Hag K 9	III_5_0103	Leitersweiler (Leiterswiller), Leitersweiler	7.94768, 48.92407	åtzel	åtzel	0	atsel	atsel	0	Atzel	Atzel	0
+459	Stra D 5	III_10_0060	Bohlsbach, Bohlsbach	7.94796, 48.49264	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+460	Hag K 1	na	Riedselz (Riedseltz)	7.95195, 48.99281	atzel	na	999	atsel	na	999	Atzel	na	999
+461	Hag C 2	III_4_0094, III_4_0093	Weißenburg (Wissembourg), Weißenburg	7.9521, 49.03733	åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+462	Hag Y 8	na	Drusenheim	7.95234, 48.7651	atzel	na	999	atsel	na	999	Atzel	na	999
+463	Hag R 7	III_6_0084	Rittershofen, Rittershofen	7.95587, 48.90241	åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+464	Stra w 7	III_10_0061	Windschläg, Windschläg	7.95693, 48.5148	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+465	Hag Y 1	III_6_0079	Sufflenheim, Sufflenheim	7.95924, 48.82979	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+466	Stra h 4	III_8_0095	Helmlingen, Helmlingen	7.9656, 48.70959	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+467	Stra w 4	III_10_0054	Urloffen, Urloffen	7.96889, 48.557	atzl	atzl	0	atsel	atsel	0	Atzel	Atzel	0
+468	Hag C 3	III_4_0099	Altenstadt, Altenstadt	7.96964, 49.03158	ōtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+469	Stra D 11	III_10_0123	Ortenberg, Ortenberg	7.97048, 48.45192	atzle	atzel	2	atsel	atsel	0	Atzel	Atzel	0
+470	Stra w 5	na	Appenweier	7.98009, 48.53996	atzel	na	999	atsel	na	999	Atzel	na	999
+471	Stra D 9	na	Zell-Weierbach (Weierbach)	7.98174, 48.47408	atzel	na	999	atsel	na	999	Atzel	na	999
+472	Stra h 7	III_8_0093	Memprechtshofen, Memprechtshofen	7.98237, 48.68233	azzl	atzel	2	atsel	atsel	0	Atzel	Atzel	0
+473	Hag K 6	III_5_0106	Aschbach, Aschbach	7.98262, 48.93423	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+474	Stra h 6	III_8_0094	Muckenschopf am Rhein, Muckenschopf	7.98806, 48.69362	atzel	azel	1	atsel	atsel	0	Atzel	Atzel	0
+475	Hag Y 9	III_7_0104	Falhünden (Dalhünden), Dallhuenden, Fallhuenden	7.98835, 48.77367	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+476	Hag K 4	III_5_0098	Oberseebach, Oberseebach	7.98947, 48.9672	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+477	Stra L 5	na	Bermersbach	7.99239, 48.38717	atzle	na	999	atsel	na	999	Atzel	na	999
+478	Hag K 7	III_5_0105	Stundweiler (Stundwiller), Stundweiler	7.99256, 48.92477	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+479	Stra D 13	na	Ohlsbach	7.99275, 48.43199	atzel	na	999	atsel	na	999	Atzel	na	999
+480	Stra p 7	III_9_0086	Wagshurst, Wagshurst	7.99491, 48.62035	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+481	KST S1	III_7_0124	Stattmatten, Stattmatten	7.9997, 48.79553	åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+482	KST L1	III_5_0111	Bühl (Buhl), Bühl	8.00666, 48.91753	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+483	TÜB a1	III_8_0098	Lichtenau, Lichtenau	8.00691, 48.72636	atzl	atzl	0	atsel	atsel	0	Atzel	Atzel	0
+484	KST S9	III_7_0118	Greffern, Greffern	8.00704, 48.7525	atzl	atzl	0	atsel	atsel	0	Atzel	Atzel	0
+485	KST S3	III_7_0107	Runzenheim (Rountzenheim), Runzenheim	8.00708, 48.82172	åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+486	KST S2	III_7_0108	Auenheim, Auenheim	8.00818, 48.81256	atzl	atzl, atzel	0	atsel	atsel	0	Atzel	Atzel	0
+487	TÜB h8	III_9_0097	Renchen, Renchen	8.01285, 48.58724	atzl	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+488	TÜB D8	III_11_0070	Strohbach, Strohbach	8.01398, 48.38754	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+489	TÜB a2	na	Ulm (bei Bühl)	8.01434, 48.727	azl	na	999	atsel	na	999	Atzel	na	999
+490	TÜB D9	III_11_0065	Gengenbach, Gengenbach	8.01593, 48.40299	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+491	TÜB w1/1	III_10_0135	Durbach, Durbach	8.01775, 48.49407	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+492	KST D11	III_5_0112	Trimbach, Trimbach	8.0182, 48.94347	åtsel	atzel	2	atsel	atsel	0	Atzel	Atzel	0
+493	TÜB D7	na	Fußbach	8.01836, 48.36476	atzel	na	999	atsel	na	999	Atzel	na	999
+494	TÜB h1/1, TÜB h1/2	III_9_0103	Gamshurst, Gamshurst	8.0187, 48.66413	adsel, atzl	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+495	TÜB w6	III_10_0139	Reichenbach, Reichenbach	8.01986, 48.42981	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+496	TÜB p12	III_10_0068	Nussbach, Nussbach	8.02103, 48.53543	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+497	KST L9	III_6_0091	Leutenheim, Leutenheim	8.02175, 48.843	åtzel	åtzel	0	atsel	atsel	0	Atzel	Atzel	0
+498	TÜB p15	na	Erlach	8.02495, 48.56914	adsel	na	999	atsel	na	999	Atzel	na	999
+499	TÜB D6	na	Biberach	8.0278, 48.33891	atzel	na	999	atsel	na	999	Atzel	na	999
+500	KST D13	na	Kröttweiler (Croettwiller)	8.03043, 48.93123	atzel	na	999	atsel	na	999	Atzel	na	999
+501	TÜB D10	III_11_0066, III_11_0067	Schwaibach, Schwaibach	8.03268, 48.39239	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+502	KST L10	III_6_0092, III_6_0093	Forstfeld, Forstfeld	8.03702, 48.859	åtzel	åtzel, atsel	0	atsel	atsel	0	Atzel	Atzel	0
+503	KST S4	III_7_0109	Röschwoog (Roeschwoog), Röschwoog	8.04001, 48.83085	atzl	atzl	0	atsel	atsel	0	Atzel	Atzel	0
+504	KST L2	III_6_0087	Niederrödern/Elsass, Niederrödern	8.04105, 48.90576	atsel	atzl	2	atsel	atsel	0	Atzel	Atzel	0
+505	KST D10	III_5_0125	Siegen (Weissenburg), Siegen	8.04269, 48.9581	åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+506	TÜB p10	III_10_0077	Bottenau/Oberkirch, Bottenau	8.04409, 48.5298	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+507	TÜB a3	III_7_0119	Schwarzach (bei Bühl), Schwarzach	8.04423, 48.74717	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+508	TÜB h2	III_9_0088, III_9_0087	Großweier, Grossweier	8.0487, 48.65502	atzl	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+509	TÜB p1	III_10_0072	Ulm Kr. Offenburg, Ulm	8.05069, 48.57993	atzel	azel	1	atsel	atsel	0	Atzel	Atzel	0
+510	TÜB h6	na	Fautenbach	8.05129, 48.62351	atzl	na	999	atsel	na	999	Atzel	na	999
+511	KST S7	III_7_0114	Söllingen, Söllingen	8.05486, 48.78147	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+512	KST L8	III_6_0094	Roppenheim, Roppenheim	8.05791, 48.8465	åtzel	ātzel	1	atsel	atsel	0	Atzel	Atzel	0
+513	KST S6	III_7_0110	Ludwigsfeste (bei Roeschwoog) (Fort-Louis), Fort-Louis, Ludwigsfeste	8.05803, 48.80321	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+514	TÜB a14	III_8_0104	Unzhurst, Unzhurst	8.05808, 48.68815	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+515	TÜB a4	III_8_0103	Hildmannsfeld, Hildmannsfeld	8.05893, 48.73423	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+516	TÜB L2	na	Unterentersbach	8.05965, 48.32962	atzel	na	999	atsel	na	999	Atzel	na	999
+517	TÜB w7	III_10_0136	Hesselbach, Hesselbach	8.06498, 48.49863	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+518	TÜB a5	na	Moos	8.06679, 48.71918	atzel	na	999	atsel	na	999	Atzel	na	999
+519	KST D14	III_5_0113	Eberbach-Selz, Eberbach-Selz	8.06718, 48.92481	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+520	KST L11	III_6_0096	Kesseldorf (Weissenburg), Kesseldorf	8.06748, 48.87606	åtzel	åtzel	0	atsel	atsel	0	Atzel	Atzel	0
+521	KST D9	III_5_0124	Oberlauterbach, Oberlauterbach	8.07041, 48.94851	ătzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+522	KST D2	na	Salmbach (bei Weißenburg)	8.07143, 48.97818	ötzl	na	999	ötsel	na	999	Atzel	na	999
+523	TÜB p9	III_10_0075	Oberkirch, Oberkirch	8.07823, 48.5312	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+524	TÜB D1/2	na	Nordrach	8.08082, 48.39898	atzel	na	999	atsel	na	999	Atzel	na	999
+525	KST L12	III_6_0095	Beinheim (Weissenburg), Beinheim	8.08253, 48.86153	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+526	KST S5	III_7_0111	Neuhäusel (Neuhaeusel), Neuhäusel	8.08594, 48.82427	åtzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+527	TÜB h3	III_9_0089	Sasbachried, Sasbachried	8.08648, 48.65688	atzl	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+528	TÜB w2	III_10_0066, III_10_0067	Ödsbach, Oedsbach	8.08784, 48.49713	atzl	azel, azl	1	atsel	atsel	0	Atzel	Atzel	0
+529	TÜB D4/2, TÜB D4/1	III_11_0075, III_11_0074	Unterharmersbach, Unterharmersbach	8.08843, 48.35461	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+530	TÜB L3	III_11_0134	Oberentersbach, Oberentersbach	8.09119, 48.32718	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+531	TÜB h4	III_9_0092	Sasbach , Sasbach	8.09181, 48.63896	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+532	KST S10	na	Leiberstung	8.09585, 48.75131	atzel	na	999	atsel	na	999	Atzel	na	999
+533	KST L3	III_6_0088	Schaffhausen (Schaffhouse-près-Selz), Schaffhausen	8.10006, 48.9087	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+534	KST D8	III_5_0114	Winzenbach (Winthenbach), Winzenbach	8.1038, 48.9341	åtzel	åtzel	0	atsel	atsel	0	Atzel	Atzel	0
+535	KST L4	III_6_0089	Selz (Seltz), Selz	8.10383, 48.89457	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+536	KST D3/3, KST D3/2, KST D3/1	III_5_0121	Niederlauterbach, Niederlauterbach	8.10398, 48.97233	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+537	TÜB p5	na	Waldulm	8.10478, 48.58093	âtzel	na	999	atsel	na	999	Atzel	na	999
+538	TÜB h11	III_9_0100	Obersasbach, Obersasbach	8.10713, 48.63223	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+539	TÜB a12	na	Oberweier	8.10851, 48.70178	atzel	na	999	atsel	na	999	Atzel	na	999
+540	KST S14	III_7_0113	Hügelsheim, Hügelsheim	8.10904, 48.79654	atzl	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+541	TÜB a13	na	Ottersweier	8.11279, 48.66967	atzel	na	999	atsel	na	999	Atzel	na	999
+542	TÜB p8	na	Lautenbach	8.11439, 48.52093	atzel	na	999	atsel	na	999	Atzel	na	999
+543	TÜB a8	III_8_0106	Vimbuch, Vimbuch	8.11501, 48.71676	atzl	atzl	0	atsel	atsel	0	Atzel	Atzel	0
+544	TÜB h14	na	Sasbachwalden	8.12201, 48.62035	azel	na	999	atsel	na	999	Atzel	na	999
+545	KST D5	III_5_0118	Neeweiler (Neewiller-près-Lauterbourg), Neeweiler	8.12624, 48.95491	atsl	adzel	3	atsel	atsel	0	Atzel	Atzel	0
+546	TÜB h12	III_9_0094, III_9_0093	Lauf, Lauf	8.12648, 48.65317	atzl	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+547	TÜB E1, TÜB D2/2, TÜB D2/1	III_11_0076, III_11_0077	Oberharmersbach, Oberharmersbach	8.12723, 48.37386	adzel, atzl, atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+548	TÜB a9	na	Weitenung	8.12886, 48.73998	atzel	na	999	atsel	na	999	Atzel	na	999
+549	KST L7	na	Wintersdorf	8.13451, 48.84595	azl	na	999	atsel	na	999	Atzel	na	999
+550	KST D4	III_5_0119	Scheibenhard, Scheibenhard	8.13481, 48.97663	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+551	TÜB a11	III_8_0107	Bühl, Bühl	8.13592, 48.69536	atzl	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+552	KST S13	na	Liedelshof bei Sinzheim	8.13914, 48.74435	atzl	na	999	atsel	na	999	Atzel	na	999
+553	KST S15	III_7_0112	Iffezheim, Iffezheim	8.14011, 48.82287	atzl	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+554	TÜB w3	na	Ramsbach	8.14144, 48.49573	atzel	na	999	atsel	na	999	Atzel	na	999
+555	KST S11	na	Halberstung	8.14298, 48.76025	atzl	na	999	atsel	na	999	Atzel	na	999
+556	KST D7	III_5_0115, III_5_0116	Münchhausen (Munchhausen), Münchhausen	8.14635, 48.92142	atzel	ātzel, atzel	0	atsel	atsel	0	Atzel	Atzel	0
+557	KST D6	III_5_0117	Motern (Mothern), Motern	8.15128, 48.93354	hädsl	hadsel	2	hetsel	hatsel	1	Atzel	Atzel	0
+558	KST L5	III_6_0090	Plittersdorf bei Rastatt, Plittersdorf	8.15649, 48.88249	addzel	azl	3	atsel	atsel	0	Atzel	Atzel	0
+559	TÜB a10	III_8_0100	Steinbach, Steinbach	8.16038, 48.72843	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+560	TÜB b6	na	Altschweier	8.16047, 48.69964	atzel	na	999	atsel	na	999	Atzel	na	999
+561	TÜB b5	na	Eisental	8.16417, 48.71189	atzl	na	999	atsel	na	999	Atzel	na	999
+562	KST T12	na	Kartung bei Sinzheim	8.16546, 48.771	atzel	na	999	atsel	na	999	Atzel	na	999
+563	TÜB x8	III_10_0148	Löcherberg, Löcherberg	8.17462, 48.43425	atzl	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+564	TÜB b3	na	Varnhalt	8.17941, 48.73522	atzel	na	999	atsel	na	999	Atzel	na	999
+565	KST E1	III_5_0127	Lauterburg (Weissenburg) (Lauterbourg), Lauterburg	8.18046, 48.97495	ådsel	atzel	3	atsel	atsel	0	Atzel	Atzel	0
+566	TÜB b4	III_8_0111, III_8_0110	Neuweier, Neuweier	8.18377, 48.72012	atzel	azel	1	atsel	atsel	0	Atzel	Atzel	0
+567	KST M10/2, KST M10/1	III_6_0109	Rastatt, Rastatt	8.20142, 48.8573	atzl, atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+568	KST E8	III_5_0129	Illingen, Illingen	8.20923, 48.9349	hatzl	hatzel	1	hatsel	hatsel	0	Atzel	Atzel	0
+569	KST M9	III_6_0108	Niederbühl, Niederbühl	8.21769, 48.84547	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+570	TUTT T2	na	Indlekofen	8.22113, 47.65889	hetzl	na	999	hetsel	na	999	Atzel	na	999
+571	KST T9	III_7_0127, III_7_0126	Haueneberstein, Haueneberstein	8.22194, 48.80626	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+572	KST T8	na	Baden-Baden/Balg	8.22708, 48.78962	azel	na	999	atsel	na	999	Atzel	na	999
+573	KST E9	III_5_0131	Au am Rhein, Au am Rhein	8.23933, 48.95136	hatzel	hatzel	0	hatsel	hatsel	0	Atzel	Atzel	0
+574	KST M8	III_6_0107	Rauental, Rauental	8.24794, 48.8572	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+575	KST T1	III_7_0128	Kuppenheim, Kuppenheim	8.25452, 48.82818	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+576	KST E6	na	Würmersheim	8.25452, 48.94056	hatzel	na	999	hatsel	na	999	Atzel	na	999
+577	TÜB b2/2	na	Lichtent(h)al	8.2614, 48.74458	atzel	na	999	atsel	na	999	Atzel	na	999
+578	KST E2	na	Neuburgweier	8.26776, 48.96981	hatzl	na	999	hatsel	na	999	Atzel	na	999
+579	KST M4	III_6_0104, III_6_0105	Muggensturm, Muggenturm	8.2763, 48.87021	hatzel	hatzel	0	atsel	hatsel	1	Atzel	Atzel	0
+580	KST M7	III_6_0106	Bischweier, Bischweier	8.28478, 48.83768	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+581	KST E4	III_5_0137, III_5_0136, III_5_0138	Mörsch, Mörsch	8.28883, 48.96003	hatzel	hatzel	0	hatsel	hatsel	0	Atzel	Atzel	0
+582	TUTT b6	na	Brigach (und Sommerau)	8.3086, 48.11587	hätzel	na	999	hetsel	na	999	Atzel	na	999
+583	KST T3	na	(Bad) Rotenfels (Ortsteil von Gaggenau)	8.30895, 48.81087	atzl	na	999	atsel	na	999	Atzel	na	999
+584	KST y 8	na	Karlsruhe-Knielingen	8.34437, 49.03039	atzel	na	999	atsel	na	999	Atzel	na	999
+585	TÜB U1	na	Tennenbronn	8.34688, 48.1887	hätzel	na	999	hetsel	na	999	Atzel	na	999
+586	KST F13	III_22_0002	Bruchhausen bei Ettlingen, Bruchhausen	8.371, 48.92716	hadzel	ratzel	2	hatsel	ratsel	1	Atzel	Atzel	0
+587	TUTT c1	III_32_0001	Buchenberg, Buchenberg	8.37655, 48.16035	hützl	hätzel	2	hütsel	hetsel	1	Atzel	Atzel	0
+588	KST y 9	na	Neureut	8.37902, 49.05267	atzl	na	999	atsel	na	999	Atzel	na	999
+589	KST F2	na	Bulach	8.38244, 48.9868	atzel	na	999	atsel	na	999	Atzel	na	999
+590	KST r4	III_20_0006	Leopoldshafen, Leopoldshafen	8.3923, 49.09933	hatzel	hatzel	0	hatsel	hatsel	0	Atzel	Atzel	0
+591	KST y 11	III_20_0007, III_20_0008	Eggenstein, Eggenstein	8.39572, 49.08482	hatzel	hatzel	0	hatsel	hatsel	0	Atzel	Atzel	0
+592	KST k1	III_19_0003	Rheinsheim, Rheinsheim	8.40954, 49.23272	hadzl	hatzel	2	hatsel	hatsel	0	Atzel	Atzel	0
+593	KST r2	III_20_0003, III_20_0004	Hochstetten, Hochstetten	8.41566, 49.13702	hatzel	hatzel, atzel	0	hatsel	atsel, hatsel	0	Atzel	Atzel	0
+594	KST k4	na	Rußheim	8.42435, 49.18617	häzl	na	999	hetsel	na	999	Atzel	na	999
+595	Ma f1/1, Ma f1/2	II_58_0061	Mannheim-Sandhofen, Mannheim-Sandhofen, Mannheim-Sandhofen	8.44789, 49.5433	atzel	atzl	1	atsel	atsel	0	Atzel	Atzel	0
+596	KST k2	III_19_0004, III_19_0005, III_19_0007, III_19_0006	Philippsburg, Philippsburg	8.45298, 49.235	atzel	atzl, atzel	0	atsel	atsel	0	Atzel	Atzel	0
+597	KST y 3	III_21_0007	Hagsfeld, Hagsfeld	8.45514, 49.02773	atzel	atzl	1	atsel	atsel	0	Atzel	Atzel	0
+598	TÜB U2	III_31_0006, III_31_0005	Weiler/Villingen, Tennenbronn	8.46043, 48.17227	hätzl	hätzl, ätzel	0	hetsel	etsel, hetsel	0	Atzel	Atzel	0
+599	Ma h1/2	II_59_0060, II_59_0044, II_59_0061, II_59_0040, II_59_0049, II_59_0052, II_59_0047, II_59_0039, II_59_0058	Mannheim, Mannheim	8.46678, 49.4865	atzel	atzl, atzel	0	atsel	atsel	0	Atzel	Atzel	0
+600	TUTT c7	na	Obereschach	8.46928, 48.10596	hätzel	na	999	hetsel	na	999	Atzel	na	999
+601	KST k3	III_19_0008	Huttenheim, Huttenheim	8.46955, 49.1967	hatzel	hatzel	0	hatsel	hatsel	0	Atzel	Atzel	0
+602	KST F6	na	Karlsruhe-Durlach	8.4704, 48.99897	atzel	na	999	atsel	na	999	Atzel	na	999
+603	KST c1	na	Rheinhausen	8.47341, 49.28141	hă̠zl	na	999	hatsel	na	999	Atzel	na	999
+604	Ma h1/1	na	Siedlung Schönau (Mannheim)	8.47602, 49.54338	atzel	na	999	atsel	na	999	Atzel	na	999
+605	KST F7	na	Hohenwettersbach	8.47808, 48.96713	hatsel	na	999	hatsel	na	999	Atzel	na	999
+606	KST c2	III_18_0011, III_18_0012, III_18_0014, III_18_0013	Oberhausen, Oberhausen	8.48324, 49.26035	hatzel	hazl, hatzl	1	hatsel	hatsel	0	Atzel	Atzel	0
+607	KST r6	III_20_0010	Graben, Graben	8.48928, 49.16535	hatzel	hatzel	0	hatsel	hatsel	0	Atzel	Atzel	0
+608	Ma h2/3	II_59_0064	Neckarau, Mannheim	8.49104, 49.45335	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+609	TUTT c4	na	Fischbach	8.49142, 48.15251	hetzel	na	999	hetsel	na	999	Atzel	na	999
+610	TUTT c6	na	Schabenhausen	8.49251, 48.1303	hätzel	na	999	hetsel	na	999	Atzel	na	999
+611	KST y 4	na	Grötzingen	8.49556, 49.00711	hatzel	na	999	hatsel	na	999	Atzel	na	999
+612	KST l9	III_19_0012, III_19_0011, III_19_0009, III_19_0010	Neudorf, Neudorf	8.49692, 49.17524	atzl	atzl, atzel	0	atsel	atsel	0	Atzel	Atzel	0
+613	KST d2	III_18_0008, III_18_0009	Altlußheim, Altlussheim	8.49951, 49.30106	atzl	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+614	TUTT d2	III_32_0007	Kappel, Kappel	8.50341, 48.11215	hätzel	hätzel	0	hetsel	hetsel	0	Atzel	Atzel	0
+615	KST s5	III_20_0012	Spöck, Spöck	8.51033, 49.11179	hatzel	hatzel	0	hatsel	hatsel	0	Atzel	Atzel	0
+616	KST s7	III_20_0015, III_20_0013, III_20_0014	Staffort, Staffort	8.51034, 49.09079	hatzl	hatzel, hatzl	0	hatsel	hatsel	0	Atzel	Atzel	0
+617	MH z4/1, MH z4/2	II_58_0065, II_58_0066	Mannheim-Käfertal, Käferthal	8.51715, 49.51259	azzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+618	KST d8	III_18_0016	Waghäusel, Waghäusel	8.51733, 49.25118	hatzel	atzel	1	hatsel	atsel	1	Atzel	Atzel	0
+619	KST s4	III_20_0011	Neuthard, Neuthard	8.52086, 49.1278	hatzel	hatzel	0	hatsel	hatsel	0	Atzel	Atzel	0
+620	KST d3	III_18_0017	Neulußheim, Neulußheim	8.522, 49.29291	atzl	atzl	0	atsel	atsel	0	Atzel	Atzel	0
+621	MH Q7	II_60_0033	Ketsch, Ketsch	8.52432, 49.3678	atzl	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+622	KST z6	III_21_0015, III_21_0014	Berghausen, Berghausen	8.52712, 49.00389	hatzil	hatzel	1	hatsel	hatsel	0	Atzel	Atzel	0
+623	MH H10/2	na	Mannheim-Rheinau	8.53056, 49.4292	azl	na	999	atsel	na	999	Atzel	na	999
+624	MH H10/1	II_59_0074	Rheinau, Rheinau	8.53056, 49.42924	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+625	KST z8	III_21_0012, III_21_0011, III_21_0013, III_21_0010, III_21_0009	Weingarten, Weingarten	8.53114, 49.0533	hatzel	atzel, hatzel, hatzl	0	hatsel	atsel, hatsel	0	Atzel	Atzel	0
+626	KST G6	III_22_0015	Mutschelbach, Mutschelbach	8.53428, 48.94409	hatzl	atzl	1	hatsel	atsel	1	Atzel	Atzel	0
+627	MH Q1	II_60_0032	Brühl, Brühl	8.53485, 49.3951	atzel	atzl	1	atsel	atsel	0	Atzel	Atzel	0
+628	KST G1	III_22_0013, III_22_0012, III_22_0010	Söllingen, Söllingen	8.5425, 48.98622	hatzel	hatzel, hatzl	0	hatsel	hatsel	0	Atzel	Atzel	0
+629	KST d1	III_18_0015	Hockenheim, Hockenheim	8.54755, 49.31857	atsl	atzl	1	atsel	atsel	0	Atzel	Atzel	0
+630	MH H1	na	Wennheim-Wallstadt	8.5484, 49.4957	atzel	na	999	atsel	na	999	Atzel	na	999
+631	KST l2	III_19_0161	Kirrlach, Kirrlach	8.54938, 49.24183	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+632	KST s8	III_20_0023, III_20_0022, III_20_0021	Untergrombach, Untergrombach	8.55318, 49.0861	hatzel	hatzel	0	hatsel	hatsel	0	Atzel	Atzel	0
+633	KST O3	na	Dietenhausen	8.56003, 48.91574	hätsl	na	999	hetsel	na	999	Atzel	na	999
+634	MH H6	na	Seckenheim	8.56313, 49.46724	atzl	na	999	atsel	na	999	Atzel	na	999
+635	MH H3	II_59_0069	Ilvesheim, Ilvesheim	8.56668, 49.47129	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+636	KST G3	III_22_0016	Singen bei Pforzheim, Singen	8.56804, 48.95764	hadsl	hadzl	1	hatsel	hatsel	0	Atzel	Atzel	0
+637	KST d4	na	Reilingen	8.56943, 49.29368	atzl	na	999	atsel	na	999	Atzel	na	999
+638	MH Q2	II_60_0035, II_60_0034	Schwetzingen, Schwetzingen	8.57064, 49.38567	azzl	addzl	2	atsel	atsel	0	Atzel	Atzel	0
+639	KST z7	na	Jöhlingen	8.5744, 49.03222	atzel	na	999	atsel	na	999	Atzel	na	999
+640	MH H7	na	Mannheim-Friedrichsfeld	8.57534, 49.44026	atzel	na	999	atsel	na	999	Atzel	na	999
+641	MH Q6	na	Oftersheim	8.58107, 49.36823	atzel	na	999	atsel	na	999	Atzel	na	999
+642	KST z 1	III_21_0016	Obergrombach, Obergrombach	8.58542, 49.07709	azzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+643	MH Q3	na	Plankstadt	8.59271, 49.39179	atzel	na	999	atsel	na	999	Atzel	na	999
+644	KST s2	III_20_0018, III_20_0019	Bruchsal (Forstamt), Bruchsal	8.60102, 49.12377	atzel	harzl, atzel	0	atsel	atsel, hartsel	0	Atzel	Atzel	0
+645	MH z3	II_58_0067	Heddesheim, Heddesheim	8.60327, 49.50529	adzl	atzel	2	atsel	atsel	0	Atzel	Atzel	0
+646	MH H4	na	Ladenburg	8.61098, 49.47244	atzl	na	999	atsel	na	999	Atzel	na	999
+647	KST z4	III_21_0018	Wössingen, Wössingen	8.61142, 49.01017	hatzel	hadzl	2	hatsel	hatsel	0	Atzel	Atzel	0
+648	MH H8	II_59_0073	Edingen, Edingen	8.61196, 49.44847	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+649	KST l7	III_19_0015	Weiher, Weiher	8.62179, 49.17863	hatzl	hatzel	1	hatsel	hatsel	0	Atzel	Atzel	0
+650	KST s1	III_20_0024	Ubstadt, Ubstadt	8.6322, 49.16181	hatzel	hatzel	0	hatsel	hatsel	0	Atzel	Atzel	0
+651	KST l3	III_19_0014	Kronau, Kronau	8.63449, 49.21954	hatzel	hatzel	0	hatsel	hatsel	0	Atzel	Atzel	0
+652	KST d5	III_18_0020	Walldorf, Walldorf	8.64294, 49.3028	atzl	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+653	KST l6	III_19_0016	Stettfeld, Stettfeld	8.64516, 49.18353	atzl	atzl	0	atsel	atsel	0	Atzel	Atzel	0
+654	KST s10	III_20_0026	Heidelsheim, Heidelsheim	8.64542, 49.10114	hatzl	hatzel	1	hatsel	hatsel	0	Atzel	Atzel	0
+655	KST l5	na	(Bad) Langenbrücken	8.6466, 49.20296	atzel	na	999	atsel	na	999	Atzel	na	999
+656	KST l4	III_19_0017, III_19_0018, III_19_0020, III_19_0019	Mingolsheim, Mingolsheim	8.65316, 49.21986	hatzel	hatzel, hatzl	0	hatsel	hatsel	0	Atzel	Atzel	0
+657	KST z2	III_21_0020	Gondelsheim, Gondelsheim	8.65584, 49.0596	hatzel	hatzl	1	hatsel	hatsel	0	Atzel	Atzel	0
+658	MH H11	II_58_0068	Leutershausen, Leutershausen	8.65616, 49.49821	adzl	atzel	2	atsel	atsel	0	Atzel	Atzel	0
+659	MH Q5	II_60_0038	Sandhausen, Sandhausen	8.65837, 49.34236	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+660	MH z2	II_58_0069	Großsachsen, Grosssachsen	8.6595, 49.51193	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+661	MH z1	II_58_0072	Sulzbach, Sulzbach	8.661, 49.57763	atzl	atzl	0	atsel	atsel	0	Atzel	Atzel	0
+662	KST O9	na	Büchenbronn	8.66335, 48.85558	hetzl	na	999	hetsel	na	999	Atzel	na	999
+663	MH J1	II_59_0071	Schrießheim, Schriesheim	8.66514, 49.47649	adsl	atzel	3	atsel	atsel	0	Atzel	Atzel	0
+664	KST t3	III_20_0025	Unteröwisheim, Unteröwisheim	8.66595, 49.14423	hatzel	hartzel	1	hatsel	hartsel	1	Atzel	Atzel	0
+665	MH A2	II_58_0071	Lützelsachsen, Lützelsachsen	8.66627, 49.52737	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+666	MH J2	II_59_0076	Dossenheim, Dossenheim	8.66806, 49.44988	atzl	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+667	MH A3	II_58_0070	Hohensachsen, Hohensachsen	8.66935, 49.51919	azl	azl	0	atsel	atsel	0	Atzel	Atzel	0
+668	MH A1	II_58_0073	Weinheim, Weinheim	8.67068, 49.55495	atzl	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+669	KST m10	III_19_0027	Zeutern, Zeutern	8.67522, 49.17718	atzel	hatzel	1	atsel	hatsel	1	Atzel	Atzel	0
+670	KST A6	III_21_0023	Diedelsheim, Diedelsheim	8.67848, 49.04109	hatzel	hatzel, atzel	0	hatsel	atsel, hatsel	0	Atzel	Atzel	0
+671	KST e10	III_18_0024	Malschenberg, Malschenberg	8.67996, 49.25599	atzl	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+672	KST A7	III_21_0024	Rinklingen , Rinklingen	8.6832, 49.03485	hatzl	hatzl	0	hatsel	hatsel	0	Atzel	Atzel	0
+673	KST A3	III_21_0022	Neibsheim (bei Bruchsal), Neibsheim	8.68509, 49.07104	hatzel	hatzel	0	hatsel	hatsel	0	Atzel	Atzel	0
+674	MH J3/2, MH J3/1	II_59_0077	Handschuhsheim, Heidelberg-Handschuhsheim, Heidelberg-Handschuhsheim	8.68613, 49.42774	atzl, atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+675	MH R5, MH R4	II_60_0042	Leimen, Leimen	8.68891, 49.34902	atzl, atzel	atzl	0	atsel	atsel	0	Atzel	Atzel	0
+676	KST t2	III_20_0028	Oberöwisheim, Oberöwisheim	8.6891, 49.14532	hazel	hatzel	1	hatsel	hatsel	0	Atzel	Atzel	0
+677	KST e1	III_18_0022	Nussloch, Nussloch	8.69576, 49.32301	atzl	atzl	0	atsel	atsel	0	Atzel	Atzel	0
+678	KST m2	III_19_0023	Rettigheim, Rettigheim	8.6981, 49.24111	azl	atzel	2	atsel	atsel	0	Atzel	Atzel	0
+679	KST e9	III_18_0025	Rauenberg, Rauenberg	8.70096, 49.27036	atzl	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+680	KST e2/2, KST e2/1	III_18_0023, III_18_0036	Wiesloch, Wiesloch	8.70178, 49.29504	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+681	MH R1/1	na	Heidelberg	8.70819, 49.41349	adzl	na	999	atsel	na	999	Atzel	na	999
+682	MH A4	II_58_0076	Rippenweier, Rippenweier	8.70861, 49.50646	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+683	KST A2	III_21_0031	Büchig (bei Bretten), Büchig	8.70984, 49.0742	hatzel	hatzel	0	hatsel	hatsel	0	Atzel	Atzel	0
+684	KST t5	III_20_0030	Oberacker, Oberacker	8.71399, 49.1087	hadzl	hatzel	2	hatsel	hatsel	0	Atzel	Atzel	0
+685	KST t4	III_20_0029	Münzesheim, Münzesheim	8.71579, 49.12246	harzel	hatzel	1	hartsel	hatsel	1	Atzel	Atzel	0
+686	KST t1	na	Neuenbürg	8.71854, 49.15352	hatzel	na	999	hatsel	na	999	Atzel	na	999
+687	KST m3	na	Mühlhausen	8.72271, 49.24953	atzel	na	999	atsel	na	999	Atzel	na	999
+688	MH J8	na	Ursenbach	8.72439, 49.49399	atzel	na	999	atsel	na	999	Atzel	na	999
+689	MH A5	II_58_0077	Oberflockenbach, Oberflockenbach	8.73109, 49.51102	atzl	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+690	KST e8	III_18_0028	Dielheim, Dielheim	8.7354, 49.28257	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+691	KST e3	III_18_0027	Baiertal, Baiertal	8.73772, 49.30253	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+692	MH R6	II_60_0047	Ochsenbach, Ochsenbach	8.73932, 49.33778	atzl	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+693	MH A6	II_58_0091	Steinklingen, Steinklingen	8.74393, 49.51166	atzel	atzl	1	atsel	atsel	0	Atzel	Atzel	0
+694	KST t6	III_20_0032	Gochsheim, Gochsheim	8.74551, 49.10407	hatzel	hatzel	0	hatsel	hatsel	0	Atzel	Atzel	0
+695	KST P4	na	Eutingen	8.74574, 48.91069	atzel	na	999	atsel	na	999	Atzel	na	999
+696	MH J5	na	Peterstal (keine eigene GID, gleiche wie Wilhelmsfeld)	8.75548, 49.44624	atzl	na	999	atsel	na	999	Atzel	na	999
+697	MH R7	II_60_0048	Gauangelloch, Gauangelloch	8.75579, 49.34078	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+698	KST e4	III_18_0032	Schatthausen, Schatthausen	8.75841, 49.319	atzl	atzl	0	atsel	atsel	0	Atzel	Atzel	0
+699	MH J9	na	Lampenhain	8.76294, 49.49811	atzel	na	999	atsel	na	999	Atzel	na	999
+700	KST t10	III_20_0031	Menzingen, Menzingen	8.77067, 49.13931	hāzl	hazl	1	hatsel	hatsel	0	Atzel	Atzel	0
+701	MH R12	na	Waldhilsbach	8.77179, 49.3721	atzel	na	999	atsel	na	999	Atzel	na	999
+702	MH R9	II_60_0046	Bammental, Bammental	8.77604, 49.35511	alzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+703	KST e7	III_18_0031	Horrenberg, Horrenberg	8.78051, 49.28149	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+704	KST e14	III_18_0030	Eschelbach, Eschelbach	8.78417, 49.24823	atzl	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+705	KST t9	na	Bahnbrücken	8.78671, 49.11865	hatzel	na	999	hatsel	na	999	Atzel	na	999
+706	KST t7	III_20_0035, III_20_0039, III_20_0037	Flehingen , Flehingen	8.78694, 49.0869	etzel	hetzel, hätzel	1	etsel	hetsel	1	Atzel	Atzel	0
+707	KST e13	na	Balzfeld	8.79064, 49.26889	atzel	na	999	atsel	na	999	Atzel	na	999
+708	MH J10	na	Heiligkreuzsteinach	8.79709, 49.48538	atzel	na	999	atsel	na	999	Atzel	na	999
+709	MH R8	II_60_0049	Mauer, Mauer	8.79767, 49.34127	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+710	MH R10	II_60_0050	Wiesenbach, Wiesenbach	8.80354, 49.36103	atzl	atzl	0	atsel	atsel	0	Atzel	Atzel	0
+711	KST m6	III_19_0033	Waldangelloch, Waldangelloch	8.80551, 49.21046	hatzl	atzl, hatzl	0	hatsel	atsel, hatsel	0	Atzel	Atzel	0
+712	KST t11	na	Landshausen	8.80627, 49.14899	hatsel	na	999	hatsel	na	999	Atzel	na	999
+713	KST e5	III_18_0034, III_18_0033	Meckesheim, Meckesheim	8.81557, 49.32167	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+714	KST e6	III_18_0035	Zuzenhausen, Zuzenhausen	8.82176, 49.29778	atzl	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+715	KST n1	na	Dühren	8.83562, 49.24557	atzel	na	999	atsel	na	999	Atzel	na	999
+716	KST f9	III_18_0045	Hoffenheim, Hoffenheim	8.8417, 49.27088	atzl	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+717	KST u4	III_20_0041	Rohrbach (am Giesshübel), Rohrbach	8.85649, 49.14055	hetzel	hätzl	2	hetsel	hetsel	0	Atzel	Atzel	0
+718	MH K1	II_59_0085	Brombach (bei Hirschhorn), Brombach	8.8675, 49.48863	atzl	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+719	KST f1	III_18_0041, III_18_0040, III_18_0038, III_18_0039, III_18_0037	Eschelbronn, Eschelbronn	8.86825, 49.3202	atzel	atsel, atzl, atzel	0	atsel	atsel	0	Atzel	Atzel	0
+720	MH S4	II_60_0055	Lobenfeld, Lobenfeld	8.8718, 49.35884	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+721	KST f8	III_18_0047, III_18_0046	Sinsheim, Sinsheim	8.87357, 49.25387	atzel	atzel, azzel	0	atsel	atsel	0	Atzel	Atzel	0
+722	MH S5	II_60_0057	Spechbach, Spechbach	8.88396, 49.34588	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+723	KST f2	III_18_0042	Neidenstein, Neidenstein	8.88423, 49.31637	atzl	atzl	0	atsel	atsel	0	Atzel	Atzel	0
+724	KST f11	na	Rohrbach	8.9042, 49.25168	azl	na	999	atsel	na	999	Atzel	na	999
+725	KST n2	na	Steinsfurt	8.90861, 49.24023	azl	na	999	atsel	na	999	Atzel	na	999
+726	KST f3	III_18_0050, III_18_0049	Waibstadt, Waibstadt	8.9198, 49.29982	atzel	atzl, atzel	0	atsel	atsel	0	Atzel	Atzel	0
+727	MH S13	na	Schönbrunn	8.92851, 49.41228	atzl	na	999	atsel	na	999	Atzel	na	999
+728	MH K6/1	II_59_0096	Allemühl, Allemühl	8.95618, 49.42613	atzel	atzl	1	atsel	atsel	0	Atzel	Atzel	0
+729	MH S10	II_60_0061	Michelbach, Michelbach	8.96532, 49.37259	atzl	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+730	MH S9	II_60_0064	Unterschwarzach, Unterschwarzach	8.98202, 49.36856	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+731	KST f6	na	Hasselbach	8.98363, 49.25911	atzel	na	999	atsel	na	999	Atzel	na	999
+732	MH K3	na	Eberbach	8.98755, 49.46322	atzel	na	999	atsel	na	999	Atzel	na	999
+733	MH T8, MH S8	II_60_0065	Aglasterhausen, Aglasterhausen-Daudenzell, Aglasterhausen	8.98981, 49.35471	atzl, atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+734	KST o1	na	Grombach	8.99507, 49.22687	atzel	na	999	atsel	na	999	Atzel	na	999
+735	MH T1	na	Lindach	9.00508, 49.41658	atzl	na	999	atsel	na	999	Atzel	na	999
+736	MH T2	II_60_0068	Neunkirchen, Neunkirchen	9.00887, 49.38789	atzel	atzl	1	atsel	atsel	0	Atzel	Atzel	0
+737	MH T9	II_60_0071	Asbach, Asbach	9.02562, 49.34133	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+738	MH T3	II_60_0069	Neckarkatzenbach, Neckarkatzenbach	9.03457, 49.38441	adzl	atzl	1	atsel	atsel	0	Atzel	Atzel	0
+739	MH L2	II_59_0101	Oberdielbach, Oberdielbach	9.05361, 49.44781	azzl	atzel	2	atsel	atsel	0	Atzel	Atzel	0
+740	MH L6	II_59_0102	Waldkatzenbach, Waldkatzenbach	9.05484, 49.45603	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+741	MH T4	II_60_0073	Guttenbach, Guttenbach	9.07142, 49.38983	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+742	MH L1	na	Stümpfelbrunn	9.07574, 49.4645	atzel	na	999	atsel	na	999	Atzel	na	999
+743	MH L3	na	Schollbrunn	9.07962, 49.43431	atzl	na	999	atsel	na	999	Atzel	na	999
+744	MH T11	II_60_0079	Diedesheim, Diedesheim	9.11367, 49.34933	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+745	MH C2	II_58_0104	Reisenbach, Reisenbach	9.12415, 49.50336	atzel	azl	2	atsel	atsel	0	Atzel	Atzel	0
+746	KST g12	na	Hassmersheim	9.14257, 49.30049	ätzel	na	999	etsel	na	999	Atzel	na	999
+747	MH L8	na	Wagenschwend	9.14637, 49.47256	atzel	na	999	atsel	na	999	Atzel	na	999
+748	MH C3	II_58_0110	Scheidental, Scheidental	9.15106, 49.50744	azzl, azzel	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+749	MH D1	II_58_0106	Mörschenhardt, Mörschenhardt	9.17211, 49.56893	atzl	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+750	MH M3	II_59_0109	Balsbach, Balsbach	9.17362, 49.47895	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+751	MH D2	II_58_0107	Donebach, Donebach	9.19217, 49.56113	atzl	atzel	1	atsel	atsel	0	Atzel	Atzel	0
+752	MH D4	II_58_0109	Mudau-Langenelz, Langenelz	9.20495, 49.51744	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+753	MH D3	II_58_0108	Mudau, Mudau	9.20615, 49.53336	atzl	atzl	0	atsel	atsel	0	Atzel	Atzel	0
+754	MH M2	na	Laudenberg	9.21457, 49.48066	atzl	na	999	atsel	na	999	Atzel	na	999
+755	MH D8	II_58_0111	Steinbach, Steinbach	9.24327, 49.54854	atzel	atzl	1	atsel	atsel	0	Atzel	Atzel	0
+756	MH D7	II_58_0112	Unterneudorf, Unterneudorf	9.27534, 49.52921	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+757	MH M14	na	Kleineicholzheim	9.28876, 49.42893	atzel	na	999	atsel	na	999	Atzel	na	999
+758	MH D9	na	Hornbach (Hettingenbeuern)	9.29012, 49.591	atzel	na	999	atsel	na	999	Atzel	na	999
+759	MH w1	II_90_0001	Reichenhardsachsen, Reichenhardsachsen	9.34508, 49.64003	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+760	MH w7	II_90_0003	Wettersdorf, Wettersdorf	9.38743, 49.63075	atzel	atzel	0	atsel	atsel	0	Atzel	Atzel	0
+761	MH q1	na	Steinbach	9.47108, 49.68011	adzel	na	999	atsel	na	999	Atzel	na	999
+762	MH y3	II_90_0024	Grünsfeldhausen, Grünsfeldhausen	9.74055, 49.62456	hätzel	hätzl	1	hetsel	hetsel	0	Atzel	Atzel	0
+763	na	III_13_0097	Sondernach	7.07276, 47.99621	na	atzel	999	na	atsel	999	na	Atzel	999
+764	na	III_14_0093	Leimbach	7.09999, 47.79305	na	hatzl	999	na	hatsel	999	na	Atzel	999
+765	na	III_13_0011	Wasserburg	7.15948, 48.00283	na	atzel	999	na	atsel	999	na	Atzel	999
+766	na	III_13_0027	Sulzbach	7.20324, 48.03797	na	atzel	999	na	atsel	999	na	Atzel	999
+767	na	III_5_0048	Weislingen	7.25159, 48.91879	na	atzel	999	na	atsel	999	na	Atzel	999
+768	na	III_14_0026	Feldkirch	7.27197, 47.86504	na	hatzel	999	na	hatsel	999	na	Atzel	999
+769	na	III_6_0020	Frohmühl	7.28007, 48.90754	na	atzel	999	na	atsel	999	na	Atzel	999
+770	na	III_9_0005	Engental	7.30153, 48.63467	na	atzel	999	na	atsel	999	na	Atzel	999
+771	na	III_9_0006	Wangenburg	7.30732, 48.6228	na	atzel	999	na	atsel	999	na	Atzel	999
+772	na	III_12_0087	Logelbach	7.30991, 48.0865	na	atzel	999	na	atsel	999	na	Atzel	999
+773	na	III_8_0027	Tal St. Gallen	7.32779, 48.69001	na	adzel	999	na	atsel	999	na	Atzel	999
+774	na	III_8_0044	Salental	7.37043, 48.66739	na	atzel	999	na	atsel	999	na	Atzel	999
+775	na	III_8_0052	Lochweiler	7.41619, 48.69645	na	atzel	999	na	atsel	999	na	Atzel	999
+776	na	III_10_0016	Dinsheim	7.4273, 48.54254	na	atzel	999	na	atsel	999	na	Atzel	999
+777	na	III_10_0005	Balbronn	7.43736, 48.58406	na	atzel	999	na	atsel	999	na	Atzel	999
+778	na	III_11_0016	Eichhofen	7.44268, 48.38403	na	atzel	999	na	atsel	999	na	Atzel	999
+779	na	III_8_0051	Westhausen	7.44963, 48.68592	na	atzel	999	na	atsel	999	na	Atzel	999
+780	na	III_7_0053	Rosenweiler-Dettweiler	7.45083, 48.76772	na	atzel	999	na	atsel	999	na	Atzel	999
+781	na	III_7_0056	Gottesheim	7.47938, 48.77591	na	atzel	999	na	atsel	999	na	Atzel	999
+782	na	III_10_0039	Griesheim	7.53227, 48.50237	na	atzel	999	na	atsel	999	na	Atzel	999
+783	na	III_9_0039	Nuegartheim, Ittlenheim	7.53766, 48.6623	na	atzel	999	na	atsel	999	na	Atzel	999
+784	na	III_13_0044	Biesheim	7.54467, 48.04048	na	atzel	999	na	atsel	999	na	Atzel	999
+785	na	III_7_0079	Hochfelden	7.57004, 48.75735	na	atzel	999	na	atsel	999	na	Atzel	999
+786	na	III_11_0035	Hüttenheim	7.57814, 48.35799	na	azel	999	na	atsel	999	na	Atzel	999
+787	na	III_9_0034	Wiwersheim	7.60738, 48.63994	na	atzel	999	na	atsel	999	na	Atzel	999
+788	na	III_10_0035	Bläsheim	7.60783, 48.50535	na	atzel	999	na	atsel	999	na	Atzel	999
+789	na	III_11_0030	Matzenheim	7.62677, 48.39642	na	atzel	999	na	atsel	999	na	Atzel	999
+790	na	III_8_0071	Rumersheim	7.6354, 48.69228	na	atzel	999	na	atsel	999	na	Atzel	999
+791	na	III_11_0031	Osthausen	7.63886, 48.40167	na	atzl	999	na	atsel	999	na	Atzel	999
+792	na	III_9_0030	Pfettisheim	7.64331, 48.66042	na	atzel	999	na	atsel	999	na	Atzel	999
+793	na	III_9_0028	Oberschäffolsheim	7.65236, 48.5868	na	atzel	999	na	atsel	999	na	Atzel	999
+794	na	III_11_0106	Boofzheim	7.68036, 48.33214	na	atzel	999	na	atsel	999	na	Atzel	999
+795	na	III_4_0081	Niedersteinbach	7.71501, 49.0295	na	atzel	999	na	atsel	999	na	Atzel	999
+796	na	III_9_0053	Suffelweyersheim	7.74147, 48.6355	na	aotzel	999	na	atsel	999	na	Atzel	999
+797	na	III_12_0033	Ringsheim	7.78041, 48.24632	na	atzel	999	na	atsel	999	na	Atzel	999
+798	na	III_8_0086	Hördt	7.78279, 48.69341	na	atzel	999	na	atsel	999	na	Atzel	999
+799	na	III_11_0047	Allmannsweier	7.78326, 48.36703	na	atzl	999	na	atsel	999	na	Atzel	999
+800	na	III_11_0109	Kippenheimweiler	7.80753, 48.31925	na	åtzl	999	na	atsel	999	na	Atzel	999
+801	na	III_11_0112	Kippenheim	7.82466, 48.29439	na	atzel	999	na	atsel	999	na	Atzel	999
+802	na	III_11_0053	Schuttern	7.85268, 48.38219	na	atzel	999	na	atsel	999	na	Atzel	999
+803	na	III_11_0058	Dinglingen	7.85875, 48.34966	na	atzel	999	na	atsel	999	na	Atzel	999
+804	na	III_7_0100	Bischweiler	7.85912, 48.76826	na	åtzel	999	na	atsel	999	na	Atzel	999
+805	na	III_10_0117	Hohnhurst	7.86191, 48.49204	na	atzel	999	na	atsel	999	na	Atzel	999
+806	na	III_8_0089	Gambsheim	7.87971, 48.69159	na	atzel	999	na	atsel	999	na	Atzel	999
+807	na	III_10_0131, III_10_0133, III_10_0132	Schutterwald	7.88679, 48.45347	na	atzel	999	na	atsel	999	na	Atzel	999
+808	na	III_10_0118	Niederschopfheim	7.891, 48.41717	na	atzel	999	na	atsel	999	na	Atzel	999
+809	na	III_10_0055	Willstätt	7.89222, 48.53868	na	atzel	999	na	atsel	999	na	Atzel	999
+810	na	III_4_0092	Steinselz	7.93035, 49.0109	na	åtzl	999	na	atsel	999	na	Atzel	999
+811	na	III_5_0092	Ingolsheim	7.93636, 48.97357	na	atsel	999	na	atsel	999	na	Atzel	999
+812	na	III_11_0064	Berhaupten	7.98716, 48.40675	na	atzel	999	na	atsel	999	na	Atzel	999
+813	na	III_8_0096	Scherzheim	7.99655, 48.7137	na	azel	999	na	atsel	999	na	Atzel	999
+814	na	III_10_0065	Nesselried	8.00608, 48.52212	na	atzell	999	na	atsel	999	na	Atzel	999
+815	na	III_10_0069	Zusenhofen	8.01675, 48.54725	na	atzel	999	na	atsel	999	na	Atzel	999
+816	na	III_10_0070	Stadelhofen	8.03555, 48.55945	na	atzel	999	na	atsel	999	na	Atzel	999
+817	na	III_7_0115, III_7_0116	Stollhofen	8.04874, 48.76575	na	atzel	999	na	atsel	999	na	Atzel	999
+818	na	III_10_0073	Haslach	8.05661, 48.56552	na	atzl	999	na	atsel	999	na	Atzel	999
+819	na	III_10_0080	Ottenhöfen	8.15978, 48.56801	na	atzel	999	na	atsel	999	na	Atzel	999
+820	na	III_7_0136, III_7_0123	Sinzheim	8.16564, 48.76405	na	atzel	999	na	atsel	999	na	Atzel	999
+821	na	III_6_0097	Steinmauern	8.19956, 48.90045	na	hatzel	999	na	hatsel	999	na	Atzel	999
+822	na	III_5_0130	Elchesheim	8.2136, 48.93047	na	hatzel	999	na	hatsel	999	na	Atzel	999
+823	na	III_7_0131	Baden-Baden Weststadt	8.24094, 48.76273	na	atzel	999	na	atsel	999	na	Atzel	999
+824	na	III_12_0153	Nussbach	8.25836, 48.13097	na	hätsel	999	na	hetsel	999	na	Atzel	999
+825	na	III_12_0158, III_12_0160, III_12_0159	Langenschiltach	8.3168, 48.16202	na	hätzel	999	na	hetsel	999	na	Atzel	999
+826	na	III_30_0007	Schenkenzell	8.37253, 48.31105	na	atzel	999	na	atsel	999	na	Atzel	999
+827	na	III_21_0002	Karlsruhe	8.40919, 49.01038	na	atzel	999	na	atsel	999	na	Atzel	999
+828	na	III_20_0002	Liedolsheim	8.41451, 49.16221	na	hatzl	999	na	hatsel	999	na	Atzel	999
+829	na	III_21_0004	Rintheim	8.45071, 49.0099	na	atzel	999	na	atsel	999	na	Atzel	999
+830	na	III_32_0006	Neuhausen	8.45905, 48.13221	na	hätzel	999	na	hetsel	999	na	Atzel	999
+831	na	III_22_0007	Grünwettersbach	8.46671, 48.95784	na	atzel	999	na	atsel	999	na	Atzel	999
+832	na	III_20_0009	Friedrichstal	8.48091, 49.10481	na	hatzel	999	na	hatsel	999	na	Atzel	999
+833	na	III_32_0118	Weilersbach	8.50084, 48.09608	na	hatzl	999	na	hatsel	999	na	Atzel	999
+834	na	III_19_0013	Wiesental	8.51962, 49.22472	na	atzel	999	na	atsel	999	na	Atzel	999
+835	na	II_59_0067	Feudenheim	8.53299, 49.4864	na	atzel	999	na	atsel	999	na	Atzel	999
+836	na	III_20_0016	Karlsdorf	8.54164, 49.1363	na	hatzel	999	na	hatsel	999	na	Atzel	999
+837	na	III_19_0021	Hambrücken	8.54514, 49.18532	na	azel	999	na	atsel	999	na	Atzel	999
+838	na	III_18_0019	Sankt Leon	8.6025, 49.26526	na	atzel	999	na	atsel	999	na	Atzel	999
+839	na	III_18_0021	Rot	8.63137, 49.26348	na	atzl	999	na	atsel	999	na	Atzel	999
+840	na	III_21_0019	Dürrenbüchig	8.64747, 49.0227	na	hatzel	999	na	hatsel	999	na	Atzel	999
+841	na	II_59_0075	Wieblingen	8.64805, 49.42539	na	atzel	999	na	atsel	999	na	Atzel	999
+842	na	II_57_0082, II_57_0081	Laudenbach	8.65434, 49.6119	na	atzel	999	na	atsel	999	na	Atzel	999
+843	na	III_19_0022	Malsch <Maleck>	8.68153, 49.24579	na	atzl	999	na	atsel	999	na	Atzel	999
+844	na	II_60_0041	Heidelberg-Rohrbach	8.69, 49.38005	na	atzel	999	na	atsel	999	na	Atzel	999
+845	na	III_21_0027	Bretten	8.70657, 49.03456	na	atzel	999	na	atsel	999	na	Atzel	999
+846	na	III_18_0026	Rotenberg	8.71207, 49.25813	na	atzel	999	na	atsel	999	na	Atzel	999
+847	na	III_19_0024, III_19_0025, III_19_0026	Östringen	8.7137, 49.22037	na	hatzel, atzl	999	na	atsel, hatsel	999	na	Atzel	999
+848	na	II_60_0043	Gaiberg	8.75015, 49.36606	na	azel	999	na	atsel	999	na	Atzel	999
+849	na	III_19_0028	Odenheim	8.75076, 49.17902	na	hatzel	999	na	hatsel	999	na	Atzel	999
+850	na	II_59_0080	Wilhelmsfeld	8.7544, 49.47018	na	atzl	999	na	atsel	999	na	Atzel	999
+851	na	II_60_0051	Schlierbach	8.76062, 49.41501	na	atzäl	999	na	atsel	999	na	Atzel	999
+852	na	II_59_0083	Altneudorf	8.80481, 49.46366	na	atzl	999	na	atsel	999	na	Atzel	999
+853	na	II_60_0052	Dilsberg	8.8362, 49.39832	na	atzel	999	na	atsel	999	na	Atzel	999
+854	na	III_19_0043	Elsenz	8.83766, 49.17408	na	atzel	999	na	atsel	999	na	Atzel	999
+855	na	II_60_0056	Mönchzell	8.85327, 49.33612	na	atzel	999	na	atsel	999	na	Atzel	999
+856	na	III_18_0058	Wollenberg	9.03453, 49.29152	na	atzel	999	na	atsel	999	na	Atzel	999
+857	na	III_19_0057	Bad Rappenau	9.10212, 49.24032	na	atzel	999	na	atsel	999	na	Atzel	999
+858	na	II_57_0140	Gottersdorf	9.31064, 49.63751	na	atzel	999	na	atsel	999	na	Atzel	999

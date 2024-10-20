@@ -1,0 +1,5 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Stra g 7	na	Hördt	7.78279, 48.69341	graj	na	999	krai	na	999	Krähe	na	999
+1	Stra h 9	na	Gambsheim	7.87971, 48.69159	krāje	na	999	kraie	na	999	Krähe	na	999
+2	na	III_8_0088	Kilstett	7.85798, 48.67473	na	kraj	999	na	krai	999	na	Krähe	999
+3	na	III_11_0148	Langenbach	8.25164, 48.3205	na	kraie	999	na	kraie	999	na	Krähe	999

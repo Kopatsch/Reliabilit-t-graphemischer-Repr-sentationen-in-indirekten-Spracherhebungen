@@ -1,0 +1,642 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Co D6	III_14_0081	Sewen, Sewen	6.90688, 47.80694	agerschta	agerschte	1	agerschte	agerschte	0	Agerst	Agerst	0
+1	Co D2	III_14_0083	Oberbruck, Oberbruck	6.94324, 47.80838	agerschde	agerste	3	agerschte	agerschte	0	Agerst	Agerst	0
+2	Co D3	na	Rimbach-Pès-Masevaux)	6.9473, 47.82212	agersta	na	999	agerschte	na	999	Agerst	na	999
+3	Co w 5	III_14_0001	Urbis, St. Amarintal (Urbès), Urbis	6.95521, 47.88255	ägerschte	agaschte	3	ägerschte	agerschte	1	Agerst	Agerst	0
+4	Co D4	na	Kirchberg-Wegscheid	6.95965, 47.79904	agerschta	na	999	agerschte	na	999	Agerst	na	999
+5	Co D8	III_14_0085	Niederbruck, Niederbruck	6.97173, 47.78361	agerschta	agersta	2	agerschte	agerschte	0	Agerst	Agerst	0
+6	Co w 1	III_14_0004	Oderen, Odern	6.97525, 47.91008	ägerschd	agerscht	2	ägerscht	agerscht	1	Agerst	Agerst	0
+7	Co D5	na	Sickert, Niederbruck	6.979, 47.78312	agerschta	na	999	agerschte	na	999	Agerst	na	999
+8	Co w 2	III_14_0005	Fellerlingen (Fellering), Felleringen	6.98613, 47.89621	agerscht	agerscht	0	agerscht	agerscht	0	Agerst	Agerst	0
+9	Co w 3	na	Hüsseren-Wesserling (Husseren-Wesserling)	6.98836, 47.88519	agerschta	na	999	agerschte	na	999	Agerst	na	999
+10	Co D7	III_14_0086	Masmünster (Masevaux), Maasmünster	6.99386, 47.7727	agerschta	ackersta	4	agerschte	agerschte	0	Agerst	Agerst	0
+11	Co E4	III_14_0087	Aue (Lauw), Aue	7.02216, 47.75778	agerschta	agerscht	1	agerschte	agerscht	1	Agerst	Agerst	0
+12	Co T10	na	Schaffnatt am Weier (Chavannes-Sur-LÉtang)	7.02504, 47.63178	agerschte	na	999	agerschte	na	999	Agerst	na	999
+13	Co x 5	III_14_0009	St. Amarin, St. Amarin	7.03186, 47.87365	āgerschta	agrsta	4	agerschte	agerschte	0	Agerst	Agerst	0
+14	Co M10	na	Morzweiler (Mortzwiller)	7.04125, 47.73832	agerschta	na	999	agerschte	na	999	Agerst	na	999
+15	Co x 6	III_14_0011	Moosch, Moosch	7.04865, 47.86081	āgerschte	a̠gerschde	3	agerschte	agerschte	0	Agerst	Agerst	0
+16	Co T16	na	Menglatt (Magny)	7.05408, 47.6019	agerstä	na	999	agerschte	na	999	Agerst	na	999
+17	Co E3	III_14_0090	Sentheim, Sentheim	7.0544, 47.75581	āgerstä	aagerschtă	5	agerschte	agerschte	0	Agerst	Agerst	0
+18	Co M2	III_15_0001	Obersulzbach Kreis Tann (Soppe-Le-Haut), Obersulzbach <Morzweiler> Morzweiler steht nur auf S.1	7.05724, 47.73372	agerschta	agersta	2	agerschte	agerschte	0	Agerst	Agerst	0
+19	Co T9	III_16_0014	Gottestal, Luttern (Valdieu-Lutran), Gottestal	7.05852, 47.63139	agerst	agerst	0	agerscht	agerscht	0	Agerst	Agerst	0
+20	Co E2	III_14_0091	Niederburbach (Bourbach-Le-Bas), Niederburbach	7.05868, 47.77527	agerstä	agerschta	3	agerschte	agerschte	0	Agerst	Agerst	0
+21	Co M7	na	St Kosman (Saint-Cosme)	7.06248, 47.68339	agerschd	na	999	agerscht	na	999	Agerst	na	999
+22	Co x 4	III_14_0012	Weiler, Weiler	7.07073, 47.84351	aderste	agerste	1	aderschte	agerschte	1	Agerst	Agerst	0
+23	Co E13	III_14_0092	Rammersmatt, Rammersmatt	7.07084, 47.78935	agerschta	agerste	3	agerschte	agerschte	0	Agerst	Agerst	0
+24	Co M6	na	Bretten Landkreis Altkirch	7.0716, 47.69963	agerstä	na	999	agerschte	na	999	Agerst	na	999
+25	Co E9	III_14_0089	Tann-Bitschweiler (Bitschwiller-Lès-Thann), Bitschweiler	7.07947, 47.82929	agerschde	āgerschte	2	agerschte	agerschte	0	Agerst	Agerst	0
+26	Co E5	na	Rodern	7.0877, 47.77839	agerschta	na	999	agerschte	na	999	Agerst	na	999
+27	Co M3	III_15_0003	Niedersulzbach (soppe-Le-Bas), Niedersulzbach	7.09079, 47.71688	agerschta	agerste, agerscht	1	agerschte	agerschte, agerscht	0	Agerst	Agerst	0
+28	Co M1	III_15_0002	Gewenheim, Gewenheim	7.0913, 47.75291	agerschte	agerste	2	agerschte	agerschte	0	Agerst	Agerst	0
+29	Co T2	na	Niedertraubach (traubach-Le-Haute)	7.09169, 47.66903	agerste	na	999	agerschte	na	999	Agerst	na	999
+30	Co T8	III_16_0017	Retzweiler, Retzweiler	7.09315, 47.63072	āgerschta	agersta	3	agerschte	agerschte	0	Agerst	Agerst	0
+31	Co E6	na	Leimbach	7.09999, 47.79305	āgeschta	na	999	ageschte	na	999	Agerst	na	999
+32	Co E7	III_14_0094	Tann (Thann), Thann	7.10335, 47.81019	agerschte	aagerstĕr	5	agerschte	agerschte	0	Agerst	Agerst	0
+33	Co T11	III_16_0019	Mansbach (Manspach), Mansbach	7.10508, 47.6176	agerschda	agersta	3	agerschte	agerschte	0	Agerst	Agerst	0
+34	Co T7	III_16_0007	Wolfersdorf, Wolfersdorf	7.1132, 47.63625	agerschta	agersta	2	agerschte	agerschte	0	Agerst	Agerst	0
+35	Co T12	III_16_0002	Altenach, Altenach	7.11466, 47.60658	âgâstâ	agesta	3	ageschte	ageschte	0	Agerst	Agerst	0
+36	Co T13	III_16_0003	St. Ulrich bei Dammerkirch, St. Ulrich	7.11911, 47.59537	agersta	āgerschdaͤ	5	agerschte	agerschte	0	Agerst	Agerst	0
+37	Co T6	III_16_0018	Dammerkirch (Dannemarie), Dammerkirch	7.1214, 47.63024	aadrschda	agesta	6	aderschte	ageschte	2	Agerst	Agerst	0
+38	Co E8	III_14_0095	Alttann (Vieux-Thann), Alttann	7.12206, 47.80704	ägersta	agerschta	3	ägerschte	agerschte	1	Agerst	Agerst	0
+39	Co q 8	III_13_0102	Sengern, Sengern	7.12209, 47.94246	agerschta	agerschta	0	agerschte	agerschte	0	Agerst	Agerst	0
+40	Co q 1	III_13_0098	Lintal (Linthal, Kreis Tann), Lintal	7.12943, 47.94619	agersta	agersta	0	agerschte	agerschte	0	Agerst	Agerst	0
+41	Co i 1/1	na	Münster (Munster)	7.13185, 48.0418	āgerschd	na	999	agerscht	na	999	Agerst	na	999
+42	Co T5	III_16_0004	Gommersdorf, Gommersdorf	7.13318, 47.64299	āgerschta	agerschta	1	agerschte	agerschte	0	Agerst	Agerst	0
+43	Co E10	III_14_0098	Oberasbach (Aspach-Le-Haute), Oberaspach	7.13352, 47.77692	agerschta	agrschta	1	agerschte	agerschte	0	Agerst	Agerst	0
+44	Co M8	III_15_0011, III_15_0010	Gildweiler (Gildwiller), Falkweiler, Hecken, Falkweiler, Gildweiler	7.13461, 47.6894	agasta	agersta	2	agerschte	agerschte	0	Agerst	Agerst	0
+45	Co Vc 2	III_16_0011	Hindlingen, Hindlingen	7.13734, 47.57341	āgerschta	ähgerschta	2	agerschte	ägerschte	1	Agerst	Agerst	0
+46	Co T3	III_16_0008	Büttweiler (Buethwiller), Bütweiler	7.14982, 47.65627	agrschta	egerste	5	agerschte	egerschte	1	Agerst	Agerst	0
+47	Co M4	III_15_0014	Oberburnhaupt (Burnhaupt-Le-Haut), Oberburnhaupt	7.14988, 47.72886	āgerschdā	ågerschdā	1	agerschte	agerschte	0	Agerst	Agerst	0
+48	Co Vc 1	III_17_0002	Friesen, Friesen	7.15001, 47.56535	agerschter	ackerschta	4	agerschte	agerschte	0	Agerst	Agerst	0
+49	Co E11	III_14_0099	Niederasbach (Aspach-Le-Bas), Niederaspach	7.15065, 47.7618	agrschta	agerschda	2	agerschte	agerschte	0	Agerst	Agerst	0
+50	Co E12	III_14_0096	Steinbach, Steinbach	7.15487, 47.82041	agersta	agersta	0	agerschte	agerschte	0	Agerst	Agerst	0
+51	Co x 8	na	Rimbach bei Gebweiler (Rimbach-près-Guebwiller)	7.15658, 47.90483	āgrscht	na	999	agerscht	na	999	Agerst	na	999
+52	Co T4	III_16_0009	Hagenbach, Hagenbach	7.15712, 47.65028	agersta	agerschte	3	agerschte	agerschte	0	Agerst	Agerst	0
+53	Co q 2	III_13_0100	Lautenbach (Kreis Tann), Lautenbach	7.15877, 47.9414	agerscht	agerscht	0	agerscht	agerscht	0	Agerst	Agerst	0
+54	Co M5	III_15_0013	Niederburnhaupt (Burnhaupt-Le-Bas), Niederburnhaupt	7.16039, 47.71674	agerschde	agerschda	1	agerschte	agerschte	0	Agerst	Agerst	0
+55	Co q 6	III_13_0101	Murbach, Murbach	7.1604, 47.92318	agerst	agerst	0	agerscht	agerscht	0	Agerst	Agerst	0
+56	Co T15	III_16_0010	Ballersdorf, Ballersdorf	7.1624, 47.625	agörschda	agerschta	2	agerschte	agerschte	0	Agerst	Agerst	0
+57	Co Ua 11	III_17_0031	Pfetterhausen (Pfetterhouse), Pfetterhausen	7.16635, 47.50105	agersta	agerste	1	agerschte	agerschte	0	Agerst	Agerst	0
+58	Co N1	III_14_0100	Schweighausem (Schweighouse-Thann), Schweighausen	7.16714, 47.75272	ägeschte	āgeste	3	ägeschte	ageschte	1	Agerst	Agerst	0
+59	Co N12	III_15_0028	Balschweiler bei Altkirch, Balschweiler	7.1681, 47.66772	ageschde	ageschda	1	ageschte	ageschte	0	Agerst	Agerst	0
+60	Co Ua 14	III_17_0014	Niedersept (Seppois-le-Bas), Niedersept	7.17622, 47.53614	agerschte	agerschte	0	agerschte	agerschte	0	Agerst	Agerst	0
+61	Co r 6	III_13_0107	Schweighausen Kreis Gebweiler (Schweighouse bei Lautenbach), Schweighausen	7.17716, 47.93851	āgerscht	aagrscht	3	agerscht	agerscht	0	Agerst	Agerst	0
+62	Co F5	III_14_0016	Wattweiler (Wattwiller), Wattweiler	7.17766, 47.83549	ågerscht	agerschd	2	agerscht	agerscht	0	Agerst	Agerst	0
+63	Co F1	III_14_0101	Uffholz, Uffholz	7.17804, 47.81981	agrschte	agerschtā	2	agerschte	agerschte	0	Agerst	Agerst	0
+64	Co F2	III_14_0097	Sennheim (Cerany), Sennheim	7.17837, 47.80918	ågerschte	agerschta	2	agerschte	agerschte	0	Agerst	Agerst	0
+65	Co Ua 5	III_17_0030	Largitzen, Largitzen	7.1873, 47.56163	agerschte	ägerste	3	agerschte	ägerschte	1	Agerst	Agerst	0
+66	Co y 2	na	Jungholtz	7.1923, 47.88825	agerscht	na	999	agerscht	na	999	Agerst	na	999
+67	Co N14	III_15_0027	Bernweiler (Bernwiller), Bernweiler	7.19368, 47.69085	āgrschta	agrschta	1	agerschte	agerschte	0	Agerst	Agerst	0
+68	Co r 4	III_13_0109	Winzfelden (Wintzfelden), Winzfelden	7.19806, 47.97442	agerschta	agarscht	2	agerschte	agerscht	1	Agerst	Agerst	0
+69	Co N13	na	Enschingen (Saint-Bernard)	7.20293, 47.67101	agerschta	na	999	agerschte	na	999	Agerst	na	999
+70	Co y 4	III_14_0019	Wünheim, Wünheim	7.20969, 47.87406	agerscht	agerscht	0	agerscht	agerscht	0	Agerst	Agerst	0
+71	Co y 5, Co y 13, Co y 14, Co y 13, 14	III_14_0027	Gebweiler (Guebwiller) , Gebweiler (Guebwiller), Gebweiler	7.21078, 47.9095	agerschda, agerschta	agerschta	0	agerschte	agerschte	0	Agerst	Agerst	0
+72	Co U 6	III_16_0028	Karspach (Carspach), Karspach	7.21307, 47.61448	agerschta	agerste	3	agerschte	agerschte	0	Agerst	Agerst	0
+73	Co y 6	III_14_0021	Berrweiler (Berrwiller), Berrweiler	7.21533, 47.8484	āgerscht	agerscht	1	agerscht	agerscht	0	Agerst	Agerst	0
+74	Co N9	na	Ober- und Niederspechbach (Spechbach-Le-Haut)	7.2159, 47.68086	agerschda	na	999	agerschte	na	999	Agerst	na	999
+75	Co Ua 12	III_17_0012	Mooslargue, Moos	7.21833, 47.50939	agerschta	agrsta	3	agerschte	agerschte	0	Agerst	Agerst	0
+76	Co r 2	III_13_0104	Osenbach, Osenbach	7.21903, 47.98623	agrscht	egrscht	1	agerscht	egerscht	1	Agerst	Agerst	0
+77	Co U 12	III_16_0021, III_16_0020	Hirzbach (Hirtzbach), Hirzbach	7.22017, 47.59449	agerschte	agerschte, egerschte	0	agerschte	agerschte, egerschte	0	Agerst	Agerst	0
+78	Co Ua 6	III_17_0013	Bisel, Bisel	7.22032, 47.53456	ägerschda	agersta	4	ägerschte	agerschte	1	Agerst	Agerst	0
+79	Co N11	III_15_0017	Galfingen (Galfingue), Galfingen	7.22481, 47.70563	agĕrschtĕ	agerschte	2	agerschte	agerschte	0	Agerst	Agerst	0
+80	Co N15	III_15_0021	Heimsbrunn, Heimsbrunn	7.22696, 47.72682	agerschte	agerschte	0	agerschte	agerschte	0	Agerst	Agerst	0
+81	Co y 3	III_14_0022	Sulz (Soultz-Haut-Rhin), Sulz	7.22862, 47.88613	agerschta, agerscht	agersta, agerscht	0	agerscht	agerschte, agerscht	0	Agerst	Agerst	0
+82	Co N2	III_15_0020	Reinigen, Reiningen	7.2319, 47.74911	agerschte	agerschta	1	agerschte	agerschte	0	Agerst	Agerst	0
+83	Co r 7/2	III_13_0106	Orschweier (Orschwihr), Orschweier	7.23248, 47.9323	agerscht	agerst	2	agerscht	agerscht	0	Agerst	Agerst	0
+84	Co U 5	III_16_0027	Aspach, Aspach	7.23354, 47.6401	agerschta	agersta	2	agerschte	agerschte	0	Agerst	Agerst	0
+85	Co r 8/1, Co r 8/2	na	Sulzmatt (Soultzmatt)	7.23437, 47.96595	āgerscht, āgrscht, agrschd	na	999	agerscht	na	999	Agerst	na	999
+86	Co r 7/1	III_13_0105	Bergholzzell, Orschweier (Bergholtzzell, Orschwihr), Bergholzzell	7.23501, 47.9292	āgerscht	agerscht	1	agerscht	agerscht	0	Agerst	Agerst	0
+87	Co U 1	na	Heidweiler (Heidwiller)	7.23995, 47.6597	āgerschta	na	999	agerschte	na	999	Agerst	na	999
+88	Co U 7/2, Co U 7/1	III_16_0029	Altkirch, Altkirch	7.24009, 47.62592	agerschta	agerschte	1	agerschte	agerschte	0	Agerst	Agerst	0
+89	Co F3/1, Co F3/2	III_14_0102	Wittelsheim, Wittelsheim	7.24063, 47.81047	agerschde	ageschte	2	agerschte	ageschte	1	Agerst	Agerst	0
+90	Co Ub 1	III_17_0063	Dürlinsdorf (Durlinsdorf), Dürlinsdorf	7.24121, 47.48531	agerschde	ägerschde	1	agerschte	ägerschte	1	Agerst	Agerst	0
+91	Co y 11	III_14_0029	Isenheim (Issenheim), Isenheim	7.25365, 47.90288	āgerscht	aagerscht	2	agerscht	agerscht	0	Agerst	Agerst	0
+92	Co U 13	III_16_0034	Hisingen (Hirsingue), Hirsingen	7.25483, 47.58601	āagersta	agersta	1	agerschte	agerschte	0	Agerst	Agerst	0
+93	Co F4	III_14_0103	Staffelfelden, Staffelfelden	7.25504, 47.82648	ågerst	âgast	3	agerscht	agerscht	0	Agerst	Agerst	0
+94	Co Ub 2	III_17_0011	Mörnach (Mœrnach), Mörnach	7.25681, 47.50213	agerschta	egerste	4	agerschte	egerschte	1	Agerst	Agerst	0
+95	Co r 3	na	Westhalten	7.2595, 47.95742	ǟgerschd	na	999	ägerscht	na	999	Agerst	na	999
+96	Co y 8	III_14_0023	Bollweiler (Bollwiller), Bollweiler	7.25961, 47.86006	agerst	agerscht	2	agerscht	agerscht	0	Agerst	Agerst	0
+97	Co Ub 6	na	Winkel	7.26347, 47.46074	agerschda	na	999	agerschte	na	999	Agerst	na	999
+98	Co U 4	III_16_0026	Walheim, Walheim	7.26432, 47.63975	ageschda	ågeschde	2	ageschte	ageschte	0	Agerst	Agerst	0
+99	Co N8/2, Co N8/1	III_15_0015	Illfurt (Illfurth), Illfurt	7.26494, 47.67073	agerschta	agarsta	3	agerschte	agerschte	0	Agerst	Agerst	0
+100	Co N3	III_15_0016	Niedermorschweiler (Morschwiller-Le-Bas), Niedermorschweiler	7.26699, 47.73596	hageschde	agi̊rschta	6	hageschte	agerschte	2	Agerst	Agerst	0
+101	Co N10	III_15_0025, III_15_0026	Frönigen, Fröningen	7.26801, 47.69023	āgerschteͣ	agerschte	2	agerschte	agerschte	0	Agerst	Agerst	0
+102	Co Ua 10	III_17_0006	Rüderbach (Ruederbach), Rüderbach	7.26824, 47.56144	agesta	agesta	0	ageschte	ageschte	0	Agerst	Agerst	0
+103	Co Ua 13	III_17_0010	Köstlach (Kœstlach), Köstlach	7.27085, 47.5062	ägerschde	ägerschde	0	ägerschte	ägerschte	0	Agerst	Agerst	0
+104	Co y 15	III_14_0026, III_14_0025	Feldkirch, Feldkirch	7.27197, 47.86504	agerscht	agerschta, agerscht	0	agerscht	agerschte, agerscht	0	Agerst	Agerst	0
+105	Co k 5	III_13_0025, III_13_0024	Geberschweiher (Gueberschwihr), Geberschweier	7.27661, 48.00444	agerscht	agerscht	0	agerscht	agerscht	0	Agerst	Agerst	0
+106	Co Ua 2	III_16_0036	Bettendorf, Bettendorf	7.27676, 47.58379	agerste	agerschda	4	agerschte	agerschte	0	Agerst	Agerst	0
+107	Co U 8	III_16_0030	Wittersdorf, Wittersdorf	7.27817, 47.62015	agarschda	agerschta	2	agerschte	agerschte	0	Agerst	Agerst	0
+108	Co c 4	III_12_0085	Türkheim (Turckheim), Türkheim	7.27884, 48.0862	agerscht	agerscht	0	agerscht	agerscht	0	Agerst	Agerst	0
+109	Co N5	III_15_0018	Hochstatt, Hochstatt	7.28072, 47.70069	agäschtä	agerschte	3	ageschte	agerschte	1	Agerst	Agerst	0
+110	Co Ub 4	III_17_0064	Bendorf, Bendorf	7.2816, 47.48759	agersta	agerscht	3	agerschte	agerscht	1	Agerst	Agerst	0
+111	Stra O 5	III_11_0082	Leberau (Lièpvre), Leberau	7.28169, 48.2709	agerschta	agerste	3	agerschte	agerschte	0	Agerst	Agerst	0
+112	Co F6	III_14_0104	Lutterbach, Lutterbach	7.28171, 47.7605	agerschta	agerschta	0	agerschte	agerschte	0	Agerst	Agerst	0
+113	Co y 10	III_14_0030	Rädersheim (Raedersheim), Rädersheim	7.28212, 47.88747	agersta	agerste	1	agerschte	agerschte	0	Agerst	Agerst	0
+114	Co k 13	III_13_0017	Vöklinshofen (Voegtlinshoffen), Vöklinshofen	7.28224, 48.01954	āgerscht	agerscht	1	agerscht	agerscht	0	Agerst	Agerst	0
+115	Co Ua 7/1, Co Ua 7/2	na	Riespach	7.28623, 47.54132	agerschta, agerschde	na	999	agerschte	na	999	Agerst	na	999
+116	Co U 2	III_16_0024, III_16_0023	Lümschweiler (Luemschwiller) und Tagolsheim, Lümschweiler, Tagolsheim	7.28747, 47.65547	āgerschda	ageste, eͣ̈gerste	6	agerschte	ageschte, egerschte	1	Agerst	Agerst	0
+117	Co r 10/1, Co r 10/2	III_13_0111	Pfaffenheim, Pfaffenheim	7.2903, 47.98827	agrscht, agerscht	agescht	1	agerscht	agerscht	0	Agerst	Agerst	0
+118	Co y 12	III_14_0032	Merxheim, Merxheim	7.29205, 47.91022	agerscht	age̊rscht	1	agerscht	agerscht	0	Agerst	Agerst	0
+119	Co U 9	III_16_0031	Emlingen, Emlingen	7.29244, 47.62397	agerschda	agerschda	0	agerschte	agerschte	0	Agerst	Agerst	0
+120	Co r 5	III_13_0112	Gundolsheim, Gundolsheim	7.2942, 47.92837	ågerscht	ägerscht	1	agerscht	ägerscht	1	Agerst	Agerst	0
+121	Co N6	III_15_0019	Zillisheim, Zillisheim	7.29485, 47.69387	āgerschda	agersta	4	agerschte	agerschte	0	Agerst	Agerst	0
+122	Co r 1	III_13_0113	Rufach (Rouffach), Rufach	7.29696, 47.95968	agerschde	agerste	3	agerschte	agerschte	0	Agerst	Agerst	0
+123	Co k 12	III_13_0022	Obermorschweier, Obermorschweier	7.30037, 48.01773	agerscht	agerst	2	agerscht	agerscht	0	Agerst	Agerst	0
+124	Co Ub 3/2, Co Ub 3/3, Co Ub 3/1	na	Altpfirt (Vieux-Ferrette), Altpfirt	7.30044, 47.50327	agerschta, ageschte	na	999	ageschte, agerschte	na	999	Agerst	na	999
+125	Co Ua 4	III_17_0007	Grenzingen, Grenzingen	7.30068, 47.56354	agerschta	agerst	3	agerschte	agerscht	1	Agerst	Agerst	0
+126	Co y 7	III_14_0033	Pulversheim, Pulversheim	7.30181, 47.83432	agerscht	agerscht	0	agerscht	agerscht	0	Agerst	Agerst	0
+127	Co U 10	III_16_0032	Tagsdorf, Tagsdorf	7.30232, 47.62138	agerschte	agerschte	0	agerschte	agerschte	0	Agerst	Agerst	0
+128	Co N4	III_15_0022	Didenheim, Didenheim	7.30295, 47.71749	agerschdaͤ	agerschdaͤ	0	agerschte	agerschte	0	Agerst	Agerst	0
+129	Co y 9	III_14_0031	Ungersheim, Ungersheim	7.30418, 47.87789	agerscht	agerscht	0	agerscht	agerscht	0	Agerst	Agerst	0
+130	Co Ub 5	III_17_0066	Lüxdorf (Ligsdorf), Lüxdorf	7.3091, 47.47235	agerschta	ageschta	1	agerschte	ageschte	1	Agerst	Agerst	0
+131	Co N7	III_15_0024	Flachslanden (Flaxlanden), Flachslanden	7.30924, 47.69692	agersta	agerschda	3	agerschte	agerschte	0	Agerst	Agerst	0
+132	Co U 3	na	Obermorschweiler (Obermorschwiller)	7.31001, 47.64239	agersta	na	999	agerschte	na	999	Agerst	na	999
+133	Co Ua 9	III_17_0029	Waldighofen, Waldighofen	7.31605, 47.55061	agasta	ageschte	4	agerschte	ageschte	1	Agerst	Agerst	0
+134	Co N16	III_15_0023	Brunnstatt (Brunstatt), Brunstatt	7.31747, 47.72106	agerschda	ageschta	2	agerschte	ageschte	1	Agerst	Agerst	0
+135	Co Ua 3	III_16_0035	Weiler (Kreis Altkirch), Weiler	7.31925, 47.5857	agerste	agerschta	3	agerschte	agerschte	0	Agerst	Agerst	0
+136	Co U 11	na	Hausgauen	7.32318, 47.60479	ägäschtä	na	999	ägeschte	na	999	Agerst	na	999
+137	Co k 10	III_13_0026	Herlisheim (Herrlisheim), Herlisheim	7.32932, 48.01677	ägerschd	agerscht	2	ägerscht	agerscht	1	Agerst	Agerst	0
+138	Co Ua 8	III_17_0008	Roppenzweiler (Roppenzwiller), Roppenzweiler	7.33206, 47.54091	āgerschta	agerschta	1	agerschte	agerschte	0	Agerst	Agerst	0
+139	Co Vd 1	III_17_0067	Sondersdorf, Sondersdorf	7.33509, 47.48234	ägerschte	aegerschte	2	ägerschte	ägerschte	0	Agerst	Agerst	0
+140	Co G3	III_14_0123	Kingersheim, Kingersheim	7.33579, 47.79025	āgerschde	àgerschte	2	agerschte	agerschte	0	Agerst	Agerst	0
+141	Co Va 10	III_17_0009	Dürmenach (Durmenach), Dürmenach	7.3374, 47.5271	ààgerschde	àgerschde	1	agerschte	agerschte	0	Agerst	Agerst	0
+142	Co G2	III_14_0124	Wittenheim, Wittenheim	7.33993, 47.81085	agerschta	agerschta	0	agerschte	agerschte	0	Agerst	Agerst	0
+143	Co Va 13	III_17_0033	Steinsulz (Steinsoultz), Steinsulz	7.34276, 47.55541	ageste	ōgerste	2	ageschte	agerschte	1	Agerst	Agerst	0
+144	Co Va 9	III_17_0020	Buchsweiler (Bouxwiller), Buchsweiler	7.34362, 47.50479	agerschde	agerschta	2	agerschte	agerschte	0	Agerst	Agerst	0
+145	Co F7/1, Co F7/2	III_14_0107, III_14_0118, III_14_0113, III_14_0115, III_14_0121, III_14_0112, III_14_0110, III_14_0119, III_14_0114, III_14_0117, III_14_0109, III_14_0120, III_14_0116, III_14_0111	Mülhausen, Mülhausen	7.34375, 47.7517	agerste, agerschta	āgerschte, agerste, agerst, agarschta, ágerschtă, agerschda, agerschta, agerschte	0	agerschte	agerschte, agerscht	0	Agerst	Agerst	0
+146	Co V 1	III_16_0048	Obersteinbrunn (Steinbrunn-le-Haut), Obersteinbrunn	7.3467, 47.65852	ågersta	agestä	3	agerschte	ageschte	1	Agerst	Agerst	0
+147	Co G4, Co G7	III_14_0122	Illzach, Napoleonsinsel (Ile Napoléon), Illzach, Illzach	7.34839, 47.78217	agerste, agerschta	agerscht	1	agerschte	agerscht	1	Agerst	Agerst	0
+148	Co V 6	III_16_0041	Wahlbach, Wahlbach	7.34876, 47.63135	ǟgerschde	ägerste	4	ägerschte	ägerschte	0	Agerst	Agerst	0
+149	Co z 6	III_14_0036	Regisheim (Réguisheim), Regisheim	7.35308, 47.89742	agerscht	agerst	2	agerscht	agerscht	0	Agerst	Agerst	0
+150	Co V 10	III_16_0043	Franken, Franken	7.35483, 47.59947	akrschta	ahgerschda	4	agerschte	agerschte	0	Agerst	Agerst	0
+151	Co Va 11	III_17_0015	Werenzhausen (Werentzhouse), Werenzweiler	7.3579, 47.51688	agrschta	agerschta	1	agerschte	agerschte	0	Agerst	Agerst	0
+152	Co Vd 9	III_17_0077	Kiffis, Kiffis	7.35848, 47.4405	dernagerster	agersta	6	dernagerste	agerschte	6	Agerst	Agerst	0
+153	Co G1	III_14_0125	Rülisheim, Rülisheim	7.35868, 47.82216	āgerschda	aagerschda	2	agerschte	agerschte	0	Agerst	Agerst	0
+154	Co z 5	III_13_0115	Meienheim (Meyenheim), Meienheim	7.35924, 47.91132	ägerst	agerscht	3	ägerscht	agerscht	1	Agerst	Agerst	0
+155	Co O4	na	Brubach Landkreis Mülhausen	7.35964, 47.70073	agersta	na	999	agerschte	na	999	Agerst	na	999
+156	Co G8/2, Co G8/1	III_14_0129	Modenheim, Modenheim	7.35997, 47.76894	agerschta	egerste	4	agerschte	egerschte	1	Agerst	Agerst	0
+157	Co l 1/1, Co l 1/5	na	Kolmar (/Hausen an der Möhlin), Kolmar	7.36359, 48.08198	agerscht, agerschde	na	999	agerschte, agerscht	na	999	Agerst	na	999
+158	Co O8	III_15_0035	Niedersteinbrunn (Steinbrunn-Le-Bas), Niedersteinbrunn	7.36609, 47.67219	agrschta	agersta	3	agerschte	agerschte	0	Agerst	Agerst	0
+159	Co Vd 5	III_17_0075, III_17_0076	Rädersdorf (Raedersdorf), Rädersdorf , Rädersdorf	7.3665, 47.47487	agerschte	ägerste, agerschte	0	agerschte	ägerschte, agerschte	0	Agerst	Agerst	0
+160	Co V 18	III_16_0042	Zässingen (Zaessingue), Zässingen	7.3676, 47.62375	agerste	agerschta	3	agerschte	agerschte	0	Agerst	Agerst	0
+161	Co O9	III_15_0033	Mülhausen-Riedisheim, Mülhausen-Riedisheim	7.36836, 47.74966	ahgrschta	agrscht	2	agerschte	agerscht	1	Agerst	Agerst	0
+162	Co V 11	III_16_0044	Jettingen, Jettingen	7.36877, 47.59592	agarsta	agersta	1	agerschte	agerschte	0	Agerst	Agerst	0
+163	Co G5	III_14_0126	Sausheim, Sausheim	7.3698, 47.78852	ahgerschta	agerschte	2	agerschte	agerschte	0	Agerst	Agerst	0
+164	Co V 16	na	Rantsweiler (Rantzwiller)	7.37595, 47.65241	agerschta	na	999	agerschte	na	999	Agerst	na	999
+165	Co s 6, Co s 3	III_13_0116	Oberenzen (Oberentzen), Oberenzen, Oberenzen	7.37872, 47.94354	āgerst, agerscht	agerscht	0	agerscht	agerscht	0	Agerst	Agerst	0
+166	Co Va 8	na	Mittelmüspach-Niedermüspach (Muespach)	7.3807, 47.54728	agersta	na	999	agerschte	na	999	Agerst	na	999
+167	Co Vd 6	III_17_0074	Lutter, Lutter	7.38095, 47.46702	agerschta	agerschta	0	agerschte	agerschte	0	Agerst	Agerst	0
+168	Co s 4	III_13_0117	Niederenzen, Niederenzen	7.38146, 47.94864	āgarschd	ågerscht	3	agerscht	agerscht	0	Agerst	Agerst	0
+169	Co G9	III_14_0128	Battenheim, Battenheim	7.38278, 47.81739	ageschda	āgeschda	1	ageschte	ageschte	0	Agerst	Agerst	0
+170	Co Va 12	III_17_0032	Fislis, Fislis	7.38288, 47.50419	agerschta	agerschte	1	agerschte	agerschte	0	Agerst	Agerst	0
+171	Co l 3	III_13_0035	Heiligkreuz (Sainte-Croix-en-Plaine), Heiligkreuz	7.3831, 48.00666	agerscht	agrst	3	agerscht	agerscht	0	Agerst	Agerst	0
+172	Co Va 14	III_16_0045	Berenzweiler (Berentzwiller), Berenzweiler	7.3832, 47.5856	ägärschdä	ägarschdä	1	ägerschte	ägerschte	0	Agerst	Agerst	0
+173	Co s 2	III_13_0118, III_13_0119	Bilzheim (Biltzheim), Bilzheim	7.38657, 47.95675	agerscht	agerst	2	agerscht	agerscht	0	Agerst	Agerst	0
+174	Co O3	III_15_0039	Zimmersheim, Zimmersheim	7.38892, 47.72013	āgersta	agrschda	5	agerschte	agerschte	0	Agerst	Agerst	0
+175	Co l 6	na	Horburg (Horboug)	7.3934, 48.08116	agerschd	na	999	agerscht	na	999	Agerst	na	999
+176	Co V 17/2, Co V 17/1	III_16_0050	Kötzingen (Kœtzingue), Kötzingen	7.394, 47.65091	agerschta	agerschta	0	agerschte	agerschte	0	Agerst	Agerst	0
+177	Co Vd 2/2, Co Vd 2/1	III_17_0072	Oltingen (Oltingue), Oltingen	7.39411, 47.48862	agerschda	agarschta	2	agerschte	agerschte	0	Agerst	Agerst	0
+178	Co s 7/3	III_13_0120	Oberhergheim, Oberhergheim	7.39442, 47.96547	agerscht	agerscht	0	agerscht	agerscht	0	Agerst	Agerst	0
+179	Co O1/1, Co O1/2	III_15_0032, III_15_0031	Rixheim, Napoleoninsel Rixheim, Rixheim	7.39739, 47.74412	āgerschda, agerschde	agrschda, agerschta	2	agerschte	agerschte	0	Agerst	Agerst	0
+180	Co s 5	III_13_0121	Niederhergheim, Niederhergheim	7.39795, 47.9862	aagerscht	āgerst	4	agerscht	agerscht	0	Agerst	Agerst	0
+181	Co O10	III_15_0040	Eschenzweiler (Eschentzwiller), Eschenzweiler	7.39812, 47.71239	ågerschda	ägrsta	5	agerschte	ägerschte	1	Agerst	Agerst	0
+182	Co O5	III_15_0037	Dietenweiler (Dietwiller), Dietweiler	7.40296, 47.69288	ägerschda	ägrschda	1	ägerschte	ägerschte	0	Agerst	Agerst	0
+183	V	III_17_0025	Knöringen  (Knœringue) (im Elsass), Knöringen	7.4042, 47.5624	agerschte	agerschda	2	agerschte	agerschte	0	Agerst	Agerst	0
+184	Co O6	III_15_0038	Schlierbach, Schlierbach	7.4066, 47.68284	agersta	egerste	2	agerschte	egerschte	1	Agerst	Agerst	0
+185	Co Vd 7	na	Wolschweiler (Wolschwiller)	7.40773, 47.46164	agarschta	na	999	agerschte	na	999	Agerst	na	999
+186	Co l 7	III_13_0034	Logelnheim (Logelheim), Logelnheim	7.40918, 48.0211	ahgerscht	aagerscht	1	agerscht	agerscht	0	Agerst	Agerst	0
+187	Co V 7	III_16_0052	Niedermagstatt (Magstatt-le-Bas), Niedermagstatt	7.41155, 47.6393	āgrschda	agerschde	3	agerschte	agerschte	0	Agerst	Agerst	0
+188	Co O2	III_15_0041	Habsheim, Habsheim	7.41666, 47.72864	āgerschta	agrschta, agrsta	2	agerschte	agerschte	0	Agerst	Agerst	0
+189	Co V 12	III_16_0046	Helfrantskirch (Helfrantzkirch), Helfrantskirch	7.41694, 47.6072	agersta	agester	3	agerschte	ageschte	1	Agerst	Agerst	0
+190	Co Va 1	na	Oberranspach (Ranspach-le-Haut)	7.4175, 47.57697	agerste	na	999	agerschte	na	999	Agerst	na	999
+191	Co V 2	III_15_0030	Geispitzen, Geispitzen	7.42236, 47.66739	ägerschde	agersta	5	ägerschte	agerschte	1	Agerst	Agerst	0
+192	Co V 3	III_16_0037	Waltenheim, Waltenheim	7.42684, 47.65714	ägerschdä	agersta	5	ägerschte	agerschte	1	Agerst	Agerst	0
+193	Co V 8	III_16_0053	Stetten, Stetten	7.42942, 47.6261	agerschta	agerschta	0	agerschte	agerschte	0	Agerst	Agerst	0
+194	Co V 14	III_16_0054	Kappeln (Kappelen), Kappeln	7.44156, 47.61975	ageschta	agerschta	1	ageschte	agerschte	1	Agerst	Agerst	0
+195	Co V 4	III_16_0049	Uffheim, Uffheim	7.44285, 47.65062	ageschda	agaschda	1	ageschte	agerschte	1	Agerst	Agerst	0
+196	Co Va 2	III_17_0021	Obermichelbach (Michelbach-le-Haut), Obermichelbach	7.44645, 47.56623	āgerschta	ārgeste	5	agerschte	ageschte	1	Agerst	Agerst	0
+197	Co Va 15	III_16_0038	Niederranspach (Ranspach-le-Bas), Niederranspach	7.44726, 47.58851	agersta	agerste	1	agerschte	agerschte	0	Agerst	Agerst	0
+198	Co Va 4/2, Co Va 4/1	III_17_0019	Volkensberg (Folgensbourg), Volkensberg	7.4473, 47.55147	agerschda, āgersta	agerste	2	agerschte	agerschte	0	Agerst	Agerst	0
+199	Co Vd 8	na	Biedertal (Biederthal)	7.44789, 47.46978	äegerschde	na	999	ägerschte	na	999	Agerst	na	999
+200	Co z 2	III_14_0038	Münchhausen (Munchhausen), Münchhausen	7.45274, 47.86847	agerschta	ägerschde, agerschde	2	agerschte	agerschte	0	Agerst	Agerst	0
+201	Co V 5	III_16_0055	Sierenz (Sierentz), Sierenz	7.45597, 47.6532	agersta	agerste	1	agerschte	agerschte	0	Agerst	Agerst	0
+202	Co Vd 3	na	Liebenzweiler (Liebenswiller)	7.45821, 47.49881	agarschta	na	999	agerschte	na	999	Agerst	na	999
+203	Co V 15	na	Brinkheim (Brinckheim)	7.45901, 47.62634	agerschda	na	999	agerschte	na	999	Agerst	na	999
+204	Co Va 3	III_17_0018	Attenschweiler (Attenschwiller), Attenschweiler/Attenweiler	7.46216, 47.56912	āgerschda	agrschda	2	agerschte	agerschte	0	Agerst	Agerst	0
+205	Co s 7/1	III_13_0122	Rüstenhart (Rustenhart), Rüstenhart	7.46359, 47.94159	āgerschd	ågerscht	2	agerscht	agerscht	0	Agerst	Agerst	0
+206	Co V 13/2, Co V 13/1	III_16_0047	Niedermichelbach (Michelbach-le-Bas), Niedermichelbach	7.46442, 47.59288	agerschde	agerschte	1	agerschte	agerschte	0	Agerst	Agerst	0
+207	Co z 3	III_14_0039	Roggenhausen, Roggenhausen	7.46704, 47.8888	aagerscht	aagest	3	agerscht	agerscht	0	Agerst	Agerst	0
+208	Co V 9	III_16_0056	Bartenheim, Bartenheim	7.47707, 47.63392	å̄gerschde	agaschda	5	agerschte	agerschte	0	Agerst	Agerst	0
+209	Co l 5	III_13_0028	Widensolen, Widensolen	7.47996, 48.06278	agerschd	agerscht	1	agerscht	agerscht	0	Agerst	Agerst	0
+210	Co Va 5	III_17_0034	Wenzweiler (Wentzwiller), Wenzweiler	7.48036, 47.55042	āgersta	agarsta	2	agerschte	agerschte	0	Agerst	Agerst	0
+211	Co Vd 4	III_17_0073	Leimen (Leymen), Leimen	7.48218, 47.4954	agarschta	agersta	3	agerschte	agerschte	0	Agerst	Agerst	0
+212	Co l 12	III_12_0098	Urschenheim, Urschenheim	7.48632, 48.08696	agerschd	ägerst	4	agerscht	ägerscht	1	Agerst	Agerst	0
+213	Co s 1	III_13_0123	Dessenheim, Dessenheim	7.48828, 47.97561	aagerst	agerst	1	agerscht	agerscht	0	Agerst	Agerst	0
+214	Co W 15, 14, Co W 15/1, Co W 15/2	III_16_0039, III_16_0062, III_16_0040	Boltzheim (Blotzheim), Blotzheim	7.49611, 47.60128	agerschta, agersta	agerschta , agersta, aegeste	0	agerschte	ägeschte, agerschte	0	Agerst	Agerst	0
+215	Co d 9	III_12_0089	Elsenheim, Elsenheim	7.50131, 48.16133	agerscht	agerscht	0	agerscht	agerscht	0	Agerst	Agerst	0
+216	Co m 11	III_13_0047	Wolfganzen, Wolfganzen	7.5016, 48.02747	agärscht	agerst	3	agerscht	agerscht	0	Agerst	Agerst	0
+217	Co P10/3, Co P10/2, Co P10/1	III_16_0060, III_16_0059, III_15_0042	Kembs-Neuweg, Kembs  , Kembs-Neuweg, Kembs	7.50399, 47.6877	agerschta, agarsta	agarsta, agersta	0	agerschte	agerschte	0	Agerst	Agerst	0
+218	Co H15	III_14_0130	Homburg Kreis Mülhausen (Hombourg), Homburg	7.50503, 47.75908	ägerste	agasta	4	ägerschte	agerschte	1	Agerst	Agerst	0
+219	Co H16	III_14_0131	Ottmarsheim, Ottmarsheim	7.50646, 47.78661	aggarstā	egrschde	7	agerschte	egerschte	1	Agerst	Agerst	0
+220	Stra X 11	III_12_0027	Ohnenheim, Ohnenheim	7.50726, 48.18379	agerscht	agerst	2	agerscht	agerscht	0	Agerst	Agerst	0
+221	Co P11	III_15_0044	Niffer, Niffer	7.50904, 47.71353	agrschde	agrschde	0	agerschte	agerschte	0	Agerst	Agerst	0
+222	Co Wa 2	III_17_0027	Buschweiler (Buschwiller), Buschweiler	7.50989, 47.55993	agerste	agasta	3	agerschte	agerschte	0	Agerst	Agerst	0
+223	Co H17	III_14_0133	Banzenheim (Bantzenheim), Banzenheim	7.51396, 47.82468	agrschde	egester	6	agerschte	egeschte	2	Agerst	Agerst	0
+224	Co Wa 5	III_17_0028	Neuweiler (Neuwiller), Neuweiler	7.51526, 47.52439	ägerschte	ägerschtä	1	ägerschte	ägerschte	0	Agerst	Agerst	0
+225	Stra X 10	III_12_0026	Heidolsheim, Heidolsheim	7.51527, 48.20131	agerscht	agerscht	0	agerscht	agerscht	0	Agerst	Agerst	0
+226	Co A3	III_14_0040	Rumersheim (Rumersheim-le-Haute), Rumersheim	7.51712, 47.85248	ägerschta	aageerschdă	5	ägerschte	agerschte	1	Agerst	Agerst	0
+227	Stra X 1	III_12_0018	Mussig, Mussig	7.52018, 48.23003	āgerst	agerst	1	agerscht	agerscht	0	Agerst	Agerst	0
+228	Co P1	III_15_0043	Kleinlandau (Petit-Landau), Kleinlandau	7.52082, 47.73028	agersta	agerschta	2	agerschte	agerschte	0	Agerst	Agerst	0
+229	Co Wa 1	na	Häsingen (Hésingue)	7.5211, 47.57633	agerschte	na	999	agerschte	na	999	Agerst	na	999
+230	Co P19	III_15_0050	Kleinkems, Kleinkembs	7.52279, 47.691	ageschte	ageschte	0	ageschte	ageschte	0	Agerst	Agerst	0
+231	Co Wa 3	III_17_0035	Hegenheim (Hégenheim), Hegenheim	7.52344, 47.56115	agersta	agersta	0	agerschte	agerschte	0	Agerst	Agerst	0
+232	Co W 14	III_16_0057	Neuweg-Bartenheim, Bartenheim-Neuweg	7.52868, 47.62399	agerschta	agersta	2	agerschte	agerschte	0	Agerst	Agerst	0
+233	Co m 6	III_13_0045	Neubreisach (Neuf-Brisach), Neubreisach	7.52909, 48.01843	agerscht	agerscht	0	agerscht	agerscht	0	Agerst	Agerst	0
+234	Co P9	na	Rheinweiler	7.53324, 47.71013	ägerschte	na	999	ägerschte	na	999	Agerst	na	999
+235	Co A2	III_14_0185	Blodelsheim, Blodelsheim	7.53396, 47.88426	agester	ägerst	4	ageschte	ägerscht	3	Agerst	Agerst	0
+236	Co W 13	III_16_0058	Rosenau, Rosenau	7.53493, 47.63685	aegerschte	ägerschte	2	ägerschte	ägerschte	0	Agerst	Agerst	0
+237	Co W 1	III_16_0067	Istein , Istein	7.53541, 47.66186	aegerste	ägersta	3	ägerschte	ägerschte	0	Agerst	Agerst	0
+238	Co A1/1, Co A1/2	na	Fessenheim, Fessenheim (Gutenstein)	7.53712, 47.91578	agerst, agrscht	na	999	agerscht	na	999	Agerst	na	999
+239	Co t 1	III_13_0124	Heiteren, Heiteren	7.53776, 47.96942	agerscht	ägerscht	1	agerscht	ägerscht	1	Agerst	Agerst	0
+240	Co t 8	na	Balgau	7.53917, 47.9288	agerschte	na	999	agerschte	na	999	Agerst	na	999
+241	Co H1	III_14_0132	Eichwald (Chalampé), Eichwald	7.53969, 47.81643	ǟgästä	agerschda	7	ägeschte	agerschte	2	Agerst	Agerst	0
+242	Co P12	III_15_0051	Blansingen, Blansingen	7.54141, 47.69158	ägerschte	ägerste	2	ägerschte	ägerschte	0	Agerst	Agerst	0
+243	Co e 10	III_12_0110	Arzenheim (Artzenheim), Arzenheim	7.5426, 48.11609	agerscht	agerst	2	agerscht	agerscht	0	Agerst	Agerst	0
+244	Co m 10	III_13_0044	Biesheim, Biesheim	7.54467, 48.04048	agerscht	agerscht	0	agerscht	agerscht	0	Agerst	Agerst	0
+245	Co e 1	III_12_0102	Marckolsheim, Markolsheim	7.54583, 48.1675	agerscht	agerscht	0	agerscht	agerscht	0	Agerst	Agerst	0
+246	Co P8	III_15_0045	Bamlach, Bamlach	7.54942, 47.71753	ägeschte	ägeste	2	ägeschte	ägeschte	0	Agerst	Agerst	0
+247	Co P18	III_15_0052	Huttingen, Huttingen	7.5497, 47.67294	ägeschde	ägeschte	1	ägeschte	ägeschte	0	Agerst	Agerst	0
+248	Stra X 9	III_12_0025	Hessenheim, Hessenheim	7.55134, 48.21037	agerscht	agerscht	0	agerscht	agerscht	0	Agerst	Agerst	0
+249	Co m 8	III_13_0043	Volgelsheim, Vogelsheim	7.55292, 48.01693	agerst	agast	2	agerscht	agerscht	0	Agerst	Agerst	0
+250	Co H14	na	Steinenstadt	7.55314, 47.76918	ägerschde	na	999	ägerschte	na	999	Agerst	na	999
+251	Co e 9	III_12_0109	Balzenheim (Baltzenheim), Balzenheim	7.55624, 48.09319	āgerst	aagerschd	5	agerscht	agerscht	0	Agerst	Agerst	0
+252	Co m 12	III_13_0042	Algolsheim, Algolsheim	7.55708, 48.00563	āgrscht	agerscht	2	agerscht	agerscht	0	Agerst	Agerst	0
+253	Co P2	na	Bellingen (Bad Bellingen)	7.55728, 47.7319	egerschte	na	999	egerschte	na	999	Agerst	na	999
+254	Co t 5	III_13_0125	Obersaasheim, Obersaasheim	7.55885, 47.98979	agerscht	agerscht	0	agerscht	agerscht	0	Agerst	Agerst	0
+255	Co H2	III_14_0134	Neuenburg (am Rhein), Neuenburg	7.56012, 47.81393	ägeste	ägester	1	ägeschte	ägeschte	0	Agerst	Agerst	0
+256	Co t 7	na	Nambsheim	7.5622, 47.9336	agerschte	na	999	agerschte	na	999	Agerst	na	999
+257	Co P13	na	Welmlingen	7.56233, 47.68899	ägerschde	na	999	ägerschte	na	999	Agerst	na	999
+258	Co Wa 4	III_16_0064, III_16_0065, III_16_0063	Sankt Ludwig (Saint-Louis) , Sankt Ludwig	7.56351, 47.58575	agerschta	ägerste, agarschta	1	agerschte	ägerschte, agerschte	0	Agerst	Agerst	0
+259	Stra X 3	III_12_0019	Bösenbiesen (Boesenbiesen), Bösenbiesen	7.56377, 48.22957	agrscht	aagerscht	2	agerscht	agerscht	0	Agerst	Agerst	0
+260	Co W 2, Co W 3	III_16_0068, III_16_0069	Efringen (Efringen-Kirchen), Kirchen (Efringen-Kirchen), Kirchen, Efringen	7.56471, 47.64989	ägerstë, ägerste, ägerstä	ägerste, ägerstä	0	ägerschte	ägerschte	0	Agerst	Agerst	0
+261	Stra X 13	III_12_0028	Mackenheim, Mackenheim	7.56598, 48.18437	agerstcht	agerscht	1	agerscht	agerscht	0	Agerst	Agerst	0
+262	Co P17	III_15_0053	Wintersweiler, Wintersweiler	7.56756, 47.67374	ägeschde	ägeschta	2	ägeschte	ägeschte	0	Agerst	Agerst	0
+263	Stra X 12	III_12_0029	Boozheim (Bootzheim), Boozheim	7.57052, 48.18862	agerschd	agerscht	1	agerscht	agerscht	0	Agerst	Agerst	0
+264	Co W 16	III_16_0061	Neudorf (Village-Neuf), Neudorf	7.57149, 47.60532	agarsta	agarsta	0	agerschte	agerschte	0	Agerst	Agerst	0
+265	Co m 9	III_13_0041	Vogelgrün (Vogelgrun), Vogelgrün	7.57243, 48.0111	āgerscht	agrscht	2	agerscht	agerscht	0	Agerst	Agerst	0
+266	Stra X 8	III_12_0024	Artolsheim, Artolsheim	7.57377, 48.20951	agerst	agerscht	2	agerscht	agerscht	0	Agerst	Agerst	0
+267	Stra X 4	na	Schwobsheim	7.57481, 48.2329	agrscht	na	999	agerscht	na	999	Agerst	na	999
+268	Co H13	III_14_0135	Schliengen, Schliengen	7.57624, 47.75579	ägerste	ägeršte	1	ägerschte	ägerschte	0	Agerst	Agerst	0
+269	Co A10	III_14_0042	Zienken (Müllheim), Zienken	7.57779, 47.84303	ägeschde	egerschte	3	ägeschte	egerschte	2	Agerst	Agerst	0
+270	Co W 12	III_16_0071, III_16_0070	Märkt, Märkt	7.58103, 47.627	agerste	egerste, ägerste	1	agerschte	ägerschte, egerschte	1	Agerst	Agerst	0
+271	Co W 17	na	Hüningen (Huningue)	7.58374, 47.5912	agersta	na	999	agerschte	na	999	Agerst	na	999
+272	Co P7	III_15_0048	Hertingen, Hertingen	7.58442, 47.7231	ägerschdä	ägerschte	2	ägerschte	ägerschte	0	Agerst	Agerst	0
+273	Stra Q 7	III_11_0104	Wittisheim, Wittisheim	7.58962, 48.26345	agarscht	agerscht	1	agerscht	agerscht	0	Agerst	Agerst	0
+274	Co H8	III_14_0136	Auggen, Auggen	7.59221, 47.78776	ägerschde	āgerste	4	ägerschte	agerschte	1	Agerst	Agerst	0
+275	Co A9	III_14_0043	Grißheim (Grissheim) , Grissheim	7.59238, 47.87313	ägrstä	ärgestr	3	ägerschte	ägeschte	1	Agerst	Agerst	0
+276	Co m 1	III_13_0040	Breisach, Breisach	7.59332, 48.04535	ägerscht	ägerscht	0	ägerscht	ägerscht	0	Agerst	Agerst	0
+277	Co H10	na	Mauchen	7.59411, 47.76239	ägerschde	na	999	ägerschte	na	999	Agerst	na	999
+278	Stra X 5	III_12_0021	Richtolsheim, Richtolsheim	7.59489, 48.2251	agerscht	agerscht	0	agerscht	agerscht	0	Agerst	Agerst	0
+279	Co W 11, 18	III_16_0074	(Weil am Rhein und) Eimeldingen, Binzen	7.59518, 47.63113	egerste	egerschte	2	egerschte	egerschte	0	Agerst	Agerst	0
+280	Co W 4, 5	III_16_0087, III_16_0088	Egringen und Fischingen, Egringen, Fischingen	7.59628, 47.66366	ägerschte	aegerste	4	ägerschte	ägerschte	0	Agerst	Agerst	0
+281	Co P14	III_15_0054	Mappach, Mappach	7.59794, 47.68033	ägerschdĕ	ägerschte	2	ägerschte	ägerschte	0	Agerst	Agerst	0
+282	Co e 4	III_12_0108	Burkheim am Kaiserstuhl, Burkheim am Kaiserstuhl	7.59943, 48.10194	ägerscht	ägerst	2	ägerscht	ägerscht	0	Agerst	Agerst	0
+283	Co t 6	III_13_0126	Geiswasser, Geiswasser	7.60042, 47.97883	āgerschd	agerscht	2	agerscht	agerscht	0	Agerst	Agerst	0
+284	Stra Q 8/1	na	Sundhausen (Sundhouse)	7.60327, 48.25126	agerscht	na	999	agerscht	na	999	Agerst	na	999
+285	Co P3	na	Liel	7.604, 47.73928	ägästä	na	999	ägeschte	na	999	Agerst	na	999
+286	Co P6	III_15_0057	Tannenkirch, Tannenkirch	7.6103, 47.71116	egerste	agerste	1	egerschte	agerschte	1	Agerst	Agerst	0
+287	Co e 12	III_12_0103	Sasbach, Sasbach	7.61363, 48.13798	ägäste	ägästä	1	ägeschte	ägeschte	0	Agerst	Agerst	0
+288	Co W 22	III_16_0089, III_16_0090	Haltingen, Haltingen	7.61378, 47.61384	ageschte	ägerschte, egerschte  , egerste, ägerste	2	ageschte	ägerschte, egerschte	2	Agerst	Agerst	0
+289	Co H3	III_14_0137	Hügelheim, Hügelheim	7.6208, 47.82868	ägerstä	ägerschta	3	ägerschte	ägerschte	0	Agerst	Agerst	0
+290	Co W 23	III_16_0075	Ötlingen, Ötlingen	7.62133, 47.62261	ägerste	ägerste	0	ägerschte	ägerschte	0	Agerst	Agerst	0
+291	Co A8	III_14_0044	Bremgarten (Hartheim), Bremgarten	7.62385, 47.91694	ägerste	ägerste	0	ägerschte	ägerschte	0	Agerst	Agerst	0
+292	Co W 10	III_16_0073, III_16_0072	Binzen, Märkt, Binzen	7.62403, 47.63133	āgersta	ägerste, agestae, ägesta	2	agerschte	ägerschte, ageschte, ägeschte	1	Agerst	Agerst	0
+293	Co m 4	na	Achkarren	7.62448, 48.06769	ägescht	na	999	ägerscht	na	999	Agerst	na	999
+294	Co e 6	III_12_0106	Bischoffingen, Bischoffingen	7.62537, 48.10625	āgestär	agersta	4	ageschte	agerschte	1	Agerst	Agerst	0
+295	Co t 4	na	Hartheim	7.62702, 47.93691	ågerschte	na	999	agerschte	na	999	Agerst	na	999
+296	Co W 6	III_16_0076	Schallbach, Schallbach	7.62759, 47.65706	āgeste	ägste	2	ageschte	ägschte	2	Agerst	Agerst	0
+297	Co W 18	III_16_0085	Weil am Rhein, Weil	7.63299, 47.59278	ägerste	ägerste	0	ägerschte	ägerschte	0	Agerst	Agerst	0
+298	Co e 13	III_12_0107	Oberrotweil, Oberrotweil	7.63551, 48.08944	ägerscht	agerst	3	ägerscht	agerscht	1	Agerst	Agerst	0
+299	Co e 3	na	Leiselheim	7.6357, 48.12586	ackerschta	na	999	agerschte	na	999	Agerst	na	999
+300	Co A4	III_14_0046	Buggingen, Buggingen	7.63735, 47.8479	ägerste	ägeste	1	ägerschte	ägeschte	1	Agerst	Agerst	0
+301	Co A5	III_14_0045	Seefelden, Seefelden	7.63962, 47.85945	egerste	ägerschte	3	egerschte	ägerschte	1	Agerst	Agerst	0
+302	Co H11	III_14_0140	Feldberg, Feldberg	7.64081, 47.7737	ägerste	ägeschde	4	ägerschte	ägeschte	1	Agerst	Agerst	0
+303	Co m 2	III_13_0039	Gündlingen, Gündlingen	7.64227, 48.01556	ägerste	ägerste	0	ägerschte	ägerschte	0	Agerst	Agerst	0
+304	Co m 5	na	Bickensohl	7.64262, 48.07988	ägerste	na	999	ägerschte	na	999	Agerst	na	999
+305	Co H12	na	Obereggenen, Niedereggenen	7.64434, 47.75677	ägerschde	na	999	ägerschte	na	999	Agerst	na	999
+306	Co m 3	na	Ihringen	7.64554, 48.04572	ageschte	na	999	ageschte	na	999	Agerst	na	999
+307	Stra X 7	III_12_0023	Schönau (Schoenau), Schönau	7.64715, 48.22339	agerscht	agerscht	0	agerscht	agerscht	0	Agerst	Agerst	0
+308	Co e 7	na	Wyhl am Kaiserstuhl	7.64933, 48.1663	ägescht	na	999	ägerscht	na	999	Agerst	na	999
+309	Co t 3	na	Feldkirch	7.64962, 47.93629	agerscht	na	999	agerscht	na	999	Agerst	na	999
+310	Co A7	na	Eschbach (bei Heitersheim)	7.65221, 47.8908	ägeschte	na	999	ägeschte	na	999	Agerst	na	999
+311	Co e 2	III_12_0105	Kiechlinsbergen, Kiechlinsbergen	7.65306, 48.12469	ägeschde	aglsta	6	ägeschte	agelschte	2	Agerst	Agerst	0
+312	Co W 8	III_15_0056	Wollbach, Wollbach	7.65387, 47.67054	ägerschde	ägerschte	1	ägerschte	ägerschte	0	Agerst	Agerst	0
+313	Co e 11	III_12_0104	Königschaffhausen am Kaiserstuhl, Königschaffhausen	7.65562, 48.13337	agersta	äegerstä	3	agerschte	ägerschte	1	Agerst	Agerst	0
+314	Co H9	na	Lipburg	7.65665, 47.78685	ǟgerste	na	999	ägerschte	na	999	Agerst	na	999
+315	Co H4	III_14_0138, III_14_0139	Dattingen, Dattingen	7.65681, 47.83383	ägerschder	aegerschder, ägerschder	0	ägerschte	ägerschte	0	Agerst	Agerst	0
+316	Co t 2	na	Oberrimsingen	7.6594, 47.97942	agerschde	na	999	agerschte	na	999	Agerst	na	999
+317	Co P16	III_15_0046	Kandern, Kandern	7.66224, 47.71456	ǟgerschde	ägerste	4	ägerschte	ägerschte	0	Agerst	Agerst	0
+318	Co W 20	III_16_0083	Lörrach , Lörrach <Adolf Hitler Schule>	7.66409, 47.61258	ägerste	ägeste	1	ägerschte	ägeschte	1	Agerst	Agerst	0
+319	Co B1	III_14_0050	Tunsel, Tunsel	7.66581, 47.90315	agester	ägester	1	ageschte	ägeschte	1	Agerst	Agerst	0
+320	Co Wa 6	III_17_0037	Grenzach (Grenzach-Wyhlen), Grenzach	7.66607, 47.55136	ägerste	ägerste	0	ägerschte	ägerschte	0	Agerst	Agerst	0
+321	Co A6	III_14_0047	Heitersheim, Heitersheim	7.66768, 47.87108	ägrsde, ägerste	ägerste	0	ägerschte	ägerschte	0	Agerst	Agerst	0
+322	Co u 18	III_13_0127	Niederrimsingen, Niederrimsingen	7.67114, 47.98702	agersta	agester	3	agerschte	ageschte	1	Agerst	Agerst	0
+323	Co J1	III_14_0144	Britzingen, Britzingen	7.67237, 47.82744	agersta	ageste	2	agerschte	ageschte	1	Agerst	Agerst	0
+324	Co u 21	III_13_0134	Schlatt, Schlatt	7.67473, 47.92531	ǟgerschde	ägeste	5	ägerschte	ägeschte	1	Agerst	Agerst	0
+325	Stra Y 3	III_12_0036	Weisweil, Weisweil	7.67618, 48.19761	agerscht	agerscht	0	agerscht	agerscht	0	Agerst	Agerst	0
+326	Co f 12	na	Amoltern	7.67629, 48.12873	ageste	na	999	ageschte	na	999	Agerst	na	999
+327	Co X 4	III_16_0091, III_16_0092	Haagen, Haagen	7.67898, 47.63703	āgerste	ägerste, ägärste	1	agerschte	ägerschte	1	Agerst	Agerst	0
+328	Co J2	na	Badenweiler	7.67934, 47.80555	āgeste	na	999	ageschte	na	999	Agerst	na	999
+329	Co B2	na	Gallenweiler	7.68027, 47.88527	ägersde	na	999	ägerschte	na	999	Agerst	na	999
+330	Co n 14	na	Wasenweiler	7.6813, 48.05162	ägerscht	na	999	ägerscht	na	999	Agerst	na	999
+331	Co f 6	na	Schelingen am Kaiserstuhl	7.68308, 48.10435	ägerscht	na	999	ägerscht	na	999	Agerst	na	999
+332	Co B5	III_14_0058	Laufen, Laufen	7.68471, 47.8434	ägerschte	ageste	4	ägerschte	ageschte	2	Agerst	Agerst	0
+333	Co X 16	na	Inzlingen	7.68772, 47.58811	ägerschde	na	999	ägerschte	na	999	Agerst	na	999
+334	Co n 4	III_13_0059, III_13_0058	Merdingen, Merdingen	7.68864, 48.0173	ägeschte	ageste, agestar	3	ägeschte	ageschte	1	Agerst	Agerst	0
+335	Co u 1/2	III_13_0135	Biengen, Biengen	7.68958, 47.93875	agester	ägeste	2	ageschte	ägeschte	1	Agerst	Agerst	0
+336	Co Xa 5	III_17_0038, III_17_0040, III_17_0039	Wyhlen, Wyhlen	7.69103, 47.54989	ägerschte	âgerste, ägerste	2	ägerschte	ägerschte, agerschte	0	Agerst	Agerst	0
+337	Co X 6	III_16_0095, III_16_0094	Brombach (/Maulburg, aber gestrichen), Brombach	7.69236, 47.63395	ägerstä	ägerste	1	ägerschte	ägerschte	0	Agerst	Agerst	0
+338	Co B3	III_14_0056	Wettelbrunn, Wettelbrunn	7.69689, 47.87134	ärgerste	ageste	3	ägerschte	ageschte	2	Agerst	Agerst	0
+339	Co u 16	III_13_0129	Munzingen, Munzingen	7.69883, 47.96873	agerst	ägerschde	5	agerscht	ägerschte	2	Agerst	Agerst	0
+340	Co f 9	na	Forchheim	7.7031, 48.16341	ägeschtē	na	999	ägeschte	na	999	Agerst	na	999
+341	Co f 1	III_12_0121, III_12_0122, III_12_0120	Endingen, Endingen	7.70312, 48.1419	agerscht	agescht, ägerscht, ägeschter	1	agerscht	ägerscht, ägeschte, agerscht	0	Agerst	Agerst	0
+342	Co B11	III_14_0053, III_14_0052	Bad Krozingen, Bad Krozingen	7.70333, 47.91813	aegerste	ägerste	2	ägerschte	ägerschte	0	Agerst	Agerst	0
+343	Co Q1	na	Malsburg	7.70866, 47.73257	ägerste	na	999	ägerschte	na	999	Agerst	na	999
+344	Stra Y 2	III_12_0035	Oberhausen, Oberhausen	7.71048, 48.22667	agerscht	agescht	1	agerscht	agerscht	0	Agerst	Agerst	0
+345	Co u 3	na	Offnadingen	7.71217, 47.93434	ägeschde	na	999	ägeschte	na	999	Agerst	na	999
+346	Stra Y 1	III_12_0171	Niederhausen, Niederhausen	7.71317, 48.23982	ågest	äͣgerst	3	agerscht	agerscht	0	Agerst	Agerst	0
+347	Co u 17	III_13_0130	Mengen, Mengen	7.71392, 47.95851	äegrschde	ägerschde	2	ägerschte	ägerschte	0	Agerst	Agerst	0
+348	Co u 15	III_13_0057	Opfingen, Opflingen	7.71585, 48.00052	ägerste	ägerste	0	ägerschte	ägerschte	0	Agerst	Agerst	0
+349	Co u 14	na	Tiengen	7.71599, 47.98216	aegeschde, ageschde	na	999	ageschte, ägeschte	na	999	Agerst	na	999
+350	Co n 13	III_13_0056	Waltershofen, Waltershofen	7.71857, 48.02338	āgerste	agerschte	3	agerschte	agerschte	0	Agerst	Agerst	0
+351	Co n 12	III_13_0051, III_13_0050, III_13_0048	Bötzingen, Bötzingen	7.72593, 48.07743	aegerschde	ägerste, agerschte	2	ägerschte	ägerschte, agerschte	0	Agerst	Agerst	0
+352	Co u 5	III_13_0136	Norsingen, Norsingen	7.72683, 47.93837	ageste	agerste	1	ageschte	agerschte	1	Agerst	Agerst	0
+353	Co n 8	na	Gottenheim	7.72686, 48.04969	ägrischte	na	999	ägerschte	na	999	Agerst	na	999
+354	Co J4	na	Marzell bei Kandern	7.72688, 47.77116	ǟgerschte	na	999	ägerschte	na	999	Agerst	na	999
+355	Co X 1	na	Hägelberg	7.72778, 47.66132	ägerschdä	na	999	ägerschte	na	999	Agerst	na	999
+356	Co f 10	III_12_0111	Bahlingen, Bahlingen	7.73937, 48.12209	aͤgerschde	agerste	4	agerschte	agerschte	0	Agerst	Agerst	0
+357	Stra R 11	III_11_0110, III_11_0111	Kappel a. Rh., Grafenhausen, Kappel a. Rh.	7.74182, 48.29235	ägrscht	agärst, agerscht	2	ägerscht	agerscht	1	Agerst	Agerst	0
+358	Co u 4	III_13_0164	Kirchhofen, Kirchhofen	7.74356, 47.91979	ägeschd	ägärschde	3	ägerscht	ägerschte	1	Agerst	Agerst	0
+359	Co f 7	III_12_0125	Eichstetten, Eichstetten	7.74563, 48.09417	ägerste	ägerschte	2	ägerschte	ägerschte	0	Agerst	Agerst	0
+360	Co Xa 1	III_17_0041	Degerfelden, Degerfelden	7.74584, 47.5696	ageschte	agerschter	2	ageschte	agerschte	1	Agerst	Agerst	0
+361	Co f 2	III_12_0113	Riegel, Riegel	7.7507, 48.15056	ägärscht	ägerscht	1	ägerscht	ägerscht	0	Agerst	Agerst	0
+362	Co B12	na	Ehrenstetten	7.75208, 47.91557	agerschta	na	999	agerschte	na	999	Agerst	na	999
+363	Co u 6	na	Pfaffenweiler	7.75445, 47.94133	ägerschta	na	999	ägerschte	na	999	Agerst	na	999
+364	Co u 7	III_13_0131	Wolfenweiler, Wolfenweiler	7.76194, 47.96231	ägeste	ageste	1	ägeschte	ageschte	1	Agerst	Agerst	0
+365	Co n 3	III_13_0055	Umkirch, Umkirch	7.7624, 48.03183	ägester	ägester	0	ägeschte	ägeschte	0	Agerst	Agerst	0
+366	Co u 8	na	Schallstadt	7.76422, 47.959	aegerschte	na	999	ägerschte	na	999	Agerst	na	999
+367	Co Q9	na	Weitenau	7.76525, 47.67775	ägerste	na	999	ägerschte	na	999	Agerst	na	999
+368	Stra Y 14	III_12_0046	Hecklingen, Hecklingen	7.76731, 48.16962	aagst	ägest	3	agscht	ägerscht	3	Agerst	Agerst	0
+369	Stra R 12	na	Grafenhausen (Kappel-Grafenhausen)	7.76775, 48.2841	āͣ̈grscht	na	999	ägerscht	na	999	Agerst	na	999
+370	Co n 5	na	Neuershausen	7.76972, 48.0689	ageste	na	999	ageschte	na	999	Agerst	na	999
+371	Stra Y 13	III_12_0044	Kenzingen, Kenzingen	7.77005, 48.19298	ägerscht	ägerste	3	ägerscht	ägerschte	1	Agerst	Agerst	0
+372	Co X 10	III_16_0106	Maulburg , Maulburg	7.77782, 47.64075	ägerschte	aegerschte	2	ägerschte	ägerschte	0	Agerst	Agerst	0
+373	Co f 3	III_12_0118	Nimburg, Nimburg	7.77794, 48.10762	ägeschte	ägeschte	0	ägeschte	ägeschte	0	Agerst	Agerst	0
+374	Co n 11	III_13_0052	Buchheim, Buchheim	7.77912, 48.06092	ǟgǟschtǟ	ägästä	5	ägeschte	ägeschte	0	Agerst	Agerst	0
+375	Stra Y 4	III_12_0033	Ringsheim, Ringsheim	7.78041, 48.24632	ägerschd	agescht	3	ägerscht	agerscht	1	Agerst	Agerst	0
+376	Co n 9	na	Hugstetten	7.78045, 48.05415	aegerste	na	999	ägerschte	na	999	Agerst	na	999
+377	Co f 4	III_12_0173	Bottingen, Bottingen	7.78356, 48.09119	agerschde	agerste	3	agerschte	agerschte	0	Agerst	Agerst	0
+378	Co f 5	na	Malterdingen	7.79392, 48.16302	ägeschde	na	999	ägeschte	na	999	Agerst	na	999
+379	Stra Y 9	na	Wagenstadt	7.79647, 48.20762	egerst	na	999	egerscht	na	999	Agerst	na	999
+380	Co Q3	III_14_0152	Raich, Raich	7.79724, 47.75076	ǟgerschde	ägeste	5	ägerschte	ägeschte	1	Agerst	Agerst	0
+381	Stra R 8	III_11_0114	Orschweier, Orschweier	7.79862, 48.27835	ageschtr	aegerst	5	ageschte	ägerscht	3	Agerst	Agerst	0
+382	Co X 17	III_16_0105	Karzau (Karsau) , Karsau	7.79868, 47.58875	ägerschde	ägerste	3	ägerschte	ägerschte	0	Agerst	Agerst	0
+383	Co n 7	na	Holzhausen	7.79978, 48.07044	ägerscht	na	999	ägerscht	na	999	Agerst	na	999
+384	Co f 11	III_12_0115, III_12_0116	Teningen, Teningen	7.80344, 48.12897	ägerste	ägeste, ägerste	0	ägerschte	ägerschte, ägeschte	0	Agerst	Agerst	0
+385	Co f 8	III_12_0114	Köndringen, Köndringen	7.80591, 48.13912	āgerschtä	ägâstr	6	agerschte	ägerschte	1	Agerst	Agerst	0
+386	Co u 20	III_13_0137	Sölden, Sölden	7.80967, 47.93307	ägerschde	ägerste	3	ägerschte	ägerschte	0	Agerst	Agerst	0
+387	Co X 11	III_16_0107	Wiechs, Wiechs	7.81236, 47.63655	ǟgeschde	ägeschde	1	ägeschte	ägeschte	0	Agerst	Agerst	0
+388	Stra R 7	III_11_0113	Mahlberg, Mahlberg	7.81323, 48.28708	ǟgrschd	a˚egerscht	5	ägerscht	ägerscht	0	Agerst	Agerst	0
+389	Stra R 10	III_11_0117	Ettenheim, Ettenheim	7.81361, 48.25631	āgrschd	ägerscht	3	agerscht	ägerscht	1	Agerst	Agerst	0
+390	Stra Y 11	na	Nordweil	7.81384, 48.19396	āgischde	na	999	agerschte	na	999	Agerst	na	999
+391	Stra R 9	III_11_0116, III_11_0115	Altdorf, Altdorf	7.81401, 48.26606	ǟgērschd	ägerscht, ägerschd, ägrscht	2	ägerscht	ägerscht	0	Agerst	Agerst	0
+392	Co n 1	na	Betzenhausen	7.81511, 48.00987	äggerscht	na	999	ägerscht	na	999	Agerst	na	999
+393	Stra Y 12	na	Bombach	7.81686, 48.17869	ägeste	na	999	ägeschte	na	999	Agerst	na	999
+394	Stra Y 5	III_12_0034	Ettenheimweiler, Ettenheimweiler	7.82007, 48.23676	agescht	ägscht	2	agerscht	ägscht	3	Agerst	Agerst	0
+395	Co Q5	III_15_0068	Gresgen, Gresgen	7.82053, 47.71127	ägeschde	ägerste	4	ägeschte	ägerschte	1	Agerst	Agerst	0
+396	Co u 13	III_13_0133	Haslach, Haslach	7.82166, 47.9895	ägerst, egerst	ägerscht	2	ägerscht, egerscht	ägerscht	0	Agerst	Agerst	0
+397	Co X 3	na	Schopfheim (/Grenzach, aber gestrichen)	7.82315, 47.64973	ägerste	na	999	ägerschte	na	999	Agerst	na	999
+398	Co n 2	III_13_0060	Reute, Reute	7.82538, 48.08175	agersche	ägerscht, agerscht	1	agersche	ägerscht, agerscht	1	Agerst	Agerst	0
+399	Stra Y 6	III_12_0041	Broggingen, Broggingen	7.82928, 48.21892	aͤgerste	egerste	2	agerschte	egerschte	1	Agerst	Agerst	0
+400	Co u 10	na	Au	7.82976, 47.95687	ägest	na	999	ägerscht	na	999	Agerst	na	999
+401	Co C12	na	Obermünstertal-Spielweg	7.83588, 47.87776	agerschta	na	999	agerschte	na	999	Agerst	na	999
+402	Co Y 1	na	Fahrnau	7.83602, 47.66179	ägerste	na	999	ägerschte	na	999	Agerst	na	999
+403	Co Y 15	III_16_0122	Eichen, Eichen	7.83816, 47.6471	ägeschte	ägeste, ageste	2	ägeschte	ageschte, ägeschte	0	Agerst	Agerst	0
+404	Co g 10	na	Landeck	7.84077, 48.14954	ägeschde	na	999	ägeschte	na	999	Agerst	na	999
+405	Co o 8	III_13_0070	Vörstetten, Vörstetten	7.85113, 48.06391	ägerschde	ägeste	4	ägerschte	ägeschte	1	Agerst	Agerst	0
+406	Co g 3	III_12_0135	Wasser, Wasser	7.8564, 48.09846	aegerschte, agerschte	ägerste	3	aegerschte, agerschte	ägerschte	1	Agerst	Agerst	0
+407	Co Y 13	na	Dossenbach	7.85693, 47.61597	ägischde	na	999	ägerschte	na	999	Agerst	na	999
+408	Co Y 2	III_16_0116	Kürnberg, Kürnberg	7.86873, 47.6649	āgeschde	ägerschte	3	ageschte	ägerschte	2	Agerst	Agerst	0
+409	Co o 6	III_13_0074, III_13_0071, III_13_0073, III_13_0072	Gundelfingen, Gundelfingen	7.87313, 48.04353	ägerschde	ägerschde, ägerste	0	ägerschte	ägerschte	0	Agerst	Agerst	0
+410	Co g 12	III_12_0136	Kollmarsreute, Kollmarsreute	7.87829, 48.10253	ägerschte	ägerschte	0	ägerschte	ägerschte	0	Agerst	Agerst	0
+411	Co o 9	III_13_0063, III_13_0062, III_13_0064	Denzlingen, Denzlingen	7.87987, 48.06793	ägerscht	ägerschde, ägerste	2	ägerscht	ägerschte	1	Agerst	Agerst	0
+412	Stra Z 1	na	Ettenheimmünster	7.88015, 48.24152	egerscht	na	999	egerscht	na	999	Agerst	na	999
+413	Co C2	na	Wieden	7.8814, 47.84169	agerschd	na	999	agerscht	na	999	Agerst	na	999
+414	Co g 9	III_12_0130	Maleck, Maleck	7.88416, 48.12924	ägeschde	ägeschde	0	ägeschte	ägeschte	0	Agerst	Agerst	0
+415	Co g 14	III_12_0052	Freiamt-Mußbach (Mussbach), Freiamt-Mußbach	7.88578, 48.17377	ägeschde	ägeste	3	ägeschte	ägeschte	0	Agerst	Agerst	0
+416	Co g 4	III_12_0134	Windenreuthe (Emmendingen), Windenreute	7.88675, 48.11814	ägeschter	ägester	2	ägeschte	ägeschte	0	Agerst	Agerst	0
+417	Co R10	na	Riedichen	7.88873, 47.70465	ǟgester	na	999	ägeschte	na	999	Agerst	na	999
+418	Co K5	III_14_0160	Aitern, Aitern	7.89522, 47.80317	ägester	ägerste	2	ägeschte	ägerschte	1	Agerst	Agerst	0
+419	Stra Z 4	III_12_0051	Ottoschwanden, Ottoschwanden	7.89687, 48.18611	ågeschd	ageschte	3	agerscht	ageschte	2	Agerst	Agerst	0
+420	Co Y 3	III_16_0115	Hasel, Hasel	7.89786, 47.65393	ǟgerschde	ägerste	4	ägerschte	ägerschte	0	Agerst	Agerst	0
+421	Co v 2	na	Ebnet	7.90282, 47.98715	agest, agst	na	999	agscht, agescht	na	999	Agerst	na	999
+422	co g 7	III_12_0137	Sexau, Sexau	7.90788, 48.10424	ägeste	ägerste	1	ägeschte	ägerschte	1	Agerst	Agerst	0
+423	Co v 10	III_13_0149	Kappel, Kappel	7.90831, 47.96423	ageste	ageste	0	ageschte	ageschte	0	Agerst	Agerst	0
+424	Co Y 11	III_16_0118	Öfflingen (Öflingen), Öflingen	7.91396, 47.59228	ägerschde	ägerschde	0	ägerschte	ägerschte	0	Agerst	Agerst	0
+425	Stra S 4	III_11_0122	Reichenbach (Gengb.), Reichenbach	7.9231, 48.33196	ägescht	agerscht	2	ägerscht	agerscht	1	Agerst	Agerst	0
+426	Co o 3	na	Föhrental (Föhrenthal)	7.92468, 48.0349	ägerst	na	999	ägerscht	na	999	Agerst	na	999
+427	Co g 13	III_12_0127, III_12_0126	Freiamt-Reichenbach, Freiamt-Reichenbach	7.92477, 48.15747	agerschde	ägerste	4	agerschte	ägerschte	1	Agerst	Agerst	0
+428	Co R11	III_15_0083	Gersbach, Gersbach	7.93271, 47.69725	ägeschde	ageschtä	3	ägeschte	ageschte	1	Agerst	Agerst	0
+429	Co v 3	na	Wittental	7.94267, 48.00437	agescht	na	999	agerscht	na	999	Agerst	na	999
+430	Co v 8	na	Oberried	7.94506, 47.93146	agerst	na	999	agerscht	na	999	Agerst	na	999
+431	Co K1	III_14_0167	Todtnau, Todtnau	7.94634, 47.82887	ägerschde	ägeste	4	ägerschte	ägeschte	1	Agerst	Agerst	0
+432	Co C6	na	Sankt Wilhelm	7.94887, 47.89511	ägestr	na	999	ägeschte	na	999	Agerst	na	999
+433	Stra S 7	na	Wittelbach	7.95069, 48.29243	agerschd	na	999	agerscht	na	999	Agerst	na	999
+434	Stra Z 2	na	Dörlinbach	7.95383, 48.24804	agerschte	na	999	agerschte	na	999	Agerst	na	999
+435	Co Ya 2	III_17_0049, III_17_0050, III_17_0051, III_17_0054	Obersäckingen, Säckingen	7.96171, 47.57476	ägerste	egeste, ägerste, ägerst	0	ägerschte	egeschte, ägerschte, ägerscht	0	Agerst	Agerst	0
+436	Co C8	na	Zastler	7.965, 47.93356	ägisch	na	999	ägersch	na	999	Agerst	na	999
+437	Stra Z 3	na	Schweighausen	7.96799, 48.22021	agerscht	na	999	agerscht	na	999	Agerst	na	999
+438	Co Y 10	III_16_0125	Willaringen, Willaringen	7.97281, 47.60577	ägeste	ägeschte	2	ägeschte	ägeschte	0	Agerst	Agerst	0
+439	Co Y 8	na	Rickenbach	7.97772, 47.61891	ägeste	na	999	ägeschte	na	999	Agerst	na	999
+440	Co v 6	na	Burg am Wald	7.97957, 47.97091	agischd	na	999	agerscht	na	999	Agerst	na	999
+441	Co o 7	na	Eschbach über Freiburg i.Br.	7.98047, 48.00263	agerscht	na	999	agerschte	na	999	Agerst	na	999
+442	Stra Z 6	III_12_0054	Oberspitzenbach, Oberspitzenbach	7.98858, 48.1762	āgeste	agetscht	5	ageschte	agetscht	2	Agerst	Agerst	0
+443	TUTT p4	na	Buchenbach	8.00773, 47.96134	ägerschde	na	999	ägerschte	na	999	Agerst	na	999
+444	TUTT S4	III_16_0127	Hogschür, Hogschür	8.01475, 47.64742	ägerste	ägerschde	3	ägerschte	ägerschte	0	Agerst	Agerst	0
+445	TÜB L10	na	Welschensteinach	8.01871, 48.27471	āgescht	na	999	agerscht	na	999	Agerst	na	999
+446	TUTT a2	na	Niederwinden	8.02152, 48.14244	āgescht	na	999	agerscht	na	999	Agerst	na	999
+447	TÜB S1, TÜB S2	III_12_0058, III_12_0060	Biederbach, Ober- und Unterbiederbach, Oberbiederbach, Unterbiederbach	8.02694, 48.2183	ageschde, agerschd	argester, ageschde	0	ageschte, agerscht	ageschte	0	Agerst	Agerst	0
+448	TUTT S20	na	Hänner	8.03004, 47.59489	ägerschte	na	999	ägerschte	na	999	Agerst	na	999
+449	TUTT Sa5	na	Oberhof	8.0324, 47.58493	ägeschte	na	999	ägeschte	na	999	Agerst	na	999
+450	Stra S 5	na	Schönberg	8.0327, 48.36461	ageste	na	999	ageschte	na	999	Agerst	na	999
+451	TUTT h1	na	St. Peter-Sägendobel	8.03377, 48.03722	agest	na	999	agerscht	na	999	Agerst	na	999
+452	TUTT h2	na	St. Peter	8.03492, 48.01587	ägeschd	na	999	ägerscht	na	999	Agerst	na	999
+453	TUTT Sa4	na	Niederhof	8.03951, 47.56938	ägerste	na	999	ägerschte	na	999	Agerst	na	999
+454	TUTT a1	III_12_0144	Oberwinden, Oberwinden	8.04318, 48.15444	ageste	egeste	1	ageschte	egeschte	1	Agerst	Agerst	0
+455	TUTT S1	na	Strittmatt	8.04718, 47.66382	ägersta	na	999	ägerschte	na	999	Agerst	na	999
+456	TUTT a4	III_12_0148	Simonswald, Untersimonswald	8.04838, 48.10278	agetschde	ageste	4	agetschte	ageschte	1	Agerst	Agerst	0
+457	TÜB L5	III_11_0135	Steinach, Steinach	8.05831, 48.30508	agescht	agest	2	agerscht	agerscht	0	Agerst	Agerst	0
+458	TUTT Sa6	na	Binzgen	8.06143, 47.57622	ägeschte	na	999	ägeschte	na	999	Agerst	na	999
+459	TÜB L9	III_11_0143	Hofstetten, Hofstetten	8.0713, 48.26094	ägerst	ägerste, egerst	1	ägerscht	ägerschte, egerscht	1	Agerst	Agerst	0
+460	TÜB S4	III_12_0056, III_12_0055	Elzach, Elzach	8.07142, 48.17331	āgeschde	ǎgeschde, ageschte	2	ageschte	ageschte	0	Agerst	Agerst	0
+461	TUTT p6	na	Breitnau	8.07603, 47.94014	agischt	na	999	agerscht	na	999	Agerst	na	999
+462	TUTT S9	III_16_0134	Görwihl, Görwihl	8.07817, 47.64186	ägeste	agesten, agersten	2	ägeschte	ageschte, agerschte	1	Agerst	Agerst	0
+463	TUTT L/8,9	III_15_0098, III_15_0099	Hierbach - Wilfingen, Wilfingen, Hierbach	8.09123, 47.686	ägerschde	ägeschde, ägeschda	1	ägerschte	ägeschte	1	Agerst	Agerst	0
+464	TUTT h3, TUTT p1	III_13_0078	St. Märgen-Schweighöfe, St. Märgen, St. Märgen	8.09239, 48.00756	hageste, agescht	ageste	1	agerscht, hageschte	ageschte	1	Agerst	Agerst	0
+465	TUTT a6	na	Yach	8.0932, 48.15752	āgischt	na	999	agerscht	na	999	Agerst	na	999
+466	TUTT S21	na	Schachen	8.09406, 47.60368	ägesta	na	999	ägeschte	na	999	Agerst	na	999
+467	TUTT w2	na	Hinterzarten	8.10487, 47.90631	agerschte	na	999	agerschte	na	999	Agerst	na	999
+468	TUTT S17	III_16_0146	Albert, Albbruck-Albert	8.11012, 47.58535	ägeste	ägerste	1	ägeschte	ägerschte	1	Agerst	Agerst	0
+469	TUTT w6	na	Altglashütten	8.11016, 47.85701	egiste	na	999	egerschte	na	999	Agerst	na	999
+470	TÜB L4	III_11_0137	Fischerbach, Fischerbach	8.11097, 48.28707	ageschd	agescht	1	agescht	agerscht	1	Agerst	Agerst	0
+471	TUTT S15	III_16_0142	Buch über Waldshut, Buch	8.11336, 47.61399	ägeschte	egerschte	2	ägeschte	egerschte	2	Agerst	Agerst	0
+472	TUTT h5	na	Wildgutach	8.11606, 48.0323	agescht	na	999	agerscht	na	999	Agerst	na	999
+473	TÜB h15	na	Kappelrodeck	8.11791, 48.59087	ägerscht	na	999	ägerscht	na	999	Agerst	na	999
+474	TÜB S5	III_12_0061, III_12_0062, III_12_0063	Unterprechtal, Oberprechtal, Unterprechtal	8.12114, 48.20548	ageschde	ageschte, ageschde	0	ageschte	ageschte	0	Agerst	Agerst	0
+475	TUTT S14	na	Birndorf	8.13384, 47.62519	ägeschte	na	999	ägeschte	na	999	Agerst	na	999
+476	TUTT h4	na	(Alt)Glashütte	8.13564, 48.0008	agescht	na	999	agerscht	na	999	Agerst	na	999
+477	TUTT S12	III_16_0135	Unteralpfen, Unteralpfen	8.13573, 47.64543	ǟgerschde	agerschte	2	ägerschte	agerschte	1	Agerst	Agerst	0
+478	TUTT h6	na	Gütenbach	8.13807, 48.04398	agescht	na	999	agerscht	na	999	Agerst	na	999
+479	TUTT p7,8	na	(Breitnau-)Eckbach	8.13811, 47.9479	ägerschd	na	999	ägerscht	na	999	Agerst	na	999
+480	TUTT S13	III_16_0169	Birkingen, Birkingen	8.1477, 47.62511	ägeste	eggeste	2	ägeschte	egeschte	1	Agerst	Agerst	0
+481	TUTT w1/2	na	Titisee	8.14936, 47.90254	ägerschd	na	999	ägerscht	na	999	Agerst	na	999
+482	TUTT S11	III_16_0136	Oberalpfen, Oberalpfen	8.15262, 47.65791	ägerschde	ägerschte	1	ägerschte	ägerschte	0	Agerst	Agerst	0
+483	TUTT a5	na	Rohrhardsberg	8.16036, 48.1327	agescht	na	999	agerscht	na	999	Agerst	na	999
+484	TUTT q1	na	Waldau	8.16331, 47.98172	aggerscht	na	999	agerscht	na	999	Agerst	na	999
+485	TUTT L14, TUTT L13	III_15_0123	Remetschwiel und Bannholz, Bannholz, Bannholz	8.167, 47.67614	ägester	ägerste	2	ägeschte	ägerschte	1	Agerst	Agerst	0
+486	TÜB M5	na	Hausach und Einbach	8.16759, 48.2974	āgedschd	na	999	agetscht	na	999	Agerst	na	999
+487	TUTT T4	III_16_0147	Waldkirch, Waldkirch	8.17132, 47.65851	ägischte	ägersta	5	ägerschte	ägerschte	0	Agerst	Agerst	0
+488	TÜB M6	III_11_0141, III_11_0142	Hausach, Hausach	8.17189, 48.28424	aagedschd	aagetschd, agetscht	1	agetscht	agetscht	0	Agerst	Agerst	0
+489	TUTT i5	na	Neukirch	8.17383, 48.02447	agerschd	na	999	agerscht	na	999	Agerst	na	999
+490	TUTT x3	na	Saig	8.17667, 47.89199	ägerst	na	999	ägerscht	na	999	Agerst	na	999
+491	TUTT D3	na	Blasiwald (Am Schluchsee)	8.17706, 47.7987	egerste	na	999	egerschte	na	999	Agerst	na	999
+492	TUTT T5	III_16_0158	Eschbach, Eschbach	8.18086, 47.6336	ägrschd	äggerschde̍	4	ägerscht	ägerschte	1	Agerst	Agerst	0
+493	TUTT M15	III_15_0114	Bierbronnen, Bierbronnen	8.18848, 47.6749	ägeste	ärgeste	1	ägeschte	ägerschte	1	Agerst	Agerst	0
+494	TÜB T5	III_12_0069	Rensberg, Rensberg	8.1889, 48.17741	ágeschte	ageste	3	ageschte	ageschte	0	Agerst	Agerst	0
+495	TUTT T3	na	Schmitzingen	8.19315, 47.65491	ägischde	na	999	ägerschte	na	999	Agerst	na	999
+496	TUTT x4	III_14_0079	Lenzkirch und Kappel, Lenzkirch	8.20144, 47.8687	ägerscht	ägerscht	0	ägerscht	ägerscht	0	Agerst	Agerst	0
+497	TUTT b3	III_12_0161	Schonach, Schonach	8.20179, 48.14296	ā́geschde	ágesté	6	ageschte	ageschte	0	Agerst	Agerst	0
+498	TUTT b8	III_12_0167, III_12_0166, III_12_0168	Schönwald, Schönwald	8.20401, 48.10371	agest	ágeschte, ageschde	4	agerscht	ageschte	2	Agerst	Agerst	0
+499	TUTT i6	III_13_0091, III_13_0092	Furtwangen (und Furtwangen-Katzensteig), Furtwangen	8.20648, 48.05227	agerschde	agerschte, agerscht	1	agerschte	agerschte, agerscht	0	Agerst	Agerst	0
+500	TÜB M7	na	Gutach	8.21021, 48.25051	agerste	na	999	agerschte	na	999	Agerst	na	999
+501	TUTT E5	na	Staufen	8.21221, 47.75633	ägeste	na	999	ägeschte	na	999	Agerst	na	999
+502	TUTT x2	na	Neustadt	8.21309, 47.91261	agescht, egerscht	na	999	agerscht, egerscht	na	999	Agerst	na	999
+503	TUTT T7	na	Waldshut	8.21445, 47.6237	ägerste	na	999	ägerschte	na	999	Agerst	na	999
+504	TÜB M4	na	Oberwolfach	8.21698, 48.3174	agest	na	999	agerscht	na	999	Agerst	na	999
+505	TÜB M3/1	na	Wolfach	8.22076, 48.30289	āgerschde	na	999	agerschte	na	999	Agerst	na	999
+506	TÜB T1	III_12_0066	Hornberg, Hornberg	8.23036, 48.21193	ägerste	ägerste	0	ägerschte	ägerschte	0	Agerst	Agerst	0
+507	TUTT q9	na	Schwärzenbach	8.23987, 47.948	eggerst	na	999	egerscht	na	999	Agerst	na	999
+508	TUTT i1	III_13_0082	Rohrbach, Rohrbach	8.25784, 48.07437	ageschd	ageste	3	agerscht	ageschte	2	Agerst	Agerst	0
+509	TUTT b5	III_12_0152	Nussbach, Nussbach	8.25836, 48.13097	āgerschde	agerste	4	agerschte	agerschte	0	Agerst	Agerst	0
+510	TUTT E3	na	Grafenhausen	8.26186, 47.7749	ägeschter	na	999	ägeschte	na	999	Agerst	na	999
+511	TUTT i4	III_13_0088	Linach, Linach	8.26602, 48.02831	agerst	aggescht	4	agerscht	agerscht	0	Agerst	Agerst	0
+512	TUTT M7	na	Hürrlingen	8.28505, 47.72465	ägerschte	na	999	ägerschte	na	999	Agerst	na	999
+513	TUTT M8	na	Riedern im Wald	8.29113, 47.71786	egerschde, ägerschde	na	999	egerschte	na	999	Agerst	na	999
+514	TUTT x1	na	Rötenbach	8.29448, 47.89247	ägerscht	na	999	ägerscht	na	999	Agerst	na	999
+515	TUTT T12	III_16_0164	Unterlauchringen, Unterlauchringen	8.30394, 47.63095	ägerstå	ägerste	1	ägerschte	ägerschte	0	Agerst	Agerst	0
+516	TUTT M10	na	Krenkingen	8.30454, 47.68312	ärgeste	na	999	ägerschte	na	999	Agerst	na	999
+517	TUTT T16	na	Rheinheim	8.30495, 47.58771	ägeschte	na	999	ägeschte	na	999	Agerst	na	999
+518	TUTT x7	III_14_0077	Göschweiler, Göschweiler	8.31065, 47.85812	ǟgerscht	äggerst	4	ägerscht	ägerscht	0	Agerst	Agerst	0
+519	TUTT T11	III_15_0118	Detzeln, Detzeln	8.32062, 47.66643	ärgeste	ergeste	1	ägerschte	ägeschte	1	Agerst	Agerst	0
+520	TUTT T13	na	Oberlauchringen	8.32685, 47.62036	ergeschta	na	999	ägeschte	na	999	Agerst	na	999
+521	TUTT F2	na	Bonndorf	8.34216, 47.8198	egeschter	na	999	egeschte	na	999	Agerst	na	999
+522	TUTT y2	na	Löffingen	8.34547, 47.8844	egerscht	na	999	egerscht	na	999	Agerst	na	999
+523	TUTT F4	III_36_0005	Wittlekoffen, Wittlekoffen	8.34635, 47.78326	ägerschte	ägerschte	0	ägerschte	ägerschte	0	Agerst	Agerst	0
+524	TUTT U4	na	Horheim	8.34737, 47.64854	ärgeschde	na	999	ägerschte	na	999	Agerst	na	999
+525	TUTT y3	III_35_0003	Seppenhofen, Seppenhofen	8.34864, 47.8748	ägerst	ägerst	0	ägerscht	ägerscht	0	Agerst	Agerst	0
+526	TUTT y4	III_35_0002	Reiselfingen, Reiselfingen	8.35108, 47.85467	egerschte	egest	4	egerschte	egescht	2	Agerst	Agerst	0
+527	TUTT F3	III_36_0006	Wellendingen, Wellendingen	8.35185, 47.79705	ǟgerschte	ägerschte	1	ägerschte	ägerschte	0	Agerst	Agerst	0
+528	TUTT r4	III_34_0017	Unterbränd, Unterbränd	8.35693, 47.93373	ägerscht	ägerste	3	ägerscht	ägerschte	1	Agerst	Agerst	0
+529	TUTT F6	III_36_0014	Bettmaringen, Bettmaringen	8.36102, 47.75368	ăggestå	ägersta	4	ageschte	ägerschte	2	Agerst	Agerst	0
+530	TUTT y1	III_35_0004	Dittishausen, Dittishausen	8.36266, 47.90077	egerst	ägerst	1	egerscht	ägerscht	1	Agerst	Agerst	0
+531	TUTT U14	na	Küßnach	8.36574, 47.59396	ergeschta	na	999	ägeschte	na	999	Agerst	na	999
+532	TUTT N8	na	Ofteringen	8.37663, 47.67838	ägerschte	na	999	ägerschte	na	999	Agerst	na	999
+533	TUTT F5	III_36_0015	Oberwangen u. Unterwangen, Oberwangen	8.3775, 47.7761	äggeste	ägeste	1	ägeschte	ägeschte	0	Agerst	Agerst	0
+534	TUTT F14	na	Brunnadern	8.38083, 47.79495	ägerschde	na	999	ägerschte	na	999	Agerst	na	999
+535	TUTT N9	III_37_0002	Degernau, Degernau	8.38187, 47.66635	ergeste	egester, ergeste	0	ägeschte	egeschte, ägeschte	0	Agerst	Agerst	0
+536	TUTT U13	na	Geißlingen	8.39181, 47.61975	ergeschde	na	999	ägeschte	na	999	Agerst	na	999
+537	TUTT U2	III_38_0001	Rechberg, Rechberg	8.39987, 47.6501	ärgeste	ergeschte	3	ägerschte	ägerschte	0	Agerst	Agerst	0
+538	TUTT r5	na	Waldhausen	8.4011, 47.92931	ägerscht	na	999	ägerscht	na	999	Agerst	na	999
+539	TUTT y11	III_35_0009	Bachheim, Bachheim	8.4031, 47.85931	äͤggerscht	ägerscht	2	ägerscht	ägerscht	0	Agerst	Agerst	0
+540	TUTT y10	na	Unadingen	8.40711, 47.88128	aegerscht	na	999	ägerscht	na	999	Agerst	na	999
+541	TUTT k8	na	Pfaffenweiler	8.41798, 48.03273	äggerscht	na	999	ägerscht	na	999	Agerst	na	999
+542	TUTT U1	III_38_0003, III_38_0002	Erzingen, Erzingen	8.42011, 47.66108	ergesta	ergeschtə, ergeste	1	ägeschte	ägeschte	0	Agerst	Agerst	0
+543	TUTT c8	na	Mönchweiler	8.42939, 48.09993	aggeescht	na	999	agerscht	na	999	Agerst	na	999
+544	TUTT y9	III_35_0006	Döggingen, Döggingen	8.43444, 47.8919	ägerschd	ägerscht	1	ägerscht	ägerscht	0	Agerst	Agerst	0
+545	TUTT y5	na	Ewattingen	8.44464, 47.83863	egerstå	na	999	egerschte	na	999	Agerst	na	999
+546	TUTT N1	III_37_0009	Stühlingen, Stühlingen	8.44659, 47.74541	ägerste	ägerste	0	ägerschte	ägerschte	0	Agerst	Agerst	0
+547	TUTT r6	III_34_0004, III_34_0003	Bräunlingen, Bräunlingen	8.44765, 47.9301	ägerscht	egerste, ägerste	3	ägerscht	ägerschte, egerschte	1	Agerst	Agerst	0
+548	TUTT k1	na	Vilingen	8.45901, 48.0567	egeschder	na	999	egeschte	na	999	Agerst	na	999
+549	TUTT F8	na	Weizen	8.46354, 47.77888	ägerschde	na	999	ägerschte	na	999	Agerst	na	999
+550	TUTT y7	III_35_0001	Mundelfingen, Mundelfingen	8.46432, 47.8676	ägerscht	ägerst	2	ägerscht	ägerscht	0	Agerst	Agerst	0
+551	TUTT U8	na	Bühl	8.4644, 47.61616	ärgäste	na	999	ägeschte	na	999	Agerst	na	999
+552	TUTT k5	III_33_0008	Klengen, Klengen	8.46686, 48.00388	äggerschd	äggerscht	1	ägerscht	ägerscht	0	Agerst	Agerst	0
+553	TUTT k3	na	Marbach	8.47117, 48.03143	äggest	na	999	ägerscht	na	999	Agerst	na	999
+554	TUTT y6	III_35_0008	Achdorf-Aselfingen, Achdorf	8.48733, 47.84	ägerschde	ägerschder	1	ägerschte	ägerschte	0	Agerst	Agerst	0
+555	TUTT y8	III_35_0007	Hausen vor Wald, Hausen	8.49054, 47.89134	äggerschd	äggerscht	1	ägerscht	ägerscht	0	Agerst	Agerst	0
+556	TUTT F10	na	Blumegg	8.49815, 47.80904	eggerschde	na	999	egerschte	na	999	Agerst	na	999
+557	TUTT r8	III_34_0010, III_34_0007, III_34_0011, III_34_0013, III_34_0008, III_34_0009	Donaueschingen, Donaueschingen	8.50052, 47.95113	ägescht	egeschter, egerst, eggerste, ägerschd	2	ägerscht	egeschte, egerschte, ägerscht, egerscht	0	Agerst	Agerst	0
+558	TUTT z7	na	Eschach	8.50328, 47.86021	ägerscht	na	999	ägerscht	na	999	Agerst	na	999
+559	TUTT G1	III_36_0018, III_36_0017	Fützen, Fützen	8.5291, 47.80794	ägerschde	ägerschte, egerste	1	ägerschte	ägerschte, egerschte	0	Agerst	Agerst	0
+560	TUTT G2/1, TUTT G2/2	III_36_0019	Epfenhofen, Epfenhofen	8.55432, 47.81867	ägerschdä̆, ägarschd	ägersta	4	ägerschte, ägerscht	ägerschte	0	Agerst	Agerst	0
+561	TUTT s5	III_34_0018	Pfohren, Pfohren	8.55997, 47.9474	ägerst	ägerschde	4	ägerscht	ägerschte	1	Agerst	Agerst	0
+562	TUTT A1	na	Geisingen (Kirchenhausen)	8.65129, 47.93283	agest	na	999	agerscht	na	999	Agerst	na	999
+563	TUTT t4	na	Immendingen	8.73032, 47.95055	ägerscht	na	999	ägerscht	na	999	Agerst	na	999
+564	TUTT P3	na	Randegg	8.75435, 47.72246	ägerschte	na	999	ägerschte	na	999	Agerst	na	999
+565	TUTT P4	na	Gotttmadingen	8.77716, 47.73498	āgast	na	999	agerscht	na	999	Agerst	na	999
+566	KST n8	III_19_0047	Richen, Richen	8.94083, 49.17134	ägaste	ägastä	1	ägerschte	ägerschte	0	Agerst	Agerst	0
+567	na	III_15_0008	Brückensweiler	7.0684, 47.66973	na	agerschta	999	na	agerschte	999	na	Agerst	999
+568	na	III_13_0008	Metzeral	7.07146, 48.01325	na	eiersta	999	na	eierschte	999	na	Agerst	999
+569	na	III_15_0009	Diefmatten	7.11319, 47.70828	na	agersta	999	na	agerschte	999	na	Agerst	999
+570	na	III_13_0103	Bühl	7.18638, 47.92816	na	agerscht	999	na	agerscht	999	na	Agerst	999
+571	na	III_17_0005	Heimersdorf	7.24206, 47.57224	na	agerschde	999	na	agerschte	999	na	Agerst	999
+572	na	III_12_0083	Katzental	7.28497, 48.10796	na	aderscht	999	na	aderscht	999	na	Agerst	999
+573	na	III_13_0023	Hattstatt	7.30016, 48.0108	na	agerst	999	na	agerscht	999	na	Agerst	999
+574	na	III_12_0086	Ingersheim	7.30725, 48.0936	na	agerschte	999	na	agerschte	999	na	Agerst	999
+575	na	III_14_0127	Baldersheim	7.37806, 47.80152	na	agerschta	999	na	agerschte	999	na	Agerst	999
+576	na	III_10_0089	Börsch	7.43994, 48.47577	na	agerscht	999	na	agerscht	999	na	Agerst	999
+577	na	III_14_0037	Hirzfelden	7.4473, 47.90935	na	ågscht	999	na	agscht	999	na	Agerst	999
+578	na	III_16_0077	Rümmingen	7.64143, 47.64099	na	ägerschte	999	na	ägerschte	999	na	Agerst	999
+579	na	III_14_0143	Zunzingen	7.65195, 47.82164	na	egerste	999	na	egerschte	999	na	Agerst	999
+580	na	III_14_0153	Schweighof	7.69904, 47.80743	na	ägerschde	999	na	ägerschte	999	na	Agerst	999
+581	na	III_14_0049	Ballrechten	7.70076, 47.86061	na	ägeste	999	na	ägeschte	999	na	Agerst	999
+582	na	III_14_0062	Sulzburg	7.70727, 47.84122	na	egerster	999	na	egerschte	999	na	Agerst	999
+583	na	III_16_0101	Adelhausen	7.76116, 47.61477	na	ägerste	999	na	ägerschte	999	na	Agerst	999
+584	na	III_14_0151	Untermünstertal-Rotenbuck	7.79435, 47.84136	na	ä̳geste	999	na	ägeschte	999	na	Agerst	999
+585	na	III_12_0040	Tutschfelden	7.80659, 48.21534	na	ägerschte	999	na	ägerschte	999	na	Agerst	999
+586	na	III_14_0186	Elbenschwand	7.83139, 47.7509	na	ägeste	999	na	ägeschte	999	na	Agerst	999
+587	na	III_12_0132, III_12_0133	Emmendingen	7.84951, 48.1209	na	ägerste, ägeschter	999	na	ägerschte, ägeschte	999	na	Agerst	999
+588	na	III_11_0061	Kuhbach	7.90787, 48.33884	na	agerste	999	na	agerschte	999	na	Agerst	999
+589	na	III_14_0165	Geschwend	7.93964, 47.80434	na	ägerste	999	na	ägerschte	999	na	Agerst	999
+590	na	III_11_0128, III_11_0129, III_11_0127	Seelbach	7.94104, 48.30987	na	agerst, agerscht	999	na	agerscht	999	na	Agerst	999
+591	na	III_11_0131	Schuttertal	7.95562, 48.27087	na	aogerscht, ägerscht, agerscht	999	na	aogerscht, ägerscht, agerscht	999	na	Agerst	999
+592	na	III_12_0139	Waldkirch	7.96049, 48.09361	na	ägerschde	999	na	ägerschte	999	na	Agerst	999
+593	na	III_12_0141	Siensbach	7.98804, 48.10755	na	agästä	999	na	ageschte	999	na	Agerst	999
+594	na	III_16_0113	Niedergebisbach	7.99251, 47.65054	na	egester	999	na	egeschte	999	na	Agerst	999
+595	na	III_11_0125, III_11_0124	Prinzbach	8.0046, 48.32294	na	ageste, ageschde	999	na	ageschte	999	na	Agerst	999
+596	na	III_17_0058	Murg	8.02352, 47.55376	na	ägeste	999	na	ägeschte	999	na	Agerst	999
+597	na	III_16_0126	Segeten	8.02357, 47.65954	na	hägerschde	999	na	hägerschte	999	na	Agerst	999
+598	na	III_12_0059	Katzenmoos	8.03332, 48.167	na	ageste	999	na	ageschte	999	na	Agerst	999
+599	na	III_15_0097	Hartschwand	8.0655, 47.67119	na	ägerste	999	na	ägerschte	999	na	Agerst	999
+600	na	III_15_0109	Ibach	8.07077, 47.73259	na	ägester	999	na	ägeschte	999	na	Agerst	999
+601	na	III_16_0131	Niederwihl	8.07095, 47.61851	na	ägerschte	999	na	ägerschte	999	na	Agerst	999
+602	na	III_11_0136	Bollenbach	8.07369, 48.29315	na	agerst	999	na	agerscht	999	na	Agerst	999
+603	na	III_15_0096	Rotzingen	8.0762, 47.66588	na	ägerste	999	na	ägerschte	999	na	Agerst	999
+604	na	III_15_0101	Fröhnd	8.07717, 47.70011	na	ägester	999	na	ägeschte	999	na	Agerst	999
+605	na	III_16_0140	Hochsal	8.08003, 47.5887	na	ägeschde	999	na	ägeschte	999	na	Agerst	999
+606	na	III_16_0145	Albruck	8.14411, 47.60046	na	ägeste	999	na	ägeschte	999	na	Agerst	999
+607	na	III_15_0105	Remetschwiel	8.14553, 47.68929	na	ägeste	999	na	ägeschte	999	na	Agerst	999
+608	na	III_15_0113	Höchenschwand	8.16491, 47.73427	na	ägestä	999	na	ägeschte	999	na	Agerst	999
+609	na	III_15_0120	Attlisberg	8.16607, 47.72173	na	ägeste	999	na	ägeschte	999	na	Agerst	999
+610	na	III_16_0157	Dogern	8.17239, 47.60884	na	ägäschde	999	na	ägeschte	999	na	Agerst	999
+611	na	III_14_0177	Schluchsee	8.17828, 47.81706	na	egerscht	999	na	egerscht	999	na	Agerst	999
+612	na	III_15_0124	Nöggenschwiel	8.21364, 47.69246	na	egerschde	999	na	egerschte	999	na	Agerst	999
+613	na	III_12_0073	Reichenbach	8.22958, 48.21343	na	agescht	999	na	agerscht	999	na	Agerst	999
+614	na	III_13_0090	Schönenbach	8.23618, 48.04705	na	agerscht	999	na	agerscht	999	na	Agerst	999
+615	na	III_15_0125	Berau	8.25823, 47.69472	na	egerste	999	na	egerschte	999	na	Agerst	999
+616	na	III_14_0076	Holzschlag	8.26456, 47.84976	na	ägertsche	999	na	ägertsche	999	na	Agerst	999
+617	na	III_12_0071	Schwanenbach	8.26562, 48.1922	na	agerscht	999	na	agerscht	999	na	Agerst	999
+618	na	III_16_0154	Kadelburg	8.29552, 47.60851	na	ägerste, ärgeste	999	na	ägerschte	999	na	Agerst	999
+619	na	III_14_0078	Gündelwangen	8.29672, 47.84246	na	ägerste	999	na	ägerschte	999	na	Agerst	999
+620	na	III_13_0084	Vöhrenbach	8.30495, 48.04519	na	ägerster	999	na	ägerschte	999	na	Agerst	999
+621	na	III_15_0127	Uhlingen Ühlingen	8.31845, 47.7201	na	ägerste	999	na	ägerschte	999	na	Agerst	999
+622	na	III_16_0156	Reckingen	8.33116, 47.57477	na	ergischte	999	na	ägerschte	999	na	Agerst	999
+623	na	III_12_0155	St. Georgen	8.33183, 48.12564	na	aggerschde	999	na	agerschte	999	na	Agerst	999
+624	na	III_37_0001	Obermettingen	8.35956, 47.7213	na	ägäschte	999	na	ägeschte	999	na	Agerst	999
+625	na	III_38_0083	Lienheim	8.37469, 47.5721	na	ergeste	999	na	ägeschte	999	na	Agerst	999
+626	na	III_32_0001	Buchenberg	8.37655, 48.16035	na	aggerscht	999	na	agerscht	999	na	Agerst	999
+627	na	III_37_0006	Obereggingen	8.38631, 47.70175	na	egerst	999	na	egerscht	999	na	Agerst	999
+628	na	III_37_0004	Mauchen	8.39032, 47.73994	na	ärgesten	999	na	ägeschten	999	na	Agerst	999
+629	na	III_22_0004	Ettlingen	8.40245, 48.94247	na	ägerschte	999	na	ägerschte	999	na	Agerst	999
+630	na	III_36_0010, III_36_0008, III_36_0009	Dillendorf	8.40272, 47.79846	na	egerste	999	na	egerschte	999	na	Agerst	999
+631	na	III_36_0016	Schwaningen	8.42524, 47.77843	na	ägerste	999	na	ägerschte	999	na	Agerst	999
+632	na	III_37_0008	Eberfingen	8.42708, 47.72036	na	ärgerschde	999	na	ägerschte	999	na	Agerst	999
+633	na	III_36_0012	Lausheim	8.45286, 47.81178	na	egerschde	999	na	egerschte	999	na	Agerst	999
+634	na	III_31_0005	Tennenbronn	8.46043, 48.17227	na	agerst	999	na	agerscht	999	na	Agerst	999
+635	na	III_34_0019	Donaueschingen-Allmendshofen	8.50063, 47.9405	na	eggerscht	999	na	egerschte	999	na	Agerst	999
+636	na	III_33_0017, III_33_0016	Bad Dürrheim	8.53214, 48.01807	na	egest	999	na	egescht	999	na	Agerst	999
+637	na	III_35_0016	Fürstenberg	8.55367, 47.89124	na	ägestä	999	na	ägeschte	999	na	Agerst	999
+638	na	III_34_0038	Zimmern	8.71521, 47.94848	na	eggerscht	999	na	egerscht	999	na	Agerst	999
+639	na	III_33_0073	Unterkirnach	8.93786, 48.0371	na	agster	999	na	agschte	999	na	Agerst	999
+640	na	III_36_0055	Liggeringen	9.02698, 47.77495	na	ägerst	999	na	ägerscht	999	na	Agerst	999

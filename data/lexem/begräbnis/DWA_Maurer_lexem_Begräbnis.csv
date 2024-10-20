@@ -1,0 +1,114 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Co D3	III_14_0080	Rimbach-Pès-Masevaux), Rimbach	6.9473, 47.82212	bagrabnis	begräbnis	2	begrabnis	begräbnis	1	Begräbnis	Begräbnis	0
+1	Co p 2	na	Wildenstein bei Krüt, Kreis Tann	6.96296, 47.98143	begräbnis	na	999	begräbnis	na	999	Begräbnis	na	999
+2	Co w 2	III_14_0005	Fellerlingen (Fellering), Felleringen	6.98613, 47.89621	begräbnis	begräbnis	0	begräbnis	begräbnis	0	Begräbnis	Begräbnis	0
+3	Co D7	na	Masmünster (Masevaux)	6.99386, 47.7727	begräbniß	na	999	begräbnis	na	999	Begräbnis	na	999
+4	Co x 5	III_14_0009	St. Amarin, St. Amarin	7.03186, 47.87365	bagräbnis	bagrebnis	1	begräbnis	begräbnis	0	Begräbnis	Begräbnis	0
+5	Co E13	na	Rammersmatt	7.07084, 47.78935	bgräbnis	na	999	begräbnis	na	999	Begräbnis	na	999
+6	Hag x 1	III_4_0044	Silzheim (Siltzheim), Silzheim	7.09071, 49.0616	begräbnis	begräbnis	0	begräbnis	begräbnis	0	Begräbnis	Begräbnis	0
+7	Co T11	na	Mansbach (Manspach)	7.10508, 47.6176	begräbnis	na	999	begräbnis	na	999	Begräbnis	na	999
+8	Co M9	III_15_0009	Diefmatten Kreis Altkirch, Diefmatten	7.11319, 47.70828	begräbnis	begräbnis	0	begräbnis	begräbnis	0	Begräbnis	Begräbnis	0
+9	Co T3	na	Büttweiler (Buethwiller)	7.14982, 47.65627	begräbnis	na	999	begräbnis	na	999	Begräbnis	na	999
+10	Co T15	na	Ballersdorf	7.1624, 47.625	begräbnis	na	999	begräbnis	na	999	Begräbnis	na	999
+11	Co Ua 5	na	Largitzen	7.1873, 47.56163	begrebnis	na	999	begräbnis	na	999	Begräbnis	na	999
+12	Co N13	III_15_0029	Enschingen (Saint-Bernard), Enschingen	7.20293, 47.67101	begräbnis	begräbnis	0	begräbnis	begräbnis	0	Begräbnis	Begräbnis	0
+13	Co Ub 1	na	Dürlinsdorf (Durlinsdorf)	7.24121, 47.48531	begräbnis	na	999	begräbnis	na	999	Begräbnis	na	999
+14	Hag N 6	na	Strut (Struth)	7.25475, 48.89009	begräbnis	na	999	begräbnis	na	999	Begräbnis	na	999
+15	Co Ua 13	III_17_0010	Köstlach (Kœstlach), Köstlach	7.27085, 47.5062	begräbnis	begräbnis	0	begräbnis	begräbnis	0	Begräbnis	Begräbnis	0
+16	Co Ua 2	III_16_0036	Bettendorf, Bettendorf	7.27676, 47.58379	begräbnis	begräbnis	0	begräbnis	begräbnis	0	Begräbnis	Begräbnis	0
+17	Co F6	na	Lutterbach	7.28171, 47.7605	begrebnis	na	999	begräbnis	na	999	Begräbnis	na	999
+18	Co y 10	na	Rädersheim (Raedersheim)	7.28212, 47.88747	begräbnis	na	999	begräbnis	na	999	Begräbnis	na	999
+19	Co U 2	na	Lümschweiler (Luemschwiller) und Tagolsheim	7.28747, 47.65547	begräbnis	na	999	begräbnis	na	999	Begräbnis	na	999
+20	Co k 4	III_13_0019	Wettolsheim, Wettolsheim	7.30629, 48.06133	begrabnis	begräbnis	1	begrabnis	begräbnis	1	Begräbnis	Begräbnis	0
+21	Co Ua 3	III_16_0035	Weiler (Kreis Altkirch), Weiler	7.31925, 47.5857	begräbnis	begräbnis	0	begräbnis	begräbnis	0	Begräbnis	Begräbnis	0
+22	Co O8	na	Niedersteinbrunn (Steinbrunn-Le-Bas)	7.36609, 47.67219	begrabnis	na	999	begrabnis	na	999	Begräbnis	na	999
+23	Co V 11	III_16_0044	Jettingen, Jettingen	7.36877, 47.59592	begräbnis	begräbnis	0	begräbnis	begräbnis	0	Begräbnis	Begräbnis	0
+24	Co G6	na	Baldersheim	7.37806, 47.80152	begräbnis	na	999	begräbnis	na	999	Begräbnis	na	999
+25	Co Vd 2/1	na	Oltingen (Oltingue)	7.39411, 47.48862	begräbnis	na	999	begräbnis	na	999	Begräbnis	na	999
+26	Stra e 18	na	Reutenburg	7.4064, 48.68515	begrabnis	na	999	begrabnis	na	999	Begräbnis	na	999
+27	Co Va 1	III_17_0024	Oberranspach (Ranspach-le-Haut), Oberranspach	7.4175, 47.57697	begräbnis	begräbnis	0	begräbnis	begräbnis	0	Begräbnis	Begräbnis	0
+28	Co V 8	na	Stetten	7.42942, 47.6261	begräbnis	na	999	begräbnis	na	999	Begräbnis	na	999
+29	Stra t 15/1	III_10_0006	Flexburg, Flexburg	7.43177, 48.57213	begräbnis	begroebnis	2	begräbnis	begräbnis	0	Begräbnis	Begräbnis	0
+30	Stra A 8	na	Heiligenstein	7.45184, 48.41784	begrabnis	na	999	begrabnis	na	999	Begräbnis	na	999
+31	Stra t 2/1, Stra t 2/2	na	Bergbieten	7.45869, 48.57632	begrabnis	na	999	begrabnis	na	999	Begräbnis	na	999
+32	Hag G 3	na	Reipertsweiler (Reipertswiller)	7.46373, 48.93214	begräbnis	na	999	begräbnis	na	999	Begräbnis	na	999
+33	Co Va 6	III_17_0022	Oberhagental (Hagenthal-le-Haut), Oberhagental	7.46966, 47.52221	begräbnis	begrabnis	1	begräbnis	begrabnis	1	Begräbnis	Begräbnis	0
+34	Co P10/2	na	Kembs	7.50399, 47.6877	begräbnis	na	999	begräbnis	na	999	Begräbnis	na	999
+35	Co W 17	na	Hüningen (Huningue)	7.58374, 47.5912	begrabnis	na	999	begrabnis	na	999	Begräbnis	na	999
+36	Stra X 6	na	Saasenheim	7.61664, 48.23405	begräbnis	na	999	begräbnis	na	999	Begräbnis	na	999
+37	Stra u 5	na	Oberschäffolsheim	7.65236, 48.5868	begrebnis	na	999	begräbnis	na	999	Begräbnis	na	999
+38	Stra K 8	na	Gerstheim	7.69824, 48.38295	begräbnis	na	999	begräbnis	na	999	Begräbnis	na	999
+39	Stra h 10	na	Kilstett	7.85798, 48.67473	begrabnis	na	999	begrabnis	na	999	Begräbnis	na	999
+40	Stra p 3	na	Honau	7.87132, 48.64025	begräbnis	na	999	begräbnis	na	999	Begräbnis	na	999
+41	KST S6	na	Ludwigsfeste (bei Roeschwoog) (Fort-Louis)	8.05803, 48.80321	begräbnis	na	999	begräbnis	na	999	Begräbnis	na	999
+42	na	III_14_0006	Hüssern-Wesserling	6.98836, 47.88519	na	begräbnis	999	na	begräbnis	999	na	Begräbnis	999
+43	na	III_14_0007	Mitzach	7.00519, 47.87122	na	begräbnis	999	na	begräbnis	999	na	Begräbnis	999
+44	na	III_14_0088	Oberburbach	7.02973, 47.7953	na	begrabnis	999	na	begrabnis	999	na	Begräbnis	999
+45	na	III_14_0011	Moosch	7.04865, 47.86081	na	begre̠bnis	999	na	begräbnis	999	na	Begräbnis	999
+46	na	III_6_0005	Diedendorf	7.04974, 48.87869	na	begräbnis	999	na	begräbnis	999	na	Begräbnis	999
+47	na	III_15_0007	St. Kosman	7.06248, 47.68339	na	begräbnis	999	na	begräbnis	999	na	Begräbnis	999
+48	na	III_14_0012	Weiler	7.07073, 47.84351	na	begräbnis	999	na	begräbnis	999	na	Begräbnis	999
+49	na	III_4_0053	Herbitzheim	7.08355, 49.01459	na	begräbnis	999	na	begräbnis	999	na	Begräbnis	999
+50	na	III_16_0017	Retzweiler	7.09315, 47.63072	na	begräbnis	999	na	begräbnis	999	na	Begräbnis	999
+51	na	III_16_0007	Wolfersdorf	7.1132, 47.63625	na	begräbnis	999	na	begräbnis	999	na	Begräbnis	999
+52	na	III_6_0011	Hirschland	7.11324, 48.83701	na	begräbnis	999	na	begräbnis	999	na	Begräbnis	999
+53	na	III_16_0002	Altenach	7.11466, 47.60658	na	begräbnis	999	na	begräbnis	999	na	Begräbnis	999
+54	na	III_6_0007	Eschweiler	7.11652, 48.8596	na	begräbnis	999	na	begräbnis	999	na	Begräbnis	999
+55	na	III_16_0003	St. Ulrich	7.11911, 47.59537	na	begräbnis	999	na	begräbnis	999	na	Begräbnis	999
+56	na	III_16_0018	Dammerkirch	7.1214, 47.63024	na	begräbnis	999	na	begräbnis	999	na	Begräbnis	999
+57	na	III_14_0095	Alttann	7.12206, 47.80704	na	begråbnis	999	na	begrabnis	999	na	Begräbnis	999
+58	na	III_16_0004	Gommersdorf	7.13318, 47.64299	na	begräbnis	999	na	begräbnis	999	na	Begräbnis	999
+59	na	III_15_0011	Gildweiler	7.13461, 47.6894	na	begräbnis	999	na	begräbnis	999	na	Begräbnis	999
+60	na	III_17_0002	Friesen	7.15001, 47.56535	na	begräbnis	999	na	begräbnis	999	na	Begräbnis	999
+61	na	III_13_0101	Murbach	7.1604, 47.92318	na	begräbnis	999	na	begräbnis	999	na	Begräbnis	999
+62	na	III_13_0109	Winzfelden	7.19806, 47.97442	na	begrabnis	999	na	begrabnis	999	na	Begräbnis	999
+63	na	III_14_0022	Sulz	7.22862, 47.88613	na	begrabnis	999	na	begräbnis	999	na	Begräbnis	999
+64	na	III_17_0005	Heimersdorf	7.24206, 47.57224	na	begräbnis	999	na	begräbnis	999	na	Begräbnis	999
+65	na	III_10_0086	Natzweiler	7.25895, 48.43628	na	begräbnis	999	na	begräbnis	999	na	Begräbnis	999
+66	na	III_16_0026	Walheim	7.26432, 47.63975	na	begräbnis	999	na	begräbnis	999	na	Begräbnis	999
+67	na	III_15_0015	Illfurt	7.26494, 47.67073	na	begräbnis	999	na	begräbnis	999	na	Begräbnis	999
+68	na	III_17_0064	Bendorf	7.2816, 47.48759	na	begräbnis	999	na	begräbnis	999	na	Begräbnis	999
+69	na	III_16_0042	Zässingen	7.3676, 47.62375	na	begräbnis	999	na	begräbnis	999	na	Begräbnis	999
+70	na	III_8_0045	Singrist	7.38757, 48.6705	na	begrabnis	999	na	begrabnis	999	na	Begräbnis	999
+71	na	III_11_0094	Kinzheim	7.39476, 48.25441	na	begräbnis	999	na	begräbnis	999	na	Begräbnis	999
+72	na	III_10_0021	Rosenweiler	7.4409, 48.50587	na	begräbnis	999	na	begräbnis	999	na	Begräbnis	999
+73	na	III_7_0052	Riedheim	7.47956, 48.81064	na	begrabnis, begräbnis	999	na	begräbnis	999	na	Begräbnis	999
+74	na	III_8_0033	Lupstein	7.48491, 48.73763	na	begrabnis	999	na	begrabnis	999	na	Begräbnis	999
+75	na	III_17_0027	Buschweiler	7.50989, 47.55993	na	begräbnis	999	na	begräbnis	999	na	Begräbnis	999
+76	na	III_8_0061	Willgottheim	7.51166, 48.67082	na	begräbnis	999	na	begräbnis	999	na	Begräbnis	999
+77	na	III_17_0035	Hegenheim	7.52344, 47.56115	na	begräbnis	999	na	begräbnis	999	na	Begräbnis	999
+78	na	III_14_0134	Neuenburg	7.56012, 47.81393	na	begräbnis	999	na	begräbnis	999	na	Begräbnis	999
+79	na	III_9_0036	Quatzenheim	7.57372, 48.62636	na	begrabnis	999	na	begrabnis	999	na	Begräbnis	999
+80	na	III_11_0101	Bindernheim	7.60713, 48.28366	na	begräbnis	999	na	begräbnis	999	na	Begräbnis	999
+81	na	III_9_0029	Truchtersheim	7.60723, 48.66319	na	begrabnis	999	na	begrabnis	999	na	Begräbnis	999
+82	na	III_4_0080	Obersteinbach	7.69364, 49.03549	na	begräbnis	999	na	begräbnis	999	na	Begräbnis	999
+83	na	III_5_0076	Görsdorf	7.76782, 48.95111	na	begräbnis	999	na	begräbnis	999	na	Begräbnis	999
+84	na	III_12_0118	Nimburg	7.77794, 48.10762	na	begräbnis	999	na	begräbnis	999	na	Begräbnis	999
+85	na	III_12_0042	Bleichheim	7.8306, 48.20842	na	begrabnis	999	na	begrabnis	999	na	Begräbnis	999
+86	na	III_10_0051	Odelshofen	7.88021, 48.56001	na	begräbnis	999	na	begräbnis	999	na	Begräbnis	999
+87	na	III_12_0139	Waldkirch	7.96049, 48.09361	na	begräbnis	999	na	begräbnis	999	na	Begräbnis	999
+88	na	III_11_0071	Fußbach	8.01836, 48.36476	na	begräbnis	999	na	begräbnis	999	na	Begräbnis	999
+89	na	III_11_0126	Schönberg	8.0327, 48.36461	na	begräbnis	999	na	begräbnis	999	na	Begräbnis	999
+90	na	III_6_0087	Niederrödern	8.04105, 48.90576	na	begräbnis	999	na	begräbnis	999	na	Begräbnis	999
+91	na	III_5_0125	Siegen	8.04269, 48.9581	na	begräbnis	999	na	begräbnis	999	na	Begräbnis	999
+92	na	III_16_0132	Rüßwihl	8.07093, 47.63063	na	begräbnis	999	na	begräbnis	999	na	Begräbnis	999
+93	na	III_6_0095	Beinheim	8.08253, 48.86153	na	begräbnis	999	na	begräbnis	999	na	Begräbnis	999
+94	na	III_9_0100	Obersasbach	8.10713, 48.63223	na	begräbnis	999	na	begräbnis	999	na	Begräbnis	999
+95	na	III_11_0077	Oberharmersbach	8.12723, 48.37386	na	begräbnis	999	na	begräbnis	999	na	Begräbnis	999
+96	na	III_11_0151	Halbmeil	8.27063, 48.29042	na	begräbnis	999	na	begräbnis	999	na	Begräbnis	999
+97	na	III_38_0008	Küssnach	8.36574, 47.59396	na	begräbnis	999	na	begräbnis	999	na	Begräbnis	999
+98	na	III_35_0005	Unadingen	8.40711, 47.88128	na	begräbnis	999	na	begräbnis	999	na	Begräbnis	999
+99	na	III_24_0025	Steinegg	8.79091, 48.81349	na	begräbnis	999	na	begräbnis	999	na	Begräbnis	999
+100	na	II_59_0095	Rockenau	8.99904, 49.44673	na	begräbnis	999	na	begräbnis	999	na	Begräbnis	999
+101	na	III_37_0032	Allensbach	9.06699, 47.71535	na	begräbnis	999	na	begräbnis	999	na	Begräbnis	999
+102	na	III_20_0066	Schluchtern	9.1026, 49.14843	na	begräbnis	999	na	begräbnis	999	na	Begräbnis	999
+103	na	III_35_0061	Sentenhart	9.12618, 47.91369	na	begräbnis	999	na	begräbnis	999	na	Begräbnis	999
+104	na	II_60_0083	Neckarburken	9.165, 49.37662	na	begräbnis	999	na	begräbnis	999	na	Begräbnis	999
+105	na	II_89_0005	Ebenheid	9.36095, 49.7158	na	begräbnis	999	na	begräbnis	999	na	Begräbnis	999
+106	na	III_37_0054	Markdorf	9.38933, 47.72088	na	begräbnis	999	na	begräbnis	999	na	Begräbnis	999
+107	na	II_89_0012	Sonderriet	9.43938, 49.71753	na	begräbnis	999	na	begräbnis	999	na	Begräbnis	999
+108	na	II_88_0014	Grünenwört	9.47135, 49.77438	na	begräbnis	999	na	begräbnis	999	na	Begräbnis	999
+109	na	II_91_0008	Pülfringen	9.52624, 49.58149	na	begräbnis	999	na	begräbnis	999	na	Begräbnis	999
+110	na	II_91_0010	Buch	9.55592, 49.53858	na	begräbnis	999	na	begräbnis	999	na	Begräbnis	999
+111	na	II_89_0035	Werbachhausen	9.67954, 49.67946	na	begräbnis	999	na	begräbnis	999	na	Begräbnis	999
+112	na	II_92_0027	Dainbach	9.71553, 49.49662	na	begräbnis	999	na	begräbnis	999	na	Begräbnis	999

@@ -1,0 +1,6 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Co f 9	III_12_0119	Forchheim, Forchheim	7.7031, 48.16341	nīĕler	niäler	2	nieler	nieler	0	Nuler	Nuler	0
+1	Co u 2	na	Wittnau	7.814, 47.94661	nueler	na	999	nueler	na	999	Nuler	na	999
+2	TÜB L2	III_11_0133	Unterentersbach, Unterentersbach	8.05965, 48.32962	nurler	nurler	0	nurler	nurler	0	Nuler	Nuler	0
+3	TÜB L9	na	Hofstetten	8.0713, 48.26094	nuehler	na	999	nueler	na	999	Nuler	na	999
+4	na	III_33_0005, III_33_0004, III_33_0003	Pfaffenweiler	8.41798, 48.03273	na	nueli	999	na	nueli	999	na	Nuler	999

@@ -1,0 +1,49 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_maurer_align	item_DWA	item_DWA_align	Levenshtein_item
+0	KST D2	III_5_0122	Salmbach (bei Weißenburg), Salmbach	8.07143, 48.97818	saachemsa	s aa ch e m s a	saacheemse	s aa ch e e m s e	2
+1	KST D8	III_5_0114	Winzenbach (Winthenbach), Winzenbach	8.1038, 48.9341	sächemse	s ä ch e m s e	sachemase	s a ch e m a s e	2
+2	KST D3/1, KST D3/3	III_5_0121	Niederlauterbach, Niederlauterbach	8.10398, 48.97233	sāchemse	s ā ch e m s e	sachems	s a ch e m s	2
+3	KST D4	III_5_0120, III_5_0119	Scheibenhard, Scheibenhardt, Scheibenhard	8.13481, 48.97663	sächemse	s ä ch e m s e	sächems	s ä ch e m s	1
+4	KST D6	III_5_0117	Motern (Mothern), Motern	8.15128, 48.93354	saichämse	s a i ch ä m s e	saichhämse	s a i chh ä m s e	1
+5	TÜB c8	III_25_0003, III_25_0004	Forbach, Forbach	8.3589, 48.67857	saichhämes	s a i chh ä m e s	saichhemes	s a i chh e m e s	1
+6	TÜB c5	III_25_0002	Langenbrand, Langenbrand	8.36334, 48.70441	saichhämise	s a i chh ä m i s e	saichhämese	s a i chh ä m e s e	1
+7	MH C4	II_58_0116	Schloßau, Schloßau	9.15226, 49.53935	säichemez	s ä i ch e m e z	säichemetz	s ä i ch e m e tz	1
+8	MH D2	II_58_0107	Donebach, Donebach	9.19217, 49.56113	sǟïchemez	s ǟ ï ch e m e z	zēichēmez	z ē i ch ē m e z	4
+9	MH D3	II_58_0108	Mudau, Mudau	9.20615, 49.53336	säichemeds	s ä i ch e m e d s	säichemes	s ä i ch e m e s	1
+10	MH M2	II_59_0119	Laudenberg, Laudenberg	9.21457, 49.48066	såchemeetze	s å ch e m ee tz e	so͡aichemetz	s o ͡ a i ch e m e tz	6
+11	MH n1	II_55_0128, II_55_0129	Freudenberg, Freudenberg	9.32533, 49.75145	sachimmelse	s a ch i mm e l s e	saachimertse	s aa ch i m e r t s e	4
+12	MH o5	II_89_0011, II_89_0010, II_89_0009	Sachsenhausen, Sachsenhausen	9.49147, 49.73223	seichemes	s ei ch e m e s	seichhemes	s ei chh e m e s	1
+13	MH O2	II_92_0011	Hirschlanden, Hirschlanden	9.50074, 49.47297	zachelemes	z a ch e l e m e s	zachemes	z a ch e m e s	2
+14	MH F4	II_91_0007	Gerichtstetten, Gerichtstetten	9.5049, 49.53499	sāchēmēs	s ā ch ē m ē s	sachēmes	s a ch ē m e s	2
+15	MH O1	II_92_0010	Hohenstadt, Hohenstadt	9.51685, 49.49168	sachīmes	s a ch ī m e s	sachiemes	s a ch ie m e s	2
+16	MH p1	II_89_0018	Waldenhausen, Waldenhausen	9.52298, 49.74357	sachhēmese	s a chh ē m e s e	sachemese	s a ch e m e s e	2
+17	MH p5	II_89_0024	Külsheim, Külsheim	9.5236, 49.66947	sirchemes	s i r ch e m e s	sachemetz	s a ch e m e tz	4
+18	MH x7	II_90_0009	Schweinberg, Schweinberg	9.52459, 49.61864	saachhemez	s aa ch h e m e z	sachhemes	s a chh e m e s	2
+19	MH g4	II_88_0022	Bettingen, Bettingen	9.5642, 49.77261	sachamesse	s a ch a m e ss e	saachhammessa	s aa ch h a m m e s s a	4
+20	MH p13	II_89_0019	Urphar, Urphar	9.5706, 49.74798	sǟchēmăsă	s ǟ ch ē m ă s ă	sächemesa	s ä ch e m e s a	4
+21	MH g2	II_88_0023	Lindelbach, Lindelbach	9.58346, 49.75732	sächhamasa	s ä chh a m a s a	sächhamesa	s ä chh a m e s a	1
+22	MH x1	II_90_0010	Eiersheim, Eiersheim	9.58787, 49.65953	săchēmes	s ă ch ē m e s	sachemes	s a ch e m e s	2
+23	MH p12	II_89_0020	Dietenhan, Dietenhan	9.6066, 49.74297	sachames	s a ch a m e s	saachhamesa	s aa ch h a m e s a	3
+24	MH g1	II_88_0024	Dertingen über Wertheim a.M., Dertingen	9.61957, 49.7665	zächamasa	z ä ch a m a s a	sächhāmāsā	s ä chh ā m ā s ā	5
+25	MH p11a/2, MH p11a/1	II_89_0021	Kembach, Kembach	9.62461, 49.74217	sachhamesse	s a chh a m e s s e	saachhamasa	s aa ch h a m a s a	4
+26	MH q2	II_89_0034	Wenkheim, Wenkheim	9.70149, 49.70022	sächhamäsä	s ä chh a m ä s ä	sechhamese	s e chh a m e s e	3
+27	MH y2	II_90_0025	Paimar, Paimar	9.75368, 49.6402	särchamsa	s ä r ch a m s a	sächemse	s ä ch e m s e	3
+28	MH q4	II_89_0040	Gerchsheim, Gerchsheim	9.78301, 49.70681	sächamse	s ä ch a m s e	sächamsa	s ä ch a m s a	1
+29	MH y10	II_89_0042	Ilmspan, Ilmspan	9.79016, 49.66609	sâchamsa	s â ch a m s a	sächamsa	s ä ch a m s a	1
+30	MH G7/2, MH G7/1	II_91_0032	Oberbalbach, Oberbalbach	9.7938, 49.53997	sachemsch	s a ch e m sch	sachehmse	s a ch e h m s e	3
+31	MH y7	II_90_0131	Vilchband, Vilchband	9.82424, 49.58989	sāchames	s ā ch a m e s	sächamse	s ä ch a m s e	3
+32	MH ya2	II_90_0028	Unterwittighausen, Unterwittighausen	9.83878, 49.61344	sächams	s ä ch a m s	sächamse	s ä ch a m s e	1
+33	MH ya1/2, MH ya1/1	II_90_0030	Oberwittighausen, Oberwittighausen	9.85164, 49.62585	sächamza	s ä ch a m z a	sächemsa	s ä ch e m s a	2
+34	KST D3/1, KST D3/3	III_5_0121	Niederlauterbach, Niederlauterbach	8.10398, 48.97233	sachemsa	s a ch e m s a	sachems	s a ch e m s	1
+35	KST D3/1, KST D3/3	III_5_0121	Niederlauterbach, Niederlauterbach	8.10398, 48.97233	sāchemse	s ā ch e m s e	sachems	s a ch e m s	2
+36	TÜB c8	III_25_0003, III_25_0004	Forbach, Forbach	8.3589, 48.67857	saichhämes	s a i chh ä m e s	seichhemes	s ei chh e m e s	2
+37	TÜB c8	III_25_0003, III_25_0004	Forbach, Forbach	8.3589, 48.67857	saichhämes	s a i chh ä m e s	saichhemes	s a i chh e m e s	1
+38	MH o5	II_89_0011, II_89_0010, II_89_0009	Sachsenhausen, Sachsenhausen	9.49147, 49.73223	seichpemes	s ei ch p e m e s	saichpehmes	s a i ch p e h m e s	2
+39	MH o5	II_89_0011, II_89_0010, II_89_0009	Sachsenhausen, Sachsenhausen	9.49147, 49.73223	seichpemes	s ei ch p e m e s	seichhemes	s ei chh e m e s	1
+40	MH o5	II_89_0011, II_89_0010, II_89_0009	Sachsenhausen, Sachsenhausen	9.49147, 49.73223	seichemes	s ei ch e m e s	saichpehmes	s a i ch p e h m e s	3
+41	MH o5	II_89_0011, II_89_0010, II_89_0009	Sachsenhausen, Sachsenhausen	9.49147, 49.73223	seichemes	s ei ch e m e s	seichhemes	s ei chh e m e s	1
+42	MH p11a/2, MH p11a/1	II_89_0021	Kembach, Kembach	9.62461, 49.74217	sachhamese	s a chh a m e s e	saachhamasa	s aa ch h a m a s a	3
+43	MH p11a/2, MH p11a/1	II_89_0021	Kembach, Kembach	9.62461, 49.74217	sachhamesse	s a chh a m e s s e	saachhamasa	s aa ch h a m a s a	4
+44	MH G7/2, MH G7/1	II_91_0032	Oberbalbach, Oberbalbach	9.7938, 49.53997	sachemsa	s a ch e m s a	sachehmse	s a ch e h m s e	2
+45	MH G7/2, MH G7/1	II_91_0032	Oberbalbach, Oberbalbach	9.7938, 49.53997	sachemsch	s a ch e m sch	sachehmse	s a ch e h m s e	3
+46	MH ya1/2, MH ya1/1	II_90_0030	Oberwittighausen, Oberwittighausen	9.85164, 49.62585	sächamsa	s ä ch a m s a	sächemsa	s ä ch e m s a	1
+47	MH ya1/2, MH ya1/1	II_90_0030	Oberwittighausen, Oberwittighausen	9.85164, 49.62585	sächamza	s ä ch a m z a	sächemsa	s ä ch e m s a	2

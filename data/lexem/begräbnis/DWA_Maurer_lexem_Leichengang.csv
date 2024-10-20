@@ -1,0 +1,6 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	TÜB D7	na	Fußbach	8.01836, 48.36476	līchtegang	na	999	lichtegang	na	999	Leichengang	na	999
+1	TÜB L6	na	Bollenbach	8.07369, 48.29315	ljchtgang	na	999	lichtgang	na	999	Leichengang	na	999
+2	na	III_15_0057	Tannenkirch	7.6103, 47.71116	na	lichengang	999	na	lichengang	999	na	Leichengang	999
+3	na	III_17_0058	Murg	8.02352, 47.55376	na	liichegung	999	na	lichegang	999	na	Leichengang	999
+4	na	III_7_0134	Gernsbach	8.33578, 48.76294	na	leichengang	999	na	leichengang	999	na	Leichengang	999

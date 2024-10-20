@@ -1,0 +1,126 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Co M7	na	St Kosman (Saint-Cosme)	7.06248, 47.68339	schārnüaler	na	999	scharnüeler	na	999	Schärnuler	na	999
+1	Co T7	na	Wolfersdorf	7.1132, 47.63625	scharrnialer	na	999	scharnieler	na	999	Schärnuler	na	999
+2	Stra V 1, Stra U 1/2, Stra U 1/1	III_12_0002	Markich (Sainte-Marie-Aux-Marines), Markirch	7.17972, 48.24483	scharrnialer, scharniäler, scharrnealer	scharrnealer	0	scharnieler	scharnealer	2	Schärnuler	Schärnuler	0
+3	Co k 11	III_13_0027	Sulzbach (Soultzbach-Les-Bains), Sulzbach	7.20324, 48.03797	scharneiler	scharrnïeler	3	scharneiler	scharnieler	2	Schärnuler	Schärnuler	0
+4	Co k 9	III_13_0014	Weier (Wihr-Au-Val), Weier im Tal	7.20558, 48.05217	scharrnealer	scharrnealer	0	scharnieler	scharmaler	3	Schärnuler	Schärnuler	0
+5	Co y 13	III_14_0027	Gebweiler (Guebwiller) , Gebweiler	7.21078, 47.9095	scharnialer	scharnialer	0	scharnieler	scharnieler	0	Schärnuler	Schärnuler	0
+6	Co k 8	III_13_0013	Walbach, Walbach	7.22416, 48.06257	scharnialer	scharrnialer	1	scharnieler	scharnieler	0	Schärnuler	Schärnuler	0
+7	Co r 8/1, Co r 8/2	III_13_0108	Sulzmatt (Soultzmatt), Sulzmatt	7.23437, 47.96595	schārnialr, scharnialer	scharnialer	0	scharnieler	scharnieler	0	Schärnuler	Schärnuler	0
+8	Co r 7/1	na	Bergholzzell, Orschweier (Bergholtzzell, Orschwihr)	7.23501, 47.9292	scharniali	na	999	scharnieler	na	999	Schärnuler	na	999
+9	Co k 15	III_13_0012	Zimmerbach, Zimmerbach	7.23755, 48.07261	scharnealer	scharrniler	3	scharnieler	scharniler	1	Schärnuler	Schärnuler	0
+10	Co y 11	III_14_0029	Isenheim (Issenheim), Isenheim	7.25365, 47.90288	schārnialer	scharnialer	1	scharnieler	scharnieler	0	Schärnuler	Schärnuler	0
+11	Co r 3	III_13_0110	Westhalten, Westhalten	7.2595, 47.95742	schärnialla	schärnialle	1	schärnieler	schärnieler	0	Schärnuler	Schärnuler	0
+12	Co c 1	III_12_0081	Kaysersberg, Kaysersberg	7.2617, 48.13853	scharniälr	scharniäler	1	scharnieler	scharnieler	0	Schärnuler	Schärnuler	0
+13	Co c 6	na	Niedermorschweiher	7.27596, 48.09972	schallniēler	na	999	schalnieler	na	999	Schärnuler	na	999
+14	Co k 5	III_13_0025, III_13_0024	Geberschweiher (Gueberschwihr), Geberschweier	7.27661, 48.00444	scharnieller	scharnieller	0	scharnieler	scharnieler	0	Schärnuler	Schärnuler	0
+15	Co c 4	III_12_0085	Türkheim (Turckheim), Türkheim	7.27884, 48.0862	scharnïeler	scharniēhler	3	scharnieler	scharnieler	0	Schärnuler	Schärnuler	0
+16	Stra U 2, Stra O 5	III_11_0082	Leberau (Lièpvre), klein Leberau (Lièpvre), Leberau	7.28169, 48.2709	schārnieler, schārniälr	scharnieler	1	scharnieler	scharnieler	0	Schärnuler	Schärnuler	0
+17	Co y 10	III_14_0030	Rädersheim (Raedersheim), Rädersheim	7.28212, 47.88747	scharnieler	scharmieler	1	scharnieler	scharmieler	1	Schärnuler	Schärnuler	0
+18	Co k 13	III_13_0017	Vöklinshofen (Voegtlinshoffen), Vöklinshofen	7.28224, 48.01954	schārnialer	scharnialer	1	scharnieler	scharnialer	1	Schärnuler	Schärnuler	0
+19	Co c 12	III_12_0082	Ammerschweier, Ammerschweier	7.28484, 48.12465	scharrniēler	scharrnialer	1	scharnieler	scharnieler	0	Schärnuler	Schärnuler	0
+20	Co c 5	III_12_0083	Katzenthal, Katzental	7.28497, 48.10796	schärnueler	scharniǎllr	4	schärnueler	scharnieler	2	Schärnuler	Schärnuler	0
+21	Co c 7	III_12_0080	Kientzheim, Kientzheim	7.28695, 48.13649	schārnialr	schārnieler	2	scharnieler	scharnieler	0	Schärnuler	Schärnuler	0
+22	Co r 10/1, Co r 10/2	III_13_0111	Pfaffenheim, Pfaffenheim	7.2903, 47.98827	scharrnierla, scherrnierle	scharniele	3	scharnieler	scharnieler	0	Schärnuler	Schärnuler	0
+23	Co y 12	III_14_0032	Merxheim, Merxheim	7.29205, 47.91022	scharnialar	scharnieler	2	scharnieler	scharnieler	0	Schärnuler	Schärnuler	0
+24	Co r 5	III_13_0112	Gundolsheim, Gundolsheim	7.2942, 47.92837	schärnialer	scharnüeler	3	schärnieler	scharnüeler	2	Schärnuler	Schärnuler	0
+25	Co r 1	na	Rufach (Rouffach)	7.29696, 47.95968	schārnealer	na	999	scharnieler	na	999	Schärnuler	na	999
+26	Co c 2	na	Reichenweier (Riquewhir)	7.29975, 48.16568	scharnialer	na	999	scharnieler	na	999	Schärnuler	na	999
+27	Co k 6	III_13_0023	Hattstatt, Hattstatt	7.30016, 48.0108	schārnüehler	scharnialer	4	scharnüeler	scharnialer	2	Schärnuler	Schärnuler	0
+28	Co k 12	III_13_0022	Obermorschweier, Obermorschweier	7.30037, 48.01773	scharnialler	scheernialler	2	scharnieler	scharnieler	0	Schärnuler	Schärnuler	0
+29	Co c 9	III_12_0079	Sigolsheim, Sigolsheim	7.3035, 48.13267	scharnialer	scharrnierler	3	scharnieler	scharnieler	0	Schärnuler	Schärnuler	0
+30	Stra V 2, Stra V 3	III_12_0003	Glashütte, Tannenkirch (Thannenkirch), Tannenkirch	7.30397, 48.22949	schalnjëler, chalniēr	schalniëler	1	chalnier, schalnieler	schalnieler	0	Schärnuler	Schärnuler	0
+31	Co y 9	III_14_0031	Ungersheim, Ungersheim	7.30418, 47.87789	scharrniahler	scharnialer	2	scharnieler	scharnieler	0	Schärnuler	Schärnuler	0
+32	Co k 14	III_13_0020	Egisheim, Egisheim	7.30455, 48.04168	scharrnialer	scharrnialer	0	scharnieler	scharnieler	0	Schärnuler	Schärnuler	0
+33	Co k 4	III_13_0019	Wettolsheim, Wettolsheim	7.30629, 48.06133	scharnierla	scharrnierla	1	scharnieler	scharnieler	0	Schärnuler	Schärnuler	0
+34	Co c 10	na	Ingersheim	7.30725, 48.0936	schārnialer	na	999	scharnieler	na	999	Schärnuler	na	999
+35	Stra V 6	III_12_0006	Hunaweier (Hunawihr), Hunaweier	7.31671, 48.18091	schallnialer	scharnialer	2	schalnieler	scharnieler	1	Schärnuler	Schärnuler	0
+36	Stra V 5	III_12_0007	Zellenberg, Zellenberg	7.31874, 48.17063	schallnieler	scharnialer	3	schalnieler	scharnieler	1	Schärnuler	Schärnuler	0
+37	Co c 13	III_12_0076, III_12_0077	Mittelweier, Mittelweier	7.32094, 48.14982	scharrniarla	schalnierla, scharnierla, scharrniarla	0	scharnieler	scharnieler, schalnieler	0	Schärnuler	Schärnuler	0
+38	Co c 3	III_12_0075	Bebelnheim (Beblenheim), Bebelnheim	7.32264, 48.15802	schallnialr	scharrnialer, schallnialer	1	schalnieler	scharnieler, schalnieler	0	Schärnuler	Schärnuler	0
+39	Co c 8	III_12_0078	Bennweier, Bennweier	7.32417, 48.14496	scharniêler	scharnieler	1	scharnieler	scharnieler	0	Schärnuler	Schärnuler	0
+40	Stra V 4	III_12_0005	Rappoltsweiler (Ribeauvillé), Rappoltsweiler	7.32486, 48.19355	scharniäler	scharnialer	1	scharnieler	scharnieler	0	Schärnuler	Schärnuler	0
+41	Co k 10	III_13_0026	Herlisheim (Herrlisheim), Herlisheim	7.32932, 48.01677	schärnüeler	schernierler	3	scharnüeler	schernieler	2	Schärnuler	Schärnuler	0
+42	Co z 6	III_14_0036	Regisheim (Réguisheim), Regisheim	7.35308, 47.89742	schārnialer	scharnialer	1	scharnieler	scharnieler	0	Schärnuler	Schärnuler	0
+43	Co z 1	III_14_0034, III_14_0035	Ensisheim, Ensisheim	7.35432, 47.86522	schārniahler	scharniehler, schārnialr	2	scharnieler	scharnieler	0	Schärnuler	Schärnuler	0
+44	Stra W 4	III_12_0013	Bergheim, Bergheim	7.35777, 48.20604	scharnialer	scharnialer	0	scharnieler	scharnieler	0	Schärnuler	Schärnuler	0
+45	Co z 5	III_13_0115	Meienheim (Meyenheim), Meienheim	7.35924, 47.91132	scharnielr	scharnieler	1	scharnieler	scharnieler	0	Schärnuler	Schärnuler	0
+46	Stra W 7	III_12_0010, III_12_0012	Rohrschweier (Rorschwihr), Rohrschweier	7.36295, 48.21541	scharrnialr	schernialer, scharnialer	2	scharnieler	scharnieler, schernieler	0	Schärnuler	Schärnuler	0
+47	Co l 1/4, Co l 1/5, Co l 1/3, Co l 1/6	III_13_0030	Kolmar, Kolmar	7.36359, 48.08198	scharrnialer, schārnieler, scharrniǟler, scharnialer	scharnieler	1	scharnieler	scharnieler	0	Schärnuler	Schärnuler	0
+48	Co O9	III_15_0033	Mülhausen-Riedisheim, Mülhausen-Riedisheim	7.36836, 47.74966	scharnialer	scharnialer	0	scharnieler	scharnieler	0	Schärnuler	Schärnuler	0
+49	Co d 1	III_12_0088	Ostheim, Ostheim	7.37011, 48.1551	scharrnialer	schallnialer	2	scharnieler	schalnieler	1	Schärnuler	Schärnuler	0
+50	Co s 6, Co s 3	III_13_0116	Oberenzen (Oberentzen), Oberenzen, Oberenzen	7.37872, 47.94354	scharnierlr, schārrnialer	scharrnieler	2	scharnieler	scharnieler	0	Schärnuler	Schärnuler	0
+51	Co s 4	III_13_0117	Niederenzen, Niederenzen	7.38146, 47.94864	scharniallar	scharniallar	0	scharnieler	scharnieler	0	Schärnuler	Schärnuler	0
+52	Co l 3	na	Heiligkreuz (Sainte-Croix-en-Plaine)	7.3831, 48.00666	schārnealer	na	999	scharnieler	na	999	Schärnuler	na	999
+53	Co s 2	III_13_0118	Bilzheim (Biltzheim), Bilzheim	7.38657, 47.95675	scharnialer	schārnialer	1	scharnieler	scharnieler	0	Schärnuler	Schärnuler	0
+54	Stra W 5	III_12_0014	Gemar (Guémar), Gemar	7.39289, 48.18656	scharnialer	scharnialler	1	scharnieler	scharnieler	0	Schärnuler	Schärnuler	0
+55	Co l 6	na	Horburg (Horboug)	7.3934, 48.08116	schallnialer	na	999	schalnieler	na	999	Schärnuler	na	999
+56	Co s 7/2, Co s 7/3	III_13_0120	Oberhergheim, Oberhergheim	7.39442, 47.96547	scharniälr, scharrnieler	scharnieller	2	scharnieler	scharnieler	0	Schärnuler	Schärnuler	0
+57	Co s 5	III_13_0121	Niederhergheim, Niederhergheim	7.39795, 47.9862	scharrnialer	scharrniejealer	3	scharnieler	scharnieler	0	Schärnuler	Schärnuler	0
+58	Co l 7	III_13_0034	Logelnheim (Logelheim), Logelnheim	7.40918, 48.0211	schalnialer	schalnüalr	2	schalnieler	schalnüeler	1	Schärnuler	Schärnuler	0
+59	Co l 8	III_12_0101	Weier auf dem Land (Wihr-en-Plaine), Weier auf dem Land	7.41118, 48.0844	scharnialer	scharrnialer	1	scharnieler	scharnieler	0	Schärnuler	Schärnuler	0
+60	Co l 2	III_13_0031	Sundhofen (Sundhoffen), Sundhofen	7.41499, 48.04248	schallnjealer	schaell͜nialer	4	schalnieler	schaelnieler	1	Schärnuler	Schärnuler	0
+61	Co l 9	III_13_0029	Andolsheim, Andolsheim	7.41512, 48.06763	schalnialer	scharnialer	1	scharnieler	scharnieler	0	Schärnuler	Schärnuler	0
+62	Co d 4	III_12_0094	Holzweier, Holzweier	7.42541, 48.11028	scharnialer	scharrnialer	1	scharnieler	scharnieler	0	Schärnuler	Schärnuler	0
+63	Stra W 6	III_12_0015, III_12_0016	Illhäusern (Illhaeusern), Illhäusern	7.43355, 48.18466	scharneller	scharrnialer, scharrneäler	2	scharneler	scharnieler, scharneäler	1	Schärnuler	Schärnuler	0
+64	Co d 3	III_12_0100	Bischweier, Bischweier	7.43735, 48.09944	schangniëler	schalnieler	3	schangnieler	schalnieler	2	Schärnuler	Schärnuler	0
+65	Co d 6	III_12_0095	Wickerschweier, Wickerschweier	7.43868, 48.10708	scharrnījeller	scharnijaller	3	scharnieler	scharnieler	0	Schärnuler	Schärnuler	0
+66	Co l 10	III_13_0032	Appenweier (Appenwihr), Appenweier	7.43962, 48.02594	scharrniller	scharrnī̄aller	3	scharniler	scharnieler	1	Schärnuler	Schärnuler	0
+67	Co d 5	III_12_0092	Riedweier, Riedweier	7.44536, 48.12387	scharnierler	scharnierler	0	scharnieler	scharnieler	0	Schärnuler	Schärnuler	0
+68	Co z 4	III_14_0037	Hirzfelden, Hirzfelden	7.4473, 47.90935	scharnierler	scharnilr	3	scharnieler	scharniler	1	Schärnuler	Schärnuler	0
+69	Co d 10	III_12_0099	Fortschweier, Fortschweier	7.45233, 48.08996	scharnierer	scharnieler	1	scharnierer	scharnieler	1	Schärnuler	Schärnuler	0
+70	Co z 2	III_14_0038	Münchhausen (Munchhausen), Münchhausen	7.45274, 47.86847	scharniĕler	scharnieler	1	scharnieler	scharnieler	0	Schärnuler	Schärnuler	0
+71	Co l 11	III_13_0033	Hettenschlag , Hettenschlag	7.45782, 48.00441	schalnialer	schalnialer	0	scharnieler	schalnieler	1	Schärnuler	Schärnuler	0
+72	Co z 3	III_14_0039	Roggenhausen, Roggenhausen	7.46704, 47.8888	scharniela	schārnieler	3	scharnieler	scharnieler	0	Schärnuler	Schärnuler	0
+73	Co d 2 , Co k 3	III_12_0096	Munzenheim (Muntzenheim), Munzenheim	7.47318, 48.10199	scharniäler, schalnüeler	schalnüeler	0	schalnüeler, scharnieler	schalnüeler	0	Schärnuler	Schärnuler	0
+74	Co d 7	III_12_0091	Jebsheim, Jebsheim	7.47771, 48.12279	schalnierer	schálniäler	3	schalnierer	schalnieler	1	Schärnuler	Schärnuler	0
+75	Co l 5	III_13_0028	Widensolen, Widensolen	7.47996, 48.06278	scharrniërler	scharniėler	3	scharnieler	scharnieler	0	Schärnuler	Schärnuler	0
+76	Co l 12	III_12_0098	Urschenheim, Urschenheim	7.48632, 48.08696	schallnialr	schaällnieller	4	scharnieler	schalnieler	1	Schärnuler	Schärnuler	0
+77	Co d 11	III_12_0090	Grussenheim, Grussenheim	7.48794, 48.1443	schallnialr	scharrnialr	2	schalnieler	scharnieler	1	Schärnuler	Schärnuler	0
+78	Co s 1	III_13_0123	Dessenheim, Dessenheim	7.48828, 47.97561	scharniahler	scharnialer	1	scharnieler	scharnieler	0	Schärnuler	Schärnuler	0
+79	Co d 9	na	Elsenheim	7.50131, 48.16133	schalnerer	na	999	schalnerer	na	999	Schärnuler	na	999
+80	Co m 11	III_13_0047	Wolfganzen, Wolfganzen	7.5016, 48.02747	scharniarla	scharrniarla	1	scharnieler	scharnieler	0	Schärnuler	Schärnuler	0
+81	Co e 8	na	Dürrenenzen (Dürrenentzen)	7.50406, 48.09192	schangniarla	na	999	schangnieler	na	999	Schärnuler	na	999
+82	Stra X 11	III_12_0027	Ohnenheim, Ohnenheim	7.50726, 48.18379	schallnièler	schallniehler	2	schalnieler	schalnieler	0	Schärnuler	Schärnuler	0
+83	Co m 13	III_13_0046	Umgebung von Neubreisach (Weckolsheim), Weckolsheim	7.51347, 48.00264	scharnialer	scharrnialer	1	scharnieler	scharnieler	0	Schärnuler	Schärnuler	0
+84	Co H17	na	Banzenheim (Bantzenheim)	7.51396, 47.82468	scharnieler	na	999	scharnieler	na	999	Schärnuler	na	999
+85	Stra X 10	III_12_0026	Heidolsheim, Heidolsheim	7.51527, 48.20131	scharnièler	scharnieler	1	scharnieler	scharnieler	0	Schärnuler	Schärnuler	0
+86	Co A3	III_14_0040	Rumersheim (Rumersheim-le-Haute), Rumersheim	7.51712, 47.85248	scharrniäler	schaarnirler	2	scharnieler	scharnieler	0	Schärnuler	Schärnuler	0
+87	Stra X 1	III_12_0018	Mussig, Mussig	7.52018, 48.23003	scharrnīaler	scharniela	5	scharnieler	scharnieler	0	Schärnuler	Schärnuler	0
+88	Co m 6	III_13_0045	Neubreisach (Neuf-Brisach), Neubreisach	7.52909, 48.01843	scharniëler	scharniëler	0	scharnieler	scharnieler	0	Schärnuler	Schärnuler	0
+89	Co A2	III_14_0185	Blodelsheim, Blodelsheim	7.53396, 47.88426	scharniäler	schärniĕler	2	scharnieler	schärnieler	1	Schärnuler	Schärnuler	0
+90	Co m 7	III_13_0036	Künheim (Kunheim), Künheim	7.53422, 48.07788	scharrnieler	scharrnealer	2	scharnieler	scharnieler	0	Schärnuler	Schärnuler	0
+91	Co A1/1, Co A1/2	na	Fessenheim, Fessenheim (Gutenstein)	7.53712, 47.91578	scharnieler, scharnialr	na	999	scharnieler	na	999	Schärnuler	na	999
+92	Co t 1	III_13_0124	Heiteren, Heiteren	7.53776, 47.96942	scharrnialer	scharrnialer	0	scharnieler	scharnieler	0	Schärnuler	Schärnuler	0
+93	Co t 8	na	Balgau	7.53917, 47.9288	scharnieͣler	na	999	scharnieler	na	999	Schärnuler	na	999
+94	Stra X 2	III_12_0017	Baldenheim, Baldenheim	7.53925, 48.23746	schalnieäler	schalniâler	2	schalnieler	schalnieler	0	Schärnuler	Schärnuler	0
+95	Co H1	III_14_0132	Eichwald (Chalampé), Eichwald	7.53969, 47.81643	schärniälär	schärniäler	1	schärnieler	schärniäler	1	Schärnuler	Schärnuler	0
+96	Co e 10	III_12_0110	Arzenheim (Artzenheim), Arzenheim	7.5426, 48.11609	scharniäler	scharnialer	1	scharnieler	scharnieler	0	Schärnuler	Schärnuler	0
+97	Co m 10	III_13_0044	Biesheim, Biesheim	7.54467, 48.04048	scharrniēler	scharnieler	2	scharnieler	scharnieler	0	Schärnuler	Schärnuler	0
+98	Co e 1	III_12_0102	Marckolsheim, Markolsheim	7.54583, 48.1675	schallniler	schallnieler	1	schalniler	schalnieler	1	Schärnuler	Schärnuler	0
+99	Stra X 9	III_12_0025	Hessenheim, Hessenheim	7.55134, 48.21037	schallniahler	schallniarer	2	schalnieler	schalnierer	1	Schärnuler	Schärnuler	0
+100	Co m 8	III_13_0043	Volgelsheim, Vogelsheim	7.55292, 48.01693	schallneler	schallnierler	2	schalneler	schalnieler	1	Schärnuler	Schärnuler	0
+101	Co e 9	III_12_0109	Balzenheim (Baltzenheim), Balzenheim	7.55624, 48.09319	schallnieler	schallniälr	2	schalnieler	schalnieler	0	Schärnuler	Schärnuler	0
+102	Co m 12	III_13_0042	Algolsheim, Algolsheim	7.55708, 48.00563	schallnialr	schalnialr	1	scharnieler	schalnieler	1	Schärnuler	Schärnuler	0
+103	Co t 5	III_13_0125	Obersaasheim, Obersaasheim	7.55885, 47.98979	scharnialer	scharrnialer	1	scharnieler	scharnialer	1	Schärnuler	Schärnuler	0
+104	Co t 7	na	Nambsheim	7.5622, 47.9336	scharnieͣler	na	999	scharnieler	na	999	Schärnuler	na	999
+105	Stra X 3	III_12_0019	Bösenbiesen (Boesenbiesen), Bösenbiesen	7.56377, 48.22957	schallnirlr	schallnierler	2	schalnieler	schalnieler	0	Schärnuler	Schärnuler	0
+106	Stra X 12	III_12_0029	Boozheim (Bootzheim), Boozheim	7.57052, 48.18862	schallnialer	schallnialer	0	schalnieler	schalnieler	0	Schärnuler	Schärnuler	0
+107	Co m 9	III_13_0041	Vogelgrün (Vogelgrun), Vogelgrün	7.57243, 48.0111	schangnīălr	scharnialr, schangnialr	2	schangnieler	schangnieler, scharnieler	0	Schärnuler	Schärnuler	0
+108	Stra X 4	III_12_0020	Schwobsheim, Schwobsheim	7.57481, 48.2329	schallnirlr	schallniēler	2	schalnieler	schalnieler	0	Schärnuler	Schärnuler	0
+109	Stra Q 7	III_11_0104	Wittisheim, Wittisheim	7.58962, 48.26345	schallniarner	schalnieler	4	schalnierner	schalnieler	2	Schärnuler	Schärnuler	0
+110	Stra X 5	III_12_0021	Richtolsheim, Richtolsheim	7.59489, 48.2251	schalnealer	schalnealer	0	schalnieler	schalnieler	0	Schärnuler	Schärnuler	0
+111	Co t 6	III_13_0126	Geiswasser, Geiswasser	7.60042, 47.97883	scharrnierler	scharniäler	3	scharnieler	scharnieler	0	Schärnuler	Schärnuler	0
+112	Stra Q 8/1, Stra Q 8/2	III_11_0105	Sundhausen (Sundhouse), Sundhausen	7.60327, 48.25126	schallniëler, schalnieler	schalnieler	0	schalnieler	schalnieler	0	Schärnuler	Schärnuler	0
+113	Co e 12	III_12_0103	Sasbach, Sasbach	7.61363, 48.13798	schaelniåla	schälnüler	6	schälnieler	schälnüler	2	Schärnuler	Schärnuler	0
+114	Stra X 6	na	Saasenheim	7.61664, 48.23405	scharrnieler	na	999	scharnieler	na	999	Schärnuler	na	999
+115	Stra X 7	III_12_0023	Schönau (Schoenau), Schönau	7.64715, 48.22339	schallnealer	schallnialer	1	schalnieler	schalnieler	0	Schärnuler	Schärnuler	0
+116	Co e 7	III_12_0032, III_12_0031	Wyhl am Kaiserstuhl, Wyhl	7.64933, 48.1663	schällnieller	schälnieler, schälnieeler	2	schälnieler	schälnieler	0	Schärnuler	Schärnuler	0
+117	na	III_13_0107	Schweighausen	7.17716, 47.93851	na	scharnialler	999	na	scharnieler	999	na	Schärnuler	999
+118	na	III_13_0021	Häusern	7.28067, 48.03226	na	scharnieler	999	na	scharnieler	999	na	Schärnuler	999
+119	na	III_12_0087	Logelbach	7.30991, 48.0865	na	scharnierel	999	na	scharnieler	999	na	Schärnuler	999
+120	na	III_14_0111	Mülhausen	7.34375, 47.7517	na	scharnieler	999	na	scharnieler	999	na	Schärnuler	999
+121	na	III_12_0093	Hausen	7.37665, 48.125	na	schalnealer	999	na	schalnieler	999	na	Schärnuler	999
+122	na	III_12_0028	Mackenheim	7.56598, 48.18437	na	schallnialer	999	na	schalnieler	999	na	Schärnuler	999
+123	na	III_12_0024	Artolsheim	7.57377, 48.20951	na	schernejler	999	na	scharnieler	999	na	Schärnuler	999
+124	na	III_11_0041	Gerstheim	7.69824, 48.38295	na	schallnüehler	999	na	schalnüeler	999	na	Schärnuler	999

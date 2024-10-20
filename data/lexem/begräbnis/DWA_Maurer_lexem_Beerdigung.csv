@@ -1,0 +1,281 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Co Ub 2	III_17_0011	Mörnach (Mœrnach), Mörnach auf vierter Seite Mornach	7.25681, 47.50213	beardigung	beerdigung	1	beardigung	beerdigung	1	Beerdigung	Beerdigung	0
+1	Co Vd 9	III_17_0077	Kiffis, Kiffis	7.35848, 47.4405	beardigung	beardigung	0	beardigung	beardigung	0	Beerdigung	Beerdigung	0
+2	Co O7	III_15_0036	Landser, Landser	7.39601, 47.68637	beärdigung	beärdigung	0	beerdigung	beerdigung	0	Beerdigung	Beerdigung	0
+3	Co V 8	na	Stetten	7.42942, 47.6261	beardigung	na	999	beardigung	na	999	Beerdigung	na	999
+4	Co Wa 1	na	Häsingen (Hésingue)	7.5211, 47.57633	beardigung	na	999	beardigung	na	999	Beerdigung	na	999
+5	Co Wa 3	III_17_0035	Hegenheim (Hégenheim), Hegenheim	7.52344, 47.56115	beardigung	beardigung	0	beardigung	beerdigung	1	Beerdigung	Beerdigung	0
+6	Co P8	III_15_0045	Bamlach, Bamlach	7.54942, 47.71753	beerdigung	beerdigung	0	beerdigung	beerdigung	0	Beerdigung	Beerdigung	0
+7	Co H2	na	Neuenburg (am Rhein)	7.56012, 47.81393	beerdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+8	Co P6	III_15_0057	Tannenkirch, Tannenkirch	7.6103, 47.71116	beerdigung	beerdigung	0	beerdigung	beerdigung	0	Beerdigung	Beerdigung	0
+9	Co e 3	na	Leiselheim	7.6357, 48.12586	beardigung	na	999	beardigung	na	999	Beerdigung	na	999
+10	Co t 2	na	Oberrimsingen	7.6594, 47.97942	beerdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+11	Co Xa 5	III_17_0040	Wyhlen, Wyhlen	7.69103, 47.54989	beärdigung	beerdigung	1	beerdigung	beerdigung	0	Beerdigung	Beerdigung	0
+12	Co Xa 1	III_17_0041	Degerfelden, Degerfelden	7.74584, 47.5696	beardigung	beardigung	0	beardigung	beardigung	0	Beerdigung	Beerdigung	0
+13	Co Xa 3	III_17_0044	Rheinfelden-Stadt (Baden), Rheinfelden	7.78875, 47.55945	beerdigung	beerdigung	0	beerdigung	beerdigung	0	Beerdigung	Beerdigung	0
+14	Co X 14	III_16_0104	Minseln, Minseln	7.79067, 47.60301	beardigung	beerdigung	1	beardigung	beerdigung	1	Beerdigung	Beerdigung	0
+15	Co X 17	III_16_0105	Karzau (Karsau) , Karsau	7.79868, 47.58875	bierdigung	beerdigung	1	beerdigung	beerdigung	0	Beerdigung	Beerdigung	0
+16	Stra v 2	na	Marlen	7.8231, 48.52207	beardigung	na	999	beardigung	na	999	Beerdigung	na	999
+17	Co g 8	na	Mundingen	7.8346, 48.13735	beerdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+18	Co R9	na	Zell im Wiesental	7.85301, 47.70753	beerdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+19	Stra S 3	na	Sulz	7.86031, 48.31851	beärdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+20	Co Y 12	III_16_0168	Schwörstadt, Schwörstadt	7.87989, 47.59379	beerdigung	beerdigung	0	beerdigung	beerdigung	0	Beerdigung	Beerdigung	0
+21	Stra w 11	na	Willstätt	7.89222, 48.53868	beerdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+22	Co Y 9	III_16_0120	Bergalingen, Bergalingen	7.95943, 47.61266	beärdigung	beerdigung	1	beerdigung	beerdigung	0	Beerdigung	Beerdigung	0
+23	Co Ya 2	III_17_0049, III_17_0055, III_17_0048	Obersäckingen, Säckingen	7.96171, 47.57476	beärdigung	beerdigung	1	beerdigung	beerdigung	0	Beerdigung	Beerdigung	0
+24	Co Y 10	III_16_0125	Willaringen, Willaringen	7.97281, 47.60577	beä̅rdigung	beerdigung	2	beerdigung	beerdigung	0	Beerdigung	Beerdigung	0
+25	Co Y 4	na	Obergebisbach- Hornbach	7.97459, 47.65405	beärdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+26	Co Y 6	III_16_0123	Altenschwand, Altenschwand	7.976, 47.63697	beärdigung	beerdigung	1	beerdigung	beerdigung	0	Beerdigung	Beerdigung	0
+27	Co Y 8	na	Rickenbach	7.97772, 47.61891	beärdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+28	Co Y 5	na	Niedergebisbach	7.99251, 47.65054	beärdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+29	TUTT S4	na	Hogschür	8.01475, 47.64742	beerdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+30	TÜB h1/1	na	Gamshurst	8.0187, 48.66413	beärdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+31	TUTT S2	III_16_0126	Segeten, Segeten	8.02357, 47.65954	beerdigung	beerdigung	0	beerdigung	beerdigung	0	Beerdigung	Beerdigung	0
+32	TUTT S20	III_16_0138	Hänner, Hänner	8.03004, 47.59489	beärdigung	beerdigung	1	beerdigung	beerdigung	0	Beerdigung	Beerdigung	0
+33	TUTT Sa5	III_16_0137	Oberhof, Oberhof	8.0324, 47.58493	beärdigung	beerdigung	1	beerdigung	beerdigung	0	Beerdigung	Beerdigung	0
+34	TUTT Sa4	na	Niederhof	8.03951, 47.56938	beerdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+35	TUTT S6	III_16_0129, III_16_0130	Oberwihl, Oberwihl	8.04597, 47.62098	beerdigung	beerdigung	0	beerdigung	beerdigung	0	Beerdigung	Beerdigung	0
+36	TUTT L/S7, TUTT S1	III_15_0095, III_15_0093	Strittmatt, Strittmatt und Engelschwand, Engelschwand, Strittmatt	8.04718, 47.66382	beärdigung	beerdigung	1	beerdigung	beerdigung	0	Beerdigung	Beerdigung	0
+37	TUTT Sa6	III_17_0062	Binzgen, Binzgen	8.06143, 47.57622	beerdigung	beerdigung	0	beerdigung	beerdigung	0	Beerdigung	Beerdigung	0
+38	TUTT S19	III_16_0139	Rotzel, Rotzel	8.06151, 47.59473	beerdigung	beerdigung	0	beerdigung	beerdigung	0	Beerdigung	Beerdigung	0
+39	TUTT L8	III_15_0097	Hartschwand, Hartschwand	8.0655, 47.67119	beärdigung	beerdigung	1	beerdigung	beerdigung	0	Beerdigung	Beerdigung	0
+40	TUTT S7	III_16_0131	Niederwihl, Niederwihl	8.07095, 47.61851	beerdigung	beerdigung	0	beerdigung	beerdigung	0	Beerdigung	Beerdigung	0
+41	TUTT S10	III_15_0096	Rotzingen, Rotzingen	8.0762, 47.66588	beärdigung	beerdigung	1	beerdigung	beerdigung	0	Beerdigung	Beerdigung	0
+42	TUTT L17	III_15_0101	Fröhnd, Fröhnd	8.07717, 47.70011	beerdigung	beerdigung	0	beerdigung	beerdigung	0	Beerdigung	Beerdigung	0
+43	TUTT S9	III_16_0134	Görwihl, Görwihl	8.07817, 47.64186	beerdigung	beerdigung	0	beerdigung	beerdigung	0	Beerdigung	Beerdigung	0
+44	TUTT S18	III_16_0140	Hochsal, Hochsal	8.08003, 47.5887	beardigung	beerdigung	1	beardigung	beerdigung	1	Beerdigung	Beerdigung	0
+45	TÜB a6	na	Oberbruch	8.08775, 48.72893	beerdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+46	TUTT Sa7	III_17_0061	Laufenburg (Baden), Laufenburg	8.0908, 47.58055	beerdigung	beerdigung	0	beerdigung	beerdigung	0	Beerdigung	Beerdigung	0
+47	TUTT L/8,9	III_15_0099	Hierbach - Wilfingen, Hierbach	8.09123, 47.686	beärdigung	beerdigung	1	beerdigung	beerdigung	0	Beerdigung	Beerdigung	0
+48	TUTT S21	III_16_0141	Schachen, Schachen	8.09406, 47.60368	beärdigung	beerdigung	1	beerdigung	beerdigung	0	Beerdigung	Beerdigung	0
+49	TUTT Sa8, TUTT S5	III_17_0060	Luttingen, Luttingen und Grunholz, Luttingen	8.09878, 47.57252	beärdigung, beerdigung	beerdigung	0	beerdigung	beerdigung	0	Beerdigung	Beerdigung	0
+50	TUTT L10	na	Wolpadingen	8.10774, 47.69861	beärdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+51	TUTT S17	na	Albert	8.11012, 47.58535	beerdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+52	TUTT S15	na	Buch über Waldshut	8.11336, 47.61399	beerdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+53	TUTT L16	III_15_0103	Schlageten, Schlageten	8.12512, 47.71178	beerdigung	beerdigung	0	beerdigung	beerdigung	0	Beerdigung	Beerdigung	0
+54	TUTT L11	III_15_0102	Immeneich, Immeneich	8.12543, 47.69719	beerdigung	beerdigung	0	beerdigung	beerdigung	0	Beerdigung	Beerdigung	0
+55	TUTT S14	na	Birndorf	8.13384, 47.62519	beerdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+56	TUTT S16	III_16_0145	Albruck-Kiesenbach, Albruck	8.14411, 47.60046	beerdigung	beerdigung	0	beerdigung	beerdigung	0	Beerdigung	Beerdigung	0
+57	TUTT L12	III_15_0106, III_15_0104, III_15_0107	Remetschwiel/Brunnadern, Brunnadern, Remetschwiel	8.14553, 47.68929	beärdigung	beärdigung, beerdigung	0	beerdigung	beerdigung	0	Beerdigung	Beerdigung	0
+58	TUTT S13	III_16_0169	Birkingen, Birkingen	8.1477, 47.62511	beerdigung	beeridung	2	beerdigung	beerdigung	0	Beerdigung	Beerdigung	0
+59	TUTT L14, TUTT L13	III_15_0123	Remetschwiel und Bannholz, Bannholz, Bannholz	8.167, 47.67614	beerdigung	beerdigung	0	beerdigung	beerdigung	0	Beerdigung	Beerdigung	0
+60	TUTT T4	na	Waldkirch	8.17132, 47.65851	beerdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+61	TUTT T6	na	Dogern	8.17239, 47.60884	beerdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+62	TUTT T5	III_16_0158	Eschbach, Eschbach	8.18086, 47.6336	beerdigung	bärdigung	2	beerdigung	beerdigung	0	Beerdigung	Beerdigung	0
+63	TUTT T3	na	Schmitzingen	8.19315, 47.65491	beerdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+64	KST M10/1	na	Rastatt	8.20142, 48.8573	beerdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+65	TUTT T7	III_16_0152, III_16_0149	Waldshut, Waldshut	8.21445, 47.6237	beerdigung	beerdigung	0	beerdigung	beerdigung	0	Beerdigung	Beerdigung	0
+66	TÜB E4	na	Oberwolfach	8.21698, 48.3174	beerdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+67	KST M9	III_6_0108	Niederbühl, Niederbühl	8.21769, 48.84547	beerdigung	beerdigung	0	beerdigung	beerdigung	0	Beerdigung	Beerdigung	0
+68	TUTT T1	III_16_0161	Weilheim, Weilheim	8.24051, 47.65862	beerdigung	beerdigung	0	beerdigung	beerdigung	0	Beerdigung	Beerdigung	0
+69	KST T14/2, KST T14/3	III_7_0131	Baden-Baden, Baden-Baden Weststadt	8.24094, 48.76273	beerdigung	beerdigung	0	beerdigung	beerdigung	0	Beerdigung	Beerdigung	0
+70	TUTT M13	III_15_0128	Dietlingen, Dietlingen	8.24371, 47.67342	beerdigung	beerdigung	0	beerdigung	beerdigung	0	Beerdigung	Beerdigung	0
+71	TÜB b1	na	Gerolsau	8.24536, 48.73474	beerdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+72	KST M8	na	Rauental	8.24794, 48.8572	beerdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+73	TÜB b2/2, TÜB b2/1	na	Lichtent(h)al	8.2614, 48.74458	beerdichung, beerdigung	na	999	beerdichung, beerdigung	na	999	Beerdigung	na	999
+74	TUTT M12	III_15_0117	Aichen, Aichen	8.26226, 47.67494	beerdigung	beerdigung	0	beerdigung	beerdigung	0	Beerdigung	Beerdigung	0
+75	TUTT T9	na	Tiengen	8.28181, 47.63443	beerdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+76	TUTT T14	III_16_0154	Kadelburg, Kadelburg	8.29552, 47.60851	beerdigung	beerdigung	0	beerdigung	beerdigung	0	Beerdigung	Beerdigung	0
+77	TUTT T16	III_16_0166	Rheinheim, Rheinheim	8.30495, 47.58771	beerdigung	beerdigung	0	beerdigung	beerdigung	0	Beerdigung	Beerdigung	0
+78	KST T3	na	(Bad) Rotenfels (Ortsteil von Gaggenau)	8.30895, 48.81087	beerdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+79	KST M6	na	Oberweier	8.31051, 48.84847	beerdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+80	TUTT T15	na	Dangstetten	8.31944, 47.59581	bēerdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+81	TUTT F2	na	Bonndorf	8.34216, 47.8198	beerdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+82	TUTT U4	na	Horheim	8.34737, 47.64854	beerdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+83	TÜB k1	III_26_0001	Raumünzach, Raumänzach	8.34869, 48.63918	beerdigung	beerdigung	0	beerdigung	beerdigung	0	Beerdigung	Beerdigung	0
+84	KST y 7	na	Karlsruhe-Grünwinkel	8.35529, 49.0032	beerdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+85	TUTT U5	na	Wutöschingen	8.36613, 47.65918	beerdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+86	KST F13	III_22_0002	Bruchhausen bei Ettlingen, Bruchhausen	8.371, 48.92716	beärdigung	beerdigung	1	beerdigung	beerdigung	0	Beerdigung	Beerdigung	0
+87	KST F1	na	Karlsruhe-Beiertheim	8.37277, 48.9907	beerdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+88	TUTT Ua1	III_38_0083	Lienheim, Lienheim	8.37469, 47.5721	beerdigung	beerdigung	0	beerdigung	beerdigung	0	Beerdigung	Beerdigung	0
+89	TUTT N6	III_37_0006	Obereggingen, Obereggingen	8.38631, 47.70175	beerdigung	beerdigung	0	beerdigung	beerdigung	0	Beerdigung	Beerdigung	0
+90	KST y 6	na	Karlsruhe	8.40919, 49.01038	beerdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+91	KST r2	III_20_0004	Hochstetten, Hochstetten	8.41566, 49.13702	beerdigung	beerdigung	0	beerdigung	beerdigung	0	Beerdigung	Beerdigung	0
+92	TUTT U1	III_38_0002	Erzingen, Erzingen	8.42011, 47.66108	beerdigung	běērdigung	2	beerdigung	beerdigung	0	Beerdigung	Beerdigung	0
+93	TUTT U11	III_38_0015	Bergöschingen, Bergöschingen	8.42093, 47.59537	beerdigung	beerdigung	0	beerdigung	beerdigung	0	Beerdigung	Beerdigung	0
+94	TUTT F7	na	Schwaningen	8.42524, 47.77843	beerdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+95	TUTT N2	na	Eberfingen	8.42708, 47.72036	beerdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+96	TUTT U10	III_38_0005	Stetten (bei Waldshut), Stetten	8.4393, 47.59011	beerdigung	beerdigung	0	beerdigung	beerdigung	0	Beerdigung	Beerdigung	0
+97	TUTT Ua2	na	Hohentengen	8.43962, 47.57174	beärdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+98	TUTT U7	III_38_0014	Riedern am Sand (im SprachGIS: Unter Riedern), Riedern am Sand	8.4462, 47.6245	beerdigung	beerdigung	0	beerdigung	beerdigung	0	Beerdigung	Beerdigung	0
+99	Ma f1/2	na	Mannheim-Sandhofen	8.44789, 49.5433	beerdichung	na	999	beerdichung	na	999	Beerdigung	na	999
+100	KST F4	na	Wolfartsweier	8.45219, 48.97443	beerdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+101	Ma h1/1	na	Siedlung Schönau (Mannheim)	8.47602, 49.54338	beerdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+102	Ma f2	na	Mannheim-Waldhof (Luzenberg)	8.47981, 49.52527	beerdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+103	TUTT U9	na	Dettighofen	8.48357, 47.62374	beärdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+104	KST r6	III_20_0010	Graben, Graben	8.48928, 49.16535	beerdigung	beerdigung	0	beerdigung	beerdigung	0	Beerdigung	Beerdigung	0
+105	TUTT c4	na	Fischbach	8.49142, 48.15251	beerdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+106	KST y 4	na	Grötzingen	8.49556, 49.00711	beerdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+107	MH za1	na	Mannheim-Gartenstadt	8.50016, 49.5305	beerdischung	na	999	beerdischung	na	999	Beerdigung	na	999
+108	TUTT V4,5	na	Baltersweil	8.51054, 47.63723	beärdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+109	TUTT z8	na	Blumberg	8.53265, 47.83981	beerdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+110	TUTT G2/1	na	Epfenhofen	8.55432, 47.81867	beärdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+111	KST G3	na	Singen bei Pforzheim	8.56804, 48.95764	beerdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+112	MH Q2	na	Schwetzingen	8.57064, 49.38567	beerdischung	na	999	beerdischung	na	999	Beerdigung	na	999
+113	MH H7	na	Mannheim-Friedrichsfeld	8.57534, 49.44026	beärdischung	na	999	beerdischung	na	999	Beerdigung	na	999
+114	MH H8	na	Edingen	8.61196, 49.44847	beerdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+115	KST l7	na	Weiher	8.62179, 49.17863	beerdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+116	KST s10	na	Heidelsheim	8.64542, 49.10114	beerdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+117	KST z3	na	Dürrenbüchig	8.64747, 49.0227	beerdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+118	TUTT s4	na	Geisingen	8.65129, 47.93283	beerdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+119	MH z1	na	Sulzbach	8.661, 49.57763	beerdichung	na	999	beerdichung	na	999	Beerdigung	na	999
+120	MH R2	na	Heidelberg-Kirchheim	8.66773, 49.37837	beerdischung	na	999	beerdischung	na	999	Beerdigung	na	999
+121	MH J2	na	Dossenheim	8.66806, 49.44988	beerdischung	na	999	beerdischung	na	999	Beerdigung	na	999
+122	MH J3/2	na	Heidelberg-Handschuhsheim	8.68613, 49.42774	beerdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+123	KST P3/1	III_23_0054, III_23_0043, III_23_0045, III_23_0040, III_23_0046, III_23_0049, III_23_0051, III_23_0044, III_23_0041, III_23_0037, III_23_0053	Pforzheim, Pforzheim	8.70025, 48.89013	beerdigung	beerdichung, beerdigung	0	beerdigung	beerdichung, beerdigung	0	Beerdigung	Beerdigung	0
+124	MH R1/1	na	Heidelberg	8.70819, 49.41349	beerdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+125	MH R9	na	Bammental	8.77604, 49.35511	beerdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+126	TUTT P4	na	Gotttmadingen	8.77716, 47.73498	beerdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+127	MH R13	II_60_0045	Neckargemünd, Neckargemünd	8.79751, 49.39508	beerdigung	beerdischung	3	beerdigung	beerdischung	3	Beerdigung	Beerdigung	0
+128	TUTT J3	na	Hausen an der Aach	8.84574, 47.7917	beerdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+129	MH S2	na	Mückenloch	8.8554, 49.3886	beerdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+130	MH K8	II_59_0097	Neckarhäuserhof, Neckarhäuserhof	8.88191, 49.41513	beerdichung	beerdigung	2	beerdichung	beerdigung	2	Beerdigung	Beerdigung	0
+131	KST f7	na	Adersbach	8.95454, 49.2632	beerdichung	na	999	beerdichung	na	999	Beerdigung	na	999
+132	TUTT J10	na	Wahlwies	8.96632, 47.81985	beerdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+133	TUTT u2	na	Unterschwandorf	8.99628, 47.95028	beerdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+134	TUTT g1	na	Glashütte (Heuberg)	9.03485, 48.1237	beerdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+135	KST o4	na	Babstadt	9.05798, 49.24212	beerdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+136	TUTT K4	na	Ludwigshafen	9.05916, 47.8189	bǟrdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+137	MH T17	II_60_0075	Neckargerach, Neckargerach	9.0708, 49.40101	beerdischung	beerdigung	3	beerdischung	beerdigung	3	Beerdigung	Beerdigung	0
+138	MH T10	II_60_0078	Obrigheim, Obrigheim	9.09608, 49.35186	beerdischung	beerdigung	3	beerdischung	beerdigung	3	Beerdigung	Beerdigung	0
+139	MH T11	II_60_0079	Diedesheim, Diedesheim	9.11367, 49.34933	beerdichung, beerdigung, beerdiching	beerdigung	0	beerdichung, beerdigung, beerdiching	beerdigung	0	Beerdigung	Beerdigung	0
+140	KST g5	na	Zimmerhof	9.1218, 49.25206	beerdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+141	MH T13	na	Mosbach	9.14619, 49.35501	beärdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+142	TUTT R7	na	Dingelsdorf	9.15648, 47.7384	beerdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+143	MH U10	na	Sattelbach	9.16732, 49.40849	beerdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+144	SIG t1	na	Konstanz	9.17758, 47.66385	beerdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+145	SIG k1	na	Aach-Linz	9.20037, 47.91152	beerdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+146	MH D4	na	Mudau-Langenelz	9.20495, 49.51744	beerdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+147	MH o8/1, MH o8/2	na	Ebenheid	9.36095, 49.7158	beerdichung, beerdigung	na	999	beerdichung, beerdigung	na	999	Beerdigung	na	999
+148	MH E7	na	Walldürn	9.36793, 49.58322	beärdichung	na	999	beerdichung	na	999	Beerdigung	na	999
+149	MH N8	na	Götzingen	9.39465, 49.49693	beerdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+150	SIG r5	III_37_0056	Kluftern, Kluftern	9.40004, 47.69278	beerdigung	beerdigung	0	beerdigung	beerdigung	0	Beerdigung	Beerdigung	0
+151	MH f1	II_88_0007	Mondfeld, Krs. Tauberbischofsheim, Mondfeld	9.41656, 49.7837	beerdichung	beerdigung	2	beerdichung	beerdigung	2	Beerdigung	Beerdigung	0
+152	MH E5	II_91_0004	Waldstetten, Waldstetten	9.44893, 49.5647	beerdichung	beerdigung	2	beerdichung	beerdigung	2	Beerdigung	Beerdigung	0
+153	MH q1	na	Steinbach	9.47108, 49.68011	beärdichung	na	999	beerdichung	na	999	Beerdigung	na	999
+154	MH N6	na	Bronnacker	9.48305, 49.4446	beerdichung	na	999	beerdichung	na	999	Beerdigung	na	999
+155	MH o6	II_89_0008	Vockenrot, Vockenrot	9.48521, 49.74816	beerdigung	beerdigung	0	beerdigung	beerdigung	0	Beerdigung	Beerdigung	0
+156	MH E8	na	Erfeld	9.49597, 49.55416	beerdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+157	MH p4	II_89_0013	Dörlesberg, Dörlesberg	9.501, 49.71273	beerdigung	beerdigung	0	beerdigung	beerdigung	0	Beerdigung	Beerdigung	0
+158	MH p1	na	Waldenhausen	9.52298, 49.74357	beärdichung	na	999	beerdichung	na	999	Beerdigung	na	999
+159	MH g5	na	Wertheim-Eichel	9.54093, 49.76546	beerdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+160	MH p8	II_89_0026	Gamburg, Gamburg	9.59986, 49.69382	beerdigung	beerdigung	0	beerdigung	beerdigung	0	Beerdigung	Beerdigung	0
+161	MH p9	II_89_0027	Niklashausen, Niklashausen	9.6175, 49.70453	beärdichung	beerdigung	3	beerdichung	beerdigung	2	Beerdigung	Beerdigung	0
+162	MH x4	na	Dittwar	9.63593, 49.58974	beerdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+163	MH x3	II_90_0016	Impfingen, Impfingen	9.65946, 49.64719	beerdichung	beerdigung	2	beerdichung	beerdigung	2	Beerdigung	Beerdigung	0
+164	MH P3	na	Bobstadt	9.67398, 49.46607	beerdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+165	MH q3	na	Werbachhausen	9.67954, 49.67946	beerdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+166	MH y6	na	Grünsfeld	9.74656, 49.6066	beerdigung	na	999	beerdigung	na	999	Beerdigung	na	999
+167	na	III_15_0015	Illfurt	7.26494, 47.67073	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+168	na	III_14_0104	Lutterbach	7.28171, 47.7605	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+169	na	III_10_0008	Bergbieten	7.45869, 48.57632	na	beardigung	999	na	beardigung	999	na	Beerdigung	999
+170	na	III_17_0028	Neuweiler	7.51526, 47.52439	na	beärdigung	999	na	beerdigung	999	na	Beerdigung	999
+171	na	III_17_0036	Burgfelden	7.54705, 47.57853	na	beärdigung	999	na	beerdigung	999	na	Beerdigung	999
+172	na	III_16_0064	Sankt Ludwig	7.56351, 47.58575	na	beardigung	999	na	beardigung	999	na	Beerdigung	999
+173	na	III_16_0066	Hüningen	7.58374, 47.5912	na	beardigung	999	na	beardigung	999	na	Beerdigung	999
+174	na	III_14_0044	Bremgarten	7.62385, 47.91694	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+175	na	III_14_0048	Eschbach	7.65221, 47.8908	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+176	na	III_16_0081	Lörrach	7.66409, 47.61258	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+177	na	III_14_0145	Badenweiler	7.67934, 47.80555	na	beärdigung	999	na	beerdigung	999	na	Beerdigung	999
+178	na	III_9_0058	Straßburg	7.73609, 48.58523	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+179	na	III_17_0042	Nollingen	7.7716, 47.57363	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+180	na	III_13_0053	Hochdorf	7.80212, 48.0489	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+181	na	III_10_0047	Kehl	7.81494, 48.57419	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+182	na	III_12_0133	Emmendingen	7.84951, 48.1209	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+183	na	III_13_0074	Gundelfingen	7.87313, 48.04353	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+184	na	III_11_0060	Lahr	7.87603, 48.34018	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+185	na	III_15_0075	Rohrberg	7.90412, 47.7181	na	beärdigung	999	na	beerdigung	999	na	Beerdigung	999
+186	na	III_17_0047	Wallbach	7.91336, 47.56871	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+187	na	III_15_0071	Häg	7.91432, 47.73207	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+188	na	III_10_0127, III_10_0128	Offenburg	7.9447, 48.47195	na	beärdigung, beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+189	na	III_16_0119	Hütten	7.94873, 47.62902	na	beärdigung	999	na	beerdigung	999	na	Beerdigung	999
+190	na	III_8_0094	Muckenschopf	7.98806, 48.69362	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+191	na	III_15_0087	Herrischried	8.00161, 47.66587	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+192	na	III_15_0091	Grossherrischwand	8.01017, 47.6797	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+193	na	III_15_0094	Wehrhalden	8.01061, 47.70213	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+194	na	III_15_0086	Rütte	8.01336, 47.76141	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+195	na	III_10_0139	Reichenbach	8.01986, 48.42981	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+196	na	III_9_0090	Achern	8.06363, 48.62871	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+197	na	III_15_0109	Ibach	8.07077, 47.73259	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+198	na	III_9_0099	Oberachern	8.08066, 48.6193	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+199	na	III_15_0111	Urberg	8.12409, 47.73478	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+200	na	III_14_0172, III_14_0174, III_14_0173, III_14_0171	St. Blasien	8.12792, 47.76144	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+201	na	III_15_0108	Tiefenhäusern	8.14547, 47.70277	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+202	na	III_14_0073	Raitenbuch	8.14698, 47.86647	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+203	na	III_10_0079, III_10_0081	Ottenhöfen	8.15978, 48.56801	na	beärdigung, beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+204	na	III_15_0113	Höchenschwand	8.16491, 47.73427	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+205	na	III_16_0162	Gurtweil	8.24698, 47.64159	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+206	na	III_15_0126	Berau	8.25823, 47.69472	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+207	na	III_6_0104, III_6_0105	Muggenturm	8.2763, 48.87021	na	beerdigüng, beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+208	na	III_5_0137, III_5_0136, III_5_0138	Mörsch	8.28883, 48.96003	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+209	na	III_7_0133	Staufenberg	8.3082, 48.76673	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+210	na	III_15_0118	Detzeln	8.32062, 47.66643	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+211	na	III_6_0103	Waldprechtsweier	8.33173, 48.8612	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+212	na	III_6_0100, III_6_0102, III_6_0101	Malsch	8.3345, 48.88047	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+213	na	III_7_0134	Gernsbach	8.33578, 48.76294	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+214	na	III_4_0114	Daxlanden	8.33737, 49.0022	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+215	na	III_35_0003	Seppenhofen	8.34864, 47.8748	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+216	na	III_30_0007	Schenkenzell	8.37253, 48.31105	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+217	na	III_37_0005	Ofteringen	8.37663, 47.67838	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+218	na	III_21_0001	Neureut	8.37902, 49.05267	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+219	na	III_22_0001	Bulach	8.38244, 48.9868	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+220	na	III_38_0010	Geisslingen	8.39181, 47.61975	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+221	na	III_20_0006	Leopoldshafen	8.3923, 49.09933	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+222	na	III_21_0004	Rintheim	8.45071, 49.0099	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+223	na	III_36_0149	Weizen	8.46354, 47.77888	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+224	na	III_38_0012	Bühl	8.4644, 47.61616	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+225	na	III_23_0004	Etzenrot	8.46465, 48.90968	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+226	na	II_59_0057, II_59_0059, II_59_0043, II_59_0061, II_59_0052, II_59_0050, II_59_0042, II_59_0051, II_59_0062, II_59_0053, II_59_0045, II_59_0040, II_59_0039, II_59_0041, II_59_0063	Mannheim	8.46678, 49.4865	na	beädichung, beerdichung, beerdigung, beerdischung	999	na	beerdischung, beerdichung, beerdigung	999	na	Beerdigung	999
+227	na	III_21_0008	Durlach	8.4704, 48.99897	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+228	na	III_34_0014	Grüningen	8.47107, 47.98253	na	beärdigung	999	na	beerdigung	999	na	Beerdigung	999
+229	na	III_33_0007	Marbach	8.47117, 48.03143	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+230	na	III_21_0006	Blankenloch	8.47137, 49.06482	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+231	na	III_34_0008	Donaueschingen	8.50052, 47.95113	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+232	na	III_19_0013	Wiesental	8.51962, 49.22472	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+233	na	II_60_0036	Plankstadt	8.59271, 49.39179	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+234	na	III_38_0023	Altenburg	8.59899, 47.65513	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+235	na	III_20_0019	Bruchsal	8.60102, 49.12377	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+236	na	II_59_0072	Neckarhausen	8.60233, 49.46433	na	beerdischung	999	na	beerdischung	999	na	Beerdigung	999
+237	na	II_57_0082, II_57_0081	Laudenbach	8.65434, 49.6119	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+238	na	III_23_0028	Büchenbronn	8.66335, 48.85558	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+239	na	III_23_0030	Pforzheim-Brötzingen	8.66799, 48.889	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+240	na	III_36_0042	Hausen	8.67575, 47.91421	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+241	na	II_60_0041	Heidelberg-Rohrbach	8.69, 49.38005	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+242	na	III_18_0023	Wiesloch	8.70178, 49.29504	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+243	na	III_18_0027	Baiertal	8.73772, 49.30253	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+244	na	III_18_0029	Tairnbach	8.75625, 49.26367	na	beerdichung	999	na	beerdichung	999	na	Beerdigung	999
+245	na	III_36_0028	Weiterdingen	8.76917, 47.79954	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+246	na	III_18_0031	Horrenberg	8.78051, 49.28149	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+247	na	III_18_0030	Eschelbach	8.78417, 49.24823	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+248	na	III_20_0035, III_20_0037	Flehingen	8.78694, 49.0869	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+249	na	III_37_0023	Radolfzell	8.97017, 47.74493	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+250	na	III_36_0049	Stahringen	8.97547, 47.78849	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+251	na	II_60_0064	Unterschwarzach	8.98202, 49.36856	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+252	na	III_20_0056	Gemmingen	8.98358, 49.15633	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+253	na	II_59_0095	Rockenau	8.99904, 49.44673	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+254	na	III_18_0053	Flinsbach	8.9996, 49.30946	na	beerdiching	999	na	beerdichung	999	na	Beerdigung	999
+255	na	III_25_0044	Sindelfingen	9.00194, 48.70797	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+256	na	III_35_0054	Schwackenreute	9.04401, 47.91392	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+257	na	II_59_0099	Zwingenberg	9.04439, 49.41287	na	beerdischung	999	na	beerdischung	999	na	Beerdigung	999
+258	na	III_37_0031	Kaltbrunn	9.07201, 47.73526	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+259	na	III_18_0064	Hochhausen	9.1008, 49.323	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+260	na	III_37_0042	Unteruhldingen	9.2334, 47.72271	na	beärdigung	999	na	beerdigung	999	na	Beerdigung	999
+261	na	III_34_0064	Pfullendorf	9.25466, 47.92614	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+262	na	II_57_0143	Hornbach	9.29012, 49.591	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+263	na	III_18_0076	Stein	9.29954, 49.26198	na	beerdichung	999	na	beerdichung	999	na	Beerdigung	999
+264	na	III_37_0054, III_37_0055	Markdorf	9.38933, 47.72088	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+265	na	II_89_0006	Wessental	9.41215, 49.73004	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+266	na	II_90_0005	Höpfingen	9.42753, 49.60185	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+267	na	II_89_0022	Reicholzheim	9.53393, 49.72663	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+268	na	II_89_0023	Bronnbach	9.54654, 49.71348	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+269	na	II_93_0012	Erlenbach	9.5514, 49.38553	na	beärdichung	999	na	beerdichung	999	na	Beerdigung	999
+270	na	II_89_0019	Urphar	9.5706, 49.74798	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+271	na	II_89_0025	Uissigheim	9.57194, 49.67957	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+272	na	II_90_0011	Dienstadt	9.61232, 49.63373	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+273	na	II_90_0017, II_90_0020, II_90_0018, II_90_0019	Hochhausen	9.63526, 49.6621	na	beerdichung, beerdigung	999	na	beerdichung, beerdigung	999	na	Beerdigung	999
+274	na	II_92_0026	Boxberg	9.64298, 49.48181	na	beerdischung	999	na	beerdischung	999	na	Beerdigung	999
+275	na	II_93_0023	Klepsau	9.67156, 49.38805	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+276	na	II_91_0017	Lauda	9.70203, 49.5702	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+277	na	II_91_0022	Königshofen	9.73105, 49.54759	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+278	na	II_91_0027	Kützbrunn	9.76136, 49.58159	na	beerdigung	999	na	beerdigung	999	na	Beerdigung	999
+279	na	II_91_0028	Messelhausen	9.7887, 49.5756	na	berdigung	999	na	beerdigung	999	na	Beerdigung	999

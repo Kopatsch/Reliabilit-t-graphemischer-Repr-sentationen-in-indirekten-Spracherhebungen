@@ -1,0 +1,5 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Stra G 3	III_11_0010	Meisengott (Maisonsgoutte), Meisengott	7.26349, 48.3533	hach	hach	0	hach	hach	0	Hach	Hach	0
+1	na	III_11_0004, III_11_0003	Breitenbach	7.2921, 48.36514	na	hach, hāch	999	na	hach	999	na	Hach	999
+2	na	III_11_0086	Wanzel	7.30201, 48.28406	na	hoach	999	na	hach	999	na	Hach	999
+3	na	III_11_0085	Diefenbach	7.32766, 48.31529	na	hoch	999	na	hach	999	na	Hach	999

@@ -1,0 +1,56 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Co T1	na	Brückensweiler (Bréchaumont)	7.0684, 47.66973	hatzla	na	999	hatsle	na	999	Hetzle	na	999
+1	Stra R 1	na	Boofzheim	7.68036, 48.33214	åtzle	na	999	atsle	na	999	Hetzle	na	999
+2	Co Xa 4	na	Herten	7.72902, 47.55493	hätzle	na	999	hetsle	na	999	Hetzle	na	999
+3	Co Xa 2	III_17_0042	Nollingen, Nollingen	7.7716, 47.57363	häzlä	hätzle	2	hetsle	hetsle	0	Hetzle	Hetzle	0
+4	Stra L 10	III_11_0044	Hugsweier, Hugsweier	7.83742, 48.36009	azle	atzle	1	atsle	atsle	0	Hetzle	Hetzle	0
+5	Co Ya 1	III_17_0047	Wallbach, Wallbach	7.91336, 47.56871	hätzle	hätzlä	1	hetsle	hetsle	0	Hetzle	Hetzle	0
+6	Co Y 6	III_16_0123	Altenschwand, Altenschwand	7.976, 47.63697	hätzlä	hatzle	2	hetsle	hatsle	1	Hetzle	Hetzle	0
+7	TÜB p14	na	Stadelhofen	8.03555, 48.55945	atzle	na	999	atsle	na	999	Hetzle	na	999
+8	TUTT S19	III_16_0139	Rotzel, Rotzel	8.06151, 47.59473	hätzle	hätzle	0	hetsle	hetsle	0	Hetzle	Hetzle	0
+9	TÜB h5	na	Achern	8.06363, 48.62871	atzle	na	999	atsle	na	999	Hetzle	na	999
+10	TUTT S18	na	Hochsal	8.08003, 47.5887	hätzla	na	999	hetsle	na	999	Hetzle	na	999
+11	TUTT Sa8, TUTT S5	na	Luttingen, Luttingen und Grunholz	8.09878, 47.57252	hatzlä, hätzle	na	999	hetsle, hatsle	na	999	Hetzle	na	999
+12	TÜB D3	na	Oberharmersbach	8.12723, 48.37386	atzle	na	999	atsle	na	999	Hetzle	na	999
+13	TUTT T1	na	Weilheim	8.24051, 47.65862	häzle	na	999	hetsle	na	999	Hetzle	na	999
+14	TUTT M13	na	Dietlingen	8.24371, 47.67342	häzle	na	999	hetsle	na	999	Hetzle	na	999
+15	TUTT F5	III_36_0015	Oberwangen u. Unterwangen, Oberwangen	8.3775, 47.7761	hätzle	hätzle	0	hetsle	hetsle	0	Hetzle	Hetzle	0
+16	TUTT F1	na	Münchingen	8.39596, 47.82501	hätzle	na	999	hetsle	na	999	Hetzle	na	999
+17	TUTT F13	na	Dillendorf	8.40272, 47.79846	atzele	na	999	atsele	na	999	Hetzle	na	999
+18	TUTT U11	na	Bergöschingen	8.42093, 47.59537	hätzle	na	999	hetsle	na	999	Hetzle	na	999
+19	TUTT F12	III_36_0011	Lembach, Lembach	8.43056, 47.80389	hézlĕ	hetzle	3	hetsle	hetsle	0	Hetzle	Hetzle	0
+20	TUTT U10	na	Stetten (bei Waldshut)	8.4393, 47.59011	hätzle	na	999	hetsle	na	999	Hetzle	na	999
+21	TUTT F11	na	Lausheim	8.45286, 47.81178	hezle	na	999	hetsle	na	999	Hetzle	na	999
+22	TUTT c5	na	Neuhausen	8.45905, 48.13221	häzle	na	999	hetsle	na	999	Hetzle	na	999
+23	TUTT F9	na	Grimmelshofen	8.49573, 47.78613	hätzle	na	999	hetsle	na	999	Hetzle	na	999
+24	TUTT d3	na	Weilersbach	8.50084, 48.09608	hätzle	na	999	hetsle	na	999	Hetzle	na	999
+25	TUTT P6	na	Büsingen	8.69282, 47.69702	häzzle	na	999	hetsle	na	999	Hetzle	na	999
+26	KST A1	na	Bauerbach	8.74269, 49.07514	hazle	na	999	hatsle	na	999	Hetzle	na	999
+27	na	III_13_0108	Sulzmatt	7.23437, 47.96595	na	hatzlé	999	na	hatsle	999	na	Hetzle	999
+28	na	III_14_0034	Ensisheim	7.35432, 47.86522	na	hatzle	999	na	hatsle	999	na	Hetzle	999
+29	na	III_11_0019	Bernhardsweiler	7.40011, 48.36706	na	atzle	999	na	atsle	999	na	Hetzle	999
+30	na	III_17_0071	Biedertal	7.44789, 47.46978	na	hätzla	999	na	hetsle	999	na	Hetzle	999
+31	na	III_14_0135	Schliengen	7.57624, 47.75579	na	hätzle	999	na	hetsle	999	na	Hetzle	999
+32	na	III_16_0082, III_16_0079	Lörrach	7.66409, 47.61258	na	hätzle	999	na	hetsle	999	na	Hetzle	999
+33	na	III_16_0117	Wehr	7.9045, 47.62927	na	hätsle	999	na	hetsle	999	na	Hetzle	999
+34	na	III_10_0120	Zunsweier	7.94627, 48.42199	na	atzle	999	na	atsle	999	na	Hetzle	999
+35	na	III_16_0119	Hütten	7.94873, 47.62902	na	haätzle	999	na	hatsle	999	na	Hetzle	999
+36	na	III_17_0055, III_17_0052, III_17_0048, III_17_0053	Säckingen	7.96171, 47.57476	na	häzle, härzle, hätzle	999	na	hetsle, hertsle	999	na	Hetzle	999
+37	na	III_11_0072	Biberach	8.0278, 48.33891	na	azle	999	na	atsle	999	na	Hetzle	999
+38	na	III_9_0098	Oensbach	8.03279, 48.60579	na	atzle	999	na	atsle	999	na	Hetzle	999
+39	na	III_11_0133	Unterentersbach	8.05965, 48.32962	na	atzle	999	na	atsle	999	na	Hetzle	999
+40	na	III_11_0073	Zell am Harmersbach	8.08843, 48.35461	na	atzle	999	na	atsle	999	na	Hetzle	999
+41	na	III_9_0102, III_9_0101	Kappelrodeck	8.11791, 48.59087	na	atzle	999	na	atsle	999	na	Hetzle	999
+42	na	III_16_0143	Birndorf	8.13384, 47.62519	na	hätzle	999	na	hetsle	999	na	Hetzle	999
+43	na	III_16_0147	Waldkirch	8.17132, 47.65851	na	hätzla	999	na	hetsle	999	na	Hetzle	999
+44	na	III_16_0159	Schmitzingen	8.19315, 47.65491	na	häzlə	999	na	hetsle	999	na	Hetzle	999
+45	na	III_16_0160	Indlekofen	8.22113, 47.65889	na	hetzle	999	na	hetsle	999	na	Hetzle	999
+46	na	III_15_0125	Berau	8.25823, 47.69472	na	hätzle	999	na	hetsle	999	na	Hetzle	999
+47	na	III_14_0076	Holzschlag	8.26456, 47.84976	na	hetzle	999	na	hetsle	999	na	Hetzle	999
+48	na	III_16_0166	Rheinheim	8.30495, 47.58771	na	häzle	999	na	hetsle	999	na	Hetzle	999
+49	na	III_12_0157, III_12_0155	St. Georgen	8.33183, 48.12564	na	hähtzle, hätzlä	999	na	hetsle	999	na	Hetzle	999
+50	na	III_38_0009	Küssnach	8.36574, 47.59396	na	hätzle	999	na	hetsle	999	na	Hetzle	999
+51	na	III_38_0007	Wutöschingen	8.36613, 47.65918	na	häzle	999	na	hetsle	999	na	Hetzle	999
+52	na	III_36_0007	Brunnadern	8.38083, 47.79495	na	hetzle	999	na	hetsle	999	na	Hetzle	999
+53	na	III_35_0010	Ewattingen	8.44464, 47.83863	na	hätzle	999	na	hetsle	999	na	Hetzle	999
+54	na	III_36_0013	Blumegg	8.49815, 47.80904	na	hätzle	999	na	hetsle	999	na	Hetzle	999

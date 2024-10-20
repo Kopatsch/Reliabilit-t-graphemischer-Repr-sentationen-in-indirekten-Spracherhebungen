@@ -1,0 +1,239 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_maurer_align	item_DWA	item_DWA_align	Levenshtein_item
+0	Co w 4	III_14_0003	Mollau , Mollau	6.97488, 47.87245	gīfelä	g ī f e l ä	giefele	g ie f e l e	3
+1	Co r 3	III_13_0110	Westhalten, Westhalten	7.2595, 47.95742	giefla	g ie f l a	geefla	g ee f l a	1
+2	Hag U 1	III_7_0033	Etschburg (Eschbourg), Eschburg	7.29591, 48.81267	giffel	g i ff e l	gēflel	g ē f l e l	2
+3	Co l 7	III_13_0034	Logelnheim (Logelheim), Logelnheim	7.40918, 48.0211	giefla	g ie f l a	gefla	g e f l a	1
+4	Co d 5	III_12_0092	Riedweier, Riedweier	7.44536, 48.12387	gūfela	g ū f e l a	giefeler	g ie f e l e r	4
+5	Co e 12	III_12_0103	Sasbach, Sasbach	7.61363, 48.13798	giefli	g ie f l i	gifla	g i f l a	2
+6	Co P4	III_15_0059	Feuerbach, Feuerbach	7.642, 47.73653	güfli	g ü f l i	güfle	g ü f l e	1
+7	Co e 7	III_12_0032, III_12_0031	Wyhl am Kaiserstuhl, Wyhl	7.64933, 48.1663	givli	g i v l i	güfli	g ü f l i	2
+8	Co e 2	III_12_0105	Kiechlinsbergen, Kiechlinsbergen	7.65306, 48.12469	giefle	g ie f l e	geefli	g ee f l i	2
+9	Co e 11	III_12_0104	Königschaffhausen am Kaiserstuhl, Königschaffhausen	7.65562, 48.13337	gefli	g e f l i	gifli	g i f l i	1
+10	Co B1	III_14_0050	Tunsel, Tunsel	7.66581, 47.90315	güfle	g ü f l e	güfeli	g ü f e l i	2
+11	Co u 18	III_13_0127	Niederrimsingen, Niederrimsingen	7.67114, 47.98702	giefli	g ie f l i	giveli	g i v e l i	2
+12	Co f 12	III_12_0123	Amoltern, Amoltern	7.67629, 48.12873	gīefli	g ī e f l i	giefli	g ie f l i	1
+13	Co n 4	III_13_0059, III_13_0058	Merdingen, Merdingen	7.68864, 48.0173	gi̠fli	g i ̠ f l i	gifli	g i f l i	1
+14	Co B3	III_14_0055, III_14_0056	Wettelbrunn, Wettelbrunn	7.69689, 47.87134	giefli	g ie f l i	gifili	g i f i l i	2
+15	Co u 16	III_13_0129	Munzingen, Munzingen	7.69883, 47.96873	gi̠fli	g i ̠ f l i	giifli	g ii f l i	1
+16	Co f 9	III_12_0119	Forchheim, Forchheim	7.7031, 48.16341	gīfli	g ī f l i	giifli	g ii f l i	2
+17	Co f 1	III_12_0122, III_12_0120, III_12_0121	Endingen, Endingen	7.70312, 48.1419	gifle	g i f l e	gifli	g i f l i	1
+18	Co J7	III_14_0147, III_15_0061	Malsburg, Malsburg	7.70866, 47.73257	güfle	g ü f l e	güefli	g ü e f l i	2
+19	Stra Y 2	III_12_0035	Oberhausen, Oberhausen	7.71048, 48.22667	gīfli	g ī f l i	giefli	g ie f l i	2
+20	Co n 13	III_13_0056	Waltershofen, Waltershofen	7.71857, 48.02338	gīfle	g ī f l e	gifli	g i f l i	2
+21	Co B10	III_14_0057	Grunern bei Müllheim, Grunern	7.72184, 47.87162	giflé	g i f l é	gifli	g i f l i	1
+22	Co n 12	III_13_0050, III_13_0051	Bötzingen, Bötzingen	7.72593, 48.07743	gīvli̍	g ī v l i ̍	giefli	g ie f l i	4
+23	Co f 10	III_12_0111	Bahlingen, Bahlingen	7.73937, 48.12209	gīfaͤli	g ī f a ͤ l i	giifili	g ii f i l i	4
+24	Co f 2	III_12_0113	Riegel, Riegel	7.7507, 48.15056	gifli	g i f l i	gievle	g ie v l e	3
+25	Stra Y 8	III_12_0038, III_12_0039, III_12_0037	Herbolzheim a. d. Bleich, Herbolzheim	7.77743, 48.22249	gifli	g i f l i	giefli	g ie f l i	1
+26	Stra Y 4	III_12_0033	Ringsheim, Ringsheim	7.78041, 48.24632	gīflī	g ī f l ī	giefli	g ie f l i	3
+27	Stra Y 7	III_12_0040	Tutschfelden, Tutschfelden	7.80659, 48.21534	gifli	g i f l i	güfle	g ü f l e	2
+28	Stra R 7	III_11_0113	Mahlberg, Mahlberg	7.81323, 48.28708	gifli	g i f l i	giifli	g ii f l i	1
+29	Stra R 10	III_11_0117	Ettenheim, Ettenheim	7.81361, 48.25631	gīfli	g ī f l i	giefli	g ie f l i	2
+30	Stra R 9	III_11_0116, III_11_0115	Altdorf, Altdorf	7.81401, 48.26606	gīfli	g ī f l i	giefli	g ie f l i	2
+31	Stra Y 5	III_12_0034	Ettenheimweiler, Ettenheimweiler	7.82007, 48.23676	güfli	g ü f l i	giefle	g ie f l e	3
+32	Stra R 5	III_11_0112	Kippenheim, Kippenheim	7.82466, 48.29439	gifli	g i f l i	giifli	g ii f l i	1
+33	Co n 2	III_13_0060	Reute, Reute	7.82538, 48.08175	güfli	g ü f l i	gīfli	g ī f l i	1
+34	Stra Y a 1	III_12_0112	Heimbach, Heimbach	7.82936, 48.1638	gīfli	g ī f l i	gifli	g i f l i	1
+35	Stra Y 10	III_12_0042	Bleichheim, Bleichheim	7.8306, 48.20842	gifli	g i f l i	giefli	g ie f l i	1
+36	Stra L 9	III_11_0053	Schuttern, Schuttern	7.85268, 48.38219	gefli	g e f l i	giefli	g ie f l i	1
+37	Stra S 10	III_11_0132	Wallburg, Wallburg	7.85339, 48.26704	gīfli	g ī f l i	gifli	g i f l i	1
+38	Stra p 3	III_9_0078	Honau, Honau	7.87132, 48.64025	gifl	g i f l	kiffle	k i ff l e	3
+39	Stra Z 1	III_12_0047	Ettenheimmünster, Ettenheimmünster	7.88015, 48.24152	güfli	g ü f l i	gifli	g i f l i	1
+40	Co C2	III_14_0070	Wieden, Wieden	7.8814, 47.84169	gīfli	g ī f l i	gifli	g i f l i	1
+41	Stra L 1	III_10_0118	Niederschopfheim, Niederschopfheim	7.891, 48.41717	gifli	g i f l i	gifle	g i f l e	1
+42	Stra L 13	III_11_0061	Kuhbach, Kuhbach	7.90787, 48.33884	güfli	g ü f l i	güefli	g ü e f l i	1
+43	Stra D 15	III_10_0119	Hofweier, Hofweier	7.90797, 48.42392	giefli	g ie f l i	güfli	g ü f l i	2
+44	Hag K 3	III_5_0092	Ingolsheim, Ingolsheim	7.93636, 48.97357	geffel	g e ff e l	gefel	g e f e l	1
+45	Stra S 6	III_11_0128, III_11_0129, III_11_0127	Seelbach, Seelbach	7.94104, 48.30987	gifli	g i f l i	güfli	g ü f l i	1
+46	Co Y 7	III_16_0119	Hütten, Hütten	7.94873, 47.62902	gülfeli	g ü l f e l i	güfeli	g ü f e l i	1
+47	Stra Z 2	III_12_0049	Dörlinbach, Dörlinbach	7.95383, 48.24804	gīfle	g ī f l e	giefli	g ie f l i	3
+48	Co Y 9	III_16_0120	Bergalingen, Bergalingen	7.95943, 47.61266	gülfeli	g ü l f e l i	güfeli	g ü f e l i	1
+49	Co Y 6	III_16_0123	Altenschwand, Altenschwand	7.976, 47.63697	güllfelli	g ü ll f e ll i	güllfeli	g ü ll f e l i	1
+50	Co Y 5	III_16_0113	Niedergebisbach, Niedergebisbach	7.99251, 47.65054	güefeli	g ü e f e l i	güfeli	g ü f e l i	1
+51	Stra p 7	III_9_0086	Wagshurst, Wagshurst	7.99491, 48.62035	gīfel	g ī f e l	gifle	g i f l e	3
+52	TUTT D5, Co K12	III_15_0073	Todtmoos, Todtmoos (-Rütte), Todtmoos	8.00438, 47.74133	güfli	g ü f l i	güfili	g ü f i l i	1
+53	TUTT Sa4	III_17_0059	Niederhof, Niederhof	8.03951, 47.56938	güefili	g ü e f i l i	güfili	g ü f i l i	1
+54	TUTT S6	III_16_0129, III_16_0130	Oberwihl, Oberwihl	8.04597, 47.62098	güfili	g ü f i l i	güfeli	g ü f e l i	1
+55	KST S8	III_7_0117, III_7_0116, III_7_0115	Stollhofen, Stollhofen	8.04874, 48.76575	giffle	g i ff l e	gifle	g i f l e	1
+56	TÜB L5	III_11_0135	Steinach, Steinach	8.05831, 48.30508	güfli	g ü f l i	gufel	g u f e l	3
+57	TUTT S19	III_16_0139	Rotzel, Rotzel	8.06151, 47.59473	güfeli	g ü f e l i	güfele	g ü f e l e	1
+58	TUTT S7	III_16_0131	Niederwihl, Niederwihl	8.07095, 47.61851	güfili	g ü f i l i	güfeli	g ü f e l i	1
+59	TÜB S4	III_12_0055	Elzach, Elzach	8.07142, 48.17331	gīfli	g ī f l i	gifli	g i f l i	1
+60	TUTT S9	III_16_0134	Görwihl, Görwihl	8.07817, 47.64186	guefeli	g u e f e l i	güfili	g ü f i l i	3
+61	TUTT L/8,9	III_15_0098, III_15_0099	Hierbach - Wilfingen, Hierbach, Wilfingen	8.09123, 47.686	gǖfeli	g ü ̄ f e l i	güfeli	g ü f e l i	1
+62	TUTT S21	III_16_0141	Schachen, Schachen	8.09406, 47.60368	güfili	g ü f i l i	güfele	g ü f e l e	2
+63	TUTT S5	III_17_0060	Luttingen, Luttingen	8.09878, 47.57252	güllfelli	g ü ll f e ll i	güfeli	g ü f e l i	3
+64	TUTT L2	III_15_0110	Wittenschwand, Wittenschwand	8.10083, 47.72846	güfeli	g ü f e l i	güfili	g ü f i l i	1
+65	TUTT L10	III_15_0100	Wolpadingen, Wolpadingen	8.10774, 47.69861	gǖfeli	g ü ̄ f e l i	glüfeli	g l ü f e l i	2
+66	KST S14	III_7_0113	Hügelsheim, Hügelsheim	8.10904, 48.79654	giffle	g i ff l e	güffle	g ü ff l e	1
+67	TUTT S17	III_16_0146	Albert, Albbruck-Albert	8.11012, 47.58535	güffeli	g ü ff e l i	güfeli	g ü f e l i	1
+68	TÜB S5	III_12_0062, III_12_0061	Unterprechtal, Unterprechtal	8.12114, 48.20548	giefli	g ie f l i	gifli	g i f l i	1
+69	TUTT L1	III_15_0112, III_15_0111	Urberg, Urberg	8.12409, 47.73478	güvili	g ü v i l i	güveli	g ü v e l i	1
+70	TUTT L16	III_15_0103	Schlageten, Schlageten	8.12512, 47.71178	gufele	g u f e l e	güfele	g ü f e l e	1
+71	TUTT D4	III_14_0173, III_14_0171, III_14_0174, III_14_0172	St. Blasien, St. Blasien	8.12792, 47.76144	güfeli	g ü f e l i	güfele	g ü f e l e	1
+72	TUTT S16	III_16_0145	Albruck-Kiesenbach, Albruck	8.14411, 47.60046	güfili	g ü f i l i	chüfeli	ch ü f e l i	3
+73	TUTT S13	III_16_0169	Birkingen, Birkingen	8.1477, 47.62511	güefeli	g ü e f e l i	güffeli	g ü ff e l i	1
+74	TUTT S11	III_16_0136	Oberalpfen, Oberalpfen	8.15262, 47.65791	gǖfili	g ü ̄ f i l i	güfeli	g ü f e l i	2
+75	KST L5	III_6_0090	Plittersdorf bei Rastatt, Plittersdorf	8.15649, 48.88249	giffel	g i ff e l	giffle	g i ff l e	2
+76	TUTT M1	III_15_0120	Attlisberg, Attlisberg	8.16607, 47.72173	gǖfili	g ü ̄ f i l i	güfili	g ü f i l i	1
+77	TUTT L14, TUTT L13	III_15_0123	Bannholz, Remetschwiel und Bannholz, Bannholz	8.167, 47.67614	güefili	g ü e f i l i	güfili	g ü f i l i	1
+78	TUTT M3	III_15_0121	Amrigschwand, Amrigschwand	8.1855, 47.71974	gǖfili	g ü ̄ f i l i	güfili	g ü f i l i	1
+79	TUTT b3	III_12_0161	Schonach, Schonach	8.20179, 48.14296	gîfli	g î f l i	gīfli	g ī f l i	1
+80	TÜB E2	III_11_0080	Seebach, Seebach	8.20278, 48.57466	gīflĭ	g ī f l ĭ	giefli	g ie f l i	3
+81	TUTT E5	III_14_0178	Staufen, Staufen	8.21221, 47.75633	güfele	g ü f e l e	güfeli	g ü f e l i	1
+82	KST E7	III_5_0130	Elchesheim, Elchesheim	8.2136, 48.93047	giefel	g ie f e l	gifel	g i f e l	1
+83	TUTT T2	III_16_0160	Indlekofen, Indlekofen	8.22113, 47.65889	güffili	g ü ff i l i	güfili	g ü f i l i	1
+84	TUTT M4	III_15_0122	Brenden, Brenden	8.22606, 47.72946	küfele	k ü f e l e	güfeli	g ü f e l i	2
+85	TÜB T4	III_12_0068, III_12_0067	Niederwasser, Niederwasser	8.22818, 48.18982	giefli	g ie f l i	güfli	g ü f l i	2
+86	TUTT b4	III_12_0164, III_12_0163, III_12_0165	Triberg, Triberg	8.2316, 48.13032	gīfli	g ī f l i	gifli	g i f l i	1
+87	KST E9	III_5_0131	Au am Rhein, Au am Rhein	8.23933, 48.95136	gievle	g ie v l e	gifel	g i f e l	3
+88	TUTT T1	III_16_0161	Weilheim, Weilheim	8.24051, 47.65862	güffili	g ü ff i l i	güfili	g ü f i l i	1
+89	TUTT q2	III_13_0157	Schollach, Schollach	8.24463, 47.98628	giefli	g ie f l i	gievle	g ie v l e	2
+90	TUTT i3	III_13_0089	Urach, Urach	8.25368, 48.00477	giefle	g ie f l e	gîfli	g î f l i	3
+91	TUTT b5	III_12_0152	Nussbach, Nussbach	8.25836, 48.13097	gīfli	g ī f l i	gifle	g i f l e	2
+92	TUTT i4	III_13_0088	Linach, Linach	8.26602, 48.02831	gifle	g i f l e	giifle	g ii f l e	1
+93	TUTT q4	III_13_0160	Eisenbach, Eisenbach	8.26837, 47.96084	giefle	g ie f l e	giefli	g ie f l i	1
+94	TÜB i2	III_9_0105	Forbach-Hundsbach, Forbach-Hundsbach	8.27064, 48.62026	gīftli	g ī f t l i	gliftle	g l i f t l e	3
+95	KST E4	III_5_0136, III_5_0137, III_5_0138	Mörsch, Mörsch	8.28883, 48.96003	klüfle	k l ü f l e	klieftl	k l ie f t l	4
+96	TUTT q5	III_13_0159	Bubenbach, Bubenbach	8.29595, 47.96531	gīfli	g ī f l i	giffli	g i ff l i	2
+97	TUTT T16	III_16_0166	Rheinheim, Rheinheim	8.30495, 47.58771	güfeli	g ü f e l i	güfili	g ü f i l i	1
+98	TUTT x7	III_14_0077	Göschweiler, Göschweiler	8.31065, 47.85812	giffili	g i ff i l i	gifili	g i f i l i	1
+99	TUTT M6	III_14_0183, III_14_0182, III_14_0181	Birkendorf, Birkendorf	8.3126, 47.74971	güfilli	g ü f i ll i	güfele	g ü f e l e	3
+100	KST E3	III_5_0135	Forchheim, Forchheim	8.31683, 48.97425	gliefdel	g l ie f d e l	gliftel	g l i f t e l	2
+101	TUTT q3	III_13_0158	Hammereisenbach, Hammereisenbach	8.31732, 47.99481	giefli	g ie f l i	glifli	g l i f l i	2
+102	TUTT T15	III_16_0167	Dangstetten, Dangstetten	8.31944, 47.59581	güffili	g ü ff i l i	güffeli	g ü ff e l i	1
+103	TUTT Ta1	III_16_0156	Reckingen, Reckingen	8.33116, 47.57477	güfili	g ü f i l i	güfeli	g ü f e l i	1
+104	KST M5	III_6_0103	Waldprechtsweier, Waldprechtsweier	8.33173, 48.8612	klifel	k l i f e l	klüftl	k l ü f t l	2
+105	TÜB c1	III_25_0006	Obertsrot und Hilpertsau, Obertsrot	8.34633, 48.74303	gieftel	g ie f t e l	giftel	g i f t e l	1
+106	TUTT U4	III_38_0006	Horheim, Horheim	8.34737, 47.64854	güffili	g ü ff i l i	güüfli	g üü f l i	2
+107	TUTT y3	III_35_0003	Seppenhofen, Seppenhofen	8.34864, 47.8748	giffili	g i ff i l i	giefili	g ie f i l i	1
+108	TUTT F3	III_36_0006	Wellendingen, Wellendingen	8.35185, 47.79705	giffili	g i ff i l i	gifili	g i f i l i	1
+109	TUTT r4	III_34_0017	Unterbränd, Unterbränd	8.35693, 47.93373	gifle	g i f l e	gifli	g i f l i	1
+110	KST N2, KST U6	III_24_0002	Sulzbach, Sulzbach	8.35791, 48.80596	gīftl	g ī f t l	gifdl	g i f d l	2
+111	TUTT k9	III_33_0002	Herzogenweiler, Herzogenweiler	8.37157, 48.0254	glifli	g l i f l i	gifli	g i f l i	1
+112	TUTT Ua1	III_38_0083	Lienheim, Lienheim	8.37469, 47.5721	güfili	g ü f i l i	güfele	g ü f e l e	2
+113	KST N3	III_23_0002	Oberweier, Oberweier	8.37866, 48.91717	klieftl	k l ie f t l	glieftl	g l ie f t l	1
+114	TUTT N6	III_37_0006	Obereggingen, Obereggingen	8.38631, 47.70175	güfeli	g ü f e l i	güfele	g ü f e l e	1
+115	TÜB c3	III_25_0005	Reichental, Reichental	8.39101, 48.72956	giefdl	g ie f d l	giftlä	g i f t l ä	3
+116	KST r4	III_20_0006	Leopoldshafen, Leopoldshafen	8.3923, 49.09933	kliefel	k l ie f e l	klüfel	k l ü f e l	2
+117	TUTT U2	III_38_0001	Rechberg, Rechberg	8.39987, 47.6501	güfili	g ü f i l i	güfeli	g ü f e l i	1
+118	KST N4	III_23_0007	Schluttenbach, Schluttenbach	8.40022, 48.89885	klivle	k l i v l e	kliflen	k l i f l e n	2
+119	TUTT y11	III_35_0009	Bachheim, Bachheim	8.4031, 47.85931	giffilli	g i ff i l l i	giffili	g i ff i l i	1
+120	TUTT k7	III_34_0001	Tannheim, Tannheim	8.41033, 47.99946	gliffli	g l i ff l i	glifli	g l i f l i	1
+121	TUTT U12	III_38_0011	Grießen, Griessen	8.4114, 47.62774	güfele	g ü f e l e	güfeli	g ü f e l i	1
+122	TUTT U11	III_38_0015	Bergöschingen, Bergöschingen	8.42093, 47.59537	güfeli	g ü f e l i	güffili	g ü ff i l i	2
+123	TUTT r2	III_34_0002	Wolterdingen, Wolterdingen	8.42701, 47.96861	gifli	g i f l i	gliffli	g l i ff l i	2
+124	TUTT N2	III_37_0008	Eberfingen, Eberfingen	8.42708, 47.72036	güffeli	g ü ff e l i	güfili	g ü f i l i	2
+125	KST N9	III_23_0012	Burbach, Burbach	8.43853, 48.87037	klīfle	k l ī f l e	glüfle	g l ü f l e	2
+126	TUTT r6	III_34_0003, III_34_0004	Bräunlingen, Bräunlingen	8.44765, 47.9301	güffli	g ü ff l i	güfli	g ü f l i	1
+127	TUTT F11	III_36_0012	Lausheim, Lausheim	8.45286, 47.81178	giffili	g i ff i l i	gifilli	g i f i ll i	2
+128	TUTT k2	III_33_0006	Rietheim, Rietheim	8.45381, 48.02981	gīfli	g ī f l i	gifli	g i f l i	1
+129	TUTT y7	III_35_0001	Mundelfingen, Mundelfingen	8.46432, 47.8676	gifeli	g i f e l i	gifele	g i f e l e	1
+130	KST N7	III_23_0004	Etzenrot, Etzenrot	8.46465, 48.90968	klievle	k l ie v l e	kluvle	k l u v l e	2
+131	KST N8	III_23_0011	Spielberg, Spielberg	8.47045, 48.89758	gliefle	g l ie f l e	glievle	g l ie v l e	1
+132	KST F11	III_22_0009	Reichenbach bei Ettlingen, Reichenbach	8.47546, 48.92348	gliefle	g l ie f l e	kliefle	k l ie f l e	1
+133	KST r5	III_20_0009	Friedrichstal, Friedrichstal	8.48091, 49.10481	glüvle	g l ü v l e	klüvle	k l ü v l e	1
+134	KST F9	III_22_0008	Palmbach, Palmbach	8.48266, 48.94683	klievle	k l ie v l e	glihfle	g l i h f l e	3
+135	TUTT U9	III_38_0016	Dettighofen, Dettighofen	8.48357, 47.62374	güfili	g ü f i l i	güfeli	g ü f e l i	1
+136	TUTT y8	III_35_0007	Hausen vor Wald, Hausen	8.49054, 47.89134	giffili	g i ff i l i	kliifli	k l ii f l i	4
+137	KST l9	III_19_0012	Neudorf, Neudorf	8.49692, 49.17524	klüvle	k l ü v l e	kliftl	k l i f t l	4
+138	TUTT d3	III_32_0118	Weilersbach, Weilersbach	8.50084, 48.09608	glüfli	g l ü f l i	glivli	g l i v l i	2
+139	KST O8	III_23_0008, III_23_0010	Langenalb, Langenalb	8.50104, 48.84402	glivle	g l i v l e	gliftle	g l i f t l e	2
+140	KST O1	III_22_0014	Langensteinbach, Langensteinbach	8.50638, 48.915	glīevle	g l ī e v l e	klüvle	k l ü v l e	3
+141	KST s5	III_20_0012	Spöck, Spöck	8.51033, 49.11179	kliefel	k l ie f e l	glüfl	g l ü f l	4
+142	KST G7	III_22_0145	Stupferich, Stupferich	8.51098, 48.95396	glievle	g l ie v l e	gliewle	g l ie w l e	1
+143	TUTT z4	III_35_0012	Behla, Behla	8.51475, 47.89489	glüfli	g l ü f l i	giefli	g ie f l i	2
+144	KST G6	III_22_0015	Mutschelbach, Mutschelbach	8.53428, 48.94409	glifle	g l i f l e	gliefle	g l ie f l e	1
+145	TUTT z3	III_35_0015, III_35_0013, III_35_0014	Sumpfohren, Sumpfohren	8.53796, 47.90851	gliffli	g l i ff l i	glifli	g l i f l i	1
+146	KST G1	III_22_0010, III_22_0013, III_22_0012, III_22_0011	Söllingen, Söllingen	8.5425, 48.98622	gliefle	g l ie f l e	glieftle	g l ie f t l e	1
+147	KST O6	III_23_0016	Weiler Kr. Pforzheim, Weiler	8.54326, 48.8837	glivle	g l i v l e	klevle	k l e v l e	2
+148	TUTT s7	III_34_0023	Aasen, Aasen	8.5512, 47.98	glüfli	g l ü f l i	glifli	g l i f l i	1
+149	TUTT s5	III_34_0018	Pfohren, Pfohren	8.55997, 47.9474	glüpfli	g l ü p f l i	glüfli	g l ü f l i	1
+150	KST z5	III_21_0017	Wöschbach, Wöschbach	8.56737, 48.99948	klǖfle	k l ü ̄ f l e	klüflen	k l ü f l e n	2
+151	KST G3	III_22_0016	Singen bei Pforzheim, Singen	8.56804, 48.95764	glīfle	g l ī f l e	gliefle	g l ie f l e	2
+152	KST O4	III_23_0021	Ellmendingen, Ellmendingen	8.5761, 48.90131	gliéfli	g l i é f l i	glīftle	g l ī f t l e	4
+153	TUTT z1	III_35_0023	Gutmadingen, Gutmadingen	8.61605, 47.91149	kliffli	k l i ff l i	glivlen	g l i v l e n	5
+154	KST G10	III_22_0022	Bilfingen, Bilfingen	8.61996, 48.95027	glifle	g l i f l e	gliefle	g l ie f l e	1
+155	KST O9	III_23_0028	Büchenbronn, Büchenbronn	8.66335, 48.85558	glifzle	g l i f z l e	klipftsle	k l i p f t s l e	4
+156	KST A3	III_21_0022	Neibsheim (bei Bruchsal), Neibsheim	8.68509, 49.07104	glifle	g l i f l e	gliefle	g l ie f l e	1
+157	KST H1	III_22_0028	Nussbaum, Nussbaum	8.69353, 48.98977	glīfle	g l ī f l e	gliefle	g l ie f l e	2
+158	TUTT J2 /2	III_36_0036, III_36_0037, III_36_0038	Schlatt (am Randen), Schlatt	8.70119, 47.76891	glüfeli	g l ü f e l i	chlüfli	ch l ü f l i	3
+159	TUTT t5	III_34_0038	Zimmern, Zimmern	8.71521, 47.94848	gliffli	g l i ff l i	gliffili	g l i ff i l i	1
+160	TUTT A3	III_35_0026	Stetten (bei Engen), Stetten	8.71683, 47.87248	gliffli	g l i ff l i	gliifli	g l ii f l i	1
+161	TUTT t1	III_34_0032	Esslingen, Esslingen	8.71709, 47.99269	glivli	g l i v l i	kliefle	k l ie f l e	4
+162	KST H2	III_22_0032, III_22_0031	Bauschlott, Bauschlott	8.72785, 48.97051	glifle	g l i f l e	kliefle	k l ie f l e	2
+163	KST P8	III_23_0058	Würm, Würm	8.73641, 48.86041	glifle	g l i f l e	kliefle	k l ie f l e	2
+164	TUTT A4	III_35_0028	Zimmerholz, Zimmerholz	8.74175, 47.86811	gifli	g i f l i	gliffli	g l i ff l i	2
+165	KST e12	III_18_0029	Tairnbach, Tairnbach	8.75625, 49.26367	glifl	g l i f l	gliefel	g l ie f e l	2
+166	TUTT A8	III_35_0029	Anselfingen, Anselfingen	8.76516, 47.84558	kliffli	k l i ff l i	klüffli	k l ü ff l i	1
+167	KST W2	III_24_0024	Hamberg, Hamberg	8.76924, 48.81833	glivle	g l i v l e	glifle	g l i f l e	1
+168	KST W7	III_24_0034	Neuhausen, Neuhausen	8.77888, 48.79256	glifle	g l i f l e	klüfle	k l ü f l e	2
+169	KST W4	III_24_0025	Steinegg, Steinegg	8.79091, 48.81349	gliefle	g l ie f l e	glifle	g l i f l e	1
+170	KST P5	III_23_0035	Öschelbronn, Öschelbronn	8.81415, 48.90599	glǖfle	g l ü ̄ f l e	gliefle	g l ie f l e	2
+171	KST W6	III_24_0035	Lehningen, Lehningen	8.81639, 48.79486	gliffl	g l i ff l	gliefle	g l ie f l e	2
+172	KST B1	III_21_0033	Kürnbach, Kürnbach	8.84279, 49.07732	glieflä	g l ie f l ä	gliefle	g l ie f l e	1
+173	TÜB f1	III_25_0047	Döffingen, Döffingen	8.91383, 48.7106	gliefle	g l ie f l e	kliefle	k l ie f l e	1
+174	TUTT Q11	III_37_0029	Hemmenhofen, Hemmenhofen	8.96502, 47.67294	glüfli	g l ü f l i	glüfle	g l ü f l e	1
+175	TUTT Q10	III_37_0026	Gaienhofen, Gaienhofen	8.9829, 47.68263	glüfli	g l ü f l i	güfeli	g ü f e l i	2
+176	TUTT u3	III_34_0048	Gallmannsweil, Gallmannsweil	8.99683, 47.92357	gliffli	g l i ff l i	gliefli	g l ie f l i	1
+177	TUTT o3	III_33_0047	Leibertingen, Leibertingen	9.01551, 48.04265	glifli	g l i f l i	gliefle	g l ie f l e	2
+178	TUTT o4	III_33_0042	Kreenheinstetten, Kreenheinstetten	9.05221, 48.0555	glīfle	g l ī f l e	glievle	g l ie v l e	3
+179	MH L3	II_59_0100	Schollbrunn, Schollbrunn	9.07962, 49.43431	klifferlĕ	k l i ff e r l ĕ	gliffere	g l i ff e r e	3
+180	TUTT v9	III_34_0049	Wasser, Wasser	9.10143, 47.9671	klifle	k l i f l e	guefle	g u e f l e	3
+181	TUTT 07	III_33_0049	Rohrdorf, Rohrdorf	9.10207, 48.01811	glifle	g l i f l e	kliefle	k l ie f l e	2
+182	TUTT 05	III_33_0045	Langenhart, Langenhart	9.10404, 48.04793	gliefle	g l ie f l e	klüvle	k l ü v l e	4
+183	TUTT o6	III_33_0046	Engelswies, Engelswies	9.12846, 48.04259	klievle	k l ie v l e	gliefle	g l ie f l e	2
+184	KST g2	III_18_0065	Neckarzimmern, Neckarzimmern	9.1329, 49.31835	glifdle	g l i f d l e	klifde	k l i f d e	2
+185	MH L8	II_59_0106	Wagenschwend, Wagenschwend	9.14637, 49.47256	schlifferli	sch l i ff e r l i	glifferli	g l i ff e r l i	3
+186	TUTT o8	III_33_0051	Menningen, Menningen	9.15825, 48.01089	glīfle	g l ī f l e	glüfle	g l ü f l e	1
+187	MH M7	II_59_0112	Trienz, Trienz	9.16956, 49.44002	glifferli	g l i ff e r l i	gliffern	g l i ff e r n	2
+188	MH M3	II_59_0109	Balsbach, Balsbach	9.17362, 49.47895	gläfferle	g l ä ff e r l e	glifferle	g l i ff e r l e	1
+189	SIG d1	III_33_0055	Göggingen, Göggingen	9.20194, 48.00389	glīflé	g l ī f l é	klüfle	k l ü f l e	3
+190	MH U8	II_60_0089	Billigheim, Billigheim	9.25406, 49.34748	glievle	g l ie v l e	klivle	k l i v l e	2
+191	MH Y3	III_18_0075	Herbolzheim, Herbolzheim	9.26007, 49.28376	gliflä	g l i f l ä	gliefle	g l ie f l e	2
+192	MH U5	II_60_0086	Unterschefflenz, Unterschefflenz	9.27076, 49.39154	gliefle	g l ie f l e	klievle	k l ie v l e	2
+193	MH U7	II_60_0090	Waldmühlbach, Waldmühlbach	9.28262, 49.36078	glievle	g l ie v l e	klüfle	k l ü f l e	4
+194	Co n 4	III_13_0059, III_13_0058	Merdingen, Merdingen	7.68864, 48.0173	gi̠fli	g i ̠ f l i	giefli	g ie f l i	1
+195	Co n 4	III_13_0059, III_13_0058	Merdingen, Merdingen	7.68864, 48.0173	gi̠fli	g i ̠ f l i	guefle	g u e f l e	3
+196	Co n 4	III_13_0059, III_13_0058	Merdingen, Merdingen	7.68864, 48.0173	gi̠fli	g i ̠ f l i	gifli	g i f l i	1
+197	Co B3	III_14_0055, III_14_0056	Wettelbrunn, Wettelbrunn	7.69689, 47.87134	giefli	g ie f l i	giafli	g i a f l i	1
+198	Co B3	III_14_0055, III_14_0056	Wettelbrunn, Wettelbrunn	7.69689, 47.87134	giefli	g ie f l i	gifili	g i f i l i	2
+199	Co f 1	III_12_0122, III_12_0120, III_12_0121	Endingen, Endingen	7.70312, 48.1419	gifle	g i f l e	giefli	g ie f l i	2
+200	Co f 1	III_12_0122, III_12_0120, III_12_0121	Endingen, Endingen	7.70312, 48.1419	gifle	g i f l e	gifli	g i f l i	1
+201	Co J7	III_14_0147, III_15_0061	Malsburg, Malsburg	7.70866, 47.73257	güfle	g ü f l e	güüfli	g üü f l i	2
+202	Co J7	III_14_0147, III_15_0061	Malsburg, Malsburg	7.70866, 47.73257	güfle	g ü f l e	güefli	g ü e f l i	2
+203	Co n 12	III_13_0050, III_13_0051	Bötzingen, Bötzingen	7.72593, 48.07743	gīvli̍	g ī v l i ̍	giifli	g ii f l i	4
+204	Co n 12	III_13_0050, III_13_0051	Bötzingen, Bötzingen	7.72593, 48.07743	gīvli̍	g ī v l i ̍	giefli	g ie f l i	4
+205	Stra S 2, Stra S 3	III_11_0120, III_11_0121	Sulz, Langenhard-Sulz, Sulz	7.86031, 48.31851	giefli	g ie f l i	güfli	g ü f l i	2
+206	Stra S 2, Stra S 3	III_11_0120, III_11_0121	Sulz, Langenhard-Sulz, Sulz	7.86031, 48.31851	giefli	g ie f l i	gifli	g i f l i	1
+207	Stra S 2, Stra S 3	III_11_0120, III_11_0121	Sulz, Langenhard-Sulz, Sulz	7.86031, 48.31851	gifli	g i f l i	güfli	g ü f l i	1
+208	TUTT Sa4	III_17_0059	Niederhof, Niederhof	8.03951, 47.56938	güefili	g ü e f i l i	güfili	g ü f i l i	1
+209	KST S8	III_7_0117, III_7_0116, III_7_0115	Stollhofen, Stollhofen	8.04874, 48.76575	giffle	g i ff l e	giffel	g i ff e l	2
+210	KST S8	III_7_0117, III_7_0116, III_7_0115	Stollhofen, Stollhofen	8.04874, 48.76575	giffle	g i ff l e	gifle	g i f l e	1
+211	TÜB S5	III_12_0062, III_12_0061	Unterprechtal, Unterprechtal	8.12114, 48.20548	giefli	g ie f l i	gieflie	g ie f l ie	1
+212	TÜB S5	III_12_0062, III_12_0061	Unterprechtal, Unterprechtal	8.12114, 48.20548	giefli	g ie f l i	gifli	g i f l i	1
+213	TUTT L1	III_15_0112, III_15_0111	Urberg, Urberg	8.12409, 47.73478	güvili	g ü v i l i	güfeli	g ü f e l i	2
+214	TUTT L1	III_15_0112, III_15_0111	Urberg, Urberg	8.12409, 47.73478	güvili	g ü v i l i	güveli	g ü v e l i	1
+215	TUTT L14, TUTT L13	III_15_0123	Bannholz, Remetschwiel und Bannholz, Bannholz	8.167, 47.67614	güefili	g ü e f i l i	güfili	g ü f i l i	1
+216	TUTT b8	III_12_0168, III_12_0166, III_12_0167	Schönwald, Schönwald	8.20401, 48.10371	gīfli	g ī f l i	gifli	g i f l i	1
+217	TUTT b8	III_12_0168, III_12_0166, III_12_0167	Schönwald, Schönwald	8.20401, 48.10371	gīfli	g ī f l i	gīefle	g ī e f l e	2
+218	TÜB T4	III_12_0068, III_12_0067	Niederwasser, Niederwasser	8.22818, 48.18982	giefli	g ie f l i	güfli	g ü f l i	2
+219	TUTT i2	III_13_0087, III_13_0086	Vöhrenbach, Vöhrenbach	8.30495, 48.04519	gifli	g i f l i	giefli	g ie f l i	1
+220	TUTT M6	III_14_0183, III_14_0182, III_14_0181	Birkendorf, Birkendorf	8.3126, 47.74971	güfilli	g ü f i ll i	güffili	g ü ff i l i	2
+221	TUTT M6	III_14_0183, III_14_0182, III_14_0181	Birkendorf, Birkendorf	8.3126, 47.74971	güfilli	g ü f i ll i	güfele	g ü f e l e	3
+222	TÜB x5, TÜB x6	III_10_0145	Bad Rippoldsau, Bad Rippoldsau	8.32852, 48.42806	giefli	g ie f l i	gifli	g i f l i	1
+223	KST N2, KST U6	III_24_0002	Sulzbach, Sulzbach	8.35791, 48.80596	gliefle	g l ie f l e	gifdl	g i f d l	4
+224	KST N2, KST U6	III_24_0002	Sulzbach, Sulzbach	8.35791, 48.80596	gīftl	g ī f t l	gifdl	g i f d l	2
+225	KST O8	III_23_0008, III_23_0010	Langenalb, Langenalb	8.50104, 48.84402	glivle	g l i v l e	klieftla	k l ie f t l a	5
+226	KST O8	III_23_0008, III_23_0010	Langenalb, Langenalb	8.50104, 48.84402	glivle	g l i v l e	gliftle	g l i f t l e	2
+227	KST z6	III_21_0014, III_21_0015	Berghausen, Berghausen	8.52712, 49.00389	gliefle	g l ie f l e	glefle	g l e f l e	1
+228	KST G1	III_22_0010, III_22_0013, III_22_0012, III_22_0011	Söllingen, Söllingen	8.5425, 48.98622	gliefle	g l ie f l e	kliftle	k l i f t l e	3
+229	KST G1	III_22_0010, III_22_0013, III_22_0012, III_22_0011	Söllingen, Söllingen	8.5425, 48.98622	gliefle	g l ie f l e	glieftle	g l ie f t l e	1
+230	KST H2	III_22_0032, III_22_0031	Bauschlott, Bauschlott	8.72785, 48.97051	glifle	g l i f l e	klüfle	k l ü f l e	2
+231	KST H2	III_22_0032, III_22_0031	Bauschlott, Bauschlott	8.72785, 48.97051	glifle	g l i f l e	kliefle	k l ie f l e	2
+232	KST t7	III_20_0036, III_20_0037, III_20_0039, III_20_0035	Flehingen , Flehingen	8.78694, 49.0869	kliefle	k l ie f l e	klüfle	k l ü f l e	2
+233	TUTT Q10	III_37_0026	Gaienhofen, Gaienhofen	8.9829, 47.68263	glüfli	g l ü f l i	güfeli	g ü f e l i	2
+234	KST g2	III_18_0065	Neckarzimmern, Neckarzimmern	9.1329, 49.31835	glifdle	g l i f d l e	klifdle	k l i f d l e	1
+235	KST g2	III_18_0065	Neckarzimmern, Neckarzimmern	9.1329, 49.31835	glifdle	g l i f d l e	klifde	k l i f d e	2
+236	MH L8	II_59_0106	Wagenschwend, Wagenschwend	9.14637, 49.47256	glifferle	g l i ff e r l e	glifferli	g l i ff e r l i	1
+237	MH L8	II_59_0106	Wagenschwend, Wagenschwend	9.14637, 49.47256	schlifferli	sch l i ff e r l i	glifferli	g l i ff e r l i	3

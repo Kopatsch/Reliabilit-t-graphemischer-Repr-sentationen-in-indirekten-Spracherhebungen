@@ -1,0 +1,6 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	MH R4	na	Leimen	8.68891, 49.34902	gugummerle	na	999	gugummerle	na	999	Gugummerle	na	999
+1	MH E4	na	Altheim	9.4436, 49.51915	gegumerli	na	999	gegummerli	na	999	Gugummerle	na	999
+2	na	III_10_0085	Grendelbruch	7.32375, 48.49241	na	gagemmerle	999	na	gagemmerle	999	na	Gugummerle	999
+3	na	III_15_0104	Brunnadern	8.14553, 47.68929	na	gugunkele	999	na	gugungele	999	na	Gugummerle	999
+4	na	II_92_0006	Osterburken	9.42838, 49.4308	na	gegummerli	999	na	gegummerli	999	na	Gugummerle	999

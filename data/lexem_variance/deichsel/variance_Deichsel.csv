@@ -1,0 +1,1530 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_maurer_align	item_DWA	item_DWA_align	Levenshtein_item
+0	Co D1	III_14_0082	Dollern (Dolleren), Dollern	6.93211, 47.80559	dīssel	d ī ss e l	dissel	d i ss e l	1
+1	Co D2	III_14_0083	Oberbruck, Oberbruck	6.94324, 47.80838	dīssl	d ī ss l	dissel	d i ss e l	2
+2	Co D3	III_14_0080	Rimbach-Pès-Masevaux), Rimbach	6.9473, 47.82212	dissel	d i ss e l	deichsel	d ei ch s e l	3
+3	Co p 2	III_13_0094	Wildenstein bei Krüt, Kreis Tann, Wildenstein	6.96296, 47.98143	dissl	d i ss l	dissel	d i ss e l	1
+4	Hag D 2	III_5_0022	Altweiler (Altwiller), Altweiler	6.98122, 48.93023	tissel	t i ss e l	dissel	d i ss e l	1
+5	Co E4	III_14_0087	Aue (Lauw), Aue	7.02216, 47.75778	dissel	d i ss e l	dichel	d i ch e l	2
+6	Co q 5	III_13_0096	Mittlach, Mittlach	7.03325, 48.00405	dissel	d i ss e l	dessel	d e ss e l	1
+7	Co x 3	III_14_0010	Malmerspach, Malmerspach	7.03487, 47.86486	dissel	d i ss e l	dixel	d i x e l	2
+8	Hag E 9	III_5_0027	Harskirchen, Harskirchen	7.0389, 48.93409	tissel	t i ss e l	dissel	d i ss e l	1
+9	Co x 6	III_14_0011	Moosch, Moosch	7.04865, 47.86081	dissel	d i ss e l	di̠ssel	d i ̠ ss e l	1
+10	Co E3	III_14_0090	Sentheim, Sentheim	7.0544, 47.75581	diesl	d ie s l	dissl	d i ss l	1
+11	Co M2	III_15_0001	Obersulzbach Kreis Tann (Soppe-Le-Haut), Obersulzbach <Morzweiler> Morzweiler steht nur auf S.1	7.05724, 47.73372	tissel	t i ss e l	dissel	d i ss e l	1
+12	Hag T 2	III_7_0006	Kirberg (Kirrberg), Kirberg	7.06204, 48.8233	disel	d i s e l	dissel	d i ss e l	1
+13	Co M7	III_15_0007	St Kosman (Saint-Cosme), St. Kosman	7.06248, 47.68339	disl	d i s l	dissel	d i ss e l	2
+14	Hag M 2	III_6_0002	Pisdorf (Bischtroff-sur-Sarre), Pisdorf	7.06995, 48.9005	dissel	d i ss e l	tissel	t i ss e l	1
+15	Hag M 11/2, Hag M 11/1	III_6_0003	Wolfskirchen, Wolfskirchen	7.07612, 48.87884	dissel	d i ss e l	tissl	t i ss l	2
+16	Hag M 1	III_5_0034	Zollingen, Zollingen	7.07636, 48.91048	ti̍ssel	t i ̍ ss e l	tissel	t i ss e l	1
+17	Hag E 5	III_5_0033	Saarwerden (Sarrewerden), Saarwerden	7.08411, 48.9218	dissl	d i ss l	dissel	d i ss e l	1
+18	Co i 10	III_13_0007	Mühlbach (Muhlbach-Sur-Munster), Mühlbach	7.08731, 48.02582	dissel	d i ss e l	däigsl	d ä i g s l	3
+19	Hag x 1	III_4_0044	Silzheim (Siltzheim), Silzheim	7.09071, 49.0616	dischel	d i sch e l	tissel	t i ss e l	3
+20	Co M3	III_15_0003	Niedersulzbach (soppe-Le-Bas), Niedersulzbach	7.09079, 47.71688	disel	d i s e l	dissel	d i ss e l	1
+21	Co E6	III_14_0093	Leimbach, Leimbach	7.09999, 47.79305	dissel	d i ss e l	dissl	d i ss l	1
+22	Co i 2	III_13_0009	Sulzern (Soultzeren), Sulzern	7.10254, 48.06373	dissĕl	d i ss ĕ l	däichsel	d ä i ch s e l	4
+23	Co E7	III_14_0094	Tann (Thann), Thann	7.10335, 47.81019	dissel	d i ss e l	disel	d i s e l	1
+24	Co M9	III_15_0009	Diefmatten Kreis Altkirch, Diefmatten	7.11319, 47.70828	tissel	t i ss e l	dissel	d i ss e l	1
+25	Hag T 1	III_6_0011	Hirschland, Hirschland	7.11324, 48.83701	tissel	t i ss e l	dissel	d i ss e l	1
+26	Co T12	III_16_0002	Altenach, Altenach	7.11466, 47.60658	dīsel	d ī s e l	dissel	d i ss e l	2
+27	Co i 6	III_13_0005	Luttenbach (Luttenbach-Près-Munster), Luttenbach	7.11745, 48.03105	dissel	d i ss e l	dischel	d i sch e l	2
+28	Co T13	III_16_0003	St. Ulrich bei Dammerkirch, St. Ulrich	7.11911, 47.59537	dissel	d i ss e l	dissl	d i ss l	1
+29	Co T6	III_16_0018	Dammerkirch (Dannemarie), Dammerkirch	7.1214, 47.63024	dissl	d i ss l	dissel	d i ss e l	1
+30	Hag E 1	III_4_0050	Örmingen (Oermingen), Örmingen	7.12881, 49.00062	dissel	d i ss e l	tissel	t i ss e l	1
+31	Co E10	III_14_0098	Oberasbach (Aspach-Le-Haute), Oberaspach	7.13352, 47.77692	dissel	d i ss e l	dissl	d i ss l	1
+32	Co i 4	III_13_0010	Eschbach, Eschbach	7.14594, 48.02896	dissel	d i ss e l	disel	d i s e l	1
+33	Co q 7	III_13_0099	Lautenbachzell, Lautenbachzell	7.14925, 47.94057	dissel	d i ss e l	dichsel	d i ch s e l	2
+34	Co Vc 1	III_17_0002	Friesen, Friesen	7.15001, 47.56535	dissel	d i ss e l	dichel	d i ch e l	2
+35	Co E11	III_14_0099	Niederasbach (Aspach-Le-Bas), Niederaspach	7.15065, 47.7618	dissl	d i ss l	disel	d i s e l	1
+36	Co T4	III_16_0009	Hagenbach, Hagenbach	7.15712, 47.65028	disel	d i s e l	dissel	d i ss e l	1
+37	Hag M 6	III_6_0009	Güngweiler (Gungwiller), Gu[e]ngweiler	7.15771, 48.88171	dissl	d i ss l	dischel	d i sch e l	3
+38	Co q 3	III_13_0011	Wasserburg Kreis Colmar (Wasserbourg), Wasserburg	7.15948, 48.00283	disel	d i s e l	dichsel	d i ch s e l	2
+39	Hag M 9	III_6_0010	Weyer, Weyer	7.15976, 48.85488	dissl	d i ss l	disel	d i s e l	1
+40	Co M5	III_15_0013	Niederburnhaupt (Burnhaupt-Le-Bas), Niederburnhaupt	7.16039, 47.71674	dissel	d i ss e l	disel	d i s e l	1
+41	Co q 6	III_13_0101	Murbach, Murbach	7.1604, 47.92318	dissel	d i ss e l	deichsel	d ei ch s e l	3
+42	Co N1	III_14_0100	Schweighausem (Schweighouse-Thann), Schweighausen	7.16714, 47.75272	dīssel	d ī ss e l	dischle	d i sch l e	4
+43	Co N12	III_15_0028	Balschweiler bei Altkirch, Balschweiler	7.1681, 47.66772	dīesel	d ī e s e l	dissel	d i ss e l	2
+44	Hag F 6	III_5_0041	Mackweiler (Mackwiller), Mackweiler	7.17502, 48.9258	dihsel	d i h s e l	dissel	d i ss e l	1
+45	Hag F 4	III_5_0039	Lorenzen (Lorentzen), Lorenzen	7.1752, 48.95249	dissel	d i ss e l	tissel	t i ss e l	1
+46	Stra V 1, Stra U 1/1, Stra U 1/2	III_12_0002	Markich (Sainte-Marie-Aux-Marines), Markirch	7.17972, 48.24483	daiksel	d a i k s e l	deichsl	d ei ch s l	4
+47	Hag N 11	III_6_0025	Bettweiler (Bettwiller), Bettweiler	7.17993, 48.88617	dissĕl	d i ss ĕ l	dissel	d i ss e l	1
+48	Co y 1/2, Co y 1/1	III_14_0017	Rimbach-Zell (Rimbachzell), Rimbach-Zell	7.17995, 47.8995	disel	d i s e l	disl	d i s l	1
+49	Co Ua 5	III_17_0030	Largitzen, Largitzen	7.1873, 47.56163	dissel	d i ss e l	dißl	d i ß l	3
+50	Co N14	III_15_0027	Bernweiler (Bernwiller), Bernweiler	7.19368, 47.69085	dissl	d i ss l	dissil	d i ss i l	1
+51	Co N13	III_15_0029	Enschingen (Saint-Bernard), Enschingen	7.20293, 47.67101	dissel	d i ss e l	deichsel	d ei ch s e l	3
+52	Co U 6	III_16_0028	Karspach (Carspach), Karspach	7.21307, 47.61448	dissel	d i ss e l	diesel	d ie s e l	1
+53	Hag F 7	III_5_0050	Waldhambach, Waldhambach	7.21529, 48.92578	dissel	d i ss e l	dissl	d i ss l	1
+54	Co y 6	III_14_0021	Berrweiler (Berrwiller), Berrweiler	7.21533, 47.8484	dissel	d i ss e l	dischla	d i sch l a	3
+55	Co k 8	III_13_0013	Walbach, Walbach	7.22416, 48.06257	dissel	d i ss e l	díssel	d í ss e l	1
+56	Co N2	III_15_0020	Reinigen, Reiningen	7.2319, 47.74911	disel	d i s e l	dissel	d i ss e l	1
+57	Co r 8/2, Co r 8/1	III_13_0108	Sulzmatt (Soultzmatt), Sulzmatt	7.23437, 47.96595	dissel	d i ss e l	dissl	d i ss l	1
+58	Co k 15	III_13_0012	Zimmerbach, Zimmerbach	7.23755, 48.07261	dischl	d i sch l	dissel	d i ss e l	2
+59	Hag F 3	III_5_0044	Ratzweiler (Ratzwiller), Ratzweiler	7.23978, 48.95501	dischel	d i sch e l	dissel	d i ss e l	2
+60	Hag N 15	III_6_0031	Lohr, Lohr	7.24351, 48.85748	disel	d i s e l	dissel	d i ss e l	1
+61	Hag N 5	III_6_0019	Tieffenbach, Tieffenbach	7.24987, 48.90483	dissel	d i ss e l	disel	d i s e l	1
+62	Co U 13	III_16_0034	Hisingen (Hirsingue), Hirsingen	7.25483, 47.58601	dißel	d i ß e l	dissl	d i ss l	2
+63	Co F4	III_14_0103	Staffelfelden, Staffelfelden	7.25504, 47.82648	dissel	d i ss e l	dischel	d i sch e l	2
+64	Co r 3	III_13_0110	Westhalten, Westhalten	7.2595, 47.95742	dissl	d i ss l	dissel	d i ss e l	1
+65	Co U 4	III_16_0026	Walheim, Walheim	7.26432, 47.63975	dissel	d i ss e l	dissl	d i ss l	1
+66	Co N3	III_15_0016	Niedermorschweiler (Morschwiller-Le-Bas), Niedermorschweiler	7.26699, 47.73596	dissel	d i ss e l	disi̊l	d i s i ̊ l	2
+67	Hag U 3	III_6_0033	Schönburg (Schoenbourg), Schönburg	7.26823, 48.83392	dissel	d i ss e l	disssel	d i ss s e l	1
+68	Co U 8	III_16_0030	Wittersdorf, Wittersdorf	7.27817, 47.62015	dischel	d i sch e l	dissel	d i ss e l	2
+69	Co N5	III_15_0018	Hochstatt, Hochstatt	7.28072, 47.70069	dissl	d i ss l	dissel	d i ss e l	1
+70	Co c 12	III_12_0082	Ammerschweier, Ammerschweier	7.28484, 48.12465	dīssel	d ī ss e l	dissel	d i ss e l	1
+71	Co c 5	III_12_0083	Katzenthal, Katzental	7.28497, 48.10796	dissel	d i ss e l	dissl	d i ss l	1
+72	Stra G 4	III_11_0008	St. Martin (Saint-Martin), St. Martin	7.28942, 48.35047	dissel	d i ss e l	dißl	d i ß l	3
+73	Co r 5	III_13_0112	Gundolsheim, Gundolsheim	7.2942, 47.92837	dissl	d i ss l	dissel	d i ss e l	1
+74	Co N6	III_15_0019	Zillisheim, Zillisheim	7.29485, 47.69387	dißl	d i ß l	dissel	d i ss e l	3
+75	Hag U 1	III_7_0033	Etschburg (Eschbourg), Eschburg	7.29591, 48.81267	disel	d i s e l	distel	d i s t e l	1
+76	Co r 1	III_13_0113	Rufach (Rouffach), Rufach	7.29696, 47.95968	disell	d i s e ll	dischel	d i sch e l	3
+77	Stra l 1, Stra l 3	III_9_0005, III_9_0007	Engenthal, Engental, Engental-Windsburg, Engental	7.30153, 48.63467	dixl	d i x l	dischel	d i sch e l	4
+78	Co c 9	III_12_0079	Sigolsheim, Sigolsheim	7.3035, 48.13267	dißel	d i ß e l	dissl	d i ss l	2
+79	Co y 9	III_14_0031	Ungersheim, Ungersheim	7.30418, 47.87789	disel	d i s e l	dissel	d i ss e l	1
+80	Stra V 5	III_12_0007	Zellenberg, Zellenberg	7.31874, 48.17063	deichsl	d ei ch s l	dissel	d i ss e l	4
+81	Co c 13	III_12_0077, III_12_0076	Mittelweier, Mittelweier	7.32094, 48.14982	dissl	d i ss l	dissel	d i ss e l	1
+82	Co c 3	III_12_0075	Bebelnheim (Beblenheim), Bebelnheim	7.32264, 48.15802	dissl	d i ss l	dissel	d i ss e l	1
+83	Stra s 1/1, Stra s 1/2	III_10_0001	Oberhaslach, Oberhaslach	7.33046, 48.5499	dischl	d i sch l	dischel	d i sch e l	1
+84	Co G2	III_14_0124	Wittenheim, Wittenheim	7.33993, 47.81085	dissl	d i ss l	dissel	d i ss e l	1
+85	Co F7/1, Co F7/2	III_14_0107, III_14_0108, III_14_0121, III_14_0119, III_14_0115, III_14_0111, III_14_0112, III_14_0116, III_14_0113, III_14_0118, III_14_0120, III_14_0117, III_14_0114, III_14_0109, III_14_0110	Mülhausen, Mülhausen	7.34375, 47.7517	dissel	d i ss e l	dissĕl	d i ss ĕ l	1
+86	Stra m 1	III_9_0013	Birkenwald, Birkenwald	7.34505, 48.65874	dischl	d i sch l	dischel	d i sch e l	1
+87	Co V 1	III_16_0048	Obersteinbrunn (Steinbrunn-le-Haut), Obersteinbrunn	7.3467, 47.65852	dissel	d i ss e l	diesel	d ie s e l	1
+88	Co V 10	III_16_0043	Franken, Franken	7.35483, 47.59947	disl	d i s l	dissel	d i ss e l	2
+89	Co Va 11	III_17_0015	Werenzhausen (Werentzhouse), Werenzweiler	7.3579, 47.51688	dissl	d i ss l	dissel	d i ss e l	1
+90	Co Vd 9	III_17_0077	Kiffis, Kiffis	7.35848, 47.4405	diisl	d ii s l	dissel	d i ss e l	2
+91	Co z 5	III_13_0115	Meienheim (Meyenheim), Meienheim	7.35924, 47.91132	dissel	d i ss e l	dissl	d i ss l	1
+92	Hag O 4	III_6_0037	Erkartsweiler (Erckartswiller), Erkartsweiler	7.3596, 48.87532	dischel	d i sch e l	deischel	d ei sch e l	1
+93	Co O4	III_15_0034	Brubach Landkreis Mülhausen, Brubach	7.35964, 47.70073	deiksel	d ei k s e l	dissel	d i ss e l	2
+94	Hag V 9	III_7_0045, III_7_0046	St. Johann (Saint-Jean-Saverne), St. Johann	7.36064, 48.76931	deicksel	d ei ck s e l	dischel	d i sch e l	4
+95	Stra W 7	III_12_0012, III_12_0010	Rohrschweier (Rorschwihr), Rohrschweier	7.36295, 48.21541	dissl	d i ss l	dissel	d i ss e l	1
+96	Stra e 2/3, Stra e 2/1, Stra e 2/2	III_8_0029	Zabern, Zabern	7.36605, 48.73948	dischel	d i sch e l	dissel	d i ss e l	2
+97	Co Vd 5	III_17_0076, III_17_0075	Rädersdorf (Raedersdorf), Rädersdorf, Rädersdorf	7.3665, 47.47487	dissel	d i ss e l	deichsel	d ei ch s e l	3
+98	Co s 4	III_13_0117	Niederenzen, Niederenzen	7.38146, 47.94864	dissal	d i ss a l	dissel	d i ss e l	1
+99	Co G9	III_14_0128	Battenheim, Battenheim	7.38278, 47.81739	di̍ssl	d i ̍ ss l	dissl	d i ss l	1
+100	Co l 3	III_13_0035	Heiligkreuz (Sainte-Croix-en-Plaine), Heiligkreuz	7.3831, 48.00666	dissal	d i ss a l	dissel	d i ss e l	1
+101	Stra t 9	III_10_0014	Heiligenberg, Heiligenberg	7.3916, 48.53799	dischl	d i sch l	deigsel	d ei g s e l	4
+102	Co O7	III_15_0036	Landser, Landser	7.39601, 47.68637	diesel	d ie s e l	tissel	t i ss e l	2
+103	Co O10	III_15_0040	Eschenzweiler (Eschentzwiller), Eschenzweiler	7.39812, 47.71239	dissel	d i ss e l	dissl	d i ss l	1
+104	V	III_17_0025	Knöringen  (Knœringue) (im Elsass), Knöringen	7.4042, 47.5624	disel	d i s e l	dissel	d i ss e l	1
+105	Stra m 8	III_9_0010	Romansweiler, Romansweiler	7.40829, 48.64445	dischl	d i sch l	dischel	d i sch e l	1
+106	Co V 7	III_16_0052	Niedermagstatt (Magstatt-le-Bas), Niedermagstatt	7.41155, 47.6393	dissl	d i ss l	dissel	d i ss e l	1
+107	Co Va 1	III_17_0024	Oberranspach (Ranspach-le-Haut), Oberranspach	7.4175, 47.57697	dissel	d i ss e l	deichsel	d ei ch s e l	3
+108	Stra H 14	III_11_0025	Blienschweiler (Blienschwiller), Blienschweiler	7.41844, 48.34128	dischl	d i sch l	dissel	d i ss e l	2
+109	Stra A 6/2, Stra A 6/1	III_10_0091	Ottrott, Ottrott	7.43298, 48.46056	dischl	d i sch l	dischel	d i sch e l	1
+110	Stra t 11	III_10_0021	Rosenweiler, Rosenweiler	7.4409, 48.50587	dischl	d i sch l	dissel	d i ss e l	2
+111	Stra H 4	III_11_0016	Eichhofen (Eichhoffen), Eichhofen	7.44268, 48.38403	dissel	d i ss e l	dischle	d i sch l e	3
+112	Co Va 2	III_17_0021	Obermichelbach (Michelbach-le-Haut), Obermichelbach	7.44645, 47.56623	disel	d i s e l	dīsel	d ī s e l	1
+113	Co z 4	III_14_0037	Hirzfelden, Hirzfelden	7.4473, 47.90935	disl	d i s l	dissel	d i ss e l	2
+114	Stra e 12,13	III_8_0051	Westhausen (Westhouse-Marmoutier), Westhausen	7.44963, 48.68592	dischel	d i sch e l	dischl	d i sch l	1
+115	Stra e 10	III_8_0053	Wolschheim, Wolschheim	7.45106, 48.70358	dischl	d i sch l	dischel	d i sch e l	1
+116	Stra A 8	III_10_0096	Heiligenstein, Heiligenstein	7.45184, 48.41784	dissel	d i ss e l	dischel	d i sch e l	2
+117	Co s 7/1	III_13_0122	Rüstenhart (Rustenhart), Rüstenhart	7.46359, 47.94159	dissl	d i ss l	dissel	d i ss e l	1
+118	Co Va 6	III_17_0022	Oberhagental (Hagenthal-le-Haut), Oberhagental	7.46966, 47.52221	dißel	d i ß e l	dissel	d i ss e l	2
+119	Stra H 10	III_11_0015	St. Peter (Saint-Pierre), St. Peter	7.47022, 48.38171	dieschel	d ie sch e l	dischel	d i sch e l	1
+120	Co Va 7	III_17_0017	Niederhagental (Hagenthal-le-Bas), Niederhagental	7.47691, 47.52383	disel	d i s e l	dīsel	d ī s e l	1
+121	Co V 9	III_16_0056	Bartenheim, Bartenheim	7.47707, 47.63392	dissl	d i ss l	disel	d i s e l	1
+122	Stra t 13	III_9_0020	Irmstett, Irmstett	7.47751, 48.58828	dischel	d i sch e l	dischl	d i sch l	1
+123	Stra m 6	III_9_0016	Rangen, Rangen	7.47865, 48.66636	dischl	d i sch l	dischel	d i sch e l	1
+124	Hag V 15	III_7_0054	Gottesheim-Prinzheim, Prinzheim	7.47921, 48.79113	dischl	d i sch l	dischel	d i sch e l	1
+125	Hag V 2	III_7_0052	Riedheim, Riedheim	7.47956, 48.81064	dischl	d i sch l	dischel	d i sch e l	1
+126	Co l 5	III_13_0028	Widensolen, Widensolen	7.47996, 48.06278	dissl	d i ss l	dissel	d i ss e l	1
+127	Co Va 5	III_17_0034	Wenzweiler (Wentzwiller), Wenzweiler	7.48036, 47.55042	disl	d i s l	disel	d i s e l	1
+128	Hag O 1	III_5_0059	Lichtenberg, Lichtenberg	7.48181, 48.9216	dischel	d i sch e l	dischl	d i sch l	1
+129	Stra A 4	III_10_0092, III_10_0093	Oberehnheim (Obernai), Oberehnheim	7.48507, 48.4622	dischel	d i sch e l	dischl	d i sch l	1
+130	Stra e 8	III_8_0055	Friedolsheim, Friedolsheim	7.48538, 48.70717	dischel	d i sch e l	dĭschel	d ĭ sch e l	1
+131	Co l 12	III_12_0098	Urschenheim, Urschenheim	7.48632, 48.08696	dissl	d i ss l	dissel	d i ss e l	1
+132	Co d 11	III_12_0090	Grussenheim, Grussenheim	7.48794, 48.1443	disel	d i s e l	dissel	d i ss e l	1
+133	Stra m 14	III_9_0021	Scharrachbergheim, Scharrachbergheim	7.49581, 48.593	dischl	d i sch l	dischel	d i sch e l	1
+134	Co W 15/1, Co W 15, 14, Co W 15/2	III_16_0039, III_16_0062, III_16_0040	Boltzheim (Blotzheim), Blotzheim	7.49611, 47.60128	dissel	d i ss e l	diesel	d ie s e l	1
+135	Stra A 2	III_10_0088	Bischofsheim (Bischoffsheim), Bischofsheim	7.49675, 48.48669	dischel	d i sch e l	dischl	d i sch l	1
+136	Co P10/3, Co P10/2, Co P10/1	III_16_0059, III_16_0060, III_15_0042	Kembs-Neuweg, Kembs  , Kembs, Kembs-Neuweg	7.50399, 47.6877	dissel	d i ss e l	disssel	d i ss s e l	1
+137	Co H16	III_14_0131	Ottmarsheim, Ottmarsheim	7.50646, 47.78661	dissl	d i ss l	dissel	d i ss e l	1
+138	Stra u 1	III_9_0026	Dahlenheim, Dahlenheim	7.50654, 48.58628	dischl	d i sch l	dischel	d i sch e l	1
+139	Co P11	III_15_0044	Niffer, Niffer	7.50904, 47.71353	dissel	d i ss e l	dischla	d i sch l a	3
+140	Stra n 11	III_9_0038	Nordheim, Nordheim	7.51005, 48.63544	dischel	d i sch e l	dischl	d i sch l	1
+141	Stra f 19	III_8_0061	Willgottheim, Willgottheim	7.51166, 48.67082	dischel	d i sch e l	deichsel	d ei ch s e l	3
+142	Stra n 1	III_9_0037	Winzenheim (Wintzenheim-Kochersberg), Winzenheim	7.51469, 48.65916	dischell	d i sch e ll	dischel	d i sch e l	1
+143	Co Wa 1	III_17_0026	Häsingen (Hésingue), Häsingen	7.5211, 47.57633	dissel	d i ss e l	disl	d i s l	2
+144	Stra Q 1	III_11_0097	Ebersmünster (Ebersmunster), Ebersmunster	7.52112, 48.31139	dissl	d i ss l	dissel	d i ss e l	1
+145	Co P19	III_15_0050	Kleinkems, Kleinkembs	7.52279, 47.691	diëxle	d i ë x l e	diechsle	d ie ch s l e	4
+146	Hag P 17	III_6_0052	Schillersdorf, Schillersdorf	7.52526, 48.87312	dischel	d i sch e l	dissel	d i ss e l	2
+147	Hag W 12/2, Hag W 12/1	III_7_0135	Zöbersdorf, Zöbersdorf	7.52538, 48.79381	dissel	d i ss e l	dischel	d i sch e l	2
+148	Stra u 6/2, Stra u 6/1	III_10_0025	Ergersheim (wohnt seit 41 in Breitenau), Ergersheim, Ergersheim	7.52806, 48.56941	dischel	d i sch e l	dischl	d i sch l	1
+149	Hag W 14	III_7_0066	Wickersheim, Wickersheim	7.53159, 48.78313	dĭschl	d ĭ sch l	dĭschel	d ĭ sch e l	1
+150	Stra Q 6	III_11_0103	Müttersholz (Muttersholtz), Muttersholz	7.53321, 48.2674	dissel	d i ss e l	disel	d i s e l	1
+151	Co W 1	III_16_0067	Istein , Istein	7.53541, 47.66186	diachsle	d i a ch s l e	diachsla	d i a ch s l a	1
+152	Hag P 18	III_6_0060	Obermodern, Obermodern	7.53932, 48.84466	dischl	d i sch l	dischel	d i sch e l	1
+153	Co H1	III_14_0132	Eichwald (Chalampé), Eichwald	7.53969, 47.81643	dissl	d i ss l	dissel	d i ss e l	1
+154	Hag P 2	III_6_0059	Offweiler, Offweiler	7.54296, 48.91021	dischel	d i sch e l	dischell	d i sch e ll	1
+155	Co Wa 7	III_17_0036	Burgfelden (Bourgfelden), Burgfelden	7.54705, 47.57853	diechsle	d ie ch s l e	dissel	d i ss e l	5
+156	Co P8	III_15_0045	Bamlach, Bamlach	7.54942, 47.71753	diēchsle	d i ē ch s l e	diegsle	d ie g s l e	3
+157	Co P18	III_15_0052	Huttingen, Huttingen	7.5497, 47.67294	diĕksle	d i ĕ k s l e	diächsle	d i ä ch s l e	3
+158	Hag W 7	III_7_0063	Ringendorf, Ringendorf	7.55409, 48.80777	dischl	d i sch l	dischel	d i sch e l	1
+159	Co e 9	III_12_0109	Balzenheim (Baltzenheim), Balzenheim	7.55624, 48.09319	dissel	d i ss e l	dissl	d i ss l	1
+160	Co m 12	III_13_0042	Algolsheim, Algolsheim	7.55708, 48.00563	dissl	d i ss l	dissel	d i ss e l	1
+161	Co P2	III_15_0047	Bellingen (Bad Bellingen), Bellingen	7.55728, 47.7319	diegsel	d ie g s e l	dichsel	d i ch s e l	2
+162	Hag W 15	III_7_0068	Bossendorf, Bossendorf	7.55983, 48.78146	dischl	d i sch l	dischel	d i sch e l	1
+163	Co H2	III_14_0134	Neuenburg (am Rhein), Neuenburg	7.56012, 47.81393	dissel	d i ss e l	diesel	d ie s e l	1
+164	Stra X 3	III_12_0019	Bösenbiesen (Boesenbiesen), Bösenbiesen	7.56377, 48.22957	dissl	d i ss l	dissel	d i ss e l	1
+165	Co W 3, Co W 2	III_16_0068, III_16_0069	Kirchen (Efringen-Kirchen), Efringen (Efringen-Kirchen), Kirchen, Efringen	7.56471, 47.64989	diegsle	d ie g s l e	deichsle	d ei ch s l e	3
+166	Stra X 13	III_12_0028	Mackenheim, Mackenheim	7.56598, 48.18437	disel	d i s e l	dissel	d i ss e l	1
+167	Co P17	III_15_0053	Wintersweiler, Wintersweiler	7.56756, 47.67374	diĕgsle	d i ĕ g s l e	diĕchsle	d i ĕ ch s l e	2
+168	Stra f 22	III_9_0041	Schnersheim, Schnersheim	7.568, 48.65809	dissel	d i ss e l	dischel	d i sch e l	2
+169	Hag W 17	III_7_0079	Hochfelden, Hochfelden	7.57004, 48.75735	deigsel	d ei g s e l	dischel	d i sch e l	4
+170	Co W 16	III_16_0061	Neudorf (Village-Neuf), Neudorf	7.57149, 47.60532	deichsel	d ei ch s e l	dissel	d i ss e l	3
+171	Stra B 2	III_10_0098	Innenheim, Innenheim	7.57348, 48.49644	dischel	d i sch e l	dissel	d i ss e l	2
+172	Stra n 14	III_9_0036, III_9_0035	Quatzenheim, Quatzenheim	7.57372, 48.62636	dischl	d i sch l	dischel	d i sch e l	1
+173	Stra X 4	III_12_0020	Schwobsheim, Schwobsheim	7.57481, 48.2329	dissl	d i ss l	dissel	d i ss e l	1
+174	Co H13	III_14_0135	Schliengen, Schliengen	7.57624, 47.75579	diēägsle	d i ē ä g s l e	diĕxle	d i ĕ x l e	4
+175	Co A10	III_14_0042	Zienken (Müllheim), Zienken	7.57779, 47.84303	diachsla	d i a ch s l a	diaxle	d i a x l e	4
+176	Co W 12	III_16_0071, III_16_0070	Märkt, Märkt	7.58103, 47.627	diechsle	d ie ch s l e	diächsle	d i ä ch s l e	1
+177	Co W 17	III_16_0066	Hüningen (Huningue), Hüningen	7.58374, 47.5912	disel	d i s e l	dissel	d i ss e l	1
+178	Co P7	III_15_0048	Hertingen, Hertingen	7.58442, 47.7231	diegsle	d ie g s l e	diexle	d ie x l e	2
+179	Stra f 3	III_8_0079	Mutzenhausen (Mutzenouse), Mutzenhausen	7.58822, 48.7411	dieschel	d ie sch e l	dischel	d i sch e l	1
+180	Stra f 1	III_8_0077	Gingsheim, Gingsheim	7.58895, 48.71645	dischl	d i sch l	dischle	d i sch l e	1
+181	Hag P 1	III_5_0068	Zinsweiler, Zinsweiler	7.59018, 48.9196	dischl	d i sch l	dischel	d i sch e l	1
+182	Co H8	III_14_0136	Auggen, Auggen	7.59221, 47.78776	dießle	d ie ß l e	diechsle	d ie ch s l e	3
+183	Co A9	III_14_0043	Grißheim (Grissheim) , Grissheim	7.59238, 47.87313	dissel	d i ss e l	dissl	d i ss l	1
+184	Stra n 15	III_9_0040	Hürtigheim, Hürtigheim	7.59369, 48.6152	dischel	d i sch e l	deichsel	d ei ch s e l	3
+185	Stra J 4/3, Stra J 4/2, Stra J 4/1	III_11_0033	Benfeld, Benfeld	7.59385, 48.37263	disel	d i s e l	dissel	d i ss e l	1
+186	Stra n 17, Stra n 18	III_9_0031	Ittenheim, Ittenheim	7.59542, 48.60404	dischel	d i sch e l	dischdel	d i sch d e l	1
+187	Co P14	III_15_0054	Mappach, Mappach	7.59794, 47.68033	diĕxlĕ	d i ĕ x l ĕ	dischle	d i sch l e	4
+188	Co e 4	III_12_0108	Burkheim am Kaiserstuhl, Burkheim am Kaiserstuhl	7.59943, 48.10194	dissle	d i ss l e	dißle	d i ß l e	2
+189	Stra Q 8/2, Stra Q 8/1	III_11_0105	Sundhausen (Sundhouse), Sundhausen	7.60327, 48.25126	disel	d i s e l	dissel	d i ss e l	1
+190	Co P3	III_15_0049	Liel, Liel	7.604, 47.73928	dekslä	d e k s l ä	dichslä	d i ch s l ä	3
+191	Stra Q 4	III_11_0101	Bindernheim, Bindernheim	7.60713, 48.28366	dissel	d i ss e l	deichsel	d ei ch s e l	3
+192	Stra u 14	III_10_0035	Bläsheim, Bläsheim	7.60783, 48.50535	dischel	d i sch e l	dischl	d i sch l	1
+193	Hag H 1	III_5_0062	Oberbronn, Oberbronn	7.6082, 48.94109	dischel	d i sch e l	dischl	d i sch l	1
+194	Co P6	III_15_0057	Tannenkirch, Tannenkirch	7.6103, 47.71116	diēchsle	d i ē ch s l e	diechsle	d ie ch s l e	1
+195	Co e 12	III_12_0103	Sasbach, Sasbach	7.61363, 48.13798	dissle	d i ss l e	dißlä	d i ß l ä	3
+196	Co H3	III_14_0137	Hügelheim, Hügelheim	7.6208, 47.82868	diechsle	d ie ch s l e	diaxle	d i a x l e	4
+197	Co W 23	III_16_0075	Ötlingen, Ötlingen	7.62133, 47.62261	diechsle	d ie ch s l e	diichsle	d ii ch s l e	1
+198	Co A8	III_14_0044	Bremgarten (Hartheim), Bremgarten	7.62385, 47.91694	dissl	d i ss l	dissel	d i ss e l	1
+199	Co W 10	III_16_0072, III_16_0073	Binzen, Binzen, Märkt	7.62403, 47.63133	diechsla	d ie ch s l a	diexle	d ie x l e	4
+200	Co m 4	III_13_0037	Achkarren, Achkarren	7.62448, 48.06769	disle	d i s l e	dissle	d i ss l e	1
+201	Co e 6	III_12_0106	Bischoffingen, Bischoffingen	7.62537, 48.10625	dislä	d i s l ä	dissla	d i ss l a	2
+202	Co W 18	III_16_0085	Weil am Rhein, Weil	7.63299, 47.59278	diechsle	d ie ch s l e	diexle	d ie x l e	3
+203	Stra f 5	III_8_0076	Wingersheim, Wingersheim	7.63371, 48.72198	dischl	d i sch l	dischel	d i sch e l	1
+204	Co e 13	III_12_0107	Oberrotweil, Oberrotweil	7.63551, 48.08944	disle	d i s l e	dissla	d i ss l a	2
+205	Stra u 16	III_10_0033	Enzheim, Enzheim	7.63634, 48.53413	dischl	d i sch l	dischel	d i sch e l	1
+206	Stra J 7	III_11_0031	Osthausen (Osthouse), Osthausen	7.63886, 48.40167	dischl	d i sch l	dischdl	d i sch d l	1
+207	Co A5	III_14_0045	Seefelden, Seefelden	7.63962, 47.85945	diechsle	d ie ch s l e	diëchsle	d i ë ch s l e	1
+208	Co H11	III_14_0140	Feldberg, Feldberg	7.64081, 47.7737	dychsle	d y ch s l e	diechsle	d ie ch s l e	2
+209	Co W 7, 9/2	III_16_0077	Rümmingen, Rümmingen	7.64143, 47.64099	diegsle	d ie g s l e	diechsle	d ie ch s l e	2
+210	Co m 2	III_13_0039	Gündlingen, Gündlingen	7.64227, 48.01556	dißle	d i ß l e	dißla	d i ß l a	1
+211	Co H12	III_14_0142	Obereggenen, Niedereggenen, Obereggenen, Niedereggenen	7.64434, 47.75677	diēchsle	d i ē ch s l e	diägsle	d i ä g s l e	3
+212	Co m 3	III_13_0038	Ihringen, Ihringen	7.64554, 48.04572	dißlä	d i ß l ä	dissla	d i ss l a	3
+213	Stra B 11	III_10_0107	Limersheim, Limersheim	7.64596, 48.45465	dichel	d i ch e l	dischel	d i sch e l	1
+214	Co e 7	III_12_0032, III_12_0031, III_12_0030	Wyhl am Kaiserstuhl, Wyhl	7.64933, 48.1663	dißlä	d i ß l ä	diesle	d ie s l e	3
+215	Co A7	III_14_0048	Eschbach (bei Heitersheim), Eschbach	7.65221, 47.8908	dissel	d i ss e l	deichsel	d ei ch s e l	3
+216	Co e 2	III_12_0105	Kiechlinsbergen, Kiechlinsbergen	7.65306, 48.12469	dißle	d i ß l e	disla	d i s l a	2
+217	Co W 8	III_15_0056	Wollbach, Wollbach	7.65387, 47.67054	diëchsle	d i ë ch s l e	diechsle	d ie ch s l e	1
+218	Hag W 1	III_6_0067	Dauendorf, Dauendorf	7.65509, 48.82974	dissel	d i ss e l	dischel	d i sch e l	2
+219	Co e 11	III_12_0104	Königschaffhausen am Kaiserstuhl, Königschaffhausen	7.65562, 48.13337	dissle	d i ss l e	dißle	d i ß l e	2
+220	Co W 21	III_16_0078	Tumringen, Tumringen	7.65564, 47.62739	diegsle	d ie g s l e	diechsle	d ie ch s l e	2
+221	Co H9	III_14_0141	Lipburg, Lipburg	7.65665, 47.78685	dīexlè	d ī e x l è	diaxle	d i a x l e	3
+222	Hag P 9	III_5_0063	Gundershofen, Gundershofen	7.6592, 48.90652	dischl	d i sch l	dischel	d i sch e l	1
+223	Co W 19 , Co W 20	III_16_0079, III_16_0080, III_16_0082, III_16_0083	Lörrach, Lörrach , Lörrach, Lörrach <Adolf Hitler Schule>	7.66409, 47.61258	deichsle	d ei ch s l e	diĕkslĕ	d i ĕ k s l ĕ	4
+224	Stra v 6	III_9_0027	Wolfisheim, Wolfisheim	7.66606, 48.58281	dischel	d i sch e l	dissel	d i ss e l	2
+225	Co Wa 6	III_17_0037	Grenzach (Grenzach-Wyhlen), Grenzach	7.66607, 47.55136	diechsle	d ie ch s l e	diächsle	d i ä ch s l e	1
+226	Co A6	III_14_0047	Heitersheim, Heitersheim	7.66768, 47.87108	dissl	d i ss l	dissel	d i ss e l	1
+227	Co u 18	III_13_0127	Niederrimsingen, Niederrimsingen	7.67114, 47.98702	disela	d i s e l a	dissle	d i ss l e	2
+228	Co J1	III_14_0144	Britzingen, Britzingen	7.67237, 47.82744	diechle	d ie ch l e	diexle	d ie x l e	2
+229	Co u 21	III_13_0134	Schlatt, Schlatt	7.67473, 47.92531	dißle	d i ß l e	dissel	d i ss e l	3
+230	Co f 12	III_12_0123	Amoltern, Amoltern	7.67629, 48.12873	dīsle	d ī s l e	disle	d i s l e	1
+231	Co J2	III_14_0145	Badenweiler, Badenweiler	7.67934, 47.80555	diegsle	d ie g s l e	diecksle	d ie ck s l e	2
+232	Stra C 1/1, Stra C 1/2	III_10_0110	Fegersheim, Fegersheim	7.67959, 48.4897	tischel	t i sch e l	dischel	d i sch e l	1
+233	Stra R 1	III_11_0106	Boofzheim, Boofzheim	7.68036, 48.33214	dissl	d i ss l	dissel	d i ss e l	1
+234	Co f 6	III_12_0124	Schelingen am Kaiserstuhl, Schelingen	7.68308, 48.10435	disslä	d i ss l ä	dichsle	d i ch s l e	3
+235	Co B5	III_14_0058	Laufen, Laufen	7.68471, 47.8434	diägsle	d i ä g s l e	diechsle	d ie ch s l e	3
+236	Co X 16	III_16_0096	Inzlingen, Inzlingen	7.68772, 47.58811	dīĕchsle	d ī ĕ ch s l e	diechsle	d ie ch s l e	2
+237	Co n 4	III_13_0059, III_13_0058	Merdingen, Merdingen	7.68864, 48.0173	disle	d i s l e	dißle	d i ß l e	1
+238	Co Xa 5	III_17_0039, III_17_0040, III_17_0038	Wyhlen, Wyhlen	7.69103, 47.54989	diechsle	d ie ch s l e	dissel	d i ss e l	5
+239	Co X 6	III_16_0094, III_16_0095	Brombach (/Maulburg, aber gestrichen), Brombach	7.69236, 47.63395	diechlĕ	d ie ch l ĕ	diechsle	d ie ch s l e	2
+240	Co X 5	III_16_0093	Hauingen, Hauingen	7.69375, 47.64287	diägsle	d i ä g s l e	diegslä	d ie g s l ä	2
+241	Co J3	III_14_0153	Schweighof, Schweighof	7.69904, 47.80743	dīexle	d ī e x l e	diēxle	d i ē x l e	2
+242	Stra o 9	III_9_0047	Niederhausbergen, Niederhausbergen	7.70033, 48.62313	dischel	d i sch e l	dissel	d i ss e l	2
+243	Co f 9	III_12_0119	Forchheim, Forchheim	7.7031, 48.16341	disslȇ	d i ss l ȇ	dissle	d i ss l e	1
+244	Hag J 12	III_5_0073	Nehweiler (Nehwiller), Nehweiler	7.70322, 48.96072	dischl	d i sch l	dischel	d i sch e l	1
+245	Stra v 5, Stra v 4	III_10_0042	Illkirch-Grafenstaden, Illkirch-Grafenstaden	7.71183, 48.5288	diēschel	d i ē sch e l	dischel	d i sch e l	1
+246	Stra Y 1	III_12_0171	Niederhausen, Niederhausen	7.71317, 48.23982	dissel	d i ss e l	dissl	d i ss l	1
+247	Co u 17	III_13_0130	Mengen, Mengen	7.71392, 47.95851	dissle	d i ss l e	dißle	d i ß l e	2
+248	Hag Q 3	III_6_0071	Forstheim, Forstheim	7.71468, 48.89506	dischl	d i sch l	dischel	d i sch e l	1
+249	Stra o 3	III_9_0076	Mundolsheim, Mundolsheim	7.71544, 48.64179	dischel	d i sch e l	dischle	d i sch l e	2
+250	Stra C 2	III_10_0111	Eschau, Eschau	7.71556, 48.48796	dischel	d i sch e l	dischl	d i sch l	1
+251	Co u 14	III_13_0128	Tiengen, Tiengen	7.71599, 47.98216	dissel	d i ss e l	dissle	d i ss l e	2
+252	Hag Q 2	III_6_0070	Eberbach , Eberbach	7.71711, 48.91154	düschl	d ü sch l	dischel	d i sch e l	2
+253	Co n 13	III_13_0056	Waltershofen, Waltershofen	7.71857, 48.02338	dissel	d i ss e l	diesel	d ie s e l	1
+254	Hag Q 10	III_6_0072	Laubach, Laubach	7.72032, 48.88168	dischĕl	d i sch ĕ l	dischschl	d i sch sch l	3
+255	Hag J 11	III_5_0074	Fröschweiler (Frœschwiller), Fröschweiler	7.72171, 48.94318	dischl	d i sch l	dischel	d i sch e l	1
+256	Stra R 13	III_11_0118	Rust, Rust	7.72571, 48.26873	dissel	d i ss e l	disel	d i s e l	1
+257	Co u 5	III_13_0136	Norsingen, Norsingen	7.72683, 47.93837	diesel	d ie s e l	dissel	d i ss e l	1
+258	Co J4	III_14_0146	Marzell bei Kandern, Marzell über Kandern	7.72688, 47.77116	diechsle	d ie ch s l e	deichsel	d ei ch s e l	4
+259	Co X 1	III_16_0097	Hägelberg, Hägelberg	7.72778, 47.66132	diechsle	d ie ch s l e	dichsle	d i ch s l e	1
+260	Hag J 13	III_5_0072	Langensulzbach (Langensoultzbach), Langensulzbach	7.73367, 48.96812	dischl	d i sch l	dischel	d i sch e l	1
+261	Stra o 11	III_9_0065, III_9_0060, III_9_0059, III_9_0057, III_9_0063, III_9_0066, III_9_0071, III_9_0073, III_9_0062, III_9_0072, III_9_0070, III_9_0074, III_9_0069, III_9_0067, III_9_0068, III_9_0061, III_9_0058, III_9_0064	Straßburg, Straßburg	7.73609, 48.58523	dichel	d i ch e l	dischel	d i sch e l	1
+262	Co X 7	III_16_0098	Steinen, Steinen	7.73911, 47.64447	diechsle	d ie ch s l e	diegsle	d ie g s l e	2
+263	Co f 10	III_12_0111	Bahlingen, Bahlingen	7.73937, 48.12209	disslaͤ	d i ss l a ͤ	dißlä	d i ß l ä	4
+264	Co X 9	III_16_0100	Hüsingen, Hüsingen	7.74114, 47.63121	diēchsle	d i ē ch s l e	diechsle	d ie ch s l e	1
+265	Stra R 11	III_11_0111, III_11_0110	Kappel a. Rh., Kappel a. Rh., Grafenhausen	7.74182, 48.29235	dissl	d i ss l	dissel	d i ss e l	1
+266	Co u 4	III_13_0164	Kirchhofen, Kirchhofen	7.74356, 47.91979	dißl	d i ß l	dissl	d i ss l	2
+267	Co X 8	III_16_0099	Höllstein, Höllstein	7.74574, 47.63943	diäkslă	d i ä k s l ă	diäxlä	d i ä x l ä	3
+268	Co Xa 1	III_17_0041	Degerfelden, Degerfelden	7.74584, 47.5696	diechsle	d ie ch s l e	dichsle	d i ch s l e	1
+269	Stra o 13	III_9_0049	Schiltigheim, Schiltigheim	7.74856, 48.60595	dischl	d i sch l	dischel	d i sch e l	1
+270	Stra o 14	III_9_0051, III_9_0050	Straßburg-Bischheim, Straßburg-Bischheim	7.75254, 48.61483	dischl	d i sch l	dischel	d i sch e l	1
+271	Stra o 2	III_9_0054	Reichstett, Reichstett	7.75359, 48.6483	dischl	d i sch l	dischel	d i sch e l	1
+272	Stra K 2	III_11_0042	Ottenheim, Ottenheim	7.75477, 48.38593	disel	d i s e l	disell	d i s e ll	1
+273	Stra o 15	III_9_0052	Hönheim, Straßburg-Hönheim	7.75526, 48.62105	dichel	d i ch e l	dischel	d i sch e l	1
+274	Hag J 9	III_5_0084	Oberdorf-Spachbach, Oberdorf-Spachbach	7.75696, 48.92512	dichl	d i ch l	dischel	d i sch e l	2
+275	Stra K 5	III_11_0046	Nonnenweier, Nonnenweier	7.76001, 48.34931	dißlt	d i ß l t	disselt	d i ss e l t	3
+276	Hag J 2	III_5_0071	Mattstall, Mattstall	7.7613, 48.98757	dissl	d i ss l	dissel	d i ss e l	1
+277	Co Q9	III_15_0064	Weitenau, Weitenau	7.76525, 47.67775	diechsle	d ie ch s l e	diëchsle	d i ë ch s l e	1
+278	Stra Y 14	III_12_0046	Hecklingen, Hecklingen	7.76731, 48.16962	diesle	d ie s l e	dißle	d i ß l e	2
+279	Stra Y 13	III_12_0044	Kenzingen, Kenzingen	7.77005, 48.19298	dissle	d i ss l e	diesle	d ie s l e	1
+280	Co Xa 2	III_17_0042	Nollingen, Nollingen	7.7716, 47.57363	diãchsl	d i ã ch s l	diechsle	d ie ch s l e	2
+281	Co Q7	III_15_0066	Sallneck, Sallneck	7.7724, 47.72297	diechle	d ie ch l e	deichsle	d ei ch s l e	3
+282	Stra Y 8	III_12_0038, III_12_0039, III_12_0037	Herbolzheim a. d. Bleich, Herbolzheim	7.77743, 48.22249	disle	d i s l e	dissle	d i ss l e	1
+283	Co f 3	III_12_0118	Nimburg, Nimburg	7.77794, 48.10762	disle	d i s l e	dißle	d i ß l e	1
+284	Co n 11	III_13_0052	Buchheim, Buchheim	7.77912, 48.06092	dißlǟ	d i ß l ǟ	disslä	d i ss l ä	3
+285	Co u 9	III_13_0140	Ebringen, Ebringen	7.77981, 47.95761	dissel	d i ss e l	diesel	d ie s e l	1
+286	Co n 9	III_13_0054	Hugstetten, Hugstetten	7.78045, 48.05415	disle	d i s l e	dissle	d i ss l e	1
+287	Stra K 4	III_11_0047	Allmannsweier, Allmannsweier	7.78326, 48.36703	disselt	d i ss e l t	dißl	d i ß l	4
+288	Co B7	III_14_0065	Untermünstertal-Ziegelplatz (Untermünstertal), Untermünstertal	7.78649, 47.85518	dichsel	d i ch s e l	dissle	d i ss l e	4
+289	Co Xa 3	III_17_0045, III_17_0044, III_17_0046	Rheinfelden-Stadt (Baden), Rheinfelden	7.78875, 47.55945	dīchsel	d ī ch s e l	diechsel	d ie ch s e l	2
+290	Co X 14	III_16_0103, III_16_0104	Minseln, Minseln	7.79067, 47.60301	diéchsle	d i é ch s l e	diéxle	d i é x l e	3
+291	Co f 5	III_12_0117	Malterdingen, Malterdingen	7.79392, 48.16302	dißlä	d i ß l ä	dißle	d i ß l e	1
+292	Co B8	III_14_0151	Untermünstertal-Rotenbuck, Untermünstertal-Rotenbuck	7.79435, 47.84136	disel	d i s e l	dissel	d i ss e l	1
+293	Co Q6	III_15_0067	Tegernau, Tegernau	7.79638, 47.72037	di͜echsle	d i ͜ e ch s l e	diechsle	d ie ch s l e	1
+294	Stra Y 9	III_12_0043	Wagenstadt, Wagenstadt	7.79647, 48.20762	dissle	d i ss l e	dißle	d i ß l e	2
+295	Co X 17	III_16_0105	Karzau (Karsau) , Karsau	7.79868, 47.58875	diechsle	d ie ch s l e	diechsl	d ie ch s l	1
+296	Co n 6	III_13_0053	Hochdorf, Hochdorf	7.80212, 48.0489	diesle	d ie s l e	disle	d i s l e	1
+297	Hag J 6	III_5_0085	Preuschdorf, Preuschdorf	7.80425, 48.9435	dischel	d i sch e l	dischl	d i sch l	1
+298	Co f 8	III_12_0114	Köndringen, Köndringen	7.80591, 48.13912	dīesle	d ī e s l e	dissle	d i ss l e	2
+299	Co B13	III_14_0054	Obermünstertal-Krumlinden (Obermünstertal), Obermünstertal-Krummlinden	7.81186, 47.87153	diesel	d ie s e l	dissel	d i ss e l	1
+300	Co X 11	III_16_0107, III_16_0108	Wiechs, Wiechs	7.81236, 47.63655	diēchsle	d i ē ch s l e	diechsle	d ie ch s l e	1
+301	Stra R 7	III_11_0113	Mahlberg, Mahlberg	7.81323, 48.28708	dissl	d i ss l	dissel	d i ss e l	1
+302	Stra R 10	III_11_0117	Ettenheim, Ettenheim	7.81361, 48.25631	dissl	d i ss l	dissel	d i ss e l	1
+303	Stra Y 11	III_12_0045	Nordweil, Nordweil	7.81384, 48.19396	dissle	d i ss l e	disle	d i s l e	1
+304	Stra C 5	III_10_0114	Altenheim, Altenheim	7.81393, 48.46505	dissl	d i ss l	dissel	d i ss e l	1
+305	Stra R 9	III_11_0116, III_11_0115	Altdorf, Altdorf	7.81401, 48.26606	dissl	d i ss l	dissel	d i ss e l	1
+306	Stra v 1	III_10_0047	Kehl, Kehl	7.81494, 48.57419	dissl	d i ss l	dissel	d i ss e l	1
+307	Co X 12	III_16_0111	Nordschwaben, Nordschwaben	7.81682, 47.6184	diegsle	d ie g s l e	diechsle	d ie ch s l e	2
+308	Hag J 3	III_5_0078	Lampertsloch, Lampertsloch	7.81713, 48.95698	dissl	d i ss l	dischtel	d i sch t e l	4
+309	Hag B 4	III_4_0087	Wingen, Wingen	7.81729, 49.02601	deisel	d ei s e l	deissel	d ei ss e l	1
+310	Co Q5	III_15_0068	Gresgen, Gresgen	7.82053, 47.71127	diechsle	d ie ch s l e	diĕchsle	d i ĕ ch s l e	1
+311	Co X 3	III_16_0110, III_16_0109	Schopfheim (/Grenzach, aber gestrichen), Schopfheim	7.82315, 47.64973	dieglse	d ie g l s e	diéchsle	d i é ch s l e	4
+312	Co u 11	III_13_0139	Merzhausen, Merzhausen	7.82532, 47.96635	dißle	d i ß l e	diesle	d ie s l e	2
+313	Co n 2	III_13_0060	Reute, Reute	7.82538, 48.08175	dissele	d i ss e l e	dissle	d i ss l e	1
+314	Stra Y a 1	III_12_0112	Heimbach, Heimbach	7.82936, 48.1638	disslä	d i ss l ä	dißle	d i ß l e	3
+315	Stra Y 10	III_12_0042	Bleichheim, Bleichheim	7.8306, 48.20842	disle	d i s l e	dissle	d i ss l e	1
+316	Co Q4	III_14_0186	Elbenschwand, Elbenschwand	7.83139, 47.7509	diēchsle	d i ē ch s l e	diechsle	d ie ch s l e	1
+317	Co g 8	III_12_0131	Mundingen, Mundingen	7.8346, 48.13735	dissela	d i ss e l a	dißle	d i ß l e	4
+318	Co C12	III_14_0066	Obermünstertal-Spielweg, Obermünstertal-Spielweg	7.83588, 47.87776	dissel	d i ss e l	dißle	d i ß l e	3
+319	Stra p 9	ungeodnet2	Auenheim, Auenheim	7.83597, 48.6051	dischdl	d i sch d l	dissel	d i ss e l	3
+320	Stra S 1	III_11_0119	Mietersheim, Mietersheim	7.83797, 48.32639	dissel	d i ss e l	dissle	d i ss l e	2
+321	Co Y 15	III_16_0122	Eichen, Eichen	7.83816, 47.6471	diachsle	d i a ch s l e	diéxle	d i é x l e	4
+322	Hag K 22	III_5_0108	Oberkutzenhausen, Oberkutzenhausen	7.84049, 48.93847	dissel	d i ss e l	disel	d i s e l	1
+323	Co K6	III_14_0168	Böllen, Böllen	7.84054, 47.80226	diächsle	d i ä ch s l e	diechsle	d ie ch s l e	1
+324	Co R12	III_15_0089	Hausen im Wiesental, Hausen im Wiesental	7.84055, 47.68143	dichsle	d i ch s l e	diechsel	d ie ch s e l	3
+325	Stra L 8	III_11_0052	Schutterzell, Schutterzell	7.84148, 48.4057	dissl	d i ss l	dissel	d i ss e l	1
+326	Co g 1	III_12_0132, III_12_0133	Emmendingen, Emmendingen	7.84951, 48.1209	dißle̊	d i ß l e ̊	dißle	d i ß l e	1
+327	Co o 8	III_13_0070	Vörstetten, Vörstetten	7.85113, 48.06391	dissle	d i ss l e	dißle	d i ß l e	2
+328	Co R9	III_15_0081, III_15_0080, III_15_0079	Zell im Wiesental, Zell im Wiesental	7.85301, 47.70753	dichsel	d i ch s e l	dïechsel	d ï e ch s e l	2
+329	Stra S 10	III_11_0132	Wallburg, Wallburg	7.85339, 48.26704	disel	d i s e l	dissel	d i ss e l	1
+330	Stra p 4	III_9_0077	Leutesheim, Leutesheim	7.85613, 48.62423	dischtel	d i sch t e l	distl	d i s t l	3
+331	Co g 3	III_12_0135	Wasser, Wasser	7.8564, 48.09846	dīßle	d ī ß l e	dißle	d i ß l e	1
+332	Stra S 9	III_11_0123	Schmieheim, Schmieheim	7.85658, 48.27938	dissl	d i ss l	dissel	d i ss e l	1
+333	Co Y 13	III_16_0114	Dossenbach, Dossenbach	7.85693, 47.61597	diechsle	d ie ch s l e	diegsle	d ie g s l e	2
+334	Co v 9	III_13_0141	Horben, Horben	7.85911, 47.93223	dissle	d i ss l e	dißle	d i ß l e	2
+335	Hag Y 6	III_7_0100	Bischweiler, Bischweiler	7.85912, 48.76826	dischl	d i sch l	dischel	d i sch e l	1
+336	Co R13	III_15_0085	Raitbach, Raitbach	7.86089, 47.68233	dichslä	d i ch s l ä	diechsle	d ie ch s l e	2
+337	Stra D 2	III_10_0117	Hohnhurst, Hohnhurst	7.86191, 48.49204	dissl	d i ss l	dissel	d i ss e l	1
+338	Stra p 11	III_9_0080	Querbach, Querbach	7.86754, 48.58924	dissl	d i ss l	dissel	d i ss e l	1
+339	Co Y 2	III_16_0116	Kürnberg, Kürnberg	7.86873, 47.6649	düächsle	d ü ä ch s l e	diechsle	d ie ch s l e	2
+340	Stra w 13	III_10_0050	Kork, Kork	7.86899, 48.56537	dissl	d i ss l	dissel	d i ss e l	1
+341	Co R1	III_15_0069	Pfaffenberg, Pfaffenberg	7.86972, 47.73452	dīchsle	d ī ch s l e	di͜ēchsle	d i ͜ ē ch s l e	3
+342	Hag K 20	III_5_0086	Drachenbronn, Drachenbronn	7.87037, 48.98626	däichsel	d ä i ch s e l	deichsel	d ei ch s e l	1
+343	Hag K 17	III_5_0093, III_5_0094	Memmelshofen (Memmelshoffen), Memmelshofen	7.87106, 48.96013	dissl	d i ss l	dissel	d i ss e l	1
+344	Stra p 3	III_9_0078	Honau, Honau	7.87132, 48.64025	dissel	d i ss e l	dischl	d i sch l	2
+345	Co R6	III_15_0077	Atzenbach, Atzenbach <+ Riedichen>	7.8735, 47.71532	diichsle	d ii ch s l e	dichsle	d i ch s l e	1
+346	Stra L 7	III_11_0055, III_11_0054, III_11_0056	Friesenheim, Friesenheim	7.87515, 48.37378	dissl	d i ss l	dissel	d i ss e l	1
+347	Co C10	III_14_0067	Obermünstertal-Stohren, Obermünstertal-Stohren	7.87525, 47.8938	disle	d i s l e	diisle	d ii s l e	1
+348	Stra L 12	III_11_0060, III_11_0059	Lahr (Lahr/Schwarzwald), Lahr	7.87603, 48.34018	dissl	d i ss l	dissel	d i ss e l	1
+349	Hag R 4	III_6_0080, III_6_0081	Schwabweiler, Schwabweiler	7.87665, 48.90207	disel	d i s e l	diesel	d ie s e l	1
+350	Co g 12	III_12_0136	Kollmarsreute, Kollmarsreute	7.87829, 48.10253	dīsle	d ī s l e	dißle	d i ß l e	2
+351	Co Y 12	III_16_0168	Schwörstadt, Schwörstadt	7.87989, 47.59379	dichslä	d i ch s l ä	diëchsle	d i ë ch s l e	2
+352	Stra w 2	III_10_0051	Odelshofen, Odelshofen	7.88021, 48.56001	dissel	d i ss e l	digsel	d i g s e l	1
+353	Stra w 9/2, Stra w 9/1	III_10_0058	Hesselhurst, Hesselhurst	7.88114, 48.52042	dissel	d i ss e l	dissl	d i ss l	1
+354	Co C2	III_14_0070	Wieden, Wieden	7.8814, 47.84169	diechsle	d ie ch s l e	diēxle	d i ē x l e	4
+355	Hag K 18	III_5_0091	Keffenach, Keffenach	7.88225, 48.96489	deisel	d ei s e l	daissel	d a i ss e l	2
+356	Co K7	III_14_0155	Schönenberg, Schönenberg	7.88227, 47.79265	diächsle	d i ä ch s l e	diechsle	d ie ch s l e	1
+357	Hag K 14	III_5_0099	Sulz u. (f) (Soultz-Sous-Forêts), Sulz u. Wald	7.88268, 48.93782	dissel	d i ss e l	disl	d i s l	2
+358	Co K14	III_14_0164, III_14_0163	Fröhnd, Fröhnd-Stutz, Fröhnd-Ittenschwand	7.88397, 47.7603	diëchsl	d i ë ch s l	diexle	d ie x l e	5
+359	Hag R 2	III_5_0101	Reimersweiler, Reimersweiler	7.88417, 48.9137	disl	d i s l	dissel	d i ss e l	2
+360	Co g 14	III_12_0052	Freiamt-Mußbach (Mussbach), Freiamt-Mußbach	7.88578, 48.17377	dißle	d i ß l e	dissle	d i ss l e	2
+361	Stra D 17	III_10_0131, III_10_0133, III_10_0132	Schutterwald, Schutterwald	7.88679, 48.45347	dißl	d i ß l	dissel	d i ss e l	3
+362	Stra p 2/2, Stra p 2/1	III_9_0084	Diersheim, Diersheim	7.8874, 48.64789	dischdel	d i sch d e l	dischtl	d i sch t l	2
+363	Hag C 7	III_4_0090	Kleeburg (Cleebourg), Kleeburg	7.89318, 49.00093	daisel	d a i s e l	deisel	d ei s e l	1
+364	Co K8	III_14_0159, III_14_0157, III_14_0158, III_14_0156	Schönau, Schönau	7.89443, 47.78637	diechsle	d ie ch s l e	diĕchsle	d i ĕ ch s l e	1
+365	Co K5	III_14_0160	Aitern, Aitern	7.89522, 47.80317	diächsle	d i ä ch s l e	diechsle	d ie ch s l e	1
+366	Stra p 5	III_9_0082	Linx, Linx	7.89706, 48.62687	dischdl	d i sch d l	dissel	d i ss e l	3
+367	Co C7	III_14_0068	Hofsgrund, Hofsgrund	7.89778, 47.90096	diesle	d ie s l e	disle	d i s l e	1
+368	Co Y 3	III_16_0115	Hasel, Hasel	7.89786, 47.65393	diächsle	d i ä ch s l e	diechsle	d ie ch s l e	1
+369	Hag K 2	III_5_0087	Bremmelbach, Bremmelbach	7.90023, 48.986	däisel	d ä i s e l	deisel	d ei s e l	1
+370	Co R7	III_15_0075	Häg-Rohrberg, Rohrberg	7.90412, 47.7181	dieksle	d ie k s l e	diechsle	d ie ch s l e	2
+371	Co Y 14	III_16_0117	Wehr, Wehr	7.9045, 47.62927	diēgsle	d i ē g s l e	diechsle	d ie ch s l e	3
+372	Hag Y 7	III_7_0102	Rohrwiller, Rohrweiler	7.90543, 48.75592	dischschel	d i sch sch e l	dischl	d i sch l	4
+373	Co R2	III_15_0070	Ehrsberg, Ehrsberg	7.90629, 47.74318	diechsle	d ie ch s l e	dieschle	d ie sch l e	2
+374	Stra L 13	III_11_0061	Kuhbach, Kuhbach	7.90787, 48.33884	dissel	d i ss e l	diessl	d ie ss l	2
+375	Co v 10	III_13_0149	Kappel, Kappel	7.90831, 47.96423	dīesle	d ī e s l e	diesle	d ie s l e	1
+376	Hag C 1	III_4_0100	Weißenburg-Weiler, Weissenburg-Weiler	7.91271, 49.0377	deiksl	d ei k s l	daisel	d a i s e l	3
+377	Co K4	III_14_0161	Utzenfeld, Utzenfeld	7.91301, 47.80054	diachsle	d i a ch s l e	diechsle	d ie ch s l e	1
+378	Hag C 4	III_4_0091	Rott, Rott	7.91304, 49.02495	deisel	d ei s e l	deissel	d ei ss e l	1
+379	Co Ya 1	III_17_0047	Wallbach, Wallbach	7.91336, 47.56871	diächsel	d i ä ch s e l	dichsel	d i ch s e l	1
+380	Co Y 11	III_16_0118	Öfflingen (Öflingen), Öflingen	7.91396, 47.59228	diechsle	d ie ch s l e	diegsle	d ie g s l e	2
+381	Co R3	III_15_0071	Häg (bei Mambach), Häg	7.91432, 47.73207	diechslä	d ie ch s l ä	díechse	d í e ch s e	3
+382	Hag Y 2	III_7_0106	Schirrhofen, Schirrhofen	7.9193, 48.8066	dissel	d i ss e l	dissell	d i ss e l l	1
+383	Stra p 6	III_9_0083	Holzhausen, Holzhausen	7.92018, 48.62595	dischel	d i sch e l	dischtl	d i sch t l	1
+384	Co g 15	III_12_0129	Keppenbach, Frei Keppenbach	7.92037, 48.14437	dissle	d i ss l e	dißle	d i ß l e	2
+385	Co K9	III_14_0162	Tunau, Tunau	7.92311, 47.78574	diächsle	d i ä ch s l e	diegsle	d ie g s l e	3
+386	Co g 13	III_12_0126, III_12_0127	Freiamt-Reichenbach, Freiamt-Reichenbach	7.92477, 48.15747	düßle	d ü ß l e	dissle	d i ss l e	3
+387	Stra p 1	III_9_0085	Rheinbischofsheim, Rheinbischofsheim	7.92904, 48.65493	dichtel	d i ch t e l	dischdel	d i sch d e l	2
+388	Hag C 6	III_4_0092	Steinselz (Steinseltz), Steinselz	7.93035, 49.0109	deisel	d ei s e l	daasel	d aa s e l	2
+389	Co R11	III_15_0083	Gersbach, Gersbach	7.93271, 47.69725	diechsle	d ie ch s l e	dichsle	d i ch s l e	1
+390	Stra L 3	III_11_0063	Diersburg, Diersburg	7.93733, 48.40041	dissl	d i ss l	dissel	d i ss e l	1
+391	Co K2	III_14_0166	Schlechtnau, Schlechtnau	7.93888, 47.8175	dīagsle	d ī a g s l e	diegsle	d ie g s l e	2
+392	Co K3	III_14_0165	Geschwend, Geschwend	7.93964, 47.80434	diēchsel	d i ē ch s e l	diechsle	d ie ch s l e	3
+393	Hag K 10	III_5_0109	Hofen (Hoffen), Hofen	7.9412, 48.92766	deissel	d ei ss e l	daisel	d a i s e l	2
+394	Co C4	III_14_0071	Todtnauberg, Todtnauberg	7.94335, 47.85074	dieḙsle	d ie ḙ s l e	díe̤chsle	d í e ̤ ch s l e	4
+395	Stra D 8	III_10_0128, III_10_0127	Offenburg, Offenburg	7.9447, 48.47195	disel	d i s e l	dissel	d i ss e l	1
+396	Co v 8	III_13_0150	Oberried, Oberried	7.94506, 47.93146	diesla	d ie s l a	diesle	d ie s l e	1
+397	Hag K 9	III_5_0103	Leitersweiler (Leiterswiller), Leitersweiler	7.94768, 48.92407	dēisel	d ē i s e l	deisel	d ei s e l	1
+398	Co Y 7	III_16_0119	Hütten, Hütten	7.94873, 47.62902	diachsle	d i a ch s l e	diechgsle	d ie ch g s l e	2
+399	Co C6	III_14_0069	Sankt Wilhelm, St. Wilhelm	7.94887, 47.89511	dīsle	d ī s l e	diesle	d ie s l e	2
+400	Co R4	III_15_0072	Happach, Happach	7.95137, 47.7412	diächslä	d i ä ch s l ä	diechsle	d ie ch s l e	2
+401	Hag K 1	III_5_0088	Riedselz (Riedseltz), Riedselz	7.95195, 48.99281	deisel	d ei s e l	deichsel	d ei ch s e l	2
+402	Co K11	III_14_0169	Präg-Herrenschwand, Präg-Herrenschwand	7.95327, 47.76746	diechsle	d ie ch s l e	dĕchsle	d ĕ ch s l e	2
+403	Stra Z 2	III_12_0049	Dörlinbach, Dörlinbach	7.95383, 48.24804	dissel	d i ss e l	dissle	d i ss l e	2
+404	Co Y 9	III_16_0120	Bergalingen, Bergalingen	7.95943, 47.61266	diachsle	d i a ch s l e	diechsle	d ie ch s l e	1
+405	Co v 4	III_13_0151	Stegen, Stegen	7.96093, 47.98418	disle	d i s l e	diesle	d ie s l e	1
+406	Co Ya 2	III_17_0051, III_17_0048, III_17_0053, III_17_0052, III_17_0049, III_17_0054, III_17_0055, III_17_0050	Obersäckingen, Säckingen	7.96171, 47.57476	diachsle	d i a ch s l e	diegsle	d ie g s l e	3
+407	Co o 5	III_13_0068	Oberglottertal, Oberglottertal	7.96407, 48.04803	dissle	d i ss l e	dißle	d i ß l e	2
+408	Stra D 6	III_10_0126	Rammersweier, Rammersweier	7.96625, 48.48439	dissl	d i ss l	dissel	d i ss e l	1
+409	Stra Z 3	III_12_0050	Schweighausen, Schweighausen	7.96799, 48.22021	dissl	d i ss l	dissle	d i ss l e	1
+410	Stra w 4	III_10_0054, III_10_0053	Urloffen, Urloffen	7.96889, 48.557	dissl	d i ss l	dissel	d i ss e l	1
+411	Hag C 3	III_4_0099	Altenstadt, Altenstadt	7.96964, 49.03158	deisel	d ei s e l	deichsel	d ei ch s e l	2
+412	Stra D 11	III_10_0123	Ortenberg, Ortenberg	7.97048, 48.45192	disel	d i s e l	dissel	d i ss e l	1
+413	Co g 11	III_12_0140	Kollnau, Kollnau	7.9721, 48.10586	disle	d i s l e	dieseleͣ	d ie s e l e ͣ	3
+414	Co K10	III_14_0154	Präg, Präg	7.97232, 47.77964	dichsel	d i ch s e l	diechsle	d ie ch s l e	3
+415	Co Y 10	III_16_0125	Willaringen, Willaringen	7.97281, 47.60577	diächsle	d i ä ch s l e	diechsle	d ie ch s l e	1
+416	Co Y 6	III_16_0123	Altenschwand, Altenschwand	7.976, 47.63697	diachslå	d i a ch s l å	dieachse	d ie a ch s e	3
+417	Co g 6	III_12_0128	Siegelau, Siegelau	7.97753, 48.14612	dißle	d i ß l e	dißle̊	d i ß l e ̊	1
+418	Co Y 8	III_16_0124	Rickenbach, Rickenbach	7.97772, 47.61891	diächsle	d i ä ch s l e	diechsle	d ie ch s l e	1
+419	Stra w 5	III_10_0063	Appenweier, Appenweier	7.98009, 48.53996	dīsl	d ī s l	dissel	d i ss e l	3
+420	Stra h 7	III_8_0093	Memprechtshofen, Memprechtshofen	7.98237, 48.68233	dissl	d i ss l	dischl	d i sch l	2
+421	Hag K 6	III_5_0106	Aschbach, Aschbach	7.98262, 48.93423	deisel	d ei s e l	deichsel	d ei ch s e l	2
+422	Co g 5	III_12_0141	Siensbach, Siensbach	7.98804, 48.10755	dissle	d i ss l e	dißle	d i ß l e	2
+423	Stra Z 6	III_12_0054	Oberspitzenbach, Oberspitzenbach	7.98858, 48.1762	dißle	d i ß l e	dissle	d i ss l e	2
+424	TUTT Sa1/2	III_17_0057	Rippolingen und Harpolingen, Rippolingen	7.9892, 47.57843	dichsel	d i ch s e l	digsel	d i g s e l	2
+425	Hag K 4	III_5_0098	Oberseebach, Oberseebach	7.98947, 48.9672	deisel	d ei s e l	deissel	d ei ss e l	1
+426	Co Y 5	III_16_0113	Niedergebisbach, Niedergebisbach	7.99251, 47.65054	diechsel	d ie ch s e l	dichsle	d i ch s l e	3
+427	Stra D 13	III_10_0121	Ohlsbach, Ohlsbach	7.99275, 48.43199	dissel	d i ss e l	diichsl	d ii ch s l	4
+428	Stra h 5	III_8_0096	Scherzheim, Scherzheim	7.99655, 48.7137	dissl	d i ss l	dissel	d i ss e l	1
+429	TUTT p5	III_13_0152	Falkensteig, Falkensteig	7.99689, 47.94697	dīslä	d ī s l ä	diislä	d ii s l ä	2
+430	TUTT Sa1	III_17_0056	Rippolingen und Harpolingen, Harpolingen	8.00062, 47.57274	dichsel	d i ch s e l	digsel	d i g s e l	2
+431	TUTT S3	III_15_0087	Herrischried, Herrischried	8.00161, 47.66587	diëchsle	d i ë ch s l e	diechsle	d ie ch s l e	1
+432	TUTT a3	III_12_0151	Bleibach, Bleibach	8.00281, 48.12764	dissle	d i ss l e	diessle	d ie ss l e	1
+433	TUTT L4/2, Co K12, TUTT L4/1, Co R15, TUTT D5	III_15_0073, III_14_0176	Todtmoos, Todtmoos (-Rütte), Todtmoos , Todtmoos	8.00438, 47.74133	diachsle	d i a ch s l e	diechsla	d ie ch s l a	2
+434	TÜB p11	III_10_0065	Nesselried, Nesselried	8.00608, 48.52212	dißl	d i ß l	deichsel	d ei ch s e l	5
+435	TUTT p3	III_13_0153	Unteribental, Unteribental	8.00642, 47.97982	diesel	d ie s e l	diesle	d ie s l e	2
+436	KST L1	III_5_0111	Bühl (Buhl), Bühl	8.00666, 48.91753	deisel	d ei s e l	deïsel	d e ï s e l	1
+437	KST S9	III_7_0118	Greffern, Greffern	8.00704, 48.7525	dissl	d i ss l	dissel	d i ss e l	1
+438	TUTT p4	III_13_0155	Buchenbach, Buchenbach	8.00773, 47.96134	dißle	d i ß l e	dießle	d ie ß l e	1
+439	KST S2	III_7_0108	Auenheim, Auenheim	8.00818, 48.81256	dissl	d i ss l	dissel	d i ss e l	1
+440	TUTT L6	III_15_0091, III_15_0090	Grossherrischwand, Grossherrischwand	8.01017, 47.6797	diechsle	d ie ch s l e	diëchsel	d i ë ch s e l	3
+441	TUTT L5	III_15_0094	Wehrhalden, Wehrhalden	8.01061, 47.70213	diechsle	d ie ch s l e	dīëchsel	d ī ë ch s e l	4
+442	Co R14	III_15_0086	Rütte (bei Todtmoos; es gibt auch noch eines bei Herreschrie und eines bei Todtnauberg), Rütte	8.01336, 47.76141	diëchsle	d i ë ch s l e	diechsle	d ie ch s l e	1
+443	TUTT S4	III_16_0127	Hogschür, Hogschür	8.01475, 47.64742	diechsle	d ie ch s l e	düechsle	d ü e ch s l e	1
+444	KST D11	III_5_0110, III_5_0112	Trimbach, Trimbach	8.0182, 48.94347	deisel	d ei s e l	dissel	d i ss e l	2
+445	TÜB D7	III_11_0071	Fußbach, Fußbach	8.01836, 48.36476	dissl	d i ss l	dissel	d i ss e l	1
+446	TUTT a2	III_12_0143	Niederwinden, Niederwinden	8.02152, 48.14244	dißle	d i ß l e	diesle	d ie s l e	2
+447	KST L9	III_6_0091	Leutenheim, Leutenheim	8.02175, 48.843	dischel	d i sch e l	dissel	d i ss e l	2
+448	TUTT Sa3	III_17_0058	Murg, Murg	8.02352, 47.55376	diechsle	d ie ch s l e	diëchsle	d i ë ch s l e	1
+449	TUTT S2	III_16_0126	Segeten, Segeten	8.02357, 47.65954	di͡achsla	d i ͡ a ch s l a	diechsle	d ie ch s l e	3
+450	TUTT S20	III_16_0138	Hänner, Hänner	8.03004, 47.59489	diechsle	d ie ch s l e	dichsle	d i ch s l e	1
+451	TUTT Sa5	III_16_0137	Oberhof, Oberhof	8.0324, 47.58493	diegsle	d ie g s l e	dichsle	d i ch s l e	2
+452	Stra S 5	III_11_0126	Schönberg, Schönberg	8.0327, 48.36461	dissl	d i ss l	dissel	d i ss e l	1
+453	TÜB S3	III_12_0059	Katzenmoos, Katzenmoos	8.03332, 48.167	dißle	d i ß l e	diesel	d ie s e l	3
+454	TUTT Sa4	III_17_0059	Niederhof, Niederhof	8.03951, 47.56938	diechsle	d ie ch s l e	dichsle	d i ch s l e	1
+455	KST S4	III_7_0109	Röschwoog (Roeschwoog), Röschwoog	8.04001, 48.83085	dissel	d i ss e l	diissel	d ii s s e l	1
+456	KST L2	III_6_0087	Niederrödern/Elsass, Niederrödern	8.04105, 48.90576	deichsl	d ei ch s l	deischel	d ei sch e l	2
+457	KST D10	III_5_0125	Siegen (Weissenburg), Siegen	8.04269, 48.9581	deisel	d ei s e l	deissel	d ei ss e l	1
+458	TUTT a1	III_12_0144	Oberwinden, Oberwinden	8.04318, 48.15444	diesle	d ie s l e	diesel	d ie s e l	2
+459	TÜB a3	III_7_0119	Schwarzach (bei Bühl), Schwarzach	8.04423, 48.74717	dissel	d i ss e l	dissl	d i ss l	1
+460	TUTT S6	III_16_0129, III_16_0130	Oberwihl, Oberwihl	8.04597, 47.62098	diéchsle	d i é ch s l e	diëchsle	d i ë ch s l e	1
+461	TUTT L/S7, TUTT S1	III_15_0093, III_15_0095	Strittmatt, Strittmatt und Engelschwand, Strittmatt, Engelschwand	8.04718, 47.66382	diͣxla	d i ͣ x l a	diaxel	d i a x e l	3
+462	TUTT a4	III_12_0147, III_12_0149	Simonswald, Untersimonswald	8.04838, 48.10278	dißle	d i ß l e	diesle	d ie s l e	2
+463	TÜB h2	III_9_0087, III_9_0088	Großweier, Grossweier	8.0487, 48.65502	dissl	d i ss l	dissel	d i ss e l	1
+464	TÜB p1	III_10_0072	Ulm Kr. Offenburg, Ulm	8.05069, 48.57993	dissel	d i ss e l	disel	d i s e l	1
+465	KST S7	III_7_0114	Söllingen, Söllingen	8.05486, 48.78147	dissel	d i ss e l	dĭsel	d ĭ s e l	2
+466	TÜB p2	III_10_0073	Haslach, Haslach	8.05661, 48.56552	dichsel	d i ch s e l	dissel	d i ss e l	2
+467	KST L8	III_6_0094	Roppenheim, Roppenheim	8.05791, 48.8465	dissäl	d i ss ä l	dissel	d i ss e l	1
+468	TÜB a4	III_8_0103	Hildmannsfeld, Hildmannsfeld	8.05893, 48.73423	dissel	d i ss e l	dissl	d i ss l	1
+469	TUTT S19	III_16_0139	Rotzel, Rotzel	8.06151, 47.59473	diĕchsle	d i ĕ ch s l e	deichsel	d ei ch s e l	4
+470	TUTT L8	III_15_0097	Hartschwand, Hartschwand	8.0655, 47.67119	dichsla	d i ch s l a	diechsle	d ie ch s l e	2
+471	KST D14	III_5_0113	Eberbach-Selz, Eberbach-Selz	8.06718, 48.92481	deisl	d ei s l	deisel	d ei s e l	1
+472	TUTT L3	III_15_0109	Ibach, Ibach	8.07077, 47.73259	diëchsle	d i ë ch s l e	diechsle	d ie ch s l e	1
+473	TUTT S8	III_16_0132	Rüsswihl, Rüßwihl	8.07093, 47.63063	dichsle	d i ch s l e	deichsel	d ei ch s e l	3
+474	TUTT S7	III_16_0131	Niederwihl, Niederwihl	8.07095, 47.61851	diéchsle	d i é ch s l e	dichsle	d i ch s l e	1
+475	KST D2	III_5_0122	Salmbach (bei Weißenburg), Salmbach	8.07143, 48.97818	deisel	d ei s e l	deisl	d ei s l	1
+476	TÜB L6	III_11_0136	Bollenbach, Bollenbach	8.07369, 48.29315	dissl	d i ss l	dissel	d i ss e l	1
+477	TUTT S10	III_15_0096	Rotzingen, Rotzingen	8.0762, 47.66588	diachsla	d i a ch s l a	diechsle	d ie ch s l e	2
+478	TUTT L17	III_15_0101	Fröhnd, Fröhnd	8.07717, 47.70011	diechsel	d ie ch s e l	diechsle	d ie ch s l e	2
+479	TUTT S9	III_16_0134	Görwihl, Görwihl	8.07817, 47.64186	dichsle	d i ch s l e	diechsle	d ie ch s l e	1
+480	TUTT S18	III_16_0140	Hochsal, Hochsal	8.08003, 47.5887	diachsla	d i a ch s l a	diachsle	d i a ch s l e	1
+481	TÜB h10	III_9_0099	Oberachern, Oberachern	8.08066, 48.6193	diicksl	d ii ck s l	diichsl	d ii ch s l	1
+482	TÜB D1/1, TÜB D1/2	III_11_0069, III_11_0068	Nordrach, Nordrach	8.08082, 48.39898	disel	d i s e l	dissel	d i ss e l	1
+483	KST S5	III_7_0111	Neuhäusel (Neuhaeusel), Neuhäusel	8.08594, 48.82427	disel	d i s e l	dissel	d i ss e l	1
+484	TUTT Sa7	III_17_0061	Laufenburg (Baden), Laufenburg	8.0908, 47.58055	diechsle	d ie ch s l e	diëchsle	d i ë ch s l e	1
+485	TUTT L/8,9	III_15_0098, III_15_0099	Hierbach - Wilfingen, Hierbach, Wilfingen	8.09123, 47.686	diechsle	d ie ch s l e	diechsla	d ie ch s l a	1
+486	TUTT h3, TUTT p1	III_13_0081, III_13_0080, III_13_0078, III_13_0079	St. Märgen-Schweighöfe, St. Märgen, St. Märgen	8.09239, 48.00756	diechle	d ie ch l e	diesle	d ie s l e	2
+487	TUTT h7	III_13_0075	Obersimonswald, Obersimonswald	8.09331, 48.0797	dissle	d i ss l e	disslĕ	d i ss l ĕ	1
+488	TUTT S21	III_16_0141	Schachen, Schachen	8.09406, 47.60368	diēchslä	d i ē ch s l ä	diechsle	d ie ch s l e	2
+489	TUTT w3	III_14_0072	Bärental, Bärental	8.0952, 47.86975	dīsle	d ī s l e	diisle	d ii s l e	2
+490	TÜB a7	III_8_0105	Balzhofen, Balzhofen	8.09765, 48.71247	dissl	d i ss l	dissel	d i ss e l	1
+491	TUTT S5, TUTT Sa8	III_17_0060	Luttingen, Luttingen und Grunholz, Luttingen	8.09878, 47.57252	diechsle	d ie ch s l e	diachsle	d i a ch s l e	1
+492	TUTT L2	III_15_0110	Wittenschwand, Wittenschwand	8.10083, 47.72846	dichsle	d i ch s l e	diechsle	d ie ch s l e	1
+493	KST D8	III_5_0114	Winzenbach (Winthenbach), Winzenbach	8.1038, 48.9341	daissel	d a i ss e l	deisel	d ei s e l	2
+494	KST L4	III_6_0089	Selz (Seltz), Selz	8.10383, 48.89457	deissel	d ei ss e l	deisel	d ei s e l	1
+495	KST D3/1, KST D3/3	III_5_0121	Niederlauterbach, Niederlauterbach	8.10398, 48.97233	deisel	d ei s e l	dischl	d i sch l	3
+496	TÜB h11	III_9_0100	Obersasbach, Obersasbach	8.10713, 48.63223	dissel	d i ss e l	diesell	d ie s e ll	2
+497	KST S14	III_7_0113	Hügelsheim, Hügelsheim	8.10904, 48.79654	dissel	d i ss e l	dissl	d i ss l	1
+498	TUTT w6	III_14_0074	Altglashütten, Altglashütten	8.11016, 47.85701	diēsle	d i ē s l e	dichsle	d i ch s l e	2
+499	TÜB L4	III_11_0137	Fischerbach, Fischerbach	8.11097, 48.28707	dĭssel	d ĭ ss e l	dissel	d i ss e l	1
+500	TUTT S15	III_16_0142	Buch über Waldshut, Buch	8.11336, 47.61399	diächsle	d i ä ch s l e	diechsle	d ie ch s l e	1
+501	TUTT h5	III_13_0077	Wildgutach, Wildgutach	8.11606, 48.0323	disle	d i s l e	diesle	d ie s l e	1
+502	TÜB S5, TÜB S6	III_12_0063, III_12_0062, III_12_0061, III_12_0064	Unterprechtal, Oberprechtal, Unterprechtal, Oberprechtal	8.12114, 48.20548	diesle	d ie s l e	dissle	d i ss l e	1
+503	TUTT L16	III_15_0103	Schlageten, Schlageten	8.12512, 47.71178	dichsele	d i ch s e l e	dichsle	d i ch s l e	1
+504	TÜB h12	III_9_0093, III_9_0094	Lauf, Lauf	8.12648, 48.65317	dissl	d i ss l	dissel	d i ss e l	1
+505	TUTT D4	III_14_0173, III_14_0171, III_14_0174, III_14_0172	St. Blasien, St. Blasien	8.12792, 47.76144	die̠chsle	d ie ̠ ch s l e	deichsle	d ei ch s l e	2
+506	KST D4	III_5_0120, III_5_0119	Scheibenhard, Scheibenhardt, Scheibenhard	8.13481, 48.97663	deisel	d ei s e l	deisl	d ei s l	1
+507	TÜB a11	III_8_0107	Bühl, Bühl	8.13592, 48.69536	dissl	d i ss l	dissel	d i ss e l	1
+508	TUTT h6	III_13_0076	Gütenbach, Gütenbach	8.13807, 48.04398	dīsle	d ī s l e	dislä	d i s l ä	2
+509	TUTT S16	III_16_0145	Albruck-Kiesenbach, Albruck	8.14411, 47.60046	die̠chsle	d ie ̠ ch s l e	diechsle	d ie ch s l e	1
+510	TUTT L15	III_15_0108	Tiefenhäusern, Tiefenhäusern	8.14547, 47.70277	dierchsle	d ie r ch s l e	diechsle	d ie ch s l e	1
+511	TUTT L12	III_15_0107, III_15_0106, III_15_0104, III_15_0105	Remetschwiel/Brunnadern, Brunnadern, Remetschwiel	8.14553, 47.68929	dechsle	d e ch s l e	diësle	d i ë s l e	3
+512	KST D7	III_5_0116, III_5_0115	Münchhausen (Munchhausen), Münchhausen	8.14635, 48.92142	deisel	d ei s e l	deissel	d ei ss e l	1
+513	TUTT w5	III_14_0073	Raitenbuch, Raitenbuch	8.14698, 47.86647	dīsle	d ī s l e	diesla	d ie s l a	3
+514	TUTT S13	III_16_0169	Birkingen, Birkingen	8.1477, 47.62511	dichsle	d i ch s l e	diechsle	d ie ch s l e	1
+515	KST D6	III_5_0117	Motern (Mothern), Motern	8.15128, 48.93354	deissl	d ei ss l	deissel	d ei ss e l	1
+516	TUTT S11	III_16_0136	Oberalpfen, Oberalpfen	8.15262, 47.65791	dīechsle	d ī e ch s l e	diechsle	d ie ch s l e	1
+517	KST L5	III_6_0090	Plittersdorf bei Rastatt, Plittersdorf	8.15649, 48.88249	dissel	d i ss e l	dissl	d i ss l	1
+518	TÜB w4	III_10_0138	Ibach, Ibach	8.16274, 48.45618	dissel	d i ss e l	disel	d i s e l	1
+519	TÜB b5	III_8_0102, III_8_0101	Eisental, Eisental	8.16417, 48.71189	dissel	d i ss e l	diesel	d ie s e l	1
+520	TÜB x2	III_10_0137	Oppenau, Oppenau	8.16423, 48.47333	dissel	d i ss e l	diesel	d ie s e l	1
+521	TUTT M2	III_15_0129	Höchenschwand, Höchenschwand	8.16491, 47.73427	diëchsle	d i ë ch s l e	diechsle	d ie ch s l e	1
+522	KST S12	III_7_0123, III_7_0136	Sinzheim bei Winden, Sinzheim	8.16564, 48.76405	däiksel	d ä i k s e l	dissel	d i ss e l	2
+523	TUTT M1	III_15_0120	Attlisberg, Attlisberg	8.16607, 47.72173	diëchsle	d i ë ch s l e	diechsle	d ie ch s l e	1
+524	TÜB M5	III_11_0146, III_11_0144, III_11_0145	Hausach und Einbach, Einbach, Einbach-Hauserbach	8.16759, 48.2974	diesel	d ie s e l	dissel	d i ss e l	1
+525	TUTT T4	III_16_0147	Waldkirch, Waldkirch	8.17132, 47.65851	diechsle	d ie ch s l e	diägsla	d i ä g s l a	4
+526	TUTT i5	III_13_0093	Neukirch, Neukirch	8.17383, 48.02447	dīsle	d ī s l e	diisle	d ii s l e	2
+527	TÜB x8	III_10_0148	Löcherberg, Löcherberg	8.17462, 48.43425	disl	d i s l	dischtel	d i sch t e l	4
+528	TUTT D3	III_14_0175	Blasiwald (Am Schluchsee), Blasiwald	8.17706, 47.7987	diechsle	d ie ch s l e	deichsel	d ei ch s e l	4
+529	TUTT E2	III_14_0177	Schluchsee, Schluchsee	8.17828, 47.81706	disel	d i s e l	diexle	d ie x l e	3
+530	KST E1	III_5_0127	Lauterburg (Weissenburg) (Lauterbourg), Lauterburg	8.18046, 48.97495	daisel	d a i s e l	deisel	d ei s e l	1
+531	TUTT T5	III_16_0158	Eschbach, Eschbach	8.18086, 47.6336	diëchsle	d i ë ch s l e	die̍chsle̍	d ie ̍ ch s l e ̍	3
+532	TUTT M3	III_15_0121	Amrigschwand, Amrigschwand	8.1855, 47.71974	diëchsle	d i ë ch s l e	diachsle	d i a ch s l e	1
+533	TUTT T3	III_16_0159	Schmitzingen, Schmitzingen	8.19315, 47.65491	diechsle	d ie ch s l e	diechslə	d ie ch s l ə	1
+534	KST T10	III_7_0125	Sandweier, Sandweier	8.19586, 48.80855	dissel	d i ss e l	dissl	d i ss l	1
+535	TÜB x3	III_10_0141	Maisach, Maisach	8.20067, 48.47223	dissel	d i ss e l	diesel	d ie s e l	1
+536	TUTT x4	III_14_0079	Lenzkirch und Kappel, Lenzkirch	8.20144, 47.8687	diesle	d ie s l e	diisle	d ii s l e	1
+537	TUTT b3	III_12_0161	Schonach, Schonach	8.20179, 48.14296	dîssle	d î ss l e	dīeßle	d ī e ß l e	3
+538	TÜB E2, TÜB q1	III_11_0080, ungeodnet	Seebach, Seebach	8.20278, 48.57466	dissl	d i ss l	diesel	d ie s e l	2
+539	KST E8	III_5_0129	Illingen, Illingen	8.20923, 48.9349	dissl	d i ss l	disel	d i s e l	1
+540	TUTT E5	III_14_0178	Staufen, Staufen	8.21221, 47.75633	diēchsle	d i ē ch s l e	dichsle	d i ch s l e	1
+541	KST E7	III_5_0130	Elchesheim, Elchesheim	8.2136, 48.93047	dissel	d i ss e l	disel	d i s e l	1
+542	TÜB E4, TÜB M4	III_11_0147, III_11_0079	Oberwolfach, Oberwolfach, Oberwolfach-Walke	8.21698, 48.3174	disel	d i s e l	diesel	d ie s e l	1
+543	KST M9	III_6_0108	Niederbühl, Niederbühl	8.21769, 48.84547	dissel	d i ss e l	dissl	d i ss l	1
+544	TÜB M3/2, TÜB M3/1	III_11_0150	Wolfach, Wolfach	8.22076, 48.30289	dīesl	d ī e s l	diechsl	d ie ch s l	3
+545	TUTT M4	III_15_0122	Brenden, Brenden	8.22606, 47.72946	diēchsle	d i ē ch s l e	diechsle	d ie ch s l e	1
+546	TÜB T2	III_12_0072, III_12_0073	Reichenbach, Reichenbach	8.22958, 48.21343	disle	d i s l e	diesle	d ie s l e	1
+547	TÜB T1	III_12_0065	Hornberg, Hornberg	8.23036, 48.21193	diesel	d ie s e l	disel	d i s e l	1
+548	KST M3	III_6_0098, III_6_0099	Ötigheim, Oetigheim	8.23212, 48.89333	dissel	d i ss e l	dissl	d i ss l	1
+549	TUTT i7	III_13_0090	Schönenbach, Schönenbach	8.23618, 48.04705	dīesle	d ī e s l e	diesel	d ie s e l	3
+550	TUTT q8	III_13_0161	Rudenberg, Rudenberg	8.23807, 47.9196	diesle	d ie s l e	diisle	d ii s l e	1
+551	TÜB x9	III_10_0142	Bad Griesbach, Bad Griesbach	8.23935, 48.45251	dissl	d i ss l	dißl	d i ß l	2
+552	TUTT T1	III_16_0161	Weilheim, Weilheim	8.24051, 47.65862	diächsle	d i ä ch s l e	diechsle	d ie ch s l e	1
+553	KST T14/3, KST T14/4, KST T14/1	III_7_0131	Baden-Baden-West, Baden-Baden , Baden-Baden, Baden-Baden Weststadt	8.24094, 48.76273	dissel	d i ss e l	dießel	d ie ß e l	2
+554	TUTT M13	III_15_0128	Dietlingen, Dietlingen	8.24371, 47.67342	diächsla	d i ä ch s l a	diechsle	d ie ch s l e	2
+555	TUTT q2	III_13_0157	Schollach, Schollach	8.24463, 47.98628	dīesle	d ī e s l e	diesle	d ie s l e	1
+556	TÜB M8	III_11_0154	Kirnbach, Kirnbach	8.24598, 48.26194	dießle	d ie ß l e	dißle	d i ß l e	1
+557	TUTT i3	III_13_0089	Urach, Urach	8.25368, 48.00477	diesel	d ie s e l	dîsle	d î s l e	4
+558	TUTT b2	III_12_0162	Gremmelsbach, Gremmelsbach	8.25756, 48.15793	diesle	d ie s l e	dissle	d i ss l e	1
+559	TUTT i1	III_13_0082	Rohrbach, Rohrbach	8.25784, 48.07437	dīsle	d ī s l e	diisle	d ii s l e	2
+560	TUTT b5	III_12_0154, III_12_0152, III_12_0153	Nussbach, Nussbach	8.25836, 48.13097	dīsle	d ī s l e	diesle	d ie s l e	2
+561	TÜB T3	III_12_0070, III_12_0071	Schwanenbach (Reichenbach), Schwanenbach	8.26562, 48.1922	dīslĕ	d ī s l ĕ	diesle	d ie s l e	3
+562	TÜB i1	III_9_0104	Herrenwies, Herrenwies	8.26593, 48.65907	deisel	d ei s e l	dissel	d i ss e l	2
+563	TUTT i4	III_13_0088	Linach, Linach	8.26602, 48.02831	diesel	d ie s e l	diisel	d ii s e l	1
+564	KST M4	III_6_0105, III_6_0104	Muggensturm, Muggenturm	8.2763, 48.87021	deisl	d ei s l	dissel	d i ss e l	3
+565	TUTT T9	III_16_0155	Tiengen, Thiengen	8.28181, 47.63443	diehsle	d ie h s l e	diechsle	d ie ch s l e	1
+566	TUTT M7	III_15_0115	Hürrlingen, Hürrlingen	8.28505, 47.72465	diechsle	d ie ch s l e	diechsel	d ie ch s e l	2
+567	TUTT M8	III_15_0116	Riedern im Wald, Riedern	8.29113, 47.71786	diëchsle	d i ë ch s l e	diechsel	d ie ch s e l	3
+568	TUTT q5	III_13_0159	Bubenbach, Bubenbach	8.29595, 47.96531	diesel	d ie s e l	dihsel	d i h s e l	1
+569	TUTT x6	III_14_0078	Gündelwangen, Gündelwangen	8.29672, 47.84246	diagsla	d i a g s l a	diechsle	d ie ch s l e	4
+570	TUTT T12	III_16_0164	Unterlauchringen, Unterlauchringen	8.30394, 47.63095	diåchslå	d i å ch s l å	diechsle	d ie ch s l e	2
+571	TUTT M10	III_15_0119	Krenkingen, Krenkingen	8.30454, 47.68312	diëgsel	d i ë g s e l	diachsle	d i a ch s l e	5
+572	TUTT i2	III_13_0087, III_13_0084, III_13_0086	Vöhrenbach, Vöhrenbach	8.30495, 48.04519	dīsel	d ī s e l	diesel	d ie s e l	2
+573	TUTT T10	III_16_0163	Breitenfeld, Breitenfeld	8.30617, 47.65178	dièxlĕ	d i è x l ĕ	diëxle	d i ë x l e	2
+574	TÜB M10	III_11_0153, III_11_0152	Lehengericht, Vorderlehengericht, Hinterlehengericht	8.30807, 48.2924	deissel	d ei ss e l	deisel	d ei s e l	1
+575	KST T6	III_7_0133	Staufenberg, Staufenberg	8.3082, 48.76673	dissel	d i ss e l	dichsel	d i ch s e l	2
+576	TUTT x7	III_14_0077	Göschweiler, Göschweiler	8.31065, 47.85812	diesl	d ie s l	dießl	d ie ß l	1
+577	TUTT M6	III_14_0183, III_14_0182, III_14_0180, III_14_0181	Birkendorf, Birkendorf	8.3126, 47.74971	diägsle	d i ä g s l e	diechsel	d ie ch s e l	5
+578	KST E3	III_5_0135	Forchheim, Forchheim	8.31683, 48.97425	deisel	d ei s e l	deichsel	d ei ch s e l	2
+579	TUTT M9	III_15_0127	Uhlingen, Uhlingen Ühlingen	8.31845, 47.7201	diëchle	d i ë ch l e	diechsle	d ie ch s l e	2
+580	TUTT b7	III_12_0170	Oberkirnach, Oberkirnach	8.31901, 48.09369	di̠i̠sl	d i ̠ i ̠ s l	diesel	d ie s e l	4
+581	TUTT T15	III_16_0167	Dangstetten, Dangstetten	8.31944, 47.59581	diēchsle	d i ē ch s l e	diechsle	d ie ch s l e	1
+582	TUTT T13	III_16_0165	Oberlauchringen, Oberlauchringen	8.32685, 47.62036	diehsla	d ie h s l a	diegsle	d ie g s l e	2
+583	TUTT c3	III_12_0156, III_12_0155, III_12_0157	St. Georgen, St. Georgen	8.33183, 48.12564	dīsl	d ī s l	diesel	d ie s e l	3
+584	KST N1	III_6_0101, III_6_0100, III_6_0102	Malsch, Malsch	8.3345, 48.88047	deissel	d ei ss e l	deisel	d ei s e l	1
+585	KST U4	III_7_0134	Gernsbach, Gernsbach	8.33578, 48.76294	deichsel	d ei ch s e l	deisel	d ei s e l	2
+586	KST x 1	III_4_0114	Daxlanden, Daxlanden	8.33737, 49.0022	deisl	d ei s l	deichsel	d ei ch s e l	3
+587	TÜB N2	III_30_0008	Schiltach, Schiltach	8.34259, 48.29033	deisl	d ei s l	deisel	d ei s e l	1
+588	TUTT N5	III_37_0003	Untermettingen, Untermettingen	8.34615, 47.70245	diëchsle	d i ë ch s l e	diechsle	d ie ch s l e	1
+589	TÜB c1	III_25_0006, III_25_0007	Obertsrot und Hilpertsau, Hilpertsau, Obertsrot	8.34633, 48.74303	dissel	d i ss e l	disel	d i s e l	1
+590	TUTT U4	III_38_0006	Horheim, Horheim	8.34737, 47.64854	diächsle	d i ä ch s l e	diechsle	d ie ch s l e	1
+591	TUTT y3	III_35_0003	Seppenhofen, Seppenhofen	8.34864, 47.8748	dießel	d ie ß e l	diesel	d ie s e l	1
+592	TÜB k1	III_26_0001	Raumünzach, Raumänzach	8.34869, 48.63918	deigsel	d ei g s e l	deisl	d ei s l	2
+593	TUTT y4	III_35_0002	Reiselfingen, Reiselfingen	8.35108, 47.85467	dīsel	d ī s e l	diesel	d ie s e l	2
+594	TUTT F3	III_36_0006	Wellendingen, Wellendingen	8.35185, 47.79705	dierchsle	d ie r ch s l e	diechsle	d ie ch s l e	1
+595	TÜB F1	III_29_0001	Kaltbrunn, Kaltbrunn	8.35246, 48.34621	disel	d i s e l	deisel	d ei s e l	1
+596	TUTT U3	III_38_0004	Schwerzen, Schwerzen	8.35642, 47.64323	diexle	d ie x l e	diechsle	d ie ch s l e	3
+597	KST N2, KST U6	III_24_0002	Sulzbach, Sulzbach	8.35791, 48.80596	dissl	d i ss l	dissel	d i ss e l	1
+598	TÜB c8	III_25_0003, III_25_0004	Forbach, Forbach	8.3589, 48.67857	dissl	d i ss l	dissel	d i ss e l	1
+599	TUTT N4	III_37_0001	Obermettingen, Obermettingen	8.35956, 47.7213	diëchsl	d i ë ch s l	diëchsle	d i ë ch s l e	1
+600	TUTT F6	III_36_0014	Bettmaringen, Bettmaringen	8.36102, 47.75368	diēchslā	d i ē ch s l ā	dichsle	d i ch s l e	2
+601	TUTT y1	III_35_0004	Dittishausen, Dittishausen	8.36266, 47.90077	diesel	d ie s e l	disel	d i s e l	1
+602	TUTT U14	III_38_0009, III_38_0008	Küßnach, Küssnach	8.36574, 47.59396	dichsla	d i ch s l a	dichsle	d i ch s l e	1
+603	TUTT U5	III_38_0007	Wutöschingen, Wutöschingen	8.36613, 47.65918	dixle	d i x l e	diegsle	d ie g s l e	3
+604	KST F13	III_22_0002	Bruchhausen bei Ettlingen, Bruchhausen	8.371, 48.92716	deichsel	d ei ch s e l	deisel	d ei s e l	2
+605	TUTT k9	III_33_0002	Herzogenweiler, Herzogenweiler	8.37157, 48.0254	disel	d i s e l	diesel	d ie s e l	1
+606	TUTT Ua1	III_38_0083	Lienheim, Lienheim	8.37469, 47.5721	diechsle	d ie ch s l e	dichsle	d i ch s l e	1
+607	TUTT c1	III_32_0001	Buchenberg, Buchenberg	8.37655, 48.16035	dīsel	d ī s e l	diesel	d ie s e l	2
+608	TUTT N8	III_37_0005	Ofteringen, Ofteringen	8.37663, 47.67838	diechsle	d ie ch s l e	diechsl	d ie ch s l	1
+609	TUTT F5	III_36_0015	Oberwangen u. Unterwangen, Oberwangen	8.3775, 47.7761	diechsel	d ie ch s e l	diechsle	d ie ch s l e	2
+610	KST N3	III_23_0002	Oberweier, Oberweier	8.37866, 48.91717	deisl	d ei s l	deisel	d ei s e l	1
+611	KST y 9, KST y 10	III_21_0001	Neureut, Neureut	8.37902, 49.05267	deisl	d ei s l	deisel	d ei s e l	1
+612	TUTT F14	III_36_0007	Brunnadern, Brunnadern	8.38083, 47.79495	dieëxsele	d ie ë x s e l e	diechsle	d ie ch s l e	3
+613	TUTT N9	III_37_0002	Degernau, Degernau	8.38187, 47.66635	dīchsl	d ī ch s l	diechsle	d ie ch s l e	3
+614	TUTT N6	III_37_0006	Obereggingen, Obereggingen	8.38631, 47.70175	dichsleͣ	d i ch s l e ͣ	diechsle	d ie ch s l e	2
+615	TUTT r3	III_34_0006	Hubertshofen, Hubertshofen	8.38827, 47.96002	dīsel	d ī s e l	diesl	d ie s l	3
+616	TÜB c3	III_25_0005	Reichental, Reichental	8.39101, 48.72956	dissl	d i ss l	dissel	d i ss e l	1
+617	KST y 11	III_20_0008, III_20_0007	Eggenstein, Eggenstein	8.39572, 49.08482	deisel	d ei s e l	deichsel	d ei ch s e l	2
+618	KST N13	III_23_0006	Völkersbach, Völkersbach	8.39644, 48.8701	deisl	d ei s l	deisel	d ei s e l	1
+619	KST N4	III_23_0007	Schluttenbach, Schluttenbach	8.40022, 48.89885	deigsel	d ei g s e l	deisel	d ei s e l	1
+620	KST F14/2, KST F14/1	III_22_0004, III_22_0006	Ettlingen , Ettlingen, Ettlingen	8.40245, 48.94247	deichsel	d ei ch s e l	deixel	d ei x e l	3
+621	TUTT F13	III_36_0010, III_36_0009, III_36_0008	Dillendorf, Dillendorf	8.40272, 47.79846	dissele	d i ss e l e	diechsle	d ie ch s l e	4
+622	TUTT y11	III_35_0009	Bachheim, Bachheim	8.4031, 47.85931	dīēssel	d ī ē ss e l	diißel	d ii ß e l	4
+623	KST F3	III_21_0003	Karlsruhe-Rüppurr, Karlsruhe-Rüppurr	8.406, 48.97394	deisl	d ei s l	deisel	d ei s e l	1
+624	TUTT y10	III_35_0005	Unadingen, Unadingen	8.40711, 47.88128	diegsel	d ie g s e l	dissel	d i ss e l	2
+625	KST k1	III_19_0003	Rheinsheim, Rheinsheim	8.40954, 49.23272	deigsl	d ei g s l	deigsel	d ei g s e l	1
+626	TUTT k7	III_34_0001	Tannheim, Tannheim	8.41033, 47.99946	diesl	d ie s l	diesel	d ie s e l	1
+627	TUTT U12	III_38_0011	Grießen, Griessen	8.4114, 47.62774	deichsel	d ei ch s e l	diechsel	d ie ch s e l	2
+628	KST r1	III_20_0002	Liedolsheim, Liedolsheim	8.41451, 49.16221	diesl	d ie s l	deisl	d ei s l	2
+629	KST r2	III_20_0003, III_20_0004	Hochstetten, Hochstetten	8.41566, 49.13702	deisel	d ei s e l	deichsel	d ei ch s e l	2
+630	TUTT k8	III_33_0004, III_33_0003, III_33_0005	Pfaffenweiler, Pfaffenweiler	8.41798, 48.03273	disel	d i s e l	deißl	d ei ß l	3
+631	TUTT r2	III_34_0002	Wolterdingen, Wolterdingen	8.42701, 47.96861	deisel	d ei s e l	dießel	d ie ß e l	3
+632	TUTT N2	III_37_0008	Eberfingen, Eberfingen	8.42708, 47.72036	diᵉchsle	d i ᵉ ch s l e	diechsel	d ie ch s e l	3
+633	TUTT c8	III_32_0009	Mönchweiler, Mönchweiler	8.42939, 48.09993	dießel	d ie ß e l	diesl	d ie s l	2
+634	TUTT F12	III_36_0011	Lembach, Lembach	8.43056, 47.80389	diegsl	d ie g s l	dichsel	d i ch s e l	3
+635	TUTT U10	III_38_0005	Stetten (bei Waldshut), Stetten	8.4393, 47.59011	diechsel	d ie ch s e l	dichsel	d i ch s e l	1
+636	TUTT y5	III_35_0010	Ewattingen, Ewattingen	8.44464, 47.83863	dieͦsel	d ie ͦ s e l	diechsle	d ie ch s l e	4
+637	TUTT U7	III_38_0014	Riedern am Sand (im SprachGIS: Unter Riedern), Riedern am Sand	8.4462, 47.6245	dīchsel	d ī ch s e l	diechsel	d ie ch s e l	2
+638	TUTT N1	III_37_0009	Stühlingen, Stühlingen	8.44659, 47.74541	diexl	d ie x l	diichsel	d ii ch s e l	5
+639	Ma f1/2, Ma f1/1	II_58_0061	Mannheim-Sandhofen, Mannheim-Sandhofen, Mannheim-Sandhofen	8.44789, 49.5433	doinsel	d o i n s e l	doinxl	d o i n x l	2
+640	KST N11	III_23_0013	Schielberg, Schielberg	8.44945, 48.84311	deisel	d ei s e l	deissel	d ei ss e l	1
+641	KST y 5	III_21_0004	Rintheim, Rintheim	8.45071, 49.0099	deixel	d ei x e l	deigsel	d ei g s e l	2
+642	TUTT F11	III_36_0012	Lausheim, Lausheim	8.45286, 47.81178	dīëchsel	d ī ë ch s e l	dichsel	d i ch s e l	2
+643	TUTT k2	III_33_0006	Rietheim, Rietheim	8.45381, 48.02981	dīsel	d ī s e l	disel	d i s e l	1
+644	KST y 3	III_21_0007	Hagsfeld, Hagsfeld	8.45514, 49.02773	deisel	d ei s e l	deisl	d ei s l	1
+645	TUTT U6	III_38_0013	Weisweil, Weisweil	8.45797, 47.64517	diechsel	d ie ch s e l	dichsel	d i ch s e l	1
+646	TUTT k1	III_33_0070, III_33_0072, III_33_0069	Vilingen, Villingen	8.45901, 48.0567	dīßel	d ī ß e l	diesel	d ie s e l	3
+647	TÜB U2	III_31_0007, III_31_0005, III_31_0006	Weiler/Villingen, Tennenbronn	8.46043, 48.17227	dīsl	d ī s l	diehsl	d ie h s l	3
+648	TUTT F8	III_36_0149	Weizen, Weizen	8.46354, 47.77888	diächsel	d i ä ch s e l	deichsel	d ei ch s e l	2
+649	TUTT U8	III_38_0012	Bühl, Bühl	8.4644, 47.61616	dichsel	d i ch s e l	diechsel	d ie ch s e l	1
+650	KST N7	III_23_0004, III_23_0003	Etzenrot, Etzenrot	8.46465, 48.90968	deißel	d ei ß e l	deisel	d ei s e l	1
+651	KST F8	III_22_0007	Grünwettersbach, Grünwettersbach	8.46671, 48.95784	deixel	d ei x e l	deichsel	d ei ch s e l	3
+652	Ma h1/2	II_59_0045, II_59_0057, II_59_0040, II_59_0041, II_59_0061, II_59_0042, II_59_0055, II_59_0048, II_59_0058, II_59_0050, II_59_0052, II_59_0047, II_59_0059, II_59_0043, II_59_0044, II_59_0046, II_59_0049, II_59_0063, II_59_0056, II_59_0060, II_59_0062, II_59_0039	Mannheim, Mannheim	8.46678, 49.4865	deigsl	d ei g s l	deungsel	d e u n g s e l	3
+653	TUTT k5	III_33_0008	Klengen, Klengen	8.46686, 48.00388	diißl	d ii ß l	diesel	d ie s e l	3
+654	TUTT c7	III_32_0008	Obereschach, Obereschach	8.46928, 48.10596	diesel	d ie s e l	disel	d i s e l	1
+655	KST k3	III_19_0008	Huttenheim, Huttenheim	8.46955, 49.1967	deixel	d ei x e l	deigsel	d ei g s e l	2
+656	KST F6	III_21_0008	Karlsruhe-Durlach, Durlach	8.4704, 48.99897	deigsel	d ei g s e l	deichsel	d ei ch s e l	2
+657	KST N8	III_23_0011	Spielberg, Spielberg	8.47045, 48.89758	deisel	d ei s e l	disel	d i s e l	1
+658	TUTT r1	III_34_0014	Grüningen, Grüningen	8.47107, 47.98253	diesäl	d ie s ä l	disel	d i s e l	2
+659	TUTT k3	III_33_0007	Marbach, Marbach	8.47117, 48.03143	disel	d i s e l	deichsel	d ei ch s e l	3
+660	TUTT r9	III_34_0005	Aufen, Aufen	8.47258, 47.964	disl	d i s l	dissel	d i ss e l	2
+661	KST F11	III_22_0009	Reichenbach bei Ettlingen, Reichenbach	8.47546, 48.92348	deisl	d ei s l	deisel	d ei s e l	1
+662	KST F9	III_22_0008	Palmbach, Palmbach	8.48266, 48.94683	deichsl	d ei ch s l	deigsl	d ei g s l	2
+663	TUTT U9	III_38_0016	Dettighofen, Dettighofen	8.48357, 47.62374	diechsel	d ie ch s e l	diächsel	d i ä ch s e l	1
+664	TUTT y6	III_35_0008	Achdorf-Aselfingen, Achdorf	8.48733, 47.84	diechsel	d ie ch s e l	diechsl	d ie ch s l	1
+665	TUTT r7	III_34_0016, III_34_0015, III_34_0120	Hüfingen, Hüfingen	8.48886, 47.92431	diesel	d ie s e l	dießel	d ie ß e l	1
+666	KST r6	III_20_0010	Graben, Graben	8.48928, 49.16535	deisl	d ei s l	deisel	d ei s e l	1
+667	TUTT y8	III_35_0007	Hausen vor Wald, Hausen	8.49054, 47.89134	dīsel	d ī s e l	dissel	d i ss e l	2
+668	Ma h2/3, Ma h2/1, Ma h2/2	II_59_0064	Neckarau, Mannheim-Neckarau, Mannheim	8.49104, 49.45335	deiñgsel	d ei ñ g s e l	deichsel	d ei ch s e l	2
+669	TUTT F9	III_36_0004	Grimmelshofen, Grimmelshofen	8.49573, 47.78613	diechslä	d ie ch s l ä	diechsel	d ie ch s e l	2
+670	KST l9	III_19_0011, III_19_0012, III_19_0009, III_19_0010	Neudorf, Neudorf	8.49692, 49.17524	deichsl	d ei ch s l	deichsel	d ei ch s e l	1
+671	TUTT F10	III_36_0013	Blumegg, Blumegg	8.49815, 47.80904	diächsel	d i ä ch s e l	dièchsel	d i è ch s e l	1
+672	KST d2	III_18_0009, III_18_0008	Altlußheim, Altlussheim	8.49951, 49.30106	deigsl	d ei g s l	deichsel	d ei ch s e l	3
+673	TUTT r8	III_34_0008, III_34_0013, III_34_0009, III_34_0010, III_34_0007, III_34_0011, III_34_0012	Donaueschingen, Donaueschingen	8.50052, 47.95113	dießel	d ie ß e l	diesel	d ie s e l	1
+674	TUTT s6	III_34_0019	Donaueschingen-Allmendshofen, Donaueschingen-Allmendshofen	8.50063, 47.9405	diesl	d ie s l	diesel	d ie s e l	1
+675	TUTT d3	III_32_0118	Weilersbach, Weilersbach	8.50084, 48.09608	dīsel	d ī s e l	diesl	d ie s l	3
+676	KST O8	III_23_0008, III_23_0009, III_23_0010	Langenalb, Langenalb	8.50104, 48.84402	deichsel	d ei ch s e l	deusl	d e u s l	4
+677	TUTT V4,5	III_38_0017	Baltersweil, Baltersweil	8.51054, 47.63723	dieͦchsel	d ie ͦ ch s e l	diächsel	d i ä ch s e l	2
+678	KST G7	III_22_0145	Stupferich, Stupferich	8.51098, 48.95396	deigsel	d ei g s e l	deisel	d ei s e l	1
+679	TUTT z4	III_35_0012	Behla, Behla	8.51475, 47.89489	diesel	d ie s e l	dichsel	d i ch s e l	2
+680	MH z4/2, MH z4/1	II_58_0065	Mannheim-Käfertal, Käferthal	8.51715, 49.51259	deigsl	d ei g s l	doingsl	d o i n g s l	2
+681	KST l1	III_19_0013	Wiesental, Wiesental	8.51962, 49.22472	deigsel	d ei g s e l	deichsel	d ei ch s e l	2
+682	KST s4	III_20_0011	Neuthard, Neuthard	8.52086, 49.1278	deigsel	d ei g s e l	deichsel	d ei ch s e l	2
+683	TUTT d1	III_32_0014	Niedereschach, Niedereschach	8.52734, 48.13129	dißl	d i ß l	diesel	d ie s e l	3
+684	KST s6	III_20_0162	Büchenau, Büchenau	8.52764, 49.10075	deichsel	d ei ch s e l	digsel	d i g s e l	3
+685	TUTT G1	III_36_0018, III_36_0017	Fützen, Fützen	8.5291, 47.80794	diēchsel	d i ē ch s e l	diechsel	d ie ch s e l	1
+686	MH H10/1	II_59_0074	Rheinau, Rheinau	8.53056, 49.42924	deinxl	d ei n x l	deingsel	d ei n g s e l	3
+687	TUTT z8	III_35_0020, III_35_0019	Blumberg, Blumberg	8.53265, 47.83981	diesel	d ie s e l	diehsel	d ie h s e l	1
+688	MH H2	II_59_0067	Feudenheim, Feudenheim	8.53299, 49.4864	doingsl	d o i n g s l	deigsel	d ei g s e l	3
+689	KST G6	III_22_0015	Mutschelbach, Mutschelbach	8.53428, 48.94409	deisl	d ei s l	deisel	d ei s e l	1
+690	TUTT z3	III_35_0015, III_35_0013, III_35_0014	Sumpfohren, Sumpfohren	8.53796, 47.90851	dīsel	d ī s e l	diißĕl	d ii ß ĕ l	4
+691	TUTT z6	III_35_0017	Riedböhringen, Riedböhringen	8.53811, 47.87011	dissel	d i ss e l	diesel	d ie s e l	1
+692	KST d1	III_18_0015	Hockenheim, Hockenheim	8.54755, 49.31857	deigsl	d ei g s l	deichsl	d ei ch s l	2
+693	TUTT s7	III_34_0023	Aasen, Aasen	8.5512, 47.98	diesel	d ie s e l	diessel	d ie ss e l	1
+694	TUTT d4	III_32_0016	Dauchingen, Dauchingen	8.55237, 48.09031	dießl	d ie ß l	dißl	d i ß l	1
+695	TUTT z5	III_35_0016	Fürstenberg, Fürstenberg	8.55367, 47.89124	diesel	d ie s e l	dihsel	d i h s e l	1
+696	TUTT G2/2, TUTT G2/1	III_36_0019	Epfenhofen, Epfenhofen	8.55432, 47.81867	diachsal	d i a ch s a l	diachsel	d i a ch s e l	1
+697	MH H6	II_59_0068	Seckenheim, Seckenheim	8.56313, 49.46724	dåingsl	d å i n g s l	deingsel	d ei n g s e l	2
+698	KST G3	III_22_0016	Singen bei Pforzheim, Singen	8.56804, 48.95764	deisl	d ei s l	deißl	d ei ß l	1
+699	KST d4	III_18_0018	Reilingen, Reilingen	8.56943, 49.29368	deixl	d ei x l	deichsl	d ei ch s l	3
+700	MH Q2	II_60_0035, II_60_0034	Schwetzingen, Schwetzingen	8.57064, 49.38567	deixl	d ei x l	doingsl	d o i n g s l	4
+701	TUTT V2	III_38_0022, III_38_0020, III_38_0021	Jestetten, Jestetten	8.57572, 47.65297	diechsel	d ie ch s e l	dichsel	d i ch s e l	1
+702	KST O4	III_23_0021	Ellmendingen, Ellmendingen	8.5761, 48.90131	deisl	d ei s l	deisel	d ei s e l	1
+703	MH Q6	II_60_0092	Oftersheim, Oftersheim	8.58107, 49.36823	deichsel	d ei ch s e l	deinxl	d ei n x l	4
+704	TUTT V1	III_38_0023	Altenburg, Altenburg	8.59899, 47.65513	diechsel	d ie ch s e l	dihsel	d i h s e l	2
+705	KST O5	III_23_0015	Dietlingen, Dietlingen	8.60093, 48.89654	deisl	d ei s l	deißel	d ei ß e l	2
+706	KST s2	III_20_0019, III_20_0018	Bruchsal (Forstamt), Bruchsal	8.60102, 49.12377	deixel	d ei x e l	dixsel	d i x s e l	2
+707	MH H5	II_59_0072	Neckarhausen, Neckarhausen	8.60233, 49.46433	deingsl	d ei n g s l	deingschl	d ei n g sch l	2
+708	MH z3	II_58_0067	Heddesheim, Heddesheim	8.60327, 49.50529	daiegsl	d a ie g s l	deichsel	d ei ch s e l	4
+709	TUTT s2	III_34_0025	Oberbaldingen, Oberbaldingen	8.60629, 47.97542	dīsel	d ī s e l	diessel	d ie ss e l	3
+710	TUTT z9	III_35_0021	Riedöschingen, Riedöschingen	8.6077, 47.84306	diësel	d i ë s e l	dihsel	d i h s e l	1
+711	MH H4	II_59_0070	Ladenburg, Ladenburg	8.61098, 49.47244	doingsl	d o i n g s l	doinxl	d o i n x l	2
+712	KST z4	III_21_0018	Wössingen, Wössingen	8.61142, 49.01017	diesel	d ie s e l	deisl	d ei s l	3
+713	MH H8	II_59_0073	Edingen, Edingen	8.61196, 49.44847	deinchsl	d ei n ch s l	deingsel	d ei n g s e l	3
+714	TUTT s3	III_34_0026	Unterbaldingen, Unterbaldingen	8.61256, 47.96992	dīsel	d ī s e l	diesel	d ie s e l	2
+715	TUTT G3	III_36_0025	Kommingen, Kommingen	8.61478, 47.81599	däißel	d ä i ß e l	deißel	d ei ß e l	1
+716	TUTT z1	III_35_0023	Gutmadingen, Gutmadingen	8.61605, 47.91149	diesel	d ie s e l	disl	d i s l	2
+717	KST G10	III_22_0022	Bilfingen, Bilfingen	8.61996, 48.95027	deisel	d ei s e l	deigsel	d ei g s e l	1
+718	KST l7	III_19_0015	Weiher, Weiher	8.62179, 49.17863	deichsl	d ei ch s l	deichsel	d ei ch s e l	1
+719	MH Q4	II_60_0037	Eppelheim, Eppelheim	8.62885, 49.40164	deichsel	d ei ch s e l	deisel	d ei s e l	2
+720	KST d6	III_18_0021	Rot, Rot	8.63137, 49.26348	deixl	d ei x l	deichsl	d ei ch s l	3
+721	KST s1	III_20_0024	Ubstadt, Ubstadt	8.6322, 49.16181	deiksel	d ei k s e l	deixl	d ei x l	3
+722	TUTT s1	III_34_0024	Öfingen, Öfingen	8.63525, 47.99144	diesl	d ie s l	diesel	d ie s e l	1
+723	TUTT G7	III_36_0024	Wiechs a. R., Wiechs	8.64153, 47.78137	dichsel	d i ch s e l	diechsel	d ie ch s e l	1
+724	KST d5	III_18_0020	Walldorf, Walldorf	8.64294, 49.3028	deigsl	d ei g s l	deichsel	d ei ch s e l	3
+725	KST s10	III_20_0026	Heidelsheim, Heidelsheim	8.64542, 49.10114	deichsl	d ei ch s l	deichsel	d ei ch s e l	1
+726	KST z3	III_21_0019	Dürrenbüchig, Dürrenbüchig	8.64747, 49.0227	deichsl	d ei ch s l	deichsel	d ei ch s e l	1
+727	TUTT s4, TUTT A1	III_34_0028	Geisingen (Kirchenhausen), Geisingen, Geisingen	8.65129, 47.93283	diesel	d ie s e l	dießel	d ie ß e l	1
+728	MH r1	II_57_0082, II_57_0081	Laudenbach, Laudenbach	8.65434, 49.6119	deisel	d ei s e l	deichsel	d ei ch s e l	2
+729	KST z2	III_21_0020	Gondelsheim, Gondelsheim	8.65584, 49.0596	deigsl	d ei g s l	deisl	d ei s l	1
+730	MH H11	II_58_0068	Leutershausen, Leutershausen	8.65616, 49.49821	deisel	d ei s e l	deichsl	d ei ch s l	3
+731	MH Q5	II_60_0038	Sandhausen, Sandhausen	8.65837, 49.34236	deingsl	d ei n g s l	deinxl	d ei n x l	2
+732	MH z1	II_58_0072	Sulzbach, Sulzbach	8.661, 49.57763	dointzl	d o i n tz l	doinsl	d o i n s l	2
+733	KST O9	III_23_0028	Büchenbronn, Büchenbronn	8.66335, 48.85558	deinsel	d ei n s e l	deichsel	d ei ch s e l	2
+734	MH J1	II_59_0071	Schrießheim, Schriesheim	8.66514, 49.47649	deingsl	d ei n g s l	doingsl	d o i n g s l	1
+735	MH A2	II_58_0071	Lützelsachsen, Lützelsachsen	8.66627, 49.52737	deunsel	d e u n s e l	doinsel	d o i n s e l	2
+736	KST P1	III_22_0027, III_22_0026	Ispringen , Ispringen	8.66764, 48.91655	deisel	d ei s e l	deingsel	d ei n g s e l	2
+737	KST P2	III_23_0032, III_23_0029, III_23_0030, III_23_0031	Brötzingen, Pforzheim-Brötzingen	8.66799, 48.889	d͜eigsel	d ͜ ei g s e l	deichsl	d ei ch s l	4
+738	MH J2	II_59_0076	Dossenheim, Dossenheim	8.66806, 49.44988	däï͠ngsl	d ä ï ͠ n g s l	deï͠ngsl	d e ï ͠ n g s l	1
+739	KST H4	III_22_0025	Eisingen, Eisingen	8.66865, 48.94773	deisel	d ei s e l	deißl	d ei ß l	2
+740	MH A1	II_58_0073	Weinheim, Weinheim	8.67068, 49.55495	doingsl	d o i n g s l	deinxel	d ei n x e l	3
+741	KST m10	III_19_0027	Zeutern, Zeutern	8.67522, 49.17718	daigsel	d a i g s e l	deichsel	d ei ch s e l	3
+742	KST e10	III_18_0024	Malschenberg, Malschenberg	8.67996, 49.25599	deixl	d ei x l	deichsl	d ei ch s l	3
+743	TUTT H7, TUTT H12	III_36_0032, III_36_0031	Beuren a(m) R(ied), Büsslingen, Büsslingen, Beuren	8.6839, 47.79252	dièsel	d i è s e l	diesel	d ie s e l	1
+744	MH J3/2	II_59_0077	Heidelberg-Handschuhsheim, Heidelberg-Handschuhsheim	8.68613, 49.42774	deixel	d ei x e l	deingsl	d ei n g s l	3
+745	MH R3	II_60_0041	Heidelberg-Rohrbach, Heidelberg-Rohrbach	8.69, 49.38005	deixl	d ei x l	deingsel	d ei n g s e l	4
+746	TUTT P6	III_37_0013, III_37_0012, III_37_0011, III_37_0010	Büsingen, Büsingen	8.69282, 47.69702	diächsl	d i ä ch s l	diechsel	d ie ch s e l	2
+747	KST H1	III_22_0028	Nussbaum, Nussbaum	8.69353, 48.98977	deigsl	d ei g s l	deixel	d ei x e l	2
+748	KST m2	III_19_0023	Rettigheim, Rettigheim	8.6981, 49.24111	deisel	d ei s e l	deichsel	d ei ch s e l	2
+749	KST P3/4, KST P3/3, KST P3/1	III_23_0043, III_23_0046, III_23_0039, III_23_0051, III_23_0050, III_23_0037, III_23_0052, III_23_0054, III_23_0040, III_23_0038, III_23_0045, III_23_0053, III_23_0041, III_23_0049, III_23_0044, III_23_0036	Pforzheim, Pforzheim	8.70025, 48.89013	deigsel	d ei g s e l	deisel	d ei s e l	1
+750	KST e9	III_18_0025	Rauenberg, Rauenberg	8.70096, 49.27036	deigsl	d ei g s l	deichsl	d ei ch s l	2
+751	TUTT H9	III_36_0035	Weil, Weil	8.7018, 47.81859	dīeßl	d ī e ß l	diesl	d ie s l	2
+752	KST A5	III_21_0025	Bretten, Bretten	8.70657, 49.03456	deichsel	d ei ch s e l	deigsl	d ei g s l	3
+753	MH A4	II_58_0076	Rippenweier, Rippenweier	8.70861, 49.50646	deisel	d ei s e l	deichsel	d ei ch s e l	2
+754	KST e11	III_18_0026	Rotenberg, Rotenberg	8.71207, 49.25813	deigsel	d ei g s e l	deichsel	d ei ch s e l	2
+755	KST m11	III_19_0025, III_19_0024, III_19_0026	Östringen, Östringen	8.7137, 49.22037	deichsel	d ei ch s e l	deiksl	d ei k s l	3
+756	TUTT t5	III_34_0038	Zimmern, Zimmern	8.71521, 47.94848	dīsel	d ī s e l	dißel	d i ß e l	2
+757	TUTT A3	III_35_0026	Stetten (bei Engen), Stetten	8.71683, 47.87248	diēsel	d i ē s e l	diechsel	d ie ch s e l	3
+758	TUTT t1	III_34_0032	Esslingen, Esslingen	8.71709, 47.99269	diësel	d i ë s e l	diesel	d ie s e l	1
+759	KST H2	III_22_0032, III_22_0031	Bauschlott, Bauschlott	8.72785, 48.97051	deisel	d ei s e l	diesel	d ie s e l	2
+760	MH A5	II_58_0077	Oberflockenbach, Oberflockenbach	8.73109, 49.51102	deisl	d ei s l	deisel	d ei s e l	1
+761	KST e8	III_18_0028	Dielheim, Dielheim	8.7354, 49.28257	deixel	d ei x e l	deichsel	d ei ch s e l	3
+762	KST P8	III_23_0058	Würm, Würm	8.73641, 48.86041	deichsel	d ei ch s e l	deigsel	d ei g s e l	2
+763	KST e3	III_18_0027	Baiertal, Baiertal	8.73772, 49.30253	deichsl	d ei ch s l	deichsel	d ei ch s e l	1
+764	MH J7	II_59_0081	Altenbach / Schriesheim, Altenbach	8.73843, 49.48622	deisl	d ei s l	deisel	d ei s e l	1
+765	TÜB m1	III_26_0039	Wildberg Kreis Calw, Wildberg	8.73924, 48.62251	daisel	d a i s e l	daesl	d a e s l	2
+766	MH R6	II_60_0047	Ochsenbach, Ochsenbach	8.73932, 49.33778	deichsl	d ei ch s l	deichsel	d ei ch s e l	1
+767	KST W1	III_24_0023	Schellbronn, Schellbronn	8.74222, 48.81738	deisel	d ei s e l	disel	d i s e l	1
+768	MH A6	II_58_0091	Steinklingen, Steinklingen	8.74393, 49.51166	deisel	d ei s e l	deisl	d ei s l	1
+769	KST H6	III_22_0035	Kieselbronn, Kieselbronn	8.75287, 48.93453	deisel	d ei s e l	deisl	d ei s l	1
+770	MH J6	II_59_0080	Wilhelmsfeld, Wilhelmsfeld	8.7544, 49.47018	deichsel	d ei ch s e l	deigsl	d ei g s l	3
+771	TUTT P5	III_37_0015	Gailingen, Gailingen	8.75499, 47.69685	diëchsel	d i ë ch s e l	diechsel	d ie ch s e l	1
+772	KST e12	III_18_0029	Tairnbach, Tairnbach	8.75625, 49.26367	deixl	d ei x l	deichsel	d ei ch s e l	4
+773	MH J4	II_59_0079	Ziegelhausen, Ziegelhausen	8.75688, 49.41876	deixl	d ei x l	deichsel	d ei ch s e l	4
+774	KST e4	III_18_0032	Schatthausen, Schatthausen	8.75841, 49.319	deichsl	d ei ch s l	daigsl	d a i g s l	3
+775	TUTT t3	III_34_0029, III_34_0031, III_34_0030	Möhringen, Möhringen	8.75916, 47.96779	deisl	d ei s l	deißl	d ei ß l	1
+776	MH R14	II_60_0051	Schlierbach, Schlierbach	8.76062, 49.41501	deichsel	d ei ch s e l	deisel	d ei s e l	2
+777	TUTT A8	III_35_0029	Anselfingen, Anselfingen	8.76516, 47.84558	dieesel	d iee s e l	diéchsel	d i é ch s e l	3
+778	TUTT A7	III_35_0033, III_35_0034, III_35_0032	Engen, Engen	8.76853, 47.85186	dijesel	d i j e s e l	diesel	d ie s e l	1
+779	TUTT H11	III_36_0029, III_36_0028, III_36_0027	Weiterdingen, Weiterdingen	8.76917, 47.79954	dichsel	d i ch s e l	diesel	d ie s e l	2
+780	KST W2	III_24_0024	Hamberg, Hamberg	8.76924, 48.81833	deisl	d ei s l	deihsel	d ei h s e l	2
+781	KST t10	III_20_0031	Menzingen, Menzingen	8.77067, 49.13931	deichsl	d ei ch s l	deigsl	d ei g s l	2
+782	TUTT A9	III_35_0030, III_35_0031	Neuhausen (b. Engen), Neuhausen	8.77423, 47.8379	disel	d i s e l	diəsel	d i ə s e l	1
+783	MH R9	II_60_0046	Bammental, Bammental	8.77604, 49.35511	deigsel	d ei g s e l	deichsel	d ei ch s e l	2
+784	TUTT P4	III_37_0016	Gotttmadingen, Gottmadingen	8.77716, 47.73498	dīchsla	d ī ch s l a	diesel	d ie s e l	5
+785	KST e7	III_18_0031	Horrenberg, Horrenberg	8.78051, 49.28149	deichsl	d ei ch s l	deichsel	d ei ch s e l	1
+786	KST e14	III_18_0030	Eschelbach, Eschelbach	8.78417, 49.24823	deixl	d ei x l	deichsel	d ei ch s e l	4
+787	TUTT H3	III_36_0034	Duchtlingen, Duchtlingen	8.79029, 47.79154	diēsel	d i ē s e l	diesel	d ie s e l	1
+788	KST W4	III_24_0025	Steinegg, Steinegg	8.79091, 48.81349	deichsl	d ei ch s l	deichsel	d ei ch s e l	1
+789	MH J10	II_59_0082	Heiligkreuzsteinach, Heiligkreuzsteinach	8.79709, 49.48538	deichsel	d ei ch s e l	deigsl	d ei g s l	3
+790	MH R13	II_60_0045	Neckargemünd, Neckargemünd	8.79751, 49.39508	deichsl	d ei ch s l	deichsel	d ei ch s e l	1
+791	TUTT H1	III_36_0030	Ehingen, Ehingen	8.80075, 47.82351	dießel	d ie ß e l	diasel	d i a s e l	2
+792	MH R10	II_60_0050	Wiesenbach, Wiesenbach	8.80354, 49.36103	deichsl	d ei ch s l	deixl	d ei x l	3
+793	MH J12	II_59_0083	Altneudorf, Altneudorf	8.80481, 49.46366	deisel	d ei s e l	deigsl	d ei g s l	2
+794	KST m6	III_19_0033	Waldangelloch, Waldangelloch	8.80551, 49.21046	deichsl	d ei ch s l	deichsel	d ei ch s e l	1
+795	KST t11	III_20_0033	Landshausen, Landshausen	8.80627, 49.14899	deigxel	d ei g x e l	deixel	d ei x e l	1
+796	MH J13	II_59_0084	Schönau bei Heidelberg, Schönau	8.80977, 49.43706	deixel	d ei x e l	deigsl	d ei g s l	2
+797	TUTT A6	III_35_0035	Bittelbrunn (Aach), Bittelbrunn	8.81087, 47.86719	dīsel	d ī s e l	deixel	d ei x e l	3
+798	TUTT A5	III_35_0036	Biesendorf, Biesendorf	8.81255, 47.91175	diasl	d i a s l	di̮e̮sel	d i ̮ e ̮ s e l	4
+799	KST m7	III_19_0036	Eichelberg, Eichelberg	8.813, 49.1891	daixel	d a i x e l	deichsel	d ei ch s e l	4
+800	KST P5	III_23_0035	Öschelbronn, Öschelbronn	8.81415, 48.90599	deisl	d ei s l	deisel	d ei s e l	1
+801	KST e5	III_18_0033, III_18_0034	Meckesheim, Meckesheim	8.81557, 49.32167	deigsl	d ei g s l	deichsel	d ei ch s e l	3
+802	KST t8	III_20_0040	Zaisenhausen, Zaisenhausen	8.81712, 49.10745	deichsel	d ei ch s e l	deichsl	d ei ch s l	1
+803	KST e6	III_18_0035	Zuzenhausen, Zuzenhausen	8.82176, 49.29778	deigsl	d ei g s l	deigsel	d ei g s e l	1
+804	KST W5	III_24_0036	Mühlhausen , Mühlhausen	8.82201, 48.80607	deichsel	d ei ch s e l	deigsel	d ei g s e l	2
+805	TUTT J2 /1	III_36_0052	Schlatt (unter Krähen), Schlatt	8.83529, 47.80435	diasel	d i a s e l	diesel	d ie s e l	1
+806	KST n1	III_19_0034	Dühren, Dühren	8.83562, 49.24557	deiksl	d ei k s l	deichsel	d ei ch s e l	3
+807	MH S1	II_60_0052	Dilsberg, Dilsberg	8.8362, 49.39832	daisel	d a i s e l	deichsel	d ei ch s e l	3
+808	TUTT Q13	III_37_0017	Rieslasingen, Rielasingen	8.83715, 47.73231	diesel	d ie s e l	diechsel	d ie ch s e l	2
+809	KST f9	III_18_0045	Hoffenheim, Hoffenheim	8.8417, 49.27088	deixl	d ei x l	deichsel	d ei ch s e l	4
+810	KST B1	III_21_0033	Kürnbach, Kürnbach	8.84279, 49.07732	deigsl	d ei g s l	deixel	d ei x e l	2
+811	TUTT B6	III_35_0042	Aach, Aach	8.8497, 47.84307	diechsel	d ie ch s e l	deichsel	d ei ch s e l	2
+812	TUTT u5	III_34_0119	Emmingen, Emmingen	8.85302, 47.92883	dejisl	d e j i s l	deißel	d ei ß e l	3
+813	MH S6	II_60_0056	Mönchzell, Mönchzell	8.85327, 49.33612	deigsel	d ei g s e l	deixel	d ei x e l	2
+814	KST u4	III_20_0041	Rohrbach (am Giesshübel), Rohrbach	8.85649, 49.14055	deigsel	d ei g s e l	deichsel	d ei ch s e l	2
+815	KST u5	III_20_0163, III_20_0045, III_20_0044, III_20_0042, III_20_0043	Sulzfeld, Sulzfeld	8.85671, 49.10336	deichsl	d ei ch s l	deigsel	d ei g s e l	3
+816	TUTT z2	III_33_0041	Nendingen, Nendingen	8.86067, 48.00602	diesel	d ie s e l	deisl	d ei s l	3
+817	KST n12	III_19_0038, III_19_0039	Hilsbach, Hilsbach	8.86227, 49.1957	deixel	d ei x e l	deichsel	d ei ch s e l	3
+818	TUTT J1	III_36_0043	Volkertshausen, Volkertshausen	8.863, 47.82187	di̠essel	d i ̠ e ss e l	diesl	d ie s l	3
+819	MH K1	II_59_0085	Brombach (bei Hirschhorn), Brombach	8.8675, 49.48863	deisl	d ei s l	deisel	d ei s e l	1
+820	MH S4	II_60_0055	Lobenfeld, Lobenfeld	8.8718, 49.35884	deixel	d ei x e l	deichsel	d ei ch s e l	3
+821	TUTT J6	III_36_0044	Beuren an der Aach, Beuren	8.87459, 47.79932	dīessel	d ī e ss e l	diasl	d i a s l	4
+822	KST n13	III_19_0037	Weiler, Weiler	8.87587, 49.20862	deixl	d ei x l	deichsel	d ei ch s e l	4
+823	KST f10	III_18_0043, III_18_0044	Daisbach, Daisbach	8.87705, 49.2938	deigsl	d ei g s l	deigsel	d ei g s e l	1
+824	MH K8	II_59_0097	Neckarhäuserhof, Neckarhäuserhof	8.88191, 49.41513	deichsl	d ei ch s l	deigsel	d ei g s e l	3
+825	TUTT B4	III_35_0044	Honstetten, Honstetten	8.88331, 47.8933	deichsel	d ei ch s e l	diesel	d ie s e l	3
+826	KST f2	III_18_0042	Neidenstein, Neidenstein	8.88423, 49.31637	deixl	d ei x l	deichsl	d ei ch s l	3
+827	KST n10	III_20_0046	Adelshofen, Adelshofen	8.89073, 49.16806	deigsl	d ei g s l	deichsel	d ei ch s e l	3
+828	TUTT X1	III_38_0024	Öhningen, Öhningen	8.89136, 47.66162	diĕgsel	d i ĕ g s e l	die̬xel	d ie ̬ x e l	3
+829	TUTT Q4	III_37_0021	Bohlingen, Bohlingen	8.8965, 47.72199	diesel	d ie s e l	dichsel	d i ch s e l	2
+830	TUTT B5	III_35_0043	Eigeltingen, Eigeltingen	8.8974, 47.85806	diesel	d ie s e l	dichsel	d i ch s e l	2
+831	TUTT Q2	III_37_0020	Überlingen am Ried, Überlingen am Ried	8.89807, 47.73495	diēsel	d i ē s e l	diesel	d ie s e l	1
+832	TUTT Q12	III_37_0022	Schienen, Schienen	8.90035, 47.68774	diesel	d ie s e l	diechsel	d ie ch s e l	2
+833	KST u6	III_20_0052	Mühlbach, Mühlbach	8.90301, 49.09703	deixel	d ei x e l	deichsel	d ei ch s e l	3
+834	TUTT B3	III_35_0045	Reute, Reute	8.90723, 47.8873	diergsl	d ie r g s l	diachsel	d i a ch s e l	4
+835	TUTT u4	III_34_0047	Liptingen, Liptingen	8.90748, 47.93756	diessl	d ie ss l	diesel	d ie s e l	1
+836	KST u3	III_20_0048, III_20_0049, III_20_0047, III_20_0050	Eppingen, Eppingen	8.9098, 49.13704	deichsel	d ei ch s e l	deixel	d ei x e l	3
+837	MH S14	II_60_0058	Epfenbach, Epfenbach	8.91088, 49.33719	deixel	d ei x e l	deigsl	d ei g s l	2
+838	TÜB f1	III_25_0047	Döffingen, Döffingen	8.91383, 48.7106	deisl	d ei s l	deisel	d ei s e l	1
+839	KST n3	III_19_0045	Reihen, Reihen	8.91628, 49.21715	deigsl	d ei g s l	deichsel	d ei ch s e l	3
+840	KST f3	III_18_0050	Waibstadt, Waibstadt	8.9198, 49.29982	deigsel	d ei g s e l	deigsl	d ei g s l	1
+841	TUTT J8	III_36_0047	Steisslingen, Steisslingen	8.92209, 47.80296	diessel	d ie ss e l	diésel	d i é s e l	2
+842	MH S13	II_60_0062	Schönbrunn, Schönbrunn	8.92851, 49.41228	daigsl	d a i g s l	deixl	d ei x l	3
+843	MH K7	II_59_0088	Moosbrunn, Moosbrunn	8.92878, 49.42533	deixel	d ei x e l	deichsl	d ei ch s l	3
+844	MH S11	II_60_0067	Haag, Haag	8.92912, 49.39429	deigsel	d ei g s e l	deigsĕl	d ei g s ĕ l	1
+845	TUTT B7	III_35_0038	Orsingen, Orsingen	8.92977, 47.83688	diësel	d i ë s e l	dießel	d ie ß e l	2
+846	TUTT Q7	III_37_0025	Bankholzen, Bankholzen	8.92989, 47.7082	diessel	d ie ss e l	diësl	d i ë s l	3
+847	TUTT X2	III_38_0025	Wangen, Wangen	8.93161, 47.6599	diegsel	d ie g s e l	diessel	d ie ss e l	1
+848	TUTT Q5	III_37_0024	Moos, Moos	8.93316, 47.7259	dießel	d ie ß e l	diĕsel	d i ĕ s e l	2
+849	TUTT B1	III_35_0047	Heudorf, Heudorf	8.93517, 47.91373	die̠sl	d ie ̠ s l	dichsel	d i ch s e l	3
+850	TUTT f1	III_32_0032	Hartheim, Hartheim	8.93612, 48.15571	deissel	d ei ss e l	deisel	d ei s e l	1
+851	KST n9	III_19_0046	Ittlingen, Ittlingen	8.93691, 49.19224	deigsl	d ei g s l	deichsel	d ei ch s e l	3
+852	KST n8	III_19_0047	Richen, Richen	8.94083, 49.17134	deichsel	d ei ch s e l	deigsl	d ei g s l	3
+853	MH K5	II_59_0093, II_59_0094	Pleutersbach, Pleutersbach	8.95293, 49.45367	deigsl	d ei g s l	deichsl	d ei ch s l	2
+854	TUTT B9	III_35_0049	Homberg Münchhof, Münchhöf	8.95295, 47.88032	diegsel	d ie g s e l	diechl	d ie ch l	3
+855	TUTT Q8	III_37_0028	Weiler und Iznag, Weiler	8.95347, 47.70847	dichsel	d i ch s e l	diechsel	d ie ch s e l	1
+856	KST f7	III_18_0052	Adersbach, Adersbach	8.95454, 49.2632	deigsl	d ei g s l	deichsel	d ei ch s e l	3
+857	MH K6/2, MH K6/1	II_59_0096	Allemühl, Allemühl	8.95618, 49.42613	deichsel	d ei ch s e l	deigsl	d ei g s l	3
+858	TUTT B8	III_35_0051	Nenzingen, Nenzingen	8.95914, 47.84256	diagsel	d i a g s e l	diechsel	d ie ch s e l	3
+859	TUTT B10	III_35_0048	Raithaslach, Raithaslach	8.96262, 47.88125	diegsel	d ie g s e l	dixsel	d i x s e l	2
+860	TUTT f2	III_32_0038	Heinstetten, Heinstetten	8.96312, 48.13491	deissel	d ei ss e l	deisel	d ei s e l	1
+861	KST u2	III_20_0057	Stebbach, Stebbach	8.96448, 49.14676	deichsel	d ei ch s e l	deichsl	d ei ch s l	1
+862	TUTT Q11	III_37_0029	Hemmenhofen, Hemmenhofen	8.96502, 47.67294	diesel	d ie s e l	dichsel	d i ch s e l	2
+863	MH S10	II_60_0061	Michelbach, Michelbach	8.96532, 49.37259	deixl	d ei x l	deichsel	d ei ch s e l	4
+864	TUTT Q6/2, TUTT Q6/1, TUTT Q6/3	III_37_0023	Radolfzell, Radolfzell	8.97017, 47.74493	dīchsel	d ī ch s e l	diechsel	d ie ch s e l	2
+865	TUTT J9	III_36_0049	Stahringen, Stahringen	8.97547, 47.78849	diechsl	d ie ch s l	diechsel	d ie ch s e l	1
+866	TUTT C4, TUTT B11	III_35_0050	Mahlspüren, Mahlspüren	8.97748, 47.87563	diagsl	d i a g s l	diegsel	d ie g s e l	2
+867	MH S9	II_60_0064	Unterschwarzach, Unterschwarzach	8.98202, 49.36856	deixil	d ei x i l	deichsel	d ei ch s e l	4
+868	KST n4	III_19_0051	Ehrstädt, Ehrstädt	8.98266, 49.24404	deixl	d ei x l	deichsel	d ei ch s e l	4
+869	TUTT Q10	III_37_0026	Gaienhofen, Gaienhofen	8.9829, 47.68263	diesäl	d ie s ä l	diesel	d ie s e l	1
+870	KST u1	III_20_0053, III_20_0056, III_20_0054, III_20_0055	Gemmingen, Gemmingen	8.98358, 49.15633	deichsl	d ei ch s l	deigsel	d ei g s e l	3
+871	TUTT n1	III_33_0040	Buchheim, Buchheim	8.98672, 48.011	deißel	d ei ß e l	deichsel	d ei ch s e l	3
+872	TUTT Q9	III_37_0027	Horn, Horn	8.99438, 47.69562	diä̆ssel	d i ä ̆ ss e l	diësel	d i ë s e l	3
+873	TUTT u2	III_34_0045	Unterschwandorf, Unterschwandorf	8.99628, 47.95028	dixl	d i x l	diexl	d ie x l	1
+874	TUTT u3	III_34_0048	Gallmannsweil, Gallmannsweil	8.99683, 47.92357	diexl	d ie x l	diexel	d ie x e l	1
+875	TUTT J11	III_36_0051, III_36_0050	Güttingen, Güttingen	8.998, 47.77415	diagsel	d i a g s e l	digsl	d i g s l	2
+876	MH K4	II_59_0095	Rockenau, Rockenau	8.99904, 49.44673	deichsl	d ei ch s l	deichsel	d ei ch s e l	1
+877	KST g11	III_18_0053	Flinsbach, Flinsbach	8.9996, 49.30946	deichsel	d ei ch s e l	deichsl	d ei ch s l	1
+878	TUTT C8	III_35_0040	Zizenhausen, Zizenhausen	9.0005, 47.87365	dixel	d i x e l	dichsel	d i ch s e l	3
+879	TÜB g1	III_25_0044	Sindelfingen, Sindelfingen	9.00194, 48.70797	deisel	d ei s e l	daigsel	d a i g s e l	2
+880	TUTT R3	III_37_0030	Markelfingen, Markelfingen	9.00452, 47.74143	diexel	d ie x e l	diachsel	d i a ch s e l	4
+881	TUTT C9	III_35_0060	Hoppetenzell, Hoppetenzell	9.00808, 47.89295	diegsl	d ie g s l	diegsel	d ie g s e l	1
+882	MH T2	II_60_0068	Neunkirchen, Neunkirchen	9.00887, 49.38789	daichsel	d a i ch s e l	deigsl	d ei g s l	4
+883	TUTT C7	III_35_0039	Hindelwangen, Hindelwangen	9.00909, 47.86237	diexel	d ie x e l	diechsel	d ie ch s e l	3
+884	KST g7	III_18_0059	Untergimern, Untergimern	9.00947, 49.27049	deichsel	d ei ch s e l	deichsl	d ei ch s l	1
+885	TUTT v6	III_34_0050	Mainwangen, Mainwangen	9.0105, 47.92565	diachsel	d i a ch s e l	diegsl	d ie g s l	4
+886	TUTT K5	III_36_0053	Espasingen, Espasingen	9.01058, 47.82135	diachsl	d i a ch s l	diegsel	d ie g s e l	4
+887	TUTT C6	III_35_0056	Stockach, Stockach	9.01468, 47.85384	diegsl	d ie g s l	diegsel	d ie g s e l	1
+888	TUTT C10	III_35_0059	Mühlingen, Mühlingen	9.01554, 47.91191	digsel	d i g s e l	diegsel	d ie g s e l	1
+889	MH T9	II_60_0071	Asbach, Asbach	9.02562, 49.34133	deichsl	d ei ch s l	deichsel	d ei ch s e l	1
+890	TUTT K7	III_36_0057, III_36_0055, III_36_0056	Liggeringen, Liggeringen	9.02698, 47.77495	diiksel	d ii k s e l	diechsel	d ie ch s e l	3
+891	TUTT K6	III_36_0054	Bodman, Bodman	9.02835, 47.80402	diechsl	d ie ch s l	diägsl	d i ä g s l	3
+892	TUTT v3	III_34_0053	Bietingen, Bietingen	9.03261, 47.97091	deigsel	d ei g s e l	deisel	d ei s e l	1
+893	TUTT v1	III_34_0054	Altheim, Altheim	9.03387, 47.99511	dēiksel	d ē i k s e l	deichsel	d ei ch s e l	3
+894	MH T3	II_60_0069	Neckarkatzenbach, Neckarkatzenbach	9.03457, 49.38441	deigxl	d ei g x l	deigsl	d ei g s l	1
+895	TUTT g1	III_32_0042	Glashütte (Heuberg), Glashütte	9.03485, 48.1237	deißal	d ei ß a l	deißel	d ei ß e l	1
+896	KST g6	III_18_0060	Obergimpern, Obergimpern	9.04013, 49.25574	deichsl	d ei ch s l	deichsel	d ei ch s e l	1
+897	TUTT C2/2, TUTT C2/1	III_35_0052	Zoznegg, Zoznegg	9.04053, 47.89958	diesel	d ie s e l	di̠e̠xel	d i ̠ e ̠ x e l	3
+898	MH L4	II_59_0099	Zwingenberg, Zwingenberg	9.04439, 49.41287	daigsl	d a i g s l	deigsel	d ei g s e l	2
+899	TUTT o4	III_33_0042	Kreenheinstetten, Kreenheinstetten	9.05221, 48.0555	dåisel	d å i s e l	deisel	d ei s e l	1
+900	MH L2	II_59_0101	Oberdielbach, Oberdielbach	9.05361, 49.44781	deïxel	d e ï x e l	deichsel	d ei ch s e l	4
+901	MH C1	II_58_0102	Friedrichsdorf, Friedrichsdorf	9.054, 49.52034	deixel	d ei x e l	deichsel	d ei ch s e l	3
+902	MH L6	II_59_0102	Waldkatzenbach, Waldkatzenbach	9.05484, 49.45603	deixel	d ei x e l	deichsl	d ei ch s l	3
+903	KST o2	III_19_0052	Treschklingen, Treschklingen	9.05577, 49.22614	deichsel	d ei ch s e l	deixl	d ei x l	4
+904	MH T6	II_60_0074	Binau, Binau	9.0577, 49.36658	daigsl	d a i g s l	deigsl	d ei g s l	1
+905	TUTT C5	III_35_0055	Winterspüren, Winterspüren	9.05857, 47.85618	diexel	d ie x e l	die͜gsel	d ie ͜ g s e l	3
+906	TUTT K4	III_36_0059	Ludwigshafen, Ludwigshafen	9.05916, 47.8189	diä̆gsl	d i ä ̆ g s l	diechsel	d ie ch s e l	4
+907	TUTT R6	III_37_0039, III_37_0040, III_37_0038	Reichenau, Reichenau	9.06125, 47.69789	diëgsel	d i ë g s e l	digsel	d i g s e l	1
+908	KST g10	III_18_0063	Kälbertshausen, Kälbertshausen	9.06276, 49.31724	deichsl	d ei ch s l	deichsel	d ei ch s e l	1
+909	TUTT R4	III_37_0034, III_37_0035, III_37_0033, III_37_0032	Allensbach, Allensbach	9.06699, 47.71535	diechsel	d ie ch s e l	dichsel	d i ch s e l	1
+910	MH T17	II_60_0075	Neckargerach, Neckargerach	9.0708, 49.40101	deigsl	d ei g s l	deichsel	d ei ch s e l	3
+911	TUTT R2	III_37_0031	Kaltbrunn, Kaltbrunn	9.07201, 47.73526	dixel	d i x e l	dichsla	d i ch s l a	4
+912	MH L1	II_59_0103	Stümpfelbrunn, Strümpfelbrunn	9.07574, 49.4645	deixel	d ei x e l	deigsl	d ei g s l	2
+913	TUTT K12	III_36_0058	Langenrain, Langenrain	9.07596, 47.76281	diegsl	d ie g s l	digsel	d i g s e l	2
+914	MH L3	II_59_0100	Schollbrunn, Schollbrunn	9.07962, 49.43431	deisel	d ei s e l	deixel	d ei x e l	1
+915	TUTT K3	III_36_0066	Bonndorf, Bonndorf	9.09477, 47.82968	diͤgsel	d i ͤ g s e l	digsel	d i g s e l	1
+916	MH T10	II_60_0078	Obrigheim, Obrigheim	9.09608, 49.35186	deichsl	d ei ch s l	deichsel	d ei ch s e l	1
+917	TUTT K11	III_36_0061, III_36_0062, III_36_0063, III_36_0064, III_36_0060	Sipplingen, Sipplingen	9.09665, 47.79525	diͣgsel	d i ͣ g s e l	diechsel	d ie ch s e l	3
+918	KST g1	III_18_0064	Hochhausen, Hochhausen	9.1008, 49.323	deichsl	d ei ch s l	deichsel	d ei ch s e l	1
+919	TUTT v9	III_34_0049	Wasser, Wasser	9.10143, 47.9671	deixel	d ei x e l	deigsl	d ei g s l	2
+920	TUTT 07	III_33_0049	Rohrdorf, Rohrdorf	9.10207, 48.01811	deigsel	d ei g s e l	deigsl	d ei g s l	1
+921	KST o3	III_19_0058, III_19_0057	Bad Rappenau, Bad Rappenau	9.10212, 49.24032	daichsl	d a i ch s l	deichsel	d ei ch s e l	2
+922	KST v1	III_20_0066	Schluchtern, Schluchtern	9.1026, 49.14843	deixl	d ei x l	deichsel	d ei ch s e l	4
+923	TUTT 05	III_33_0045	Langenhart, Langenhart	9.10404, 48.04793	deigsl	d ei g s l	deigsel	d ei g s e l	1
+924	TUTT v10	III_34_0058, III_34_0057	Messkirch, Messkirch	9.11537, 47.99484	deichsel	d ei ch s e l	diĕsl	d i ĕ s l	4
+925	TUTT R1	III_37_0036	Dettingen, Dettingen	9.117, 47.73485	dieagsl	d ie a g s l	diechsel	d ie ch s e l	3
+926	TUTT K2	III_36_0065	Nesselwangen, Nesselwangen	9.11824, 47.81683	diegsel	d ie g s e l	diegsl	d ie g s l	1
+927	TUTT v8	III_34_0060	Rast, Rast	9.12126, 47.93997	de̠ichsel	d e ̠ i ch s e l	deichsel	d ei ch s e l	1
+928	TUTT o6	III_33_0046	Engelswies, Engelswies	9.12846, 48.04259	däicksl	d ä i ck s l	deihsl	d ei h s l	3
+929	TUTT K10	III_36_0151	Hödingen, Hödingen	9.13275, 47.78865	diachsel	d i a ch s e l	dîechsl	d î e ch s l	3
+930	KST g2	III_18_0065	Neckarzimmern, Neckarzimmern	9.1329, 49.31835	deigsel	d ei g s e l	deixel	d ei x e l	2
+931	KST g12	III_18_0066	Hassmersheim, Hassmersheim	9.14257, 49.30049	deichsel	d ei ch s e l	deigsel	d ei g s e l	2
+932	MH T13	II_60_0081, II_60_0082	Mosbach, Mosbach	9.14619, 49.35501	deixl	d ei x l	deichsel	d ei ch s e l	4
+933	MH L8	II_59_0106	Wagenschwend, Wagenschwend	9.14637, 49.47256	deigschl	d ei g sch l	daigschel	d a i g sch e l	2
+934	KST g14	III_18_0069	Heinsheim, Heinsheim	9.14778, 49.26416	daixel	d a i x e l	deichsl	d ei ch s l	4
+935	MH L5	II_59_0108	Fahrenbach, Fahrenbach	9.14987, 49.43091	deikschel	d ei k sch e l	deikschl	d ei k sch l	1
+936	MH C4	II_58_0116	Schloßau, Schloßau	9.15226, 49.53935	deischl	d ei sch l	deischel	d ei sch e l	1
+937	TUTT R7	III_37_0037	Dingelsdorf, Dingelsdorf	9.15648, 47.7384	diegsl	d ie g s l	diëgsel	d i ë g s e l	2
+938	TUTT o8	III_33_0051	Menningen, Menningen	9.15825, 48.01089	deichsel	d ei ch s e l	deichsl	d ei ch s l	1
+939	TUTT K9	III_36_0071	Überlingen, Überlingen	9.1592, 47.76732	diigsəl	d ii g s ə l	diexel	d ie x e l	4
+940	MH U1	II_60_0083	Neckarburken, Neckarburken	9.165, 49.37662	deixl	d ei x l	deigsl	d ei g s l	2
+941	MH D1	II_58_0106	Mörschenhardt, Mörschenhardt	9.17211, 49.56893	deischl	d ei sch l	deischel	d ei sch e l	1
+942	SIG t1	III_38_0131	Konstanz, Konstanz	9.17758, 47.66385	diegsel	d ie g s e l	digsel	d i g s e l	1
+943	MH M6	II_59_0110	Krumbach, Krumbach	9.18402, 49.45323	deigschel	d ei g sch e l	deigschl	d ei g sch l	1
+944	SIG n16	III_36_0075	Nußdorf, Nußdorf	9.19513, 47.75277	dichsel	d i ch s e l	diächsl	d i ä ch s l	2
+945	SIG d1	III_33_0055	Göggingen, Göggingen	9.20194, 48.00389	daïchsel	d a ï ch s e l	deïchsel	d e ï ch s e l	1
+946	MH M8	II_59_0113	Muckental, Muckental	9.20231, 49.42474	deixel	d ei x e l	deigschel	d ei g sch e l	4
+947	MH D4	II_58_0109	Mudau-Langenelz, Langenelz	9.20495, 49.51744	deichsel	d ei ch s e l	deischel	d ei sch e l	2
+948	SIG n3	III_36_0076	Hohenbodmann, Hohenbodmann	9.21042, 47.82312	diexl	d ie x l	diagsl	d i a g s l	3
+949	MH M5	II_59_0117	Limbach, Limbach	9.21181, 49.46142	deigschel	d ei g sch e l	deitschel	d ei t sch e l	1
+950	MH M2	II_59_0119	Laudenberg, Laudenberg	9.21457, 49.48066	deigschl	d ei g sch l	deikschel	d ei k sch e l	2
+951	SIG q7	III_36_0074	Deisendorf, Deisendorf	9.21621, 47.76835	deichsel	d ei ch s e l	diechsel	d ie ch s e l	2
+952	MH U9	II_60_0094	Auerbach, Auerbach	9.22666, 49.39927	deigschel	d ei g sch e l	deigschl	d ei g sch l	1
+953	SIG q2	III_37_0042	Unteruhldingen, Unteruhldingen	9.2334, 47.72271	deisel	d ei s e l	diasel	d i a s e l	2
+954	MH M4	II_59_0116	Scheringen, Scheringen	9.23513, 49.46663	deikschel	d ei k sch e l	deichsel	d ei ch s e l	3
+955	MH M9	II_59_0114	Rittersbach, Rittersbach	9.23597, 49.42445	deigsel	d ei g s e l	deichsel	d ei ch s e l	2
+956	MH M1	II_59_0120	Einbach, Waldhausen/Einbach	9.24238, 49.48477	deichschel	d ei ch sch e l	deixschel	d ei x sch e l	2
+957	SIG q3	III_37_0041	Oberuhldingen, Oberuhldingen	9.24549, 47.73557	diëgsl	d i ë g s l	dixl	d i x l	3
+958	MH M10	II_59_0115	Heidersbach, Heidersbach	9.2468, 49.45517	deigschel	d ei g sch e l	deigschl	d ei g sch l	1
+959	MH U8	II_60_0089	Billigheim, Billigheim	9.25406, 49.34748	deïchsel	d e ï ch s e l	deichsel	d ei ch s e l	1
+960	MH Y3	III_18_0075	Herbolzheim, Herbolzheim	9.26007, 49.28376	deigsel	d ei g s e l	deixl	d ei x l	3
+961	SIG n7	III_36_0078	Frickingen, Frickingen	9.27056, 47.81023	diexl	d ie x l	diexel	d ie x e l	1
+962	MH U5	II_60_0086	Unterschefflenz, Unterschefflenz	9.27076, 49.39154	deichschl	d ei ch sch l	deigschl	d ei g sch l	2
+963	SIG q8/1	III_37_0047	Meersburg, Meersburg	9.27244, 47.69466	diechsel	d ie ch s e l	diiexl	d iie x l	5
+964	MH U4	II_60_0085	Mittelschefflenz, Mittelschefflenz	9.27967, 49.40042	deigschl	d ei g sch l	deitschl	d ei t sch l	1
+965	MH U3	II_59_0124	Oberschefflenz, Oberschefflenz	9.28249, 49.41626	deikschl	d ei k sch l	deigschel	d ei g sch e l	2
+966	MH U7	II_60_0090	Waldmühlbach, Waldmühlbach	9.28262, 49.36078	deigschl	d ei g sch l	deichsel	d ei ch s e l	4
+967	SIG n13	III_36_0083, III_36_0085, III_36_0086	Mimmenausen, Mimmenausen	9.2852, 47.76025	digsel	d i g s e l	diechsel	d ie ch s e l	3
+968	SIG n12	III_36_0081	Salem, Salem	9.28599, 47.77663	diechsel	d ie ch s e l	diesel	d ie s e l	2
+969	MH M13	II_59_0122	Großeicholzheim, Großeicholzheim	9.28966, 49.44361	deichsel	d ei ch s e l	deichschl	d ei ch sch l	2
+970	MH D9	II_57_0143	Hornbach (Hettingenbeuern), Hornbach	9.29012, 49.591	deischel	d ei sch e l	deischl	d ei sch l	1
+971	SIG q4	III_37_0043	Buggensegel, Buggensegel	9.29936, 47.74645	diexel	d ie x e l	diasel	d i a s e l	2
+972	MH Y4	III_18_0076	Stein am Kocher, Stein	9.29954, 49.26198	deigsel	d ei g s e l	deigsl	d ei g s l	1
+973	SIG n11	III_36_0082	Weildorf, Weildorf	9.30037, 47.78969	diagsl	d i a g s l	diegsl	d ie g s l	1
+974	SIG k3	III_35_0073, III_35_0074, III_35_0071, III_35_0072	Denkingen, Denkingen	9.30821, 47.89505	deichsel	d ei ch s e l	deixel	d ei x e l	3
+975	SIG n5	III_36_0072	Heiligenberg, Heiligenberg	9.31203, 47.81993	dieksel	d ie k s e l	deigsel	d ei g s e l	3
+976	MH M12	II_59_0121	Bödigheim, Bödigheim	9.31522, 49.47408	deigschl	d ei g sch l	deigschel	d ei g sch e l	1
+977	SIG n10	III_36_0073	Beuren, Beuren	9.32135, 47.80541	digsel	d i g s e l	diechsel	d ie ch s e l	3
+978	SIG q6	III_37_0045, III_37_0046	Ahausen, Ahausen	9.32247, 47.72502	digsl	d i g s l	dixl	d i x l	2
+979	SIG n15	III_36_0080	Röhrenbach, Röhrenbach	9.3248, 47.82972	diëgsel	d i ë g s e l	diegsel	d ie g s e l	1
+980	MH E1	II_58_0115	Hainstadt, Hainstadt	9.33082, 49.53905	deischel	d ei sch e l	deichschel	d ei ch sch e l	2
+981	STU h1	III_24_0080	Stetten/Remstal, Stetten/Remstal	9.34045, 48.79285	deigsel	d ei g s e l	deichsla	d ei ch s l a	4
+982	STU u1	III_26_0090	Nürtingen, Nürtingen	9.34192, 48.62663	deichsel	d ei ch s e l	deisel	d ei s e l	2
+983	SIG o1	III_36_0088	Betenbrunn, Betenbrunn	9.34649, 47.8185	diĕsl	d i ĕ s l	diechsl	d ie ch s l	3
+984	SIG r2	III_37_0050	Bermatingen, Bermatingen	9.34868, 47.73084	dièchsl	d i è ch s l	diexl	d ie x l	4
+985	MH o8/2, MH o8/1	II_89_0005	Ebenheid, Ebenheid	9.36095, 49.7158	deisel	d ei s e l	deissel	d ei ss e l	1
+986	MH E2	II_91_0001	Hettingen, Hettingen	9.36644, 49.5194	deischel	d ei sch e l	deigschel	d ei g sch e l	1
+987	MH w6	II_90_0002	Glashofen, Glashofen	9.36648, 49.62382	deischel	d ei sch e l	deichsel	d ei ch s e l	2
+988	MH N1	II_92_0002	Eberstadt, Eberstadt	9.3666, 49.47727	deigschl	d ei g sch l	deigschel	d ei g sch e l	1
+989	SIG u1	III_38_0026	Immenstaad, Immenstaad	9.3675, 47.66625	diägsel	d i ä g s e l	diegsl	d ie g s l	2
+990	MH N2	II_92_0003	Schlierstadt, Schlierstadt	9.36816, 49.45257	deikschel	d ei k sch e l	deigschl	d ei g sch l	2
+991	MH N4/2, MH N4/1	II_92_0004	Zimmern, Zimmern	9.37304, 49.43313	deigsel	d ei g s e l	deigschel	d ei g sch e l	2
+992	SIG o2	III_36_0089	Deggenhausen, Deggenhausen	9.3844, 47.80143	diësel	d i ë s e l	diechsel	d ie ch s e l	3
+993	SIG r3	III_37_0052, III_37_0054, III_37_0053, III_37_0055	Markdorf, Markdorf	9.38933, 47.72088	diéxel	d i é x e l	diegsel	d ie g s e l	3
+994	MH V1	II_93_0003	Adlesheim, Adlesheim	9.39101, 49.40289	deixel	d ei x e l	deixl	d ei x l	1
+995	MH E3	II_91_0002	Rinschheim, Rinschheim	9.39249, 49.51369	deigschel	d ei g sch e l	deigschl	d ei g sch l	1
+996	MH N8	II_92_0001	Götzingen, Götzingen	9.39465, 49.49693	deigschel	d ei g sch e l	deichschl	d ei ch sch l	3
+997	SIG o5	III_36_0093	Roggenbeuren, Roggenbeuren	9.40565, 47.76961	diègsel	d i è g s e l	diessel	d ie ss e l	2
+998	SIG r4	III_37_0057	Riedheim, Riedheim	9.41014, 47.70429	dießel	d ie ß e l	diechsel	d ie ch s e l	3
+999	MH w4	II_90_0005	Höpfingen, Höpfingen	9.42753, 49.60185	deischel	d ei sch e l	deischl	d ei sch l	1
+1000	MH N5	II_92_0007, II_92_0006	Osterburken, Osterburken	9.42838, 49.4308	deickschel	d ei ck sch e l	deichschel	d ei ch sch e l	1
+1001	SIG o4	III_36_0094	Limpach, Limpach	9.42902, 47.79495	die̠sel	d ie ̠ s e l	diechsel	d ie ch s e l	2
+1002	SIG o6	III_36_0096	Urnau, Urnau	9.43083, 47.76354	deichsel	d ei ch s e l	diesel	d ie s e l	3
+1003	MH V4	II_93_0006	Unterkessach, Unterkessach	9.43829, 49.34571	deigsl	d ei g s l	deichsel	d ei ch s e l	3
+1004	MH o3	II_89_0012	Sonderriet, Sonderriet	9.43938, 49.71753	deisel	d ei s e l	deichsel	d ei ch s e l	2
+1005	MH E4	II_91_0003	Altheim, Altheim	9.4436, 49.51915	deichschel	d ei ch sch e l	deischl	d ei sch l	3
+1006	MH E5	II_91_0004	Waldstetten, Waldstetten	9.44893, 49.5647	deichschel	d ei ch sch e l	deigschel	d ei g sch e l	2
+1007	MH o7	II_89_0007	Nassig, Nassig	9.45146, 49.73582	deißl	d ei ß l	deisl	d ei s l	1
+1008	MH N6	II_92_0133	Bronnacker, Bronnacker	9.48305, 49.4446	deixl	d ei x l	deigschel	d ei g sch e l	5
+1009	MH o6	II_89_0008	Vockenrot, Vockenrot	9.48521, 49.74816	deisel	d ei s e l	deisl	d ei s l	1
+1010	MH E6	II_91_0123, II_91_0005	Bretzingen, Bretzingen	9.48682, 49.57826	deigschel	d ei g sch e l	deischl	d ei sch l	2
+1011	STU u2	III_26_0084	Bissingen/Teck, Bissingen-Teck	9.49128, 48.60024	deichsel	d ei ch s e l	deisel	d ei s e l	2
+1012	MH o5	II_89_0011, II_89_0010, II_89_0009	Sachsenhausen, Sachsenhausen	9.49147, 49.73223	daisl	d a i s l	deißl	d ei ß l	2
+1013	MH E8	II_91_0006	Erfeld, Erfeld	9.49597, 49.55416	deiseel	d ei s ee l	deischel	d ei sch e l	2
+1014	MH O2	II_92_0011	Hirschlanden, Hirschlanden	9.50074, 49.47297	deickschel	d ei ck sch e l	deichsel	d ei ch s e l	3
+1015	MH p4	II_89_0013	Dörlesberg, Dörlesberg	9.501, 49.71273	deisel	d ei s e l	deißel	d ei ß e l	1
+1016	MH F4	II_91_0007	Gerichtstetten, Gerichtstetten	9.5049, 49.53499	deischel	d ei sch e l	deichsel	d ei ch s e l	2
+1017	MH W11	II_93_0010	Merchingen, Merchingen	9.50633, 49.4003	deichsel	d ei ch s e l	deischel	d ei sch e l	2
+1018	MH W1	II_93_0009	Hüngheim, Hüngheim	9.51823, 49.41257	deichsel	d ei ch s e l	deigschl	d ei g sch l	4
+1019	MH p5	II_89_0024	Külsheim, Külsheim	9.5236, 49.66947	deixel	d ei x e l	deissel	d ei ss e l	2
+1020	MH x7	II_90_0009	Schweinberg, Schweinberg	9.52459, 49.61864	deigschel	d ei g sch e l	deigschl	d ei g sch l	1
+1021	MH F1	II_91_0008	Pülfringen, Pülfringen	9.52624, 49.58149	deigschel	d ei g sch e l	deigschl	d ei g sch l	1
+1022	MH O3	II_92_0012	Berolzheim, Berolzheim	9.54042, 49.4749	deigschl	d ei g sch l	deichsl	d ei ch s l	3
+1023	MH p3	II_89_0023	Bronnbach, Bronnbach	9.54654, 49.71348	deisel	d ei s e l	deißel	d ei ß e l	1
+1024	MH W2	II_93_0011	Ballenberg, Ballenberg	9.55086, 49.40093	deigschl	d ei g sch l	deichschel	d ei ch sch e l	3
+1025	MH F2	II_91_0009	Brehmen, Brehmen	9.55454, 49.56839	deigschl	d ei g sch l	d̄eigschel	d ̄ ei g sch e l	2
+1026	MH O7	II_92_0014	Oberwittstadt, Oberwittstadt	9.55565, 49.43027	deigschel	d ei g sch e l	deichschel	d ei ch sch e l	2
+1027	MH F3	II_91_0010	Buch, Buch	9.55592, 49.53858	deitschel	d ei t sch e l	deigschl	d ei g sch l	2
+1028	MH g4	II_88_0022	Bettingen, Bettingen	9.5642, 49.77261	deisl	d ei s l	deistl	d ei s t l	1
+1029	MH p13	II_89_0019	Urphar, Urphar	9.5706, 49.74798	daistl	d a i s t l	deistl	d ei s t l	1
+1030	MH O4	II_92_0013	Schillingstadt, Schillingstadt	9.57461, 49.46035	deigschel	d ei g sch e l	deigschl	d ei g sch l	1
+1031	MH O8	II_91_0012	Uiffingen, Uiffingen	9.59227, 49.50171	deichschel	d ei ch sch e l	deigschel	d ei g sch e l	2
+1032	MH x6	II_90_0012	Königheim, Königheim	9.59419, 49.61802	deigschel	d ei g sch e l	deischel	d ei sch e l	1
+1033	MH O9	II_92_0022	Angeltürn, Angeltürn	9.59726, 49.48572	deigschl	d ei g sch l	deigschel	d ei g sch e l	1
+1034	MH p12	II_89_0020	Dietenhan, Dietenhan	9.6066, 49.74297	deisdl	d ei s d l	deistl	d ei s t l	1
+1035	MH p10	II_89_0028	Höhefeld, Höhefeld	9.60905, 49.71271	deichsel	d ei ch s e l	deisel	d ei s e l	2
+1036	MH W8	II_93_0018	Gommersdorf, Gommersdorf	9.61253, 49.36877	daükschel	d a ü k sch e l	deigschel	d ei g sch e l	3
+1037	MH W5	II_93_0020	Neunstetten, Neunstetten	9.61267, 49.41114	daigschl	d a i g sch l	deichschel	d ei ch sch e l	4
+1038	MH g1	II_88_0024	Dertingen über Wertheim a.M., Dertingen	9.61957, 49.7665	deisl	d ei s l	deistl	d ei s t l	1
+1039	MH F7	II_91_0013	Kupprichhausen-Lengenrieden, Kupprichhausen u. Lengenrieden	9.62002, 49.52627	deikschel	d ei k sch e l	deichschel	d ei ch sch e l	2
+1040	MH O6	II_92_0016, II_92_0015, II_92_0018, II_92_0017	Windischbuch, Windischbuch	9.62194, 49.43593	diechschel	d ie ch sch e l	deigschel	d ei g sch e l	3
+1041	MH p11a/2, MH p11a/1	II_89_0021	Kembach, Kembach	9.62461, 49.74217	deistel	d ei s t e l	deistl	d ei s t l	1
+1042	MH W7	II_93_0022	Krautheim, Krautheim	9.63369, 49.39159	deigschl	d ei g sch l	deichsel	d ei ch s e l	4
+1043	MH x2	II_90_0020, II_90_0018, II_90_0019, II_90_0017	Hochhausen, Hochhausen	9.63526, 49.6621	deisel	d ei s e l	deichsel	d ei ch s e l	2
+1044	MH F8	II_91_0015	Heckfeld, Heckfeld	9.63713, 49.55077	deutschl	d e u t sch l	deigschl	d ei g sch l	2
+1045	MH p7	II_89_0031, II_89_0030, II_89_0032	Werbach, Werbach	9.63871, 49.67029	deichsel	d ei ch s e l	deigsel	d ei g s e l	2
+1046	MH O11	II_92_0026	Boxberg, Boxberg	9.64298, 49.48181	deichschl	d ei ch sch l	deigschel	d ei g sch e l	3
+1047	MH x3	II_90_0016	Impfingen, Impfingen	9.65946, 49.64719	deichsel	d ei ch s e l	digsel	d i g s e l	3
+1048	MH X1	II_93_0023	Klepsau, Klepsau	9.67156, 49.38805	deigschel	d ei g sch e l	deichsel	d ei ch s e l	3
+1049	MH P3	II_92_0028	Bobstadt, Bobstadt	9.67398, 49.46607	deigschel	d ei g sch e l	deixschel	d ei x sch e l	1
+1050	MH G11	II_91_0019	Oberschüpf, Oberschüpf	9.67687, 49.52252	deikschl	d ei k sch l	deigschl	d ei g sch l	1
+1051	MH G1	II_91_0016	Oberlauda, Oberlauda	9.67912, 49.56608	deikschel	d ei k sch e l	deigschel	d ei g sch e l	1
+1052	MH y5	II_90_0022	Distelhausen, Distelhausen	9.69353, 49.59735	deigschel	d ei g sch e l	deikschel	d ei k sch e l	1
+1053	MH G2	II_91_0017	Lauda, Lauda	9.70203, 49.5702	deigschel	d ei g sch e l	deichsel	d ei ch s e l	3
+1054	MH G10	II_91_0018	Beckstein, Beckstein	9.70422, 49.54668	daixl	d a i x l	deichsl	d ei ch s l	4
+1055	MH G13	II_91_0021	Sachsenflur, Sachsenflur	9.71, 49.52377	deigschl	d ei g sch l	deigschel	d ei g sch e l	1
+1056	MH P1	II_92_0027	Dainbach-Herold, Dainbach	9.71553, 49.49662	deixschl	d ei x sch l	deigschel	d ei g sch e l	2
+1057	MH G3	II_91_0026	Gerlachsheim, Gerlachsheim	9.71775, 49.57998	deigschl	d ei g sch l	deigschel	d ei g sch e l	1
+1058	MH y1	II_89_0036	Großrinderfeld, Grossrinderfeld	9.73405, 49.66558	deisl	d ei s l	dässel	d ä ss e l	3
+1059	MH G8	II_91_0023	Unterbalbach, Unterbalbach	9.74711, 49.52779	deikschel	d ei k sch e l	deichsl	d ei ch s l	3
+1060	MH G5	II_91_0027	Kützbrunn, Kützbrunn	9.76136, 49.58159	daigschel	d a i g sch e l	deigsel	d ei g s e l	3
+1061	MH y8	II_90_0026	Krensheim, Krensheim	9.78002, 49.63781	deichsel	d ei ch s e l	deixel	d ei x e l	3
+1062	MH G6	II_91_0028, II_91_0029	Messelhausen, Messelhausen	9.7887, 49.5756	doischel	d o i sch e l	deichsel	d ei ch s e l	3
+1063	MH y10	II_89_0042	Ilmspan, Ilmspan	9.79016, 49.66609	deichsel	d ei ch s e l	deigsel	d ei g s e l	2
+1064	MH G7/2, MH G7/1	II_91_0032	Oberbalbach, Oberbalbach	9.7938, 49.53997	deigschel	d ei g sch e l	deigschl	d ei g sch l	1
+1065	MH y7	II_90_0131	Vilchband, Vilchband	9.82424, 49.58989	deichsel	d ei ch s e l	deichsl	d ei ch s l	1
+1066	MH ya2	II_90_0028	Unterwittighausen, Unterwittighausen	9.83878, 49.61344	deixl	d ei x l	deichsel	d ei ch s e l	4
+1067	Hag M 11/2, Hag M 11/1	III_6_0003	Wolfskirchen, Wolfskirchen	7.07612, 48.87884	tissel	t i ss e l	tissl	t i ss l	1
+1068	Hag M 11/2, Hag M 11/1	III_6_0003	Wolfskirchen, Wolfskirchen	7.07612, 48.87884	dissel	d i ss e l	tissl	t i ss l	2
+1069	Hag E 6/1, Hag E 6/2	III_5_0028, III_5_0029	Saarbuckenheim (Sarre-Union), Saarbuckenheim	7.08686, 48.93919	tissel	t i ss e l	dischel	d i sch e l	3
+1070	Co i 9	III_13_0003, III_13_0004	Stossweier, Stossweier	7.10163, 48.05432	dissel	d i ss e l	dissl	d i ss l	1
+1071	Co M8	III_15_0011, III_15_0010	Gildweiler (Gildwiller), Falkweiler, Hecken, Falkweiler, Gildweiler	7.13461, 47.6894	dissel	d i ss e l	deichsel	d ei ch s e l	3
+1072	Co q 6	III_13_0101	Murbach, Murbach	7.1604, 47.92318	dissel	d i ss e l	deichsel	d ei ch s e l	3
+1073	Stra V 1, Stra U 1/1, Stra U 1/2	III_12_0002	Markich (Sainte-Marie-Aux-Marines), Markirch	7.17972, 48.24483	disel	d i s e l	deichsl	d ei ch s l	4
+1074	Stra V 1, Stra U 1/1, Stra U 1/2	III_12_0002	Markich (Sainte-Marie-Aux-Marines), Markirch	7.17972, 48.24483	dischel	d i sch e l	deichsl	d ei ch s l	3
+1075	Stra V 1, Stra U 1/1, Stra U 1/2	III_12_0002	Markich (Sainte-Marie-Aux-Marines), Markirch	7.17972, 48.24483	daiksel	d a i k s e l	deichsl	d ei ch s l	4
+1076	Co y 1/2, Co y 1/1	III_14_0017	Rimbach-Zell (Rimbachzell), Rimbach-Zell	7.17995, 47.8995	dissel	d i ss e l	disl	d i s l	2
+1077	Co y 1/2, Co y 1/1	III_14_0017	Rimbach-Zell (Rimbachzell), Rimbach-Zell	7.17995, 47.8995	disel	d i s e l	disl	d i s l	1
+1078	Co r 8/2, Co r 8/1	III_13_0108	Sulzmatt (Soultzmatt), Sulzmatt	7.23437, 47.96595	dissel	d i ss e l	dissl	d i ss l	1
+1079	Co U 4	III_16_0026	Walheim, Walheim	7.26432, 47.63975	dissel	d i ss e l	dissl	d i ss l	1
+1080	Co Ua 13	III_17_0010	Köstlach (Kœstlach), Köstlach	7.27085, 47.5062	dissl	d i ss l	dissel	d i ss e l	1
+1081	Stra O 5, Stra U 2	III_11_0082	klein Leberau (Lièpvre), Leberau (Lièpvre), Leberau	7.28169, 48.2709	dissl	d i ss l	diesel	d ie s e l	2
+1082	Co r 1	III_13_0113	Rufach (Rouffach), Rufach	7.29696, 47.95968	dischell	d i sch e ll	dischel	d i sch e l	1
+1083	Co r 1	III_13_0113	Rufach (Rouffach), Rufach	7.29696, 47.95968	disell	d i s e ll	dischel	d i sch e l	3
+1084	Stra l 1, Stra l 3	III_9_0005, III_9_0007	Engenthal, Engental, Engental-Windsburg, Engental	7.30153, 48.63467	dischl	d i sch l	diechl	d ie ch l	1
+1085	Stra l 1, Stra l 3	III_9_0005, III_9_0007	Engenthal, Engental, Engental-Windsburg, Engental	7.30153, 48.63467	dischl	d i sch l	diechel	d ie ch e l	2
+1086	Stra l 1, Stra l 3	III_9_0005, III_9_0007	Engenthal, Engental, Engental-Windsburg, Engental	7.30153, 48.63467	dischl	d i sch l	dischel	d i sch e l	1
+1087	Stra l 1, Stra l 3	III_9_0005, III_9_0007	Engenthal, Engental, Engental-Windsburg, Engental	7.30153, 48.63467	dischel	d i sch e l	diechl	d ie ch l	2
+1088	Stra l 1, Stra l 3	III_9_0005, III_9_0007	Engenthal, Engental, Engental-Windsburg, Engental	7.30153, 48.63467	dischel	d i sch e l	diechel	d ie ch e l	1
+1089	Stra l 1, Stra l 3	III_9_0005, III_9_0007	Engenthal, Engental, Engental-Windsburg, Engental	7.30153, 48.63467	dixl	d i x l	diechl	d ie ch l	3
+1090	Stra l 1, Stra l 3	III_9_0005, III_9_0007	Engenthal, Engental, Engental-Windsburg, Engental	7.30153, 48.63467	dixl	d i x l	diechel	d ie ch e l	4
+1091	Stra l 1, Stra l 3	III_9_0005, III_9_0007	Engenthal, Engental, Engental-Windsburg, Engental	7.30153, 48.63467	dixl	d i x l	dischel	d i sch e l	4
+1092	Stra G 6	III_11_0007, III_11_0005	Weiler (Villé), Weiler, Weiler, ortsteil Erlenbach	7.30273, 48.34253	dissel	d i ss e l	disel	d i s e l	1
+1093	Stra V 2, Stra V 3	III_12_0003	Glashütte, Tannenkirch (Thannenkirch), Tannenkirch	7.30397, 48.22949	deigsl	d ei g s l	dissel	d i ss e l	3
+1094	Co c 13	III_12_0077, III_12_0076	Mittelweier, Mittelweier	7.32094, 48.14982	dissl	d i ss l	dissel	d i ss e l	1
+1095	Stra s 2	III_10_0004	Urmatt, Urmatt	7.32457, 48.52675	dischel	d i sch e l	disel	d i s e l	2
+1096	Stra s 1/1, Stra s 1/2	III_10_0001	Oberhaslach, Oberhaslach	7.33046, 48.5499	dischl	d i sch l	dischel	d i sch e l	1
+1097	Co F7/1, Co F7/2	III_14_0107, III_14_0108, III_14_0121, III_14_0119, III_14_0115, III_14_0111, III_14_0112, III_14_0116, III_14_0113, III_14_0118, III_14_0120, III_14_0117, III_14_0114, III_14_0109, III_14_0110	Mülhausen, Mülhausen	7.34375, 47.7517	dichel	d i ch e l	dischel	d i sch e l	1
+1098	Co F7/1, Co F7/2	III_14_0107, III_14_0108, III_14_0121, III_14_0119, III_14_0115, III_14_0111, III_14_0112, III_14_0116, III_14_0113, III_14_0118, III_14_0120, III_14_0117, III_14_0114, III_14_0109, III_14_0110	Mülhausen, Mülhausen	7.34375, 47.7517	dichel	d i ch e l	dissel	d i ss e l	2
+1099	Co F7/1, Co F7/2	III_14_0107, III_14_0108, III_14_0121, III_14_0119, III_14_0115, III_14_0111, III_14_0112, III_14_0116, III_14_0113, III_14_0118, III_14_0120, III_14_0117, III_14_0114, III_14_0109, III_14_0110	Mülhausen, Mülhausen	7.34375, 47.7517	dichel	d i ch e l	dissĕl	d i ss ĕ l	3
+1100	Co F7/1, Co F7/2	III_14_0107, III_14_0108, III_14_0121, III_14_0119, III_14_0115, III_14_0111, III_14_0112, III_14_0116, III_14_0113, III_14_0118, III_14_0120, III_14_0117, III_14_0114, III_14_0109, III_14_0110	Mülhausen, Mülhausen	7.34375, 47.7517	dissel	d i ss e l	dischel	d i sch e l	2
+1101	Co F7/1, Co F7/2	III_14_0107, III_14_0108, III_14_0121, III_14_0119, III_14_0115, III_14_0111, III_14_0112, III_14_0116, III_14_0113, III_14_0118, III_14_0120, III_14_0117, III_14_0114, III_14_0109, III_14_0110	Mülhausen, Mülhausen	7.34375, 47.7517	dissel	d i ss e l	dissĕl	d i ss ĕ l	1
+1102	Co l 1/5, Co l 1/3, Co l 1/4, Co l 1/1, Co l 1/6, Co l 1/2	III_13_0030	Kolmar (/Hausen an der Möhlin), Kolmar, Kolmar	7.36359, 48.08198	dissl	d i ss l	dissel	d i ss e l	1
+1103	Stra e 2/3, Stra e 2/1, Stra e 2/2	III_8_0029	Zabern, Zabern	7.36605, 48.73948	diischel	d ii sch e l	dissel	d i ss e l	3
+1104	Stra e 2/3, Stra e 2/1, Stra e 2/2	III_8_0029	Zabern, Zabern	7.36605, 48.73948	disschl	d i ssch l	dissel	d i ss e l	2
+1105	Stra e 2/3, Stra e 2/1, Stra e 2/2	III_8_0029	Zabern, Zabern	7.36605, 48.73948	dischel	d i sch e l	dissel	d i ss e l	2
+1106	Co Vd 5	III_17_0076, III_17_0075	Rädersdorf (Raedersdorf), Rädersdorf, Rädersdorf	7.3665, 47.47487	dissel	d i ss e l	deichsel	d ei ch s e l	3
+1107	Stra W 1, Stra W 2	III_12_0009, III_12_0008	St. Pilt (saint-Hyppolyte), Orschweiler (Orschwiller), St. Pilt, Orschweiler	7.38445, 48.24184	dissel	d i ss e l	dischel	d i sch e l	2
+1108	Co s 2	III_13_0119, III_13_0118	Bilzheim (Biltzheim), Bilzheim	7.38657, 47.95675	dissel	d i ss e l	deichsel	d ei ch s e l	3
+1109	Co O1/2, Co O1/1	III_15_0031, III_15_0032	Rixheim, Napoleoninsel Rixheim, Rixheim	7.39739, 47.74412	dissel	d i ss e l	dißel	d i ß e l	2
+1110	Stra A 5, Stra H 6	III_10_0094, III_11_0019	Bernhardsweiler (Bernardvillé), Bernhardsweiler	7.40011, 48.36706	dissel	d i ss e l	dischel	d i sch e l	2
+1111	Stra A 5, Stra H 6	III_10_0094, III_11_0019	Bernhardsweiler (Bernardvillé), Bernhardsweiler	7.40011, 48.36706	dischel	d i sch e l	dissel	d i ss e l	2
+1112	Stra H 13	III_11_0024	Nothalten, Nothalten	7.41957, 48.3503	dischel	d i sch e l	dissel	d i ss e l	2
+1113	Stra P 5	III_11_0090, III_11_0089	Dambach (Dambach-La-Ville), Dambach	7.42838, 48.32103	dissel	d i ss e l	dissl	d i ss l	1
+1114	Stra t 15/1	III_10_0007, III_10_0006	Flexburg, Flexburg	7.43177, 48.57213	dischel	d i sch e l	dischl	d i sch l	1
+1115	Stra A 3/1, Stra A 3/2	III_10_0089	Börsch (Boersch), Börsch	7.43994, 48.47577	dischel	d i sch e l	dissel	d i ss e l	2
+1116	Co Va 4/2, Co Va 4/1	III_17_0019	Volkensberg (Folgensbourg), Volkensberg	7.4473, 47.55147	dissl	d i ss l	dissel	d i ss e l	1
+1117	Stra A 8	III_10_0096	Heiligenstein, Heiligenstein	7.45184, 48.41784	dissel	d i ss e l	dischel	d i sch e l	2
+1118	Stra P 10/2, Stra P 10/1, Stra P 10/3	III_11_0093	Schlettstadt (Sélestat), Schlettstadt	7.45232, 48.2578	dissl	d i ss l	dissel	d i ss e l	1
+1119	Stra H 2/1, Stra H 2/2, Stra H 2/3	III_11_0013	Barr, Barr	7.45244, 48.40651	disselle	d i ss e l l e	dischel	d i sch e l	4
+1120	Stra H 11/2, Stra H 11/1	III_11_0022, III_11_0023	Epfig, Epfig	7.4655, 48.35803	dischel 	d i sch e l 	dischel	d i sch e l	1
+1121	Stra e 7/2, Stra e 7/1	III_8_0033	Lupstein, Lupstein	7.48491, 48.73763	dissel	d i ss e l	dischel	d i sch e l	2
+1122	Co W 15/1, Co W 15, 14, Co W 15/2	III_16_0039, III_16_0062, III_16_0040	Boltzheim (Blotzheim), Blotzheim	7.49611, 47.60128	dissel	d i ss e l	diesel	d ie s e l	1
+1123	Stra A 2	III_10_0088	Bischofsheim (Bischoffsheim), Bischofsheim	7.49675, 48.48669	dischel	d i sch e l	dischl	d i sch l	1
+1124	Co P10/3, Co P10/2, Co P10/1	III_16_0059, III_16_0060, III_15_0042	Kembs-Neuweg, Kembs  , Kembs, Kembs-Neuweg	7.50399, 47.6877	dissl	d i ss l	dissel	d i ss e l	1
+1125	Co P10/3, Co P10/2, Co P10/1	III_16_0059, III_16_0060, III_15_0042	Kembs-Neuweg, Kembs  , Kembs, Kembs-Neuweg	7.50399, 47.6877	dissl	d i ss l	disssel	d i ss s e l	2
+1126	Co P10/3, Co P10/2, Co P10/1	III_16_0059, III_16_0060, III_15_0042	Kembs-Neuweg, Kembs  , Kembs, Kembs-Neuweg	7.50399, 47.6877	dissel	d i ss e l	dissl	d i ss l	1
+1127	Co P10/3, Co P10/2, Co P10/1	III_16_0059, III_16_0060, III_15_0042	Kembs-Neuweg, Kembs  , Kembs, Kembs-Neuweg	7.50399, 47.6877	dissel	d i ss e l	disssel	d i ss s e l	1
+1128	Stra f 19	III_8_0061	Willgottheim, Willgottheim	7.51166, 48.67082	dischel	d i sch e l	deichsel	d ei ch s e l	3
+1129	Stra f 15	III_8_0059, III_8_0058	Sässolsheim, Sässolsheim	7.51503, 48.70869	dischel	d i sch e l	dichel	d i ch e l	1
+1130	Stra u 6/2, Stra u 6/1	III_10_0025	Ergersheim (wohnt seit 41 in Breitenau), Ergersheim, Ergersheim	7.52806, 48.56941	dischel	d i sch e l	dischl	d i sch l	1
+1131	Co A1/2, Co A1/1	III_14_0041	Fessenheim, Fessenheim (Gutenstein), Fessenheim	7.53712, 47.91578	dissl	d i ss l	dissel	d i ss e l	1
+1132	Stra J 12	III_11_0037	Kogenheim, Kogenheim	7.5423, 48.33798	dischl	d i sch l	dischel	d i sch e l	1
+1133	Stra u 2/1	III_9_0025	Osthofen, Osthofen	7.55672, 48.58641	dischel	d i sch e l	deichsel	d ei ch s e l	3
+1134	Co W 3, Co W 2	III_16_0068, III_16_0069	Kirchen (Efringen-Kirchen), Efringen (Efringen-Kirchen), Kirchen, Efringen	7.56471, 47.64989	diechsle	d ie ch s l e	deichsle	d ei ch s l e	2
+1135	Co W 3, Co W 2	III_16_0068, III_16_0069	Kirchen (Efringen-Kirchen), Efringen (Efringen-Kirchen), Kirchen, Efringen	7.56471, 47.64989	diegsle	d ie g s l e	diechsle	d ie ch s l e	2
+1136	Co W 3, Co W 2	III_16_0068, III_16_0069	Kirchen (Efringen-Kirchen), Efringen (Efringen-Kirchen), Kirchen, Efringen	7.56471, 47.64989	diegsle	d ie g s l e	deichsle	d ei ch s l e	3
+1137	Co W 12	III_16_0071, III_16_0070	Märkt, Märkt	7.58103, 47.627	diechsle	d ie ch s l e	diächsle	d i ä ch s l e	1
+1138	Stra f 3	III_8_0079	Mutzenhausen (Mutzenouse), Mutzenhausen	7.58822, 48.7411	dischel 	d i sch e l 	dischel	d i sch e l	1
+1139	Stra f 3	III_8_0079	Mutzenhausen (Mutzenouse), Mutzenhausen	7.58822, 48.7411	dieschel	d ie sch e l	dischel	d i sch e l	1
+1140	Stra n 15	III_9_0040	Hürtigheim, Hürtigheim	7.59369, 48.6152	dischel	d i sch e l	deichsel	d ei ch s e l	3
+1141	Stra J 4/3, Stra J 4/2, Stra J 4/1	III_11_0033	Benfeld, Benfeld	7.59385, 48.37263	dischel	d i sch e l	dissel	d i ss e l	2
+1142	Stra J 4/3, Stra J 4/2, Stra J 4/1	III_11_0033	Benfeld, Benfeld	7.59385, 48.37263	disel	d i s e l	dissel	d i ss e l	1
+1143	Stra X 5	III_12_0021	Richtolsheim, Richtolsheim	7.59489, 48.2251	disel	d i s e l	dischel	d i sch e l	2
+1144	Stra Q 8/2, Stra Q 8/1	III_11_0105	Sundhausen (Sundhouse), Sundhausen	7.60327, 48.25126	disel	d i s e l	dissel	d i ss e l	1
+1145	Stra Q 4	III_11_0101	Bindernheim, Bindernheim	7.60713, 48.28366	dissel	d i ss e l	deichsel	d ei ch s e l	3
+1146	Co W 22	III_16_0089, III_16_0090	Haltingen, Haltingen	7.61378, 47.61384	diechsle	d ie ch s l e	dichsle	d i ch s l e	1
+1147	Co W 10	III_16_0072, III_16_0073	Binzen, Binzen, Märkt	7.62403, 47.63133	diechsla	d ie ch s l a	diegsla	d ie g s l a	2
+1148	Co W 10	III_16_0072, III_16_0073	Binzen, Binzen, Märkt	7.62403, 47.63133	diechsla	d ie ch s l a	diexle	d ie x l e	4
+1149	Stra n 6	III_9_0030	Pfettisheim, Pfettisheim	7.64331, 48.66042	dischl	d i sch l	dischel	d i sch e l	1
+1150	Stra n 6	III_9_0030	Pfettisheim, Pfettisheim	7.64331, 48.66042	dischel	d i sch e l	dischl	d i sch l	1
+1151	Co e 7	III_12_0032, III_12_0031, III_12_0030	Wyhl am Kaiserstuhl, Wyhl	7.64933, 48.1663	dißlä	d i ß l ä	diesle	d ie s l e	3
+1152	Co H4	III_14_0139, III_14_0138	Dattingen, Dattingen	7.65681, 47.83383	diechsle	d ie ch s l e	diëchsle	d i ë ch s l e	1
+1153	Stra Q 3	III_11_0102	Diebolsheim, Diebolsheim	7.66174, 48.29015	diesl	d ie s l	dissl	d i ss l	1
+1154	Co W 19 , Co W 20	III_16_0079, III_16_0080, III_16_0082, III_16_0083	Lörrach, Lörrach , Lörrach, Lörrach <Adolf Hitler Schule>	7.66409, 47.61258	diechsle	d ie ch s l e	deichsle  	d ei ch s l e  	4
+1155	Co W 19 , Co W 20	III_16_0079, III_16_0080, III_16_0082, III_16_0083	Lörrach, Lörrach , Lörrach, Lörrach <Adolf Hitler Schule>	7.66409, 47.61258	diechsle	d ie ch s l e	dichsle	d i ch s l e	1
+1156	Co W 19 , Co W 20	III_16_0079, III_16_0080, III_16_0082, III_16_0083	Lörrach, Lörrach , Lörrach, Lörrach <Adolf Hitler Schule>	7.66409, 47.61258	diechsle	d ie ch s l e	dichslä	d i ch s l ä	2
+1157	Co W 19 , Co W 20	III_16_0079, III_16_0080, III_16_0082, III_16_0083	Lörrach, Lörrach , Lörrach, Lörrach <Adolf Hitler Schule>	7.66409, 47.61258	diechsle	d ie ch s l e	diĕkslĕ	d i ĕ k s l ĕ	4
+1158	Co W 19 , Co W 20	III_16_0079, III_16_0080, III_16_0082, III_16_0083	Lörrach, Lörrach , Lörrach, Lörrach <Adolf Hitler Schule>	7.66409, 47.61258	deichsle	d ei ch s l e	deichsle  	d ei ch s l e  	2
+1159	Co W 19 , Co W 20	III_16_0079, III_16_0080, III_16_0082, III_16_0083	Lörrach, Lörrach , Lörrach, Lörrach <Adolf Hitler Schule>	7.66409, 47.61258	deichsle	d ei ch s l e	dichsle	d i ch s l e	1
+1160	Co W 19 , Co W 20	III_16_0079, III_16_0080, III_16_0082, III_16_0083	Lörrach, Lörrach , Lörrach, Lörrach <Adolf Hitler Schule>	7.66409, 47.61258	deichsle	d ei ch s l e	dichslä	d i ch s l ä	2
+1161	Co W 19 , Co W 20	III_16_0079, III_16_0080, III_16_0082, III_16_0083	Lörrach, Lörrach , Lörrach, Lörrach <Adolf Hitler Schule>	7.66409, 47.61258	deichsle	d ei ch s l e	diĕkslĕ	d i ĕ k s l ĕ	4
+1162	Stra v 6	III_9_0027	Wolfisheim, Wolfisheim	7.66606, 48.58281	dischel	d i sch e l	dissel	d i ss e l	2
+1163	Hag X 13	III_7_0089	Hochstett, Hochstett	7.67779, 48.77853	dischel	d i sch e l	deichsel	d ei ch s e l	3
+1164	Co X 4	III_16_0091, III_16_0092	Haagen, Haagen	7.67898, 47.63703	diechsle	d ie ch s l e	dichsle	d i ch s l e	1
+1165	Co u 1/2, Co u 1/1	III_13_0135	Biengen, Biengen	7.68958, 47.93875	dĭssl	d ĭ ss l	disel	d i s e l	2
+1166	Co Xa 5	III_17_0039, III_17_0040, III_17_0038	Wyhlen, Wyhlen	7.69103, 47.54989	diechsle	d ie ch s l e	dichsle	d i ch s l e	1
+1167	Co Xa 5	III_17_0039, III_17_0040, III_17_0038	Wyhlen, Wyhlen	7.69103, 47.54989	diechsle	d ie ch s l e	diëchsle  	d i ë ch s l e  	3
+1168	Co Xa 5	III_17_0039, III_17_0040, III_17_0038	Wyhlen, Wyhlen	7.69103, 47.54989	diechsle	d ie ch s l e	dissel	d i ss e l	5
+1169	Co B3	III_14_0055, III_14_0056	Wettelbrunn, Wettelbrunn	7.69689, 47.87134	dissel	d i ss e l	disse̊l	d i ss e ̊ l	1
+1170	Co B4	III_14_0049	Ballrechten-Dottingen, Ballrechten	7.70076, 47.86061	dissel	d i ss e l	dichsel	d i ch s e l	2
+1171	Co f 1	III_12_0122, III_12_0120, III_12_0121	Endingen, Endingen	7.70312, 48.1419	disla	d i s l a	dissele	d i ss e l e	3
+1172	Co f 1	III_12_0122, III_12_0120, III_12_0121	Endingen, Endingen	7.70312, 48.1419	disla	d i s l a	dissel	d i ss e l	3
+1173	Co B6	III_14_0064, III_14_0063, III_14_0062	Sulzburg, Sulzburg	7.70727, 47.84122	diechsle	d ie ch s l e	diessel	d ie ss e l	4
+1174	Co J7, Co Q1	III_14_0147, III_15_0061	Malsburg, Malsburg	7.70866, 47.73257	diichsle	d ii ch s l e	diechsle	d ie ch s l e	1
+1175	Stra v 5, Stra v 4	III_10_0042	Illkirch-Grafenstaden, Illkirch-Grafenstaden	7.71183, 48.5288	dischl	d i sch l	dischel	d i sch e l	1
+1176	Stra v 5, Stra v 4	III_10_0042	Illkirch-Grafenstaden, Illkirch-Grafenstaden	7.71183, 48.5288	diēschel	d i ē sch e l	dischel	d i sch e l	1
+1177	Stra Y 1	III_12_0171	Niederhausen, Niederhausen	7.71317, 48.23982	dissel	d i ss e l	dissl	d i ss l	1
+1178	Co n 12	III_13_0048, III_13_0050, III_13_0051, III_13_0049	Bötzingen, Bötzingen	7.72593, 48.07743	dissle	d i ss l e	dißle	d i ß l e	2
+1179	Hag X 3/2, Hag X 3/1	III_7_0082	Schweighausen (Schweighouse-Sur-Moder), Schweighausen	7.73517, 48.82151	dischl	d i sch l	dischel	d i sch e l	1
+1180	Stra o 11	III_9_0065, III_9_0060, III_9_0059, III_9_0057, III_9_0063, III_9_0066, III_9_0071, III_9_0073, III_9_0062, III_9_0072, III_9_0070, III_9_0074, III_9_0069, III_9_0067, III_9_0068, III_9_0061, III_9_0058, III_9_0064	Straßburg, Straßburg	7.73609, 48.58523	dichel	d i ch e l	dissel	d i ss e l	2
+1181	Stra o 11	III_9_0065, III_9_0060, III_9_0059, III_9_0057, III_9_0063, III_9_0066, III_9_0071, III_9_0073, III_9_0062, III_9_0072, III_9_0070, III_9_0074, III_9_0069, III_9_0067, III_9_0068, III_9_0061, III_9_0058, III_9_0064	Straßburg, Straßburg	7.73609, 48.58523	dichel	d i ch e l	deichsel	d ei ch s e l	2
+1182	Stra o 11	III_9_0065, III_9_0060, III_9_0059, III_9_0057, III_9_0063, III_9_0066, III_9_0071, III_9_0073, III_9_0062, III_9_0072, III_9_0070, III_9_0074, III_9_0069, III_9_0067, III_9_0068, III_9_0061, III_9_0058, III_9_0064	Straßburg, Straßburg	7.73609, 48.58523	dichel	d i ch e l	dischel	d i sch e l	1
+1183	Stra R 11	III_11_0111, III_11_0110	Kappel a. Rh., Kappel a. Rh., Grafenhausen	7.74182, 48.29235	dissl	d i ss l	dissel	d i ss e l	1
+1184	Stra o 14	III_9_0051, III_9_0050	Straßburg-Bischheim, Straßburg-Bischheim	7.75254, 48.61483	dische̊le̊	d i sch e ̊ l e ̊	dischel	d i sch e l	3
+1185	Stra o 14	III_9_0051, III_9_0050	Straßburg-Bischheim, Straßburg-Bischheim	7.75254, 48.61483	dischl	d i sch l	dischel	d i sch e l	1
+1186	Co Xa 3	III_17_0045, III_17_0044, III_17_0046	Rheinfelden-Stadt (Baden), Rheinfelden	7.78875, 47.55945	dīchsel	d ī ch s e l	diegsle	d ie g s l e	5
+1187	Co Xa 3	III_17_0045, III_17_0044, III_17_0046	Rheinfelden-Stadt (Baden), Rheinfelden	7.78875, 47.55945	dīchsel	d ī ch s e l	diechsel	d ie ch s e l	2
+1188	Co X 14	III_16_0103, III_16_0104	Minseln, Minseln	7.79067, 47.60301	diéchsle	d i é ch s l e	diechsle	d ie ch s l e	1
+1189	Co X 14	III_16_0103, III_16_0104	Minseln, Minseln	7.79067, 47.60301	diéchsle	d i é ch s l e	diéxle	d i é x l e	3
+1190	Co X 11	III_16_0107, III_16_0108	Wiechs, Wiechs	7.81236, 47.63655	diēchsle	d i ē ch s l e	dichsle	d i ch s l e	1
+1191	Co X 11	III_16_0107, III_16_0108	Wiechs, Wiechs	7.81236, 47.63655	diēchsle	d i ē ch s l e	diechsle	d ie ch s l e	1
+1192	Co X 3	III_16_0110, III_16_0109	Schopfheim (/Grenzach, aber gestrichen), Schopfheim	7.82315, 47.64973	dieglse	d ie g l s e	diechsle	d ie ch s l e	3
+1193	Co X 3	III_16_0110, III_16_0109	Schopfheim (/Grenzach, aber gestrichen), Schopfheim	7.82315, 47.64973	dieglse	d ie g l s e	diéchsle	d i é ch s l e	4
+1194	Co u 11	III_13_0139	Merzhausen, Merzhausen	7.82532, 47.96635	dißle	d i ß l e	deichsle	d ei ch s l e	4
+1195	Co u 11	III_13_0139	Merzhausen, Merzhausen	7.82532, 47.96635	dißle	d i ß l e	diesle	d ie s l e	2
+1196	Stra D 1	III_10_0057	Kittersburg, Kittersburg	7.83346, 48.49695	dissl	d i ss l	dissel	d i ss e l	1
+1197	Co g 1	III_12_0132, III_12_0133	Emmendingen, Emmendingen	7.84951, 48.1209	dißle̊	d i ß l e ̊	disle	d i s l e	2
+1198	Co g 1	III_12_0132, III_12_0133	Emmendingen, Emmendingen	7.84951, 48.1209	dißle̊	d i ß l e ̊	dißle	d i ß l e	1
+1199	Co R9	III_15_0081, III_15_0080, III_15_0079	Zell im Wiesental, Zell im Wiesental	7.85301, 47.70753	dichsel	d i ch s e l	dïechsle	d ï e ch s l e	4
+1200	Co R9	III_15_0081, III_15_0080, III_15_0079	Zell im Wiesental, Zell im Wiesental	7.85301, 47.70753	dichsel	d i ch s e l	dīĕchsle	d ī ĕ ch s l e	4
+1201	Co R9	III_15_0081, III_15_0080, III_15_0079	Zell im Wiesental, Zell im Wiesental	7.85301, 47.70753	dichsel	d i ch s e l	dïechsel	d ï e ch s e l	2
+1202	Co v 9	III_13_0141	Horben, Horben	7.85911, 47.93223	dissle	d i ss l e	disle	d i s l e	1
+1203	Co v 9	III_13_0141	Horben, Horben	7.85911, 47.93223	dissle	d i ss l e	dißle	d i ß l e	2
+1204	Co R13	III_15_0085	Raitbach, Raitbach	7.86089, 47.68233	diachslä	d i a ch s l ä	diechsle	d ie ch s l e	2
+1205	Co R13	III_15_0085	Raitbach, Raitbach	7.86089, 47.68233	dichslä	d i ch s l ä	diechsle	d ie ch s l e	2
+1206	Hag Y 5	III_7_0105	Oberhofen (Oberhoffen-Sur-Moder), Oberhofen	7.86327, 48.78298	dischel	d i sch e l	deichsel	d ei ch s e l	3
+1207	Co o 6	III_13_0072, III_13_0074, III_13_0071, III_13_0073	Gundelfingen, Gundelfingen	7.87313, 48.04353	dissle	d i ss l e	disle	d i s l e	1
+1208	Co o 6	III_13_0072, III_13_0074, III_13_0071, III_13_0073	Gundelfingen, Gundelfingen	7.87313, 48.04353	dissle	d i ss l e	dißle	d i ß l e	2
+1209	Hag R 4	III_6_0080, III_6_0081	Schwabweiler, Schwabweiler	7.87665, 48.90207	disel	d i s e l	dissel	d i ss e l	1
+1210	Hag R 4	III_6_0080, III_6_0081	Schwabweiler, Schwabweiler	7.87665, 48.90207	disel	d i s e l	diesel	d ie s e l	1
+1211	Stra w 9/2, Stra w 9/1	III_10_0058	Hesselhurst, Hesselhurst	7.88114, 48.52042	dissel	d i ss e l	dissl	d i ss l	1
+1212	Co K14	III_14_0164, III_14_0163	Fröhnd, Fröhnd-Stutz, Fröhnd-Ittenschwand	7.88397, 47.7603	diëchsl	d i ë ch s l	diechsle	d ie ch s l e	2
+1213	Co K14	III_14_0164, III_14_0163	Fröhnd, Fröhnd-Stutz, Fröhnd-Ittenschwand	7.88397, 47.7603	diëchsl	d i ë ch s l	diexle	d ie x l e	5
+1214	Stra p 2/2, Stra p 2/1	III_9_0084	Diersheim, Diersheim	7.8874, 48.64789	dischdel	d i sch d e l	dischtl	d i sch t l	2
+1215	Hag Y 3	III_7_0097, III_7_0096	Schirrhein, Schirrhein	7.90562, 48.80154	dischel	d i sch e l	deichsel	d ei ch s e l	3
+1216	Co g 13	III_12_0126, III_12_0127	Freiamt-Reichenbach, Freiamt-Reichenbach	7.92477, 48.15747	düßle	d ü ß l e	dißle	d i ß l e	1
+1217	Co g 13	III_12_0126, III_12_0127	Freiamt-Reichenbach, Freiamt-Reichenbach	7.92477, 48.15747	düßle	d ü ß l e	dissle	d i ss l e	3
+1218	Hag C 2	III_4_0094, III_4_0093	Weißenburg (Wissembourg), Weißenburg	7.9521, 49.03733	deichsel	d ei ch s e l	dischel	d i sch e l	3
+1219	Co Ya 2	III_17_0051, III_17_0048, III_17_0053, III_17_0052, III_17_0049, III_17_0054, III_17_0055, III_17_0050	Obersäckingen, Säckingen	7.96171, 47.57476	diachsle	d i a ch s l e	diechsle	d ie ch s l e	1
+1220	Co Ya 2	III_17_0051, III_17_0048, III_17_0053, III_17_0052, III_17_0049, III_17_0054, III_17_0055, III_17_0050	Obersäckingen, Säckingen	7.96171, 47.57476	diachsle	d i a ch s l e	dichsle  	d i ch s l e  	3
+1221	Co Ya 2	III_17_0051, III_17_0048, III_17_0053, III_17_0052, III_17_0049, III_17_0054, III_17_0055, III_17_0050	Obersäckingen, Säckingen	7.96171, 47.57476	diachsle	d i a ch s l e	diegsle	d ie g s l e	3
+1222	TUTT L4/2, Co K12, TUTT L4/1, Co R15, TUTT D5	III_15_0073, III_14_0176	Todtmoos, Todtmoos (-Rütte), Todtmoos , Todtmoos	8.00438, 47.74133	diechsle	d ie ch s l e	diechsla	d ie ch s l a	1
+1223	TUTT L4/2, Co K12, TUTT L4/1, Co R15, TUTT D5	III_15_0073, III_14_0176	Todtmoos, Todtmoos (-Rütte), Todtmoos , Todtmoos	8.00438, 47.74133	diachsle	d i a ch s l e	diechsle	d ie ch s l e	1
+1224	TUTT L4/2, Co K12, TUTT L4/1, Co R15, TUTT D5	III_15_0073, III_14_0176	Todtmoos, Todtmoos (-Rütte), Todtmoos , Todtmoos	8.00438, 47.74133	diachsle	d i a ch s l e	diechsla	d ie ch s l a	2
+1225	TÜB p11	III_10_0065	Nesselried, Nesselried	8.00608, 48.52212	dißl	d i ß l	dissel	d i ss e l	3
+1226	TÜB p11	III_10_0065	Nesselried, Nesselried	8.00608, 48.52212	dißl	d i ß l	deichsel	d ei ch s e l	5
+1227	KST S2	III_7_0108	Auenheim, Auenheim	8.00818, 48.81256	dissl	d i ss l	dissel	d i ss e l	1
+1228	TUTT L6	III_15_0091, III_15_0090	Grossherrischwand, Grossherrischwand	8.01017, 47.6797	diechsle	d ie ch s l e	diëchsel	d i ë ch s e l	3
+1229	KST D11	III_5_0110, III_5_0112	Trimbach, Trimbach	8.0182, 48.94347	deisel	d ei s e l	dissel	d i ss e l	2
+1230	TÜB h1/2, TÜB h1/1	III_9_0103	Gamshurst, Gamshurst	8.0187, 48.66413	dissl	d i ss l	dissel	d i ss e l	1
+1231	TÜB S2, TÜB S1	III_12_0060, III_12_0058	Biederbach, Ober- und Unterbiederbach, Unterbiederbach, Oberbiederbach	8.02694, 48.2183	dissle	d i ss l e	dißle	d i ß l e	2
+1232	KST L2	III_6_0087	Niederrödern/Elsass, Niederrödern	8.04105, 48.90576	dischel	d i sch e l	deischel	d ei sch e l	1
+1233	KST L2	III_6_0087	Niederrödern/Elsass, Niederrödern	8.04105, 48.90576	deichsl	d ei ch s l	deischel	d ei sch e l	2
+1234	TUTT L/S7, TUTT S1	III_15_0093, III_15_0095	Strittmatt, Strittmatt und Engelschwand, Strittmatt, Engelschwand	8.04718, 47.66382	diaxla	d i a x l a	diaxel	d i a x e l	2
+1235	TUTT L/S7, TUTT S1	III_15_0093, III_15_0095	Strittmatt, Strittmatt und Engelschwand, Strittmatt, Engelschwand	8.04718, 47.66382	diͣxla	d i ͣ x l a	diaxla	d i a x l a	1
+1236	TUTT L/S7, TUTT S1	III_15_0093, III_15_0095	Strittmatt, Strittmatt und Engelschwand, Strittmatt, Engelschwand	8.04718, 47.66382	diͣxla	d i ͣ x l a	diaxel	d i a x e l	3
+1237	TUTT a4	III_12_0147, III_12_0149	Simonswald, Untersimonswald	8.04838, 48.10278	dißle	d i ß l e	disle	d i s l e	1
+1238	TUTT a4	III_12_0147, III_12_0149	Simonswald, Untersimonswald	8.04838, 48.10278	dißle	d i ß l e	diesle	d ie s l e	2
+1239	TÜB L9	III_11_0143	Hofstetten, Hofstetten	8.0713, 48.26094	dissel	d i ss e l	disle	d i s l e	2
+1240	TÜB S4	III_12_0055, III_12_0056, III_12_0057	Elzach, Elzach	8.07142, 48.17331	dißle	d i ß l e	disle	d i s l e	1
+1241	TÜB D1/1, TÜB D1/2	III_11_0069, III_11_0068	Nordrach, Nordrach	8.08082, 48.39898	dissl	d i ss l	dissel	d i ss e l	1
+1242	TÜB D1/1, TÜB D1/2	III_11_0069, III_11_0068	Nordrach, Nordrach	8.08082, 48.39898	disel	d i s e l	dissel	d i ss e l	1
+1243	TÜB w2	III_10_0066, III_10_0067	Ödsbach, Oedsbach	8.08784, 48.49713	dissel	d i ss e l	dissl	d i ss l	1
+1244	TÜB D4/2, TÜB D4/1	III_11_0075, III_11_0073, III_11_0074	Unterharmersbach, Zell am Harmersbach, Unterharmersbach	8.08843, 48.35461	diessel	d ie ss e l	disel	d i s e l	2
+1245	TÜB D4/2, TÜB D4/1	III_11_0075, III_11_0073, III_11_0074	Unterharmersbach, Zell am Harmersbach, Unterharmersbach	8.08843, 48.35461	diessel	d ie ss e l	dissel	d i ss e l	1
+1246	TÜB D4/2, TÜB D4/1	III_11_0075, III_11_0073, III_11_0074	Unterharmersbach, Zell am Harmersbach, Unterharmersbach	8.08843, 48.35461	dissel	d i ss e l	disel	d i s e l	1
+1247	TUTT L/8,9	III_15_0098, III_15_0099	Hierbach - Wilfingen, Hierbach, Wilfingen	8.09123, 47.686	diechsle	d ie ch s l e	diechsla	d ie ch s l a	1
+1248	TUTT h3, TUTT p1	III_13_0081, III_13_0080, III_13_0078, III_13_0079	St. Märgen-Schweighöfe, St. Märgen, St. Märgen	8.09239, 48.00756	disle	d i s l e	dießle	d ie ß l e	2
+1249	TUTT h3, TUTT p1	III_13_0081, III_13_0080, III_13_0078, III_13_0079	St. Märgen-Schweighöfe, St. Märgen, St. Märgen	8.09239, 48.00756	disle	d i s l e	diesle	d ie s l e	1
+1250	TUTT h3, TUTT p1	III_13_0081, III_13_0080, III_13_0078, III_13_0079	St. Märgen-Schweighöfe, St. Märgen, St. Märgen	8.09239, 48.00756	diechle	d ie ch l e	disle	d i s l e	3
+1251	TUTT h3, TUTT p1	III_13_0081, III_13_0080, III_13_0078, III_13_0079	St. Märgen-Schweighöfe, St. Märgen, St. Märgen	8.09239, 48.00756	diechle	d ie ch l e	dießle	d ie ß l e	2
+1252	TUTT h3, TUTT p1	III_13_0081, III_13_0080, III_13_0078, III_13_0079	St. Märgen-Schweighöfe, St. Märgen, St. Märgen	8.09239, 48.00756	diechle	d ie ch l e	diesle	d ie s l e	2
+1253	TUTT w3	III_14_0072	Bärental, Bärental	8.0952, 47.86975	dīsle	d ī s l e	diisle	d ii s l e	2
+1254	TUTT S5, TUTT Sa8	III_17_0060	Luttingen, Luttingen und Grunholz, Luttingen	8.09878, 47.57252	diachslä	d i a ch s l ä	diachsle	d i a ch s l e	1
+1255	TUTT S5, TUTT Sa8	III_17_0060	Luttingen, Luttingen und Grunholz, Luttingen	8.09878, 47.57252	diechsle	d ie ch s l e	diachsle	d i a ch s l e	1
+1256	KST L3	III_6_0088	Schaffhausen (Schaffhouse-près-Selz), Schaffhausen	8.10006, 48.9087	deichschl	d ei ch sch l	deichsel	d ei ch s e l	2
+1257	KST L3	III_6_0088	Schaffhausen (Schaffhouse-près-Selz), Schaffhausen	8.10006, 48.9087	deichschl	d ei ch sch l	dischle	d i sch l e	4
+1258	KST L3	III_6_0088	Schaffhausen (Schaffhouse-près-Selz), Schaffhausen	8.10006, 48.9087	deichschl	d ei ch sch l	dischel	d i sch e l	4
+1259	KST L3	III_6_0088	Schaffhausen (Schaffhouse-près-Selz), Schaffhausen	8.10006, 48.9087	däichschl	d ä i ch sch l	deichsel	d ei ch s e l	3
+1260	KST L3	III_6_0088	Schaffhausen (Schaffhouse-près-Selz), Schaffhausen	8.10006, 48.9087	däichschl	d ä i ch sch l	dischle	d i sch l e	4
+1261	KST L3	III_6_0088	Schaffhausen (Schaffhouse-près-Selz), Schaffhausen	8.10006, 48.9087	däichschl	d ä i ch sch l	dischel	d i sch e l	4
+1262	KST L3	III_6_0088	Schaffhausen (Schaffhouse-près-Selz), Schaffhausen	8.10006, 48.9087	dischel	d i sch e l	deichsel	d ei ch s e l	3
+1263	KST L3	III_6_0088	Schaffhausen (Schaffhouse-près-Selz), Schaffhausen	8.10006, 48.9087	dischel	d i sch e l	dischle	d i sch l e	2
+1264	TÜB S5, TÜB S6	III_12_0063, III_12_0062, III_12_0061, III_12_0064	Unterprechtal, Oberprechtal, Unterprechtal, Oberprechtal	8.12114, 48.20548	dißle	d i ß l e	dissĕl	d i ss ĕ l	4
+1265	TÜB S5, TÜB S6	III_12_0063, III_12_0062, III_12_0061, III_12_0064	Unterprechtal, Oberprechtal, Unterprechtal, Oberprechtal	8.12114, 48.20548	dißle	d i ß l e	dissle	d i ss l e	2
+1266	TÜB S5, TÜB S6	III_12_0063, III_12_0062, III_12_0061, III_12_0064	Unterprechtal, Oberprechtal, Unterprechtal, Oberprechtal	8.12114, 48.20548	diesle	d ie s l e	dißle	d i ß l e	2
+1267	TÜB S5, TÜB S6	III_12_0063, III_12_0062, III_12_0061, III_12_0064	Unterprechtal, Oberprechtal, Unterprechtal, Oberprechtal	8.12114, 48.20548	diesle	d ie s l e	dissĕl	d i ss ĕ l	3
+1268	TÜB S5, TÜB S6	III_12_0063, III_12_0062, III_12_0061, III_12_0064	Unterprechtal, Oberprechtal, Unterprechtal, Oberprechtal	8.12114, 48.20548	diesle	d ie s l e	dissle	d i ss l e	1
+1269	TUTT L1	III_15_0112, III_15_0111	Urberg, Urberg	8.12409, 47.73478	diächslä	d i ä ch s l ä	diachsle	d i a ch s l e	2
+1270	TÜB D2/2, TÜB D3, TÜB D2/1, TÜB E1	III_11_0077, III_11_0076	Oberharmersbach, Oberharmersbach	8.12723, 48.37386	dissl	d i ss l	dissel	d i ss e l	1
+1271	KST D4	III_5_0120, III_5_0119	Scheibenhard, Scheibenhardt, Scheibenhard	8.13481, 48.97663	deisel	d ei s e l	deisl	d ei s l	1
+1272	TUTT L12	III_15_0107, III_15_0106, III_15_0104, III_15_0105	Remetschwiel/Brunnadern, Brunnadern, Remetschwiel	8.14553, 47.68929	dechsle	d e ch s l e	diëchsle	d i ë ch s l e	2
+1273	TUTT L12	III_15_0107, III_15_0106, III_15_0104, III_15_0105	Remetschwiel/Brunnadern, Brunnadern, Remetschwiel	8.14553, 47.68929	dechsle	d e ch s l e	diechsle	d ie ch s l e	1
+1274	TUTT L12	III_15_0107, III_15_0106, III_15_0104, III_15_0105	Remetschwiel/Brunnadern, Brunnadern, Remetschwiel	8.14553, 47.68929	dechsle	d e ch s l e	dischle	d i sch l e	3
+1275	TUTT L12	III_15_0107, III_15_0106, III_15_0104, III_15_0105	Remetschwiel/Brunnadern, Brunnadern, Remetschwiel	8.14553, 47.68929	dechsle	d e ch s l e	diësle	d i ë s l e	3
+1276	KST D7	III_5_0116, III_5_0115	Münchhausen (Munchhausen), Münchhausen	8.14635, 48.92142	deisel	d ei s e l	deissel	d ei ss e l	1
+1277	KST D6	III_5_0117	Motern (Mothern), Motern	8.15128, 48.93354	deissl	d ei ss l	deissel	d ei ss e l	1
+1278	TÜB M6	III_11_0142, III_11_0141	Hausach, Hausach	8.17189, 48.28424	dissel	d i ss e l	dissl	d i ss l	1
+1279	TÜB b9, TÜB b8, TÜB b7	III_8_0112, III_8_0113	Bühlertal-Untertal, Bühlertal-Obertal, Bühlertal-Hof, Bühlertal, Bühlertal-Hof	8.19194, 48.68215	dissl	d i ss l	diessel	d ie ss e l	2
+1280	TÜB b9, TÜB b8, TÜB b7	III_8_0112, III_8_0113	Bühlertal-Untertal, Bühlertal-Obertal, Bühlertal-Hof, Bühlertal, Bühlertal-Hof	8.19194, 48.68215	dissl	d i ss l	dissel	d i ss e l	1
+1281	TÜB b9, TÜB b8, TÜB b7	III_8_0112, III_8_0113	Bühlertal-Untertal, Bühlertal-Obertal, Bühlertal-Hof, Bühlertal, Bühlertal-Hof	8.19194, 48.68215	dissel	d i ss e l	diessel	d ie ss e l	1
+1282	TÜB b9, TÜB b8, TÜB b7	III_8_0112, III_8_0113	Bühlertal-Untertal, Bühlertal-Obertal, Bühlertal-Hof, Bühlertal, Bühlertal-Hof	8.19194, 48.68215	dissel	d i ss e l	diessel	d ie ss e l	1
+1283	TÜB E2, TÜB q1	III_11_0080, ungeodnet	Seebach, Seebach	8.20278, 48.57466	dīßel	d ī ß e l	dissel	d i ss e l	3
+1284	TÜB E2, TÜB q1	III_11_0080, ungeodnet	Seebach, Seebach	8.20278, 48.57466	dīßel	d ī ß e l	diesel	d ie s e l	3
+1285	TÜB E2, TÜB q1	III_11_0080, ungeodnet	Seebach, Seebach	8.20278, 48.57466	dissl	d i ss l	dissel	d i ss e l	1
+1286	TÜB E2, TÜB q1	III_11_0080, ungeodnet	Seebach, Seebach	8.20278, 48.57466	dissl	d i ss l	diesel	d ie s e l	2
+1287	TUTT i6	III_13_0091, III_13_0092	Furtwangen (und Furtwangen-Katzensteig), Furtwangen	8.20648, 48.05227	dīsle	d ī s l e	disle	d i s l e	1
+1288	TÜB E4, TÜB M4	III_11_0147, III_11_0079	Oberwolfach, Oberwolfach, Oberwolfach-Walke	8.21698, 48.3174	diesl	d ie s l	diesel	d ie s e l	1
+1289	TÜB E4, TÜB M4	III_11_0147, III_11_0079	Oberwolfach, Oberwolfach, Oberwolfach-Walke	8.21698, 48.3174	disel	d i s e l	diesl	d ie s l	2
+1290	TÜB E4, TÜB M4	III_11_0147, III_11_0079	Oberwolfach, Oberwolfach, Oberwolfach-Walke	8.21698, 48.3174	disel	d i s e l	diesel	d ie s e l	1
+1291	TÜB M3/2, TÜB M3/1	III_11_0150	Wolfach, Wolfach	8.22076, 48.30289	diesl	d ie s l	diechsl	d ie ch s l	2
+1292	TÜB M3/2, TÜB M3/1	III_11_0150	Wolfach, Wolfach	8.22076, 48.30289	dīesl	d ī e s l	diesl	d ie s l	1
+1293	TÜB M3/2, TÜB M3/1	III_11_0150	Wolfach, Wolfach	8.22076, 48.30289	dīesl	d ī e s l	diechsl	d ie ch s l	3
+1294	TÜB T4	III_12_0068, III_12_0067	Niederwasser, Niederwasser	8.22818, 48.18982	diesle	d ie s l e	dießle	d ie ß l e	1
+1295	TÜB T2	III_12_0072, III_12_0073	Reichenbach, Reichenbach	8.22958, 48.21343	disle	d i s l e	dißle	d i ß l e	1
+1296	TÜB T2	III_12_0072, III_12_0073	Reichenbach, Reichenbach	8.22958, 48.21343	disle	d i s l e	diesle	d ie s l e	1
+1297	TUTT b4	III_12_0165, III_12_0163, III_12_0164	Triberg, Triberg	8.2316, 48.13032	diesle	d ie s l e	dichsel	d i ch s e l	4
+1298	KST T14/3, KST T14/4, KST T14/1	III_7_0131	Baden-Baden-West, Baden-Baden , Baden-Baden, Baden-Baden Weststadt	8.24094, 48.76273	deichsel	d ei ch s e l	deißel	d ei ß e l	3
+1299	KST T14/3, KST T14/4, KST T14/1	III_7_0131	Baden-Baden-West, Baden-Baden , Baden-Baden, Baden-Baden Weststadt	8.24094, 48.76273	deichsel	d ei ch s e l	dießel	d ie ß e l	4
+1300	KST T14/3, KST T14/4, KST T14/1	III_7_0131	Baden-Baden-West, Baden-Baden , Baden-Baden, Baden-Baden Weststadt	8.24094, 48.76273	daichsl	d a i ch s l	deißel	d ei ß e l	4
+1301	KST T14/3, KST T14/4, KST T14/1	III_7_0131	Baden-Baden-West, Baden-Baden , Baden-Baden, Baden-Baden Weststadt	8.24094, 48.76273	daichsl	d a i ch s l	dießel	d ie ß e l	4
+1302	KST T14/3, KST T14/4, KST T14/1	III_7_0131	Baden-Baden-West, Baden-Baden , Baden-Baden, Baden-Baden Weststadt	8.24094, 48.76273	dissel	d i ss e l	deißel	d ei ß e l	3
+1303	KST T14/3, KST T14/4, KST T14/1	III_7_0131	Baden-Baden-West, Baden-Baden , Baden-Baden, Baden-Baden Weststadt	8.24094, 48.76273	dissel	d i ss e l	dießel	d ie ß e l	2
+1304	TUTT i3	III_13_0089	Urach, Urach	8.25368, 48.00477	diesel	d ie s e l	dîsl	d î s l	3
+1305	TUTT i3	III_13_0089	Urach, Urach	8.25368, 48.00477	diesel	d ie s e l	dîsle	d î s l e	4
+1306	TUTT b5	III_12_0154, III_12_0152, III_12_0153	Nussbach, Nussbach	8.25836, 48.13097	dīsle	d ī s l e	dießle	d ie ß l e	3
+1307	TUTT b5	III_12_0154, III_12_0152, III_12_0153	Nussbach, Nussbach	8.25836, 48.13097	dīsle	d ī s l e	disel	d i s e l	3
+1308	TUTT b5	III_12_0154, III_12_0152, III_12_0153	Nussbach, Nussbach	8.25836, 48.13097	dīsle	d ī s l e	diesle	d ie s l e	2
+1309	TUTT T9	III_16_0155	Tiengen, Thiengen	8.28181, 47.63443	diehsle	d ie h s l e	diechsle	d ie ch s l e	1
+1310	TUTT i2	III_13_0087, III_13_0084, III_13_0086	Vöhrenbach, Vöhrenbach	8.30495, 48.04519	dīsel	d ī s e l	dissel	d i ss e l	2
+1311	TUTT i2	III_13_0087, III_13_0084, III_13_0086	Vöhrenbach, Vöhrenbach	8.30495, 48.04519	dīsel	d ī s e l	diesel	d ie s e l	2
+1312	TÜB x4	III_10_0144, III_10_0143	Kniebis, Kniebis	8.3101, 48.47233	dissel	d i ss e l	daesl	d a e s l	3
+1313	TUTT M6	III_14_0183, III_14_0182, III_14_0180, III_14_0181	Birkendorf, Birkendorf	8.3126, 47.74971	diägsle	d i ä g s l e	dichsle	d i ch s l e	2
+1314	TUTT M6	III_14_0183, III_14_0182, III_14_0180, III_14_0181	Birkendorf, Birkendorf	8.3126, 47.74971	diägsle	d i ä g s l e	diechsle	d ie ch s l e	3
+1315	TUTT M6	III_14_0183, III_14_0182, III_14_0180, III_14_0181	Birkendorf, Birkendorf	8.3126, 47.74971	diägsle	d i ä g s l e	diechsel	d ie ch s e l	5
+1316	TÜB x5, TÜB x6	III_10_0145	Bad Rippoldsau, Bad Rippoldsau	8.32852, 48.42806	dicksel 	d i ck s e l 	disel	d i s e l	3
+1317	TÜB x5, TÜB x6	III_10_0145	Bad Rippoldsau, Bad Rippoldsau	8.32852, 48.42806	dicksel 	d i ck s e l 	diesel	d ie s e l	3
+1318	TÜB x5, TÜB x6	III_10_0145	Bad Rippoldsau, Bad Rippoldsau	8.32852, 48.42806	diesel	d ie s e l	disel	d i s e l	1
+1319	TUTT c3	III_12_0156, III_12_0155, III_12_0157	St. Georgen, St. Georgen	8.33183, 48.12564	dīsl	d ī s l	diesl	d ie s l	2
+1320	TUTT c3	III_12_0156, III_12_0155, III_12_0157	St. Georgen, St. Georgen	8.33183, 48.12564	dīsl	d ī s l	diisl	d ii s l	2
+1321	TUTT c3	III_12_0156, III_12_0155, III_12_0157	St. Georgen, St. Georgen	8.33183, 48.12564	dīsl	d ī s l	diesel	d ie s e l	3
+1322	TÜB c1	III_25_0006, III_25_0007	Obertsrot und Hilpertsau, Hilpertsau, Obertsrot	8.34633, 48.74303	dissel	d i ss e l	dissl	d i ss l	1
+1323	TÜB c1	III_25_0006, III_25_0007	Obertsrot und Hilpertsau, Hilpertsau, Obertsrot	8.34633, 48.74303	dissel	d i ss e l	disel	d i s e l	1
+1324	KST N2, KST U6	III_24_0002	Sulzbach, Sulzbach	8.35791, 48.80596	deisel	d ei s e l	dissel	d i ss e l	2
+1325	KST N2, KST U6	III_24_0002	Sulzbach, Sulzbach	8.35791, 48.80596	dissl	d i ss l	dissel	d i ss e l	1
+1326	TUTT U14	III_38_0009, III_38_0008	Küßnach, Küssnach	8.36574, 47.59396	dichsla	d i ch s l a	dichsel	d i ch s e l	2
+1327	TUTT U14	III_38_0009, III_38_0008	Küßnach, Küssnach	8.36574, 47.59396	dichsla	d i ch s l a	dichsle	d i ch s l e	1
+1328	KST y 9, KST y 10	III_21_0001	Neureut, Neureut	8.37902, 49.05267	deixl	d ei x l	deisel	d ei s e l	2
+1329	KST y 9, KST y 10	III_21_0001	Neureut, Neureut	8.37902, 49.05267	deisl	d ei s l	deisel	d ei s e l	1
+1330	KST y 11	III_20_0008, III_20_0007	Eggenstein, Eggenstein	8.39572, 49.08482	deisel	d ei s e l	deichsel	d ei ch s e l	2
+1331	KST N4	III_23_0007	Schluttenbach, Schluttenbach	8.40022, 48.89885	deichsel	d ei ch s e l	deisel	d ei s e l	2
+1332	KST N4	III_23_0007	Schluttenbach, Schluttenbach	8.40022, 48.89885	deigsel	d ei g s e l	deisel	d ei s e l	1
+1333	KST F14/2, KST F14/1	III_22_0004, III_22_0006	Ettlingen , Ettlingen, Ettlingen	8.40245, 48.94247	deichsel	d ei ch s e l	deixel	d ei x e l	3
+1334	KST r2	III_20_0003, III_20_0004	Hochstetten, Hochstetten	8.41566, 49.13702	deisel	d ei s e l	deichsel	d ei ch s e l	2
+1335	TUTT k8	III_33_0004, III_33_0003, III_33_0005	Pfaffenweiler, Pfaffenweiler	8.41798, 48.03273	disel	d i s e l	dießl	d ie ß l	2
+1336	TUTT k8	III_33_0004, III_33_0003, III_33_0005	Pfaffenweiler, Pfaffenweiler	8.41798, 48.03273	disel	d i s e l	deißl	d ei ß l	3
+1337	TUTT U1	III_38_0003, III_38_0002	Erzingen, Erzingen	8.42011, 47.66108	diechsel	d ie ch s e l	diachsl	d i a ch s l	2
+1338	TUTT U1	III_38_0003, III_38_0002	Erzingen, Erzingen	8.42011, 47.66108	diechsel	d ie ch s e l	diassl	d i a ss l	4
+1339	Ma f1/2, Ma f1/1	II_58_0061	Mannheim-Sandhofen, Mannheim-Sandhofen, Mannheim-Sandhofen	8.44789, 49.5433	doingsl	d o i n g s l	doinxl	d o i n x l	2
+1340	Ma f1/2, Ma f1/1	II_58_0061	Mannheim-Sandhofen, Mannheim-Sandhofen, Mannheim-Sandhofen	8.44789, 49.5433	doinsel	d o i n s e l	doinxl	d o i n x l	2
+1341	KST k2	III_19_0007, III_19_0004, III_19_0005	Philippsburg, Philippsburg	8.45298, 49.235	deichsel	d ei ch s e l	deiksel	d ei k s e l	2
+1342	KST k2	III_19_0007, III_19_0004, III_19_0005	Philippsburg, Philippsburg	8.45298, 49.235	deichsel	d ei ch s e l	deichsl	d ei ch s l	1
+1343	TUTT k1	III_33_0070, III_33_0072, III_33_0069	Vilingen, Villingen	8.45901, 48.0567	dīßel	d ī ß e l	diisel	d ii s e l	3
+1344	TUTT k1	III_33_0070, III_33_0072, III_33_0069	Vilingen, Villingen	8.45901, 48.0567	dīßel	d ī ß e l	diesel	d ie s e l	3
+1345	TÜB U2	III_31_0007, III_31_0005, III_31_0006	Weiler/Villingen, Tennenbronn	8.46043, 48.17227	dīsl	d ī s l	diesl	d ie s l	2
+1346	TÜB U2	III_31_0007, III_31_0005, III_31_0006	Weiler/Villingen, Tennenbronn	8.46043, 48.17227	dīsl	d ī s l	dießel	d ie ß e l	4
+1347	TÜB U2	III_31_0007, III_31_0005, III_31_0006	Weiler/Villingen, Tennenbronn	8.46043, 48.17227	dīsl	d ī s l	diehsl	d ie h s l	3
+1348	KST N7	III_23_0004, III_23_0003	Etzenrot, Etzenrot	8.46465, 48.90968	deißel	d ei ß e l	deisel	d ei s e l	1
+1349	Ma h1/2	II_59_0045, II_59_0057, II_59_0040, II_59_0041, II_59_0061, II_59_0042, II_59_0055, II_59_0048, II_59_0058, II_59_0050, II_59_0052, II_59_0047, II_59_0059, II_59_0043, II_59_0044, II_59_0046, II_59_0049, II_59_0063, II_59_0056, II_59_0060, II_59_0062, II_59_0039	Mannheim, Mannheim	8.46678, 49.4865	deigsl	d ei g s l	deichsel	d ei ch s e l	3
+1350	Ma h1/2	II_59_0045, II_59_0057, II_59_0040, II_59_0041, II_59_0061, II_59_0042, II_59_0055, II_59_0048, II_59_0058, II_59_0050, II_59_0052, II_59_0047, II_59_0059, II_59_0043, II_59_0044, II_59_0046, II_59_0049, II_59_0063, II_59_0056, II_59_0060, II_59_0062, II_59_0039	Mannheim, Mannheim	8.46678, 49.4865	deigsl	d ei g s l	deinsel	d ei n s e l	2
+1351	Ma h1/2	II_59_0045, II_59_0057, II_59_0040, II_59_0041, II_59_0061, II_59_0042, II_59_0055, II_59_0048, II_59_0058, II_59_0050, II_59_0052, II_59_0047, II_59_0059, II_59_0043, II_59_0044, II_59_0046, II_59_0049, II_59_0063, II_59_0056, II_59_0060, II_59_0062, II_59_0039	Mannheim, Mannheim	8.46678, 49.4865	deigsl	d ei g s l	deunchsel	d e u n ch s e l	5
+1352	Ma h1/2	II_59_0045, II_59_0057, II_59_0040, II_59_0041, II_59_0061, II_59_0042, II_59_0055, II_59_0048, II_59_0058, II_59_0050, II_59_0052, II_59_0047, II_59_0059, II_59_0043, II_59_0044, II_59_0046, II_59_0049, II_59_0063, II_59_0056, II_59_0060, II_59_0062, II_59_0039	Mannheim, Mannheim	8.46678, 49.4865	deigsl	d ei g s l	doichsl	d o i ch s l	3
+1353	Ma h1/2	II_59_0045, II_59_0057, II_59_0040, II_59_0041, II_59_0061, II_59_0042, II_59_0055, II_59_0048, II_59_0058, II_59_0050, II_59_0052, II_59_0047, II_59_0059, II_59_0043, II_59_0044, II_59_0046, II_59_0049, II_59_0063, II_59_0056, II_59_0060, II_59_0062, II_59_0039	Mannheim, Mannheim	8.46678, 49.4865	deigsl	d ei g s l	deichsl	d ei ch s l	2
+1354	Ma h1/2	II_59_0045, II_59_0057, II_59_0040, II_59_0041, II_59_0061, II_59_0042, II_59_0055, II_59_0048, II_59_0058, II_59_0050, II_59_0052, II_59_0047, II_59_0059, II_59_0043, II_59_0044, II_59_0046, II_59_0049, II_59_0063, II_59_0056, II_59_0060, II_59_0062, II_59_0039	Mannheim, Mannheim	8.46678, 49.4865	deigsl	d ei g s l	deigschel	d ei g sch e l	3
+1355	Ma h1/2	II_59_0045, II_59_0057, II_59_0040, II_59_0041, II_59_0061, II_59_0042, II_59_0055, II_59_0048, II_59_0058, II_59_0050, II_59_0052, II_59_0047, II_59_0059, II_59_0043, II_59_0044, II_59_0046, II_59_0049, II_59_0063, II_59_0056, II_59_0060, II_59_0062, II_59_0039	Mannheim, Mannheim	8.46678, 49.4865	deigsl	d ei g s l	deungsel	d e u n g s e l	3
+1356	KST r6	III_20_0010	Graben, Graben	8.48928, 49.16535	deisl	d ei s l	deisel	d ei s e l	1
+1357	Ma h2/3, Ma h2/1, Ma h2/2	II_59_0064	Neckarau, Mannheim-Neckarau, Mannheim	8.49104, 49.45335	deiñchsl 	d ei ñ ch s l 	deichsel	d ei ch s e l	3
+1358	Ma h2/3, Ma h2/1, Ma h2/2	II_59_0064	Neckarau, Mannheim-Neckarau, Mannheim	8.49104, 49.45335	deingxl	d ei n g x l	deichsel	d ei ch s e l	4
+1359	Ma h2/3, Ma h2/1, Ma h2/2	II_59_0064	Neckarau, Mannheim-Neckarau, Mannheim	8.49104, 49.45335	deiñgsel	d ei ñ g s e l	deichsel	d ei ch s e l	2
+1360	KST l9	III_19_0011, III_19_0012, III_19_0009, III_19_0010	Neudorf, Neudorf	8.49692, 49.17524	deichsl	d ei ch s l	deixl  	d ei x l  	4
+1361	KST l9	III_19_0011, III_19_0012, III_19_0009, III_19_0010	Neudorf, Neudorf	8.49692, 49.17524	deichsl	d ei ch s l	deisel	d ei s e l	3
+1362	KST l9	III_19_0011, III_19_0012, III_19_0009, III_19_0010	Neudorf, Neudorf	8.49692, 49.17524	deichsl	d ei ch s l	deichsel	d ei ch s e l	1
+1363	TUTT r8	III_34_0008, III_34_0013, III_34_0009, III_34_0010, III_34_0007, III_34_0011, III_34_0012	Donaueschingen, Donaueschingen	8.50052, 47.95113	dießel	d ie ß e l	disel	d i s e l	2
+1364	TUTT r8	III_34_0008, III_34_0013, III_34_0009, III_34_0010, III_34_0007, III_34_0011, III_34_0012	Donaueschingen, Donaueschingen	8.50052, 47.95113	dießel	d ie ß e l	diesel	d ie s e l	1
+1365	KST s7	III_20_0015, III_20_0014, III_20_0013	Staffort, Staffort	8.51034, 49.09079	deisl	d ei s l	deisel	d ei s e l	1
+1366	MH z4/2, MH z4/1	II_58_0065	Mannheim-Käfertal, Käferthal	8.51715, 49.51259	deichsell	d ei ch s e ll	doingsl	d o i n g s l	5
+1367	MH z4/2, MH z4/1	II_58_0065	Mannheim-Käfertal, Käferthal	8.51715, 49.51259	deigsl	d ei g s l	doingsl	d o i n g s l	2
+1368	TUTT l2	III_33_0017, III_33_0018, III_33_0016	Bad Dürrheim, Bad Dürrheim	8.53214, 48.01807	diesel	d ie s e l	dießl	d ie ß l	2
+1369	TUTT z8	III_35_0020, III_35_0019	Blumberg, Blumberg	8.53265, 47.83981	diesel	d ie s e l	disel	d i s e l	1
+1370	TUTT z8	III_35_0020, III_35_0019	Blumberg, Blumberg	8.53265, 47.83981	diesel	d ie s e l	diehsel	d ie h s e l	1
+1371	TUTT z3	III_35_0015, III_35_0013, III_35_0014	Sumpfohren, Sumpfohren	8.53796, 47.90851	dīsel	d ī s e l	diißel	d ii ß e l	3
+1372	TUTT z3	III_35_0015, III_35_0013, III_35_0014	Sumpfohren, Sumpfohren	8.53796, 47.90851	dīsel	d ī s e l	diißĕl	d ii ß ĕ l	4
+1373	KST G1	III_22_0010, III_22_0013, III_22_0012, III_22_0011	Söllingen, Söllingen	8.5425, 48.98622	deisel	d ei s e l	deichsel	d ei ch s e l	2
+1374	KST G1	III_22_0010, III_22_0013, III_22_0012, III_22_0011	Söllingen, Söllingen	8.5425, 48.98622	deisel	d ei s e l	deisl	d ei s l	1
+1375	KST G1	III_22_0010, III_22_0013, III_22_0012, III_22_0011	Söllingen, Söllingen	8.5425, 48.98622	deisel	d ei s e l	deihsel	d ei h s e l	1
+1376	KST G1	III_22_0010, III_22_0013, III_22_0012, III_22_0011	Söllingen, Söllingen	8.5425, 48.98622	deisel	d ei s e l	deißel	d ei ß e l	1
+1377	TUTT G2/2, TUTT G2/1	III_36_0019	Epfenhofen, Epfenhofen	8.55432, 47.81867	diĕchsel	d i ĕ ch s e l	diachsel	d i a ch s e l	1
+1378	TUTT G2/2, TUTT G2/1	III_36_0019	Epfenhofen, Epfenhofen	8.55432, 47.81867	diachsal	d i a ch s a l	diachsel	d i a ch s e l	1
+1379	MH Q2	II_60_0035, II_60_0034	Schwetzingen, Schwetzingen	8.57064, 49.38567	doingsel	d o i n g s e l	doingsl	d o i n g s l	1
+1380	MH Q2	II_60_0035, II_60_0034	Schwetzingen, Schwetzingen	8.57064, 49.38567	deixl	d ei x l	doingsl	d o i n g s l	4
+1381	MH Q6	II_60_0092	Oftersheim, Oftersheim	8.58107, 49.36823	dainksel	d a i n k s e l	deinxl	d ei n x l	4
+1382	MH Q6	II_60_0092	Oftersheim, Oftersheim	8.58107, 49.36823	deichsl	d ei ch s l	deinxl	d ei n x l	3
+1383	MH Q6	II_60_0092	Oftersheim, Oftersheim	8.58107, 49.36823	deichsel	d ei ch s e l	deinxl	d ei n x l	4
+1384	KST s2	III_20_0019, III_20_0018	Bruchsal (Forstamt), Bruchsal	8.60102, 49.12377	deixel	d ei x e l	deichsel	d ei ch s e l	3
+1385	KST s2	III_20_0019, III_20_0018	Bruchsal (Forstamt), Bruchsal	8.60102, 49.12377	deixel	d ei x e l	dixsel	d i x s e l	2
+1386	KST G8	III_22_0024, III_22_0018, III_22_0020, III_22_0021, III_22_0019	Königsbach, Stein, Königsbach	8.61207, 48.96515	deisl	d ei s l	deisel	d ei s e l	1
+1387	TUTT s4, TUTT A1	III_34_0028	Geisingen (Kirchenhausen), Geisingen, Geisingen	8.65129, 47.93283	diesel	d ie s e l	dießel	d ie ß e l	1
+1388	KST l4	III_19_0018, III_19_0017, III_19_0020, III_19_0019	Mingolsheim, Mingolsheim	8.65316, 49.21986	deichsel	d ei ch s e l	deixl	d ei x l	4
+1389	KST P1	III_22_0027, III_22_0026	Ispringen , Ispringen	8.66764, 48.91655	deisel	d ei s e l	deingsel	d ei n g s e l	2
+1390	KST P2	III_23_0032, III_23_0029, III_23_0030, III_23_0031	Brötzingen, Pforzheim-Brötzingen	8.66799, 48.889	d͜eigsel	d ͜ ei g s e l	deichsel	d ei ch s e l	3
+1391	KST P2	III_23_0032, III_23_0029, III_23_0030, III_23_0031	Brötzingen, Pforzheim-Brötzingen	8.66799, 48.889	d͜eigsel	d ͜ ei g s e l	deichsl	d ei ch s l	4
+1392	TUTT H7, TUTT H12	III_36_0032, III_36_0031	Beuren a(m) R(ied), Büsslingen, Büsslingen, Beuren	8.6839, 47.79252	diēsel	d i ē s e l	diésel	d i é s e l	1
+1393	TUTT H7, TUTT H12	III_36_0032, III_36_0031	Beuren a(m) R(ied), Büsslingen, Büsslingen, Beuren	8.6839, 47.79252	diēsel	d i ē s e l	diesel	d ie s e l	1
+1394	TUTT H7, TUTT H12	III_36_0032, III_36_0031	Beuren a(m) R(ied), Büsslingen, Büsslingen, Beuren	8.6839, 47.79252	dièsel	d i è s e l	diésel	d i é s e l	1
+1395	TUTT H7, TUTT H12	III_36_0032, III_36_0031	Beuren a(m) R(ied), Büsslingen, Büsslingen, Beuren	8.6839, 47.79252	dièsel	d i è s e l	diesel	d ie s e l	1
+1396	KST P3/4, KST P3/3, KST P3/1	III_23_0043, III_23_0046, III_23_0039, III_23_0051, III_23_0050, III_23_0037, III_23_0052, III_23_0054, III_23_0040, III_23_0038, III_23_0045, III_23_0053, III_23_0041, III_23_0049, III_23_0044, III_23_0036	Pforzheim, Pforzheim	8.70025, 48.89013	deixl	d ei x l	deichsel	d ei ch s e l	4
+1397	KST P3/4, KST P3/3, KST P3/1	III_23_0043, III_23_0046, III_23_0039, III_23_0051, III_23_0050, III_23_0037, III_23_0052, III_23_0054, III_23_0040, III_23_0038, III_23_0045, III_23_0053, III_23_0041, III_23_0049, III_23_0044, III_23_0036	Pforzheim, Pforzheim	8.70025, 48.89013	deixl	d ei x l	deigsel	d ei g s e l	3
+1398	KST P3/4, KST P3/3, KST P3/1	III_23_0043, III_23_0046, III_23_0039, III_23_0051, III_23_0050, III_23_0037, III_23_0052, III_23_0054, III_23_0040, III_23_0038, III_23_0045, III_23_0053, III_23_0041, III_23_0049, III_23_0044, III_23_0036	Pforzheim, Pforzheim	8.70025, 48.89013	deixl	d ei x l	deisl	d ei s l	1
+1399	KST P3/4, KST P3/3, KST P3/1	III_23_0043, III_23_0046, III_23_0039, III_23_0051, III_23_0050, III_23_0037, III_23_0052, III_23_0054, III_23_0040, III_23_0038, III_23_0045, III_23_0053, III_23_0041, III_23_0049, III_23_0044, III_23_0036	Pforzheim, Pforzheim	8.70025, 48.89013	deixl	d ei x l	deigsl	d ei g s l	2
+1400	KST P3/4, KST P3/3, KST P3/1	III_23_0043, III_23_0046, III_23_0039, III_23_0051, III_23_0050, III_23_0037, III_23_0052, III_23_0054, III_23_0040, III_23_0038, III_23_0045, III_23_0053, III_23_0041, III_23_0049, III_23_0044, III_23_0036	Pforzheim, Pforzheim	8.70025, 48.89013	deixl	d ei x l	deisel	d ei s e l	2
+1401	KST P3/4, KST P3/3, KST P3/1	III_23_0043, III_23_0046, III_23_0039, III_23_0051, III_23_0050, III_23_0037, III_23_0052, III_23_0054, III_23_0040, III_23_0038, III_23_0045, III_23_0053, III_23_0041, III_23_0049, III_23_0044, III_23_0036	Pforzheim, Pforzheim	8.70025, 48.89013	deichsl	d ei ch s l	deichsel	d ei ch s e l	1
+1402	KST P3/4, KST P3/3, KST P3/1	III_23_0043, III_23_0046, III_23_0039, III_23_0051, III_23_0050, III_23_0037, III_23_0052, III_23_0054, III_23_0040, III_23_0038, III_23_0045, III_23_0053, III_23_0041, III_23_0049, III_23_0044, III_23_0036	Pforzheim, Pforzheim	8.70025, 48.89013	deichsl	d ei ch s l	deigsel	d ei g s e l	3
+1403	KST P3/4, KST P3/3, KST P3/1	III_23_0043, III_23_0046, III_23_0039, III_23_0051, III_23_0050, III_23_0037, III_23_0052, III_23_0054, III_23_0040, III_23_0038, III_23_0045, III_23_0053, III_23_0041, III_23_0049, III_23_0044, III_23_0036	Pforzheim, Pforzheim	8.70025, 48.89013	deichsl	d ei ch s l	deisl	d ei s l	2
+1404	KST P3/4, KST P3/3, KST P3/1	III_23_0043, III_23_0046, III_23_0039, III_23_0051, III_23_0050, III_23_0037, III_23_0052, III_23_0054, III_23_0040, III_23_0038, III_23_0045, III_23_0053, III_23_0041, III_23_0049, III_23_0044, III_23_0036	Pforzheim, Pforzheim	8.70025, 48.89013	deichsl	d ei ch s l	deigsl	d ei g s l	2
+1405	KST P3/4, KST P3/3, KST P3/1	III_23_0043, III_23_0046, III_23_0039, III_23_0051, III_23_0050, III_23_0037, III_23_0052, III_23_0054, III_23_0040, III_23_0038, III_23_0045, III_23_0053, III_23_0041, III_23_0049, III_23_0044, III_23_0036	Pforzheim, Pforzheim	8.70025, 48.89013	deichsl	d ei ch s l	deisel	d ei s e l	3
+1406	KST P3/4, KST P3/3, KST P3/1	III_23_0043, III_23_0046, III_23_0039, III_23_0051, III_23_0050, III_23_0037, III_23_0052, III_23_0054, III_23_0040, III_23_0038, III_23_0045, III_23_0053, III_23_0041, III_23_0049, III_23_0044, III_23_0036	Pforzheim, Pforzheim	8.70025, 48.89013	deigsel	d ei g s e l	deichsel	d ei ch s e l	2
+1407	KST P3/4, KST P3/3, KST P3/1	III_23_0043, III_23_0046, III_23_0039, III_23_0051, III_23_0050, III_23_0037, III_23_0052, III_23_0054, III_23_0040, III_23_0038, III_23_0045, III_23_0053, III_23_0041, III_23_0049, III_23_0044, III_23_0036	Pforzheim, Pforzheim	8.70025, 48.89013	deigsel	d ei g s e l	deisl	d ei s l	2
+1408	KST P3/4, KST P3/3, KST P3/1	III_23_0043, III_23_0046, III_23_0039, III_23_0051, III_23_0050, III_23_0037, III_23_0052, III_23_0054, III_23_0040, III_23_0038, III_23_0045, III_23_0053, III_23_0041, III_23_0049, III_23_0044, III_23_0036	Pforzheim, Pforzheim	8.70025, 48.89013	deigsel	d ei g s e l	deigsl	d ei g s l	1
+1409	KST P3/4, KST P3/3, KST P3/1	III_23_0043, III_23_0046, III_23_0039, III_23_0051, III_23_0050, III_23_0037, III_23_0052, III_23_0054, III_23_0040, III_23_0038, III_23_0045, III_23_0053, III_23_0041, III_23_0049, III_23_0044, III_23_0036	Pforzheim, Pforzheim	8.70025, 48.89013	deigsel	d ei g s e l	deisel	d ei s e l	1
+1410	TUTT J2 /2	III_36_0036, III_36_0037, III_36_0038	Schlatt (am Randen), Schlatt	8.70119, 47.76891	diäsel	d i ä s e l	diasel	d i a s e l	1
+1411	TUTT J2 /2	III_36_0036, III_36_0037, III_36_0038	Schlatt (am Randen), Schlatt	8.70119, 47.76891	diäsel	d i ä s e l	diësel	d i ë s e l	1
+1412	TUTT J2 /2	III_36_0036, III_36_0037, III_36_0038	Schlatt (am Randen), Schlatt	8.70119, 47.76891	diäsel	d i ä s e l	diasel  	d i a s e l  	3
+1413	TUTT J2 /2	III_36_0036, III_36_0037, III_36_0038	Schlatt (am Randen), Schlatt	8.70119, 47.76891	diäsel	d i ä s e l	diesel	d ie s e l	1
+1414	TUTT J2 /2	III_36_0036, III_36_0037, III_36_0038	Schlatt (am Randen), Schlatt	8.70119, 47.76891	diesel	d ie s e l	diasel	d i a s e l	1
+1415	TUTT J2 /2	III_36_0036, III_36_0037, III_36_0038	Schlatt (am Randen), Schlatt	8.70119, 47.76891	diesel	d ie s e l	diësel	d i ë s e l	1
+1416	TUTT J2 /2	III_36_0036, III_36_0037, III_36_0038	Schlatt (am Randen), Schlatt	8.70119, 47.76891	diesel	d ie s e l	diasel  	d i a s e l  	3
+1417	KST m11	III_19_0025, III_19_0024, III_19_0026	Östringen, Östringen	8.7137, 49.22037	deichsel	d ei ch s e l	deichsl	d ei ch s l	1
+1418	KST m11	III_19_0025, III_19_0024, III_19_0026	Östringen, Östringen	8.7137, 49.22037	deichsel	d ei ch s e l	deiksl	d ei k s l	3
+1419	TUTT t5	III_34_0038	Zimmern, Zimmern	8.71521, 47.94848	dīsel	d ī s e l	diißel	d ii ß e l	3
+1420	TUTT t5	III_34_0038	Zimmern, Zimmern	8.71521, 47.94848	dīsel	d ī s e l	dißel	d i ß e l	2
+1421	TUTT t1	III_34_0032	Esslingen, Esslingen	8.71709, 47.99269	diësel	d i ë s e l	diesl	d ie s l	2
+1422	TUTT t1	III_34_0032	Esslingen, Esslingen	8.71709, 47.99269	diësel	d i ë s e l	diesel	d ie s e l	1
+1423	KST H2	III_22_0032, III_22_0031	Bauschlott, Bauschlott	8.72785, 48.97051	deisel	d ei s e l	diesl	d ie s l	3
+1424	KST H2	III_22_0032, III_22_0031	Bauschlott, Bauschlott	8.72785, 48.97051	deisel	d ei s e l	diesel	d ie s e l	2
+1425	TUTT t3	III_34_0029, III_34_0031, III_34_0030	Möhringen, Möhringen	8.75916, 47.96779	deisl	d ei s l	deisel	d ei s e l	1
+1426	TUTT t3	III_34_0029, III_34_0031, III_34_0030	Möhringen, Möhringen	8.75916, 47.96779	deisl	d ei s l	deißl	d ei ß l	1
+1427	KST m5	III_19_0032, III_19_0031, III_19_0030	Michelfeld, Michelfeld	8.7808, 49.22723	deichsel	d ei ch s e l	deichsl	d ei ch s l	1
+1428	KST u5	III_20_0163, III_20_0045, III_20_0044, III_20_0042, III_20_0043	Sulzfeld, Sulzfeld	8.85671, 49.10336	deichsl	d ei ch s l	deigsl	d ei g s l	2
+1429	KST u5	III_20_0163, III_20_0045, III_20_0044, III_20_0042, III_20_0043	Sulzfeld, Sulzfeld	8.85671, 49.10336	deichsl	d ei ch s l	deichsel	d ei ch s e l	1
+1430	KST u5	III_20_0163, III_20_0045, III_20_0044, III_20_0042, III_20_0043	Sulzfeld, Sulzfeld	8.85671, 49.10336	deichsl	d ei ch s l	deigsel	d ei g s e l	3
+1431	KST n12	III_19_0038, III_19_0039	Hilsbach, Hilsbach	8.86227, 49.1957	deixel	d ei x e l	deichsel	d ei ch s e l	3
+1432	KST f1	III_18_0041, III_18_0037, III_18_0039, III_18_0040, III_18_0038	Eschelbronn, Eschelbronn	8.86825, 49.3202	deichsel	d ei ch s e l	daichsel	d a i ch s e l	1
+1433	KST f1	III_18_0041, III_18_0037, III_18_0039, III_18_0040, III_18_0038	Eschelbronn, Eschelbronn	8.86825, 49.3202	deichsel	d ei ch s e l	dischl	d i sch l	4
+1434	KST f10	III_18_0043, III_18_0044	Daisbach, Daisbach	8.87705, 49.2938	deigsl	d ei g s l	deichsel	d ei ch s e l	3
+1435	KST f10	III_18_0043, III_18_0044	Daisbach, Daisbach	8.87705, 49.2938	deigsl	d ei g s l	deigsel	d ei g s e l	1
+1436	MH K8	II_59_0097	Neckarhäuserhof, Neckarhäuserhof	8.88191, 49.41513	deichsl	d ei ch s l	deigsl	d ei g s l	2
+1437	MH K8	II_59_0097	Neckarhäuserhof, Neckarhäuserhof	8.88191, 49.41513	deichsl	d ei ch s l	deigsel	d ei g s e l	3
+1438	KST u3	III_20_0048, III_20_0049, III_20_0047, III_20_0050	Eppingen, Eppingen	8.9098, 49.13704	deichsel	d ei ch s e l	deigsl	d ei g s l	3
+1439	KST u3	III_20_0048, III_20_0049, III_20_0047, III_20_0050	Eppingen, Eppingen	8.9098, 49.13704	deichsel	d ei ch s e l	deixel	d ei x e l	3
+1440	MH S11	II_60_0067	Haag, Haag	8.92912, 49.39429	deigsl	d ei g s l	deigsĕl	d ei g s ĕ l	1
+1441	MH S11	II_60_0067	Haag, Haag	8.92912, 49.39429	deigsel	d ei g s e l	deigsĕl	d ei g s ĕ l	1
+1442	MH K5	II_59_0093, II_59_0094	Pleutersbach, Pleutersbach	8.95293, 49.45367	deigsl	d ei g s l	deichsel	d ei ch s e l	3
+1443	MH K5	II_59_0093, II_59_0094	Pleutersbach, Pleutersbach	8.95293, 49.45367	deigsl	d ei g s l	deichsl	d ei ch s l	2
+1444	TUTT B9	III_35_0049	Homberg Münchhof, Münchhöf	8.95295, 47.88032	diegsel	d ie g s e l	diechsl	d ie ch s l	3
+1445	TUTT B9	III_35_0049	Homberg Münchhof, Münchhöf	8.95295, 47.88032	diegsel	d ie g s e l	diechl	d ie ch l	3
+1446	MH K6/2, MH K6/1	II_59_0096	Allemühl, Allemühl	8.95618, 49.42613	deichsel	d ei ch s e l	deigsl	d ei g s l	3
+1447	TUTT C4, TUTT B11	III_35_0050	Mahlspüren, Mahlspüren	8.97748, 47.87563	diagsl	d i a g s l	diegsel	d ie g s e l	2
+1448	KST u1	III_20_0053, III_20_0056, III_20_0054, III_20_0055	Gemmingen, Gemmingen	8.98358, 49.15633	deichsl	d ei ch s l	deichsel	d ei ch s e l	1
+1449	KST u1	III_20_0053, III_20_0056, III_20_0054, III_20_0055	Gemmingen, Gemmingen	8.98358, 49.15633	deichsl	d ei ch s l	deigsel	d ei g s e l	3
+1450	TUTT n1	III_33_0040	Buchheim, Buchheim	8.98672, 48.011	deißel	d ei ß e l	deisel	d ei s e l	1
+1451	TUTT n1	III_33_0040	Buchheim, Buchheim	8.98672, 48.011	deißel	d ei ß e l	deichsel	d ei ch s e l	3
+1452	TUTT K7	III_36_0057, III_36_0055, III_36_0056	Liggeringen, Liggeringen	9.02698, 47.77495	diiksel	d ii k s e l	diachsel	d i a ch s e l	3
+1453	TUTT K7	III_36_0057, III_36_0055, III_36_0056	Liggeringen, Liggeringen	9.02698, 47.77495	diiksel	d ii k s e l	diexel	d ie x e l	3
+1454	TUTT K7	III_36_0057, III_36_0055, III_36_0056	Liggeringen, Liggeringen	9.02698, 47.77495	diiksel	d ii k s e l	diechsel	d ie ch s e l	3
+1455	TUTT C2/2, TUTT C2/1	III_35_0052	Zoznegg, Zoznegg	9.04053, 47.89958	diagsel	d i a g s e l	di̠e̠xel	d i ̠ e ̠ x e l	4
+1456	TUTT C2/2, TUTT C2/1	III_35_0052	Zoznegg, Zoznegg	9.04053, 47.89958	diesel	d ie s e l	di̠e̠xel	d i ̠ e ̠ x e l	3
+1457	TUTT R6	III_37_0039, III_37_0040, III_37_0038	Reichenau, Reichenau	9.06125, 47.69789	diëgsel	d i ë g s e l	diegsel	d ie g s e l	1
+1458	TUTT R6	III_37_0039, III_37_0040, III_37_0038	Reichenau, Reichenau	9.06125, 47.69789	diëgsel	d i ë g s e l	digsel	d i g s e l	1
+1459	TUTT R4	III_37_0034, III_37_0035, III_37_0033, III_37_0032	Allensbach, Allensbach	9.06699, 47.71535	diechsel	d ie ch s e l	deichsel	d ei ch s e l	2
+1460	TUTT R4	III_37_0034, III_37_0035, III_37_0033, III_37_0032	Allensbach, Allensbach	9.06699, 47.71535	diechsel	d ie ch s e l	dieͣchsel	d ie ͣ ch s e l	1
+1461	TUTT R4	III_37_0034, III_37_0035, III_37_0033, III_37_0032	Allensbach, Allensbach	9.06699, 47.71535	diechsel	d ie ch s e l	diechsl	d ie ch s l	1
+1462	TUTT R4	III_37_0034, III_37_0035, III_37_0033, III_37_0032	Allensbach, Allensbach	9.06699, 47.71535	diechsel	d ie ch s e l	diachsel	d i a ch s e l	1
+1463	TUTT R4	III_37_0034, III_37_0035, III_37_0033, III_37_0032	Allensbach, Allensbach	9.06699, 47.71535	diechsel	d ie ch s e l	dichsel	d i ch s e l	1
+1464	TUTT K11	III_36_0061, III_36_0062, III_36_0063, III_36_0064, III_36_0060	Sipplingen, Sipplingen	9.09665, 47.79525	diͣgsel	d i ͣ g s e l	diachsl	d i a ch s l	4
+1465	TUTT K11	III_36_0061, III_36_0062, III_36_0063, III_36_0064, III_36_0060	Sipplingen, Sipplingen	9.09665, 47.79525	diͣgsel	d i ͣ g s e l	diaxel	d i a x e l	3
+1466	TUTT K11	III_36_0061, III_36_0062, III_36_0063, III_36_0064, III_36_0060	Sipplingen, Sipplingen	9.09665, 47.79525	diͣgsel	d i ͣ g s e l	diechsel	d ie ch s e l	3
+1467	KST o3	III_19_0058, III_19_0057	Bad Rappenau, Bad Rappenau	9.10212, 49.24032	daichsl	d a i ch s l	deixl	d ei x l	4
+1468	KST o3	III_19_0058, III_19_0057	Bad Rappenau, Bad Rappenau	9.10212, 49.24032	daichsl	d a i ch s l	deichsel	d ei ch s e l	2
+1469	TUTT v10	III_34_0058, III_34_0057	Messkirch, Messkirch	9.11537, 47.99484	deichsel	d ei ch s e l	deixel	d ei x e l	3
+1470	TUTT v10	III_34_0058, III_34_0057	Messkirch, Messkirch	9.11537, 47.99484	deichsel	d ei ch s e l	diĕsl	d i ĕ s l	4
+1471	MH T13	II_60_0081, II_60_0082	Mosbach, Mosbach	9.14619, 49.35501	deixl	d ei x l	deichsel	d ei ch s e l	4
+1472	MH M2	II_59_0119	Laudenberg, Laudenberg	9.21457, 49.48066	deigschl	d ei g sch l	deikschl	d ei k sch l	1
+1473	MH M2	II_59_0119	Laudenberg, Laudenberg	9.21457, 49.48066	deigschl	d ei g sch l	deikschel	d ei k sch e l	2
+1474	SIG q3	III_37_0041	Oberuhldingen, Oberuhldingen	9.24549, 47.73557	diëgsl	d i ë g s l	diexl	d ie x l	3
+1475	SIG q3	III_37_0041	Oberuhldingen, Oberuhldingen	9.24549, 47.73557	diëgsl	d i ë g s l	dixl	d i x l	3
+1476	SIG g2/2, SIG g2/1	III_34_0065, III_34_0063	Pfullendorf, Pfullendorf	9.25466, 47.92614	deichsel	d ei ch s e l	deigsel	d ei g s e l	2
+1477	SIG g2/2, SIG g2/1	III_34_0065, III_34_0063	Pfullendorf, Pfullendorf	9.25466, 47.92614	deigsel	d ei g s e l	deichsel	d ei ch s e l	2
+1478	SIG n13	III_36_0083, III_36_0085, III_36_0086	Mimmenausen, Mimmenausen	9.2852, 47.76025	diagsel	d i a g s e l	diegsel	d ie g s e l	1
+1479	SIG n13	III_36_0083, III_36_0085, III_36_0086	Mimmenausen, Mimmenausen	9.2852, 47.76025	diagsel	d i a g s e l	diägsel	d i ä g s e l	1
+1480	SIG n13	III_36_0083, III_36_0085, III_36_0086	Mimmenausen, Mimmenausen	9.2852, 47.76025	diagsel	d i a g s e l	diechsel	d ie ch s e l	3
+1481	SIG n13	III_36_0083, III_36_0085, III_36_0086	Mimmenausen, Mimmenausen	9.2852, 47.76025	digsel	d i g s e l	diegsel	d ie g s e l	1
+1482	SIG n13	III_36_0083, III_36_0085, III_36_0086	Mimmenausen, Mimmenausen	9.2852, 47.76025	digsel	d i g s e l	diägsel	d i ä g s e l	1
+1483	SIG n13	III_36_0083, III_36_0085, III_36_0086	Mimmenausen, Mimmenausen	9.2852, 47.76025	digsel	d i g s e l	diechsel	d ie ch s e l	3
+1484	SIG q6	III_37_0045, III_37_0046	Ahausen, Ahausen	9.32247, 47.72502	diëgsl	d i ë g s l	diexl	d ie x l	3
+1485	SIG q6	III_37_0045, III_37_0046	Ahausen, Ahausen	9.32247, 47.72502	diëgsl	d i ë g s l	dixl	d i x l	3
+1486	SIG q6	III_37_0045, III_37_0046	Ahausen, Ahausen	9.32247, 47.72502	digsl	d i g s l	diexl	d ie x l	2
+1487	SIG q6	III_37_0045, III_37_0046	Ahausen, Ahausen	9.32247, 47.72502	digsl	d i g s l	dixl	d i x l	2
+1488	SIG r1	III_36_0092	Mittelstenweiler, Mittelstenweiler	9.33753, 47.75241	diechsel	d ie ch s e l	diesel	d ie s e l	2
+1489	MH o8/2, MH o8/1	II_89_0005	Ebenheid, Ebenheid	9.36095, 49.7158	deistl	d ei s t l	deissel	d ei ss e l	2
+1490	MH o8/2, MH o8/1	II_89_0005	Ebenheid, Ebenheid	9.36095, 49.7158	deisel	d ei s e l	deissel	d ei ss e l	1
+1491	MH E2	II_91_0001	Hettingen, Hettingen	9.36644, 49.5194	deischel	d ei sch e l	deichsel	d ei ch s e l	2
+1492	MH E2	II_91_0001	Hettingen, Hettingen	9.36644, 49.5194	deischel	d ei sch e l	deigschel	d ei g sch e l	1
+1493	MH N4/2, MH N4/1	II_92_0004	Zimmern, Zimmern	9.37304, 49.43313	deichsel	d ei ch s e l	deigschel	d ei g sch e l	3
+1494	MH N4/2, MH N4/1	II_92_0004	Zimmern, Zimmern	9.37304, 49.43313	deigsel	d ei g s e l	deigschel	d ei g sch e l	2
+1495	SIG r3	III_37_0052, III_37_0054, III_37_0053, III_37_0055	Markdorf, Markdorf	9.38933, 47.72088	diéxel	d i é x e l	diechsl	d ie ch s l	4
+1496	SIG r3	III_37_0052, III_37_0054, III_37_0053, III_37_0055	Markdorf, Markdorf	9.38933, 47.72088	diéxel	d i é x e l	diäxsel	d i ä x s e l	2
+1497	SIG r3	III_37_0052, III_37_0054, III_37_0053, III_37_0055	Markdorf, Markdorf	9.38933, 47.72088	diéxel	d i é x e l	deichsel	d ei ch s e l	4
+1498	SIG r3	III_37_0052, III_37_0054, III_37_0053, III_37_0055	Markdorf, Markdorf	9.38933, 47.72088	diéxel	d i é x e l	diegsel	d ie g s e l	3
+1499	MH N5	II_92_0007, II_92_0006	Osterburken, Osterburken	9.42838, 49.4308	deickschel	d ei ck sch e l	deichsel	d ei ch s e l	3
+1500	MH N5	II_92_0007, II_92_0006	Osterburken, Osterburken	9.42838, 49.4308	deickschel	d ei ck sch e l	deichschel	d ei ch sch e l	1
+1501	MH E4	II_91_0003	Altheim, Altheim	9.4436, 49.51915	deischel	d ei sch e l	deischl	d ei sch l	1
+1502	MH E4	II_91_0003	Altheim, Altheim	9.4436, 49.51915	deichschel	d ei ch sch e l	deischl	d ei sch l	3
+1503	MH E6	II_91_0123, II_91_0005	Bretzingen, Bretzingen	9.48682, 49.57826	deigschel	d ei g sch e l	deischl	d ei sch l	2
+1504	MH E6	II_91_0123, II_91_0005	Bretzingen, Bretzingen	9.48682, 49.57826	deigschel	d ei g sch e l	deischl	d ei sch l	2
+1505	MH o5	II_89_0011, II_89_0010, II_89_0009	Sachsenhausen, Sachsenhausen	9.49147, 49.73223	daisl	d a i s l	deisel	d ei s e l	2
+1506	MH o5	II_89_0011, II_89_0010, II_89_0009	Sachsenhausen, Sachsenhausen	9.49147, 49.73223	daisl	d a i s l	deisl	d ei s l	1
+1507	MH o5	II_89_0011, II_89_0010, II_89_0009	Sachsenhausen, Sachsenhausen	9.49147, 49.73223	daisl	d a i s l	deißl	d ei ß l	2
+1508	MH x7	II_90_0009	Schweinberg, Schweinberg	9.52459, 49.61864	deischel	d ei sch e l	deitschel	d ei t sch e l	1
+1509	MH x7	II_90_0009	Schweinberg, Schweinberg	9.52459, 49.61864	deischel	d ei sch e l	deigschl	d ei g sch l	2
+1510	MH x7	II_90_0009	Schweinberg, Schweinberg	9.52459, 49.61864	deigschel	d ei g sch e l	deischel	d ei sch e l	1
+1511	MH x7	II_90_0009	Schweinberg, Schweinberg	9.52459, 49.61864	deigschel	d ei g sch e l	deitschel	d ei t sch e l	1
+1512	MH x7	II_90_0009	Schweinberg, Schweinberg	9.52459, 49.61864	deigschel	d ei g sch e l	deigschl	d ei g sch l	1
+1513	MH W4	II_93_0019	Oberndorf, Oberndorf	9.59181, 49.40817	deigschl	d ei g sch l	deigschel	d ei g sch e l	1
+1514	MH O5	II_92_0020, II_92_0021, II_92_0019	Schwabhausen, Schwabhausen	9.60196, 49.45569	deigschel	d ei g sch e l	deigschl	d ei g sch l	1
+1515	MH O5	II_92_0020, II_92_0021, II_92_0019	Schwabhausen, Schwabhausen	9.60196, 49.45569	deigschel	d ei g sch e l	deichschel	d ei ch sch e l	2
+1516	MH O6	II_92_0016, II_92_0015, II_92_0018, II_92_0017	Windischbuch, Windischbuch	9.62194, 49.43593	diechschel	d ie ch sch e l	deikschl	d ei k sch l	4
+1517	MH O6	II_92_0016, II_92_0015, II_92_0018, II_92_0017	Windischbuch, Windischbuch	9.62194, 49.43593	diechschel	d ie ch sch e l	deigschl	d ei g sch l	4
+1518	MH O6	II_92_0016, II_92_0015, II_92_0018, II_92_0017	Windischbuch, Windischbuch	9.62194, 49.43593	diechschel	d ie ch sch e l	deigschel	d ei g sch e l	3
+1519	MH O10	II_92_0023, II_92_0025, II_92_0024	Wölchingen, Wölchingen	9.63011, 49.48494	deigschel	d ei g sch e l	deigschl	d ei g sch l	1
+1520	MH x2	II_90_0020, II_90_0018, II_90_0019, II_90_0017	Hochhausen, Hochhausen	9.63526, 49.6621	deisel	d ei s e l	deichsel	d ei ch s e l	2
+1521	MH p7	II_89_0031, II_89_0030, II_89_0032	Werbach, Werbach	9.63871, 49.67029	deichsel	d ei ch s e l	deigsel  	d ei g s e l  	4
+1522	MH p7	II_89_0031, II_89_0030, II_89_0032	Werbach, Werbach	9.63871, 49.67029	deichsel	d ei ch s e l	deixel	d ei x e l	3
+1523	MH p7	II_89_0031, II_89_0030, II_89_0032	Werbach, Werbach	9.63871, 49.67029	deichsel	d ei ch s e l	deigsel	d ei g s e l	2
+1524	MH P4	II_92_0030, II_92_0031, II_92_0029, II_92_0032	Assamstadt, Assamstadt	9.68738, 49.42689	deigschel	d ei g sch e l	deitschel	d ei t sch e l	1
+1525	MH P4	II_92_0030, II_92_0031, II_92_0029, II_92_0032	Assamstadt, Assamstadt	9.68738, 49.42689	deigschel	d ei g sch e l	daigschl  	d a i g sch l  	4
+1526	MH P4	II_92_0030, II_92_0031, II_92_0029, II_92_0032	Assamstadt, Assamstadt	9.68738, 49.42689	deigschel	d ei g sch e l	deichsel	d ei ch s e l	3
+1527	MH G7/2, MH G7/1	II_91_0032	Oberbalbach, Oberbalbach	9.7938, 49.53997	daigschel	d a i g sch e l	deigschl	d ei g sch l	2
+1528	MH G7/2, MH G7/1	II_91_0032	Oberbalbach, Oberbalbach	9.7938, 49.53997	deigschel	d ei g sch e l	deigschl	d ei g sch l	1

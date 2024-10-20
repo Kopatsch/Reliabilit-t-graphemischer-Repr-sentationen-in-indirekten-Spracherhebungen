@@ -1,0 +1,25 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_maurer_align	item_DWA	item_DWA_align	Levenshtein_item
+0	Ma f1/1	II_58_0061	Mannheim-Sandhofen, Mannheim-Sandhofen, Mannheim-Sandhofen	8.44789, 49.5433	schbell	sch b e ll	spelle	s p e ll e	4
+1	Ma h2/3, Ma h2/1	II_59_0064	Neckarau, Mannheim-Neckarau, Mannheim	8.49104, 49.45335	schpell	sch p e ll	spell	s p e ll	2
+2	MH z4/2, MH z4/1	II_58_0065, II_58_0066	Mannheim-Käfertal, Käferthal	8.51715, 49.51259	schbell	sch b e ll	schbällä	sch b ä ll ä	2
+3	MH H10/1	II_59_0074	Rheinau, Rheinau	8.53056, 49.42924	schbell	sch b e ll	spell	s p e ll	3
+4	MH H2	II_59_0067	Feudenheim, Feudenheim	8.53299, 49.4864	schbell	sch b e ll	spell	s p e ll	3
+5	MH H6	II_59_0068	Seckenheim, Seckenheim	8.56313, 49.46724	schpell	sch p e ll	schbell	sch b e ll	1
+6	MH Q6	II_60_0092	Oftersheim, Oftersheim	8.58107, 49.36823	spelle	s p e ll e	spell	s p e ll	1
+7	MH H5	II_59_0072	Neckarhausen, Neckarhausen	8.60233, 49.46433	schpell	sch p e ll	spell	s p e ll	2
+8	MH z2	II_58_0069	Großsachsen, Grosssachsen	8.6595, 49.51193	spell	s p e ll	späll	s p ä ll	1
+9	MH J3/1, MH J3/2	II_59_0077	Handschuhsheim, Heidelberg-Handschuhsheim, Heidelberg-Handschuhsheim	8.68613, 49.42774	spell	s p e ll	spelle	s p e ll e	1
+10	KST e1	III_18_0022	Nussloch, Nussloch	8.69576, 49.32301	schbell	sch b e ll	spell	s p e ll	3
+11	MH A4	II_58_0076	Rippenweier, Rippenweier	8.70861, 49.50646	schpelle	sch p e ll e	spell	s p e ll	3
+12	MH J4	II_59_0079	Ziegelhausen, Ziegelhausen	8.75688, 49.41876	schbell	sch b e ll	spell	s p e ll	3
+13	MH J10	II_59_0082	Heiligkreuzsteinach, Heiligkreuzsteinach	8.79709, 49.48538	schbell	sch b e ll	spell	s p e ll	3
+14	MH J13	II_59_0084	Schönau bei Heidelberg, Schönau	8.80977, 49.43706	schbelle	sch b e ll e	schpell	sch p e ll	2
+15	Ma h1/2	II_59_0053, II_59_0061, II_59_0044, II_59_0057, II_59_0043, II_59_0040, II_59_0048, II_59_0058, II_59_0050, II_59_0052, II_59_0047, II_59_0056, II_59_0060, II_59_0059, II_59_0039	Mannheim, Mannheim	8.46678, 49.4865	spell	s p e ll	schbell	sch b e ll	3
+16	Ma h1/2	II_59_0053, II_59_0061, II_59_0044, II_59_0057, II_59_0043, II_59_0040, II_59_0048, II_59_0058, II_59_0050, II_59_0052, II_59_0047, II_59_0056, II_59_0060, II_59_0059, II_59_0039	Mannheim, Mannheim	8.46678, 49.4865	spell	s p e ll	spelle	s p e ll e	1
+17	Ma h2/3, Ma h2/1	II_59_0064	Neckarau, Mannheim-Neckarau, Mannheim	8.49104, 49.45335	schpelle	sch p e ll e	spell	s p e ll	3
+18	Ma h2/3, Ma h2/1	II_59_0064	Neckarau, Mannheim-Neckarau, Mannheim	8.49104, 49.45335	schpell	sch p e ll	spell	s p e ll	2
+19	MH z4/2, MH z4/1	II_58_0065, II_58_0066	Mannheim-Käfertal, Käferthal	8.51715, 49.51259	schpäll	sch p ä ll	schbell	sch b e ll	2
+20	MH z4/2, MH z4/1	II_58_0065, II_58_0066	Mannheim-Käfertal, Käferthal	8.51715, 49.51259	schpäll	sch p ä ll	schbällä	sch b ä ll ä	2
+21	MH z4/2, MH z4/1	II_58_0065, II_58_0066	Mannheim-Käfertal, Käferthal	8.51715, 49.51259	schbell	sch b e ll	schbällä	sch b ä ll ä	2
+22	MH J13	II_59_0084	Schönau bei Heidelberg, Schönau	8.80977, 49.43706	schbelle	sch b e ll e	schpelle	sch p e ll e	1
+23	MH J13	II_59_0084	Schönau bei Heidelberg, Schönau	8.80977, 49.43706	schbelle	sch b e ll e	schpell	sch p e ll	2

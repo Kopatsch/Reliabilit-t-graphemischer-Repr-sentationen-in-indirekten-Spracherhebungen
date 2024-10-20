@@ -1,0 +1,577 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_maurer_align	item_DWA	item_DWA_align	Levenshtein_item
+0	Co D6	III_14_0081	Sewen, Sewen	6.90688, 47.80694	schōrmüß	sch ō r m ü ß	scharrmüß	sch a rr m ü ß	2
+1	Co D1	III_14_0082	Dollern (Dolleren), Dollern	6.93211, 47.80559	schōrmüss	sch ō r m ü ss	schormüss	sch o r m ü ss	1
+2	Co D2	III_14_0083	Oberbruck, Oberbruck	6.94324, 47.80838	schormǖs	sch o r m ǖ s	scharmaus	sch a r m a u s	3
+3	Co w 5	III_14_0001	Urbis, St, Amarintal (Urbès), Urbis	6.95521, 47.88255	scharrmus	sch a rr m u s	scharmüss	sch a r m ü ss	3
+4	Co p 1	III_13_0095	Krüt (Kruth), Krüt	6.96629, 47.92912	scharmus	sch a r m u s	scharmüs	sch a r m ü s	1
+5	Co D8	III_14_0085	Niederbruck, Niederbruck	6.97173, 47.78361	scharrmüs	sch a rr m ü s	scharmüs	sch a r m ü s	1
+6	Co w 4	III_14_0003	Mollau , Mollau	6.97488, 47.87245	schärrmuss	sch ä rr m u s s	schermus	sch e r m u s	3
+7	Co w 1	III_14_0004	Oderen, Odern	6.97525, 47.91008	schärmuus	sch ä r m uu s	scharrmus	sch a rr m u s	3
+8	Co w 3	III_14_0006	Hüsseren-Wesserling (Husseren-Wesserling), Hüssern-Wesserling	6.98836, 47.88519	scharmus	sch a r m u s	schermaus	sch e r m a u s	2
+9	Co x 2	III_14_0007	Mitzach, Mitzach	7.00519, 47.87122	scharrmūs	sch a rr m ū s	scharrmus	sch a rr m u s	1
+10	Co x 1	III_14_0008	Ranspach, Ranspach	7.01113, 47.88081	scharmus	sch a r m u s	scharmuss	sch a r m u ss	1
+11	Co x 3	III_14_0010	Malmerspach, Malmerspach	7.03487, 47.86486	scharmuß	sch a r m u ß	scharmüs	sch a r m ü s	2
+12	Co x 6	III_14_0011	Moosch, Moosch	7.04865, 47.86081	scharrmüs	sch a rr m ü s	scha̠rrmüß	sch a ̠ rr m ü ß	2
+13	Co E3	III_14_0090	Sentheim, Sentheim	7.0544, 47.75581	schārmǖs	sch ā r m ǖ s	schǟrmuus	sch ǟ r m uu s	3
+14	Co M2	III_15_0001	Obersulzbach Kreis Tann (Soppe-Le-Haut), Obersulzbach <Morzweiler> Morzweiler steht nur auf S,1	7.05724, 47.73372	schārmüs	sch ā r m ü s	scharmüs	sch a r m ü s	1
+15	Co x 9	III_14_0013	Geishausen, Geishausen	7.05832, 47.88017	scharmus	sch a r m u s	schårmus	sch å r m u s	1
+16	Co T9	III_16_0014	Gottestal, Luttern (Valdieu-Lutran), Gottestal	7.05852, 47.63139	scharrmüs	sch a rr m ü s	scharmüs	sch a r m ü s	1
+17	Co x 4	III_14_0012	Weiler, Weiler	7.07073, 47.84351	schărmus	sch a ̆ r m u s	scharmüs	sch a r m ü s	2
+18	Co E13	III_14_0092	Rammersmatt, Rammersmatt	7.07084, 47.78935	schārrmǖs	sch ā rr m ǖ s	schearmües	sch e a r m ü e s	4
+19	Co E9	III_14_0089	Tann-Bitschweiler (Bitschwiller-Lès-Thann), Bitschweiler	7.07947, 47.82929	scharrmüs	sch a rr m ü s	scharmüs	sch a r m ü s	1
+20	Co E6	III_14_0093	Leimbach, Leimbach	7.09999, 47.79305	scharmüs	sch a r m ü s	schahrmuus	sch a h r m uu s	3
+21	Co x 7	III_14_0014	Goldbach-Altenbach, Goldbach-Altenbach	7.10326, 47.87359	schaarmüüs	sch aa r m ü ü s	schermüs	sch e r m ü s	3
+22	Co E7	III_14_0094	Tann (Thann), Thann	7.10335, 47.81019	schārmüs	sch ā r m ü s	scharmüs	sch a r m ü s	1
+23	Co T12	III_16_0002	Altenach, Altenach	7.11466, 47.60658	schârmus	sch â r m u s	scharmüs	sch a r m ü s	2
+24	Co T13	III_16_0003	St, Ulrich bei Dammerkirch, St, Ulrich	7.11911, 47.59537	scharmüs	sch a r m ü s	schaᵉrmūes	sch a ᵉ r m ū e s	3
+25	Co T6	III_16_0018	Dammerkirch (Dannemarie), Dammerkirch	7.1214, 47.63024	schaarmüüs	sch aa r m ü ü s	scharmüs	sch a r m ü s	2
+26	Co q 1	III_13_0098	Lintal (Linthal, Kreis Tann), Lintal	7.12943, 47.94619	schaarmis	sch aa r m i s	scharmüs	sch a r m ü s	2
+27	Co M8	III_15_0011, III_15_0010	Gildweiler (Gildwiller), Falkweiler, Hecken, Falkweiler, Gildweiler	7.13461, 47.6894	scharmǟs	sch a r m ǟ s	scharmaus	sch a r m a u s	2
+28	Co E12	III_14_0096	Steinbach, Steinbach	7.15487, 47.82041	scharmüs	sch a r m ü s	schaarmüs	sch aa r m ü s	1
+29	Co x 8	III_14_0015	Rimbach bei Gebweiler (Rimbach-près-Guebwiller), Rimbach	7.15658, 47.90483	schārmǖs	sch ā r m ǖ s	scharmus	sch a r m u s	2
+30	Co q 2	III_13_0100	Lautenbach (Kreis Tann), Lautenbach	7.15877, 47.9414	schārmüs	sch ā r m ü s	scharmüs	sch a r m ü s	1
+31	Co q 3	III_13_0011	Wasserburg Kreis Colmar (Wasserbourg), Wasserburg	7.15948, 48.00283	scharmüs	sch a r m ü s	scheermaus	sch ee r m a u s	4
+32	Co q 6	III_13_0101	Murbach, Murbach	7.1604, 47.92318	schārmüs	sch ā r m ü s	scharrmaus	sch a rr m a u s	4
+33	Co N1	III_14_0100	Schweighausem (Schweighouse-Thann), Schweighausen	7.16714, 47.75272	schärmus	sch ä r m u s	schaͤ̄rmüs	sch a ͤ ̄ r m ü s	4
+34	Co r 6	III_13_0107	Schweighausen Kreis Gebweiler (Schweighouse bei Lautenbach), Schweighausen	7.17716, 47.93851	scharrmǖs	sch a rr m ǖ s	scharmüs	sch a r m ü s	2
+35	Co F1	III_14_0101	Uffholz, Uffholz	7.17804, 47.81981	schārmüß	sch ā r m ü ß	scharmüß	sch a r m ü ß	1
+36	Co r 9	III_13_0103	Bühl Landkreis Gebweiler (Buhl), Bühl	7.18638, 47.92816	scharmüs	sch a r m ü s	scharmuss	sch a r m u ss	2
+37	Co N13	III_15_0029	Enschingen (Saint-Bernard), Enschingen	7.20293, 47.67101	schārmūs	sch ā r m ū s	scharmaus	sch a r m a u s	3
+38	Co U 6	III_16_0028	Karspach (Carspach), Karspach	7.21307, 47.61448	scharmus	sch a r m u s	scharmüs	sch a r m ü s	1
+39	Co r 2	III_13_0104	Osenbach, Osenbach	7.21903, 47.98623	schārmüs	sch ā r m ü s	schermüs	sch e r m ü s	1
+40	Co N15	III_15_0021	Heimsbrunn, Heimsbrunn	7.22696, 47.72682	scharmüs	sch a r m ü s	scharmus	sch a r m u s	1
+41	Co r 7/2	III_13_0106	Orschweier (Orschwihr), Orschweier	7.23248, 47.9323	scharmus	sch a r m u s	scharmüs	sch a r m ü s	1
+42	Co U 5	III_16_0027	Aspach, Aspach	7.23354, 47.6401	scharmüs	sch a r m ü s	scharmüß	sch a r m ü ß	1
+43	Co r 8/1	III_13_0108	Sulzmatt (Soultzmatt), Sulzmatt	7.23437, 47.96595	schārmüs	sch ā r m ü s	scharmüs	sch a r m ü s	1
+44	Co U 7/1, Co U 7/2	III_16_0029	Altkirch, Altkirch	7.24009, 47.62592	scharmüs	sch a r m ü s	schaarmühs	sch aa r m ü h s	2
+45	Co Ua 1	III_17_0005	Heimersdorf, Heimersdorf	7.24206, 47.57224	scharmūs	sch a r m ū s	scharmüs	sch a r m ü s	1
+46	Co U 13	III_16_0034	Hisingen (Hirsingue), Hirsingen	7.25483, 47.58601	schaarmühs	sch aa r m ü h s	scharmus	sch a r m u s	3
+47	Co Ub 2	III_17_0011	Mörnach (Mœrnach), Mörnach	7.25681, 47.50213	scharmüs	sch a r m ü s	schermaus	sch e r m a u s	3
+48	Co U 4	III_16_0026	Walheim, Walheim	7.26432, 47.63975	schārmüs	sch ā r m ü s	schaᵉrmuus	sch a ᵉ r m uu s	4
+49	Co N3	III_15_0016	Niedermorschweiler (Morschwiller-Le-Bas), Niedermorschweiler	7.26699, 47.73596	schārmüs	sch ā r m ü s	schārmis	sch ā r m i s	1
+50	Co N10	III_15_0026, III_15_0025	Frönigen, Fröningen	7.26801, 47.69023	schārmüs	sch ā r m ü s	scharmüs	sch a r m ü s	1
+51	Co y 15	III_14_0026, III_14_0025	Feldkirch, Feldkirch	7.27197, 47.86504	schaarmüs	sch aa r m ü s	scharrmüs	sch a rr m ü s	1
+52	Co U 8	III_16_0030	Wittersdorf, Wittersdorf	7.27817, 47.62015	scharrmüs	sch a rr m ü s	scharmüs	sch a r m ü s	1
+53	Stra O 5	III_11_0082	Leberau (Lièpvre), Leberau	7.28169, 48.2709	schaarmüs	sch aa r m ü s	scharmus	sch a r m u s	2
+54	Co U 2	III_16_0023	Lümschweiler (Luemschwiller) und Tagolsheim, Tagolsheim	7.28747, 47.65547	schārmǖs	sch ā r m ǖ s	scharmus	sch a r m u s	2
+55	Co N6	III_15_0019	Zillisheim, Zillisheim	7.29485, 47.69387	schārmǖs	sch ā r m ǖ s	scharmüs	sch a r m ü s	2
+56	Co y 7	III_14_0033	Pulversheim, Pulversheim	7.30181, 47.83432	schārmüs	sch ā r m ü s	schamüs	sch a m ü s	2
+57	Co U 10	III_16_0032	Tagsdorf, Tagsdorf	7.30232, 47.62138	scharmüs	sch a r m ü s	scherrmaus	sch e rr m a u s	4
+58	Co Ua 9	III_17_0029	Waldighofen, Waldighofen	7.31605, 47.55061	scharmüs	sch a r m ü s	scheermaus	sch ee r m a u s	4
+59	Co Ua 8	III_17_0008	Roppenzweiler (Roppenzwiller), Roppenzweiler	7.33206, 47.54091	scharrmǖs	sch a rr m ǖ s	scharrmüs	sch a rr m ü s	1
+60	Co Vd 1	III_17_0067	Sondersdorf, Sondersdorf	7.33509, 47.48234	schårmus	sch å r m u s	schärmus	sch ä r m u s	1
+61	Co G3	III_14_0123	Kingersheim, Kingersheim	7.33579, 47.79025	schärmüs	sch ä r m ü s	schàrmüs	sch à r m ü s	1
+62	Co Va 10	III_17_0009	Dürmenach (Durmenach), Dürmenach	7.3374, 47.5271	schààrmüüs	sch àà r m ü ü s	schä̀rmǜǜs	sch a ̈ ̀ r m u ̈ ̀ u ̈ ̀ s	9
+63	Co G2	III_14_0124	Wittenheim, Wittenheim	7.33993, 47.81085	schārmüs	sch ā r m ü s	scharmüs	sch a r m ü s	1
+64	Co F7/1	III_14_0107, III_14_0121, III_14_0119, III_14_0115, III_14_0111, III_14_0116, III_14_0113, III_14_0118, III_14_0120, III_14_0117, III_14_0114, III_14_0109, III_14_0110	Mülhausen, Mülhausen	7.34375, 47.7517	scharmüß	sch a r m ü ß	scharmüss	sch a r m ü ss	2
+65	Co V 1	III_16_0048	Obersteinbrunn (Steinbrunn-le-Haut), Obersteinbrunn	7.3467, 47.65852	scharmüs	sch a r m ü s	scharrmüs	sch a rr m ü s	1
+66	Co Vd 9	III_17_0077	Kiffis, Kiffis	7.35848, 47.4405	scharmeüs	sch a r m e ü s	scharmüs	sch a r m ü s	1
+67	Co G8/1, Co G8/2	III_14_0129	Modenheim, Modenheim	7.35997, 47.76894	scharmüs	sch a r m ü s	schermaus	sch e r m a u s	3
+68	Co O8	III_15_0035	Niedersteinbrunn (Steinbrunn-Le-Bas), Niedersteinbrunn	7.36609, 47.67219	scharmüs	sch a r m ü s	scharmûs	sch a r m û s	1
+69	Co G5	III_14_0126	Sausheim, Sausheim	7.3698, 47.78852	schahrmühs	sch a h r m ü h s	schaarmüs	sch aa r m ü s	2
+70	Co G9	III_14_0128	Battenheim, Battenheim	7.38278, 47.81739	schārmǖs	sch ā r m ǖ s	schārmǖs	sch ā r m ü ̄ s	2
+71	Co Va 12	III_17_0032	Fislis, Fislis	7.38288, 47.50419	schārmǖs	sch ā r m ǖ s	scharmüs	sch a r m ü s	2
+72	Co O3	III_15_0039	Zimmersheim, Zimmersheim	7.38892, 47.72013	schārmüs	sch ā r m ü s	schahrmus	sch a h r m u s	3
+73	Co O7	III_15_0036	Landser, Landser	7.39601, 47.68637	schärmüs	sch ä r m ü s	schärmus	sch ä r m u s	1
+74	Co O1/2, Co O1/1	III_15_0031, III_15_0032	Rixheim, Napoleoninsel Rixheim, Rixheim	7.39739, 47.74412	schārmüs	sch ā r m ü s	scharmüs	sch a r m ü s	1
+75	Co O10	III_15_0040	Eschenzweiler (Eschentzwiller), Eschenzweiler	7.39812, 47.71239	schå̄rmüs	sch å ̄ r m ü s	schārmüs	sch ā r m ü s	2
+76	Co O5	III_15_0037	Dietenweiler (Dietwiller), Dietweiler	7.40296, 47.69288	schärmüs	sch ä r m ü s	schårmüs	sch å r m ü s	1
+77	Co O6	III_15_0038	Schlierbach, Schlierbach	7.4066, 47.68284	schārmüß	sch ā r m ü ß	schermaus	sch e r m a u s	4
+78	Co V 2	III_15_0030	Geispitzen, Geispitzen	7.42236, 47.66739	schärmüs	sch ä r m ü s	scharmüs	sch a r m ü s	1
+79	Co V 3	III_16_0037	Waltenheim, Waltenheim	7.42684, 47.65714	schärmüs	sch ä r m ü s	schaurmüs	sch a u r m ü s	2
+80	Co V 4	III_16_0049	Uffheim, Uffheim	7.44285, 47.65062	schārmüs	sch ā r m ü s	scharmǖs	sch a r m ü ̄ s	2
+81	Co Va 15	III_16_0038	Niederranspach (Ranspach-le-Bas), Niederranspach	7.44726, 47.58851	scharmüs	sch a r m ü s	schermaus	sch e r m a u s	3
+82	Co Va 4/2	III_17_0019	Volkensberg (Folgensbourg), Volkensberg	7.4473, 47.55147	scharmüs	sch a r m ü s	scharmaus	sch a r m a u s	2
+83	Co Vd 8	III_17_0071	Biedertal (Biederthal), Biedertal	7.44789, 47.46978	scharmus	sch a r m u s	schärmuus	sch ä r m uu s	2
+84	Co V 5	III_16_0055	Sierenz (Sierentz), Sierenz	7.45597, 47.6532	schārmüs	sch ā r m ü s	scharmüs	sch a r m ü s	1
+85	Co V 13/2	III_16_0047	Niedermichelbach (Michelbach-le-Bas), Niedermichelbach	7.46442, 47.59288	scharmus	sch a r m u s	scharmüs	sch a r m ü s	1
+86	Co Va 7	III_17_0017	Niederhagental (Hagenthal-le-Bas), Niederhagental	7.47691, 47.52383	schērmüs	sch ē r m ü s	schermūs	sch e r m ū s	2
+87	Co Va 5	III_17_0034	Wenzweiler (Wentzwiller), Wenzweiler	7.48036, 47.55042	schārmüs	sch ā r m ü s	scharmus	sch a r m u s	2
+88	Co Vd 4	III_17_0073	Leimen (Leymen), Leimen	7.48218, 47.4954	scharmüs	sch a r m ü s	schermaus	sch e r m a u s	3
+89	Co W 15/1, Co W 15, 14, Co W 15/2	III_16_0039, III_16_0062, III_16_0040	Boltzheim (Blotzheim), Blotzheim	7.49611, 47.60128	scharmüs	sch a r m ü s	scharmus	sch a r m u s	1
+90	Co H15	III_14_0130	Homburg Kreis Mülhausen (Hombourg), Homburg	7.50503, 47.75908	schārmüs	sch ā r m ü s	scharmües	sch a r m ü e s	2
+91	Co H16	III_14_0131	Ottmarsheim, Ottmarsheim	7.50646, 47.78661	scharmüüs	sch a r m üü s	schermüüs	sch e r m üü s	1
+92	Co Wa 2	III_17_0027	Buschweiler (Buschwiller), Buschweiler	7.50989, 47.55993	scharmus	sch a r m u s	scharmüs	sch a r m ü s	1
+93	Co P1	III_15_0043	Kleinlandau (Petit-Landau), Kleinlandau	7.52082, 47.73028	schamüs	sch a m ü s	scharmüs	sch a r m ü s	1
+94	Co Wa 1	III_17_0026	Häsingen (Hésingue), Häsingen	7.5211, 47.57633	scharmüs	sch a r m ü s	scharrmüs	sch a rr m ü s	1
+95	Co P19	III_15_0050	Kleinkems, Kleinkembs	7.52279, 47.691	scharmüūs	sch a r m ü ū s	scharmuus	sch a r m uu s	2
+96	Co W 14	III_16_0057	Neuweg-Bartenheim, Bartenheim-Neuweg	7.52868, 47.62399	schārmǖhs	sch ā r m ǖ h s	scharmüs	sch a r m ü s	3
+97	Co W 13	III_16_0058	Rosenau, Rosenau	7.53493, 47.63685	schärmuus	sch ä r m uu s	schärmus	sch ä r m u s	1
+98	Co P12	III_15_0051	Blansingen, Blansingen	7.54141, 47.69158	schärmūs	sch ä r m ū s	scheemus	sch ee m u s	3
+99	Co H2	III_14_0134	Neuenburg (am Rhein), Neuenburg	7.56012, 47.81393	schormuės	sch o r m u ė s	schermus	sch e r m u s	2
+100	Co Wa 4	III_16_0065, III_16_0063, III_16_0064	Sankt Ludwig (Saint-Louis) , Sankt Ludwig	7.56351, 47.58575	scharmüs	sch a r m ü s	scharmüas	sch a r m ü a s	1
+101	Co W 16	III_16_0061	Neudorf (Village-Neuf), Neudorf	7.57149, 47.60532	scharemüs	sch a r e m ü s	scharmüs	sch a r m ü s	1
+102	Co W 12	III_16_0071	Märkt, Märkt	7.58103, 47.627	scharmus	sch a r m u s	schermus	sch e r m u s	1
+103	Co m 1	III_13_0040	Breisach, Breisach	7.59332, 48.04535	schärmüs	sch ä r m ü s	schärmus	sch ä r m u s	1
+104	Co W 11, 18	III_16_0074	(Weil am Rhein und) Eimeldingen, Binzen	7.59518, 47.63113	schermus	sch e r m u s	schärmuus	sch ä r m uu s	2
+105	Co P6	III_15_0057	Tannenkirch, Tannenkirch	7.6103, 47.71116	schärmus	sch ä r m u s	scharmus	sch a r m u s	1
+106	Co W 22	III_16_0089	Haltingen, Haltingen	7.61378, 47.61384	scharmus	sch a r m u s	schermus	sch e r m u s	1
+107	Co W 10	III_16_0072, III_16_0073	Binzen, Binzen, Märkt	7.62403, 47.63133	scharmüs	sch a r m ü s	schärmuus	sch ä r m uu s	3
+108	Co W 6	III_16_0076	Schallbach, Schallbach	7.62759, 47.65706	scharmus	sch a r m u s	schärmus	sch ä r m u s	1
+109	Co P15	III_15_0055	Holzen, Holzen	7.62775, 47.69538	schārmus	sch ā r m u s	schäärmus	sch ää r m u s	2
+110	Co e 13	III_12_0107	Oberrotweil, Oberrotweil	7.63551, 48.08944	schermüs	sch e r m ü s	scharmüs	sch a r m ü s	1
+111	Co P5	III_15_0058	Riedlingen, Riedlingen	7.63561, 47.71579	schärmūs	sch ä r m ū s	schärmus	sch ä r m u s	1
+112	Co W 7, 9/2	III_16_0077	Rümmingen, Rümmingen	7.64143, 47.64099	schermus	sch e r m u s	scharmus	sch a r m u s	1
+113	Co W 7, 9/1	III_16_0086	Wittlingen, Wittlingen	7.64842, 47.6562	schermus	sch e r m u s	schärmus	sch ä r m u s	1
+114	Co e 2	III_12_0105	Kiechlinsbergen, Kiechlinsbergen	7.65306, 48.12469	scharmūs	sch a r m ū s	schärmüs	sch ä r m ü s	2
+115	Co W 8	III_15_0056	Wollbach, Wollbach	7.65387, 47.67054	schärmūs	sch ä r m ū s	schäärmuus	sch ää r m u u s	3
+116	Co e 11	III_12_0104	Königschaffhausen am Kaiserstuhl, Königschaffhausen	7.65562, 48.13337	scharmüs	sch a r m ü s	schärmüs	sch ä r m ü s	1
+117	Co P16	III_15_0046	Kandern, Kandern	7.66224, 47.71456	schärmūs	sch ä r m ū s	schärmu͜us	sch ä r m u ͜ u s	3
+118	Co W 20	III_16_0079, III_16_0081, III_16_0080, III_16_0082, III_16_0083	Lörrach , Lörrach, Lörrach <Adolf Hitler Schule>	7.66409, 47.61258	schärmūs	sch ä r m ū s	schärmuus	sch ä r m uu s	2
+119	Co Wa 6	III_17_0037	Grenzach (Grenzach-Wyhlen), Grenzach	7.66607, 47.55136	schärmūs	sch ä r m ū s	schärmuus	sch ä r m uu s	2
+120	Co A6	III_14_0047	Heitersheim, Heitersheim	7.66768, 47.87108	schǟrmūs	sch ǟ r m ū s	scharmuus	sch a r m uu s	3
+121	Co u 18	III_13_0127	Niederrimsingen, Niederrimsingen	7.67114, 47.98702	scherrmüs	sch e rr m ü s	scharmüs	sch a r m ü s	2
+122	Co u 21	III_13_0134	Schlatt, Schlatt	7.67473, 47.92531	schärmuus	sch ä r m uu s	schermus	sch e r m u s	2
+123	Stra Y 3	III_12_0036	Weisweil, Weisweil	7.67618, 48.19761	schärmüs	sch ä r m ü s	schaarmüs	sch aa r m ü s	2
+124	Co X 4	III_16_0091, III_16_0092	Haagen, Haagen	7.67898, 47.63703	schermus	sch e r m u s	schärmus	sch ä r m u s	1
+125	Co B5	III_14_0058	Laufen, Laufen	7.68471, 47.8434	schärmuus	sch ä r m uu s	scharmus	sch a r m u s	2
+126	Co X 16	III_16_0096	Inzlingen, Inzlingen	7.68772, 47.58811	schǟrmūs	sch ǟ r m ū s	schärmus	sch ä r m u s	2
+127	Co u 1/2, Co u 1/1	III_13_0135	Biengen, Biengen	7.68958, 47.93875	schärmus	sch ä r m u s	scheermuus	sch ee r m u u s	3
+128	Co Xa 5	III_17_0039, III_17_0040, III_17_0038	Wyhlen, Wyhlen	7.69103, 47.54989	schärmuus	sch ä r m uu s	schäärmuus	sch ää r m u u s	1
+129	Co X 6	III_16_0095	Brombach (/Maulburg, aber gestrichen), Brombach	7.69236, 47.63395	schärmūs	sch ä r m ū s	schermus	sch e r m u s	2
+130	Co u 16	III_13_0129	Munzingen, Munzingen	7.69883, 47.96873	schermus	sch e r m u s	schärmuus	sch ä r m uu s	2
+131	Co J3	III_14_0153	Schweighof, Schweighof	7.69904, 47.80743	schǟrmūs	sch ǟ r m ū s	schärmus	sch ä r m u s	2
+132	Co B11	III_14_0052, III_14_0053	Bad Krozingen, Bad Krozingen	7.70333, 47.91813	schärmūs	sch ä r m ū s	schärmus	sch ä r m u s	1
+133	Co B6	III_14_0064, III_14_0063, III_14_0062	Sulzburg, Sulzburg	7.70727, 47.84122	schermus	sch e r m u s	scheermuus	sch ee r m u u s	2
+134	Stra Y 2	III_12_0035	Oberhausen, Oberhausen	7.71048, 48.22667	schårmüs	sch å r m ü s	schärmüs	sch ä r m ü s	1
+135	Stra Y 1	III_12_0171	Niederhausen, Niederhausen	7.71317, 48.23982	schärmus	sch ä r m u s	schaͤrmüs	sch a ͤ r m ü s	3
+136	Co u 14	III_13_0128	Tiengen, Tiengen	7.71599, 47.98216	schärmus	sch ä r m u s	scharmus	sch a r m u s	1
+137	Co B10	III_14_0057	Grunern bei Müllheim, Grunern	7.72184, 47.87162	schärmüs	sch ä r m ü s	schärmus	sch ä r m u s	1
+138	Co n 12	III_13_0048, III_13_0050, III_13_0051, III_13_0049	Bötzingen, Bötzingen	7.72593, 48.07743	schermūs	sch e r m ū s	schèrmus	sch è r m u s	2
+139	Co X 1	III_16_0097	Hägelberg, Hägelberg	7.72778, 47.66132	schärmūs	sch ä r m ū s	schärmus	sch ä r m u s	1
+140	Co B9	III_14_0059, III_14_0061, III_14_0060	Staufen (bei Freiburg), Staufen	7.72962, 47.88166	schärmūs	sch ä r m ū s	schērmūs	sch ē r m ū s	1
+141	Co X 7	III_16_0098	Steinen, Steinen	7.73911, 47.64447	schärmūs	sch ä r m ū s	schärmuus	sch ä r m uu s	2
+142	Co f 10	III_12_0111	Bahlingen, Bahlingen	7.73937, 48.12209	schaͤrmǖs	sch a ͤ r m ǖ s	schäärmüüs	sch ää r m ü ü s	4
+143	Co f 7	III_12_0125	Eichstetten, Eichstetten	7.74563, 48.09417	schärmus	sch ä r m u s	scharmus	sch a r m u s	1
+144	Co X 8	III_16_0099	Höllstein, Höllstein	7.74574, 47.63943	schärmūs	sch ä r m ū s	schaͤrmuus	sch a ͤ r m uu s	4
+145	Co f 2	III_12_0113	Riegel, Riegel	7.7507, 48.15056	schärmus	sch ä r m u s	schärmüs	sch ä r m ü s	1
+146	Co X 15	III_16_0102	Eichsel (GID von Obereichsel), Eichsel	7.75815, 47.59842	schärmus	sch ä r m u s	schermaus	sch e r m a u s	2
+147	Co X 13	III_16_0101	Adelhausen, Adelhausen	7.76116, 47.61477	schärmus	sch ä r m u s	schermus	sch e r m u s	1
+148	Co n 3	III_13_0055	Umkirch, Umkirch	7.7624, 48.03183	scharmaus	sch a r m a u s	schermaus	sch e r m a u s	1
+149	Stra Y 13	III_12_0044	Kenzingen, Kenzingen	7.77005, 48.19298	schärmǖs	sch ä r m ǖ s	schermüs	sch e r m ü s	2
+150	Co n 11	III_13_0052	Buchheim, Buchheim	7.77912, 48.06092	schērmüs	sch ē r m ü s	schehrmüs	sch e h r m ü s	2
+151	Co u 9	III_13_0140	Ebringen, Ebringen	7.77981, 47.95761	scheermus	sch ee r m u s	schermus	sch e r m u s	1
+152	Co B7	III_14_0065	Untermünstertal-Ziegelplatz (Untermünstertal), Untermünstertal	7.78649, 47.85518	schermus	sch e r m u s	schärmus	sch ä r m u s	1
+153	Co Xa 3	III_17_0045, III_17_0044, III_17_0046	Rheinfelden-Stadt (Baden), Rheinfelden	7.78875, 47.55945	schärmūs	sch ä r m ū s	schermuuß	sch e r m uu ß	4
+154	Stra R 8	III_11_0114	Orschweier, Orschweier	7.79862, 48.27835	schermūs	sch e r m ū s	schaermüs	sch a e r m ü s	2
+155	Co u 12	III_13_0132	St, Georgen , St, Georgen	7.8056, 47.97934	schērmūs	sch ē r m ū s	schērmus	sch ē r m u s	1
+156	Co f 8	III_12_0114	Köndringen, Köndringen	7.80591, 48.13912	schǟrmus	sch ǟ r m u s	scharmüs	sch a r m ü s	2
+157	Stra Y 7	III_12_0040	Tutschfelden, Tutschfelden	7.80659, 48.21534	schärmüs	sch ä r m ü s	scheermus	sch ee r m u s	3
+158	Stra R 6	III_11_0109	Kippenheimweiler, Kippenheimweiler	7.80753, 48.31925	schärmus	sch ä r m u s	schaarmüüs	sch aa r m ü ü s	4
+159	Co u 20	III_13_0137	Sölden, Sölden	7.80967, 47.93307	scheermus	sch ee r m u s	schermues	sch e r m u e s	2
+160	Co X 11	III_16_0108	Wiechs, Wiechs	7.81236, 47.63655	schäärmuus	sch ää r m u u s	schärmus	sch ä r m u s	2
+161	Stra R 7	III_11_0113	Mahlberg, Mahlberg	7.81323, 48.28708	schärmus	sch ä r m u s	scha˚ermüüs	sch a ˚ e r m üü s	5
+162	Stra R 10	III_11_0117	Ettenheim, Ettenheim	7.81361, 48.25631	scharmūs	sch a r m ū s	scheermus	sch ee r m u s	3
+163	Co X 12	III_16_0111	Nordschwaben, Nordschwaben	7.81682, 47.6184	schärmuus	sch ä r m uu s	schermus	sch e r m u s	2
+164	Stra Y 12	III_12_0172	Bombach, Bombach	7.81686, 48.17869	schärmus	sch ä r m u s	schärmüs	sch ä r m ü s	1
+165	Co u 13	III_13_0133	Haslach, Haslach	7.82166, 47.9895	schermus	sch e r m u s	schärmus	sch ä r m u s	1
+166	Stra R 5	III_11_0112	Kippenheim, Kippenheim	7.82466, 48.29439	scharmus	sch a r m u s	schä̂rmüs	sch ä ̂ r m ü s	3
+167	Co u 11	III_13_0139	Merzhausen, Merzhausen	7.82532, 47.96635	schermus	sch e r m u s	schärmus	sch ä r m u s	1
+168	Stra K 9	III_11_0045	Langenwinkel, Langenwinkel	7.82557, 48.3325	schǟrmüs	sch ǟ r m ü s	schärmüs	sch ä r m ü s	1
+169	Stra Y 6	III_12_0041	Broggingen, Broggingen	7.82928, 48.21892	schaͤrmus	sch a ͤ r m u s	schermus	sch e r m u s	2
+170	Stra Y a 1	III_12_0112	Heimbach, Heimbach	7.82936, 48.1638	schä̊rmüs	sch ä ̊ r m ü s	scharmüs	sch a r m ü s	2
+171	Co g 8	III_12_0131	Mundingen, Mundingen	7.8346, 48.13735	scharmüs	sch a r m ü s	schärmüs	sch ä r m ü s	1
+172	Stra L 10	III_11_0044	Hugsweier, Hugsweier	7.83742, 48.36009	schärmus	sch ä r m u s	scharmüs	sch a r m ü s	2
+173	Stra S 1	III_11_0119	Mietersheim, Mietersheim	7.83797, 48.32639	schäärmüs	sch ää r m ü s	schermüs	sch e r m ü s	2
+174	Co R12	III_15_0089	Hausen im Wiesental, Hausen im Wiesental	7.84055, 47.68143	schermūs	sch e r m ū s	scharmus	sch a r m u s	2
+175	Co g 1	III_12_0132	Emmendingen, Emmendingen	7.84951, 48.1209	schärmüs	sch ä r m ü s	schermus	sch e r m u s	2
+176	Co o 8	III_13_0070	Vörstetten, Vörstetten	7.85113, 48.06391	schärmuus	sch ä r m uu s	schermus	sch e r m u s	2
+177	Co R9	III_15_0081, III_15_0080, III_15_0079	Zell im Wiesental, Zell im Wiesental	7.85301, 47.70753	schermus	sch e r m u s	schärmūs	sch ä r m ū s	2
+178	Co g 3	III_12_0135	Wasser, Wasser	7.8564, 48.09846	schǟrmŭs	sch ǟ r m u ̆ s	schermus	sch e r m u s	2
+179	Stra S 9	III_11_0123	Schmieheim, Schmieheim	7.85658, 48.27938	schaärmüs	sch a ä r m ü s	schärmus	sch ä r m u s	2
+180	Co Y 13	III_16_0114	Dossenbach, Dossenbach	7.85693, 47.61597	schǟrmus	sch ǟ r m u s	schaermuus	sch a e r m uu s	3
+181	Stra S 11	III_12_0048	Münchweier, Münchweier	7.85884, 48.24754	schärmus	sch ä r m u s	schermus	sch e r m u s	1
+182	Co Y 2	III_16_0116	Kürnberg, Kürnberg	7.86873, 47.6649	schermus	sch e r m u s	schärmus	sch ä r m u s	1
+183	Co o 6	III_13_0072, III_13_0074, III_13_0071, III_13_0073	Gundelfingen, Gundelfingen	7.87313, 48.04353	schärmuus	sch ä r m uu s	schermus	sch e r m u s	2
+184	Co C10	III_14_0067	Obermünstertal-Stohren, Obermünstertal-Stohren	7.87525, 47.8938	schērmūs	sch ē r m ū s	schermuus	sch e r m uu s	3
+185	Stra L 12	III_11_0060, III_11_0059	Lahr (Lahr/Schwarzwald), Lahr	7.87603, 48.34018	schärmüs	sch ä r m ü s	schermus	sch e r m u s	2
+186	Co o 9	III_13_0062, III_13_0063, III_13_0064	Denzlingen, Denzlingen	7.87987, 48.06793	schärmūs	sch ä r m ū s	schärmus	sch ä r m u s	1
+187	Co Y 12	III_16_0168	Schwörstadt, Schwörstadt	7.87989, 47.59379	schärmus	sch ä r m u s	schermus	sch e r m u s	1
+188	Stra Z 1	III_12_0047	Ettenheimmünster, Ettenheimmünster	7.88015, 48.24152	schermus	sch e r m u s	schärmüs	sch ä r m ü s	2
+189	Co C2	III_14_0070	Wieden, Wieden	7.8814, 47.84169	schermūs	sch e r m ū s	schermuus	sch e r m uu s	2
+190	Stra L 6	III_11_0050	Oberweier, Oberweier	7.89815, 48.37746	schärmus	sch ä r m u s	schaarmuus	sch aa r m u u s	3
+191	Stra L 2	III_11_0051	Oberschopfheim, Oberschopfheim	7.90095, 48.39821	schärmus	sch ä r m u s	schermus	sch e r m u s	1
+192	Co v 10	III_13_0149	Kappel, Kappel	7.90831, 47.96423	schermūs	sch e r m ū s	schermus	sch e r m u s	1
+193	Co K4	III_14_0161	Utzenfeld, Utzenfeld	7.91301, 47.80054	schärmus	sch ä r m u s	scheermuus	sch ee r m u u s	3
+194	Co Y 11	III_16_0118	Öfflingen (Öflingen), Öflingen	7.91396, 47.59228	schǟrmūs	sch ǟ r m ū s	schärmuus	sch ä r m uu s	3
+195	Co R3	III_15_0071	Häg (bei Mambach), Häg	7.91432, 47.73207	schärmus	sch ä r m u s	schermūs	sch e r m ū s	2
+196	Stra L 3	III_11_0063	Diersburg, Diersburg	7.93733, 48.40041	schårmus	sch å r m u s	scharmus	sch a r m u s	1
+197	Co v 8	III_13_0150	Oberried, Oberried	7.94506, 47.93146	schärmūs	sch ä r m ū s	scher₌mus	sch e r ₌ m u s	3
+198	Stra S 7	III_11_0130	Wittelbach, Wittelbach	7.95069, 48.29243	schärmûs	sch ä r m û s	schermus	sch e r m u s	2
+199	Stra S 8	III_11_0131	Schuttertal, Schuttertal	7.95562, 48.27087	schermuus	sch e r m uu s	schärmuus	sch ä r m uu s	1
+200	Co v 4	III_13_0151	Stegen, Stegen	7.96093, 47.98418	schermus	sch e r m u s	scheermus	sch ee r m u s	1
+201	Stra Z 3	III_12_0050	Schweighausen, Schweighausen	7.96799, 48.22021	tschärmus	t sch ä r m u s	schärmuus	sch ä r m uu s	2
+202	Stra D 11	III_10_0123	Ortenberg, Ortenberg	7.97048, 48.45192	schermus	sch e r m u s	schärmus	sch ä r m u s	1
+203	Co g 11	III_12_0140	Kollnau, Kollnau	7.9721, 48.10586	scheermuus	sch ee r m u u s	schermus	sch e r m u s	2
+204	Stra D 10	III_10_0124	Fessenbach, Fessenbach	7.97963, 48.46469	schärmus	sch ä r m u s	schermüs	sch e r m ü s	2
+205	Stra L 4	III_11_0064	Berghaupten, Berhaupten	7.98716, 48.40675	schermus	sch e r m u s	schärmus	sch ä r m u s	1
+206	TUTT Sa1/2	III_17_0057	Rippolingen und Harpolingen, Rippolingen	7.9892, 47.57843	schärmus	sch ä r m u s	schermus	sch e r m u s	1
+207	Stra D 13	III_10_0121	Ohlsbach, Ohlsbach	7.99275, 48.43199	schärmǖs	sch ä r m ǖ s	schärmus	sch ä r m u s	1
+208	TUTT p5	III_13_0152	Falkensteig, Falkensteig	7.99689, 47.94697	schärmus	sch ä r m u s	schäärmus	sch ää r m u s	1
+209	TUTT Sa1	III_17_0056	Rippolingen und Harpolingen, Harpolingen	8.00062, 47.57274	schärmus	sch ä r m u s	schermus	sch e r m u s	1
+210	TUTT a3	III_12_0151	Bleibach, Bleibach	8.00281, 48.12764	schärmus	sch ä r m u s	schärrmus	sch ä rr m u s	1
+211	TUTT p3	III_13_0153	Unteribental, Unteribental	8.00642, 47.97982	schermaus	sch e r m a u s	schermus	sch e r m u s	1
+212	TÜB D8	III_11_0070	Strohbach, Strohbach	8.01398, 48.38754	schårmūs	sch å r m ū s	schermus	sch e r m u s	2
+213	TÜB D9	III_11_0065	Gengenbach, Gengenbach	8.01593, 48.40299	schärmus	sch ä r m u s	schermus	sch e r m u s	1
+214	TÜB w1/1, TÜB w1/2	III_10_0135	Durbach, Durbach	8.01775, 48.49407	schermus	sch e r m u s	schärrmus	sch ä rr m u s	2
+215	TÜB w6	III_10_0139	Reichenbach, Reichenbach	8.01986, 48.42981	schärmůs	sch ä r m ů s	schermus	sch e r m u s	2
+216	TUTT Sa3	III_17_0058	Murg, Murg	8.02352, 47.55376	schermus	sch e r m u s	schärmuus	sch ä r m uu s	2
+217	TÜB S1	III_12_0060	Biederbach, Oberbiederbach	8.02694, 48.2183	schärmus	sch ä r m u s	schermus	sch e r m u s	1
+218	TÜB D6	III_11_0072	Biberach, Biberach	8.0278, 48.33891	schermus	sch e r m u s	schärmus	sch ä r m u s	1
+219	Stra S 5	III_11_0126	Schönberg, Schönberg	8.0327, 48.36461	schärmus	sch ä r m u s	schermus	sch e r m u s	1
+220	TUTT a1	III_12_0144	Oberwinden, Oberwinden	8.04318, 48.15444	schermus	sch e r m u s	scheermus	sch ee r m u s	1
+221	TUTT a4	III_12_0148, III_12_0147, III_12_0149	Simonswald, Untersimonswald	8.04838, 48.10278	schärmus	sch ä r m u s	scheermuus	sch ee r m u u s	3
+222	TUTT Sa6	III_17_0062	Binzgen, Binzgen	8.06143, 47.57622	schärmus	sch ä r m u s	scheermus	sch ee r m u s	2
+223	TÜB w7	III_10_0136	Hesselbach, Hesselbach	8.06498, 48.49863	scherrmus	sch e rr m u s	schermus	sch e r m u s	1
+224	TUTT L8	III_15_0097	Hartschwand, Hartschwand	8.0655, 47.67119	schärmus	sch ä r m u s	scheeamŭs	sch ee a m ŭ s	4
+225	TUTT L3	III_15_0109	Ibach, Ibach	8.07077, 47.73259	schermus	sch e r m u s	schärmus	sch ä r m u s	1
+226	TÜB S4	III_12_0055, III_12_0056, III_12_0057	Elzach, Elzach	8.07142, 48.17331	schäērmus	sch ä ē r m u s	schermus	sch e r m u s	2
+227	TUTT p6	III_13_0156	Breitnau, Breitnau	8.07603, 47.94014	schärmus	sch ä r m u s	scheermaus	sch ee r m a u s	3
+228	TÜB D1/1, TÜB D1/2	III_11_0069, III_11_0068	Nordrach, Nordrach	8.08082, 48.39898	schermus	sch e r m u s	schärmuus	sch ä r m uu s	2
+229	TÜB w2	III_10_0066, III_10_0067	Ödsbach, Oedsbach	8.08784, 48.49713	schǟrmūs	sch ǟ r m ū s	scheͣ̈rmus	sch e ͣ ̈ r m u s	4
+230	TÜB L3	III_11_0134	Oberentersbach, Oberentersbach	8.09119, 48.32718	schermus	sch e r m u s	schärmus	sch ä r m u s	1
+231	TUTT h3, TUTT p1	III_13_0080, III_13_0078, III_13_0079	St, Märgen-Schweighöfe, St, Märgen, St, Märgen	8.09239, 48.00756	scheermuus	sch ee r m u u s	schermus	sch e r m u s	2
+232	TUTT h7	III_13_0075	Obersimonswald, Obersimonswald	8.09331, 48.0797	schermus	sch e r m u s	schaarmus	sch aa r m u s	2
+233	TUTT w3	III_14_0072	Bärental, Bärental	8.0952, 47.86975	schermus	sch e r m u s	schermuus	sch e r m uu s	1
+234	TUTT Sa8	III_17_0060	Luttingen und Grunholz, Luttingen	8.09878, 47.57252	scherrmus	sch e rr m u s	schärmus	sch ä r m u s	2
+235	TÜB L4	III_11_0137	Fischerbach, Fischerbach	8.11097, 48.28707	schǟrmus	sch ǟ r m u s	schermus	sch e r m u s	1
+236	TÜB p8	III_10_0076	Lautenbach, Lautenbach	8.11439, 48.52093	schärmaus	sch ä r m a u s	schärmus	sch ä r m u s	1
+237	TÜB S6	III_12_0063, III_12_0064	Oberprechtal, Oberprechtal	8.12114, 48.20548	schärmūs	sch ä r m ū s	schermus	sch e r m u s	2
+238	TUTT L1	III_15_0112, III_15_0111	Urberg, Urberg	8.12409, 47.73478	schärmuͦuͦs	sch ä r m u ͦ u ͦ s	schärmus	sch ä r m u s	3
+239	TUTT L16	III_15_0103	Schlageten, Schlageten	8.12512, 47.71178	scheermus	sch ee r m u s	scheermaus	sch ee r m a u s	1
+240	TUTT L11	III_15_0102	Immeneich, Immeneich	8.12543, 47.69719	scherrmus	sch e rr m u s	scheermus	sch ee r m u s	1
+241	TÜB D2/2, TÜB D3, TÜB D2/1, TÜB E1	III_11_0077, III_11_0076	Oberharmersbach, Oberharmersbach	8.12723, 48.37386	schärmūs	sch ä r m ū s	schärmus	sch ä r m u s	1
+242	TÜB w3	III_10_0078	Ramsbach, Ramsbach	8.14144, 48.49573	schermus	sch e r m u s	schärmüs	sch ä r m ü s	2
+243	TUTT w5	III_14_0073	Raitenbuch, Raitenbuch	8.14698, 47.86647	scheermūs	sch ee r m ū s	scheermus	sch ee r m u s	1
+244	TÜB w4	III_10_0138	Ibach, Ibach	8.16274, 48.45618	schärmus	sch ä r m u s	schermus	sch e r m u s	1
+245	TÜB M5	III_11_0144, III_11_0146	Hausach und Einbach, Einbach, Einbach-Hauserbach	8.16759, 48.2974	schermaus	sch e r m a u s	schermus	sch e r m u s	1
+246	TÜB M6	III_11_0142, III_11_0141	Hausach, Hausach	8.17189, 48.28424	schērmuus	sch ē r m uu s	schermus	sch e r m u s	2
+247	TUTT T6	III_16_0157	Dogern, Dogern	8.17239, 47.60884	schǟrmūs	sch ǟ r m ū s	scheermuus	sch ee r m u u s	4
+248	TÜB x8	III_10_0148	Löcherberg, Löcherberg	8.17462, 48.43425	schärmūs	sch ä r m ū s	schermuus	sch e r m uu s	3
+249	TUTT T5	III_16_0158	Eschbach, Eschbach	8.18086, 47.6336	scharmūs	sch a r m ū s	schärmuus	sch ä r m uu s	3
+250	TÜB x3	III_10_0141	Maisach, Maisach	8.20067, 48.47223	schärmůs	sch ä r m ů s	scheermus	sch ee r m u s	3
+251	TUTT b3	III_12_0161	Schonach, Schonach	8.20179, 48.14296	schermus	sch e r m u s	schärmus	sch ä r m u s	1
+252	TUTT i6	III_13_0091, III_13_0092	Furtwangen (und Furtwangen-Katzensteig), Furtwangen	8.20648, 48.05227	schärmūs	sch ä r m ū s	schermus	sch e r m u s	2
+253	TÜB x7	III_10_0146	Bad Peterstal, Bad Peterstal	8.20916, 48.43032	schermus	sch e r m u s	schärrmus	sch ä rr m u s	2
+254	TUTT M14	III_15_0124	Nöggenschwiel, Nöggenschwiel	8.21364, 47.69246	schermus	sch e r m u s	schärmus	sch ä r m u s	1
+255	TUTT T7	III_16_0152, III_16_0153, III_16_0150, III_16_0149, III_16_0151	Waldshut, Waldshut	8.21445, 47.6237	schērmus	sch ē r m u s	schermus	sch e r m u s	1
+256	TÜB M3/1	III_11_0150	Wolfach, Wolfach	8.22076, 48.30289	scheermuus	sch ee r m u u s	schermus	sch e r m u s	2
+257	TUTT T2	III_16_0160	Indlekofen, Indlekofen	8.22113, 47.65889	schermuß	sch e r m u ß	schermuus	sch e r m uu s	2
+258	TÜB T1	III_12_0065, III_12_0066	Hornberg, Hornberg	8.23036, 48.21193	schermus	sch e r m u s	schärmus	sch ä r m u s	1
+259	TUTT b4	III_12_0165, III_12_0164	Triberg, Triberg	8.2316, 48.13032	scheermūs	sch ee r m ū s	schermus	sch e r m u s	2
+260	TUTT T1	III_16_0161	Weilheim, Weilheim	8.24051, 47.65862	schärmus	sch ä r m u s	scheermuus	sch ee r m u u s	3
+261	TUTT M13	III_15_0128	Dietlingen, Dietlingen	8.24371, 47.67342	schärmus	sch ä r m u s	schermuus	sch e r m uu s	2
+262	TÜB M2	III_11_0148	Langenbach, Langenbach	8.25164, 48.3205	schermūs	sch e r m ū s	schermus	sch e r m u s	1
+263	TUTT i3	III_13_0089	Urach, Urach	8.25368, 48.00477	schärmus	sch ä r m u s	schermus	sch e r m u s	1
+264	TUTT q7	III_14_0075	Friedenweiler, Friedenweiler	8.25483, 47.91602	scheermus	sch ee r m u s	scheermuus	sch ee r m u u s	1
+265	TUTT b5	III_12_0154, III_12_0152	Nussbach, Nussbach	8.25836, 48.13097	schermūs	sch e r m ū s	schermus	sch e r m u s	1
+266	TUTT i4	III_13_0088	Linach, Linach	8.26602, 48.02831	schärmūs	sch ä r m ū s	schâârmuus	sch ââ r m u u s	4
+267	TUTT q4	III_13_0160	Eisenbach, Eisenbach	8.26837, 47.96084	schärmus	sch ä r m u s	schermus	sch e r m u s	1
+268	TUTT M7	III_15_0115	Hürrlingen, Hürrlingen	8.28505, 47.72465	schermus	sch e r m u s	schermuus	sch e r m uu s	1
+269	TUTT q5	III_13_0159	Bubenbach, Bubenbach	8.29595, 47.96531	schǟrmūs	sch ǟ r m ū s	schährmuus	sch ä h r m uu s	4
+270	TUTT T12	III_16_0164	Unterlauchringen, Unterlauchringen	8.30394, 47.63095	schärrmūs	sch ä rr m ū s	schermuus	sch e r m uu s	4
+271	TUTT T16	III_16_0166	Rheinheim, Rheinheim	8.30495, 47.58771	scheermuus	sch ee r m u u s	schermuus	sch e r m uu s	1
+272	TUTT T10	III_16_0163	Breitenfeld, Breitenfeld	8.30617, 47.65178	schärmus	sch ä r m u s	schermus	sch e r m u s	1
+273	TÜB M10	III_11_0153, III_11_0152	Lehengericht, Vorderlehengericht, Hinterlehengericht	8.30807, 48.2924	scheermaus	sch ee r m a u s	schärmaus	sch ä r m a u s	2
+274	TUTT b6	III_12_0169	Brigach (und Sommerau), Brigach	8.3086, 48.11587	schärmus	sch ä r m u s	schermus	sch e r m u s	1
+275	TÜB x4	III_10_0143	Kniebis, Kniebis	8.3101, 48.47233	schǟrmūs	sch ǟ r m ū s	schärmus	sch ä r m u s	2
+276	TUTT x7	III_14_0077	Göschweiler, Göschweiler	8.31065, 47.85812	schermūs	sch e r m ū s	scheermuus	sch ee r m u u s	3
+277	TUTT M6	III_14_0183, III_14_0182, III_14_0180, III_14_0181	Birkendorf, Birkendorf	8.3126, 47.74971	schärmūs	sch ä r m ū s	schermus	sch e r m u s	2
+278	TUTT q3	III_13_0158	Hammereisenbach, Hammereisenbach	8.31732, 47.99481	schärmūs	sch ä r m ū s	schärmus	sch ä r m u s	1
+279	TUTT M9	III_15_0127	Uhlingen, Uhlingen Ühlingen	8.31845, 47.7201	schärmus	sch ä r m u s	schärmuus	sch ä r m uu s	1
+280	TUTT T15	III_16_0167	Dangstetten, Dangstetten	8.31944, 47.59581	scheermūs	sch ee r m ū s	scheermus	sch ee r m u s	1
+281	TUTT T11	III_15_0118	Detzeln, Detzeln	8.32062, 47.66643	schehrmūs	sch e h r m ū s	schermus	sch e r m u s	2
+282	TUTT T13	III_16_0165	Oberlauchringen, Oberlauchringen	8.32685, 47.62036	schermus	sch e r m u s	scheermus	sch ee r m u s	1
+283	TUTT Ta1	III_16_0156	Reckingen, Reckingen	8.33116, 47.57477	schermus	sch e r m u s	schärmus	sch ä r m u s	1
+284	TUTT c3	III_12_0156, III_12_0155, III_12_0157	St, Georgen, St, Georgen	8.33183, 48.12564	schǟrmūs	sch ǟ r m ū s	schäärmuus	sch ää r m u u s	4
+285	TUTT N5	III_37_0003	Untermettingen, Untermettingen	8.34615, 47.70245	schärmus	sch ä r m u s	scheermuus	sch ee r m u u s	3
+286	TUTT U4	III_38_0006	Horheim, Horheim	8.34737, 47.64854	schǟrmūs	sch ǟ r m ū s	schermuus	sch e r m uu s	3
+287	TUTT F3	III_36_0006	Wellendingen, Wellendingen	8.35185, 47.79705	schermǖs	sch e r m ü ̄ s	scheermuus	sch ee r m u u s	3
+288	TUTT N4	III_37_0001	Obermettingen, Obermettingen	8.35956, 47.7213	schärmus	sch ä r m u s	schermus	sch e r m u s	1
+289	TUTT U14	III_38_0009	Küßnach, Küssnach	8.36574, 47.59396	schermus	sch e r m u s	schärmus	sch ä r m u s	1
+290	TÜB N1	III_30_0007	Schenkenzell, Schenkenzell	8.37253, 48.31105	schermaūs	sch e r m a ū s	schermaus	sch e r m a u s	1
+291	TUTT c2	III_32_0002	Peterzell, Peterzell	8.37425, 48.13255	scheermūs	sch ee r m ū s	schermus	sch e r m u s	2
+292	TUTT c1	III_32_0001	Buchenberg, Buchenberg	8.37655, 48.16035	schärmus	sch ä r m u s	schermus	sch e r m u s	1
+293	TUTT N8	III_37_0005	Ofteringen, Ofteringen	8.37663, 47.67838	schermūs	sch e r m ū s	schermus	sch e r m u s	1
+294	TUTT F14	III_36_0007	Brunnadern, Brunnadern	8.38083, 47.79495	schäärmuus	sch ää r m u u s	schärmuus	sch ä r m uu s	1
+295	TUTT N3	III_37_0004	Mauchen, Mauchen	8.39032, 47.73994	schärmuß	sch ä r m u ß	schermus	sch e r m u s	2
+296	TUTT U13	III_38_0010	Geißlingen, Geisslingen	8.39181, 47.61975	schärmūs	sch ä r m ū s	scherrmus	sch e rr m u s	3
+297	TUTT N7	III_37_0007	Untereggingen, Untereggingen	8.39385, 47.69277	schermaus	sch e r m a u s	schermus	sch e r m u s	1
+298	TUTT y11	III_35_0009	Bachheim, Bachheim	8.4031, 47.85931	schearmus	sch e a r m u s	schermûs	sch e r m û s	2
+299	TUTT k8	III_33_0004, III_33_0003, III_33_0005	Pfaffenweiler, Pfaffenweiler	8.41798, 48.03273	scheermus	sch ee r m u s	schermus	sch e r m u s	1
+300	TUTT U1	III_38_0003, III_38_0002	Erzingen, Erzingen	8.42011, 47.66108	schermus	sch e r m u s	schḝrmūs	sch ḝ r m ū s	2
+301	TUTT F7	III_36_0016	Schwaningen, Schwaningen	8.42524, 47.77843	schermus	sch e r m u s	schärmus	sch ä r m u s	1
+302	TUTT r2	III_34_0002	Wolterdingen, Wolterdingen	8.42701, 47.96861	schermus	sch e r m u s	scharmus	sch a r m u s	1
+303	TUTT N2	III_37_0008	Eberfingen, Eberfingen	8.42708, 47.72036	schärmus	sch ä r m u s	schermus	sch e r m u s	1
+304	TUTT y9	III_35_0006	Döggingen, Döggingen	8.43444, 47.8919	schärmus	sch ä r m u s	schärmuus	sch ä r m uu s	1
+305	TUTT U10	III_38_0005	Stetten (bei Waldshut), Stetten	8.4393, 47.59011	schermus	sch e r m u s	schärmus	sch ä r m u s	1
+306	TUTT r6	III_34_0003, III_34_0004	Bräunlingen, Bräunlingen	8.44765, 47.9301	schorrmūs	sch o rr m ū s	schorrmuus	sch o rr m u u s	2
+307	TUTT k6	III_33_0010	Überauchen, Überauchen	8.45524, 48.01134	scheermūß	sch ee r m ū ß	schermus	sch e r m u s	3
+308	TUTT U6	III_38_0013	Weisweil, Weisweil	8.45797, 47.64517	scheermus	sch ee r m u s	schärmus	sch ä r m u s	2
+309	TUTT k1	III_33_0070, III_33_0071, III_33_0069	Vilingen, Villingen	8.45901, 48.0567	schermūs	sch e r m ū s	schermus	sch e r m u s	1
+310	TUTT F8	III_36_0149	Weizen, Weizen	8.46354, 47.77888	schǟrmūs	sch ǟ r m ū s	scherrmus	sch e rr m u s	3
+311	TUTT k5	III_33_0008	Klengen, Klengen	8.46686, 48.00388	schärmūūs	sch ä r m ūū s	schermus	sch e r m u s	3
+312	TUTT k3	III_33_0007	Marbach, Marbach	8.47117, 48.03143	scheermus	sch ee r m u s	schermaus	sch e r m a u s	2
+313	TUTT r7	III_34_0016, III_34_0015, III_34_0120	Hüfingen, Hüfingen	8.48886, 47.92431	scherrmus	sch e rr m u s	schermus	sch e r m u s	1
+314	TUTT F9	III_36_0004	Grimmelshofen, Grimmelshofen	8.49573, 47.78613	schärmūs	sch ä r m ū s	schärmus	sch ä r m u s	1
+315	TUTT r8	III_34_0013, III_34_0009, III_34_0010, III_34_0007, III_34_0011, III_34_0012	Donaueschingen, Donaueschingen	8.50052, 47.95113	scherrmus	sch e rr m u s	schermus	sch e r m u s	1
+316	TUTT s6	III_34_0019	Donaueschingen-Allmendshofen, Donaueschingen-Allmendshofen	8.50063, 47.9405	schermus	sch e r m u s	schorrmus	sch o rr m u s	2
+317	TUTT G1	III_36_0018, III_36_0017	Fützen, Fützen	8.5291, 47.80794	scherrmus	sch e rr m u s	schermus	sch e r m u s	1
+318	TUTT l2	III_33_0017, III_33_0016	Bad Dürrheim, Bad Dürrheim	8.53214, 48.01807	scheermus	sch ee r m u s	schermus	sch e r m u s	1
+319	TUTT z3	III_35_0015, III_35_0013, III_35_0014	Sumpfohren, Sumpfohren	8.53796, 47.90851	schärmūs	sch ä r m ū s	schährmuus	sch ä h r m uu s	3
+320	TUTT z6	III_35_0017	Riedböhringen, Riedböhringen	8.53811, 47.87011	schermūs	sch e r m ū s	schermus	sch e r m u s	1
+321	TUTT d4	III_32_0016	Dauchingen, Dauchingen	8.55237, 48.09031	schearmus	sch e a r m u s	schermus	sch e r m u s	1
+322	TUTT G2/2	III_36_0019	Epfenhofen, Epfenhofen	8.55432, 47.81867	schärmus	sch ä r m u s	schärrmus	sch ä rr m u s	1
+323	TUTT s5	III_34_0018	Pfohren, Pfohren	8.55997, 47.9474	schermuus	sch e r m uu s	scheermus	sch ee r m u s	2
+324	TUTT V3	III_38_0019, III_38_0018	Lottstetten, Lottstetten	8.56963, 47.62576	schärmuus	sch ä r m uu s	schärmuß	sch ä r m u ß	2
+325	TUTT V2	III_38_0022, III_38_0020, III_38_0021	Jestetten, Jestetten	8.57572, 47.65297	scheermus	sch ee r m u s	scherrmus	sch e rr m u s	1
+326	TUTT s2	III_34_0025	Oberbaldingen, Oberbaldingen	8.60629, 47.97542	schermūs	sch e r m ū s	schermuus	sch e r m uu s	2
+327	TUTT z9	III_35_0021	Riedöschingen, Riedöschingen	8.6077, 47.84306	scherrmūs	sch e rr m ū s	schermus	sch e r m u s	2
+328	TUTT s3	III_34_0026	Unterbaldingen, Unterbaldingen	8.61256, 47.96992	schermūs	sch e r m ū s	schärmuus	sch ä r m uu s	3
+329	TUTT z1	III_35_0023	Gutmadingen, Gutmadingen	8.61605, 47.91149	schǟrmus	sch ǟ r m u s	schermus	sch e r m u s	1
+330	TUTT G5	III_36_0026	Uttenhofen, Uttenhofen	8.63235, 47.80782	schärmus	sch ä r m u s	schermus	sch e r m u s	1
+331	TUTT s1	III_34_0024	Öfingen, Öfingen	8.63525, 47.99144	schermus	sch e r m u s	schearmus	sch e a r m u s	1
+332	TUTT G6	III_36_0020	Tengen, Tengen	8.66036, 47.81721	schermus	sch e r m u s	schärmuus	sch ä r m uu s	2
+333	TUTT A2	III_35_0025	Leipferdingen, Leipferdingen	8.66787, 47.86461	scherrmūs	sch e rr m ū s	schermus	sch e r m u s	2
+334	TUTT t2	III_34_0027	Ippingen, Ippingen	8.67098, 47.98355	scheermuus	sch ee r m u u s	schermuus	sch e r m uu s	1
+335	TUTT J2 /2	III_36_0036, III_36_0037, III_36_0038	Schlatt (am Randen), Schlatt	8.70119, 47.76891	schǟrmus	sch ǟ r m u s	schermus	sch e r m u s	1
+336	TUTT t5	III_34_0038	Zimmern, Zimmern	8.71521, 47.94848	scheermus	sch ee r m u s	schermus	sch e r m u s	1
+337	TUTT A3	III_35_0026	Stetten (bei Engen), Stetten	8.71683, 47.87248	schearmuus	sch e a r m uu s	schärmuus	sch ä r m uu s	2
+338	TUTT H6	III_36_0033	Binningen, Binningen	8.72585, 47.79296	schermus	sch e r m u s	schermaus	sch e r m a u s	1
+339	TUTT P2	III_37_0014	Bietingen, Bietingen	8.73023, 47.73862	schermus	sch e r m u s	scherrmus	sch e rr m u s	1
+340	TUTT t4	III_34_0041, III_34_0039	Immendingen, Immendingen	8.73032, 47.95055	schäarmus	sch ä a r m u s	schärmuus	sch ä r m uu s	2
+341	TUTT A7	III_35_0033, III_35_0034, III_35_0032	Engen, Engen	8.76853, 47.85186	schärmūs	sch ä r m ū s	schermus	sch e r m u s	2
+342	TUTT H11	III_36_0029, III_36_0028, III_36_0027	Weiterdingen, Weiterdingen	8.76917, 47.79954	scherrmus	sch e rr m u s	schermus	sch e r m u s	1
+343	TUTT A9	III_35_0030, III_35_0031	Neuhausen (b, Engen), Neuhausen	8.77423, 47.8379	schermus	sch e r m u s	scherrmus	sch e rr m u s	1
+344	TUTT P4	III_37_0016	Gotttmadingen, Gottmadingen	8.77716, 47.73498	schermūs	sch e r m ū s	scherrmus	sch e rr m u s	2
+345	KST W7	III_24_0034	Neuhausen, Neuhausen	8.77888, 48.79256	schärrmaus	sch ä rr m a u s	scherrmaus	sch e rr m a u s	1
+346	TUTT t6	III_34_0042	Hattingen, Hattingen	8.78447, 47.92082	schäermuus	sch ä e r m uu s	schǟrmuus	sch ǟ r m uu s	2
+347	TUTT H3	III_36_0034	Duchtlingen, Duchtlingen	8.79029, 47.79154	schermūs	sch e r m ū s	schermus	sch e r m u s	1
+348	TUTT H1	III_36_0030	Ehingen, Ehingen	8.80075, 47.82351	schäarmus	sch ä a r m u s	schermus	sch e r m u s	2
+349	TUTT J4	III_36_0150	Singen, Singen	8.83317, 47.76378	schärmus	sch ä r m u s	schermus	sch e r m u s	1
+350	TUTT Q13	III_37_0017	Rieslasingen, Rielasingen	8.83715, 47.73231	scherrmus	sch e rr m u s	scheermuus	sch ee r m u u s	2
+351	TUTT u5	III_34_0119	Emmingen, Emmingen	8.85302, 47.92883	schärmaus	sch ä r m a u s	scharmous	sch a r m o u s	2
+352	TUTT J1	III_36_0043	Volkertshausen, Volkertshausen	8.863, 47.82187	scheermūs	sch ee r m ū s	scherrmus	sch e rr m u s	2
+353	TUTT Q3	III_37_0019	Worblingen, Worblingen	8.86677, 47.72492	schärmuus	sch ä r m uu s	scheermus	sch ee r m u s	3
+354	TUTT J6	III_36_0044	Beuren an der Aach, Beuren	8.87459, 47.79932	scherrmuß	sch e rr m u ß	schermus	sch e r m u s	2
+355	TUTT B4	III_35_0044	Honstetten, Honstetten	8.88331, 47.8933	schermaus	sch e r m a u s	schärmus	sch ä r m u s	2
+356	TUTT X1	III_38_0024	Öhningen, Öhningen	8.89136, 47.66162	schärrmūs	sch ä rr m ū s	schermus	sch e r m u s	3
+357	TUTT Q4	III_37_0021	Bohlingen, Bohlingen	8.8965, 47.72199	schermuß	sch e r m u ß	schärrmus	sch ä rr m u s	3
+358	TUTT B5	III_35_0043	Eigeltingen, Eigeltingen	8.8974, 47.85806	schärmus	sch ä r m u s	schermus	sch e r m u s	1
+359	TUTT Q2	III_37_0020	Überlingen am Ried, Überlingen am Ried	8.89807, 47.73495	schermūs	sch e r m ū s	scherrmus	sch e rr m u s	2
+360	TUTT B3	III_35_0045	Reute, Reute	8.90723, 47.8873	schärrmus	sch ä rr m u s	scheermus	sch ee r m u s	2
+361	TUTT u4	III_34_0047	Liptingen, Liptingen	8.90748, 47.93756	scheermaus	sch ee r m a u s	schermaus	sch e r m a u s	1
+362	TUTT B2	III_35_0041	Rorgenwies, Rorgenwies	8.92043, 47.90334	schärmūs	sch ä r m ū s	schärmus	sch ä r m u s	1
+363	TUTT J8	III_36_0047	Steisslingen, Steisslingen	8.92209, 47.80296	schermus	sch e r m u s	schermüs	sch e r m ü s	1
+364	TUTT B7	III_35_0038	Orsingen, Orsingen	8.92977, 47.83688	schärrmus	sch ä rr m u s	scherrmus	sch e rr m u s	1
+365	TUTT Q7	III_37_0025	Bankholzen, Bankholzen	8.92989, 47.7082	schermus	sch e r m u s	schärmus	sch ä r m u s	1
+366	TUTT Q5	III_37_0024	Moos, Moos	8.93316, 47.7259	scherrmus	sch e rr m u s	schärrmus	sch ä rr m u s	1
+367	TUTT B9	III_35_0049	Homberg Münchhof, Münchhöf	8.95295, 47.88032	scheermūs	sch ee r m ū s	scheermus	sch ee r m u s	1
+368	TUTT B8	III_35_0051	Nenzingen, Nenzingen	8.95914, 47.84256	schärmūs	sch ä r m ū s	schermus	sch e r m u s	2
+369	TUTT J10	III_36_0048	Wahlwies, Wahlwies	8.96632, 47.81985	schärmūs	sch ä r m ū s	schärrmus	sch ä rr m u s	2
+370	TUTT Q6/2, TUTT Q6/1, TUTT Q6/3	III_37_0023	Radolfzell, Radolfzell	8.97017, 47.74493	schermus	sch e r m u s	schermaus	sch e r m a u s	1
+371	TUTT J9	III_36_0049	Stahringen, Stahringen	8.97547, 47.78849	schērmūs	sch ē r m ū s	schermuus	sch e r m uu s	3
+372	TUTT C4, TUTT B11	III_35_0050	Mahlspüren, Mahlspüren	8.97748, 47.87563	schermus	sch e r m u s	scherrmus	sch e rr m u s	1
+373	TUTT Q10	III_37_0026	Gaienhofen, Gaienhofen	8.9829, 47.68263	schärmus	sch ä r m u s	schermus	sch e r m u s	1
+374	TUTT Q9	III_37_0027	Horn, Horn	8.99438, 47.69562	schärmus	sch ä r m u s	schermūs	sch e r m ū s	2
+375	TUTT J11	III_36_0051, III_36_0050	Güttingen, Güttingen	8.998, 47.77415	scherrmus	sch e rr m u s	schermus	sch e r m u s	1
+376	TUTT K8	III_36_0045	Möggingen, Möggingen	9.00337, 47.76589	scherrmus	sch e rr m u s	schermus	sch e r m u s	1
+377	TUTT R3	III_37_0030	Markelfingen, Markelfingen	9.00452, 47.74143	schērmūs	sch ē r m ū s	schermus	sch e r m u s	2
+378	TUTT C7	III_35_0039	Hindelwangen, Hindelwangen	9.00909, 47.86237	schermuus	sch e r m uu s	schermaus	sch e r m a u s	1
+379	TUTT K5	III_36_0053	Espasingen, Espasingen	9.01058, 47.82135	scherrmus	sch e rr m u s	scherrmuhs	sch e rr m u h s	1
+380	TUTT C6	III_35_0056	Stockach, Stockach	9.01468, 47.85384	schärrmus	sch ä rr m u s	scheermus	sch ee r m u s	2
+381	TUTT K7	III_36_0055, III_36_0056	Liggeringen, Liggeringen	9.02698, 47.77495	schärmus	sch ä r m u s	scherrmuus	sch e rr m u u s	3
+382	TUTT K6	III_36_0054	Bodman, Bodman	9.02835, 47.80402	scherrmus	sch e rr m u s	schärmus	sch ä r m u s	2
+383	TUTT v1	III_34_0054	Altheim, Altheim	9.03387, 47.99511	schärmeus	sch ä r m e u s	schärmaus	sch ä r m a u s	1
+384	TUTT g1	III_32_0042	Glashütte (Heuberg), Glashütte	9.03485, 48.1237	schearmaus	sch e a r m a u s	schermaus	sch e r m a u s	1
+385	TUTT C2/2, TUTT C2/1	III_35_0052	Zoznegg, Zoznegg	9.04053, 47.89958	schärmūs	sch ä r m ū s	scheermus	sch ee r m u s	3
+386	TUTT C5	III_35_0055	Winterspüren, Winterspüren	9.05857, 47.85618	schermūs	sch e r m ū s	scheermus	sch ee r m u s	2
+387	TUTT K4	III_36_0059	Ludwigshafen, Ludwigshafen	9.05916, 47.8189	schǟrmūs	sch ǟ r m ū s	scherrmuus	sch e rr m u u s	4
+388	TUTT R6	III_37_0040	Reichenau, Reichenau	9.06125, 47.69789	schärmus	sch ä r m u s	schermus	sch e r m u s	1
+389	TUTT R4	III_37_0034, III_37_0035, III_37_0033, III_37_0032	Allensbach, Allensbach	9.06699, 47.71535	scherrmus	sch e rr m u s	schermus	sch e r m u s	1
+390	TUTT g2	III_32_0043	Stetten a,k,M, (am kalten Markt), Stetten	9.07816, 48.12086	schermaus	sch e r m a u s	schärmaus	sch ä r m a u s	1
+391	TUTT K3	III_36_0066	Bonndorf, Bonndorf	9.09477, 47.82968	scharmus	sch a r m u s	scherrmus	sch e rr m u s	2
+392	TUTT K11	III_36_0061, III_36_0063, III_36_0062, III_36_0064	Sipplingen, Sipplingen	9.09665, 47.79525	scherrmūs	sch e rr m ū s	schermus	sch e r m u s	2
+393	TUTT 05	III_33_0045	Langenhart, Langenhart	9.10404, 48.04793	scheermaus	sch ee r m a u s	schermaus	sch e r m a u s	1
+394	TUTT v10	III_34_0058, III_34_0057	Messkirch, Messkirch	9.11537, 47.99484	schärmous	sch ä r m o u s	schermous	sch e r m o u s	1
+395	TUTT R1	III_37_0036	Dettingen, Dettingen	9.117, 47.73485	schermus	sch e r m u s	schärrmus	sch ä rr m u s	2
+396	TUTT K2	III_36_0065	Nesselwangen, Nesselwangen	9.11824, 47.81683	schärmūūs	sch ä r m ūū s	scherrmus	sch e rr m u s	4
+397	TUTT K9	III_36_0071	Überlingen, Überlingen	9.1592, 47.76732	šȩrmuus	š ȩ r m uu s	scherrmus	sch e rr m u s	6
+398	SIG q7	III_36_0074	Deisendorf, Deisendorf	9.21621, 47.76835	scherrmuus	sch e rr m u u s	scherrmaus	sch e rr m a u s	1
+399	SIG g2/2, SIG g2/1	III_34_0065, III_34_0063, III_34_0064	Pfullendorf, Pfullendorf	9.25466, 47.92614	schärrmaus	sch ä rr m a u s	schärmaus	sch ä r m a u s	1
+400	SIG k5	III_35_0075	Hattenweiler, Hattenweiler	9.27568, 47.85957	schärmaus	sch ä r m a u s	scherrmaus	sch e rr m a u s	2
+401	SIG n12	III_36_0081	Salem, Salem	9.28599, 47.77663	schärrmus	sch ä rr m u s	schermus	sch e r m u s	2
+402	SIG q4	III_37_0043	Buggensegel, Buggensegel	9.29936, 47.74645	scherrmus	sch e rr m u s	schermus	sch e r m u s	1
+403	SIG n5	III_36_0072	Heiligenberg, Heiligenberg	9.31203, 47.81993	scherrmuus	sch e rr m u u s	scheermuus	sch ee r m u u s	1
+404	SIG q6	III_37_0045	Ahausen, Ahausen	9.32247, 47.72502	schärrmus	sch ä rr m u s	schärmuus	sch ä r m uu s	2
+405	SIG r1	III_36_0092	Mittelstenweiler, Mittelstenweiler	9.33753, 47.75241	schermus	sch e r m u s	schermuus	sch e r m uu s	1
+406	SIG r2	III_37_0050	Bermatingen, Bermatingen	9.34868, 47.73084	scherrmūs	sch e rr m ū s	scherrmus	sch e rr m u s	1
+407	SIG u1	III_38_0026	Immenstaad, Immenstaad	9.3675, 47.66625	schermus	sch e r m u s	schärmus	sch ä r m u s	1
+408	SIG r3	III_37_0052, III_37_0054	Markdorf, Markdorf	9.38933, 47.72088	scherrmus	sch e rr m u s	schermis	sch e r m i s	2
+409	SIG r5	III_37_0056	Kluftern, Kluftern	9.40004, 47.69278	schermūs	sch e r m ū s	schermûs	sch e r m û s	1
+410	SIG r4	III_37_0057	Riedheim, Riedheim	9.41014, 47.70429	schērmus	sch ē r m u s	schermus	sch e r m u s	1
+411	SIG o6	III_36_0096	Urnau, Urnau	9.43083, 47.76354	schermus	sch e r m u s	schärmūs	sch ä r m ū s	2
+412	Co w 2	III_14_0005	Fellerlingen (Fellering), Felleringen	6.98613, 47.89621	scharmus	sch a r m u s	scharmüs	sch a r m ü s	1
+413	Co E13	III_14_0092	Rammersmatt, Rammersmatt	7.07084, 47.78935	scharmūss	sch a r m ū ss	schearmües	sch e a r m ü e s	3
+414	Co E13	III_14_0092	Rammersmatt, Rammersmatt	7.07084, 47.78935	schārrmǖs	sch ā rr m ǖ s	schearmües	sch e a r m ü e s	4
+415	Co M8	III_15_0011, III_15_0010	Gildweiler (Gildwiller), Falkweiler, Hecken, Falkweiler, Gildweiler	7.13461, 47.6894	scharmǟs	sch a r m ǟ s	scharmus	sch a r m u s	1
+416	Co M8	III_15_0011, III_15_0010	Gildweiler (Gildwiller), Falkweiler, Hecken, Falkweiler, Gildweiler	7.13461, 47.6894	scharmǟs	sch a r m ǟ s	scharmaus	sch a r m a u s	2
+417	Co U 7/1, Co U 7/2	III_16_0029	Altkirch, Altkirch	7.24009, 47.62592	schārmüs	sch ā r m ü s	schaarmühs	sch aa r m ü h s	3
+418	Co U 7/1, Co U 7/2	III_16_0029	Altkirch, Altkirch	7.24009, 47.62592	scharmüs	sch a r m ü s	schaarmühs	sch aa r m ü h s	2
+419	Co N8/1, Co N8/2	III_15_0015	Illfurt (Illfurth), Illfurt	7.26494, 47.67073	schārmüs	sch ā r m ü s	scharmüs	sch a r m ü s	1
+420	Co F7/1	III_14_0107, III_14_0121, III_14_0119, III_14_0115, III_14_0111, III_14_0116, III_14_0113, III_14_0118, III_14_0120, III_14_0117, III_14_0114, III_14_0109, III_14_0110	Mülhausen, Mülhausen	7.34375, 47.7517	scharmüß	sch a r m ü ß	schārmüs  	sch ā r m ü s  	4
+421	Co F7/1	III_14_0107, III_14_0121, III_14_0119, III_14_0115, III_14_0111, III_14_0116, III_14_0113, III_14_0118, III_14_0120, III_14_0117, III_14_0114, III_14_0109, III_14_0110	Mülhausen, Mülhausen	7.34375, 47.7517	scharmüß	sch a r m ü ß	schármüs	sch á r m ü s	2
+422	Co F7/1	III_14_0107, III_14_0121, III_14_0119, III_14_0115, III_14_0111, III_14_0116, III_14_0113, III_14_0118, III_14_0120, III_14_0117, III_14_0114, III_14_0109, III_14_0110	Mülhausen, Mülhausen	7.34375, 47.7517	scharmüß	sch a r m ü ß	scharmüs	sch a r m ü s	1
+423	Co F7/1	III_14_0107, III_14_0121, III_14_0119, III_14_0115, III_14_0111, III_14_0116, III_14_0113, III_14_0118, III_14_0120, III_14_0117, III_14_0114, III_14_0109, III_14_0110	Mülhausen, Mülhausen	7.34375, 47.7517	scharmüß	sch a r m ü ß	scharmüser	sch a r m ü s e r	3
+424	Co F7/1	III_14_0107, III_14_0121, III_14_0119, III_14_0115, III_14_0111, III_14_0116, III_14_0113, III_14_0118, III_14_0120, III_14_0117, III_14_0114, III_14_0109, III_14_0110	Mülhausen, Mülhausen	7.34375, 47.7517	scharmüß	sch a r m ü ß	scharmüss	sch a r m ü ss	2
+425	Co G4, Co G7	III_14_0122	Napoleonsinsel (Ile Napoléon), Illzach, Illzach, Illzach	7.34839, 47.78217	schaamūs	sch aa m ū s	scharmüs	sch a r m ü s	2
+426	Co O1/2, Co O1/1	III_15_0031, III_15_0032	Rixheim, Napoleoninsel Rixheim, Rixheim	7.39739, 47.74412	schārmǖs	sch ā r m ǖ s	scharmüs	sch a r m ü s	2
+427	Co O1/2, Co O1/1	III_15_0031, III_15_0032	Rixheim, Napoleoninsel Rixheim, Rixheim	7.39739, 47.74412	schārmüs	sch ā r m ü s	scharmüs	sch a r m ü s	1
+428	Co W 15/1, Co W 15, 14, Co W 15/2	III_16_0039, III_16_0062, III_16_0040	Boltzheim (Blotzheim), Blotzheim	7.49611, 47.60128	scharmüs	sch a r m ü s	scheermus	sch ee r m u s	3
+429	Co W 15/1, Co W 15, 14, Co W 15/2	III_16_0039, III_16_0062, III_16_0040	Boltzheim (Blotzheim), Blotzheim	7.49611, 47.60128	scharmüs	sch a r m ü s	scharmus	sch a r m u s	1
+430	Co Wa 4	III_16_0065, III_16_0063, III_16_0064	Sankt Ludwig (Saint-Louis) , Sankt Ludwig	7.56351, 47.58575	scharmüs	sch a r m ü s	schärmüs	sch ä r m ü s	1
+431	Co Wa 4	III_16_0065, III_16_0063, III_16_0064	Sankt Ludwig (Saint-Louis) , Sankt Ludwig	7.56351, 47.58575	scharmüs	sch a r m ü s	scharmüas	sch a r m ü a s	1
+432	Co W 3, Co W 2	III_16_0068, III_16_0069	Kirchen (Efringen-Kirchen), Efringen (Efringen-Kirchen), Kirchen, Efringen	7.56471, 47.64989	schärmus	sch ä r m u s	schärmuus	sch ä r m uu s	1
+433	Co W 10	III_16_0072, III_16_0073	Binzen, Binzen, Märkt	7.62403, 47.63133	scharmüs	sch a r m ü s	schērmus	sch ē r m u s	2
+434	Co W 10	III_16_0072, III_16_0073	Binzen, Binzen, Märkt	7.62403, 47.63133	scharmüs	sch a r m ü s	scharmaus	sch a r m a u s	2
+435	Co W 10	III_16_0072, III_16_0073	Binzen, Binzen, Märkt	7.62403, 47.63133	scharmüs	sch a r m ü s	schärmuus	sch ä r m uu s	3
+436	Co W 6	III_16_0076	Schallbach, Schallbach	7.62759, 47.65706	scharmus	sch a r m u s	schär	sch ä r	4
+437	Co W 6	III_16_0076	Schallbach, Schallbach	7.62759, 47.65706	scharmus	sch a r m u s	schärmus	sch ä r m u s	1
+438	Co W 20	III_16_0079, III_16_0081, III_16_0080, III_16_0082, III_16_0083	Lörrach , Lörrach, Lörrach <Adolf Hitler Schule>	7.66409, 47.61258	schärmūs	sch ä r m ū s	schermaus	sch e r m a u s	3
+439	Co W 20	III_16_0079, III_16_0081, III_16_0080, III_16_0082, III_16_0083	Lörrach , Lörrach, Lörrach <Adolf Hitler Schule>	7.66409, 47.61258	schärmūs	sch ä r m ū s	schärmus	sch ä r m u s	1
+440	Co W 20	III_16_0079, III_16_0081, III_16_0080, III_16_0082, III_16_0083	Lörrach , Lörrach, Lörrach <Adolf Hitler Schule>	7.66409, 47.61258	schärmūs	sch ä r m ū s	schärmuus	sch ä r m uu s	2
+441	Co n 4	III_13_0059, III_13_0058	Merdingen, Merdingen	7.68864, 48.0173	scharmus	sch a r m u s	schaͤrmus	sch a ͤ r m u s	1
+442	Co n 4	III_13_0059, III_13_0058	Merdingen, Merdingen	7.68864, 48.0173	scharmus	sch a r m u s	schärmus	sch ä r m u s	1
+443	Co n 4	III_13_0059, III_13_0058	Merdingen, Merdingen	7.68864, 48.0173	schärmus	sch ä r m u s	schaͤrmus	sch a ͤ r m u s	2
+444	Co n 4	III_13_0059, III_13_0058	Merdingen, Merdingen	7.68864, 48.0173	schärmus	sch ä r m u s	scharmus	sch a r m u s	1
+445	Co u 1/2, Co u 1/1	III_13_0135	Biengen, Biengen	7.68958, 47.93875	scharmūüs	sch a r m ū ü s	scheermuus	sch ee r m u u s	4
+446	Co u 1/2, Co u 1/1	III_13_0135	Biengen, Biengen	7.68958, 47.93875	schärmus	sch ä r m u s	scheermuus	sch ee r m u u s	3
+447	Co Xa 5	III_17_0039, III_17_0040, III_17_0038	Wyhlen, Wyhlen	7.69103, 47.54989	schärmuus	sch ä r m uu s	scharmus	sch a r m u s	2
+448	Co Xa 5	III_17_0039, III_17_0040, III_17_0038	Wyhlen, Wyhlen	7.69103, 47.54989	schärmuus	sch ä r m uu s	schärmus	sch ä r m u s	1
+449	Co Xa 5	III_17_0039, III_17_0040, III_17_0038	Wyhlen, Wyhlen	7.69103, 47.54989	schärmuus	sch ä r m uu s	schäärmuus	sch ää r m u u s	1
+450	Co f 1	III_12_0122, III_12_0120, III_12_0121	Endingen, Endingen	7.70312, 48.1419	schermus	sch e r m u s	scharmüs	sch a r m ü s	2
+451	Co B6	III_14_0064, III_14_0063, III_14_0062	Sulzburg, Sulzburg	7.70727, 47.84122	schermus	sch e r m u s	scheermus	sch ee r m u s	1
+452	Co B6	III_14_0064, III_14_0063, III_14_0062	Sulzburg, Sulzburg	7.70727, 47.84122	schermus	sch e r m u s	schärmus	sch ä r m u s	1
+453	Co B6	III_14_0064, III_14_0063, III_14_0062	Sulzburg, Sulzburg	7.70727, 47.84122	schermus	sch e r m u s	scheermuus	sch ee r m u u s	2
+454	Co n 12	III_13_0048, III_13_0050, III_13_0051, III_13_0049	Bötzingen, Bötzingen	7.72593, 48.07743	schermūs	sch e r m ū s	scheermus	sch ee r m u s	2
+455	Co n 12	III_13_0048, III_13_0050, III_13_0051, III_13_0049	Bötzingen, Bötzingen	7.72593, 48.07743	schermūs	sch e r m ū s	schermus	sch e r m u s	1
+456	Co n 12	III_13_0048, III_13_0050, III_13_0051, III_13_0049	Bötzingen, Bötzingen	7.72593, 48.07743	schermūs	sch e r m ū s	schärmus	sch ä r m u s	2
+457	Co n 12	III_13_0048, III_13_0050, III_13_0051, III_13_0049	Bötzingen, Bötzingen	7.72593, 48.07743	schermūs	sch e r m ū s	schèrmus	sch è r m u s	2
+458	Co B9	III_14_0059, III_14_0061, III_14_0060	Staufen (bei Freiburg), Staufen	7.72962, 47.88166	schärmūs	sch ä r m ū s	scheermūs	sch ee r m ū s	2
+459	Co B9	III_14_0059, III_14_0061, III_14_0060	Staufen (bei Freiburg), Staufen	7.72962, 47.88166	schärmūs	sch ä r m ū s	schērmūs	sch ē r m ū s	1
+460	Co Xa 3	III_17_0045, III_17_0044, III_17_0046	Rheinfelden-Stadt (Baden), Rheinfelden	7.78875, 47.55945	schärmūs	sch ä r m ū s	schärmus  	sch ä r m u s  	3
+461	Co Xa 3	III_17_0045, III_17_0044, III_17_0046	Rheinfelden-Stadt (Baden), Rheinfelden	7.78875, 47.55945	schärmūs	sch ä r m ū s	scharmus	sch a r m u s	2
+462	Co Xa 3	III_17_0045, III_17_0044, III_17_0046	Rheinfelden-Stadt (Baden), Rheinfelden	7.78875, 47.55945	schärmūs	sch ä r m ū s	schermuuß	sch e r m uu ß	4
+463	Co u 13	III_13_0133	Haslach, Haslach	7.82166, 47.9895	schermus	sch e r m u s	schärmus	sch ä r m u s	1
+464	Co R9	III_15_0081, III_15_0080, III_15_0079	Zell im Wiesental, Zell im Wiesental	7.85301, 47.70753	schermus	sch e r m u s	schärmus	sch ä r m u s	1
+465	Co R9	III_15_0081, III_15_0080, III_15_0079	Zell im Wiesental, Zell im Wiesental	7.85301, 47.70753	schermus	sch e r m u s	schärmūs	sch ä r m ū s	2
+466	Co o 6	III_13_0072, III_13_0074, III_13_0071, III_13_0073	Gundelfingen, Gundelfingen	7.87313, 48.04353	schärmuus	sch ä r m uu s	schärrmaus	sch ä rr m a u s	2
+467	Co o 6	III_13_0072, III_13_0074, III_13_0071, III_13_0073	Gundelfingen, Gundelfingen	7.87313, 48.04353	schärmuus	sch ä r m uu s	schärmus	sch ä r m u s	1
+468	Co o 6	III_13_0072, III_13_0074, III_13_0071, III_13_0073	Gundelfingen, Gundelfingen	7.87313, 48.04353	schärmuus	sch ä r m uu s	schermus	sch e r m u s	2
+469	Stra L 12	III_11_0060, III_11_0059	Lahr (Lahr/Schwarzwald), Lahr	7.87603, 48.34018	schärmüs	sch ä r m ü s	schermuus	sch e r m uu s	3
+470	Stra L 12	III_11_0060, III_11_0059	Lahr (Lahr/Schwarzwald), Lahr	7.87603, 48.34018	schärmüs	sch ä r m ü s	schermus	sch e r m u s	2
+471	Co Ya 2	III_17_0051, III_17_0048, III_17_0053, III_17_0052, III_17_0054, III_17_0055, III_17_0050	Obersäckingen, Säckingen	7.96171, 47.57476	schärmuus	sch ä r m uu s	schärmus	sch ä r m u s	1
+472	Co Ya 2	III_17_0051, III_17_0048, III_17_0053, III_17_0052, III_17_0054, III_17_0055, III_17_0050	Obersäckingen, Säckingen	7.96171, 47.57476	schärmuus	sch ä r m uu s	schermus	sch e r m u s	2
+473	TÜB w1/1, TÜB w1/2	III_10_0135	Durbach, Durbach	8.01775, 48.49407	schermaus	sch e r m a u s	schärrmus	sch ä rr m u s	3
+474	TÜB w1/1, TÜB w1/2	III_10_0135	Durbach, Durbach	8.01775, 48.49407	schermus	sch e r m u s	schärrmus	sch ä rr m u s	2
+475	TUTT a4	III_12_0148, III_12_0147, III_12_0149	Simonswald, Untersimonswald	8.04838, 48.10278	schärmus	sch ä r m u s	schermus	sch e r m u s	1
+476	TUTT a4	III_12_0148, III_12_0147, III_12_0149	Simonswald, Untersimonswald	8.04838, 48.10278	schärmus	sch ä r m u s	scheermuus	sch ee r m u u s	3
+477	TUTT L8	III_15_0097	Hartschwand, Hartschwand	8.0655, 47.67119	scheermus	sch ee r m u s	schemŭs	sch e m ŭ s	3
+478	TUTT L8	III_15_0097	Hartschwand, Hartschwand	8.0655, 47.67119	scheermus	sch ee r m u s	scheeamŭs	sch ee a m ŭ s	2
+479	TUTT L8	III_15_0097	Hartschwand, Hartschwand	8.0655, 47.67119	schärmus	sch ä r m u s	schemŭs	sch e m ŭ s	3
+480	TUTT L8	III_15_0097	Hartschwand, Hartschwand	8.0655, 47.67119	schärmus	sch ä r m u s	scheeamŭs	sch ee a m ŭ s	4
+481	TÜB S4	III_12_0055, III_12_0056, III_12_0057	Elzach, Elzach	8.07142, 48.17331	schäērmus	sch ä ē r m u s	schärmus	sch ä r m u s	1
+482	TÜB S4	III_12_0055, III_12_0056, III_12_0057	Elzach, Elzach	8.07142, 48.17331	schäērmus	sch ä ē r m u s	schermus	sch e r m u s	2
+483	TÜB D1/1, TÜB D1/2	III_11_0069, III_11_0068	Nordrach, Nordrach	8.08082, 48.39898	scheermus	sch ee r m u s	schermus	sch e r m u s	1
+484	TÜB D1/1, TÜB D1/2	III_11_0069, III_11_0068	Nordrach, Nordrach	8.08082, 48.39898	scheermus	sch ee r m u s	schärmuus	sch ä r m uu s	3
+485	TÜB D1/1, TÜB D1/2	III_11_0069, III_11_0068	Nordrach, Nordrach	8.08082, 48.39898	schermus	sch e r m u s	schärmuus	sch ä r m uu s	2
+486	TÜB L7	III_11_0138, III_11_0140	Haslach im Kinzigtal, Haslach i, K,	8.08413, 48.28008	schermus	sch e r m u s	schärmus	sch ä r m u s	1
+487	TÜB w2	III_10_0066, III_10_0067	Ödsbach, Oedsbach	8.08784, 48.49713	schǟrmūs	sch ǟ r m ū s	schärmus	sch ä r m u s	2
+488	TÜB w2	III_10_0066, III_10_0067	Ödsbach, Oedsbach	8.08784, 48.49713	schǟrmūs	sch ǟ r m ū s	scheͣ̈rmus	sch e ͣ ̈ r m u s	4
+489	TÜB D4/2, TÜB D4/1	III_11_0075, III_11_0073, III_11_0074	Unterharmersbach, Zell am Harmersbach, Unterharmersbach	8.08843, 48.35461	schermus	sch e r m u s	schärmus	sch ä r m u s	1
+490	TUTT h3, TUTT p1	III_13_0080, III_13_0078, III_13_0079	St, Märgen-Schweighöfe, St, Märgen, St, Märgen	8.09239, 48.00756	schermaus	sch e r m a u s	schärmus	sch ä r m u s	2
+491	TUTT h3, TUTT p1	III_13_0080, III_13_0078, III_13_0079	St, Märgen-Schweighöfe, St, Märgen, St, Märgen	8.09239, 48.00756	schermaus	sch e r m a u s	schermus	sch e r m u s	1
+492	TUTT h3, TUTT p1	III_13_0080, III_13_0078, III_13_0079	St, Märgen-Schweighöfe, St, Märgen, St, Märgen	8.09239, 48.00756	scheermuus	sch ee r m u u s	schärmus	sch ä r m u s	3
+493	TUTT h3, TUTT p1	III_13_0080, III_13_0078, III_13_0079	St, Märgen-Schweighöfe, St, Märgen, St, Märgen	8.09239, 48.00756	scheermuus	sch ee r m u u s	schermus	sch e r m u s	2
+494	TUTT L1	III_15_0112, III_15_0111	Urberg, Urberg	8.12409, 47.73478	schärmuͦuͦs	sch ä r m u ͦ u ͦ s	scharmus	sch a r m u s	4
+495	TUTT L1	III_15_0112, III_15_0111	Urberg, Urberg	8.12409, 47.73478	schärmuͦuͦs	sch ä r m u ͦ u ͦ s	schärmus	sch ä r m u s	3
+496	TÜB D2/2, TÜB D3, TÜB D2/1, TÜB E1	III_11_0077, III_11_0076	Oberharmersbach, Oberharmersbach	8.12723, 48.37386	schǟrmūs 	sch ǟ r m ū s 	schärmus	sch ä r m u s	3
+497	TÜB D2/2, TÜB D3, TÜB D2/1, TÜB E1	III_11_0077, III_11_0076	Oberharmersbach, Oberharmersbach	8.12723, 48.37386	schermus	sch e r m u s	schärmus	sch ä r m u s	1
+498	TÜB D2/2, TÜB D3, TÜB D2/1, TÜB E1	III_11_0077, III_11_0076	Oberharmersbach, Oberharmersbach	8.12723, 48.37386	schärmūs	sch ä r m ū s	schärmus	sch ä r m u s	1
+499	TÜB M5	III_11_0144, III_11_0146	Hausach und Einbach, Einbach, Einbach-Hauserbach	8.16759, 48.2974	schermaus	sch e r m a u s	scheermus	sch ee r m u s	2
+500	TÜB M5	III_11_0144, III_11_0146	Hausach und Einbach, Einbach, Einbach-Hauserbach	8.16759, 48.2974	schermaus	sch e r m a u s	schermus	sch e r m u s	1
+501	TÜB M6	III_11_0142, III_11_0141	Hausach, Hausach	8.17189, 48.28424	schērmuus	sch ē r m uu s	schermuus	sch e r m uu s	1
+502	TÜB M6	III_11_0142, III_11_0141	Hausach, Hausach	8.17189, 48.28424	schērmuus	sch ē r m uu s	schermus	sch e r m u s	2
+503	TÜB E2, TÜB q1	III_11_0080, ungeodnet	Seebach, Seebach	8.20278, 48.57466	schärmåus	sch ä r m å u s	schärmus	sch ä r m u s	1
+504	TÜB E2, TÜB q1	III_11_0080, ungeodnet	Seebach, Seebach	8.20278, 48.57466	schärmåus	sch ä r m å u s	schermus	sch e r m u s	2
+505	TÜB E2, TÜB q1	III_11_0080, ungeodnet	Seebach, Seebach	8.20278, 48.57466	schermus	sch e r m u s	schärmus	sch ä r m u s	1
+506	TUTT b8	III_12_0168, III_12_0166, III_12_0167	Schönwald, Schönwald	8.20401, 48.10371	schermus	sch e r m u s	schärmus	sch ä r m u s	1
+507	TUTT i6	III_13_0091, III_13_0092	Furtwangen (und Furtwangen-Katzensteig), Furtwangen	8.20648, 48.05227	schärmūs	sch ä r m ū s	schermūs	sch e r m ū s	1
+508	TUTT i6	III_13_0091, III_13_0092	Furtwangen (und Furtwangen-Katzensteig), Furtwangen	8.20648, 48.05227	schärmūs	sch ä r m ū s	schermus	sch e r m u s	2
+509	TUTT T7	III_16_0152, III_16_0153, III_16_0150, III_16_0149, III_16_0151	Waldshut, Waldshut	8.21445, 47.6237	schērmus	sch ē r m u s	schermuus	sch e r m uu s	2
+510	TUTT T7	III_16_0152, III_16_0153, III_16_0150, III_16_0149, III_16_0151	Waldshut, Waldshut	8.21445, 47.6237	schērmus	sch ē r m u s	scheermus	sch ee r m u s	2
+511	TUTT T7	III_16_0152, III_16_0153, III_16_0150, III_16_0149, III_16_0151	Waldshut, Waldshut	8.21445, 47.6237	schērmus	sch ē r m u s	scheremus	sch e r e m u s	2
+512	TUTT T7	III_16_0152, III_16_0153, III_16_0150, III_16_0149, III_16_0151	Waldshut, Waldshut	8.21445, 47.6237	schērmus	sch ē r m u s	schermus	sch e r m u s	1
+513	TÜB E4, TÜB M4	III_11_0147, III_11_0079	Oberwolfach, Oberwolfach, Oberwolfach-Walke	8.21698, 48.3174	schemus	sch e m u s	schermus	sch e r m u s	1
+514	TÜB M3/1	III_11_0150	Wolfach, Wolfach	8.22076, 48.30289	schērmūs	sch ē r m ū s	schermuus	sch e r m uu s	3
+515	TÜB M3/1	III_11_0150	Wolfach, Wolfach	8.22076, 48.30289	schērmūs	sch ē r m ū s	schermus	sch e r m u s	2
+516	TÜB M3/1	III_11_0150	Wolfach, Wolfach	8.22076, 48.30289	scheermuus	sch ee r m u u s	schermuus	sch e r m uu s	1
+517	TÜB M3/1	III_11_0150	Wolfach, Wolfach	8.22076, 48.30289	scheermuus	sch ee r m u u s	schermus	sch e r m u s	2
+518	TÜB T1	III_12_0065, III_12_0066	Hornberg, Hornberg	8.23036, 48.21193	schermus	sch e r m u s	scharmus	sch a r m u s	1
+519	TÜB T1	III_12_0065, III_12_0066	Hornberg, Hornberg	8.23036, 48.21193	schermus	sch e r m u s	schärmus	sch ä r m u s	1
+520	TUTT b4	III_12_0165, III_12_0164	Triberg, Triberg	8.2316, 48.13032	scheermūs	sch ee r m ū s	scheermus	sch ee r m u s	1
+521	TUTT b4	III_12_0165, III_12_0164	Triberg, Triberg	8.2316, 48.13032	scheermūs	sch ee r m ū s	schermus	sch e r m u s	2
+522	TUTT i2	III_13_0087, III_13_0084, III_13_0086	Vöhrenbach, Vöhrenbach	8.30495, 48.04519	schermus	sch e r m u s	scheermus	sch ee r m u s	1
+523	TUTT i2	III_13_0087, III_13_0084, III_13_0086	Vöhrenbach, Vöhrenbach	8.30495, 48.04519	schermus	sch e r m u s	schärmus	sch ä r m u s	1
+524	TÜB M10	III_11_0153, III_11_0152	Lehengericht, Vorderlehengericht, Hinterlehengericht	8.30807, 48.2924	scheermaus	sch ee r m a u s	schermaus	sch e r m a u s	1
+525	TÜB M10	III_11_0153, III_11_0152	Lehengericht, Vorderlehengericht, Hinterlehengericht	8.30807, 48.2924	scheermaus	sch ee r m a u s	schärmaus	sch ä r m a u s	2
+526	TUTT M6	III_14_0183, III_14_0182, III_14_0180, III_14_0181	Birkendorf, Birkendorf	8.3126, 47.74971	schärmūs	sch ä r m ū s	scheermus	sch ee r m u s	3
+527	TUTT M6	III_14_0183, III_14_0182, III_14_0180, III_14_0181	Birkendorf, Birkendorf	8.3126, 47.74971	schärmūs	sch ä r m ū s	schärmus	sch ä r m u s	1
+528	TUTT M6	III_14_0183, III_14_0182, III_14_0180, III_14_0181	Birkendorf, Birkendorf	8.3126, 47.74971	schärmūs	sch ä r m ū s	schermus	sch e r m u s	2
+529	TUTT c3	III_12_0156, III_12_0155, III_12_0157	St, Georgen, St, Georgen	8.33183, 48.12564	schǟrmūs	sch ǟ r m ū s	schermaus	sch e r m a u s	3
+530	TUTT c3	III_12_0156, III_12_0155, III_12_0157	St, Georgen, St, Georgen	8.33183, 48.12564	schǟrmūs	sch ǟ r m ū s	schermuus	sch e r m uu s	3
+531	TUTT c3	III_12_0156, III_12_0155, III_12_0157	St, Georgen, St, Georgen	8.33183, 48.12564	schǟrmūs	sch ǟ r m ū s	schäärmuus	sch ää r m u u s	4
+532	TUTT F3	III_36_0006	Wellendingen, Wellendingen	8.35185, 47.79705	schērmūs	sch ē r m ū s	scheermuus	sch ee r m u u s	4
+533	TUTT F3	III_36_0006	Wellendingen, Wellendingen	8.35185, 47.79705	schermǖs	sch e r m ü ̄ s	scheermuus	sch ee r m u u s	3
+534	TUTT U1	III_38_0003, III_38_0002	Erzingen, Erzingen	8.42011, 47.66108	schermus	sch e r m u s	schärrmus	sch ä rr m u s	2
+535	TUTT U1	III_38_0003, III_38_0002	Erzingen, Erzingen	8.42011, 47.66108	schermus	sch e r m u s	schḝrmūs	sch ḝ r m ū s	2
+536	TUTT k1	III_33_0070, III_33_0071, III_33_0069	Vilingen, Villingen	8.45901, 48.0567	schermūs	sch e r m ū s	schermaus	sch e r m a u s	2
+537	TUTT k1	III_33_0070, III_33_0071, III_33_0069	Vilingen, Villingen	8.45901, 48.0567	schermūs	sch e r m ū s	schermus	sch e r m u s	1
+538	TUTT r7	III_34_0016, III_34_0015, III_34_0120	Hüfingen, Hüfingen	8.48886, 47.92431	scherrmus	sch e rr m u s	schermus  	sch e r m u s  	3
+539	TUTT r7	III_34_0016, III_34_0015, III_34_0120	Hüfingen, Hüfingen	8.48886, 47.92431	scherrmus	sch e rr m u s	schermus	sch e r m u s	1
+540	TUTT r8	III_34_0013, III_34_0009, III_34_0010, III_34_0007, III_34_0011, III_34_0012	Donaueschingen, Donaueschingen	8.50052, 47.95113	scherrmus	sch e rr m u s	schärmus	sch ä r m u s	2
+541	TUTT r8	III_34_0013, III_34_0009, III_34_0010, III_34_0007, III_34_0011, III_34_0012	Donaueschingen, Donaueschingen	8.50052, 47.95113	scherrmus	sch e rr m u s	schermus	sch e r m u s	1
+542	TUTT G1	III_36_0018, III_36_0017	Fützen, Fützen	8.5291, 47.80794	scherrmus	sch e rr m u s	schermus	sch e r m u s	1
+543	TUTT l2	III_33_0017, III_33_0016	Bad Dürrheim, Bad Dürrheim	8.53214, 48.01807	scheermus	sch ee r m u s	scherrmuus	sch e rr m u u s	2
+544	TUTT l2	III_33_0017, III_33_0016	Bad Dürrheim, Bad Dürrheim	8.53214, 48.01807	scheermus	sch ee r m u s	schermus	sch e r m u s	1
+545	TUTT z3	III_35_0015, III_35_0013, III_35_0014	Sumpfohren, Sumpfohren	8.53796, 47.90851	schearmus	sch e a r m u s	schährmuus	sch ä h r m uu s	3
+546	TUTT z3	III_35_0015, III_35_0013, III_35_0014	Sumpfohren, Sumpfohren	8.53796, 47.90851	schärmūs	sch ä r m ū s	schährmuus	sch ä h r m uu s	3
+547	TUTT V2	III_38_0022, III_38_0020, III_38_0021	Jestetten, Jestetten	8.57572, 47.65297	scheermus	sch ee r m u s	schermuus	sch e r m uu s	2
+548	TUTT V2	III_38_0022, III_38_0020, III_38_0021	Jestetten, Jestetten	8.57572, 47.65297	scheermus	sch ee r m u s	scherrmus	sch e rr m u s	1
+549	TUTT s4, TUTT A1	III_34_0028	Geisingen (Kirchenhausen), Geisingen, Geisingen	8.65129, 47.93283	scheermus	sch ee r m u s	schermus	sch e r m u s	1
+550	TUTT H7, TUTT H12	III_36_0032, III_36_0031	Beuren a(m) R(ied), Büsslingen, Büsslingen, Beuren	8.6839, 47.79252	scheermus	sch ee r m u s	scherrmūs	sch e rr m ū s	2
+551	TUTT H7, TUTT H12	III_36_0032, III_36_0031	Beuren a(m) R(ied), Büsslingen, Büsslingen, Beuren	8.6839, 47.79252	scheermus	sch ee r m u s	schermus	sch e r m u s	1
+552	TUTT H7, TUTT H12	III_36_0032, III_36_0031	Beuren a(m) R(ied), Büsslingen, Büsslingen, Beuren	8.6839, 47.79252	schermus	sch e r m u s	scherrmūs	sch e rr m ū s	2
+553	TUTT t4	III_34_0041, III_34_0039	Immendingen, Immendingen	8.73032, 47.95055	schäarmus	sch ä a r m u s	schermuus	sch e r m uu s	3
+554	TUTT t4	III_34_0041, III_34_0039	Immendingen, Immendingen	8.73032, 47.95055	schäarmus	sch ä a r m u s	schärmuus	sch ä r m uu s	2
+555	TUTT H11	III_36_0029, III_36_0028, III_36_0027	Weiterdingen, Weiterdingen	8.76917, 47.79954	scherrmus	sch e rr m u s	schermus	sch e r m u s	1
+556	TUTT Q6/2, TUTT Q6/1, TUTT Q6/3	III_37_0023	Radolfzell, Radolfzell	8.97017, 47.74493	schermūs	sch e r m ū s	schermaus	sch e r m a u s	2
+557	TUTT Q6/2, TUTT Q6/1, TUTT Q6/3	III_37_0023	Radolfzell, Radolfzell	8.97017, 47.74493	schermus	sch e r m u s	schermaus	sch e r m a u s	1
+558	TUTT J11	III_36_0051, III_36_0050	Güttingen, Güttingen	8.998, 47.77415	scherrmus	sch e rr m u s	schermus	sch e r m u s	1
+559	TUTT K7	III_36_0055, III_36_0056	Liggeringen, Liggeringen	9.02698, 47.77495	schärmus	sch ä r m u s	scherrmus	sch e rr m u s	2
+560	TUTT K7	III_36_0055, III_36_0056	Liggeringen, Liggeringen	9.02698, 47.77495	schärmus	sch ä r m u s	scherrmuus	sch e rr m u u s	3
+561	TUTT C2/2, TUTT C2/1	III_35_0052	Zoznegg, Zoznegg	9.04053, 47.89958	schärmus	sch ä r m u s	scheermus	sch ee r m u s	2
+562	TUTT C2/2, TUTT C2/1	III_35_0052	Zoznegg, Zoznegg	9.04053, 47.89958	schärmūs	sch ä r m ū s	scheermus	sch ee r m u s	3
+563	TUTT R4	III_37_0034, III_37_0035, III_37_0033, III_37_0032	Allensbach, Allensbach	9.06699, 47.71535	scherrmus	sch e rr m u s	schärrmuus	sch ä rr m u u s	2
+564	TUTT R4	III_37_0034, III_37_0035, III_37_0033, III_37_0032	Allensbach, Allensbach	9.06699, 47.71535	scherrmus	sch e rr m u s	schermus	sch e r m u s	1
+565	TUTT K11	III_36_0061, III_36_0063, III_36_0062, III_36_0064	Sipplingen, Sipplingen	9.09665, 47.79525	scherrmūs	sch e rr m ū s	scherrmus	sch e rr m u s	1
+566	TUTT K11	III_36_0061, III_36_0063, III_36_0062, III_36_0064	Sipplingen, Sipplingen	9.09665, 47.79525	scherrmūs	sch e rr m ū s	schärmus	sch ä r m u s	3
+567	TUTT K11	III_36_0061, III_36_0063, III_36_0062, III_36_0064	Sipplingen, Sipplingen	9.09665, 47.79525	scherrmūs	sch e rr m ū s	schermus	sch e r m u s	2
+568	TUTT v10	III_34_0058, III_34_0057	Messkirch, Messkirch	9.11537, 47.99484	schärmous	sch ä r m o u s	schermaus	sch e r m a u s	2
+569	TUTT v10	III_34_0058, III_34_0057	Messkirch, Messkirch	9.11537, 47.99484	schärmous	sch ä r m o u s	schermous	sch e r m o u s	1
+570	SIG g2/2, SIG g2/1	III_34_0065, III_34_0063, III_34_0064	Pfullendorf, Pfullendorf	9.25466, 47.92614	schermaus	sch e r m a u s	schärmaus	sch ä r m a u s	1
+571	SIG g2/2, SIG g2/1	III_34_0065, III_34_0063, III_34_0064	Pfullendorf, Pfullendorf	9.25466, 47.92614	schärrmaus	sch ä rr m a u s	schermaus	sch e r m a u s	2
+572	SIG g2/2, SIG g2/1	III_34_0065, III_34_0063, III_34_0064	Pfullendorf, Pfullendorf	9.25466, 47.92614	schärrmaus	sch ä rr m a u s	schärmaus	sch ä r m a u s	1
+573	SIG n13	III_36_0083, III_36_0085, III_36_0086	Mimmenausen, Mimmenausen	9.2852, 47.76025	scherrmus	sch e rr m u s	schärrmus	sch ä rr m u s	1
+574	SIG r3	III_37_0052, III_37_0054	Markdorf, Markdorf	9.38933, 47.72088	scherrmus	sch e rr m u s	schermaus	sch e r m a u s	2
+575	SIG r3	III_37_0052, III_37_0054	Markdorf, Markdorf	9.38933, 47.72088	scherrmus	sch e rr m u s	schermis	sch e r m i s	2

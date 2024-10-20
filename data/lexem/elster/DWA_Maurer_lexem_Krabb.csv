@@ -1,0 +1,6 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Stra h 10	na	Kilstett	7.85798, 48.67473	graj	na	999	krai	na	999	Krabb	na	999
+1	Stra L 4	na	Berghaupten	7.98716, 48.40675	krabb	na	999	krabb	na	999	Krabb	na	999
+2	KST n6	na	Kirchardt	8.9918, 49.20667	krabb	na	999	krabb	na	999	Krabb	na	999
+3	na	III_17_0036	Burgfelden	7.54705, 47.57853	na	grabb	999	na	krabb	999	na	Krabb	999
+4	na	III_10_0079	Ottenhöfen	8.15978, 48.56801	na	krabbe	999	na	krabbe	999	na	Krabb	999

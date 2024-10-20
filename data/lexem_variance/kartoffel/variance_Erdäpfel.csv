@@ -1,0 +1,1113 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_maurer_align	item_DWA	item_DWA_align	Levenshtein_item
+0	Co D1	III_14_0082	Dollern (Dolleren), Dollern	6.93211, 47.80559	hārdäpfel	h ā r d ä p f e l	hardäpfel	h a r d ä p f e l	1
+1	Co D2	III_14_0083	Oberbruck, Oberbruck	6.94324, 47.80838	hardäpfel	h a r d ä p f e l	herdäpfel	h e r d ä p f e l	1
+2	Co D3	III_14_0080	Rimbach-Pès-Masevaux), Rimbach	6.9473, 47.82212	ardäpfel	a r d ä p f e l	erdäpfel	e r d ä p f e l	1
+3	Co D4	III_14_0084	Kirchberg-Wegscheid, Kirchberg	6.95965, 47.79904	herdäpfel	h e r d ä p f e l	hardäpfel	h a r d ä p f e l	1
+4	Co p 2	III_13_0094	Wildenstein bei Krüt, Kreis Tann, Wildenstein	6.96296, 47.98143	hārdepfl	h ā r d e p f l	hardäpfel	h a r d ä p f e l	3
+5	Co w 1	III_14_0004	Oderen, Odern	6.97525, 47.91008	härdepfel	h ä r d e p f e l	hardepfel	h a r d e p f e l	1
+6	Co w 3	III_14_0006	Hüsseren-Wesserling (Husseren-Wesserling), Hüssern-Wesserling	6.98836, 47.88519	hardepfel	h a r d e p f e l	hartäpfel	h a r t ä p f e l	2
+7	Co x 1	III_14_0008	Ranspach, Ranspach	7.01113, 47.88081	hārdepfel	h ā r d e p f e l	hardepfel	h a r d e p f e l	1
+8	Co x 5	III_14_0009	St. Amarin, St. Amarin	7.03186, 47.87365	ardäpfel	a r d ä p f e l	ardepfl	a r d e p f l	2
+9	Co q 5	III_13_0096	Mittlach, Mittlach	7.03325, 48.00405	hardepfel	h a r d e p f e l	ardepfel	a r d e p f e l	1
+10	Co x 3	III_14_0010	Malmerspach, Malmerspach	7.03487, 47.86486	hardepfel	h a r d e p f e l	hardäpfel	h a r d ä p f e l	1
+11	Co x 6	III_14_0011	Moosch, Moosch	7.04865, 47.86081	hardepfel	h a r d e p f e l	ha̠rde̠pfel	h a ̠ r d e ̠ p f e l	2
+12	Co E3	III_14_0090	Sentheim, Sentheim	7.0544, 47.75581	härdäpfl	h ä r d ä p f l	hārdäpfl	h ā r d ä p f l	1
+13	Co M2	III_15_0001	Obersulzbach Kreis Tann (Soppe-Le-Haut), Obersulzbach <Morzweiler> Morzweiler steht nur auf S.1	7.05724, 47.73372	hardäpfell	h a r d ä p f e ll	hardäpfel	h a r d ä p f e l	1
+14	Co x 9	III_14_0013	Geishausen, Geishausen	7.05832, 47.88017	hardepfel	h a r d e p f e l	herdepfel	h e r d e p f e l	1
+15	Co T9	III_16_0014	Gottestal, Luttern (Valdieu-Lutran), Gottestal	7.05852, 47.63139	hardäpfel	h a r d ä p f e l	erdäpfel	e r d ä p f e l	2
+16	Co E2	III_14_0091	Niederburbach (Bourbach-Le-Bas), Niederburbach	7.05868, 47.77527	hardäpfel	h a r d ä p f e l	hardepfel	h a r d e p f e l	1
+17	Co M7	III_15_0007	St Kosman (Saint-Cosme), St. Kosman	7.06248, 47.68339	hardäpfel	h a r d ä p f e l	hartepfl	h a r t e p f l	3
+18	Co T1	III_15_0008	Brückensweiler (Bréchaumont), Brückensweiler	7.0684, 47.66973	hardepfel	h a r d e p f e l	hartäpfel	h a r t ä p f e l	2
+19	Co E13	III_14_0092	Rammersmatt, Rammersmatt	7.07084, 47.78935	hardäpfel	h a r d ä p f e l	hardöpf	h a r d ö p f	3
+20	Co i 3	III_13_0008	Metzeral, Metzeral	7.07146, 48.01325	hardepfel	h a r d e p f e l	ardäpfel	a r d ä p f e l	2
+21	Co q 4	III_13_0097	Sondernach, Sondernach	7.07276, 47.99621	ārdäpfel	ā r d ä p f e l	ardäpfel	a r d ä p f e l	1
+22	Co i 10	III_13_0007	Mühlbach (Muhlbach-Sur-Munster), Mühlbach	7.08731, 48.02582	ardäpfel	a r d ä p f e l	ardepfel	a r d e p f e l	1
+23	Co M1	III_15_0002	Gewenheim, Gewenheim	7.0913, 47.75291	hardäpfel	h a r d ä p f e l	härdäpfel	h ä r d ä p f e l	1
+24	Co T8	III_16_0017	Retzweiler, Retzweiler	7.09315, 47.63072	hardöpfel	h a r d ö p f e l	hardäpfel	h a r d ä p f e l	1
+25	Co E6	III_14_0093	Leimbach, Leimbach	7.09999, 47.79305	hardepfel	h a r d e p f e l	haardepfel	h aa r d e p f e l	1
+26	Co i 7	III_13_0006	Breitenbach (Breitenbach-Haut-Rhin), Breitenbach	7.10087, 48.02382	ardäpfel	a r d ä p f e l	erdäpfel	e r d ä p f e l	1
+27	Co i 9	III_13_0003, III_13_0004	Stossweier, Stossweier	7.10163, 48.05432	ardepfel	a r d e p f e l	hardäpfel	h a r d ä p f e l	2
+28	Co i 2	III_13_0009	Sulzern (Soultzeren), Sulzern	7.10254, 48.06373	hardäpfel	h a r d ä p f e l	ardöpfel	a r d ö p f e l	2
+29	Co x 7	III_14_0014	Goldbach-Altenbach, Goldbach-Altenbach	7.10326, 47.87359	herdepfel	h e r d e p f e l	herdöpfel	h e r d ö p f e l	1
+30	Co E7	III_14_0094	Tann (Thann), Thann	7.10335, 47.81019	hardäpfel	h a r d ä p f e l	hardepfel	h a r d e p f e l	1
+31	Co T12	III_16_0002	Altenach, Altenach	7.11466, 47.60658	hârdepfel	h â r d e p f e l	ardäpfel	a r d ä p f e l	3
+32	Co i 6	III_13_0005	Luttenbach (Luttenbach-Près-Munster), Luttenbach	7.11745, 48.03105	hardepfel	h a r d e p f e l	ardepfel	a r d e p f e l	1
+33	Co T13	III_16_0003	St. Ulrich bei Dammerkirch, St. Ulrich	7.11911, 47.59537	hardäpfl	h a r d ä p f l	hāᵉrdepfl	h ā ᵉ r d e p f l	3
+34	Co T6	III_16_0018	Dammerkirch (Dannemarie), Dammerkirch	7.1214, 47.63024	hardepfl	h a r d e p f l	hardepfel	h a r d e p f e l	1
+35	Co i 5	III_13_0002	Hohrod, Hohrod	7.12607, 48.05444	ardepfl	a r d e p f l	ardepfel	a r d e p f e l	1
+36	Co i 1/1, Co i 1/2	III_13_0065	Münster (Munster), Münster	7.13185, 48.0418	ardäpfel	a r d ä p f e l	arddepfel	a r dd e p f e l	2
+37	Co T5	III_16_0004	Gommersdorf, Gommersdorf	7.13318, 47.64299	hardöpfel	h a r d ö p f e l	hardäpfl	h a r d ä p f l	2
+38	Co E10	III_14_0098	Oberasbach (Aspach-Le-Haute), Oberaspach	7.13352, 47.77692	hartepfel	h a r t e p f e l	hartepfl	h a r t e p f l	1
+39	Co M8	III_15_0011, III_15_0010	Gildweiler (Gildwiller), Falkweiler, Hecken, Falkweiler, Gildweiler	7.13461, 47.6894	herdepfel	h e r d e p f e l	erdapfel	e r d a p f e l	2
+40	Co i 8	III_13_0001	Hohrodberg, Hohrodberg	7.13528, 48.06037	ardäpfel	a r d ä p f e l	àrdäpfel	à r d ä p f e l	1
+41	Co Vc 2	III_16_0011	Hindlingen, Hindlingen	7.13734, 47.57341	hardäpfel	h a r d ä p f e l	artäpfel	a r t ä p f e l	2
+42	Co q 7	III_13_0099	Lautenbachzell, Lautenbachzell	7.14925, 47.94057	hartäpfel	h a r t ä p f e l	ardäpfel	a r d ä p f e l	2
+43	Co T3	III_16_0008	Büttweiler (Buethwiller), Bütweiler	7.14982, 47.65627	hardäpfel	h a r d ä p f e l	erdäpfel	e r d ä p f e l	2
+44	Co M4	III_15_0014	Oberburnhaupt (Burnhaupt-Le-Haut), Oberburnhaupt	7.14988, 47.72886	hardepfel	h a r d e p f e l	hārdepfel	h ā r d e p f e l	1
+45	Co E11	III_14_0099	Niederasbach (Aspach-Le-Bas), Niederaspach	7.15065, 47.7618	hartepfl	h a r t e p f l	hardepfel	h a r d e p f e l	2
+46	Co x 8	III_14_0015	Rimbach bei Gebweiler (Rimbach-près-Guebwiller), Rimbach	7.15658, 47.90483	hardäpfel	h a r d ä p f e l	herdäpfel	h e r d ä p f e l	1
+47	Co T4	III_16_0009	Hagenbach, Hagenbach	7.15712, 47.65028	ardäpfel	a r d ä p f e l	ardepfel	a r d e p f e l	1
+48	Co q 2	III_13_0100	Lautenbach (Kreis Tann), Lautenbach	7.15877, 47.9414	hardäpfel	h a r d ä p f e l	hartepfel	h a r t e p f e l	2
+49	Co q 3	III_13_0011	Wasserburg Kreis Colmar (Wasserbourg), Wasserburg	7.15948, 48.00283	hardäpfel	h a r d ä p f e l	erdapfel	e r d a p f e l	3
+50	Co M5	III_15_0013	Niederburnhaupt (Burnhaupt-Le-Bas), Niederburnhaupt	7.16039, 47.71674	herdöpfel	h e r d ö p f e l	hardäpfel	h a r d ä p f e l	2
+51	Co q 6	III_13_0101	Murbach, Murbach	7.1604, 47.92318	hārdäpfel	h ā r d ä p f e l	hardäpfel	h a r d ä p f e l	1
+52	Co T15	III_16_0010	Ballersdorf, Ballersdorf	7.1624, 47.625	hardäpfel	h a r d ä p f e l	hartäpfel	h a r t ä p f e l	1
+53	Co N1	III_14_0100	Schweighausem (Schweighouse-Thann), Schweighausen	7.16714, 47.75272	härdöpfel	h ä r d ö p f e l	herdepfel	h e r d e p f e l	2
+54	Co N12	III_15_0028	Balschweiler bei Altkirch, Balschweiler	7.1681, 47.66772	hardäpfl	h a r d ä p f l	hardebfel	h a r d e b f e l	3
+55	Co k 2	III_13_0015	Günsbach (Gunsbach), Günsbach	7.17323, 48.0464	hardepfel	h a r d e p f e l	ardäpfel	a r d ä p f e l	2
+56	Co F5	III_14_0016	Wattweiler (Wattwiller), Wattweiler	7.17766, 47.83549	hardepfl	h a r d e p f l	hardepfel	h a r d e p f e l	1
+57	Co F2	III_14_0097	Sennheim (Cerany), Sennheim	7.17837, 47.80918	hārdepfel	h ā r d e p f e l	hardäpfel	h a r d ä p f e l	2
+58	Stra V 1, Stra U 1/1, Stra U 1/2	III_12_0002	Markich (Sainte-Marie-Aux-Marines), Markirch	7.17972, 48.24483	hardebfel	h a r d e b f e l	hardäpfel	h a r d ä p f e l	2
+59	Co r 9	III_13_0103	Bühl Landkreis Gebweiler (Buhl), Bühl	7.18638, 47.92816	hårdäpfel	h å r d ä p f e l	hardtåpfel	h a r d t å p f e l	3
+60	Co Ua 5	III_17_0030	Largitzen, Largitzen	7.1873, 47.56163	hardäpfel	h a r d ä p f e l	herdäpfel	h e r d ä p f e l	1
+61	Co N14	III_15_0027	Bernweiler (Bernwiller), Bernweiler	7.19368, 47.69085	hardäpfel	h a r d ä p f e l	hardäpfl	h a r d ä p f l	1
+62	Co N13	III_15_0029	Enschingen (Saint-Bernard), Enschingen	7.20293, 47.67101	hardäpfel	h a r d ä p f e l	erdäpfel	e r d ä p f e l	2
+63	Co k 11	III_13_0027	Sulzbach (Soultzbach-Les-Bains), Sulzbach	7.20324, 48.03797	erdäpfel	e r d ä p f e l	hardepfel	h a r d e p f e l	3
+64	Co y 4	III_14_0019	Wünheim, Wünheim	7.20969, 47.87406	hardäpfel	h a r d ä p f e l	hadäpfel	h a d ä p f e l	1
+65	Co y 13, Co y 13, 14, Co y 5, Co y 14	III_14_0027	Gebweiler (Guebwiller), Gebweiler (Guebwiller) , Gebweiler	7.21078, 47.9095	hartäpfel	h a r t ä p f e l	hardäpfel	h a r d ä p f e l	1
+66	Co Ua 12	III_17_0012	Mooslargue, Moos	7.21833, 47.50939	hardäpfel	h a r d ä p f e l	hardäpfl	h a r d ä p f l	1
+67	Co r 2	III_13_0104	Osenbach, Osenbach	7.21903, 47.98623	hardäpfel	h a r d ä p f e l	herdaepfil	h e r d a e p f i l	4
+68	Co Ua 6	III_17_0013	Bisel, Bisel	7.22032, 47.53456	hardepfel	h a r d e p f e l	hardäpfel	h a r d ä p f e l	1
+69	Co N11	III_15_0017	Galfingen (Galfingue), Galfingen	7.22481, 47.70563	hardepfel	h a r d e p f e l	hardäpfel	h a r d ä p f e l	1
+70	Co N15	III_15_0021	Heimsbrunn, Heimsbrunn	7.22696, 47.72682	hardepfel	h a r d e p f e l	hardäpfel	h a r d ä p f e l	1
+71	Co U 5	III_16_0027	Aspach, Aspach	7.23354, 47.6401	ardäpfel	a r d ä p f e l	hartäpfel	h a r t ä p f e l	2
+72	Co r 7/1	III_13_0105	Bergholzzell, Orschweier (Bergholtzzell, Orschwihr), Bergholzzell	7.23501, 47.9292	hardäpfel	h a r d ä p f e l	hardapfel	h a r d a p f e l	1
+73	Co k 15	III_13_0012	Zimmerbach, Zimmerbach	7.23755, 48.07261	hardäpfl	h a r d ä p f l	herdäpfel	h e r d ä p f e l	2
+74	Co U 7/1, Co U 7/2	III_16_0029	Altkirch, Altkirch	7.24009, 47.62592	hardäpfl	h a r d ä p f l	hardäpfel	h a r d ä p f e l	1
+75	Co F3/2, Co F3/1	III_14_0102	Wittelsheim, Wittelsheim	7.24063, 47.81047	hārdepfel	h ā r d e p f e l	hardepfel	h a r d e p f e l	1
+76	Co Ub 1	III_17_0063	Dürlinsdorf (Durlinsdorf), Dürlinsdorf	7.24121, 47.48531	hardäpfel	h a r d ä p f e l	härdepfel	h ä r d e p f e l	2
+77	Co U 13	III_16_0034	Hisingen (Hirsingue), Hirsingen	7.25483, 47.58601	hardäpfel	h a r d ä p f e l	hardepfel	h a r d e p f e l	1
+78	Co Ub 2	III_17_0011	Mörnach (Mœrnach), Mörnach	7.25681, 47.50213	ardäpfel	a r d ä p f e l	herdäpfel	h e r d ä p f e l	2
+79	Co y 8	III_14_0024, III_14_0023	Bollweiler (Bollwiller), Bollweiler	7.25961, 47.86006	hertäpfel	h e r t ä p f e l	ardäpfel	a r d ä p f e l	3
+80	Co c 1	III_12_0081	Kaysersberg, Kaysersberg	7.2617, 48.13853	hardäpfl	h a r d ä p f l	hardäpfel	h a r d ä p f e l	1
+81	Co Ub 6	III_17_0068	Winkel, Winkel	7.26347, 47.46074	hardepfl	h a r d e p f l	hardäpfel	h a r d ä p f e l	2
+82	Co U 4	III_16_0026	Walheim, Walheim	7.26432, 47.63975	hardäpfl	h a r d ä p f l	hāᵉrdäpfl	h ā ᵉ r d ä p f l	2
+83	Co N8/1, Co N8/2	III_15_0015	Illfurt (Illfurth), Illfurt	7.26494, 47.67073	hārdäpfel	h ā r d ä p f e l	hardäpfel	h a r d ä p f e l	1
+84	Co N3	III_15_0016	Niedermorschweiler (Morschwiller-Le-Bas), Niedermorschweiler	7.26699, 47.73596	hardepfel	h a r d e p f e l	hardapfel	h a r d a p f e l	1
+85	Co N10	III_15_0026, III_15_0025	Frönigen, Fröningen	7.26801, 47.69023	hārdepfel	h ā r d e p f e l	hardepfel	h a r d e p f e l	1
+86	Co Ua 10	III_17_0006	Rüderbach (Ruederbach), Rüderbach	7.26824, 47.56144	hartäpfel	h a r t ä p f e l	hardepfel	h a r d e p f e l	2
+87	Co Ua 13	III_17_0010	Köstlach (Kœstlach), Köstlach	7.27085, 47.5062	hardepfel	h a r d e p f e l	härdepfel	h ä r d e p f e l	1
+88	Co y 15	III_14_0026, III_14_0025	Feldkirch, Feldkirch	7.27197, 47.86504	hardäpfel	h a r d ä p f e l	hartäpfel	h a r t ä p f e l	1
+89	Co c 6	III_12_0084	Niedermorschweiher, Niedermorschweiher	7.27596, 48.09972	hardäpfel	h a r d ä p f e l	hartäpfel	h a r t ä p f e l	1
+90	Co Ua 2	III_16_0036	Bettendorf, Bettendorf	7.27676, 47.58379	hardepfel	h a r d e p f e l	ardeppfel	a r d e pp f e l	2
+91	Co U 8	III_16_0030	Wittersdorf, Wittersdorf	7.27817, 47.62015	ardepfel	a r d e p f e l	hartäpfel	h a r t ä p f e l	3
+92	Co c 4	III_12_0085	Türkheim (Turckheim), Türkheim	7.27884, 48.0862	hardepfel	h a r d e p f e l	hartäpfel	h a r t ä p f e l	2
+93	Co N5	III_15_0018	Hochstatt, Hochstatt	7.28072, 47.70069	hartäpfel	h a r t ä p f e l	hardapfel	h a r d a p f e l	2
+94	Stra O 5, Stra U 2	III_11_0082	klein Leberau (Lièpvre), Leberau (Lièpvre), Leberau	7.28169, 48.2709	ardäpfel	a r d ä p f e l	hardäpfel	h a r d ä p f e l	1
+95	Co k 13	III_13_0017	Vöklinshofen (Voegtlinshoffen), Vöklinshofen	7.28224, 48.01954	hardäpfel	h a r d ä p f e l	hardöpfel	h a r d ö p f e l	1
+96	Co c 12	III_12_0082	Ammerschweier, Ammerschweier	7.28484, 48.12465	hārdepfel	h ā r d e p f e l	hardäpfel	h a r d ä p f e l	2
+97	Co c 5	III_12_0083	Katzenthal, Katzental	7.28497, 48.10796	härdepfel	h ä r d e p f e l	hardäpfel	h a r d ä p f e l	2
+98	Co c 7	III_12_0080	Kientzheim, Kientzheim	7.28695, 48.13649	hárdäpfel	h á r d ä p f e l	hā́rdäpfl	h ā ́ r d ä p f l	3
+99	Stra G 2	III_11_0004, III_11_0003	Breitenbach, Breitenbach	7.2921, 48.36514	ardäpfel	a r d ä p f e l	ardäfel	a r d ä f e l	1
+100	Co r 5	III_13_0112	Gundolsheim, Gundolsheim	7.2942, 47.92837	härdäpfel	h ä r d ä p f e l	härdepfel	h ä r d e p f e l	1
+101	Co N6	III_15_0019	Zillisheim, Zillisheim	7.29485, 47.69387	hartäpfel	h a r t ä p f e l	hardäpfel	h a r d ä p f e l	1
+102	Stra s 3	III_10_0003	Mühlbach (Muhlbach-Sur-Bruche), Mühlbach	7.29709, 48.51659	ardäpfel	a r d ä p f e l	ardépfl	a r d é p f l	2
+103	Co k 6	III_13_0023	Hattstatt, Hattstatt	7.30016, 48.0108	härdepfel	h ä r d e p f e l	hardöpfel	h a r d ö p f e l	2
+104	Co k 12	III_13_0022	Obermorschweier, Obermorschweier	7.30037, 48.01773	hardäpfel	h a r d ä p f e l	erdäpfel	e r d ä p f e l	2
+105	Co Ua 4	III_17_0007	Grenzingen, Grenzingen	7.30068, 47.56354	hardepfel	h a r d e p f e l	hartepfel	h a r t e p f e l	1
+106	Stra l 1, Stra l 3	III_9_0005, III_9_0007	Engenthal, Engental, Engental-Windsburg, Engental	7.30153, 48.63467	hårdåpfel	h å r d å p f e l	ardäpfel	a r d ä p f e l	3
+107	Co y 7	III_14_0033	Pulversheim, Pulversheim	7.30181, 47.83432	haͤräpfel	h a ͤ r ä p f e l	hardäpfel	h a r d ä p f e l	2
+108	Stra O 4	III_11_0086	Wanzel (La Vancelle), Wanzel	7.30201, 48.28406	herdäpfel	h e r d ä p f e l	hardöpfel	h a r d ö p f e l	2
+109	Co U 10	III_16_0032	Tagsdorf, Tagsdorf	7.30232, 47.62138	hardäpfel	h a r d ä p f e l	herdäpfel	h e r d ä p f e l	1
+110	Stra G 6	III_11_0007, III_11_0005	Weiler (Villé), Weiler, Weiler, ortsteil Erlenbach	7.30273, 48.34253	ardepfl	a r d e p f l	ardepfel	a r d e p f e l	1
+111	Co c 9	III_12_0079	Sigolsheim, Sigolsheim	7.3035, 48.13267	hardepfel	h a r d e p f e l	hardäpfel	h a r d ä p f e l	1
+112	Co k 14	III_13_0020	Egisheim, Egisheim	7.30455, 48.04168	hartäpfel	h a r t ä p f e l	hardäpfel	h a r d ä p f e l	1
+113	Co k 4	III_13_0019	Wettolsheim, Wettolsheim	7.30629, 48.06133	hartäpfel	h a r t ä p f e l	hertäpfel	h e r t ä p f e l	1
+114	Co N7	III_15_0024	Flachslanden (Flaxlanden), Flachslanden	7.30924, 47.69692	hardäpfel	h a r d ä p f e l	hardöpfel	h a r d ö p f e l	1
+115	Co l 4	III_12_0087	Logelbach, Logelbach	7.30991, 48.0865	hardäpfel	h a r d ä p f e l	erdäpfel	e r d ä p f e l	2
+116	Co Ua 9	III_17_0029	Waldighofen, Waldighofen	7.31605, 47.55061	hardepfel	h a r d e p f e l	erdäpfel	e r d ä p f e l	3
+117	Stra V 6	III_12_0006	Hunaweier (Hunawihr), Hunaweier	7.31671, 48.18091	hardäpfel	h a r d ä p f e l	hartepfl	h a r t e p f l	3
+118	Stra d 2	III_8_0026	Reinhardsmünster, Reinhardsmünster	7.31728, 48.67755	ardäpfel	a r d ä p f e l	artepfel	a r t e p f e l	2
+119	Stra V 5	III_12_0007	Zellenberg, Zellenberg	7.31874, 48.17063	hardäpfel	h a r d ä p f e l	hardäpfl	h a r d ä p f l	1
+120	Co Ua 3	III_16_0035	Weiler (Kreis Altkirch), Weiler	7.31925, 47.5857	hardepfel	h a r d e p f e l	hartäepfel	h a r t ä e p f e l	2
+121	Co c 13	III_12_0077, III_12_0076	Mittelweier, Mittelweier	7.32094, 48.14982	hardepfel	h a r d e p f e l	hardepfl	h a r d e p f l	1
+122	Stra z 1/1	III_10_0085	Grendelbruch, Grendelbruch	7.32375, 48.49241	hardäpfel	h a r d ä p f e l	ardäpfel	a r d ä p f e l	1
+123	Stra s 2	III_10_0004	Urmatt, Urmatt	7.32457, 48.52675	ārdåpfel	ā r d å p f e l	ardepfel	a r d e p f e l	2
+124	Stra V 4	III_12_0005	Rappoltsweiler (Ribeauvillé), Rappoltsweiler	7.32486, 48.19355	hardäpfel	h a r d ä p f e l	hartäffel	h a r t ä ff e l	2
+125	Stra O 3	III_11_0085	Diefenbach (Dieffenbach-Au-Val), Diefenbach	7.32766, 48.31529	hardäpfel	h a r d ä p f e l	hartopfel	h a r t o p f e l	2
+126	Stra d 1	III_8_0027	Sankt Gallen, Tal St. Gallen	7.32779, 48.69001	ärdebfel	ä r d e b f e l	ardepfel	a r d e p f e l	2
+127	Co k 10	III_13_0026	Herlisheim (Herrlisheim), Herlisheim	7.32932, 48.01677	härdepfel	h ä r d e p f e l	herdöpfel	h e r d ö p f e l	2
+128	Stra G 1	III_11_0002	Le Hohwald, Hohwald	7.33005, 48.40339	hardepfel	h a r d e p f e l	hardäpfel	h a r d ä p f e l	1
+129	Stra m 17	III_8_0043	Hengweiler, Hengweiler	7.33273, 48.66842	ardäpfel	a r d ä p f e l	ardapfel	a r d a p f e l	1
+130	Co G3	III_14_0123	Kingersheim, Kingersheim	7.33579, 47.79025	härdäpfel	h ä r d ä p f e l	hàrdäpfel	h à r d ä p f e l	1
+131	Co Va 10	III_17_0009	Dürmenach (Durmenach), Dürmenach	7.3374, 47.5271	hàrdepfel	h à r d e p f e l	hä̀rdepfl	h a ̈ ̀ r d e p f l	4
+132	Co G2	III_14_0124	Wittenheim, Wittenheim	7.33993, 47.81085	hardepfl	h a r d e p f l	hardäpfel	h a r d ä p f e l	2
+133	Co Va 13	III_17_0033	Steinsulz (Steinsoultz), Steinsulz	7.34276, 47.55541	hartäpfel	h a r t ä p f e l	hardäpfel	h a r d ä p f e l	1
+134	Co F7/1, Co F7/2	III_14_0107, III_14_0108, III_14_0121, III_14_0119, III_14_0115, III_14_0116, III_14_0112, III_14_0111, III_14_0113, III_14_0118, III_14_0120, III_14_0117, III_14_0114, III_14_0109, III_14_0110	Mülhausen, Mülhausen	7.34375, 47.7517	hardäpfel	h a r d ä p f e l	hartäpfel	h a r t ä p f e l	1
+135	Co V 1	III_16_0048	Obersteinbrunn (Steinbrunn-le-Haut), Obersteinbrunn	7.3467, 47.65852	hardepfel	h a r d e p f e l	hardäpfel	h a r d ä p f e l	1
+136	Co G4, Co G7	III_14_0122	Napoleonsinsel (Ile Napoléon), Illzach, Illzach, Illzach	7.34839, 47.78217	hardöpfel	h a r d ö p f e l	hardäpfel	h a r d ä p f e l	1
+137	Co V 6	III_16_0041	Wahlbach, Wahlbach	7.34876, 47.63135	herdepfl	h e r d e p f l	herdepfel	h e r d e p f e l	1
+138	Stra e 16	III_8_0040	Tal bei Maursmünster (Marmoutier), Tal-Maursmünster	7.35204, 48.70268	ārdapfel	ā r d a p f e l	ardepfel	a r d e p f e l	2
+139	Co z 1	III_14_0034, III_14_0035	Ensisheim, Ensisheim	7.35432, 47.86522	hārdepfel	h ā r d e p f e l	hardäpfel	h a r d ä p f e l	2
+140	Stra W 3	III_12_0011	Rodern, Rodern	7.35716, 48.22457	hartäpfel	h a r t ä p f e l	hardäpfel	h a r d ä p f e l	1
+141	Stra W 4	III_12_0013	Bergheim, Bergheim	7.35777, 48.20604	hardepfel	h a r d e p f e l	hartepfel	h a r t e p f e l	1
+142	Co Vd 9	III_17_0077	Kiffis, Kiffis	7.35848, 47.4405	hardäpfel	h a r d ä p f e l	hartäpfel	h a r t ä p f e l	1
+143	Co z 5	III_13_0115	Meienheim (Meyenheim), Meienheim	7.35924, 47.91132	hardäpfel	h a r d ä p f e l	härdäpfel	h ä r d ä p f e l	1
+144	Stra e 19	III_8_0042	Dimbstal, Dimbstal	7.35926, 48.6727	erdäpfel	e r d ä p f e l	ardapfel	a r d a p f e l	2
+145	Stra P 2	III_11_0092	St Petersholz (Saint Pierre Bois), St. Petersholz	7.36093, 48.3272	hārdaepfel	h ā r d a e p f e l	hardäpfel	h a r d ä p f e l	3
+146	Stra W 7	III_12_0012, III_12_0010	Rohrschweier (Rorschwihr), Rohrschweier	7.36295, 48.21541	hardäpfel	h a r d ä p f e l	hardapfel	h a r d a p f e l	1
+147	Co l 1/5, Co l 1/3, Co l 1/4, Co l 1/1, Co l 1/6, Co l 1/2	III_13_0030	Kolmar (/Hausen an der Möhlin), Kolmar, Kolmar	7.36359, 48.08198	hardaepfel	h a r d a e p f e l	hartäpfel	h a r t ä p f e l	3
+148	Co O8	III_15_0035	Niedersteinbrunn (Steinbrunn-Le-Bas), Niedersteinbrunn	7.36609, 47.67219	hartäpfel	h a r t ä p f e l	hardâpfel	h a r d â p f e l	2
+149	Co V 18	III_16_0042	Zässingen (Zaessingue), Zässingen	7.3676, 47.62375	hardepfel	h a r d e p f e l	hartepfel	h a r t e p f e l	1
+150	Co V 11	III_16_0044	Jettingen, Jettingen	7.36877, 47.59592	hardäpfl	h a r d ä p f l	hardäpfel	h a r d ä p f e l	1
+151	Co G5	III_14_0126	Sausheim, Sausheim	7.3698, 47.78852	hardäpfel	h a r d ä p f e l	hardepfel	h a r d e p f e l	1
+152	Stra m 2	III_8_0044	Salental, Salental	7.37043, 48.66739	erdäpfel	e r d ä p f e l	erdapfel	e r d a p f e l	1
+153	Co G6	III_14_0127	Baldersheim, Baldersheim	7.37806, 47.80152	erdäpfel	e r d ä p f e l	ardäpfel	a r d ä p f e l	1
+154	Co Va 8	III_17_0023	Mittelmüspach-Niedermüspach (Muespach), Müspach	7.3807, 47.54728	he̊rdäpfel	h e ̊ r d ä p f e l	hardäpfel	h a r d ä p f e l	2
+155	Stra e 17, Stra m 3/1	III_8_0041	Maursmünster, Maursmünster (Marmoutier), Maursmünster	7.38108, 48.69056	ardapfel	a r d a p f e l	ardäpfel	a r d ä p f e l	1
+156	Co s 4	III_13_0117	Niederenzen, Niederenzen	7.38146, 47.94864	hardepfel	h a r d e p f e l	hardepfȧl	h a r d e p f ȧ l	1
+157	Co G9	III_14_0128	Battenheim, Battenheim	7.38278, 47.81739	hardäpfl	h a r d ä p f l	hardepfl	h a r d e p f l	1
+158	Co Va 14	III_16_0045	Berenzweiler (Berentzwiller), Berenzweiler	7.3832, 47.5856	hǟrdepfl	h ǟ r d e p f l	härdepfl	h ä r d e p f l	1
+159	Stra W 1, Stra W 2	III_12_0009, III_12_0008	St. Pilt (saint-Hyppolyte), Orschweiler (Orschwiller), St. Pilt, Orschweiler	7.38445, 48.24184	härdäpfel	h ä r d ä p f e l	erdäpfel	e r d ä p f e l	2
+160	Stra H 7	III_11_0020	Reichsfeld, Reichsfeld	7.38628, 48.36613	ārdäpfel	ā r d ä p f e l	ardäpfl	a r d ä p f l	2
+161	Stra m 3/2	III_8_0045	Singrist, Singrist	7.38757, 48.6705	ardåpfel	a r d å p f e l	ardepfel	a r d e p f e l	1
+162	Stra t 9	III_10_0014	Heiligenberg, Heiligenberg	7.3916, 48.53799	ardäpfl	a r d ä p f l	erdäpfel	e r d ä p f e l	2
+163	Co s 7/2, Co s 7/3	III_13_0120	Oberhergheim, Oberhergheim	7.39442, 47.96547	ardäpfel	a r d ä p f e l	hardäpfel	h a r d ä p f e l	1
+164	Co O7	III_15_0036	Landser, Landser	7.39601, 47.68637	härdäpfel	h ä r d ä p f e l	härdepfel	h ä r d e p f e l	1
+165	Co O10	III_15_0040	Eschenzweiler (Eschentzwiller), Eschenzweiler	7.39812, 47.71239	hardäpfel	h a r d ä p f e l	hārdepfl	h ā r d e p f l	3
+166	Stra P 8	III_11_0096	Kestenholz (Châtenois), Kestenholz	7.39919, 48.27183	hardepfel	h a r d e p f e l	hardäpfel	h a r d ä p f e l	1
+167	Co O5	III_15_0037	Dietenweiler (Dietwiller), Dietweiler	7.40296, 47.69288	hardäpfel	h a r d ä p f e l	härdöpfl	h ä r d ö p f l	3
+168	V	III_17_0025	Knöringen  (Knœringue) (im Elsass), Knöringen	7.4042, 47.5624	hardäpfl	h a r d ä p f l	hardäpfel	h a r d ä p f e l	1
+169	Co O6	III_15_0038	Schlierbach, Schlierbach	7.4066, 47.68284	hardepfel	h a r d e p f e l	erdäpfel	e r d ä p f e l	3
+170	Co l 8	III_12_0101	Weier auf dem Land (Wihr-en-Plaine), Weier auf dem Land	7.41118, 48.0844	hardäpfel	h a r d ä p f e l	hardepfel	h a r d e p f e l	1
+171	Co V 7	III_16_0052	Niedermagstatt (Magstatt-le-Bas), Niedermagstatt	7.41155, 47.6393	hārdäpfl	h ā r d ä p f l	hardäpfel	h a r d ä p f e l	2
+172	Co l 2	III_13_0031	Sundhofen (Sundhoffen), Sundhofen	7.41499, 48.04248	hardäpfel	h a r d ä p f e l	hardepfl	h a r d e p f l	2
+173	Stra e 11	III_8_0052	Lochweiler, Lochweiler	7.41619, 48.69645	ardapfl	a r d a p f l	ardäpfel	a r d ä p f e l	2
+174	Stra H 5	III_11_0018	Andlau, Andlau	7.41747, 48.38635	erdaepfel	e r d a e p f e l	erdäpfel	e r d ä p f e l	2
+175	Co Va 1	III_17_0024	Oberranspach (Ranspach-le-Haut), Oberranspach	7.4175, 47.57697	erdapfel	e r d a p f e l	erdäpfel	e r d ä p f e l	1
+176	Stra A 11	III_10_0090	Klingenthal, Klingental	7.41771, 48.47239	ardepfel	a r d e p f e l	aardäpfel	aa r d ä p f e l	2
+177	Stra H 14	III_11_0025	Blienschweiler (Blienschwiller), Blienschweiler	7.41844, 48.34128	hardepfel	h a r d e p f e l	ardäpfel	a r d ä p f e l	2
+178	Stra P 7	III_11_0087	Scherweiler (Scherwiller), Scherweiler	7.4198, 48.28734	hardäpfel	h a r d ä p f e l	hardäpfil	h a r d ä p f i l	1
+179	Co V 2	III_15_0030	Geispitzen, Geispitzen	7.42236, 47.66739	härdäpfel	h ä r d ä p f e l	hardöpfel	h a r d ö p f e l	2
+180	Stra A 7	III_10_0095	St. Nabor (Sain-Nabor), St. Nabor	7.42423, 48.4458	ardepfel	a r d e p f e l	ardäpfel	a r d ä p f e l	1
+181	Stra m 5	III_9_0011	Krastatt, Krastatt	7.4265, 48.65831	hardäpfl	h a r d ä p f l	ardäpfel	a r d ä p f e l	2
+182	Co V 3	III_16_0037	Waltenheim, Waltenheim	7.42684, 47.65714	härdäpfel	h ä r d ä p f e l	hardäpfel	h a r d ä p f e l	1
+183	Stra P 5	III_11_0089	Dambach (Dambach-La-Ville), Dambach	7.42838, 48.32103	ärdepfle	ä r d e p f l e	erdäpfl	e r d ä p f l	3
+184	Co V 8	III_16_0053	Stetten, Stetten	7.42942, 47.6261	hārtäpfel	h ā r t ä p f e l	hardäpfel	h a r d ä p f e l	2
+185	Stra H 12	III_11_0021	Ittersweiler (Itterswiller), Ittersweiler	7.4322, 48.36386	erdäpfel	e r d ä p f e l	ardäpfel	a r d ä p f e l	1
+186	Stra A 6/2, Stra A 6/1	III_10_0091	Ottrott, Ottrott	7.43298, 48.46056	ardepfel	a r d e p f e l	ardäpfel	a r d ä p f e l	1
+187	Stra t 1	III_10_0005	Balbronn, Balbronn	7.43736, 48.58406	aardapfel	aa r d a p f e l	ardapfel	a r d a p f e l	1
+188	Co l 10	III_13_0032	Appenweier (Appenwihr), Appenweier	7.43962, 48.02594	hārdepfel	h ā r d e p f e l	hardäpfel	h a r d ä p f e l	2
+189	Stra A 3/1, Stra A 3/2	III_10_0089	Börsch (Boersch), Börsch	7.43994, 48.47577	ardäpfel	a r d ä p f e l	erdäpfel	e r d ä p f e l	1
+190	Stra t 11	III_10_0021	Rosenweiler, Rosenweiler	7.4409, 48.50587	ardäpfl	a r d ä p f l	erdäpfel	e r d ä p f e l	2
+191	Co V 14	III_16_0054	Kappeln (Kappelen), Kappeln	7.44156, 47.61975	hardepfel	h a r d e p f e l	herdepfel	h e r d e p f e l	1
+192	Stra m 19	III_9_0022	Westhofen, Westhofen	7.44341, 48.60424	ardepfel	a r d e p f e l	ardäpfel	a r d ä p f e l	1
+193	Co d 5	III_12_0092	Riedweier, Riedweier	7.44536, 48.12387	hārdäpfel	h ā r d ä p f e l	hardäpfel	h a r d ä p f e l	1
+194	Co Va 2	III_17_0021	Obermichelbach (Michelbach-le-Haut), Obermichelbach	7.44645, 47.56623	hardöpfl	h a r d ö p f l	hardäpfel	h a r d ä p f e l	2
+195	Stra m 9/2	III_9_0009	Wasselnheim (Wasselonne), Wasselnheim	7.44724, 48.63718	ardäpfel	a r d ä p f e l	erdäpfel	e r d ä p f e l	1
+196	Co Va 15	III_16_0038	Niederranspach (Ranspach-le-Bas), Niederranspach	7.44726, 47.58851	hardäpfel	h a r d ä p f e l	erdäpfel	e r d ä p f e l	2
+197	Co Va 4/2, Co Va 4/1	III_17_0019	Volkensberg (Folgensbourg), Volkensberg	7.4473, 47.55147	hardäpfel	h a r d ä p f e l	herdäpfel	h e r d ä p f e l	1
+198	Co z 4	III_14_0037	Hirzfelden, Hirzfelden	7.4473, 47.90935	herdäpfel	h e r d ä p f e l	hardäpfel	h a r d ä p f e l	1
+199	Stra t 6	III_10_0018	Mutzig, Mutzig	7.45043, 48.53927	ārdäpfel	ā r d ä p f e l	ardäpfel	a r d ä p f e l	1
+200	Stra H 2/1, Stra H 2/2, Stra H 2/3	III_11_0013	Barr, Barr	7.45244, 48.40651	ardepfel	a r d e p f e l	ardäpfel	a r d ä p f e l	1
+201	Co z 2	III_14_0038	Münchhausen (Munchhausen), Münchhausen	7.45274, 47.86847	hārdepfl	h ā r d e p f l	haͣ̈rdepfel	h a ͣ ̈ r d e p f e l	4
+202	Co V 5	III_16_0055	Sierenz (Sierentz), Sierenz	7.45597, 47.6532	hardäpfel	h a r d ä p f e l	herdäpfel	h e r d ä p f e l	1
+203	Co l 11	III_13_0033	Hettenschlag , Hettenschlag	7.45782, 48.00441	hardepfel	h a r d e p f e l	hardöpfel	h a r d ö p f e l	1
+204	Co s 7/1	III_13_0122	Rüstenhart (Rustenhart), Rüstenhart	7.46359, 47.94159	hārdepfl	h ā r d e p f l	haardäpfl	h aa r d ä p f l	3
+205	Stra H 11/2, Stra H 11/1	III_11_0022, III_11_0023	Epfig, Epfig	7.4655, 48.35803	hardäpfel	h a r d ä p f e l	erdäpfel	e r d ä p f e l	2
+206	Co z 3	III_14_0039	Roggenhausen, Roggenhausen	7.46704, 47.8888	härdapfl	h ä r d a p f l	hardäpfl	h a r d ä p f l	2
+207	Stra H 1	III_11_0012	Gertweiler (Gertwiller), Gertweiler	7.46795, 48.4111	ārdäpfel	ā r d ä p f e l	ardäpfel	a r d ä p f e l	1
+208	Co Va 7	III_17_0017	Niederhagental (Hagenthal-le-Bas), Niederhagental	7.47691, 47.52383	herdäpfl	h e r d ä p f l	herdäpfel	h e r d ä p f e l	1
+209	Co V 9	III_16_0056	Bartenheim, Bartenheim	7.47707, 47.63392	hardebfl	h a r d e b f l	hardäpfel	h a r d ä p f e l	3
+210	Stra t 13	III_9_0020	Irmstett, Irmstett	7.47751, 48.58828	ārdãpfel	ā r d ã p f e l	a̠rda̠pfl	a ̠ r d a ̠ p f l	5
+211	Co d 7	III_12_0091	Jebsheim, Jebsheim	7.47771, 48.12279	hardepfel	h a r d e p f e l	ardäpfel	a r d ä p f e l	2
+212	Co l 5	III_13_0028	Widensolen, Widensolen	7.47996, 48.06278	herdäpfel	h e r d ä p f e l	hardâpfel	h a r d â p f e l	2
+213	Co Vd 4	III_17_0073	Leimen (Leymen), Leimen	7.48218, 47.4954	hardäpfel	h a r d ä p f e l	herdäpfel	h e r d ä p f e l	1
+214	Stra t 8	III_10_0020	Dorlisheim, Dorlisheim	7.48538, 48.52471	ardepfel	a r d e p f e l	ardäpfel	a r d ä p f e l	1
+215	Co l 12	III_12_0098	Urschenheim, Urschenheim	7.48632, 48.08696	hardäpfel	h a r d ä p f e l	hardepfel	h a r d e p f e l	1
+216	Stra t 15/2	III_10_0010	Sulzbad (soultz-Les-Bains), Sulzbad	7.48699, 48.572	erdäpfel	e r d ä p f e l	ardäpfel	a r d ä p f e l	1
+217	Stra m 13	III_9_0018	Odratzheim, Odratzheim	7.48778, 48.60108	erdapfel	e r d a p f e l	ardäpfel	a r d ä p f e l	2
+218	Co d 11	III_12_0090	Grussenheim, Grussenheim	7.48794, 48.1443	hārdepfel	h ā r d e p f e l	hardebfl	h a r d e b f l	3
+219	Co s 1	III_13_0123	Dessenheim, Dessenheim	7.48828, 47.97561	hardäpfel	h a r d ä p f e l	hardepfel	h a r d e p f e l	1
+220	Stra m 11	III_9_0015	Marlenheim, Kärchheim, Marlenheim	7.49054, 48.62101	ardäpfl	a r d ä p f l	adepfl	a d e p f l	2
+221	Stra A 9	III_11_0011	Burgheim (Bourgheim), Burgheim	7.49064, 48.41936	artepfel	a r t e p f e l	ardepfel	a r d e p f e l	1
+222	Stra m 14	III_9_0021	Scharrachbergheim, Scharrachbergheim	7.49581, 48.593	årdapfl	å r d a p f l	ardäpfl	a r d ä p f l	2
+223	Co W 15/1, Co W 15, 14, Co W 15/2	III_16_0039, III_16_0062, III_16_0040	Boltzheim (Blotzheim), Blotzheim	7.49611, 47.60128	herdȓpfel	h e r d r ̑ p f e l	hartäpfel	h a r t ä p f e l	4
+224	Stra m 12	III_9_0014	Kirchheim, Kirchheim	7.49624, 48.60963	årdåpfel	å r d å p f e l	ardepfel	a r d e p f e l	2
+225	Co d 9	III_12_0089	Elsenheim, Elsenheim	7.50131, 48.16133	hardäpfel	h a r d ä p f e l	ardäpfel	a r d ä p f e l	1
+226	Stra P 11	III_11_0098	Ebersheim, Ebersheim	7.50132, 48.30759	hardepfel	h a r d e p f e l	herdäpfel	h e r d ä p f e l	2
+227	Co P10/3, Co P10/2, Co P10/1	III_16_0059, III_16_0060, III_15_0042	Kembs-Neuweg, Kembs  , Kembs, Kembs-Neuweg	7.50399, 47.6877	ardäpfel	a r d ä p f e l	hardäpfel	h a r d ä p f e l	1
+228	Co e 8	III_12_0097	Dürrenenzen (Dürrenentzen), Dürrenenzen	7.50406, 48.09192	hardäpfel	h a r d ä p f e l	ardäpfel	a r d ä p f e l	1
+229	Co H15	III_14_0130	Homburg Kreis Mülhausen (Hombourg), Homburg	7.50503, 47.75908	hardäpfel	h a r d ä p f e l	hardápfel	h a r d á p f e l	1
+230	Stra X 11	III_12_0027	Ohnenheim, Ohnenheim	7.50726, 48.18379	hardäpfel	h a r d ä p f e l	hartäpfel	h a r t ä p f e l	1
+231	Co P11	III_15_0044	Niffer, Niffer	7.50904, 47.71353	hardäpfl	h a r d ä p f l	hardepfel	h a r d e p f e l	2
+232	Co Wa 2	III_17_0027	Buschweiler (Buschwiller), Buschweiler	7.50989, 47.55993	herdäpfel	h e r d ä p f e l	hardäpfel	h a r d ä p f e l	1
+233	Stra u 18	III_10_0024	Wolxheim, Wolxheim	7.51077, 48.56903	árdepfel	á r d e p f e l	ardäpfel	a r d ä p f e l	2
+234	Co Wa 5	III_17_0028	Neuweiler (Neuwiller), Neuweiler	7.51526, 47.52439	härdepfel	h ä r d e p f e l	hardepfel	h a r d e p f e l	1
+235	Stra X 1	III_12_0018	Mussig, Mussig	7.52018, 48.23003	ārdäpfel	ā r d ä p f e l	ardäpfel	a r d ä p f e l	1
+236	Stra B 7	III_10_0102, III_10_0103	Walf (Valff)), Walf	7.52068, 48.42151	ardepfel	a r d e p f e l	ardapfel	a r d a p f e l	1
+237	Co Wa 1	III_17_0026	Häsingen (Hésingue), Häsingen	7.5211, 47.57633	hardäpfel	h a r d ä p f e l	hardepfel	h a r d e p f e l	1
+238	Stra Q 1	III_11_0097	Ebersmünster (Ebersmunster), Ebersmunster	7.52112, 48.31139	hardepfel	h a r d e p f e l	härdepfl	h ä r d e p f l	2
+239	Co Wa 3	III_17_0035	Hegenheim (Hégenheim), Hegenheim	7.52344, 47.56115	hardäpfel	h a r d ä p f e l	hartäpfel	h a r t ä p f e l	1
+240	Stra u 6/2, Stra u 6/1	III_10_0025	Ergersheim (wohnt seit 41 in Breitenau), Ergersheim, Ergersheim	7.52806, 48.56941	ārdäpfel	ā r d ä p f e l	ardepfel	a r d e p f e l	2
+241	Co W 14	III_16_0057	Neuweg-Bartenheim, Bartenheim-Neuweg	7.52868, 47.62399	hārdäpfel	h ā r d ä p f e l	hartepfel	h a r t e p f e l	3
+242	Co m 6	III_13_0045	Neubreisach (Neuf-Brisach), Neubreisach	7.52909, 48.01843	hartäpfel	h a r t ä p f e l	hartepfel	h a r t e p f e l	1
+243	Stra B 1	III_10_0038	Griesheim (Griesheim-Près-Molsheim), Griesheim	7.53227, 48.50237	ārdäpfel	ā r d ä p f e l	ardäpfel	a r d ä p f e l	1
+244	Co A2	III_14_0185	Blodelsheim, Blodelsheim	7.53396, 47.88426	hardäpfel	h a r d ä p f e l	härdepfel	h ä r d e p f e l	2
+245	Co W 1	III_16_0067	Istein , Istein	7.53541, 47.66186	erdepfel	e r d e p f e l	erdapfel	e r d a p f e l	1
+246	Stra X 2	III_12_0017	Baldenheim, Baldenheim	7.53925, 48.23746	hārdepfel	h ā r d e p f e l	herdepfel	h e r d e p f e l	1
+247	Co H1	III_14_0132	Eichwald (Chalampé), Eichwald	7.53969, 47.81643	ärdebfl	ä r d e b f l	ärdepfl	ä r d e p f l	1
+248	Stra J 12	III_11_0037	Kogenheim, Kogenheim	7.5423, 48.33798	hārdäpfel	h ā r d ä p f e l	hardepfel	h a r d e p f e l	2
+249	Stra B 5	III_10_0101	Meistratzheim, Meistratzheim	7.54397, 48.44858	ardäpfel	a r d ä p f e l	erdäpfel	e r d ä p f e l	1
+250	Co m 10	III_13_0044	Biesheim, Biesheim	7.54467, 48.04048	hartäpfel	h a r t ä p f e l	erdäpfel	e r d ä p f e l	3
+251	Co e 1	III_12_0102	Marckolsheim, Markolsheim	7.54583, 48.1675	ārdepfel	ā r d e p f e l	hardepfl	h a r d e p f l	3
+252	Co P8	III_15_0045	Bamlach, Bamlach	7.54942, 47.71753	herdepfel	h e r d e p f e l	härdepfel	h ä r d e p f e l	1
+253	Co P18	III_15_0052	Huttingen, Huttingen	7.5497, 47.67294	hardöpfel	h a r d ö p f e l	härdöpfel	h ä r d ö p f e l	1
+254	Stra X 9	III_12_0025	Hessenheim, Hessenheim	7.55134, 48.21037	ardäpfel	a r d ä p f e l	hardäpfel	h a r d ä p f e l	1
+255	Stra J 11	III_11_0036	Sermersheim, Sermersheim	7.55199, 48.34632	hardäpfel	h a r d ä p f e l	erdäpfel	e r d ä p f e l	2
+256	Co m 8	III_13_0043	Volgelsheim, Vogelsheim	7.55292, 48.01693	harddepfel	h a r dd e p f e l	herdäpfel	h e r d ä p f e l	3
+257	Co e 9	III_12_0109	Balzenheim (Baltzenheim), Balzenheim	7.55624, 48.09319	hartepfel	h a r t e p f e l	haardäpfl	h aa r d ä p f l	4
+258	Co m 12	III_13_0042	Algolsheim, Algolsheim	7.55708, 48.00563	herdepfl	h e r d e p f l	hardepfel	h a r d e p f e l	2
+259	Co P2	III_15_0047	Bellingen (Bad Bellingen), Bellingen	7.55728, 47.7319	härdepfel	h ä r d e p f e l	härtepfel	h ä r t e p f e l	1
+260	Co t 5	III_13_0125	Obersaasheim, Obersaasheim	7.55885, 47.98979	hardäpfel	h a r d ä p f e l	erdäpfel	e r d ä p f e l	2
+261	Co H2	III_14_0134	Neuenburg (am Rhein), Neuenburg	7.56012, 47.81393	herdöpfel	h e r d ö p f e l	herdäpfel	h e r d ä p f e l	1
+262	Stra X 3	III_12_0019	Bösenbiesen (Boesenbiesen), Bösenbiesen	7.56377, 48.22957	hardäpfl	h a r d ä p f l	hartäpfel	h a r t ä p f e l	2
+263	Stra u 2/2, Stra n 16	III_9_0042	Fürdenheim, Fürdenheim	7.56378, 48.61325	ardepfel	a r d e p f e l	erdapfel	e r d a p f e l	2
+264	Stra X 13	III_12_0028	Mackenheim, Mackenheim	7.56598, 48.18437	hardäpfel	h a r d ä p f e l	hardepfel	h a r d e p f e l	1
+265	Stra Q 5	III_11_0100	Hilsenheim, Hilsenheim	7.56768, 48.29055	hardäpfel	h a r d ä p f e l	hardäpfl	h a r d ä p f l	1
+266	Stra X 12	III_12_0029	Boozheim (Bootzheim), Boozheim	7.57052, 48.18862	hardäpfel	h a r d ä p f e l	hardepfel	h a r d e p f e l	1
+267	Co W 16	III_16_0061	Neudorf (Village-Neuf), Neudorf	7.57149, 47.60532	hartäpfel	h a r t ä p f e l	hardtapfel	h a r d t a p f e l	2
+268	Co m 9	III_13_0041	Vogelgrün (Vogelgrun), Vogelgrün	7.57243, 48.0111	hārdepfl	h ā r d e p f l	hartäpfl	h a r t ä p f l	3
+269	Stra J 3	III_11_0034	Kerzfeld (Kertzfeld), Kerzfeld	7.57276, 48.37779	hardäpfel	h a r d ä p f e l	hardaepfel	h a r d a e p f e l	2
+270	Stra X 8	III_12_0024	Artolsheim, Artolsheim	7.57377, 48.20951	hardepfl	h a r d e p f l	hārdepfel	h ā r d e p f e l	2
+271	Stra X 4	III_12_0020	Schwobsheim, Schwobsheim	7.57481, 48.2329	hardäpfl	h a r d ä p f l	hardepfel	h a r d e p f e l	2
+272	Co H13	III_14_0135	Schliengen, Schliengen	7.57624, 47.75579	hǟrdepfel	h ǟ r d e p f e l	hädepfel	h ä d e p f e l	2
+273	Co A10	III_14_0042	Zienken (Müllheim), Zienken	7.57779, 47.84303	hārtäpfel	h ā r t ä p f e l	herdepfel	h e r d e p f e l	3
+274	Stra J 10	III_11_0035	Hüttenheim (Huttenheim), Hüttenheim	7.57814, 48.35799	hardäpfel	h a r d ä p f e l	hartäpfel	h a r t ä p f e l	1
+275	Co W 17	III_16_0066	Hüningen (Huningue), Hüningen	7.58374, 47.5912	harddäpfel	h a r dd ä p f e l	hardäpfel	h a r d ä p f e l	1
+276	Co P7	III_15_0048	Hertingen, Hertingen	7.58442, 47.7231	ärdöpfel	ä r d ö p f e l	härdäpfel	h ä r d ä p f e l	2
+277	Stra J 2	III_11_0029	Westhausen (Westhouse), Westhausen	7.58855, 48.39622	hardebfel	h a r d e b f e l	erdapfel	e r d a p f e l	4
+278	Co A9	III_14_0043	Grißheim (Grissheim) , Grissheim	7.59238, 47.87313	härdäpfel	h ä r d ä p f e l	herdepfl	h e r d e p f l	3
+279	Co m 1	III_13_0040	Breisach, Breisach	7.59332, 48.04535	härdepfel	h ä r d e p f e l	herdepfel	h e r d e p f e l	1
+280	Stra J 4/3, Stra J 4/2, Stra J 4/1	III_11_0033	Benfeld, Benfeld	7.59385, 48.37263	ardäpfel	a r d ä p f e l	hardepfel	h a r d e p f e l	2
+281	Stra J 1	III_11_0028	Uttenheim, Uttenheim	7.5965, 48.41075	ardäpfel	a r d ä p f e l	hardäpfel	h a r d ä p f e l	1
+282	Stra u 3	III_10_0029	Breuschwickersheim, Breuschwickersheim	7.60198, 48.5795	ardåpfel	a r d å p f e l	ardäpfel	a r d ä p f e l	1
+283	Stra Q 8/2, Stra Q 8/1	III_11_0105	Sundhausen (Sundhouse), Sundhausen	7.60327, 48.25126	hartäpfel	h a r t ä p f e l	hardepfel	h a r d e p f e l	2
+284	Co P3	III_15_0049	Liel, Liel	7.604, 47.73928	hardepfel	h a r d e p f e l	härdäpfel	h ä r d ä p f e l	2
+285	Stra u 14	III_10_0035	Bläsheim, Bläsheim	7.60783, 48.50535	ardepfel	a r d e p f e l	ardäpfel	a r d ä p f e l	1
+286	Stra Q 2	III_11_0099	Witternheim, Witternheim	7.61297, 48.31375	hardepfel	h a r d e p f e l	herdäpfel	h e r d ä p f e l	2
+287	Co e 12	III_12_0103	Sasbach, Sasbach	7.61363, 48.13798	hartäpfl	h a r t ä p f l	härdäpfel	h ä r d ä p f e l	3
+288	Stra J 5	III_11_0032	Sand, Sand	7.61417, 48.38275	hardäpfel	h a r d ä p f e l	hartäpfel	h a r t ä p f e l	1
+289	Stra X 6	III_12_0022	Saasenheim, Saasenheim	7.61664, 48.23405	hartepfal	h a r t e p f a l	hardepfel	h a r d e p f e l	2
+290	Stra B 9	III_10_0106	Schäfersheim (Schaeffersheim), Schäfersheim	7.6199, 48.42864	ārdepfel	ā r d e p f e l	ardäpfel	a r d ä p f e l	2
+291	Co H3	III_14_0137	Hügelheim, Hügelheim	7.6208, 47.82868	härdepfel	h ä r d e p f e l	herdepfel	h e r d e p f e l	1
+292	Co A8	III_14_0044	Bremgarten (Hartheim), Bremgarten	7.62385, 47.91694	härdepfel	h ä r d e p f e l	herdepfel	h e r d e p f e l	1
+293	Co m 4	III_13_0037	Achkarren, Achkarren	7.62448, 48.06769	herdöpfel	h e r d ö p f e l	herdäpfel	h e r d ä p f e l	1
+294	Co e 6	III_12_0106	Bischoffingen, Bischoffingen	7.62537, 48.10625	hardäpfl	h a r d ä p f l	hardäpfel	h a r d ä p f e l	1
+295	Stra u 4	III_10_0030	Achenheim, Achenheim	7.62578, 48.5817	ardäpfel	a r d ä p f e l	ardapfel	a r d a p f e l	1
+296	Co e 13	III_12_0107	Oberrotweil, Oberrotweil	7.63551, 48.08944	härdepfel	h ä r d e p f e l	hardäpfel	h a r d ä p f e l	2
+297	Stra u 16	III_10_0033	Enzheim, Enzheim	7.63634, 48.53413	ärdäpfl	ä r d ä p f l	erdäpfel	e r d ä p f e l	2
+298	Stra J 7	III_11_0031	Osthausen (Osthouse), Osthausen	7.63886, 48.40167	härdepfl	h ä r d e p f l	hardepfl	h a r d e p f l	1
+299	Co m 2	III_13_0039	Gündlingen, Gündlingen	7.64227, 48.01556	herdäpfel	h e r d ä p f e l	hardepfel	h a r d e p f e l	2
+300	Stra u 15	III_10_0034	Geispolsheim, Geispolsheim	7.64329, 48.51516	erdäpfel	e r d ä p f e l	ardepfel	a r d e p f e l	2
+301	Co m 3	III_13_0038	Ihringen, Ihringen	7.64554, 48.04572	herdepfel	h e r d e p f e l	hardepfel	h a r d e p f e l	1
+302	Stra X 7	III_12_0023	Schönau (Schoenau), Schönau	7.64715, 48.22339	hardepfel	h a r d e p f e l	härdäpfel	h ä r d ä p f e l	2
+303	Co H5	III_14_0143	Zunzingen, Zunzingen	7.65195, 47.82164	herdöpfel	h e r d ö p f e l	herdäpfel	h e r d ä p f e l	1
+304	Co e 2	III_12_0105	Kiechlinsbergen, Kiechlinsbergen	7.65306, 48.12469	härdepfel	h ä r d e p f e l	härdäpfel	h ä r d ä p f e l	1
+305	Co e 11	III_12_0104	Königschaffhausen am Kaiserstuhl, Königschaffhausen	7.65562, 48.13337	hardäpfel	h a r d ä p f e l	härtdäpfel	h ä r t d ä p f e l	2
+306	Co H9	III_14_0141	Lipburg, Lipburg	7.65665, 47.78685	hĕrdöpfel	h ĕ r d ö p f e l	herdöpfel	h e r d ö p f e l	1
+307	Co H4	III_14_0139, III_14_0138	Dattingen, Dattingen	7.65681, 47.83383	herdöpfel	h e r d ö p f e l	herdäpfel	h e r d ä p f e l	1
+308	Stra Q 3	III_11_0102	Diebolsheim, Diebolsheim	7.66174, 48.29015	ardäpfel	a r d ä p f e l	ärdepfl	ä r d e p f l	3
+309	Stra B 10	III_10_0105	Erstein, Erstein	7.66295, 48.4211	hārtepfl	h ā r t e p f l	hartepfel	h a r t e p f e l	2
+310	Co W 20	III_16_0079, III_16_0081, III_16_0080, III_16_0083	Lörrach , Lörrach, Lörrach <Adolf Hitler Schule>	7.66409, 47.61258	herdöpfel	h e r d ö p f e l	härdöpfel	h ä r d ö p f e l	1
+311	Co B1	III_14_0051, III_14_0050	Tunsel, Tunsel	7.66581, 47.90315	heͣrdäpfel	h e ͣ r d ä p f e l	härdöpfel	h ä r d ö p f e l	3
+312	Co A6	III_14_0047	Heitersheim, Heitersheim	7.66768, 47.87108	härtepfl	h ä r t e p f l	härdepfl	h ä r d e p f l	1
+313	Stra R 2	III_11_0107	Friesenheim, Friesenheim	7.67044, 48.30971	hadepfel	h a d e p f e l	hadäpfel	h a d ä p f e l	1
+314	Co u 18	III_13_0127	Niederrimsingen, Niederrimsingen	7.67114, 47.98702	hardäpfel	h a r d ä p f e l	hardöpfel	h a r d ö p f e l	1
+315	Co J1	III_14_0144	Britzingen, Britzingen	7.67237, 47.82744	hardepfel	h a r d e p f e l	herdäpfel	h e r d ä p f e l	2
+316	Co u 21	III_13_0134	Schlatt, Schlatt	7.67473, 47.92531	härdäpfel	h ä r d ä p f e l	härdepfel	h ä r d e p f e l	1
+317	Stra Y 3	III_12_0036	Weisweil, Weisweil	7.67618, 48.19761	hardäpfel	h a r d ä p f e l	herdepfel	h e r d e p f e l	2
+318	Co f 12	III_12_0123	Amoltern, Amoltern	7.67629, 48.12873	hartåpfel	h a r t å p f e l	herdäpfel	h e r d ä p f e l	3
+319	Stra C 1/1, Stra C 1/2	III_10_0110	Fegersheim, Fegersheim	7.67959, 48.4897	ardepfel	a r d e p f e l	ardapfel	a r d a p f e l	1
+320	Stra R 1	III_11_0106	Boofzheim, Boofzheim	7.68036, 48.33214	hardepfel	h a r d e p f e l	hardäpfel	h a r d ä p f e l	1
+321	Co f 6	III_12_0124	Schelingen am Kaiserstuhl, Schelingen	7.68308, 48.10435	härdepfel	h ä r d e p f e l	hardepfel	h a r d e p f e l	1
+322	Co B5	III_14_0058	Laufen, Laufen	7.68471, 47.8434	herdepfel	h e r d e p f e l	hardäpfel	h a r d ä p f e l	2
+323	Co u 1/2, Co u 1/1	III_13_0135	Biengen, Biengen	7.68958, 47.93875	härdäpfel	h ä r d ä p f e l	herdäpfel	h e r d ä p f e l	1
+324	Co B3	III_14_0056	Wettelbrunn, Wettelbrunn	7.69689, 47.87134	herdäpfel	h e r d ä p f e l	hadepfel	h a d e p f e l	3
+325	Co J3	III_14_0153	Schweighof, Schweighof	7.69904, 47.80743	hä̆rdä̆pfl	h ä ̆ r d ä ̆ p f l	härdäpfel	h ä r d ä p f e l	3
+326	Co B4	III_14_0049	Ballrechten-Dottingen, Ballrechten	7.70076, 47.86061	härdepfel	h ä r d e p f e l	herdäpfel	h e r d ä p f e l	2
+327	Co f 9	III_12_0119	Forchheim, Forchheim	7.7031, 48.16341	hǟrdepfl	h ǟ r d e p f l	herdepfel	h e r d e p f e l	2
+328	Co f 1	III_12_0122, III_12_0120, III_12_0121	Endingen, Endingen	7.70312, 48.1419	hardepfl	h a r d e p f l	hardepfel	h a r d e p f e l	1
+329	Co B11	III_14_0052, III_14_0053	Bad Krozingen, Bad Krozingen	7.70333, 47.91813	hadepfel	h a d e p f e l	härtepfel	h ä r t e p f e l	3
+330	Stra R 3	III_11_0108	Rheinau (Rhinau), Rheinau	7.70498, 48.3175	ardäpfel	a r d ä p f e l	erdäpfel	e r d ä p f e l	1
+331	Co B6	III_14_0064, III_14_0063, III_14_0062	Sulzburg, Sulzburg	7.70727, 47.84122	hartäpfel	h a r t ä p f e l	herdöpfel	h e r d ö p f e l	3
+332	Stra v 5, Stra v 4	III_10_0042	Illkirch-Grafenstaden, Illkirch-Grafenstaden	7.71183, 48.5288	ardäpfel	a r d ä p f e l	erdäpfel	e r d ä p f e l	1
+333	Stra Y 1	III_12_0171	Niederhausen, Niederhausen	7.71317, 48.23982	hardepfel	h a r d e p f e l	haͤrdepfel	h a ͤ r d e p f e l	1
+334	Co u 17	III_13_0130	Mengen, Mengen	7.71392, 47.95851	härdepfl	h ä r d e p f l	härdepfel	h ä r d e p f e l	1
+335	Stra C 2	III_10_0111	Eschau, Eschau	7.71556, 48.48796	ardäpfel	a r d ä p f e l	ardepfl	a r d e p f l	2
+336	Co u 15	III_13_0057	Opfingen, Opflingen	7.71585, 48.00052	herdäpfel	h e r d ä p f e l	herdäͤpfel	h e r d ä ͤ p f e l	1
+337	Co u 14	III_13_0128	Tiengen, Tiengen	7.71599, 47.98216	härdäpfel	h ä r d ä p f e l	herdäpfel	h e r d ä p f e l	1
+338	Stra R 13	III_11_0118	Rust, Rust	7.72571, 48.26873	hadepfel	h a d e p f e l	herdäpfel	h e r d ä p f e l	3
+339	Co n 12	III_13_0048, III_13_0050, III_13_0051, III_13_0049	Bötzingen, Bötzingen	7.72593, 48.07743	härdepfl	h ä r d e p f l	herdepfel	h e r d e p f e l	2
+340	Co B9	III_14_0059, III_14_0061, III_14_0060	Staufen (bei Freiburg), Staufen	7.72962, 47.88166	härdepfl	h ä r d e p f l	herdepfel	h e r d e p f e l	2
+341	Co f 10	III_12_0111	Bahlingen, Bahlingen	7.73937, 48.12209	haᵉrdepfl	h a ᵉ r d e p f l	härdepfel	h ä r d e p f e l	3
+342	Stra R 11	III_11_0111, III_11_0110	Kappel a. Rh., Kappel a. Rh., Grafenhausen	7.74182, 48.29235	härdäpfel	h ä r d ä p f e l	herdepfel	h e r d e p f e l	2
+343	Co u 4	III_13_0164	Kirchhofen, Kirchhofen	7.74356, 47.91979	herdäpfl	h e r d ä p f l	härdepfel	h ä r d e p f e l	3
+344	Co f 7	III_12_0125	Eichstetten, Eichstetten	7.74563, 48.09417	herdepfel	h e r d e p f e l	herdäpfel	h e r d ä p f e l	1
+345	Co Xa 1	III_17_0041	Degerfelden, Degerfelden	7.74584, 47.5696	hardäpfel	h a r d ä p f e l	hartäpfel	h a r t ä p f e l	1
+346	Co X 15	III_16_0102	Eichsel (GID von Obereichsel), Eichsel	7.75815, 47.59842	härdöpfel	h ä r d ö p f e l	herdepfel	h e r d e p f e l	2
+347	Co u 7	III_13_0131	Wolfenweiler, Wolfenweiler	7.76194, 47.96231	härdepfel	h ä r d e p f e l	herdäpfel	h e r d ä p f e l	2
+348	Stra Y 13	III_12_0044	Kenzingen, Kenzingen	7.77005, 48.19298	härdäpfel	h ä r d ä p f e l	herdäpfel	h e r d ä p f e l	1
+349	Co Xa 2	III_17_0042	Nollingen, Nollingen	7.7716, 47.57363	härtepfl	h ä r t e p f l	härdäpfl	h ä r d ä p f l	2
+350	Stra Y 8	III_12_0038, III_12_0039, III_12_0037	Herbolzheim a. d. Bleich, Herbolzheim	7.77743, 48.22249	härdepfl	h ä r d e p f l	härdepfel	h ä r d e p f e l	1
+351	Co n 11	III_13_0052	Buchheim, Buchheim	7.77912, 48.06092	härtēpfel	h ä r t ē p f e l	härtepfel	h ä r t e p f e l	1
+352	Co u 9	III_13_0140	Ebringen, Ebringen	7.77981, 47.95761	hardepfel	h a r d e p f e l	herdöpfel	h e r d ö p f e l	2
+353	Stra Y 4	III_12_0033	Ringsheim, Ringsheim	7.78041, 48.24632	heͣrdepfel	h e ͣ r d e p f e l	herdepfel	h e r d e p f e l	1
+354	Co n 9	III_13_0054	Hugstetten, Hugstetten	7.78045, 48.05415	herdepfel	h e r d e p f e l	herdäpfel	h e r d ä p f e l	1
+355	Co f 4	III_12_0173	Bottingen, Bottingen	7.78356, 48.09119	hardepfel	h a r d e p f e l	herdäpfel	h e r d ä p f e l	2
+356	Co B7	III_14_0065	Untermünstertal-Ziegelplatz (Untermünstertal), Untermünstertal	7.78649, 47.85518	hertepfel	h e r t e p f e l	herdepfel	h e r d e p f e l	1
+357	Co Xa 3	III_17_0045, III_17_0044, III_17_0046	Rheinfelden-Stadt (Baden), Rheinfelden	7.78875, 47.55945	herdäpfel	h e r d ä p f e l	herdöpfel	h e r d ö p f e l	1
+358	Co X 14	III_16_0103, III_16_0104	Minseln, Minseln	7.79067, 47.60301	hardöpfel	h a r d ö p f e l	herdöpfel	h e r d ö p f e l	1
+359	Co f 5	III_12_0117	Malterdingen, Malterdingen	7.79392, 48.16302	härdepfl	h ä r d e p f l	härdäpfel	h ä r d ä p f e l	2
+360	Co B8	III_14_0151	Untermünstertal-Rotenbuck, Untermünstertal-Rotenbuck	7.79435, 47.84136	herdäpfel	h e r d ä p f e l	herdepfel	h e r d e p f e l	1
+361	Stra Y 9	III_12_0043	Wagenstadt, Wagenstadt	7.79647, 48.20762	härdepfl	h ä r d e p f l	herdepfel	h e r d e p f e l	2
+362	Stra R 8	III_11_0114	Orschweier, Orschweier	7.79862, 48.27835	herdäpfel	h e r d ä p f e l	hardepfl	h a r d e p f l	3
+363	Co X 17	III_16_0105	Karzau (Karsau) , Karsau	7.79868, 47.58875	härdöpfel	h ä r d ö p f e l	härtöpfel	h ä r t ö p f e l	1
+364	Co n 6	III_13_0053	Hochdorf, Hochdorf	7.80212, 48.0489	härdöpfl	h ä r d ö p f l	hȃrdåpfel	h ȃ r d å p f e l	3
+365	Co f 8	III_12_0114	Köndringen, Köndringen	7.80591, 48.13912	härdäpfl	h ä r d ä p f l	herdepfl	h e r d e p f l	2
+366	Stra Y 7	III_12_0040	Tutschfelden, Tutschfelden	7.80659, 48.21534	herdäpfel	h e r d ä p f e l	härdepfel	h ä r d e p f e l	2
+367	Stra R 6	III_11_0109	Kippenheimweiler, Kippenheimweiler	7.80753, 48.31925	erdäpfel	e r d ä p f e l	ardepfel	a r d e p f e l	2
+368	Stra C 7	III_10_0147	Ichenheim, Ichenheim	7.81161, 48.43161	ǟrdepfel	ǟ r d e p f e l	ärdepfel	ä r d e p f e l	1
+369	Stra R 7	III_11_0113	Mahlberg, Mahlberg	7.81323, 48.28708	haͤrdepfl	h a ͤ r d e p f l	ha˚erdepfel	h a ˚ e r d e p f e l	3
+370	Stra R 10	III_11_0117	Ettenheim, Ettenheim	7.81361, 48.25631	härdepfel	h ä r d e p f e l	herdepfel	h e r d e p f e l	1
+371	Stra Y 11	III_12_0045	Nordweil, Nordweil	7.81384, 48.19396	herdepfel	h e r d e p f e l	herdäpfel	h e r d ä p f e l	1
+372	Co u 2	III_13_0138	Wittnau, Wittnau	7.814, 47.94661	herdepfel	h e r d e p f e l	herdäpfel	h e r d ä p f e l	1
+373	Stra R 9	III_11_0116, III_11_0115	Altdorf, Altdorf	7.81401, 48.26606	härdepfl	h ä r d e p f l	herdepfel	h e r d e p f e l	2
+374	Stra C 6	III_10_0115	Dundenheim, Dundenheim	7.81569, 48.44904	ärdepfl	ä r d e p f l	ardepfl	a r d e p f l	1
+375	Stra K 3	III_11_0043	Kürzell, Kürzell	7.81571, 48.38829	aerdäpfel	a e r d ä p f e l	ardepfel	a r d e p f e l	2
+376	Co X 12	III_16_0111	Nordschwaben, Nordschwaben	7.81682, 47.6184	härdöpfl	h ä r d ö p f l	härdepfel	h ä r d e p f e l	2
+377	Stra Y 12	III_12_0172	Bombach, Bombach	7.81686, 48.17869	härdepfel	h ä r d e p f e l	herdepfel	h e r d e p f e l	1
+378	Stra Y 5	III_12_0034	Ettenheimweiler, Ettenheimweiler	7.82007, 48.23676	hardäpfel	h a r d ä p f e l	herdäpfel	h e r d ä p f e l	1
+379	Co u 13	III_13_0133	Haslach, Haslach	7.82166, 47.9895	erdepfel	e r d e p f e l	herdepfel	h e r d e p f e l	1
+380	Stra R 5	III_11_0112	Kippenheim, Kippenheim	7.82466, 48.29439	hardepfl	h a r d e p f l	ä̂rdepfl	ä ̂ r d e p f l	2
+381	Co J6	III_14_0150	Neuenweg, Landkreis Lörrach, Neuenweg	7.8271, 47.79543	herdöpfl	h e r d ö p f l	herdöpfel	h e r d ö p f e l	1
+382	Stra Y 6	III_12_0041	Broggingen, Broggingen	7.82928, 48.21892	hardäpfel	h a r d ä p f e l	erdäpflel	e r d ä p f l e l	3
+383	Stra Y a 1	III_12_0112	Heimbach, Heimbach	7.82936, 48.1638	härdepfl	h ä r d e p f l	hardepfl	h a r d e p f l	1
+384	Stra Y 10	III_12_0042	Bleichheim, Bleichheim	7.8306, 48.20842	hērdepfl	h ē r d e p f l	härtäpfel	h ä r t ä p f e l	4
+385	Stra D 1	III_10_0057	Kittersburg, Kittersburg	7.83346, 48.49695	ärdäbfl	ä r d ä b f l	ärdepfel	ä r d e p f e l	3
+386	Stra D 16	III_10_0134	Müllen, Müllen	7.83364, 48.46521	ärdepfel	ä r d e p f e l	erdepfel	e r d e p f e l	1
+387	Co g 8	III_12_0131	Mundingen, Mundingen	7.8346, 48.13735	hartäpfel	h a r t ä p f e l	härdäpfel	h ä r d ä p f e l	2
+388	Co C12	III_14_0066	Obermünstertal-Spielweg, Obermünstertal-Spielweg	7.83588, 47.87776	hardäpfel	h a r d ä p f e l	herdepfel	h e r d e p f e l	2
+389	Co K6	III_14_0168	Böllen, Böllen	7.84054, 47.80226	herdepfl	h e r d e p f l	herdöpfel	h e r d ö p f e l	2
+390	Stra L 8	III_11_0052	Schutterzell, Schutterzell	7.84148, 48.4057	ärdepfl	ä r d e p f l	erdäpfel	e r d ä p f e l	3
+391	Co g 1	III_12_0132, III_12_0133	Emmendingen, Emmendingen	7.84951, 48.1209	herdäpfel	h e r d ä p f e l	herdepfel	h e r d e p f e l	1
+392	Co o 8	III_13_0070	Vörstetten, Vörstetten	7.85113, 48.06391	härrdäpfl	h ä rr d ä p f l	hertepfel	h e r t e p f e l	5
+393	Stra L 9	III_11_0053	Schuttern, Schuttern	7.85268, 48.38219	ardäpfel	a r d ä p f e l	ardepfel	a r d e p f e l	1
+394	Stra S 10	III_11_0132	Wallburg, Wallburg	7.85339, 48.26704	härdöpfel	h ä r d ö p f e l	hardepfel	h a r d e p f e l	2
+395	Co g 3	III_12_0135	Wasser, Wasser	7.8564, 48.09846	härdäpfel	h ä r d ä p f e l	herdäpfel	h e r d ä p f e l	1
+396	Stra S 9	III_11_0123	Schmieheim, Schmieheim	7.85658, 48.27938	ärdepfl	ä r d e p f l	erdepfel	e r d e p f e l	2
+397	Stra S 11	III_12_0048	Münchweier, Münchweier	7.85884, 48.24754	herdäpfel	h e r d ä p f e l	herdepfel	h e r d e p f e l	1
+398	Co v 9	III_13_0141	Horben, Horben	7.85911, 47.93223	herdepfel	h e r d e p f e l	herdäpfel	h e r d ä p f e l	1
+399	Stra S 2, Stra S 3	III_11_0120, III_11_0121	Sulz, Langenhard-Sulz, Sulz	7.86031, 48.31851	ärdepfl	ä r d e p f l	erdäpfel	e r d ä p f e l	3
+400	Co o 1	III_13_0147	Zähringen, <E.G.> Zähringen	7.86149, 48.02593	härdepfl	h ä r d e p f l	härtäpfel	h ä r t ä p f e l	3
+401	Co o 6	III_13_0071, III_13_0072, III_13_0074	Gundelfingen, Gundelfingen	7.87313, 48.04353	herdöpfel	h e r d ö p f e l	herdepfel	h e r d e p f e l	1
+402	Stra L 7	III_11_0055, III_11_0054, III_11_0056	Friesenheim, Friesenheim	7.87515, 48.37378	erdepfel	e r d e p f e l	erdäpfel	e r d ä p f e l	1
+403	Co C10	III_14_0067	Obermünstertal-Stohren, Obermünstertal-Stohren	7.87525, 47.8938	härdöpfel	h ä r d ö p f e l	erdapfel	e r d a p f e l	3
+404	Co Y 12	III_16_0168	Schwörstadt, Schwörstadt	7.87989, 47.59379	härdöpfel	h ä r d ö p f e l	herdöpfel	h e r d ö p f e l	1
+405	Stra Z 1	III_12_0047	Ettenheimmünster, Ettenheimmünster	7.88015, 48.24152	hardäpfel	h a r d ä p f e l	härtepfel	h ä r t e p f e l	3
+406	Co K7	III_14_0155	Schönenberg, Schönenberg	7.88227, 47.79265	hàrdepfel	h à r d e p f e l	herdöpfel	h e r d ö p f e l	2
+407	Co K14	III_14_0164, III_14_0163	Fröhnd, Fröhnd-Stutz, Fröhnd-Ittenschwand	7.88397, 47.7603	erdöpfel	e r d ö p f e l	herdepfel	h e r d e p f e l	2
+408	Co g 9	III_12_0130	Maleck, Maleck	7.88416, 48.12924	herdäpfel	h e r d ä p f e l	herdåpfel	h e r d å p f e l	1
+409	Stra D 17	III_10_0131, III_10_0133, III_10_0132	Schutterwald, Schutterwald	7.88679, 48.45347	ardäpfel	a r d ä p f e l	erdäpfel	e r d ä p f e l	1
+410	Stra L 1	III_10_0118	Niederschopfheim, Niederschopfheim	7.891, 48.41717	aertöpfel	a e r t ö p f e l	ardepfel	a r d e p f e l	3
+411	Co K8	III_14_0159, III_14_0157, III_14_0158, III_14_0156	Schönau, Schönau	7.89443, 47.78637	herdäpfl	h e r d ä p f l	härdäpfél	h ä r d ä p f é l	2
+412	Stra Z 4	III_12_0051	Ottoschwanden, Ottoschwanden	7.89687, 48.18611	härdepfl	h ä r d e p f l	härtepfl	h ä r t e p f l	1
+413	Co C7	III_14_0068	Hofsgrund, Hofsgrund	7.89778, 47.90096	härdepfl	h ä r d e p f l	herdöpfel	h e r d ö p f e l	3
+414	Stra L 6	III_11_0050	Oberweier, Oberweier	7.89815, 48.37746	ärdepfel	ä r d e p f e l	ardepfl	a r d e p f l	2
+415	Stra L 2	III_11_0051	Oberschopfheim, Oberschopfheim	7.90095, 48.39821	erdöpfel	e r d ö p f e l	ärdöpfel	ä r d ö p f e l	1
+416	Co R7	III_15_0075	Häg-Rohrberg, Rohrberg	7.90412, 47.7181	hördöpfel	h ö r d ö p f e l	härdöpfel	h ä r d ö p f e l	1
+417	Co Y 14	III_16_0117	Wehr, Wehr	7.9045, 47.62927	härdöpfl	h ä r d ö p f l	härdöpfel	h ä r d ö p f e l	1
+418	Co R2	III_15_0070	Ehrsberg, Ehrsberg	7.90629, 47.74318	herdäpfel	h e r d ä p f e l	hardöpfel	h a r d ö p f e l	2
+419	co g 7	III_12_0137	Sexau, Sexau	7.90788, 48.10424	herdepfl	h e r d e p f l	herdäpfel	h e r d ä p f e l	2
+420	Stra D 15	III_10_0119	Hofweier, Hofweier	7.90797, 48.42392	erdäpfel	e r d ä p f e l	ardäpfel	a r d ä p f e l	1
+421	Co o 11	III_13_0066	Buchholz i.Br., Buchholz	7.91201, 48.08253	herdapfl	h e r d a p f l	herdapfel	h e r d a p f e l	1
+422	Co Ya 1	III_17_0047	Wallbach, Wallbach	7.91336, 47.56871	herdöpfel	h e r d ö p f e l	härdöpfel	h ä r d ö p f e l	1
+423	Co Y 11	III_16_0118	Öfflingen (Öflingen), Öflingen	7.91396, 47.59228	herdöpfel	h e r d ö p f e l	härdöpfel	h ä r d ö p f e l	1
+424	Co R3	III_15_0071	Häg (bei Mambach), Häg	7.91432, 47.73207	härdöpfl	h ä r d ö p f l	herdepfel	h e r d e p f e l	3
+425	Co g 15	III_12_0129	Keppenbach, Frei Keppenbach	7.92037, 48.14437	härdepfl	h ä r d e p f l	herdäpfel	h e r d ä p f e l	3
+426	Co K9	III_14_0162	Tunau, Tunau	7.92311, 47.78574	härdepfel	h ä r d e p f e l	herdöpfel	h e r d ö p f e l	2
+427	Co o 10	III_13_0067	Suggental, Suggental	7.92471, 48.07551	herdäpfel	h e r d ä p f e l	herdöpfel	h e r d ö p f e l	1
+428	Stra D 4	III_10_0129	Bühl, Bühl	7.93242, 48.4947	ärdepfel	ä r d e p f e l	erdepfel	e r d e p f e l	1
+429	Co R11	III_15_0083	Gersbach, Gersbach	7.93271, 47.69725	herdöpfel	h e r d ö p f e l	härdöpfel	h ä r d ö p f e l	1
+430	Stra L 3	III_11_0063	Diersburg, Diersburg	7.93733, 48.40041	erdepfl	e r d e p f l	ardepfel	a r d e p f e l	2
+431	Co K2	III_14_0166	Schlechtnau, Schlechtnau	7.93888, 47.8175	herdöpfel	h e r d ö p f e l	härdebfel	h ä r d e b f e l	3
+432	Co K3	III_14_0165	Geschwend, Geschwend	7.93964, 47.80434	herdäpfel	h e r d ä p f e l	härdöpfel	h ä r d ö p f e l	2
+433	Co v 3	III_13_0069	Wittental, Wittental	7.94267, 48.00437	herdepfel	h e r d e p f e l	härtöpfel	h ä r t ö p f e l	3
+434	Stra D 8	III_10_0128, III_10_0127	Offenburg, Offenburg	7.9447, 48.47195	erdepfl	e r d e p f l	erdäpfel	e r d ä p f e l	2
+435	Co v 8	III_13_0150	Oberried, Oberried	7.94506, 47.93146	härdepfl	h ä r d e p f l	herdepfel	h e r d e p f e l	2
+436	Stra D 14	III_10_0120	Zunsweier, Zunsweier	7.94627, 48.42199	erdepfel	e r d e p f e l	erdäpfel	e r d ä p f e l	1
+437	Co K1	III_14_0167	Todtnau, Todtnau	7.94634, 47.82887	herdöpfel	h e r d ö p f e l	härdepfel	h ä r d e p f e l	2
+438	Stra D 5	III_10_0060	Bohlsbach, Bohlsbach	7.94796, 48.49264	erdäpfel	e r d ä p f e l	erdepfel	e r d e p f e l	1
+439	Co Y 7	III_16_0119	Hütten, Hütten	7.94873, 47.62902	herdöpfel	h e r d ö p f e l	hördöpfl	h ö r d ö p f l	2
+440	Co C6	III_14_0069	Sankt Wilhelm, St. Wilhelm	7.94887, 47.89511	herdepfel	h e r d e p f e l	härdepfäl	h ä r d e p f ä l	2
+441	Co R4	III_15_0072	Happach, Happach	7.95137, 47.7412	härdöpfel	h ä r d ö p f e l	herdöpfel	h e r d ö p f e l	1
+442	Stra w 7	III_10_0061	Windschläg, Windschläg	7.95693, 48.5148	ärd͜äpfel	ä r d ͜ ä p f e l	ährdepfel	ä h r d e p f e l	3
+443	Co Y 9	III_16_0120	Bergalingen, Bergalingen	7.95943, 47.61266	härdöpfel	h ä r d ö p f e l	herdöpfel	h e r d ö p f e l	1
+444	Co g 2	III_12_0138	Waldkirch, Waldkirch	7.96049, 48.09361	herdepfl	h e r d e p f l	härdepfel	h ä r d e p f e l	2
+445	Co v 4	III_13_0151	Stegen, Stegen	7.96093, 47.98418	härdepfel	h ä r d e p f e l	herdepfel	h e r d e p f e l	1
+446	Co Ya 2	III_17_0051, III_17_0048, III_17_0053, III_17_0052, III_17_0049, III_17_0054, III_17_0055, III_17_0050	Obersäckingen, Säckingen	7.96171, 47.57476	härdöpfel	h ä r d ö p f e l	herdöpfel	h e r d ö p f e l	1
+447	Stra Z 3	III_12_0050	Schweighausen, Schweighausen	7.96799, 48.22021	herdepfl	h e r d e p f l	herdäpfel	h e r d ä p f e l	2
+448	Stra w 4	III_10_0054, III_10_0053	Urloffen, Urloffen	7.96889, 48.557	ardapfl	a r d a p f l	erdäpfel	e r d ä p f e l	3
+449	Stra D 11	III_10_0123	Ortenberg, Ortenberg	7.97048, 48.45192	ardepfel	a r d e p f e l	erdepfel	e r d e p f e l	1
+450	Co g 11	III_12_0140	Kollnau, Kollnau	7.9721, 48.10586	härdepfel	h ä r d e p f e l	herdäpfel	h e r d ä p f e l	2
+451	Co Y 10	III_16_0125	Willaringen, Willaringen	7.97281, 47.60577	härdöpfel	h ä r d ö p f e l	herdöpfel	h e r d ö p f e l	1
+452	Co Y 6	III_16_0123	Altenschwand, Altenschwand	7.976, 47.63697	hǟrdöpfl	h ǟ r d ö p f l	härdöpfel	h ä r d ö p f e l	2
+453	Co g 6	III_12_0128	Siegelau, Siegelau	7.97753, 48.14612	härdepfel	h ä r d e p f e l	herdäͤpfel	h e r d ä ͤ p f e l	3
+454	Stra D 10	III_10_0124	Fessenbach, Fessenbach	7.97963, 48.46469	ärdepfel	ä r d e p f e l	erdäpfel	e r d ä p f e l	2
+455	Stra w 5	III_10_0063	Appenweier, Appenweier	7.98009, 48.53996	erdäpfl	e r d ä p f l	erdapfel	e r d a p f e l	2
+456	Stra D 9	III_10_0125	Zell-Weierbach (Weierbach), Zell-Weierbach	7.98174, 48.47408	härdäpfel	h ä r d ä p f e l	erdapfel	e r d a p f e l	3
+457	Stra w 6	III_10_0062	Ebersweier, Ebersweier	7.98301, 48.50723	ǟrdepfel	ǟ r d e p f e l	erdäpfel	e r d ä p f e l	2
+458	Stra L 4	III_11_0064	Berghaupten, Berhaupten	7.98716, 48.40675	erdöpfel	e r d ö p f e l	erdepfel	e r d e p f e l	1
+459	Co g 16	III_12_0142	Gutach, Gutach	7.98722, 48.11814	herdepfel	h e r d e p f e l	herdepfl	h e r d e p f l	1
+460	Co g 5	III_12_0141	Siensbach, Siensbach	7.98804, 48.10755	herdepfl	h e r d e p f l	herdäpfel	h e r d ä p f e l	2
+461	Stra Z 6	III_12_0054	Oberspitzenbach, Oberspitzenbach	7.98858, 48.1762	härdäpfel	h ä r d ä p f e l	herdöpfel	h e r d ö p f e l	2
+462	TUTT Sa1/2	III_17_0057	Rippolingen und Harpolingen, Rippolingen	7.9892, 47.57843	härdöpfel	h ä r d ö p f e l	herdöpfel	h e r d ö p f e l	1
+463	Stra D 13	III_10_0121	Ohlsbach, Ohlsbach	7.99275, 48.43199	erdäpfel	e r d ä p f e l	erdäpfl	e r d ä p f l	1
+464	TUTT p5	III_13_0152	Falkensteig, Falkensteig	7.99689, 47.94697	härdepfel	h ä r d e p f e l	härdebfel	h ä r d e b f e l	1
+465	TUTT Sa1	III_17_0056	Rippolingen und Harpolingen, Harpolingen	8.00062, 47.57274	härdöpfel	h ä r d ö p f e l	herdöpfel	h e r d ö p f e l	1
+466	TUTT S3	III_15_0087	Herrischried, Herrischried	8.00161, 47.66587	hördopfel	h ö r d o p f e l	herdöpfel	h e r d ö p f e l	2
+467	TUTT a3	III_12_0151	Bleibach, Bleibach	8.00281, 48.12764	herdöpfel	h e r d ö p f e l	herdäpfel	h e r d ä p f e l	1
+468	TÜB p11	III_10_0065	Nesselried, Nesselried	8.00608, 48.52212	ǟrdepfl	ǟ r d e p f l	erdäpfel	e r d ä p f e l	3
+469	TUTT p3	III_13_0153	Unteribental, Unteribental	8.00642, 47.97982	herdäpfel	h e r d ä p f e l	erdäpfel	e r d ä p f e l	1
+470	TUTT L6	III_15_0091, III_15_0090	Grossherrischwand, Grossherrischwand	8.01017, 47.6797	hördöpfel	h ö r d ö p f e l	herdöpfel	h e r d ö p f e l	1
+471	TUTT L5	III_15_0094	Wehrhalden, Wehrhalden	8.01061, 47.70213	hördopfel	h ö r d o p f e l	erdöpfel	e r d ö p f e l	3
+472	TÜB h8	III_9_0097	Renchen, Renchen	8.01285, 48.58724	ärdepfel	ä r d e p f e l	erdepfl	e r d e p f l	2
+473	Co R14	III_15_0086	Rütte (bei Todtmoos; es gibt auch noch eines bei Herreschrie und eines bei Todtnauberg), Rütte	8.01336, 47.76141	härdopfel	h ä r d o p f e l	erdöpfel	e r d ö p f e l	3
+474	TÜB D9	III_11_0065	Gengenbach, Gengenbach	8.01593, 48.40299	ärdepfel	ä r d e p f e l	erdepfel	e r d e p f e l	1
+475	TÜB p13	III_10_0069	Zusenhofen, Zusenhofen	8.01675, 48.54725	erdäpfel	e r d ä p f e l	erdepfel	e r d e p f e l	1
+476	TÜB w6	III_10_0139	Reichenbach, Reichenbach	8.01986, 48.42981	erdäpfel	e r d ä p f e l	erdepfel	e r d e p f e l	1
+477	TUTT a2	III_12_0143	Niederwinden, Niederwinden	8.02152, 48.14244	herdepfel	h e r d e p f e l	erdepfel	e r d e p f e l	1
+478	TÜB p15	III_10_0071	Erlach, Erlach	8.02495, 48.56914	erdäpfel	e r d ä p f e l	erdepfel	e r d e p f e l	1
+479	TÜB D6	III_11_0072	Biberach, Biberach	8.0278, 48.33891	erdäpfel	e r d ä p f e l	ärdepfel	ä r d e p f e l	2
+480	TUTT S20	III_16_0138	Hänner, Hänner	8.03004, 47.59489	hardöpfl	h a r d ö p f l	härdöpfl	h ä r d ö p f l	1
+481	TUTT Sa5	III_16_0137	Oberhof, Oberhof	8.0324, 47.58493	hardöpfel	h a r d ö p f e l	herdöpfel	h e r d ö p f e l	1
+482	TÜB D10	III_11_0066, III_11_0067	Schwaibach, Schwaibach	8.03268, 48.39239	erdepfel	e r d e p f e l	erdäpfel	e r d ä p f e l	1
+483	Stra S 5	III_11_0126	Schönberg, Schönberg	8.0327, 48.36461	ärdepfel	ä r d e p f e l	ärdäpfel	ä r d ä p f e l	1
+484	TÜB S3	III_12_0059	Katzenmoos, Katzenmoos	8.03332, 48.167	härdepfel	h ä r d e p f e l	herdäpfel	h e r d ä p f e l	2
+485	TÜB p14	III_10_0070	Stadelhofen, Stadelhofen	8.03555, 48.55945	ärdepfel	ä r d e p f e l	erdepfel	e r d e p f e l	1
+486	TUTT Sa4	III_17_0059	Niederhof, Niederhof	8.03951, 47.56938	hērdöpfel	h ē r d ö p f e l	herdöpfel	h e r d ö p f e l	1
+487	TUTT S6	III_16_0129, III_16_0130	Oberwihl, Oberwihl	8.04597, 47.62098	hardöpfel	h a r d ö p f e l	herdöpfl	h e r d ö p f l	2
+488	TUTT L/S7, TUTT S1	III_15_0093, III_15_0095	Strittmatt, Strittmatt und Engelschwand, Strittmatt, Engelschwand	8.04718, 47.66382	herdöpfel	h e r d ö p f e l	herdepfel	h e r d e p f e l	1
+489	TUTT a4	III_12_0148, III_12_0147, III_12_0149	Simonswald, Untersimonswald	8.04838, 48.10278	hǟrdepfel	h ǟ r d e p f e l	herdepfel	h e r d e p f e l	1
+490	TÜB p1	III_10_0072	Ulm Kr. Offenburg, Ulm	8.05069, 48.57993	erdapfel	e r d a p f e l	erdäpfel	e r d ä p f e l	1
+491	TÜB p2	III_10_0073	Haslach, Haslach	8.05661, 48.56552	erdäpfel	e r d ä p f e l	ärdëpfl	ä r d ë p f l	3
+492	TÜB L5	III_11_0135	Steinach, Steinach	8.05831, 48.30508	erdepfel	e r d e p f e l	erdäpfel	e r d ä p f e l	1
+493	TÜB L2	III_11_0133	Unterentersbach, Unterentersbach	8.05965, 48.32962	erdäpfel	e r d ä p f e l	erdepfel	e r d e p f e l	1
+494	TUTT Sa6	III_17_0062	Binzgen, Binzgen	8.06143, 47.57622	härdöpfel	h ä r d ö p f e l	häerdöpfel	h ä e r d ö p f e l	1
+495	TUTT S19	III_16_0139	Rotzel, Rotzel	8.06151, 47.59473	herdöpfel	h e r d ö p f e l	herdäpfel	h e r d ä p f e l	1
+496	TÜB w7	III_10_0136	Hesselbach, Hesselbach	8.06498, 48.49863	erdäpfel	e r d ä p f e l	erdepfel	e r d e p f e l	1
+497	TUTT D1	III_14_0170	Menzenschwand, Merzenschwand	8.07059, 47.81749	härdöpfel	h ä r d ö p f e l	herdöpfel	h e r d ö p f e l	1
+498	TUTT S8	III_16_0132	Rüsswihl, Rüßwihl	8.07093, 47.63063	herdöpfel	h e r d ö p f e l	härdöpfel	h ä r d ö p f e l	1
+499	TUTT S7	III_16_0131	Niederwihl, Niederwihl	8.07095, 47.61851	hardöpfel	h a r d ö p f e l	herdöpfel	h e r d ö p f e l	1
+500	TÜB S4	III_12_0055, III_12_0056, III_12_0057	Elzach, Elzach	8.07142, 48.17331	ärdepfel	ä r d e p f e l	herdepfel	h e r d e p f e l	2
+501	TÜB L6	III_11_0136	Bollenbach, Bollenbach	8.07369, 48.29315	ärdepfel	ä r d e p f e l	erdepfel	e r d e p f e l	1
+502	TUTT p6	III_13_0156	Breitnau, Breitnau	8.07603, 47.94014	herdepfel	h e r d e p f e l	erdäpfel	e r d ä p f e l	2
+503	TUTT S10	III_15_0096	Rotzingen, Rotzingen	8.0762, 47.66588	herdöpfel	h e r d ö p f e l	erdöpfel	e r d ö p f e l	1
+504	TUTT S9	III_16_0134	Görwihl, Görwihl	8.07817, 47.64186	herdōpfel	h e r d ō p f e l	herdöpfel	h e r d ö p f e l	1
+505	TÜB p9	III_10_0075	Oberkirch, Oberkirch	8.07823, 48.5312	erdepfel	e r d e p f e l	erdäpfel	e r d ä p f e l	1
+506	TÜB D1/1, TÜB D1/2	III_11_0069, III_11_0068	Nordrach, Nordrach	8.08082, 48.39898	erdäpfel	e r d ä p f e l	erdepfel	e r d e p f e l	1
+507	TÜB L7	III_11_0138, III_11_0140, III_11_0139	Haslach im Kinzigtal, Haslach i. K.	8.08413, 48.28008	ärdepfel	ä r d e p f e l	erdäpfel	e r d ä p f e l	2
+508	TÜB w2	III_10_0066, III_10_0067	Ödsbach, Oedsbach	8.08784, 48.49713	ä̆rdepfl	ä ̆ r d e p f l	erdépfl	e r d é p f l	3
+509	TÜB p4	III_10_0074	Ringelbach, Ringelbach	8.08834, 48.55764	ardep͜fel	a r d e p ͜ f e l	erdöpfel	e r d ö p f e l	3
+510	TUTT Sa7	III_17_0061	Laufenburg (Baden), Laufenburg	8.0908, 47.58055	herdäpfel	h e r d ä p f e l	herdöpfel	h e r d ö p f e l	1
+511	TÜB L3	III_11_0134	Oberentersbach, Oberentersbach	8.09119, 48.32718	ärdäpfel	ä r d ä p f e l	ärdepfl	ä r d e p f l	2
+512	TUTT L/8,9	III_15_0098, III_15_0099	Hierbach - Wilfingen, Hierbach, Wilfingen	8.09123, 47.686	herdöpfel	h e r d ö p f e l	härdöpfel	h ä r d ö p f e l	1
+513	TUTT h3, TUTT p1	III_13_0081, III_13_0080, III_13_0078, III_13_0079	St. Märgen-Schweighöfe, St. Märgen, St. Märgen	8.09239, 48.00756	herdepfel	h e r d e p f e l	erdäpfel	e r d ä p f e l	2
+514	TUTT a6	III_12_0145	Yach, Yach	8.0932, 48.15752	herdäpfel	h e r d ä p f e l	herdepfel	h e r d e p f e l	1
+515	TUTT S21	III_16_0141	Schachen, Schachen	8.09406, 47.60368	härdöpfel	h ä r d ö p f e l	herdäpfel	h e r d ä p f e l	2
+516	TUTT S5, TUTT Sa8	III_17_0060	Luttingen, Luttingen und Grunholz, Luttingen	8.09878, 47.57252	herdöpfel	h e r d ö p f e l	härdöpfel	h ä r d ö p f e l	1
+517	TUTT S17	III_16_0146	Albert, Albbruck-Albert	8.11012, 47.58535	erdäpfel	e r d ä p f e l	erdöpfel	e r d ö p f e l	1
+518	TUTT w6	III_14_0074	Altglashütten, Altglashütten	8.11016, 47.85701	herdöpfel	h e r d ö p f e l	herdepfel	h e r d e p f e l	1
+519	TUTT S15	III_16_0142	Buch über Waldshut, Buch	8.11336, 47.61399	erdäpfel	e r d ä p f e l	herdöpfel	h e r d ö p f e l	2
+520	TÜB p8	III_10_0076	Lautenbach, Lautenbach	8.11439, 48.52093	ärdepfel	ä r d e p f e l	erdäpfel	e r d ä p f e l	2
+521	TÜB h15	III_9_0101, III_9_0102	Kappelrodeck, Kappelrodeck	8.11791, 48.59087	herdepfel	h e r d e p f e l	erdäpfel	e r d ä p f e l	2
+522	TÜB S5, TÜB S6	III_12_0063, III_12_0062, III_12_0061, III_12_0064	Unterprechtal, Oberprechtal, Unterprechtal, Oberprechtal	8.12114, 48.20548	erdäpfl	e r d ä p f l	hädäpfel	h ä d ä p f e l	3
+523	TUTT L1	III_15_0112, III_15_0111	Urberg, Urberg	8.12409, 47.73478	härdöpfel	h ä r d ö p f e l	herdöpfel	h e r d ö p f e l	1
+524	TUTT L16	III_15_0103	Schlageten, Schlageten	8.12512, 47.71178	erdäpfel	e r d ä p f e l	erdöpfel	e r d ö p f e l	1
+525	TUTT L11	III_15_0102	Immeneich, Immeneich	8.12543, 47.69719	erdäpfel	e r d ä p f e l	erdöpfel	e r d ö p f e l	1
+526	TUTT D4	III_14_0173, III_14_0171, III_14_0174, III_14_0172	St. Blasien, St. Blasien	8.12792, 47.76144	herdöpfl	h e r d ö p f l	herdöpfel	h e r d ö p f e l	1
+527	TUTT S12	III_16_0135	Unteralpfen, Unteralpfen	8.13573, 47.64543	hǟrdöpfel	h ǟ r d ö p f e l	härdöpfel	h ä r d ö p f e l	1
+528	TUTT h6	III_13_0076	Gütenbach, Gütenbach	8.13807, 48.04398	härdepfel	h ä r d e p f e l	härdepfěl	h ä r d e p f ě l	1
+529	TÜB w3	III_10_0078	Ramsbach, Ramsbach	8.14144, 48.49573	erdäpfel	e r d ä p f e l	erdepfel	e r d e p f e l	1
+530	TUTT L15	III_15_0108	Tiefenhäusern, Tiefenhäusern	8.14547, 47.70277	härdopfel	h ä r d o p f e l	herdöpfl	h e r d ö p f l	3
+531	TUTT L12	III_15_0107, III_15_0106, III_15_0104, III_15_0105	Remetschwiel/Brunnadern, Brunnadern, Remetschwiel	8.14553, 47.68929	herdöpfel	h e r d ö p f e l	herdöpfl	h e r d ö p f l	1
+532	TUTT w5	III_14_0073	Raitenbuch, Raitenbuch	8.14698, 47.86647	herdebfl	h e r d e b f l	herdäpfel	h e r d ä p f e l	3
+533	TUTT S13	III_16_0169	Birkingen, Birkingen	8.1477, 47.62511	herdōpfel	h e r d ō p f e l	härdöpfel	h ä r d ö p f e l	2
+534	TUTT S11	III_16_0136	Oberalpfen, Oberalpfen	8.15262, 47.65791	hārdöpfel	h ā r d ö p f e l	härdöpfel	h ä r d ö p f e l	1
+535	TÜB w4	III_10_0138	Ibach, Ibach	8.16274, 48.45618	erdepfel	e r d e p f e l	erdäpfel	e r d ä p f e l	1
+536	TUTT M1	III_15_0120	Attlisberg, Attlisberg	8.16607, 47.72173	he̊rdöpfel	h e ̊ r d ö p f e l	herdöpfel	h e r d ö p f e l	1
+537	TUTT L14, TUTT L13	III_15_0123	Bannholz, Remetschwiel und Bannholz, Bannholz	8.167, 47.67614	herdöpfl	h e r d ö p f l	herdöpfel	h e r d ö p f e l	1
+538	TUTT T4	III_16_0147	Waldkirch, Waldkirch	8.17132, 47.65851	herdöpfel	h e r d ö p f e l	härdöpfl	h ä r d ö p f l	2
+539	TUTT T6	III_16_0157	Dogern, Dogern	8.17239, 47.60884	härdöpfel	h ä r d ö p f e l	herdöpfel	h e r d ö p f e l	1
+540	TUTT i5	III_13_0093	Neukirch, Neukirch	8.17383, 48.02447	herdepfel	h e r d e p f e l	härdepfel	h ä r d e p f e l	1
+541	TÜB x8	III_10_0148	Löcherberg, Löcherberg	8.17462, 48.43425	erdepfl	e r d e p f l	erdäpfel	e r d ä p f e l	2
+542	TUTT D3	III_14_0175	Blasiwald (Am Schluchsee), Blasiwald	8.17706, 47.7987	hördöpfl	h ö r d ö p f l	erdöpfel	e r d ö p f e l	3
+543	TUTT E2	III_14_0177	Schluchsee, Schluchsee	8.17828, 47.81706	herdöpfel	h e r d ö p f e l	herdepfel	h e r d e p f e l	1
+544	TUTT T5	III_16_0158	Eschbach, Eschbach	8.18086, 47.6336	härdopfl	h ä r d o p f l	härdöpfl	h ä r d ö p f l	1
+545	TUTT M3	III_15_0121	Amrigschwand, Amrigschwand	8.1855, 47.71974	härdöpfl	h ä r d ö p f l	herdöpfel	h e r d ö p f e l	2
+546	TÜB T5	III_12_0069	Rensberg, Rensberg	8.1889, 48.17741	herdepfel	h e r d e p f e l	herdäpfel	h e r d ä p f e l	1
+547	TÜB x1	III_10_0082	Lierbach, Lierbach	8.19298, 48.52477	erdapfel	e r d a p f e l	erdäpfel	e r d ä p f e l	1
+548	TUTT T3	III_16_0159	Schmitzingen, Schmitzingen	8.19315, 47.65491	herdöpfl	h e r d ö p f l	härdöpfl	h ä r d ö p f l	1
+549	TÜB x3	III_10_0141	Maisach, Maisach	8.20067, 48.47223	erdepfel	e r d e p f e l	erdêpfel	e r d ê p f e l	1
+550	TUTT b3	III_12_0161	Schonach, Schonach	8.20179, 48.14296	herdepfel	h e r d e p f e l	herdöpfel	h e r d ö p f e l	1
+551	TÜB E2, TÜB q1	III_11_0080, ungeodnet	Seebach, Seebach	8.20278, 48.57466	ārdepfl	ā r d e p f l	erdepfel	e r d e p f e l	2
+552	TUTT b8	III_12_0168, III_12_0166, III_12_0167	Schönwald, Schönwald	8.20401, 48.10371	härdepfel	h ä r d e p f e l	herdepfel	h e r d e p f e l	1
+553	TÜB M7	III_12_0174	Gutach, Gutach	8.21021, 48.25051	erdäpfel	e r d ä p f e l	erdepfel	e r d e p f e l	1
+554	TUTT E5	III_14_0178	Staufen, Staufen	8.21221, 47.75633	herdäpfel	h e r d ä p f e l	herdapfel	h e r d a p f e l	1
+555	TÜB E4, TÜB M4	III_11_0147, III_11_0079	Oberwolfach, Oberwolfach, Oberwolfach-Walke	8.21698, 48.3174	erdäpfl	e r d ä p f l	erdäpfel	e r d ä p f e l	1
+556	TÜB M3/2, TÜB M3/1	III_11_0150	Wolfach, Wolfach	8.22076, 48.30289	härdepfl	h ä r d e p f l	erdäpfl	e r d ä p f l	3
+557	TUTT M4	III_15_0122	Brenden, Brenden	8.22606, 47.72946	herdäpfel	h e r d ä p f e l	härdöpfel	h ä r d ö p f e l	2
+558	TÜB T4	III_12_0068, III_12_0067	Niederwasser, Niederwasser	8.22818, 48.18982	herdepfel	h e r d e p f e l	herdöpfel	h e r d ö p f e l	1
+559	TÜB T1	III_12_0065	Hornberg, Hornberg	8.23036, 48.21193	herdöpfel	h e r d ö p f e l	erdepfel	e r d e p f e l	2
+560	TUTT i7	III_13_0090	Schönenbach, Schönenbach	8.23618, 48.04705	härdepfel	h ä r d e p f e l	erdepfel	e r d e p f e l	2
+561	TUTT q8	III_13_0161	Rudenberg, Rudenberg	8.23807, 47.9196	härdäpfel	h ä r d ä p f e l	herdäpfel	h e r d ä p f e l	1
+562	TÜB x9	III_10_0142	Bad Griesbach, Bad Griesbach	8.23935, 48.45251	ardapfel	a r d a p f e l	erdäpfel	e r d ä p f e l	2
+563	TUTT T1	III_16_0161	Weilheim, Weilheim	8.24051, 47.65862	härdöpfel	h ä r d ö p f e l	herdöpfel	h e r d ö p f e l	1
+564	TUTT M13	III_15_0128	Dietlingen, Dietlingen	8.24371, 47.67342	härdöpfel	h ä r d ö p f e l	herdöpfel	h e r d ö p f e l	1
+565	TUTT q2	III_13_0157	Schollach, Schollach	8.24463, 47.98628	herdepfel	h e r d e p f e l	herdäpfel	h e r d ä p f e l	1
+566	TÜB M8	III_11_0154	Kirnbach, Kirnbach	8.24598, 48.26194	ärdepfl	ä r d e p f l	erdäpfel	e r d ä p f e l	3
+567	TUTT b2	III_12_0162	Gremmelsbach, Gremmelsbach	8.25756, 48.15793	härdepfel	h ä r d e p f e l	erdepfel	e r d e p f e l	2
+568	TUTT i1	III_13_0082	Rohrbach, Rohrbach	8.25784, 48.07437	härdepfel	h ä r d e p f e l	herdepfel	h e r d e p f e l	1
+569	TÜB T3	III_12_0070, III_12_0071	Schwanenbach (Reichenbach), Schwanenbach	8.26562, 48.1922	erdepfel	e r d e p f e l	erdöpfel	e r d ö p f e l	1
+570	TUTT M5	III_14_0179	Mettenberg, Mettenberg	8.26708, 47.75087	erdöpfel	e r d ö p f e l	herdöpfel	h e r d ö p f e l	1
+571	TÜB E3	III_11_0081	Schapbach, Schapbach	8.28904, 48.37778	erdepfl	e r d e p f l	erdäpfl	e r d ä p f l	1
+572	TÜB M1	III_11_0149	Sankt Roman, St. Roman	8.2924, 48.33187	erdöpfel	e r d ö p f e l	erdäpfel	e r d ä p f e l	1
+573	TUTT x6	III_14_0078	Gündelwangen, Gündelwangen	8.29672, 47.84246	herdepfel	h e r d e p f e l	herdöpfel	h e r d ö p f e l	1
+574	TUTT M10	III_15_0119	Krenkingen, Krenkingen	8.30454, 47.68312	erdöpfel	e r d ö p f e l	hertöpfel	h e r t ö p f e l	2
+575	TUTT i2	III_13_0087, III_13_0084, III_13_0086, III_13_0085	Vöhrenbach, Vöhrenbach	8.30495, 48.04519	herdäpfel	h e r d ä p f e l	herdepfel	h e r d e p f e l	1
+576	TUTT T10	III_16_0163	Breitenfeld, Breitenfeld	8.30617, 47.65178	härdöpfel	h ä r d ö p f e l	herdöpfel	h e r d ö p f e l	1
+577	TÜB M10	III_11_0153, III_11_0152	Lehengericht, Vorderlehengericht, Hinterlehengericht	8.30807, 48.2924	erdepfel	e r d e p f e l	erdäpfel	e r d ä p f e l	1
+578	TUTT b6	III_12_0169	Brigach (und Sommerau), Brigach	8.3086, 48.11587	ärdepfel	ä r d e p f e l	erdepfel	e r d e p f e l	1
+579	TÜB x4	III_10_0143	Kniebis, Kniebis	8.3101, 48.47233	erdäpfel	e r d ä p f e l	erdepfel	e r d e p f e l	1
+580	TUTT x7	III_14_0077	Göschweiler, Göschweiler	8.31065, 47.85812	herdepfel	h e r d e p f e l	herdepfl	h e r d e p f l	1
+581	TUTT M6	III_14_0183, III_14_0182, III_14_0180, III_14_0181	Birkendorf, Birkendorf	8.3126, 47.74971	hördöpfel	h ö r d ö p f e l	herdepfel	h e r d e p f e l	2
+582	TUTT b1	III_12_0159, III_12_0158, III_12_0160	Langenschiltach, Langenschiltach	8.3168, 48.16202	erdäpfel	e r d ä p f e l	erdäpfl	e r d ä p f l	1
+583	TUTT q3	III_13_0158	Hammereisenbach, Hammereisenbach	8.31732, 47.99481	härdepfel	h ä r d e p f e l	herdepfel	h e r d e p f e l	1
+584	TUTT b7	III_12_0170	Oberkirnach, Oberkirnach	8.31901, 48.09369	erdepfl	e r d e p f l	ärdepfl	ä r d e p f l	1
+585	TUTT T15	III_16_0167	Dangstetten, Dangstetten	8.31944, 47.59581	herdöpfel	h e r d ö p f e l	herdäpfel	h e r d ä p f e l	1
+586	TUTT T13	III_16_0165	Oberlauchringen, Oberlauchringen	8.32685, 47.62036	herdoͤpfel	h e r d o ͤ p f e l	erdöpfel	e r d ö p f e l	3
+587	TUTT c3	III_12_0156, III_12_0155, III_12_0157	St. Georgen, St. Georgen	8.33183, 48.12564	oardepfl	o a r d e p f l	erdäpfel	e r d ä p f e l	4
+588	TÜB N2	III_30_0008	Schiltach, Schiltach	8.34259, 48.29033	erdäpfel	e r d ä p f e l	erdäpfl	e r d ä p f l	1
+589	TUTT N5	III_37_0003	Untermettingen, Untermettingen	8.34615, 47.70245	hērdöpfel	h ē r d ö p f e l	härdöpfel	h ä r d ö p f e l	1
+590	TUTT U4	III_38_0006	Horheim, Horheim	8.34737, 47.64854	härdöbfl	h ä r d ö b f l	herdöpfel	h e r d ö p f e l	3
+591	TUTT y3	III_35_0003	Seppenhofen, Seppenhofen	8.34864, 47.8748	herdepfel	h e r d e p f e l	herdäpfel	h e r d ä p f e l	1
+592	TUTT y4	III_35_0002	Reiselfingen, Reiselfingen	8.35108, 47.85467	he̊rdäpfel	h e ̊ r d ä p f e l	herdepfel	h e r d e p f e l	2
+593	TUTT r4	III_34_0017	Unterbränd, Unterbränd	8.35693, 47.93373	herdepfel	h e r d e p f e l	herdöpfel	h e r d ö p f e l	1
+594	TUTT N4	III_37_0001	Obermettingen, Obermettingen	8.35956, 47.7213	herdöpfel	h e r d ö p f e l	hārdöpfel	h ā r d ö p f e l	1
+595	TUTT y1	III_35_0004	Dittishausen, Dittishausen	8.36266, 47.90077	härtepfel	h ä r t e p f e l	herdepel	h e r d e p e l	3
+596	TUTT U14	III_38_0009, III_38_0008	Küßnach, Küssnach	8.36574, 47.59396	herdöpfel	h e r d ö p f e l	erdöpfel	e r d ö p f e l	1
+597	TUTT k10	III_33_0001	Unterkirnach, Unterkirnach	8.36628, 48.07845	herdepfel	h e r d e p f e l	herdäpfel	h e r d ä p f e l	1
+598	TUTT k9	III_33_0002	Herzogenweiler, Herzogenweiler	8.37157, 48.0254	härdepfl	h ä r d e p f l	herdepfel	h e r d e p f e l	2
+599	TÜB N1	III_30_0007	Schenkenzell, Schenkenzell	8.37253, 48.31105	erdäpfel	e r d ä p f e l	ärdepfel	ä r d e p f e l	2
+600	TUTT c1	III_32_0001	Buchenberg, Buchenberg	8.37655, 48.16035	järdepfel	j ä r d e p f e l	jadäpfel	j a d ä p f e l	3
+601	TUTT F14	III_36_0007	Brunnadern, Brunnadern	8.38083, 47.79495	ärdepfel	ä r d e p f e l	herdäpfel	h e r d ä p f e l	3
+602	TUTT N6	III_37_0006	Obereggingen, Obereggingen	8.38631, 47.70175	herdöpfel	h e r d ö p f e l	herdäpfel	h e r d ä p f e l	1
+603	TUTT r3	III_34_0006	Hubertshofen, Hubertshofen	8.38827, 47.96002	herdöpfel	h e r d ö p f e l	herdäpfel	h e r d ä p f e l	1
+604	TUTT N3	III_37_0004	Mauchen, Mauchen	8.39032, 47.73994	herdäpfel	h e r d ä p f e l	erdöpfel	e r d ö p f e l	2
+605	TUTT U13	III_38_0010	Geißlingen, Geisslingen	8.39181, 47.61975	hǟrdöpfl	h ǟ r d ö p f l	herdöpfel	h e r d ö p f e l	2
+606	TUTT U2	III_38_0001	Rechberg, Rechberg	8.39987, 47.6501	härdopfel	h ä r d o p f e l	herdäpfel	h e r d ä p f e l	2
+607	TUTT y11	III_35_0009	Bachheim, Bachheim	8.4031, 47.85931	heardepfel	h e a r d e p f e l	herdepfel	h e r d e p f e l	1
+608	TUTT y10	III_35_0005	Unadingen, Unadingen	8.40711, 47.88128	herdäpfl	h e r d ä p f l	erdapfel	e r d a p f e l	3
+609	TUTT U12	III_38_0011	Grießen, Griessen	8.4114, 47.62774	herdöpfl	h e r d ö p f l	herdöpfel	h e r d ö p f e l	1
+610	TUTT U11	III_38_0015	Bergöschingen, Bergöschingen	8.42093, 47.59537	herdöpfel	h e r d ö p f e l	erdöpfel	e r d ö p f e l	1
+611	TUTT r2	III_34_0002	Wolterdingen, Wolterdingen	8.42701, 47.96861	hardepfel	h a r d e p f e l	häardepfel	h ä a r d e p f e l	1
+612	TUTT N2	III_37_0008	Eberfingen, Eberfingen	8.42708, 47.72036	herdöpfel	h e r d ö p f e l	her₌döpfel	h e r ₌ d ö p f e l	1
+613	TUTT c8	III_32_0009	Mönchweiler, Mönchweiler	8.42939, 48.09993	herdepfel	h e r d e p f e l	jadäpfl	j a d ä p f l	5
+614	TUTT F12	III_36_0011	Lembach, Lembach	8.43056, 47.80389	herdepfel	h e r d e p f e l	erdöpfel	e r d ö p f e l	2
+615	TUTT y9	III_35_0006	Döggingen, Döggingen	8.43444, 47.8919	herdepfel	h e r d e p f e l	härdepfel	h ä r d e p f e l	1
+616	TUTT U10	III_38_0005	Stetten (bei Waldshut), Stetten	8.4393, 47.59011	herdöpfel	h e r d ö p f e l	erdöpfel	e r d ö p f e l	1
+617	TUTT r6	III_34_0003, III_34_0004	Bräunlingen, Bräunlingen	8.44765, 47.9301	häardöpfel	h ä a r d ö p f e l	heardöpfel	h e a r d ö p f e l	1
+618	TUTT F11	III_36_0012	Lausheim, Lausheim	8.45286, 47.81178	herdepfel	h e r d e p f e l	erdöpfel	e r d ö p f e l	2
+619	TUTT k2	III_33_0006	Rietheim, Rietheim	8.45381, 48.02981	herdepfel	h e r d e p f e l	herdäpfel	h e r d ä p f e l	1
+620	TUTT U6	III_38_0013	Weisweil, Weisweil	8.45797, 47.64517	herdöpfel	h e r d ö p f e l	härdöpfel	h ä r d ö p f e l	1
+621	TUTT c5	III_32_0006	Neuhausen, Neuhausen	8.45905, 48.13221	herdäpfel	h e r d ä p f e l	erdäpfel	e r d ä p f e l	1
+622	TÜB U2	III_31_0007, III_31_0005, III_31_0006	Weiler/Villingen, Tennenbronn	8.46043, 48.17227	jerdepfel	j e r d e p f e l	erdäpfel	e r d ä p f e l	2
+623	TUTT F8	III_36_0149	Weizen, Weizen	8.46354, 47.77888	härdepfel	h ä r d e p f e l	herdöpfel	h e r d ö p f e l	2
+624	TUTT y7	III_35_0001	Mundelfingen, Mundelfingen	8.46432, 47.8676	herdepfel	h e r d e p f e l	herdäpfl	h e r d ä p f l	2
+625	TUTT k5	III_33_0008	Klengen, Klengen	8.46686, 48.00388	härdepfel	h ä r d e p f e l	herdöpfel	h e r d ö p f e l	2
+626	TUTT c7	III_32_0008	Obereschach, Obereschach	8.46928, 48.10596	herdapfel	h e r d a p f e l	herdepfel	h e r d e p f e l	1
+627	TUTT k4	III_33_0009	Kirchdorf, Kirchdorf	8.4704, 48.01378	hārdepfel	h ā r d e p f e l	herdepfel	h e r d e p f e l	1
+628	TUTT r1	III_34_0014	Grüningen, Grüningen	8.47107, 47.98253	härtepfel	h ä r t e p f e l	härdepfel	h ä r d e p f e l	1
+629	TUTT k3	III_33_0007	Marbach, Marbach	8.47117, 48.03143	herdepfel	h e r d e p f e l	herdäpfel	h e r d ä p f e l	1
+630	TUTT r9	III_34_0005	Aufen, Aufen	8.47258, 47.964	hārdepfl	h ā r d e p f l	härdepfl	h ä r d e p f l	1
+631	TUTT U9	III_38_0016	Dettighofen, Dettighofen	8.48357, 47.62374	härdöpfel	h ä r d ö p f e l	herdöpfel	h e r d ö p f e l	1
+632	TUTT y6	III_35_0008	Achdorf-Aselfingen, Achdorf	8.48733, 47.84	härdepfel	h ä r d e p f e l	herdäpfl	h e r d ä p f l	3
+633	TUTT r7	III_34_0016, III_34_0015, III_34_0120	Hüfingen, Hüfingen	8.48886, 47.92431	eardäpfel	e a r d ä p f e l	härdepfel	h ä r d e p f e l	3
+634	TUTT y8	III_35_0007	Hausen vor Wald, Hausen	8.49054, 47.89134	härdepfel	h ä r d e p f e l	herdäpfel	h e r d ä p f e l	2
+635	TUTT F10	III_36_0013	Blumegg, Blumegg	8.49815, 47.80904	herdepfel	h e r d e p f e l	herdöpfl	h e r d ö p f l	2
+636	TUTT r8	III_34_0008, III_34_0013, III_34_0009, III_34_0010, III_34_0007, III_34_0011, III_34_0012	Donaueschingen, Donaueschingen	8.50052, 47.95113	herdepfl	h e r d e p f l	herdepfel	h e r d e p f e l	1
+637	TUTT s6	III_34_0019	Donaueschingen-Allmendshofen, Donaueschingen-Allmendshofen	8.50063, 47.9405	härdäpfel	h ä r d ä p f e l	herdepfel	h e r d e p f e l	2
+638	TUTT d3	III_32_0118	Weilersbach, Weilersbach	8.50084, 48.09608	härdöpfel	h ä r d ö p f e l	herdepfel	h e r d e p f e l	2
+639	TUTT d2	III_32_0007	Kappel, Kappel	8.50341, 48.11215	härdepfel	h ä r d e p f e l	härdepfl	h ä r d e p f l	1
+640	TUTT V4,5	III_38_0017	Baltersweil, Baltersweil	8.51054, 47.63723	härdöpfel	h ä r d ö p f e l	herdöpfel	h e r d ö p f e l	1
+641	TUTT d1	III_32_0014	Niedereschach, Niedereschach	8.52734, 48.13129	heardäpfel	h e a r d ä p f e l	härdepfel	h ä r d e p f e l	3
+642	TUTT G1	III_36_0018, III_36_0017	Fützen, Fützen	8.5291, 47.80794	herdepfel	h e r d e p f e l	härdepfel	h ä r d e p f e l	1
+643	TUTT l2	III_33_0017, III_33_0018, III_33_0016	Bad Dürrheim, Bad Dürrheim	8.53214, 48.01807	herdepfel	h e r d e p f e l	heardepfel	h e a r d e p f e l	1
+644	TUTT z8	III_35_0020, III_35_0019	Blumberg, Blumberg	8.53265, 47.83981	herdöpfel	h e r d ö p f e l	härdöpfel	h ä r d ö p f e l	1
+645	TUTT z3	III_35_0015, III_35_0013, III_35_0014	Sumpfohren, Sumpfohren	8.53796, 47.90851	herdäpfel	h e r d ä p f e l	häadepfel	h ä a d e p f e l	3
+646	TUTT z6	III_35_0017	Riedböhringen, Riedböhringen	8.53811, 47.87011	herdepfl	h e r d e p f l	herdäpfel	h e r d ä p f e l	2
+647	TUTT s7	III_34_0023	Aasen, Aasen	8.5512, 47.98	härdepfl	h ä r d e p f l	herdäpfel	h e r d ä p f e l	3
+648	TUTT d4	III_32_0016	Dauchingen, Dauchingen	8.55237, 48.09031	herdepfel	h e r d e p f e l	heardepfel	h e a r d e p f e l	1
+649	TUTT z5	III_35_0016	Fürstenberg, Fürstenberg	8.55367, 47.89124	herdepfel	h e r d e p f e l	herdöpfel	h e r d ö p f e l	1
+650	TUTT G2/2, TUTT G2/1	III_36_0019	Epfenhofen, Epfenhofen	8.55432, 47.81867	hǟrdepfl	h ǟ r d e p f l	härdepfel	h ä r d e p f e l	2
+651	TUTT s5	III_34_0018	Pfohren, Pfohren	8.55997, 47.9474	härdepfel	h ä r d e p f e l	härdäpfel	h ä r d ä p f e l	1
+652	TUTT z9	III_35_0021	Riedöschingen, Riedöschingen	8.6077, 47.84306	erdepfel	e r d e p f e l	ärdepfel	ä r d e p f e l	1
+653	TUTT s3	III_34_0026	Unterbaldingen, Unterbaldingen	8.61256, 47.96992	heardepfel	h e a r d e p f e l	headepfel	h e a d e p f e l	1
+654	TUTT G3	III_36_0025	Kommingen, Kommingen	8.61478, 47.81599	erdepfel	e r d e p f e l	ärdepfel	ä r d e p f e l	1
+655	TUTT z1	III_35_0023	Gutmadingen, Gutmadingen	8.61605, 47.91149	hērdepfel	h ē r d e p f e l	herdäpfel	h e r d ä p f e l	2
+656	TUTT G5	III_36_0026	Uttenhofen, Uttenhofen	8.63235, 47.80782	herdäpfel	h e r d ä p f e l	herdapfel	h e r d a p f e l	1
+657	TUTT G7	III_36_0024	Wiechs a. R., Wiechs	8.64153, 47.78137	herdöpfel	h e r d ö p f e l	herdepfel	h e r d e p f e l	1
+658	TUTT s4, TUTT A1	III_34_0028	Geisingen (Kirchenhausen), Geisingen, Geisingen	8.65129, 47.93283	heardöpfel	h e a r d ö p f e l	heerdepfel	h ee r d e p f e l	2
+659	TUTT A2	III_35_0025	Leipferdingen, Leipferdingen	8.66787, 47.86461	ärdepfel	ä r d e p f e l	erdäpfel	e r d ä p f e l	2
+660	TUTT t2	III_34_0027	Ippingen, Ippingen	8.67098, 47.98355	herdepfel	h e r d e p f e l	herdäpfel	h e r d ä p f e l	1
+661	TUTT P6	III_37_0013, III_37_0012, III_37_0011, III_37_0010	Büsingen, Büsingen	8.69282, 47.69702	hä̆rdöpfel	h ä ̆ r d ö p f e l	herdöpfel	h e r d ö p f e l	2
+662	TUTT H9	III_36_0035	Weil, Weil	8.7018, 47.81859	herdöpfel	h e r d ö p f e l	herdepfel	h e r d e p f e l	1
+663	TUTT t5	III_34_0038	Zimmern, Zimmern	8.71521, 47.94848	herdepfel	h e r d e p f e l	härdepfel	h ä r d e p f e l	1
+664	TUTT t1	III_34_0032	Esslingen, Esslingen	8.71709, 47.99269	häadäpfel	h ä a d ä p f e l	härdäpfel	h ä r d ä p f e l	1
+665	TUTT H6	III_36_0033	Binningen, Binningen	8.72585, 47.79296	herdöpfl	h e r d ö p f l	herdäpfel	h e r d ä p f e l	2
+666	TUTT t4	III_34_0040, III_34_0041, III_34_0039	Immendingen, Immendingen	8.73032, 47.95055	häardepfl	h ä a r d e p f l	härdepfl	h ä r d e p f l	1
+667	TUTT A4	III_35_0028	Zimmerholz, Zimmerholz	8.74175, 47.86811	härdepfel	h ä r d e p f e l	herdöpfel	h e r d ö p f e l	2
+668	TUTT H5	III_36_0039	Riedheim, Riedheim	8.74873, 47.76389	herdöpfel	h e r d ö p f e l	herdepfel	h e r d e p f e l	1
+669	TUTT P5	III_37_0015	Gailingen, Gailingen	8.75499, 47.69685	herdŏpfel	h e r d ŏ p f e l	herdöpfel	h e r d ö p f e l	1
+670	TUTT t3	III_34_0029, III_34_0031, III_34_0030	Möhringen, Möhringen	8.75916, 47.96779	hedäpfel	h e d ä p f e l	herdepfel	h e r d e p f e l	2
+671	TUTT A7	III_35_0033, III_35_0034, III_35_0032	Engen, Engen	8.76853, 47.85186	härdäpfel	h ä r d ä p f e l	herdöpfel	h e r d ö p f e l	2
+672	TUTT H4	III_36_0040	Hilzingen, Hilzingen	8.78189, 47.7649	herdepfel	h e r d e p f e l	erdöpfel	e r d ö p f e l	2
+673	TUTT t6	III_34_0042	Hattingen, Hattingen	8.78447, 47.92082	herdäpfel	h e r d ä p f e l	ärdepfel	ä r d e p f e l	3
+674	TUTT H1	III_36_0030	Ehingen, Ehingen	8.80075, 47.82351	häardöpfel	h ä a r d ö p f e l	herdöpfel	h e r d ö p f e l	2
+675	TUTT A6	III_35_0035	Bittelbrunn (Aach), Bittelbrunn	8.81087, 47.86719	härdöpfel	h ä r d ö p f e l	herdepfel	h e r d e p f e l	2
+676	TUTT J2 /1	III_36_0052	Schlatt (unter Krähen), Schlatt	8.83529, 47.80435	hördopfel	h ö r d o p f e l	herdöpfel	h e r d ö p f e l	2
+677	TUTT u5	III_34_0119	Emmingen, Emmingen	8.85302, 47.92883	herdäpfel	h e r d ä p f e l	härdepfel	h ä r d e p f e l	2
+678	TUTT z2	III_33_0041	Nendingen, Nendingen	8.86067, 48.00602	herdepfel	h e r d e p f e l	iadepfl	i a d e p f l	4
+679	TUTT J1	III_36_0043	Volkertshausen, Volkertshausen	8.863, 47.82187	herdepfel	h e r d e p f e l	herdepfl	h e r d e p f l	1
+680	TUTT Q3	III_37_0019	Worblingen, Worblingen	8.86677, 47.72492	härdöbfl	h ä r d ö b f l	höardöbfl	h ö a r d ö b f l	2
+681	TUTT J6	III_36_0044	Beuren an der Aach, Beuren	8.87459, 47.79932	herdäpfel	h e r d ä p f e l	herdepfl	h e r d e p f l	2
+682	TUTT B4	III_35_0044	Honstetten, Honstetten	8.88331, 47.8933	herdäpfl	h e r d ä p f l	härdepfel	h ä r d e p f e l	3
+683	TUTT X1	III_38_0024	Öhningen, Öhningen	8.89136, 47.66162	herdöpfĕl	h e r d ö p f ĕ l	herdöpfel	h e r d ö p f e l	1
+684	TUTT Q4	III_37_0021	Bohlingen, Bohlingen	8.8965, 47.72199	herdöpfel	h e r d ö p f e l	herdöpfl	h e r d ö p f l	1
+685	TUTT Q2	III_37_0020	Überlingen am Ried, Überlingen am Ried	8.89807, 47.73495	herdepfel	h e r d e p f e l	herdäpfel	h e r d ä p f e l	1
+686	TUTT B3	III_35_0045	Reute, Reute	8.90723, 47.8873	härdepfel	h ä r d e p f e l	herdäpfel	h e r d ä p f e l	2
+687	TUTT u4	III_34_0047	Liptingen, Liptingen	8.90748, 47.93756	hettäpfel	h e tt ä p f e l	herdöpfel	h e r d ö p f e l	3
+688	TUTT J8	III_36_0047	Steisslingen, Steisslingen	8.92209, 47.80296	hädepfel	h ä d e p f e l	herdöpfel	h e r d ö p f e l	3
+689	TUTT B7	III_35_0038	Orsingen, Orsingen	8.92977, 47.83688	hädepfel	h ä d e p f e l	härdepfel	h ä r d e p f e l	1
+690	TUTT Q7	III_37_0025	Bankholzen, Bankholzen	8.92989, 47.7082	herdöpfel	h e r d ö p f e l	herdöpfl	h e r d ö p f l	1
+691	TUTT X2	III_38_0025	Wangen, Wangen	8.93161, 47.6599	herdöpfl	h e r d ö p f l	herdöpfel	h e r d ö p f e l	1
+692	TUTT Q5	III_37_0024	Moos, Moos	8.93316, 47.7259	härdöpfel	h ä r d ö p f e l	herdöpfel	h e r d ö p f e l	1
+693	TUTT B1	III_35_0047	Heudorf, Heudorf	8.93517, 47.91373	herdepfl	h e r d e p f l	herdäpfel	h e r d ä p f e l	2
+694	TUTT f1	III_32_0032	Hartheim, Hartheim	8.93612, 48.15571	härdepfel	h ä r d e p f e l	aidepfl	a i d e p f l	4
+695	TUTT B9	III_35_0049	Homberg Münchhof, Münchhöf	8.95295, 47.88032	herdäpfel	h e r d ä p f e l	herdepfel	h e r d e p f e l	1
+696	TUTT Q8	III_37_0028	Weiler und Iznag, Weiler	8.95347, 47.70847	herdöpfel	h e r d ö p f e l	erdöpfel	e r d ö p f e l	1
+697	TUTT B8	III_35_0051	Nenzingen, Nenzingen	8.95914, 47.84256	hĕdēpfel	h ĕ d ē p f e l	härdäpfel	h ä r d ä p f e l	3
+698	TUTT f2	III_32_0038	Heinstetten, Heinstetten	8.96312, 48.13491	hǟadäpfel	h ǟ a d ä p f e l	härdepfel	h ä r d e p f e l	3
+699	TUTT Q11	III_37_0029	Hemmenhofen, Hemmenhofen	8.96502, 47.67294	herdöpfel	h e r d ö p f e l	herdäpfel	h e r d ä p f e l	1
+700	TUTT Q6/2, TUTT Q6/1, TUTT Q6/3	III_37_0023	Radolfzell, Radolfzell	8.97017, 47.74493	herdepfel	h e r d e p f e l	herdäpfel	h e r d ä p f e l	1
+701	TUTT C4, TUTT B11	III_35_0050	Mahlspüren, Mahlspüren	8.97748, 47.87563	herdepfl	h e r d e p f l	herdepfel	h e r d e p f e l	1
+702	TUTT n1	III_33_0040	Buchheim, Buchheim	8.98672, 48.011	hädäpfel	h ä d ä p f e l	herdäpfel	h e r d ä p f e l	2
+703	TUTT u2	III_34_0045	Unterschwandorf, Unterschwandorf	8.99628, 47.95028	hedepfl	h e d e p f l	hädepfel	h ä d e p f e l	2
+704	TUTT u3	III_34_0048	Gallmannsweil, Gallmannsweil	8.99683, 47.92357	härdaepfl	h ä r d a e p f l	hädepfl	h ä d e p f l	2
+705	TUTT J11	III_36_0051, III_36_0050	Güttingen, Güttingen	8.998, 47.77415	herdepfel	h e r d e p f e l	hedepfel	h e d e p f e l	1
+706	TUTT v2	III_34_0046	Worndorf, Worndorf	8.9985, 47.98553	härdepfel	h ä r d e p f e l	herdepfel	h e r d e p f e l	1
+707	TUTT C8	III_35_0040	Zizenhausen, Zizenhausen	9.0005, 47.87365	herdäͤpfel	h e r d ä ͤ p f e l	herdäpfel	h e r d ä p f e l	1
+708	TUTT K8	III_36_0045	Möggingen, Möggingen	9.00337, 47.76589	hädöpfel	h ä d ö p f e l	härdepfel	h ä r d e p f e l	2
+709	TUTT R3	III_37_0030	Markelfingen, Markelfingen	9.00452, 47.74143	härdepfel	h ä r d e p f e l	herdepfel	h e r d e p f e l	1
+710	TUTT C9	III_35_0060	Hoppetenzell, Hoppetenzell	9.00808, 47.89295	herdepfel	h e r d e p f e l	hedepfel	h e d e p f e l	1
+711	TUTT v6	III_34_0050	Mainwangen, Mainwangen	9.0105, 47.92565	hārtäpfel	h ā r t ä p f e l	hädepfel	h ä d e p f e l	4
+712	TUTT K5	III_36_0053	Espasingen, Espasingen	9.01058, 47.82135	herdepfl	h e r d e p f l	herdepfel	h e r d e p f e l	1
+713	TUTT C6	III_35_0056	Stockach, Stockach	9.01468, 47.85384	herdepfl	h e r d e p f l	hedepfl	h e d e p f l	1
+714	TUTT C10	III_35_0059	Mühlingen, Mühlingen	9.01554, 47.91191	hädepfel	h ä d e p f e l	härdepfel	h ä r d e p f e l	1
+715	TUTT K7	III_36_0057, III_36_0055, III_36_0056	Liggeringen, Liggeringen	9.02698, 47.77495	härdepfel	h ä r d e p f e l	herdepfel	h e r d e p f e l	1
+716	TUTT K6	III_36_0054	Bodman, Bodman	9.02835, 47.80402	härdäpfel	h ä r d ä p f e l	herdepfl	h e r d e p f l	3
+717	TUTT v5	III_34_0051	Boll, Boll	9.0299, 47.9487	herdäpfel	h e r d ä p f e l	heddäpfel	h e dd ä p f e l	1
+718	TUTT g1	III_32_0042	Glashütte (Heuberg), Glashütte	9.03485, 48.1237	hiedepfel	h ie d e p f e l	herdepfel	h e r d e p f e l	2
+719	TUTT C2/2, TUTT C2/1	III_35_0052	Zoznegg, Zoznegg	9.04053, 47.89958	härdepfl	h ä r d e p f l	herdäpfel	h e r d ä p f e l	3
+720	TUTT C1	III_35_0054	Schwackenreute, Schwackenreute	9.04401, 47.91392	hädepfel	h ä d e p f e l	hedepfel	h e d e p f e l	1
+721	TUTT v4	III_34_0052	Krumbach, Krumbach	9.04788, 47.96159	herdäpfel	h e r d ä p f e l	hedäpfel	h e d ä p f e l	1
+722	TUTT o4	III_33_0042	Kreenheinstetten, Kreenheinstetten	9.05221, 48.0555	härdepfel	h ä r d e p f e l	hedepfel	h e d e p f e l	2
+723	TUTT C5	III_35_0055	Winterspüren, Winterspüren	9.05857, 47.85618	härdepfel	h ä r d e p f e l	herdäpffel	h e r d ä p ff e l	3
+724	TUTT K4	III_36_0059	Ludwigshafen, Ludwigshafen	9.05916, 47.8189	herdepfel	h e r d e p f e l	herdöpfel	h e r d ö p f e l	1
+725	TUTT R6	III_37_0039, III_37_0040, III_37_0038	Reichenau, Reichenau	9.06125, 47.69789	härdöpfel	h ä r d ö p f e l	herdöpfl	h e r d ö p f l	2
+726	TUTT R4	III_37_0034, III_37_0035, III_37_0033, III_37_0032	Allensbach, Allensbach	9.06699, 47.71535	heatöpfel	h e a t ö p f e l	herdepfel	h e r d e p f e l	3
+727	TUTT g2	III_32_0043	Stetten a.k.M. (am kalten Markt), Stetten	9.07816, 48.12086	hädepfel	h ä d e p f e l	häedepfel	h ä e d e p f e l	1
+728	TUTT K11	III_36_0061, III_36_0062, III_36_0063, III_36_0064, III_36_0060	Sipplingen, Sipplingen	9.09665, 47.79525	härdepfel	h ä r d e p f e l	erdäpfel	e r d ä p f e l	3
+729	TUTT v9	III_34_0049	Wasser, Wasser	9.10143, 47.9671	hädepfel	h ä d e p f e l	hädepfl	h ä d e p f l	1
+730	TUTT 07	III_33_0049	Rohrdorf, Rohrdorf	9.10207, 48.01811	headepfel	h e a d e p f e l	herdäpfel	h e r d ä p f e l	2
+731	TUTT v7	III_34_0059	Sauldorf, Sauldorf	9.10721, 47.94343	hadepfel	h a d e p f e l	herdäpfel	h e r d ä p f e l	3
+732	TUTT v10	III_34_0058, III_34_0057	Messkirch, Messkirch	9.11537, 47.99484	hērdepfel	h ē r d e p f e l	hedepfl	h e d e p f l	3
+733	TUTT R1	III_37_0036	Dettingen, Dettingen	9.117, 47.73485	herdöpfel	h e r d ö p f e l	herdepfel	h e r d e p f e l	1
+734	TUTT K2	III_36_0065	Nesselwangen, Nesselwangen	9.11824, 47.81683	herdepfel	h e r d e p f e l	hedepfl	h e d e p f l	2
+735	TUTT v8	III_34_0060	Rast, Rast	9.12126, 47.93997	hädäpfel	h ä d ä p f e l	hädepfel	h ä d e p f e l	1
+736	TUTT C3	III_35_0061	Sentenhart, Sentenhart	9.12618, 47.91369	hädepfl	h ä d e p f l	hädäpfel	h ä d ä p f e l	2
+737	TUTT o6	III_33_0046	Engelswies, Engelswies	9.12846, 48.04259	härdǟpfel	h ä r d ǟ p f e l	erdäpfel	e r d ä p f e l	3
+738	TUTT K10	III_36_0151	Hödingen, Hödingen	9.13275, 47.78865	heardepfel	h e a r d e p f e l	headepfl	h e a d e p f l	2
+739	TUTT K9	III_36_0071	Überlingen, Überlingen	9.1592, 47.76732	hé̮adebfl	h é ̮ a d e b f l	herdäpfel	h e r d ä p f e l	6
+740	SIG t1	III_38_0131	Konstanz, Konstanz	9.17758, 47.66385	herdäpfel	h e r d ä p f e l	erdäpfel	e r d ä p f e l	1
+741	SIG n16	III_36_0075	Nußdorf, Nußdorf	9.19513, 47.75277	herdepfel	h e r d e p f e l	härdäpfel	h ä r d ä p f e l	2
+742	SIG k1	III_35_0076	Aach-Linz, Aach-Linz	9.20037, 47.91152	hädepfel	h ä d e p f e l	herdäpfel	h e r d ä p f e l	3
+743	SIG d1	III_33_0055	Göggingen, Göggingen	9.20194, 48.00389	herdepfel	h e r d e p f e l	herdöpfel	h e r d ö p f e l	1
+744	SIG n3	III_36_0076	Hohenbodmann, Hohenbodmann	9.21042, 47.82312	herdepfl	h e r d e p f l	häedepfl	h ä e d e p f l	2
+745	SIG q7	III_36_0074	Deisendorf, Deisendorf	9.21621, 47.76835	hädepfel	h ä d e p f e l	herdöpfel	h e r d ö p f e l	3
+746	SIG q2	III_37_0042	Unteruhldingen, Unteruhldingen	9.2334, 47.72271	häedepfel	h ä e d e p f e l	heădeffl	h e ă d e ff l	4
+747	SIG n8	III_36_0077	Lippertsreute, Lippertsreute	9.23743, 47.80427	herdepfel	h e r d e p f e l	herdäpfel	h e r d ä p f e l	1
+748	SIG q3	III_37_0041	Oberuhldingen, Oberuhldingen	9.24549, 47.73557	herdepfel	h e r d e p f e l	herdepfl	h e r d e p f l	1
+749	SIG g2/2, SIG g2/1	III_34_0065, III_34_0063	Pfullendorf, Pfullendorf	9.25466, 47.92614	herdepfel	h e r d e p f e l	hedepfel	h e d e p f e l	1
+750	SIG n7	III_36_0078	Frickingen, Frickingen	9.27056, 47.81023	hädepfel	h ä d e p f e l	erdäpfel	e r d ä p f e l	3
+751	SIG q8/1	III_37_0047	Meersburg, Meersburg	9.27244, 47.69466	herdepfel	h e r d e p f e l	herdepfl	h e r d e p f l	1
+752	SIG k5	III_35_0075	Hattenweiler, Hattenweiler	9.27568, 47.85957	erdäpfel	e r d ä p f e l	herdepfel	h e r d e p f e l	2
+753	SIG n13	III_36_0083, III_36_0085, III_36_0086	Mimmenausen, Mimmenausen	9.2852, 47.76025	härdepfel	h ä r d e p f e l	herdepfel	h e r d e p f e l	1
+754	SIG n12	III_36_0081	Salem, Salem	9.28599, 47.77663	herdepfel	h e r d e p f e l	herdöpfel	h e r d ö p f e l	1
+755	SIG n6	III_36_0079	Leustetten, Leustetten	9.29433, 47.80634	hedepfl	h e d e p f l	herdäpfel	h e r d ä p f e l	3
+756	SIG q5	III_37_0044	Grasbeuren, Grasbeuren	9.29766, 47.73029	herdepfel	h e r d e p f e l	hädepfl	h ä d e p f l	3
+757	SIG q4	III_37_0043	Buggensegel, Buggensegel	9.29936, 47.74645	hedepfel	h e d e p f e l	herdepfel	h e r d e p f e l	1
+758	SIG n11	III_36_0082	Weildorf, Weildorf	9.30037, 47.78969	headepfl	h e a d e p f l	headepfel	h e a d e p f e l	1
+759	SIG k3	III_35_0073, III_35_0074, III_35_0071, III_35_0072	Denkingen, Denkingen	9.30821, 47.89505	herdepfel	h e r d e p f e l	hädepfel	h ä d e p f e l	2
+760	SIG n5	III_36_0072	Heiligenberg, Heiligenberg	9.31203, 47.81993	herdepfel	h e r d e p f e l	erdäpfel	e r d ä p f e l	2
+761	SIG n10	III_36_0073	Beuren, Beuren	9.32135, 47.80541	hädepfel	h ä d e p f e l	herdepfel	h e r d e p f e l	2
+762	SIG q6	III_37_0045	Ahausen, Ahausen	9.32247, 47.72502	herdepfel	h e r d e p f e l	häedepfel	h ä e d e p f e l	2
+763	SIG n15	III_36_0080	Röhrenbach, Röhrenbach	9.3248, 47.82972	herdäpfel	h e r d ä p f e l	heădepfel	h e ă d e p f e l	2
+764	SIG r7	III_37_0051	Ittendorf, Ittendorf	9.34074, 47.70119	headepfel	h e a d e p f e l	herdäpfel	h e r d ä p f e l	2
+765	SIG o1	III_36_0088	Betenbrunn, Betenbrunn	9.34649, 47.8185	härdäpfl	h ä r d ä p f l	herdäpfl	h e r d ä p f l	1
+766	SIG r2	III_37_0050	Bermatingen, Bermatingen	9.34868, 47.73084	hädepfl	h ä d e p f l	häadepfl	h ä a d e p f l	1
+767	SIG l2	III_35_0080	Illmensee, Illmensee	9.37456, 47.86209	härdepfl	h ä r d e p f l	hedepfel	h e d e p f e l	3
+768	SIG r3	III_37_0052, III_37_0053	Markdorf, Markdorf	9.38933, 47.72088	eerdepfel	ee r d e p f e l	erdepfl	e r d e p f l	2
+769	SIG o5	III_36_0093	Roggenbeuren, Roggenbeuren	9.40565, 47.76961	hädepfe	h ä d e p f e	hädepfel	h ä d e p f e l	1
+770	SIG r4	III_37_0057	Riedheim, Riedheim	9.41014, 47.70429	hedepfel	h e d e p f e l	erdäpfel	e r d ä p f e l	3
+771	Co D6	III_14_0081	Sewen, Sewen	6.90688, 47.80694	ardäpfel	a r d ä p f e l	hardäpfel	h a r d ä p f e l	1
+772	Co E13	III_14_0092	Rammersmatt, Rammersmatt	7.07084, 47.78935	hardepfel	h a r d e p f e l	hardöpf	h a r d ö p f	3
+773	Co E13	III_14_0092	Rammersmatt, Rammersmatt	7.07084, 47.78935	hardäpfel	h a r d ä p f e l	hardöpf	h a r d ö p f	3
+774	Co i 7	III_13_0006	Breitenbach (Breitenbach-Haut-Rhin), Breitenbach	7.10087, 48.02382	ardäpfel	a r d ä p f e l	ardöpfel	a r d ö p f e l	1
+775	Co i 7	III_13_0006	Breitenbach (Breitenbach-Haut-Rhin), Breitenbach	7.10087, 48.02382	ardäpfel	a r d ä p f e l	erdäpfel	e r d ä p f e l	1
+776	Co T12	III_16_0002	Altenach, Altenach	7.11466, 47.60658	hârdepfel	h â r d e p f e l	hardäpfel	h a r d ä p f e l	2
+777	Co T12	III_16_0002	Altenach, Altenach	7.11466, 47.60658	hârdepfel	h â r d e p f e l	ardäpfel	a r d ä p f e l	3
+778	Co M8	III_15_0011, III_15_0010	Gildweiler (Gildwiller), Falkweiler, Hecken, Falkweiler, Gildweiler	7.13461, 47.6894	herdepfel	h e r d e p f e l	hardäpfel	h a r d ä p f e l	2
+779	Co M8	III_15_0011, III_15_0010	Gildweiler (Gildwiller), Falkweiler, Hecken, Falkweiler, Gildweiler	7.13461, 47.6894	herdepfel	h e r d e p f e l	erdapfel	e r d a p f e l	2
+780	Co q 6	III_13_0101	Murbach, Murbach	7.1604, 47.92318	hārdäpfel	h ā r d ä p f e l	herdäpfel	h e r d ä p f e l	1
+781	Co q 6	III_13_0101	Murbach, Murbach	7.1604, 47.92318	hārdäpfel	h ā r d ä p f e l	hardäpfel	h a r d ä p f e l	1
+782	Stra V 1, Stra U 1/1, Stra U 1/2	III_12_0002	Markich (Sainte-Marie-Aux-Marines), Markirch	7.17972, 48.24483	hardebfel	h a r d e b f e l	hardäpfel	h a r d ä p f e l	2
+783	Co y 13, Co y 13, 14, Co y 5, Co y 14	III_14_0027	Gebweiler (Guebwiller), Gebweiler (Guebwiller) , Gebweiler	7.21078, 47.9095	hahrdäpfel	h a h r d ä p f e l	hardäpfel	h a r d ä p f e l	1
+784	Co y 13, Co y 13, 14, Co y 5, Co y 14	III_14_0027	Gebweiler (Guebwiller), Gebweiler (Guebwiller) , Gebweiler	7.21078, 47.9095	hartäpfel	h a r t ä p f e l	hardäpfel	h a r d ä p f e l	1
+785	Co U 12	III_16_0021, III_16_0020	Hirzbach (Hirtzbach), Hirzbach	7.22017, 47.59449	hardäpfel	h a r d ä p f e l	herdäpfel	h e r d ä p f e l	1
+786	Co r 8/2, Co r 8/1	III_13_0108	Sulzmatt (Soultzmatt), Sulzmatt	7.23437, 47.96595	hārdäpfel	h ā r d ä p f e l	hardepfl	h a r d e p f l	3
+787	Co r 8/2, Co r 8/1	III_13_0108	Sulzmatt (Soultzmatt), Sulzmatt	7.23437, 47.96595	hārdäpfl	h ā r d ä p f l	hardepfl	h a r d e p f l	2
+788	Co k 15	III_13_0012	Zimmerbach, Zimmerbach	7.23755, 48.07261	ardäpfl	a r d ä p f l	herdäpfel	h e r d ä p f e l	3
+789	Co k 15	III_13_0012	Zimmerbach, Zimmerbach	7.23755, 48.07261	hardäpfl	h a r d ä p f l	herdäpfel	h e r d ä p f e l	2
+790	Co U 7/1, Co U 7/2	III_16_0029	Altkirch, Altkirch	7.24009, 47.62592	hardäpfl	h a r d ä p f l	hardäpfel	h a r d ä p f e l	1
+791	Co F3/2, Co F3/1	III_14_0102	Wittelsheim, Wittelsheim	7.24063, 47.81047	hārdepfel	h ā r d e p f e l	hardepfel	h a r d e p f e l	1
+792	Co y 8	III_14_0024, III_14_0023	Bollweiler (Bollwiller), Bollweiler	7.25961, 47.86006	hertäpfel	h e r t ä p f e l	hardäpfel	h a r d ä p f e l	2
+793	Co y 8	III_14_0024, III_14_0023	Bollweiler (Bollwiller), Bollweiler	7.25961, 47.86006	hertäpfel	h e r t ä p f e l	ardäpfel	a r d ä p f e l	3
+794	Co N8/1, Co N8/2	III_15_0015	Illfurt (Illfurth), Illfurt	7.26494, 47.67073	herdäpfel	h e r d ä p f e l	hardäpfel	h a r d ä p f e l	1
+795	Co N8/1, Co N8/2	III_15_0015	Illfurt (Illfurth), Illfurt	7.26494, 47.67073	hārdäpfel	h ā r d ä p f e l	hardäpfel	h a r d ä p f e l	1
+796	Co y 15	III_14_0026, III_14_0025	Feldkirch, Feldkirch	7.27197, 47.86504	hardäpfel	h a r d ä p f e l	hartäpfel	h a r t ä p f e l	1
+797	Stra O 5, Stra U 2	III_11_0082	klein Leberau (Lièpvre), Leberau (Lièpvre), Leberau	7.28169, 48.2709	hārdäpfel	h ā r d ä p f e l	hardäpfel	h a r d ä p f e l	1
+798	Stra O 5, Stra U 2	III_11_0082	klein Leberau (Lièpvre), Leberau (Lièpvre), Leberau	7.28169, 48.2709	ardäpfel	a r d ä p f e l	hardäpfel	h a r d ä p f e l	1
+799	Co U 2	III_16_0023, III_16_0024	Lümschweiler (Luemschwiller) und Tagolsheim, Tagolsheim, Lümschweiler	7.28747, 47.65547	hardäpfel	h a r d ä p f e l	herdäpfel	h e r d ä p f e l	1
+800	Co r 10/2, Co r 10/1	III_13_0111	Pfaffenheim, Pfaffenheim	7.2903, 47.98827	hardäpfel	h a r d ä p f e l	hardäpfl	h a r d ä p f l	1
+801	Stra l 1, Stra l 3	III_9_0005, III_9_0007	Engenthal, Engental, Engental-Windsburg, Engental	7.30153, 48.63467	hardepfel	h a r d e p f e l	hadepfel	h a d e p f e l	1
+802	Stra l 1, Stra l 3	III_9_0005, III_9_0007	Engenthal, Engental, Engental-Windsburg, Engental	7.30153, 48.63467	hardepfel	h a r d e p f e l	ardäpfel	a r d ä p f e l	2
+803	Stra l 1, Stra l 3	III_9_0005, III_9_0007	Engenthal, Engental, Engental-Windsburg, Engental	7.30153, 48.63467	hårdåpfel	h å r d å p f e l	hadepfel	h a d e p f e l	3
+804	Stra l 1, Stra l 3	III_9_0005, III_9_0007	Engenthal, Engental, Engental-Windsburg, Engental	7.30153, 48.63467	hårdåpfel	h å r d å p f e l	ardäpfel	a r d ä p f e l	3
+805	Stra G 6	III_11_0007, III_11_0005	Weiler (Villé), Weiler, Weiler, ortsteil Erlenbach	7.30273, 48.34253	ardepfl	a r d e p f l	hardepfel	h a r d e p f e l	2
+806	Stra G 6	III_11_0007, III_11_0005	Weiler (Villé), Weiler, Weiler, ortsteil Erlenbach	7.30273, 48.34253	ardepfl	a r d e p f l	ardepfel	a r d e p f e l	1
+807	Co c 13	III_12_0077, III_12_0076	Mittelweier, Mittelweier	7.32094, 48.14982	hardepfel	h a r d e p f e l	hardepfl	h a r d e p f l	1
+808	Stra s 1/1, Stra s 1/2	III_10_0001	Oberhaslach, Oberhaslach	7.33046, 48.5499	ǟrdäpfel	ǟ r d ä p f e l	ardäpfel	a r d ä p f e l	1
+809	Co F7/1, Co F7/2	III_14_0107, III_14_0108, III_14_0121, III_14_0119, III_14_0115, III_14_0116, III_14_0112, III_14_0111, III_14_0113, III_14_0118, III_14_0120, III_14_0117, III_14_0114, III_14_0109, III_14_0110	Mülhausen, Mülhausen	7.34375, 47.7517	hardäpfel	h a r d ä p f e l	hardepfel	h a r d e p f e l	1
+810	Co F7/1, Co F7/2	III_14_0107, III_14_0108, III_14_0121, III_14_0119, III_14_0115, III_14_0116, III_14_0112, III_14_0111, III_14_0113, III_14_0118, III_14_0120, III_14_0117, III_14_0114, III_14_0109, III_14_0110	Mülhausen, Mülhausen	7.34375, 47.7517	hardäpfel	h a r d ä p f e l	hárdäpfel	h á r d ä p f e l	1
+811	Co F7/1, Co F7/2	III_14_0107, III_14_0108, III_14_0121, III_14_0119, III_14_0115, III_14_0116, III_14_0112, III_14_0111, III_14_0113, III_14_0118, III_14_0120, III_14_0117, III_14_0114, III_14_0109, III_14_0110	Mülhausen, Mülhausen	7.34375, 47.7517	hardäpfel	h a r d ä p f e l	erdäpfel	e r d ä p f e l	2
+812	Co F7/1, Co F7/2	III_14_0107, III_14_0108, III_14_0121, III_14_0119, III_14_0115, III_14_0116, III_14_0112, III_14_0111, III_14_0113, III_14_0118, III_14_0120, III_14_0117, III_14_0114, III_14_0109, III_14_0110	Mülhausen, Mülhausen	7.34375, 47.7517	hardäpfel	h a r d ä p f e l	hárdäpfl	h á r d ä p f l	2
+813	Co F7/1, Co F7/2	III_14_0107, III_14_0108, III_14_0121, III_14_0119, III_14_0115, III_14_0116, III_14_0112, III_14_0111, III_14_0113, III_14_0118, III_14_0120, III_14_0117, III_14_0114, III_14_0109, III_14_0110	Mülhausen, Mülhausen	7.34375, 47.7517	hardäpfel	h a r d ä p f e l	hārdäpfel	h ā r d ä p f e l	1
+814	Co F7/1, Co F7/2	III_14_0107, III_14_0108, III_14_0121, III_14_0119, III_14_0115, III_14_0116, III_14_0112, III_14_0111, III_14_0113, III_14_0118, III_14_0120, III_14_0117, III_14_0114, III_14_0109, III_14_0110	Mülhausen, Mülhausen	7.34375, 47.7517	hardäpfel	h a r d ä p f e l	hardopfel	h a r d o p f e l	1
+815	Co F7/1, Co F7/2	III_14_0107, III_14_0108, III_14_0121, III_14_0119, III_14_0115, III_14_0116, III_14_0112, III_14_0111, III_14_0113, III_14_0118, III_14_0120, III_14_0117, III_14_0114, III_14_0109, III_14_0110	Mülhausen, Mülhausen	7.34375, 47.7517	hardäpfel	h a r d ä p f e l	hartäpfel	h a r t ä p f e l	1
+816	Co G4, Co G7	III_14_0122	Napoleonsinsel (Ile Napoléon), Illzach, Illzach, Illzach	7.34839, 47.78217	hardepfel	h a r d e p f e l	hardäpfel	h a r d ä p f e l	1
+817	Co G4, Co G7	III_14_0122	Napoleonsinsel (Ile Napoléon), Illzach, Illzach, Illzach	7.34839, 47.78217	hardöpfel	h a r d ö p f e l	hardäpfel	h a r d ä p f e l	1
+818	Co z 1	III_14_0034, III_14_0035	Ensisheim, Ensisheim	7.35432, 47.86522	hārdepfel	h ā r d e p f e l	hārtepfel	h ā r t e p f e l	1
+819	Co z 1	III_14_0034, III_14_0035	Ensisheim, Ensisheim	7.35432, 47.86522	hārdepfel	h ā r d e p f e l	hardäpfel	h a r d ä p f e l	2
+820	Co l 1/5, Co l 1/3, Co l 1/4, Co l 1/1, Co l 1/6, Co l 1/2	III_13_0030	Kolmar (/Hausen an der Möhlin), Kolmar, Kolmar	7.36359, 48.08198	hardepfel	h a r d e p f e l	hartäpfel	h a r t ä p f e l	2
+821	Co l 1/5, Co l 1/3, Co l 1/4, Co l 1/1, Co l 1/6, Co l 1/2	III_13_0030	Kolmar (/Hausen an der Möhlin), Kolmar, Kolmar	7.36359, 48.08198	hard͜äpfel	h a r d ͜ ä p f e l	hartäpfel	h a r t ä p f e l	2
+822	Co l 1/5, Co l 1/3, Co l 1/4, Co l 1/1, Co l 1/6, Co l 1/2	III_13_0030	Kolmar (/Hausen an der Möhlin), Kolmar, Kolmar	7.36359, 48.08198	ardäpfel	a r d ä p f e l	hartäpfel	h a r t ä p f e l	2
+823	Co l 1/5, Co l 1/3, Co l 1/4, Co l 1/1, Co l 1/6, Co l 1/2	III_13_0030	Kolmar (/Hausen an der Möhlin), Kolmar, Kolmar	7.36359, 48.08198	hartepfel	h a r t e p f e l	hartäpfel	h a r t ä p f e l	1
+824	Co l 1/5, Co l 1/3, Co l 1/4, Co l 1/1, Co l 1/6, Co l 1/2	III_13_0030	Kolmar (/Hausen an der Möhlin), Kolmar, Kolmar	7.36359, 48.08198	hardäpfel	h a r d ä p f e l	hartäpfel	h a r t ä p f e l	1
+825	Co l 1/5, Co l 1/3, Co l 1/4, Co l 1/1, Co l 1/6, Co l 1/2	III_13_0030	Kolmar (/Hausen an der Möhlin), Kolmar, Kolmar	7.36359, 48.08198	hardaepfel	h a r d a e p f e l	hartäpfel	h a r t ä p f e l	3
+826	Co Vd 5	III_17_0076, III_17_0075	Rädersdorf (Raedersdorf), Rädersdorf, Rädersdorf	7.3665, 47.47487	hardäpfel	h a r d ä p f e l	herdäpfel	h e r d ä p f e l	1
+827	Co s 3, Co s 6	III_13_0116	Oberenzen, Oberenzen (Oberentzen), Oberenzen	7.37872, 47.94354	hārdäpfel	h ā r d ä p f e l	hardäpfel	h a r d ä p f e l	1
+828	Stra e 17, Stra m 3/1	III_8_0041	Maursmünster, Maursmünster (Marmoutier), Maursmünster	7.38108, 48.69056	ardåpfel	a r d å p f e l	ardäpfel	a r d ä p f e l	1
+829	Stra e 17, Stra m 3/1	III_8_0041	Maursmünster, Maursmünster (Marmoutier), Maursmünster	7.38108, 48.69056	ardapfel	a r d a p f e l	ardäpfel	a r d ä p f e l	1
+830	Stra W 1, Stra W 2	III_12_0009, III_12_0008	St. Pilt (saint-Hyppolyte), Orschweiler (Orschwiller), St. Pilt, Orschweiler	7.38445, 48.24184	hardäpfel	h a r d ä p f e l	erdäpfel	e r d ä p f e l	2
+831	Stra W 1, Stra W 2	III_12_0009, III_12_0008	St. Pilt (saint-Hyppolyte), Orschweiler (Orschwiller), St. Pilt, Orschweiler	7.38445, 48.24184	härdäpfel	h ä r d ä p f e l	hardäpfel	h a r d ä p f e l	1
+832	Stra W 1, Stra W 2	III_12_0009, III_12_0008	St. Pilt (saint-Hyppolyte), Orschweiler (Orschwiller), St. Pilt, Orschweiler	7.38445, 48.24184	härdäpfel	h ä r d ä p f e l	erdäpfel	e r d ä p f e l	2
+833	Co s 2	III_13_0119, III_13_0118	Bilzheim (Biltzheim), Bilzheim	7.38657, 47.95675	ardäpfel	a r d ä p f e l	erdapfel	e r d a p f e l	2
+834	Co Vd 2/2, Co Vd 2/1	III_17_0072	Oltingen (Oltingue), Oltingen	7.39411, 47.48862	hardepfel	h a r d e p f e l	hardäpfel	h a r d ä p f e l	1
+835	Co O1/2, Co O1/1	III_15_0031, III_15_0032	Rixheim, Napoleoninsel Rixheim, Rixheim	7.39739, 47.74412	hardäpfel	h a r d ä p f e l	hardepfel	h a r d e p f e l	1
+836	Stra t 5	III_10_0015, III_10_0016	Dinsheim (Dinsheim-Sur-Bruche), Dinsheim	7.4273, 48.54254	ardäpfel	a r d ä p f e l	ardåpfel	a r d å p f e l	1
+837	Stra t 15/1	III_10_0007, III_10_0006	Flexburg, Flexburg	7.43177, 48.57213	ardäpfel	a r d ä p f e l	ardepfl	a r d e p f l	2
+838	Stra A 6/2, Stra A 6/1	III_10_0091	Ottrott, Ottrott	7.43298, 48.46056	adepfl	a d e p f l	ardäpfel	a r d ä p f e l	3
+839	Stra A 6/2, Stra A 6/1	III_10_0091	Ottrott, Ottrott	7.43298, 48.46056	ardepfel	a r d e p f e l	ardäpfel	a r d ä p f e l	1
+840	Stra P 10/2, Stra P 10/1, Stra P 10/3	III_11_0093	Schlettstadt (Sélestat), Schlettstadt	7.45232, 48.2578	herdäpfel	h e r d ä p f e l	erdäpfel	e r d ä p f e l	1
+841	Stra P 10/2, Stra P 10/1, Stra P 10/3	III_11_0093	Schlettstadt (Sélestat), Schlettstadt	7.45232, 48.2578	hardäpfel	h a r d ä p f e l	erdäpfel	e r d ä p f e l	2
+842	Stra H 2/1, Stra H 2/2, Stra H 2/3	III_11_0013	Barr, Barr	7.45244, 48.40651	ārdepfel	ā r d e p f e l	ardäpfel	a r d ä p f e l	2
+843	Stra H 2/1, Stra H 2/2, Stra H 2/3	III_11_0013	Barr, Barr	7.45244, 48.40651	ardepfel	a r d e p f e l	ardäpfel	a r d ä p f e l	1
+844	Co V 13/2, Co V 13/1	III_16_0047	Niedermichelbach (Michelbach-le-Bas), Niedermichelbach	7.46442, 47.59288	hardepfel	h a r d e p f e l	hardäpfel	h a r d ä p f e l	1
+845	Stra H 11/2, Stra H 11/1	III_11_0022, III_11_0023	Epfig, Epfig	7.4655, 48.35803	hardäpfel	h a r d ä p f e l	erdäpfel	e r d ä p f e l	2
+846	Stra A 1/3, Stra A 1/2	III_10_0087	Rosheim, Rosheim	7.46905, 48.49622	ărdäpfel	ă r d ä p f e l	ardäpfel	a r d ä p f e l	1
+847	Co W 15/1, Co W 15, 14, Co W 15/2	III_16_0039, III_16_0062, III_16_0040	Boltzheim (Blotzheim), Blotzheim	7.49611, 47.60128	hartepfel	h a r t e p f e l	herdäpfel	h e r d ä p f e l	3
+848	Co W 15/1, Co W 15, 14, Co W 15/2	III_16_0039, III_16_0062, III_16_0040	Boltzheim (Blotzheim), Blotzheim	7.49611, 47.60128	hartepfel	h a r t e p f e l	hardäpfel	h a r d ä p f e l	2
+849	Co W 15/1, Co W 15, 14, Co W 15/2	III_16_0039, III_16_0062, III_16_0040	Boltzheim (Blotzheim), Blotzheim	7.49611, 47.60128	hartepfel	h a r t e p f e l	hartäpfel	h a r t ä p f e l	1
+850	Co W 15/1, Co W 15, 14, Co W 15/2	III_16_0039, III_16_0062, III_16_0040	Boltzheim (Blotzheim), Blotzheim	7.49611, 47.60128	herdȓpfel	h e r d r ̑ p f e l	herdäpfel	h e r d ä p f e l	2
+851	Co W 15/1, Co W 15, 14, Co W 15/2	III_16_0039, III_16_0062, III_16_0040	Boltzheim (Blotzheim), Blotzheim	7.49611, 47.60128	herdȓpfel	h e r d r ̑ p f e l	hardäpfel	h a r d ä p f e l	3
+852	Co W 15/1, Co W 15, 14, Co W 15/2	III_16_0039, III_16_0062, III_16_0040	Boltzheim (Blotzheim), Blotzheim	7.49611, 47.60128	herdȓpfel	h e r d r ̑ p f e l	hartäpfel	h a r t ä p f e l	4
+853	Co P10/3, Co P10/2, Co P10/1	III_16_0059, III_16_0060, III_15_0042	Kembs-Neuweg, Kembs  , Kembs, Kembs-Neuweg	7.50399, 47.6877	ardäpfel	a r d ä p f e l	hardäpfel	h a r d ä p f e l	1
+854	Stra B 7	III_10_0102, III_10_0103	Walf (Valff)), Walf	7.52068, 48.42151	ardepfel	a r d e p f e l	ardapfel	a r d a p f e l	1
+855	Stra u 6/2, Stra u 6/1	III_10_0025	Ergersheim (wohnt seit 41 in Breitenau), Ergersheim, Ergersheim	7.52806, 48.56941	ārdäpfel	ā r d ä p f e l	ardepfel	a r d e p f e l	2
+856	Co W 1	III_16_0067	Istein , Istein	7.53541, 47.66186	erdepfel	e r d e p f e l	herdäpfel	h e r d ä p f e l	2
+857	Co W 1	III_16_0067	Istein , Istein	7.53541, 47.66186	erdepfel	e r d e p f e l	erdapfel	e r d a p f e l	1
+858	Stra J 11	III_11_0036	Sermersheim, Sermersheim	7.55199, 48.34632	hardäpfel	h a r d ä p f e l	herdäpfel	h e r d ä p f e l	1
+859	Stra J 11	III_11_0036	Sermersheim, Sermersheim	7.55199, 48.34632	hardäpfel	h a r d ä p f e l	erdäpfel	e r d ä p f e l	2
+860	Co Wa 4	III_16_0065, III_16_0063, III_16_0064	Sankt Ludwig (Saint-Louis) , Sankt Ludwig	7.56351, 47.58575	hardäpfel	h a r d ä p f e l	herdäpfel	h e r d ä p f e l	1
+861	Stra u 2/2, Stra n 16	III_9_0042	Fürdenheim, Fürdenheim	7.56378, 48.61325	ardåpfel	a r d å p f e l	erdapfel	e r d a p f e l	2
+862	Stra u 2/2, Stra n 16	III_9_0042	Fürdenheim, Fürdenheim	7.56378, 48.61325	ardepfel	a r d e p f e l	erdapfel	e r d a p f e l	2
+863	Stra J 4/3, Stra J 4/2, Stra J 4/1	III_11_0033	Benfeld, Benfeld	7.59385, 48.37263	hārdäpfel	h ā r d ä p f e l	hardepfel	h a r d e p f e l	2
+864	Stra J 4/3, Stra J 4/2, Stra J 4/1	III_11_0033	Benfeld, Benfeld	7.59385, 48.37263	ardäpfel	a r d ä p f e l	hardepfel	h a r d e p f e l	2
+865	Stra n 17, Stra n 18	III_9_0031	Ittenheim, Ittenheim	7.59542, 48.60404	ardåpfel	a r d å p f e l	ardepfel	a r d e p f e l	1
+866	Stra Q 8/2, Stra Q 8/1	III_11_0105	Sundhausen (Sundhouse), Sundhausen	7.60327, 48.25126	hardäpfel	h a r d ä p f e l	hardepfel	h a r d e p f e l	1
+867	Stra Q 8/2, Stra Q 8/1	III_11_0105	Sundhausen (Sundhouse), Sundhausen	7.60327, 48.25126	hartäpfel	h a r t ä p f e l	hardepfel	h a r d e p f e l	2
+868	Co e 7	III_12_0032, III_12_0031, III_12_0030	Wyhl am Kaiserstuhl, Wyhl	7.64933, 48.1663	härdöpfel	h ä r d ö p f e l	herdöpfel	h e r d ö p f e l	1
+869	Co H4	III_14_0139, III_14_0138	Dattingen, Dattingen	7.65681, 47.83383	herdöpfel	h e r d ö p f e l	hārdāpfel	h ā r d ā p f e l	2
+870	Co H4	III_14_0139, III_14_0138	Dattingen, Dattingen	7.65681, 47.83383	herdöpfel	h e r d ö p f e l	herdäpfel	h e r d ä p f e l	1
+871	Co W 20	III_16_0079, III_16_0081, III_16_0080, III_16_0083	Lörrach , Lörrach, Lörrach <Adolf Hitler Schule>	7.66409, 47.61258	herdöpfel	h e r d ö p f e l	erdöpfel	e r d ö p f e l	1
+872	Co W 20	III_16_0079, III_16_0081, III_16_0080, III_16_0083	Lörrach , Lörrach, Lörrach <Adolf Hitler Schule>	7.66409, 47.61258	herdöpfel	h e r d ö p f e l	härdöpfel	h ä r d ö p f e l	1
+873	Co B1	III_14_0051, III_14_0050	Tunsel, Tunsel	7.66581, 47.90315	heͣrdäpfel	h e ͣ r d ä p f e l	herdäpfel	h e r d ä p f e l	1
+874	Co B1	III_14_0051, III_14_0050	Tunsel, Tunsel	7.66581, 47.90315	heͣrdäpfel	h e ͣ r d ä p f e l	härdöpfel	h ä r d ö p f e l	3
+875	Co A6	III_14_0047	Heitersheim, Heitersheim	7.66768, 47.87108	härtepfl	h ä r t e p f l	ardepfl	a r d e p f l	3
+876	Co A6	III_14_0047	Heitersheim, Heitersheim	7.66768, 47.87108	härtepfl	h ä r t e p f l	härdepfl	h ä r d e p f l	1
+877	Co f 12	III_12_0123	Amoltern, Amoltern	7.67629, 48.12873	härtåpfel	h ä r t å p f e l	herdäpfel	h e r d ä p f e l	3
+878	Co f 12	III_12_0123	Amoltern, Amoltern	7.67629, 48.12873	hartåpfel	h a r t å p f e l	herdäpfel	h e r d ä p f e l	3
+879	Stra C 1/1, Stra C 1/2	III_10_0110	Fegersheim, Fegersheim	7.67959, 48.4897	äräpfel	ä r ä p f e l	ardapfel	a r d a p f e l	3
+880	Stra C 1/1, Stra C 1/2	III_10_0110	Fegersheim, Fegersheim	7.67959, 48.4897	ardepfel	a r d e p f e l	ardapfel	a r d a p f e l	1
+881	Co n 4	III_13_0059, III_13_0058	Merdingen, Merdingen	7.68864, 48.0173	hardepfel	h a r d e p f e l	härdepfel	h ä r d e p f e l	1
+882	Co u 1/2, Co u 1/1	III_13_0135	Biengen, Biengen	7.68958, 47.93875	hărdĕpfl	h ă r d ĕ p f l	herdäpfel	h e r d ä p f e l	3
+883	Co u 1/2, Co u 1/1	III_13_0135	Biengen, Biengen	7.68958, 47.93875	härdäpfel	h ä r d ä p f e l	herdäpfel	h e r d ä p f e l	1
+884	Co Xa 5	III_17_0039, III_17_0040, III_17_0038	Wyhlen, Wyhlen	7.69103, 47.54989	härdöpfel	h ä r d ö p f e l	herdäpfel	h e r d ä p f e l	2
+885	Co f 1	III_12_0122, III_12_0120, III_12_0121	Endingen, Endingen	7.70312, 48.1419	hardepfl	h a r d e p f l	herdäpfel	h e r d ä p f e l	3
+886	Co f 1	III_12_0122, III_12_0120, III_12_0121	Endingen, Endingen	7.70312, 48.1419	hardepfl	h a r d e p f l	hardepfel	h a r d e p f e l	1
+887	Co B6	III_14_0064, III_14_0063, III_14_0062	Sulzburg, Sulzburg	7.70727, 47.84122	hartäpfel	h a r t ä p f e l	erdopfel	e r d o p f e l	4
+888	Co B6	III_14_0064, III_14_0063, III_14_0062	Sulzburg, Sulzburg	7.70727, 47.84122	hartäpfel	h a r t ä p f e l	herdöpfel	h e r d ö p f e l	3
+889	Stra v 5, Stra v 4	III_10_0042	Illkirch-Grafenstaden, Illkirch-Grafenstaden	7.71183, 48.5288	ārdepfel	ā r d e p f e l	erdäpfel	e r d ä p f e l	2
+890	Stra v 5, Stra v 4	III_10_0042	Illkirch-Grafenstaden, Illkirch-Grafenstaden	7.71183, 48.5288	ardäpfel	a r d ä p f e l	erdäpfel	e r d ä p f e l	1
+891	Co n 12	III_13_0048, III_13_0050, III_13_0051, III_13_0049	Bötzingen, Bötzingen	7.72593, 48.07743	härdepfl	h ä r d e p f l	herdäpfel	h e r d ä p f e l	3
+892	Co n 12	III_13_0048, III_13_0050, III_13_0051, III_13_0049	Bötzingen, Bötzingen	7.72593, 48.07743	härdepfl	h ä r d e p f l	härdäpfel	h ä r d ä p f e l	2
+893	Co n 12	III_13_0048, III_13_0050, III_13_0051, III_13_0049	Bötzingen, Bötzingen	7.72593, 48.07743	härdepfl	h ä r d e p f l	herdepfel	h e r d e p f e l	2
+894	Stra R 11	III_11_0111, III_11_0110	Kappel a. Rh., Kappel a. Rh., Grafenhausen	7.74182, 48.29235	härdäpfel	h ä r d ä p f e l	hardäpfel	h a r d ä p f e l	1
+895	Stra R 11	III_11_0111, III_11_0110	Kappel a. Rh., Kappel a. Rh., Grafenhausen	7.74182, 48.29235	härdäpfel	h ä r d ä p f e l	herdepfel	h e r d e p f e l	2
+896	Co f 7	III_12_0125	Eichstetten, Eichstetten	7.74563, 48.09417	härdepfel	h ä r d e p f e l	herdäpfel	h e r d ä p f e l	2
+897	Co f 7	III_12_0125	Eichstetten, Eichstetten	7.74563, 48.09417	herdepfel	h e r d e p f e l	herdäpfel	h e r d ä p f e l	1
+898	Co Xa 3	III_17_0045, III_17_0044, III_17_0046	Rheinfelden-Stadt (Baden), Rheinfelden	7.78875, 47.55945	herdäpfel	h e r d ä p f e l	hardäpfel	h a r d ä p f e l	1
+899	Co Xa 3	III_17_0045, III_17_0044, III_17_0046	Rheinfelden-Stadt (Baden), Rheinfelden	7.78875, 47.55945	herdäpfel	h e r d ä p f e l	erdöpfel	e r d ö p f e l	2
+900	Co Xa 3	III_17_0045, III_17_0044, III_17_0046	Rheinfelden-Stadt (Baden), Rheinfelden	7.78875, 47.55945	herdäpfel	h e r d ä p f e l	herdöpfel	h e r d ö p f e l	1
+901	Co X 14	III_16_0103, III_16_0104	Minseln, Minseln	7.79067, 47.60301	hardöpfel	h a r d ö p f e l	härtöpfel	h ä r t ö p f e l	2
+902	Co X 14	III_16_0103, III_16_0104	Minseln, Minseln	7.79067, 47.60301	hardöpfel	h a r d ö p f e l	herdöpfel	h e r d ö p f e l	1
+903	Co f 11	III_12_0116, III_12_0115	Teningen, Teningen	7.80344, 48.12897	herdepfel	h e r d e p f e l	herdapfel	h e r d a p f e l	1
+904	Co u 20	III_13_0137	Sölden, Sölden	7.80967, 47.93307	erdepfel	e r d e p f e l	herdepfel	h e r d e p f e l	1
+905	Co B13	III_14_0054	Obermünstertal-Krumlinden (Obermünstertal), Obermünstertal-Krummlinden	7.81186, 47.87153	herdöpfel	h e r d ö p f e l	erdöpfel	e r d ö p f e l	1
+906	Stra R 7	III_11_0113	Mahlberg, Mahlberg	7.81323, 48.28708	haͤrdepfl	h a ͤ r d e p f l	åerdepfel	å e r d e p f e l	4
+907	Stra R 7	III_11_0113	Mahlberg, Mahlberg	7.81323, 48.28708	haͤrdepfl	h a ͤ r d e p f l	ha˚erdepfel	h a ˚ e r d e p f e l	3
+908	Co u 13	III_13_0133	Haslach, Haslach	7.82166, 47.9895	erdepfel	e r d e p f e l	herdepfel	h e r d e p f e l	1
+909	Co g 1	III_12_0132, III_12_0133	Emmendingen, Emmendingen	7.84951, 48.1209	herdäpfel	h e r d ä p f e l	erdäpfel	e r d ä p f e l	1
+910	Co g 1	III_12_0132, III_12_0133	Emmendingen, Emmendingen	7.84951, 48.1209	herdäpfel	h e r d ä p f e l	herdepfel	h e r d e p f e l	1
+911	Co R9	III_15_0081, III_15_0080, III_15_0079	Zell im Wiesental, Zell im Wiesental	7.85301, 47.70753	herdöpfel	h e r d ö p f e l	härdöpfel	h ä r d ö p f e l	1
+912	Stra S 2, Stra S 3	III_11_0120, III_11_0121	Sulz, Langenhard-Sulz, Sulz	7.86031, 48.31851	erdepfel	e r d e p f e l	erdepfl	e r d e p f l	1
+913	Stra S 2, Stra S 3	III_11_0120, III_11_0121	Sulz, Langenhard-Sulz, Sulz	7.86031, 48.31851	erdepfel	e r d e p f e l	erdäpfel	e r d ä p f e l	1
+914	Stra S 2, Stra S 3	III_11_0120, III_11_0121	Sulz, Langenhard-Sulz, Sulz	7.86031, 48.31851	ärdepfl	ä r d e p f l	erdepfl	e r d e p f l	1
+915	Stra S 2, Stra S 3	III_11_0120, III_11_0121	Sulz, Langenhard-Sulz, Sulz	7.86031, 48.31851	ärdepfl	ä r d e p f l	erdäpfel	e r d ä p f e l	3
+916	Co o 6	III_13_0071, III_13_0072, III_13_0074	Gundelfingen, Gundelfingen	7.87313, 48.04353	herdöpfel	h e r d ö p f e l	herdäpfel	h e r d ä p f e l	1
+917	Co o 6	III_13_0071, III_13_0072, III_13_0074	Gundelfingen, Gundelfingen	7.87313, 48.04353	herdöpfel	h e r d ö p f e l	herdepfel	h e r d e p f e l	1
+918	Co C10	III_14_0067	Obermünstertal-Stohren, Obermünstertal-Stohren	7.87525, 47.8938	härdöpfel	h ä r d ö p f e l	herdäpfel	h e r d ä p f e l	2
+919	Co C10	III_14_0067	Obermünstertal-Stohren, Obermünstertal-Stohren	7.87525, 47.8938	härdöpfel	h ä r d ö p f e l	erdapfel	e r d a p f e l	3
+920	Co Y 12	III_16_0168	Schwörstadt, Schwörstadt	7.87989, 47.59379	härdöpfel	h ä r d ö p f e l	erdöpfel	e r d ö p f e l	2
+921	Co Y 12	III_16_0168	Schwörstadt, Schwörstadt	7.87989, 47.59379	härdöpfel	h ä r d ö p f e l	herdöpfel	h e r d ö p f e l	1
+922	Stra D 17	III_10_0131, III_10_0133, III_10_0132	Schutterwald, Schutterwald	7.88679, 48.45347	hardäpfel	h a r d ä p f e l	ardepfel	a r d e p f e l	2
+923	Stra D 17	III_10_0131, III_10_0133, III_10_0132	Schutterwald, Schutterwald	7.88679, 48.45347	hardäpfel	h a r d ä p f e l	erdäpfel	e r d ä p f e l	2
+924	Stra D 17	III_10_0131, III_10_0133, III_10_0132	Schutterwald, Schutterwald	7.88679, 48.45347	ardäpfel	a r d ä p f e l	ardepfel	a r d e p f e l	1
+925	Stra D 17	III_10_0131, III_10_0133, III_10_0132	Schutterwald, Schutterwald	7.88679, 48.45347	ardäpfel	a r d ä p f e l	erdäpfel	e r d ä p f e l	1
+926	Co K8	III_14_0159, III_14_0157, III_14_0158, III_14_0156	Schönau, Schönau	7.89443, 47.78637	herdäpfl	h e r d ä p f l	härdäpfl	h ä r d ä p f l	1
+927	Co K8	III_14_0159, III_14_0157, III_14_0158, III_14_0156	Schönau, Schönau	7.89443, 47.78637	herdäpfl	h e r d ä p f l	härdäpfél	h ä r d ä p f é l	2
+928	Co Y 11	III_16_0118	Öfflingen (Öflingen), Öflingen	7.91396, 47.59228	erdöpfel	e r d ö p f e l	härdöpfel	h ä r d ö p f e l	2
+929	Co Y 11	III_16_0118	Öfflingen (Öflingen), Öflingen	7.91396, 47.59228	herdöpfel	h e r d ö p f e l	härdöpfel	h ä r d ö p f e l	1
+930	Stra S 6	III_11_0128, III_11_0129, III_11_0127	Seelbach, Seelbach	7.94104, 48.30987	erdäpfel	e r d ä p f e l	erdöepfel	e r d ö e p f e l	2
+931	Stra D 8	III_10_0128, III_10_0127	Offenburg, Offenburg	7.9447, 48.47195	erdepfl	e r d e p f l	erdepfel	e r d e p f e l	1
+932	Stra D 8	III_10_0128, III_10_0127	Offenburg, Offenburg	7.9447, 48.47195	erdepfl	e r d e p f l	erdäpfel	e r d ä p f e l	2
+933	Co Ya 2	III_17_0051, III_17_0048, III_17_0053, III_17_0052, III_17_0049, III_17_0054, III_17_0055, III_17_0050	Obersäckingen, Säckingen	7.96171, 47.57476	härdöpfel	h ä r d ö p f e l	herdäpfel	h e r d ä p f e l	2
+934	Co Ya 2	III_17_0051, III_17_0048, III_17_0053, III_17_0052, III_17_0049, III_17_0054, III_17_0055, III_17_0050	Obersäckingen, Säckingen	7.96171, 47.57476	härdöpfel	h ä r d ö p f e l	erdöpfel	e r d ö p f e l	2
+935	Co Ya 2	III_17_0051, III_17_0048, III_17_0053, III_17_0052, III_17_0049, III_17_0054, III_17_0055, III_17_0050	Obersäckingen, Säckingen	7.96171, 47.57476	härdöpfel	h ä r d ö p f e l	herdöpfel	h e r d ö p f e l	1
+936	Stra w 4	III_10_0054, III_10_0053	Urloffen, Urloffen	7.96889, 48.557	ardapfl	a r d a p f l	erdäpfel	e r d ä p f e l	3
+937	Co g 11	III_12_0140	Kollnau, Kollnau	7.9721, 48.10586	härdepfel	h ä r d e p f e l	hedäpfel	h e d ä p f e l	3
+938	Co g 11	III_12_0140	Kollnau, Kollnau	7.9721, 48.10586	härdepfel	h ä r d e p f e l	herdäpfel	h e r d ä p f e l	2
+939	TUTT S3	III_15_0087	Herrischried, Herrischried	8.00161, 47.66587	hördopfel	h ö r d o p f e l	erdöpfel	e r d ö p f e l	3
+940	TUTT S3	III_15_0087	Herrischried, Herrischried	8.00161, 47.66587	hördopfel	h ö r d o p f e l	herdöpfel	h e r d ö p f e l	2
+941	TUTT L4/2, Co K12, TUTT L4/1, Co R15, TUTT D5	III_15_0073, III_14_0176	Todtmoos, Todtmoos (-Rütte), Todtmoos , Todtmoos	8.00438, 47.74133	härdöpfel	h ä r d ö p f e l	herdöpfel	h e r d ö p f e l	1
+942	TUTT L6	III_15_0091, III_15_0090	Grossherrischwand, Grossherrischwand	8.01017, 47.6797	hördöpfel	h ö r d ö p f e l	erdöpfel	e r d ö p f e l	2
+943	TUTT L6	III_15_0091, III_15_0090	Grossherrischwand, Grossherrischwand	8.01017, 47.6797	hördöpfel	h ö r d ö p f e l	herdöpfel	h e r d ö p f e l	1
+944	TÜB w1/1, TÜB w1/2	III_10_0135	Durbach, Durbach	8.01775, 48.49407	erdepfel	e r d e p f e l	erdäpfel	e r d ä p f e l	1
+945	TUTT Sa3	III_17_0058	Murg, Murg	8.02352, 47.55376	erdöpfel	e r d ö p f e l	herdöpfel	h e r d ö p f e l	1
+946	TÜB S2, TÜB S1	III_12_0060, III_12_0058	Biederbach, Ober- und Unterbiederbach, Unterbiederbach, Oberbiederbach	8.02694, 48.2183	hädepfel	h ä d e p f e l	erdäpfel	e r d ä p f e l	3
+947	TÜB S2, TÜB S1	III_12_0060, III_12_0058	Biederbach, Ober- und Unterbiederbach, Unterbiederbach, Oberbiederbach	8.02694, 48.2183	hädepfel	h ä d e p f e l	härdäpfel	h ä r d ä p f e l	2
+948	TÜB S2, TÜB S1	III_12_0060, III_12_0058	Biederbach, Ober- und Unterbiederbach, Unterbiederbach, Oberbiederbach	8.02694, 48.2183	hädepfel	h ä d e p f e l	herdepfel	h e r d e p f e l	2
+949	TÜB S2, TÜB S1	III_12_0060, III_12_0058	Biederbach, Ober- und Unterbiederbach, Unterbiederbach, Oberbiederbach	8.02694, 48.2183	herdepfel	h e r d e p f e l	erdäpfel	e r d ä p f e l	2
+950	TÜB S2, TÜB S1	III_12_0060, III_12_0058	Biederbach, Ober- und Unterbiederbach, Unterbiederbach, Oberbiederbach	8.02694, 48.2183	herdepfel	h e r d e p f e l	härdäpfel	h ä r d ä p f e l	2
+951	TUTT L/S7, TUTT S1	III_15_0093, III_15_0095	Strittmatt, Strittmatt und Engelschwand, Strittmatt, Engelschwand	8.04718, 47.66382	herdäpfle	h e r d ä p f l e	herdöpfel	h e r d ö p f e l	3
+952	TUTT L/S7, TUTT S1	III_15_0093, III_15_0095	Strittmatt, Strittmatt und Engelschwand, Strittmatt, Engelschwand	8.04718, 47.66382	herdäpfle	h e r d ä p f l e	herdepfel	h e r d e p f e l	3
+953	TUTT L/S7, TUTT S1	III_15_0093, III_15_0095	Strittmatt, Strittmatt und Engelschwand, Strittmatt, Engelschwand	8.04718, 47.66382	herdöpfel	h e r d ö p f e l	herdepfel	h e r d e p f e l	1
+954	TUTT a4	III_12_0148, III_12_0147, III_12_0149	Simonswald, Untersimonswald	8.04838, 48.10278	hǟrdepfel	h ǟ r d e p f e l	herdäpfel	h e r d ä p f e l	2
+955	TUTT a4	III_12_0148, III_12_0147, III_12_0149	Simonswald, Untersimonswald	8.04838, 48.10278	hǟrdepfel	h ǟ r d e p f e l	erdäpfel	e r d ä p f e l	3
+956	TUTT a4	III_12_0148, III_12_0147, III_12_0149	Simonswald, Untersimonswald	8.04838, 48.10278	hǟrdepfel	h ǟ r d e p f e l	herdepfel	h e r d e p f e l	1
+957	TUTT L8	III_15_0097	Hartschwand, Hartschwand	8.0655, 47.67119	erdöpfel	e r d ö p f e l	herdöpfel	h e r d ö p f e l	1
+958	TÜB S4	III_12_0055, III_12_0056, III_12_0057	Elzach, Elzach	8.07142, 48.17331	härdepfel	h ä r d e p f e l	herdepfel	h e r d e p f e l	1
+959	TÜB S4	III_12_0055, III_12_0056, III_12_0057	Elzach, Elzach	8.07142, 48.17331	ärdepfel	ä r d e p f e l	herdepfel	h e r d e p f e l	2
+960	TÜB w2	III_10_0066, III_10_0067	Ödsbach, Oedsbach	8.08784, 48.49713	ärdepfl	ä r d e p f l	erdepfl	e r d e p f l	1
+961	TÜB w2	III_10_0066, III_10_0067	Ödsbach, Oedsbach	8.08784, 48.49713	ärdepfl	ä r d e p f l	erdépfl	e r d é p f l	2
+962	TÜB w2	III_10_0066, III_10_0067	Ödsbach, Oedsbach	8.08784, 48.49713	ä̆rdepfl	ä ̆ r d e p f l	erdepfl	e r d e p f l	2
+963	TÜB w2	III_10_0066, III_10_0067	Ödsbach, Oedsbach	8.08784, 48.49713	ä̆rdepfl	ä ̆ r d e p f l	erdépfl	e r d é p f l	3
+964	TÜB D4/2, TÜB D4/1	III_11_0075, III_11_0073, III_11_0074	Unterharmersbach, Zell am Harmersbach, Unterharmersbach	8.08843, 48.35461	ärdepfel	ä r d e p f e l	erdepfel	e r d e p f e l	1
+965	TÜB D4/2, TÜB D4/1	III_11_0075, III_11_0073, III_11_0074	Unterharmersbach, Zell am Harmersbach, Unterharmersbach	8.08843, 48.35461	ärdepfel	ä r d e p f e l	erdäpfel	e r d ä p f e l	2
+966	TÜB D4/2, TÜB D4/1	III_11_0075, III_11_0073, III_11_0074	Unterharmersbach, Zell am Harmersbach, Unterharmersbach	8.08843, 48.35461	erdäpfel	e r d ä p f e l	erdepfel	e r d e p f e l	1
+967	TUTT L/8,9	III_15_0098, III_15_0099	Hierbach - Wilfingen, Hierbach, Wilfingen	8.09123, 47.686	herdöpfel	h e r d ö p f e l	härdöpfel	h ä r d ö p f e l	1
+968	TUTT h3, TUTT p1	III_13_0081, III_13_0080, III_13_0078, III_13_0079	St. Märgen-Schweighöfe, St. Märgen, St. Märgen	8.09239, 48.00756	herdäpfel 	h e r d ä p f e l 	herdepfel	h e r d e p f e l	2
+969	TUTT h3, TUTT p1	III_13_0081, III_13_0080, III_13_0078, III_13_0079	St. Märgen-Schweighöfe, St. Märgen, St. Märgen	8.09239, 48.00756	herdäpfel 	h e r d ä p f e l 	erdäpfel	e r d ä p f e l	2
+970	TUTT h3, TUTT p1	III_13_0081, III_13_0080, III_13_0078, III_13_0079	St. Märgen-Schweighöfe, St. Märgen, St. Märgen	8.09239, 48.00756	herdepfel	h e r d e p f e l	erdäpfel	e r d ä p f e l	2
+971	TUTT S5, TUTT Sa8	III_17_0060	Luttingen, Luttingen und Grunholz, Luttingen	8.09878, 47.57252	hǟrdöpfel	h ǟ r d ö p f e l	härdöpfel	h ä r d ö p f e l	1
+972	TUTT S5, TUTT Sa8	III_17_0060	Luttingen, Luttingen und Grunholz, Luttingen	8.09878, 47.57252	herdöpfel	h e r d ö p f e l	härdöpfel	h ä r d ö p f e l	1
+973	TUTT S17	III_16_0146	Albert, Albbruck-Albert	8.11012, 47.58535	herdäpfel	h e r d ä p f e l	erdöpfel	e r d ö p f e l	2
+974	TUTT S17	III_16_0146	Albert, Albbruck-Albert	8.11012, 47.58535	erdäpfel	e r d ä p f e l	erdöpfel	e r d ö p f e l	1
+975	TÜB S5, TÜB S6	III_12_0063, III_12_0062, III_12_0061, III_12_0064	Unterprechtal, Oberprechtal, Unterprechtal, Oberprechtal	8.12114, 48.20548	herdäpfel	h e r d ä p f e l	hädepfel	h ä d e p f e l	3
+976	TÜB S5, TÜB S6	III_12_0063, III_12_0062, III_12_0061, III_12_0064	Unterprechtal, Oberprechtal, Unterprechtal, Oberprechtal	8.12114, 48.20548	herdäpfel	h e r d ä p f e l	herdebfel	h e r d e b f e l	2
+977	TÜB S5, TÜB S6	III_12_0063, III_12_0062, III_12_0061, III_12_0064	Unterprechtal, Oberprechtal, Unterprechtal, Oberprechtal	8.12114, 48.20548	herdäpfel	h e r d ä p f e l	erdepfl	e r d e p f l	3
+978	TÜB S5, TÜB S6	III_12_0063, III_12_0062, III_12_0061, III_12_0064	Unterprechtal, Oberprechtal, Unterprechtal, Oberprechtal	8.12114, 48.20548	herdäpfel	h e r d ä p f e l	hädäpfel	h ä d ä p f e l	2
+979	TÜB S5, TÜB S6	III_12_0063, III_12_0062, III_12_0061, III_12_0064	Unterprechtal, Oberprechtal, Unterprechtal, Oberprechtal	8.12114, 48.20548	ädöpfl	ä d ö p f l	hädepfel	h ä d e p f e l	3
+980	TÜB S5, TÜB S6	III_12_0063, III_12_0062, III_12_0061, III_12_0064	Unterprechtal, Oberprechtal, Unterprechtal, Oberprechtal	8.12114, 48.20548	ädöpfl	ä d ö p f l	herdebfel	h e r d e b f e l	6
+981	TÜB S5, TÜB S6	III_12_0063, III_12_0062, III_12_0061, III_12_0064	Unterprechtal, Oberprechtal, Unterprechtal, Oberprechtal	8.12114, 48.20548	ädöpfl	ä d ö p f l	erdepfl	e r d e p f l	3
+982	TÜB S5, TÜB S6	III_12_0063, III_12_0062, III_12_0061, III_12_0064	Unterprechtal, Oberprechtal, Unterprechtal, Oberprechtal	8.12114, 48.20548	ädöpfl	ä d ö p f l	hädäpfel	h ä d ä p f e l	3
+983	TÜB S5, TÜB S6	III_12_0063, III_12_0062, III_12_0061, III_12_0064	Unterprechtal, Oberprechtal, Unterprechtal, Oberprechtal	8.12114, 48.20548	erdäpfl	e r d ä p f l	hädepfel	h ä d e p f e l	4
+984	TÜB S5, TÜB S6	III_12_0063, III_12_0062, III_12_0061, III_12_0064	Unterprechtal, Oberprechtal, Unterprechtal, Oberprechtal	8.12114, 48.20548	erdäpfl	e r d ä p f l	herdebfel	h e r d e b f e l	4
+985	TÜB S5, TÜB S6	III_12_0063, III_12_0062, III_12_0061, III_12_0064	Unterprechtal, Oberprechtal, Unterprechtal, Oberprechtal	8.12114, 48.20548	erdäpfl	e r d ä p f l	erdepfl	e r d e p f l	1
+986	TÜB S5, TÜB S6	III_12_0063, III_12_0062, III_12_0061, III_12_0064	Unterprechtal, Oberprechtal, Unterprechtal, Oberprechtal	8.12114, 48.20548	erdäpfl	e r d ä p f l	hädäpfel	h ä d ä p f e l	3
+987	TÜB D2/2, TÜB D3, TÜB D2/1, TÜB E1	III_11_0077, III_11_0076	Oberharmersbach, Oberharmersbach	8.12723, 48.37386	erdepfl	e r d e p f l	erdäpfel	e r d ä p f e l	2
+988	TÜB D2/2, TÜB D3, TÜB D2/1, TÜB E1	III_11_0077, III_11_0076	Oberharmersbach, Oberharmersbach	8.12723, 48.37386	ärdepfel	ä r d e p f e l	erdäpfel	e r d ä p f e l	2
+989	TUTT L12	III_15_0107, III_15_0106, III_15_0104, III_15_0105	Remetschwiel/Brunnadern, Brunnadern, Remetschwiel	8.14553, 47.68929	herdöpfel	h e r d ö p f e l	herdöpfl	h e r d ö p f l	1
+990	TÜB M5	III_11_0146, III_11_0144, III_11_0145	Hausach und Einbach, Einbach, Einbach-Hauserbach	8.16759, 48.2974	erdäpfel	e r d ä p f e l	erdöpfel	e r d ö p f e l	1
+991	TÜB x8	III_10_0148	Löcherberg, Löcherberg	8.17462, 48.43425	erdepfl	e r d e p f l	ärdepfel	ä r d e p f e l	2
+992	TÜB x8	III_10_0148	Löcherberg, Löcherberg	8.17462, 48.43425	erdepfl	e r d e p f l	erdäpfel	e r d ä p f e l	2
+993	TÜB E2, TÜB q1	III_11_0080, ungeodnet	Seebach, Seebach	8.20278, 48.57466	adäpfel	a d ä p f e l	erdepfel	e r d e p f e l	3
+994	TÜB E2, TÜB q1	III_11_0080, ungeodnet	Seebach, Seebach	8.20278, 48.57466	ārdepfl	ā r d e p f l	adäpfel	a d ä p f e l	4
+995	TÜB E2, TÜB q1	III_11_0080, ungeodnet	Seebach, Seebach	8.20278, 48.57466	ārdepfl	ā r d e p f l	erdepfel	e r d e p f e l	2
+996	TUTT b8	III_12_0168, III_12_0166, III_12_0167	Schönwald, Schönwald	8.20401, 48.10371	härdepfel	h ä r d e p f e l	herdâpfel	h e r d â p f e l	2
+997	TUTT b8	III_12_0168, III_12_0166, III_12_0167	Schönwald, Schönwald	8.20401, 48.10371	härdepfel	h ä r d e p f e l	erdepfel	e r d e p f e l	2
+998	TUTT b8	III_12_0168, III_12_0166, III_12_0167	Schönwald, Schönwald	8.20401, 48.10371	härdepfel	h ä r d e p f e l	herdepfel	h e r d e p f e l	1
+999	TUTT i6	III_13_0091, III_13_0092	Furtwangen (und Furtwangen-Katzensteig), Furtwangen	8.20648, 48.05227	herdepfel	h e r d e p f e l	herdōpfel	h e r d ō p f e l	1
+1000	TUTT T7	III_16_0152, III_16_0153, III_16_0150, III_16_0149, III_16_0148, III_16_0151	Waldshut, Waldshut	8.21445, 47.6237	herdöpfel	h e r d ö p f e l	herdäpfel	h e r d ä p f e l	1
+1001	TUTT T7	III_16_0152, III_16_0153, III_16_0150, III_16_0149, III_16_0148, III_16_0151	Waldshut, Waldshut	8.21445, 47.6237	herdöpfel	h e r d ö p f e l	erdöpfel	e r d ö p f e l	1
+1002	TÜB E4, TÜB M4	III_11_0147, III_11_0079	Oberwolfach, Oberwolfach, Oberwolfach-Walke	8.21698, 48.3174	erdepfel	e r d e p f e l	erdäpfel	e r d ä p f e l	1
+1003	TÜB E4, TÜB M4	III_11_0147, III_11_0079	Oberwolfach, Oberwolfach, Oberwolfach-Walke	8.21698, 48.3174	erdäpfl	e r d ä p f l	erdäpfel	e r d ä p f e l	1
+1004	TÜB M3/2, TÜB M3/1	III_11_0150	Wolfach, Wolfach	8.22076, 48.30289	erdepfl	e r d e p f l	erdäpfl	e r d ä p f l	1
+1005	TÜB M3/2, TÜB M3/1	III_11_0150	Wolfach, Wolfach	8.22076, 48.30289	härdepfl	h ä r d e p f l	erdäpfl	e r d ä p f l	3
+1006	TÜB T4	III_12_0068, III_12_0067	Niederwasser, Niederwasser	8.22818, 48.18982	herdepfel	h e r d e p f e l	erdepfel	e r d e p f e l	1
+1007	TÜB T4	III_12_0068, III_12_0067	Niederwasser, Niederwasser	8.22818, 48.18982	herdepfel	h e r d e p f e l	herdöpfel	h e r d ö p f e l	1
+1008	TÜB T2	III_12_0072, III_12_0073	Reichenbach, Reichenbach	8.22958, 48.21343	erdäpfel	e r d ä p f e l	erdepfel	e r d e p f e l	1
+1009	TUTT b4	III_12_0165, III_12_0163, III_12_0164	Triberg, Triberg	8.2316, 48.13032	herdepfel	h e r d e p f e l	herdäpfel	h e r d ä p f e l	1
+1010	TUTT b4	III_12_0165, III_12_0163, III_12_0164	Triberg, Triberg	8.2316, 48.13032	herdepfel	h e r d e p f e l	erdäpfel	e r d ä p f e l	2
+1011	TÜB M2	III_11_0148	Langenbach, Langenbach	8.25164, 48.3205	adepfel	a d e p f e l	erdäpfel	e r d ä p f e l	3
+1012	TÜB T3	III_12_0070, III_12_0071	Schwanenbach (Reichenbach), Schwanenbach	8.26562, 48.1922	erdepfel	e r d e p f e l	erdöpfel	e r d ö p f e l	1
+1013	TUTT i2	III_13_0087, III_13_0084, III_13_0086, III_13_0085	Vöhrenbach, Vöhrenbach	8.30495, 48.04519	herdäpfel	h e r d ä p f e l	ärdepfel	ä r d e p f e l	3
+1014	TUTT i2	III_13_0087, III_13_0084, III_13_0086, III_13_0085	Vöhrenbach, Vöhrenbach	8.30495, 48.04519	herdäpfel	h e r d ä p f e l	herdöpfel	h e r d ö p f e l	1
+1015	TUTT i2	III_13_0087, III_13_0084, III_13_0086, III_13_0085	Vöhrenbach, Vöhrenbach	8.30495, 48.04519	herdäpfel	h e r d ä p f e l	herdepfel	h e r d e p f e l	1
+1016	TÜB M10	III_11_0153, III_11_0152	Lehengericht, Vorderlehengericht, Hinterlehengericht	8.30807, 48.2924	erdepfel	e r d e p f e l	erdepfell	e r d e p f e ll	1
+1017	TÜB M10	III_11_0153, III_11_0152	Lehengericht, Vorderlehengericht, Hinterlehengericht	8.30807, 48.2924	erdepfel	e r d e p f e l	erdäpfel	e r d ä p f e l	1
+1018	TÜB x4	III_10_0143	Kniebis, Kniebis	8.3101, 48.47233	adepfel	a d e p f e l	erdepfel	e r d e p f e l	2
+1019	TÜB x4	III_10_0143	Kniebis, Kniebis	8.3101, 48.47233	erdäpfel	e r d ä p f e l	erdepfel	e r d e p f e l	1
+1020	TUTT M6	III_14_0183, III_14_0182, III_14_0180, III_14_0181	Birkendorf, Birkendorf	8.3126, 47.74971	hördöpfel	h ö r d ö p f e l	herdäpfel	h e r d ä p f e l	2
+1021	TUTT M6	III_14_0183, III_14_0182, III_14_0180, III_14_0181	Birkendorf, Birkendorf	8.3126, 47.74971	hördöpfel	h ö r d ö p f e l	erdöpfel	e r d ö p f e l	2
+1022	TUTT M6	III_14_0183, III_14_0182, III_14_0180, III_14_0181	Birkendorf, Birkendorf	8.3126, 47.74971	hördöpfel	h ö r d ö p f e l	herdöpfel	h e r d ö p f e l	1
+1023	TUTT M6	III_14_0183, III_14_0182, III_14_0180, III_14_0181	Birkendorf, Birkendorf	8.3126, 47.74971	hördöpfel	h ö r d ö p f e l	herdepfel	h e r d e p f e l	2
+1024	TUTT b1	III_12_0159, III_12_0158, III_12_0160	Langenschiltach, Langenschiltach	8.3168, 48.16202	erdäpfel	e r d ä p f e l	erdepfel	e r d e p f e l	1
+1025	TUTT b1	III_12_0159, III_12_0158, III_12_0160	Langenschiltach, Langenschiltach	8.3168, 48.16202	erdäpfel	e r d ä p f e l	erdäpfl	e r d ä p f l	1
+1026	TUTT c3	III_12_0156, III_12_0155, III_12_0157	St. Georgen, St. Georgen	8.33183, 48.12564	oardepfl	o a r d e p f l	ordepfl	o r d e p f l	1
+1027	TUTT c3	III_12_0156, III_12_0155, III_12_0157	St. Georgen, St. Georgen	8.33183, 48.12564	oardepfl	o a r d e p f l	hordepfl	h o r d e p f l	2
+1028	TUTT c3	III_12_0156, III_12_0155, III_12_0157	St. Georgen, St. Georgen	8.33183, 48.12564	oardepfl	o a r d e p f l	erdäpfel	e r d ä p f e l	4
+1029	TUTT U14	III_38_0009, III_38_0008	Küßnach, Küssnach	8.36574, 47.59396	herdöpfel	h e r d ö p f e l	hertöpfel	h e r t ö p f e l	1
+1030	TUTT U14	III_38_0009, III_38_0008	Küßnach, Küssnach	8.36574, 47.59396	herdöpfel	h e r d ö p f e l	erdöpfel	e r d ö p f e l	1
+1031	TUTT F13	III_36_0010, III_36_0009, III_36_0008	Dillendorf, Dillendorf	8.40272, 47.79846	herdöpfel	h e r d ö p f e l	erdöpfel	e r d ö p f e l	1
+1032	TUTT U1	III_38_0003, III_38_0002	Erzingen, Erzingen	8.42011, 47.66108	herdöpfel	h e r d ö p f e l	herdöpfl̥	h e r d ö p f l ̥	2
+1033	TUTT F12	III_36_0011	Lembach, Lembach	8.43056, 47.80389	herdepfl	h e r d e p f l	erdöpfel	e r d ö p f e l	3
+1034	TUTT F12	III_36_0011	Lembach, Lembach	8.43056, 47.80389	herdepfel	h e r d e p f e l	erdöpfel	e r d ö p f e l	2
+1035	TUTT k1	III_33_0070, III_33_0071, III_33_0072, III_33_0069	Vilingen, Villingen	8.45901, 48.0567	herdepfel	h e r d e p f e l	herdäpfel	h e r d ä p f e l	1
+1036	TUTT k1	III_33_0070, III_33_0071, III_33_0072, III_33_0069	Vilingen, Villingen	8.45901, 48.0567	herdepfel	h e r d e p f e l	härdepfl	h ä r d e p f l	2
+1037	TÜB U2	III_31_0007, III_31_0005, III_31_0006	Weiler/Villingen, Tennenbronn	8.46043, 48.17227	jerdepfel	j e r d e p f e l	iardepfel	i a r d e p f e l	2
+1038	TÜB U2	III_31_0007, III_31_0005, III_31_0006	Weiler/Villingen, Tennenbronn	8.46043, 48.17227	jerdepfel	j e r d e p f e l	erdäpfl	e r d ä p f l	3
+1039	TÜB U2	III_31_0007, III_31_0005, III_31_0006	Weiler/Villingen, Tennenbronn	8.46043, 48.17227	jerdepfel	j e r d e p f e l	erdäpfel	e r d ä p f e l	2
+1040	TUTT r8	III_34_0008, III_34_0013, III_34_0009, III_34_0010, III_34_0007, III_34_0011, III_34_0012	Donaueschingen, Donaueschingen	8.50052, 47.95113	herdepfl	h e r d e p f l	herdäpfel	h e r d ä p f e l	2
+1041	TUTT r8	III_34_0008, III_34_0013, III_34_0009, III_34_0010, III_34_0007, III_34_0011, III_34_0012	Donaueschingen, Donaueschingen	8.50052, 47.95113	herdepfl	h e r d e p f l	herdöpfel	h e r d ö p f e l	2
+1042	TUTT r8	III_34_0008, III_34_0013, III_34_0009, III_34_0010, III_34_0007, III_34_0011, III_34_0012	Donaueschingen, Donaueschingen	8.50052, 47.95113	herdepfl	h e r d e p f l	herdepfel	h e r d e p f e l	1
+1043	TUTT G1	III_36_0018, III_36_0017	Fützen, Fützen	8.5291, 47.80794	herdepfel	h e r d e p f e l	herdäpfel	h e r d ä p f e l	1
+1044	TUTT G1	III_36_0018, III_36_0017	Fützen, Fützen	8.5291, 47.80794	herdepfel	h e r d e p f e l	härdepfel	h ä r d e p f e l	1
+1045	TUTT l2	III_33_0017, III_33_0018, III_33_0016	Bad Dürrheim, Bad Dürrheim	8.53214, 48.01807	herdepfel	h e r d e p f e l	härdepfel	h ä r d e p f e l	1
+1046	TUTT l2	III_33_0017, III_33_0018, III_33_0016	Bad Dürrheim, Bad Dürrheim	8.53214, 48.01807	herdepfel	h e r d e p f e l	heardepfel	h e a r d e p f e l	1
+1047	TUTT z8	III_35_0020, III_35_0019	Blumberg, Blumberg	8.53265, 47.83981	herdöpfel	h e r d ö p f e l	härdöpfel	h ä r d ö p f e l	1
+1048	TUTT z3	III_35_0015, III_35_0013, III_35_0014	Sumpfohren, Sumpfohren	8.53796, 47.90851	herdäpfel	h e r d ä p f e l	häădépfĕl	h ä ă d é p f ĕ l	4
+1049	TUTT z3	III_35_0015, III_35_0013, III_35_0014	Sumpfohren, Sumpfohren	8.53796, 47.90851	herdäpfel	h e r d ä p f e l	häadepfel	h ä a d e p f e l	3
+1050	TUTT G2/2, TUTT G2/1	III_36_0019	Epfenhofen, Epfenhofen	8.55432, 47.81867	härdepfl	h ä r d e p f l	härdepfel	h ä r d e p f e l	1
+1051	TUTT G2/2, TUTT G2/1	III_36_0019	Epfenhofen, Epfenhofen	8.55432, 47.81867	hǟrdepfl	h ǟ r d e p f l	härdepfel	h ä r d e p f e l	2
+1052	TUTT s4, TUTT A1	III_34_0028	Geisingen (Kirchenhausen), Geisingen, Geisingen	8.65129, 47.93283	herdepfel	h e r d e p f e l	heerdepfel	h ee r d e p f e l	1
+1053	TUTT s4, TUTT A1	III_34_0028	Geisingen (Kirchenhausen), Geisingen, Geisingen	8.65129, 47.93283	heardöpfel	h e a r d ö p f e l	heerdepfel	h ee r d e p f e l	2
+1054	TUTT H7, TUTT H12	III_36_0032, III_36_0031	Beuren a(m) R(ied), Büsslingen, Büsslingen, Beuren	8.6839, 47.79252	hertöpfel	h e r t ö p f e l	herdöpfel	h e r d ö p f e l	1
+1055	TUTT H7, TUTT H12	III_36_0032, III_36_0031	Beuren a(m) R(ied), Büsslingen, Büsslingen, Beuren	8.6839, 47.79252	hertöpfel	h e r t ö p f e l	härdöpfel	h ä r d ö p f e l	2
+1056	TUTT H7, TUTT H12	III_36_0032, III_36_0031	Beuren a(m) R(ied), Büsslingen, Büsslingen, Beuren	8.6839, 47.79252	härdöpfel	h ä r d ö p f e l	herdöpfel	h e r d ö p f e l	1
+1057	TUTT P6	III_37_0013, III_37_0012, III_37_0011, III_37_0010	Büsingen, Büsingen	8.69282, 47.69702	hä̆rdöpfel	h ä ̆ r d ö p f e l	härdöpfel	h ä r d ö p f e l	1
+1058	TUTT P6	III_37_0013, III_37_0012, III_37_0011, III_37_0010	Büsingen, Büsingen	8.69282, 47.69702	hä̆rdöpfel	h ä ̆ r d ö p f e l	herdöpfel	h e r d ö p f e l	2
+1059	TUTT t3	III_34_0029, III_34_0031, III_34_0030	Möhringen, Möhringen	8.75916, 47.96779	hedäpfel	h e d ä p f e l	häardepfel	h ä a r d e p f e l	4
+1060	TUTT t3	III_34_0029, III_34_0031, III_34_0030	Möhringen, Möhringen	8.75916, 47.96779	hedäpfel	h e d ä p f e l	heardepfl	h e a r d e p f l	4
+1061	TUTT t3	III_34_0029, III_34_0031, III_34_0030	Möhringen, Möhringen	8.75916, 47.96779	hedäpfel	h e d ä p f e l	herdepfel	h e r d e p f e l	2
+1062	TUTT H11	III_36_0029, III_36_0028, III_36_0027	Weiterdingen, Weiterdingen	8.76917, 47.79954	herdepfel	h e r d e p f e l	härdepfel	h ä r d e p f e l	1
+1063	TUTT f1	III_32_0032	Hartheim, Hartheim	8.93612, 48.15571	härdepfel	h ä r d e p f e l	headepfl	h e a d e p f l	3
+1064	TUTT f1	III_32_0032	Hartheim, Hartheim	8.93612, 48.15571	härdepfel	h ä r d e p f e l	aidepfl	a i d e p f l	4
+1065	TUTT C4, TUTT B11	III_35_0050	Mahlspüren, Mahlspüren	8.97748, 47.87563	hädepfel	h ä d e p f e l	herdepfel	h e r d e p f e l	2
+1066	TUTT C4, TUTT B11	III_35_0050	Mahlspüren, Mahlspüren	8.97748, 47.87563	herdepfl	h e r d e p f l	herdepfel	h e r d e p f e l	1
+1067	TUTT u3	III_34_0048	Gallmannsweil, Gallmannsweil	8.99683, 47.92357	härdapfl	h ä r d a p f l	hädepfl	h ä d e p f l	2
+1068	TUTT u3	III_34_0048	Gallmannsweil, Gallmannsweil	8.99683, 47.92357	härdaepfl	h ä r d a e p f l	hädepfl	h ä d e p f l	2
+1069	TUTT R3	III_37_0030	Markelfingen, Markelfingen	9.00452, 47.74143	hädepfel	h ä d e p f e l	herdepfel	h e r d e p f e l	2
+1070	TUTT R3	III_37_0030	Markelfingen, Markelfingen	9.00452, 47.74143	härdepfel	h ä r d e p f e l	herdepfel	h e r d e p f e l	1
+1071	TUTT K7	III_36_0057, III_36_0055, III_36_0056	Liggeringen, Liggeringen	9.02698, 47.77495	härdepfel	h ä r d e p f e l	eerdäpfel	ee r d ä p f e l	3
+1072	TUTT K7	III_36_0057, III_36_0055, III_36_0056	Liggeringen, Liggeringen	9.02698, 47.77495	härdepfel	h ä r d e p f e l	herdepfel	h e r d e p f e l	1
+1073	TUTT K6	III_36_0054	Bodman, Bodman	9.02835, 47.80402	härdäpfel	h ä r d ä p f e l	häedepfl	h ä e d e p f l	3
+1074	TUTT K6	III_36_0054	Bodman, Bodman	9.02835, 47.80402	härdäpfel	h ä r d ä p f e l	herdepfl	h e r d e p f l	3
+1075	TUTT g1	III_32_0042	Glashütte (Heuberg), Glashütte	9.03485, 48.1237	hiedepfel	h ie d e p f e l	hadepfel	h a d e p f e l	2
+1076	TUTT g1	III_32_0042	Glashütte (Heuberg), Glashütte	9.03485, 48.1237	hiedepfel	h ie d e p f e l	herdepfel	h e r d e p f e l	2
+1077	TUTT C2/2, TUTT C2/1	III_35_0052	Zoznegg, Zoznegg	9.04053, 47.89958	erdepfel	e r d e p f e l	herdäpfel	h e r d ä p f e l	2
+1078	TUTT C2/2, TUTT C2/1	III_35_0052	Zoznegg, Zoznegg	9.04053, 47.89958	härdepfl	h ä r d e p f l	herdäpfel	h e r d ä p f e l	3
+1079	TUTT R6	III_37_0039, III_37_0040, III_37_0038	Reichenau, Reichenau	9.06125, 47.69789	härdöpfel	h ä r d ö p f e l	herdöpfel	h e r d ö p f e l	1
+1080	TUTT R6	III_37_0039, III_37_0040, III_37_0038	Reichenau, Reichenau	9.06125, 47.69789	härdöpfel	h ä r d ö p f e l	herdöpfl	h e r d ö p f l	2
+1081	TUTT R4	III_37_0034, III_37_0035, III_37_0033, III_37_0032	Allensbach, Allensbach	9.06699, 47.71535	heatöpfel	h e a t ö p f e l	hädepfel	h ä d e p f e l	4
+1082	TUTT R4	III_37_0034, III_37_0035, III_37_0033, III_37_0032	Allensbach, Allensbach	9.06699, 47.71535	heatöpfel	h e a t ö p f e l	härdepfel	h ä r d e p f e l	4
+1083	TUTT R4	III_37_0034, III_37_0035, III_37_0033, III_37_0032	Allensbach, Allensbach	9.06699, 47.71535	heatöpfel	h e a t ö p f e l	herdepfel	h e r d e p f e l	3
+1084	TUTT K11	III_36_0061, III_36_0062, III_36_0063, III_36_0064, III_36_0060	Sipplingen, Sipplingen	9.09665, 47.79525	härdepfel	h ä r d e p f e l	hädepfel	h ä d e p f e l	1
+1085	TUTT K11	III_36_0061, III_36_0062, III_36_0063, III_36_0064, III_36_0060	Sipplingen, Sipplingen	9.09665, 47.79525	härdepfel	h ä r d e p f e l	herdepfel	h e r d e p f e l	1
+1086	TUTT K11	III_36_0061, III_36_0062, III_36_0063, III_36_0064, III_36_0060	Sipplingen, Sipplingen	9.09665, 47.79525	härdepfel	h ä r d e p f e l	hedepfel	h e d e p f e l	2
+1087	TUTT K11	III_36_0061, III_36_0062, III_36_0063, III_36_0064, III_36_0060	Sipplingen, Sipplingen	9.09665, 47.79525	härdepfel	h ä r d e p f e l	erdäpfel	e r d ä p f e l	3
+1088	TUTT v10	III_34_0058, III_34_0057	Messkirch, Messkirch	9.11537, 47.99484	hērdepfel	h ē r d e p f e l	häedepfl	h ä e d e p f l	3
+1089	TUTT v10	III_34_0058, III_34_0057	Messkirch, Messkirch	9.11537, 47.99484	hērdepfel	h ē r d e p f e l	hedepfl	h e d e p f l	3
+1090	TUTT o6	III_33_0046	Engelswies, Engelswies	9.12846, 48.04259	härdǟpfel	h ä r d ǟ p f e l	herdäpfel	h e r d ä p f e l	2
+1091	TUTT o6	III_33_0046	Engelswies, Engelswies	9.12846, 48.04259	härdǟpfel	h ä r d ǟ p f e l	erdäpfel	e r d ä p f e l	3
+1092	TUTT R7	III_37_0037	Dingelsdorf, Dingelsdorf	9.15648, 47.7384	herdepfl	h e r d e p f l	herdepfel	h e r d e p f e l	1
+1093	SIG g2/2, SIG g2/1	III_34_0065, III_34_0063	Pfullendorf, Pfullendorf	9.25466, 47.92614	herdepfel	h e r d e p f e l	herdäpfel	h e r d ä p f e l	1
+1094	SIG g2/2, SIG g2/1	III_34_0065, III_34_0063	Pfullendorf, Pfullendorf	9.25466, 47.92614	herdepfel	h e r d e p f e l	hedepfel	h e d e p f e l	1
+1095	SIG n7	III_36_0078	Frickingen, Frickingen	9.27056, 47.81023	hädepfel	h ä d e p f e l	herdäpfel	h e r d ä p f e l	3
+1096	SIG n7	III_36_0078	Frickingen, Frickingen	9.27056, 47.81023	hädepfel	h ä d e p f e l	erdäpfel	e r d ä p f e l	3
+1097	SIG k5	III_35_0075	Hattenweiler, Hattenweiler	9.27568, 47.85957	herdäpfel	h e r d ä p f e l	herdepfel	h e r d e p f e l	1
+1098	SIG k5	III_35_0075	Hattenweiler, Hattenweiler	9.27568, 47.85957	erdäpfel	e r d ä p f e l	herdepfel	h e r d e p f e l	2
+1099	SIG n13	III_36_0083, III_36_0085, III_36_0086	Mimmenausen, Mimmenausen	9.2852, 47.76025	härdepfel	h ä r d e p f e l	hädepfel	h ä d e p f e l	1
+1100	SIG n13	III_36_0083, III_36_0085, III_36_0086	Mimmenausen, Mimmenausen	9.2852, 47.76025	härdepfel	h ä r d e p f e l	herdepfel	h e r d e p f e l	1
+1101	SIG q4	III_37_0043	Buggensegel, Buggensegel	9.29936, 47.74645	hedepfel	h e d e p f e l	erdepfel	e r d e p f e l	2
+1102	SIG q4	III_37_0043	Buggensegel, Buggensegel	9.29936, 47.74645	hedepfel	h e d e p f e l	herdepfel	h e r d e p f e l	1
+1103	SIG q6	III_37_0045	Ahausen, Ahausen	9.32247, 47.72502	herdepfl	h e r d e p f l	hädepfl	h ä d e p f l	2
+1104	SIG q6	III_37_0045	Ahausen, Ahausen	9.32247, 47.72502	herdepfl	h e r d e p f l	häedepfel	h ä e d e p f e l	3
+1105	SIG q6	III_37_0045	Ahausen, Ahausen	9.32247, 47.72502	herdepfel	h e r d e p f e l	hädepfl	h ä d e p f l	3
+1106	SIG q6	III_37_0045	Ahausen, Ahausen	9.32247, 47.72502	herdepfel	h e r d e p f e l	häedepfel	h ä e d e p f e l	2
+1107	SIG r2	III_37_0050	Bermatingen, Bermatingen	9.34868, 47.73084	hädepfl	h ä d e p f l	häadepfl	h ä a d e p f l	1
+1108	SIG r3	III_37_0052, III_37_0053	Markdorf, Markdorf	9.38933, 47.72088	eerdepfel	ee r d e p f e l	erdepfel	e r d e p f e l	1
+1109	SIG r3	III_37_0052, III_37_0053	Markdorf, Markdorf	9.38933, 47.72088	eerdepfel	ee r d e p f e l	erdepfl	e r d e p f l	2
+1110	SIG r4	III_37_0057	Riedheim, Riedheim	9.41014, 47.70429	hedepfel	h e d e p f e l	herdäpfel	h e r d ä p f e l	2
+1111	SIG r4	III_37_0057	Riedheim, Riedheim	9.41014, 47.70429	hedepfel	h e d e p f e l	erdäpfel	e r d ä p f e l	3

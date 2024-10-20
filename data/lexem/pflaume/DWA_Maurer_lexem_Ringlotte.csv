@@ -1,0 +1,4 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Co o 7	na	Eschbach über Freiburg i.Br.	7.98047, 48.00263	ringlotte	na	999	ringlotte	na	999	Ringlotte	na	999
+1	KST n11	III_19_0042, III_19_0041, III_19_0043	Elsenz, Elsenz	8.83766, 49.17408	ringlo	ringlo	0	ringlo	ringlo	0	Ringlotte	Ringlotte	0
+2	MH D8	na	Steinbach	9.24327, 49.54854	ringlauche	na	999	ringlauche	na	999	Ringlotte	na	999

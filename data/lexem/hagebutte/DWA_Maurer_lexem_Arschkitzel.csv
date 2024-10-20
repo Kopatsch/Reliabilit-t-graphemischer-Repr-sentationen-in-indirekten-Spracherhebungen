@@ -1,0 +1,103 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Hag A 1	III_4_0077	Dambach, Dambach	7.63179, 49.00256	årschkitzle	årschkitzel	2	arschkitzle	arschkitzl	1	Arschkitzel	Arschkitzel	0
+1	Hag B 1	na	Wengelsbach	7.71622, 49.05104	arschkitzler	na	999	arschkitzler	na	999	Arschkitzel	na	999
+2	Hag B 5	na	Lembach	7.78942, 49.00701	årschkitzler	na	999	arschkitzler	na	999	Arschkitzel	na	999
+3	Hag B 4	III_4_0087	Wingen, Wingen	7.81729, 49.02601	årschkitzel	årschkitzel	0	arschkitzl	arschkitzl	0	Arschkitzel	Arschkitzel	0
+4	Hag J 1	na	Lembach-Pfaffenbronn (Pfaffenbronn)	7.83111, 48.99355	årschkitzel	na	999	arschkitzl	na	999	Arschkitzel	na	999
+5	Hag C 8	III_4_0088	Klimbach (Climbach), Klimbach	7.85041, 49.01803	arschkitzel	årschkitzel	1	arschkitzl	arschkitzl	0	Arschkitzel	Arschkitzel	0
+6	Hag K 20	III_5_0086	Drachenbronn, Drachenbronn	7.87037, 48.98626	årschkitzle	årschkizle	1	arschkitzle	arschkitzle	0	Arschkitzel	Arschkitzel	0
+7	Hag K 18	III_5_0091	Keffenach, Keffenach	7.88225, 48.96489	arschkitzle	arschkitzle	0	arschkitzle	arschkitzle	0	Arschkitzel	Arschkitzel	0
+8	Hag C 7	na	Kleeburg (Cleebourg)	7.89318, 49.00093	arschkitzle	na	999	arschkitzle	na	999	Arschkitzel	na	999
+9	Hag K 2	na	Bremmelbach	7.90023, 48.986	å̄rschkitzel	na	999	arschkitzl	na	999	Arschkitzel	na	999
+10	Hag C 1	III_4_0100	Weißenburg-Weiler, Weissenburg-Weiler	7.91271, 49.0377	ŏschkitzle	årschkitzle	2	arschkitzle	arschkitzle	0	Arschkitzel	Arschkitzel	0
+11	Hag C 5	na	Oberhoffen-lès-Wissembourg	7.91832, 49.01679	arschkitzel	na	999	arschkitzl	na	999	Arschkitzel	na	999
+12	Hag C 6	III_4_0092	Steinselz (Steinseltz), Steinselz	7.93035, 49.0109	arschkitzel	arschkitzle	2	arschkitzl	arschkitzle	1	Arschkitzel	Arschkitzel	0
+13	Hag K 5	III_5_0097	Hunspach, Hunspach	7.94316, 48.9536	arschkitzle	arschkitzle	0	arschkitzle	arschkitzle	0	Arschkitzel	Arschkitzel	0
+14	Hag K 9	III_5_0103	Leitersweiler (Leiterswiller), Leitersweiler	7.94768, 48.92407	årschkitzler	årschkitzler	0	arschkitzler	arschkitzler	0	Arschkitzel	Arschkitzel	0
+15	Hag C 2	III_4_0093	Weißenburg (Wissembourg), Weißenburg	7.9521, 49.03733	arschkitzel	arschkitzle	2	arschkitzl	arschkitzle	1	Arschkitzel	Arschkitzel	0
+16	Hag K 4	III_5_0098	Oberseebach, Oberseebach	7.98947, 48.9672	aschkitzler	ârschkilzle	4	arschkitzler	arschkitzle	1	Arschkitzel	Arschkitzel	0
+17	Hag K 7	III_5_0105	Stundweiler (Stundwiller), Stundweiler	7.99256, 48.92477	arschkitzle	arschkitzle	0	arschkitzle	arschkitzle	0	Arschkitzel	Arschkitzel	0
+18	KST L1	III_5_0111	Bühl (Buhl), Bühl	8.00666, 48.91753	arschkitzel	arschkitzle	2	arschkitzl	arschkitzle	1	Arschkitzel	Arschkitzel	0
+19	KST D11	III_5_0110, III_5_0112	Trimbach, Trimbach	8.0182, 48.94347	årschkitzler	arschkitzler	1	arschkitzler	arschkitzler	0	Arschkitzel	Arschkitzel	0
+20	KST D12	na	Kaidenburg (Kaidenbourg)	8.03018, 48.94495	oaschkizler	na	999	arschkitzler	na	999	Arschkitzel	na	999
+21	KST D13	na	Kröttweiler (Croettwiller)	8.03043, 48.93123	arschkitzle	na	999	arschkitzle	na	999	Arschkitzel	na	999
+22	KST D10	III_5_0125	Siegen (Weissenburg), Siegen	8.04269, 48.9581	arschkitzel	arschkitzel	0	arschkitzl	arschkitzl	0	Arschkitzel	Arschkitzel	0
+23	KST D14	III_5_0113	Eberbach-Selz, Eberbach-Selz	8.06718, 48.92481	arschkitzel	aschkitzl	2	arschkitzl	arschkitzl	0	Arschkitzel	Arschkitzel	0
+24	KST D9	III_5_0124	Oberlauterbach, Oberlauterbach	8.07041, 48.94851	aͤrschkitzel	arschkitzl	2	arschkitzl	arschkitzl	0	Arschkitzel	Arschkitzel	0
+25	KST D3/3, KST D3/1	III_5_0121	Niederlauterbach, Niederlauterbach	8.10398, 48.97233	arschkitzle, arschkitzel	arschkitzle	0	arschkitzle, arschkitzl	arschkitzle	0	Arschkitzel	Arschkitzel	0
+26	KST D4	III_5_0119, III_5_0120	Scheibenhard, Scheibenhard, Scheibenhardt	8.13481, 48.97663	arschkitzel	āschkitzle, arschkitzel	0	arschkitzl	arschkitzle, arschkitzl	0	Arschkitzel	Arschkitzel	0
+27	KST D7	III_5_0116	Münchhausen (Munchhausen), Münchhausen	8.14635, 48.92142	oaschkitzlä	oaschkitzle	1	arschkitzle	arschkitzle	0	Arschkitzel	Arschkitzel	0
+28	KST E2	na	Neuburgweier	8.26776, 48.96981	arschkitzerle	na	999	arschkitzerle	na	999	Arschkitzel	na	999
+29	KST E4	III_5_0137, III_5_0136, III_5_0138	Mörsch, Mörsch	8.28883, 48.96003	arschkitzerle	arschkitzerle	0	arschkitzerle	arschkitzerle	0	Arschkitzel	Arschkitzel	0
+30	KST x 1	III_4_0114	Daxlanden, Daxlanden	8.33737, 49.0022	aschkitzele	arschkitzele	1	arschkitzle	arschkitzle	0	Arschkitzel	Arschkitzel	0
+31	KST y 7	na	Karlsruhe-Grünwinkel	8.35529, 49.0032	aschkitzelen	na	999	arschkitzln	na	999	Arschkitzel	na	999
+32	KST k3	III_19_0008	Huttenheim, Huttenheim	8.46955, 49.1967	ārschkitzl	aschkitzlin	4	arschkitzl	arschkitzlin	2	Arschkitzel	Arschkitzel	0
+33	KST l9	III_19_0011, III_19_0009, III_19_0010	Neudorf, Neudorf	8.49692, 49.17524	aschkitzler	arschkitzler	1	arschkitzler	arschkitzler	0	Arschkitzel	Arschkitzel	0
+34	KST d8	III_18_0016	Waghäusel, Waghäusel	8.51733, 49.25118	arschkitzl	arschkitzl	0	arschkitzl	arschkitzl	0	Arschkitzel	Arschkitzel	0
+35	KST l1	III_19_0013	Wiesental, Wiesental	8.51962, 49.22472	arschkitzl	arschkitzel	1	arschkitzl	arschkitzl	0	Arschkitzel	Arschkitzel	0
+36	MH Q7	II_60_0033	Ketsch, Ketsch	8.52432, 49.3678	ärschkitzl	arschkitzel	2	arschkitzl	arschkitzl	0	Arschkitzel	Arschkitzel	0
+37	MH H2	II_59_0067	Feudenheim, Feudenheim	8.53299, 49.4864	arschkitzl, arschkitzel	arschkitzel	0	arschkitzl	arschkitzl	0	Arschkitzel	Arschkitzel	0
+38	KST d1	III_18_0015	Hockenheim, Hockenheim	8.54755, 49.31857	oarschkitzel	arschkitzl	2	arschkitzl	arschkitzl	0	Arschkitzel	Arschkitzel	0
+39	MH H1	na	Wennheim-Wallstadt	8.5484, 49.4957	arschkitzler	na	999	arschkitzler	na	999	Arschkitzel	na	999
+40	KST l2	III_19_0161	Kirrlach, Kirrlach	8.54938, 49.24183	arschkitzel	arschkitzel	0	arschkitzl	arschkitzl	0	Arschkitzel	Arschkitzel	0
+41	MH H6	na	Seckenheim	8.56313, 49.46724	aschkitzl	na	999	arschkitzl	na	999	Arschkitzel	na	999
+42	KST d7	na	Sankt Leon	8.6025, 49.26526	arschkitzl	na	999	arschkitzl	na	999	Arschkitzel	na	999
+43	MH z3	na	Heddesheim	8.60327, 49.50529	arschkizzel	na	999	arschkitzl	na	999	Arschkitzel	na	999
+44	KST l7	na	Weiher	8.62179, 49.17863	aschkitzlen	na	999	arschkitzln	na	999	Arschkitzel	na	999
+45	MH Q4	II_60_0037	Eppelheim, Eppelheim	8.62885, 49.40164	arschkutzel	arschkitzler, ŏ̄rschkuzl	3	arschkutzl	arschkitzler, arschkutzl	0	Arschkitzel	Arschkitzel	0
+46	KST d5	na	Walldorf	8.64294, 49.3028	āschkitzel	na	999	arschkitzl	na	999	Arschkitzel	na	999
+47	MH H9	II_59_0075	Heidelberg-Wieblingen, Wieblingen	8.64805, 49.42539	oschkitzl	aoschkitzel	2	arschkitzl	arschkitzl	0	Arschkitzel	Arschkitzel	0
+48	MH r1	II_57_0082, II_57_0081	Laudenbach, Laudenbach	8.65434, 49.6119	aschkitzel	aschkitzel	0	arschkitzl	arschkitzl	0	Arschkitzel	Arschkitzel	0
+49	MH H11	II_58_0068	Leutershausen, Leutershausen	8.65616, 49.49821	āschkitzl	o͜artschkitzeln	7	arschkitzl	arschkitzln	1	Arschkitzel	Arschkitzel	0
+50	MH Q5	II_60_0038	Sandhausen, Sandhausen	8.65837, 49.34236	aaschkitzl	aaschkitzl	0	arschkitzl	arschkitzl	0	Arschkitzel	Arschkitzel	0
+51	MH z2	II_58_0069	Großsachsen, Grosssachsen	8.6595, 49.51193	arschkitzel	arschkitzler	2	arschkitzl	arschkitzler	2	Arschkitzel	Arschkitzel	0
+52	MH z1	II_58_0072	Sulzbach, Sulzbach	8.661, 49.57763	arschkitzl	arschkitzl	0	arschkitzl	arschkitzl	0	Arschkitzel	Arschkitzel	0
+53	MH J1	II_59_0071	Schrießheim, Schriesheim	8.66514, 49.47649	åschkitzl	aschkitzle	2	arschkitzl	arschkitzle	1	Arschkitzel	Arschkitzel	0
+54	MH A2	na	Lützelsachsen	8.66627, 49.52737	āschkitzel	na	999	arschkitzl	na	999	Arschkitzel	na	999
+55	MH R2	na	Heidelberg-Kirchheim	8.66773, 49.37837	åschkitzl	na	999	arschkitzl	na	999	Arschkitzel	na	999
+56	MH A3	II_58_0070	Hohensachsen, Hohensachsen	8.66935, 49.51919	aschkizl	aschkitzl	1	arschkitzl	arschkitzl	0	Arschkitzel	Arschkitzel	0
+57	MH A1	II_58_0073	Weinheim, Weinheim	8.67068, 49.55495	aschkitzel	aʳschkitzel	1	arschkitzl	arschkitzl	0	Arschkitzel	Arschkitzel	0
+58	KST e10	III_18_0024	Malschenberg, Malschenberg	8.67996, 49.25599	āschkitzl	aschkitzl	1	arschkitzl	arschkitzl	0	Arschkitzel	Arschkitzel	0
+59	KST m1	III_19_0022	Malsch , Malsch <Maleck>	8.68153, 49.24579	aschkizl	aschkitzl	1	arschkitzl	arschkitzl	0	Arschkitzel	Arschkitzel	0
+60	MH J3/2, MH J3/1	II_59_0077	Handschuhsheim, Heidelberg-Handschuhsheim, Heidelberg-Handschuhsheim	8.68613, 49.42774	oarschkitzle, arschkitzel	arschkitzel	0	arschkitzle, arschkitzl	arschkitzl	0	Arschkitzel	Arschkitzel	0
+61	MH R5, MH R4	na	Leimen	8.68891, 49.34902	arschkitzler, aschkitzel	na	999	arschkitzler, arschkitzl	na	999	Arschkitzel	na	999
+62	MH R3	II_60_0041	Heidelberg-Rohrbach, Heidelberg-Rohrbach	8.69, 49.38005	aschkitzel	arschkitzel	1	arschkitzl	arschkitzl	0	Arschkitzel	Arschkitzel	0
+63	KST e1	III_18_0022	Nussloch, Nussloch	8.69576, 49.32301	arschkizzler	arschkizzler	0	arschkitzler	arschkitzler	0	Arschkitzel	Arschkitzel	0
+64	KST m2	III_19_0023	Rettigheim, Rettigheim	8.6981, 49.24111	aichkitzalen	arschkitzel	5	arschkitzerlen	arschkitzl	4	Arschkitzel	Arschkitzel	0
+65	KST e9	III_18_0025	Rauenberg, Rauenberg	8.70096, 49.27036	oaschkitzlin	arschkitzle	4	arschkitzlin	arschkitzle	2	Arschkitzel	Arschkitzel	0
+66	MH A4	II_58_0076	Rippenweier, Rippenweier	8.70861, 49.50646	aaschkitzel	aschkitzel	1	arschkitzl	arschkitzl	0	Arschkitzel	Arschkitzel	0
+67	KST m3	na	Mühlhausen	8.72271, 49.24953	aschgutzel	na	999	arschkutzl	na	999	Arschkitzel	na	999
+68	MH J8	na	Ursenbach	8.72439, 49.49399	ārschkitzel	na	999	arschkitzl	na	999	Arschkitzel	na	999
+69	MH A5	II_58_0077	Oberflockenbach, Oberflockenbach	8.73109, 49.51102	åschkitzl	aᵒschkitzel	3	arschkitzl	arschkitzl	0	Arschkitzel	Arschkitzel	0
+70	KST e8	III_18_0028	Dielheim, Dielheim	8.7354, 49.28257	arschkitzel	arschkitzel	0	arschkitzl	arschkitzl	0	Arschkitzel	Arschkitzel	0
+71	MH A6	II_58_0091	Steinklingen, Steinklingen	8.74393, 49.51166	āschkizzel	aoschkitzln	5	arschkitzl	arschkitzln	1	Arschkitzel	Arschkitzel	0
+72	MH J6	II_59_0080	Wilhelmsfeld, Wilhelmsfeld	8.7544, 49.47018	åschkitzeln	arschkitzel	3	arschkitzln	arschkitzl	1	Arschkitzel	Arschkitzel	0
+73	MH J5	na	Peterstal (keine eigene GID, gleiche wie Wilhelmsfeld)	8.75548, 49.44624	āschkitzel	na	999	arschkitzl	na	999	Arschkitzel	na	999
+74	MH J4	II_59_0079	Ziegelhausen, Ziegelhausen	8.75688, 49.41876	aaschkitzel	arschkitzerlin	4	arschkitzl	arschkitzerlin	4	Arschkitzel	Arschkitzel	0
+75	MH R14	na	Schlierbach	8.76062, 49.41501	aschkitzel, arschkitzel	na	999	arschkitzl	na	999	Arschkitzel	na	999
+76	MH J9	na	Lampenhain	8.76294, 49.49811	arschkitzler	na	999	arschkitzler	na	999	Arschkitzel	na	999
+77	KST e7	III_18_0031	Horrenberg, Horrenberg	8.78051, 49.28149	arschkitzel	arschkitzel	0	arschkitzl	arschkitzl	0	Arschkitzel	Arschkitzel	0
+78	KST e13	na	Balzfeld	8.79064, 49.26889	arschkitzel	na	999	arschkitzl	na	999	Arschkitzel	na	999
+79	MH R10	II_60_0050	Wiesenbach, Wiesenbach	8.80354, 49.36103	aaschkitzl̠	arschkitzl	2	arschkitzl	arschkitzl	0	Arschkitzel	Arschkitzel	0
+80	MH J12	II_59_0083	Altneudorf, Altneudorf	8.80481, 49.46366	åschkitzel	aaschkitzln	4	arschkitzl	arschkitzln	1	Arschkitzel	Arschkitzel	0
+81	MH A7	na	Eiterbach	8.80869, 49.50208	åschkizl	na	999	arschkitzl	na	999	Arschkitzel	na	999
+82	MH J11	na	Heddesbach	8.82774, 49.48208	aoschkitzel	na	999	arschkitzl	na	999	Arschkitzel	na	999
+83	MH K1	II_59_0085	Brombach (bei Hirschhorn), Brombach	8.8675, 49.48863	oaschkitzle	oarschkitzel	3	arschkitzle	arschkitzl	1	Arschkitzel	Arschkitzel	0
+84	na	III_4_0081	Niedersteinbach	7.71501, 49.0295	na	arschkitzle	999	na	arschkitzle	999	na	Arschkitzel	999
+85	na	III_5_0089	Birlenbach	7.8829, 48.9763	na	arschkitzler	999	na	arschkitzler	999	na	Arschkitzel	999
+86	na	III_5_0109	Hofen	7.9412, 48.92766	na	arschkitzler	999	na	arschkitzler	999	na	Arschkitzel	999
+87	na	III_5_0088	Riedselz	7.95195, 48.99281	na	arschkitzle	999	na	arschkitzle	999	na	Arschkitzel	999
+88	na	III_5_0123	Schleithal	8.04688, 48.98799	na	aschkitzle	999	na	arschkitzle	999	na	Arschkitzel	999
+89	na	III_5_0122	Salmbach	8.07143, 48.97818	na	arschkitzler	999	na	arschkitzler	999	na	Arschkitzel	999
+90	na	III_5_0114	Winzenbach	8.1038, 48.9341	na	årschkitzle	999	na	arschkitzle	999	na	Arschkitzel	999
+91	na	III_5_0118	Neeweiler	8.12624, 48.95491	na	arschkitzlä	999	na	arschkitzle	999	na	Arschkitzel	999
+92	na	III_19_0003	Rheinsheim	8.40954, 49.23272	na	arschkitzel	999	na	arschkitzl	999	na	Arschkitzel	999
+93	na	II_59_0049, II_59_0046	Mannheim	8.46678, 49.4865	na	aschkizzel, arschkitzel	999	na	arschkitzl	999	na	Arschkitzel	999
+94	na	III_18_0010	Rheinhausen	8.47341, 49.28141	na	aschkitzel	999	na	arschkitzl	999	na	Arschkitzel	999
+95	na	III_18_0011, III_18_0012, III_18_0014, III_18_0013	Oberhausen	8.48324, 49.26035	na	aschkitzl, aschkitzel	999	na	arschkitzl	999	na	Arschkitzel	999
+96	na	II_59_0064	Mannheim	8.49104, 49.45335	na	akitzler	999	na	arschkitzler	999	na	Arschkitzel	999
+97	na	II_60_0032	Brühl	8.53485, 49.3951	na	oaschkitzl	999	na	arschkitzl	999	na	Arschkitzel	999
+98	na	III_18_0026	Rotenberg	8.71207, 49.25813	na	aschkizel	999	na	arschkitzl	999	na	Arschkitzel	999
+99	na	II_59_0081	Altenbach	8.73843, 49.48622	na	arschkitzel	999	na	arschkitzl	999	na	Arschkitzel	999
+100	na	II_59_0082	Heiligkreuzsteinach	8.79709, 49.48538	na	aschkitzl, aischkitzel	999	na	arschkitzl	999	na	Arschkitzel	999
+101	na	II_59_0084	Schönau	8.80977, 49.43706	na	aischkizl	999	na	arschkitzl	999	na	Arschkitzel	999

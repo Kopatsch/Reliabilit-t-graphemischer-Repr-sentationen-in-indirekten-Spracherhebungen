@@ -1,0 +1,5 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_maurer_align	item_DWA	item_DWA_align	Levenshtein_item
+0	MH o5	II_89_0010, II_89_0009	Sachsenhausen, Sachsenhausen	9.49147, 49.73223	ammefra	a mm e f r a	oammefra	o a mm e f r a	1
+1	MH p12	II_89_0020	Dietenhan, Dietenhan	9.6066, 49.74297	ommefrā	o mm e f r ā	o͜ammafra	o ͜ a mm a f r a	4
+2	MH o5	II_89_0010, II_89_0009	Sachsenhausen, Sachsenhausen	9.49147, 49.73223	ammefra	a mm e f r a	ammafraa	a mm a f r a a	2
+3	MH o5	II_89_0010, II_89_0009	Sachsenhausen, Sachsenhausen	9.49147, 49.73223	ammefra	a mm e f r a	oammefra	o a mm e f r a	1

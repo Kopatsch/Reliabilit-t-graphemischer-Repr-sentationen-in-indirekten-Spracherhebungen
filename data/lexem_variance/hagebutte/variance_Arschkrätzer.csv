@@ -1,0 +1,22 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_maurer_align	item_DWA	item_DWA_align	Levenshtein_item
+0	Hag E 9	III_5_0027	Harskirchen, Harskirchen	7.0389, 48.93409	arschkretzer	a r sch k r e tz e r	aschkretzer	a sch k r e tz e r	1
+1	Hag T 2	III_7_0006	Kirberg (Kirrberg), Kirberg	7.06204, 48.8233	åschgräzer	å sch g r ä z e r	oaschgrätzere	o a sch g r ä tz e r e	4
+2	Hag M 2	III_6_0002	Pisdorf (Bischtroff-sur-Sarre), Pisdorf	7.06995, 48.9005	aschkrätzer	a sch k r ä tz e r	arschkrätzere	a r sch k r ä tz e r e	2
+3	Hag M 1	III_5_0034	Zollingen, Zollingen	7.07636, 48.91048	arschgrätzer	a r sch g r ä tz e r	aschgrätzere	a sch g r ä tz e r e	2
+4	Hag E 5	III_5_0033	Saarwerden (Sarrewerden), Saarwerden	7.08411, 48.9218	aschkrätzer	a sch k r ä tz e r	aschkretzere	a sch k r e tz e r e	2
+5	Hag M 10	III_6_0012	Bärendorf (Baerendorf), Bärendorf	7.08463, 48.83742	årschkrätzer	å r sch k r ä tz e r	arschkrätzer	a r sch k r ä tz e r	1
+6	Hag E 6/1, Hag E 6/2	III_5_0028, III_5_0029	Saarbuckenheim (Sarre-Union), Saarbuckenheim	7.08686, 48.93919	ärschkrätzer	ä r sch k r ä tz e r	arschkrätzer	a r sch k r ä tz e r	1
+7	Hag x 1	III_4_0044	Silzheim (Siltzheim), Silzheim	7.09071, 49.0616	ärchkrätzer	ä r ch k r ä tz e r	ärchkretzer	ä r ch k r e tz e r	1
+8	Hag M 8	III_6_0007	Eschweiler (Eschwiller), Eschweiler	7.11652, 48.8596	årschkrätzere	å r sch k r ä tz e r e	arschkrätzere	a r sch k r ä tz e r e	1
+9	Hag E 4	III_5_0032	Rimsdorf, Rimsdorf	7.12568, 48.92923	arschkretzer	a r sch k r e tz e r	årschkrezer	å r sch k r e z e r	2
+10	Hag M 7	III_6_0016	Eyweiler (Eywiller), Eyweiler	7.13172, 48.8709	ārschkrätzer	ā r sch k r ä tz e r	arschkrâtzer	a r sch k r â tz e r	2
+11	Hag E 3	III_5_0031	Domfessel, Domfessel	7.15171, 48.95143	arschgrätzer	a r sch g r ä tz e r	aaschgrätzer	aa sch g r ä tz e r	1
+12	Hag M 9	III_6_0010	Weyer, Weyer	7.15976, 48.85488	årschgrätzere	å r sch g r ä tz e r e	arschgretzere	a r sch g r e tz e r e	2
+13	Hag F 6	III_5_0041	Mackweiler (Mackwiller), Mackweiler	7.17502, 48.9258	arschkrätzer	a r sch k r ä tz e r	aschkrätzer	a sch k r ä tz e r	1
+14	Hag F 4	III_5_0039	Lorenzen (Lorentzen), Lorenzen	7.1752, 48.95249	archkrätzere	a r ch k r ä tz e r e	archkrätz	a r ch k r ä tz	3
+15	Hag N 11	III_6_0025	Bettweiler (Bettwiller), Bettweiler	7.17993, 48.88617	årschkråtzerĕ	å r sch k r å tz e r ĕ	oaschkråtzer	o a sch k r å tz e r	3
+16	Hag F 7	III_5_0050	Waldhambach, Waldhambach	7.21529, 48.92578	oaschgrätzä	o a sch g r ä tz ä	oaschgrätze	o a sch g r ä tz e	1
+17	Hag F 2	III_5_0042	Bütten (Butten), Bütten	7.2205, 48.97095	aschkrätzer	a sch k r ä tz e r	oaschgrätzere	o a sch g r ä tz e r e	3
+18	Hag N 4	III_5_0048	Weislingen, Weislingen	7.25159, 48.91879	årschgratzr	å r sch g r a tz r	arschgratzer	a r sch g r a tz e r	2
+19	Hag E 6/1, Hag E 6/2	III_5_0028, III_5_0029	Saarbuckenheim (Sarre-Union), Saarbuckenheim	7.08686, 48.93919	ärschkrätzer	ä r sch k r ä tz e r	ärchkrätzer	ä r ch k r ä tz e r	1
+20	Hag E 6/1, Hag E 6/2	III_5_0028, III_5_0029	Saarbuckenheim (Sarre-Union), Saarbuckenheim	7.08686, 48.93919	ärschkrätzer	ä r sch k r ä tz e r	arschkrätzer	a r sch k r ä tz e r	1

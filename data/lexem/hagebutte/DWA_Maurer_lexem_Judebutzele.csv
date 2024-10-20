@@ -1,0 +1,9 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	MH E1	II_58_0115	Hainstadt, Hainstadt	9.33082, 49.53905	judebützeli	judebüzzeli	1	judebützeli	judebützeli	0	Judebutzele	Judebutzele	0
+1	MH E2	II_91_0001	Hettingen, Hettingen	9.36644, 49.5194	judebützeli	judebützeli	0	judebützeli	judebützeli	0	Judebutzele	Judebutzele	0
+2	MH E7	na	Walldürn	9.36793, 49.58322	judebützeli	na	999	judebützeli	na	999	Judebutzele	na	999
+3	MH E3	II_91_0002	Rinschheim, Rinschheim	9.39249, 49.51369	judebützeli	judelbüzeli	2	judebützeli	judebützeli	0	Judebutzele	Judebutzele	0
+4	MH O3	II_92_0012	Berolzheim, Berolzheim	9.54042, 49.4749	judebüzelli	judebützele	3	judebützeli	judebützele	1	Judebutzele	Judebutzele	0
+5	MH W10	na	Unterwittstadt	9.54936, 49.41004	judebützel	na	999	judebützel	na	999	Judebutzele	na	999
+6	MH F3	II_91_0010	Buch, Buch	9.55592, 49.53858	judebützeli	judebützele	1	judebützeli	judebützele	1	Judebutzele	Judebutzele	0
+7	na	II_93_0011	Ballenberg	9.55086, 49.40093	na	judebützel	999	na	judebützel	999	na	Judebutzele	999

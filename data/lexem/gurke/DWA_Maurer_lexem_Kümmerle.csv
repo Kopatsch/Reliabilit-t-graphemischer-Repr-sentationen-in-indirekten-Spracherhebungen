@@ -1,0 +1,71 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	MH n1	II_55_0129, II_55_0128	Freudenberg, Freudenberg	9.32533, 49.75145	kimmerling	kimmerle	3	kümmerling	kümmerle	3	Kümmerle	Kümmerle	0
+1	MH o8/1, MH o8/2	na	Ebenheid	9.36095, 49.7158	kümmerli , kümmerle	na	999	kümmerli, kümmerle	na	999	Kümmerle	na	999
+2	MH N4/2	na	Zimmern	9.37304, 49.43313	kümerla	na	999	kümmerla	na	999	Kümmerle	na	999
+3	MH o1	II_89_0016	Rauenberg, Rauenberg	9.38407, 49.74117	kümmerli	kümmerle	1	kümmerli	kümmerle	1	Kümmerle	Kümmerle	0
+4	MH w4	II_90_0005	Höpfingen, Höpfingen	9.42753, 49.60185	kümmerli	kümmerli	0	kümmerli	kümmerli	0	Kümmerle	Kümmerle	0
+5	MH E5	II_91_0004	Waldstetten, Waldstetten	9.44893, 49.5647	kümmerli	kümmerli	0	kümmerli	kümmerli	0	Kümmerle	Kümmerle	0
+6	MH o4	II_89_0014	Hundheim, Hundheim	9.46691, 49.69109	kümmerli	kümrle	3	kümmerli	kümmerle	1	Kümmerle	Kümmerle	0
+7	MH q1	na	Steinbach	9.47108, 49.68011	kümmerle	na	999	kümmerle	na	999	Kümmerle	na	999
+8	MH w3	II_90_0007	Hardheim, Hardheim	9.47457, 49.60804	kümmerli	kümmerlė	1	kümmerli	kümmerle	1	Kümmerle	Kümmerle	0
+9	MH w5	II_90_0008	Steinfurt, Steinfurt	9.48425, 49.64828	kümmerli	kümmerli	0	kümmerli	kümmerli	0	Kümmerle	Kümmerle	0
+10	MH E6	II_91_0005, II_91_0123	Bretzingen, Bretzingen	9.48682, 49.57826	kůmmerle	gumerle, kummerle	1	kummerle	kummerle	0	Kümmerle	Kümmerle	0
+11	MH E8	II_91_0006	Erfeld, Erfeld	9.49597, 49.55416	kümmerle	kümmerli	1	kümmerle	kümmerli	1	Kümmerle	Kümmerle	0
+12	MH p4	II_89_0013	Dörlesberg, Dörlesberg	9.501, 49.71273	kümmerling	kümmerlïng	1	kümmerling	kümmerling	0	Kümmerle	Kümmerle	0
+13	MH g3	na	Wertheim-Bastenheid	9.5029, 49.78173	gümmerli	na	999	kümmerli	na	999	Kümmerle	na	999
+14	MH p1	II_89_0018	Waldenhausen, Waldenhausen	9.52298, 49.74357	kümmerlie	kümrle	3	kümmerli	kümmerle	1	Kümmerle	Kümmerle	0
+15	MH p5	II_89_0024	Külsheim, Külsheim	9.5236, 49.66947	kümerling	kümmerling	1	kümmerling	kümmerling	0	Kümmerle	Kümmerle	0
+16	MH x7	II_90_0009	Schweinberg, Schweinberg	9.52459, 49.61864	kümmerle	kümmerle	0	kümmerle	kümmerle	0	Kümmerle	Kümmerle	0
+17	MH F1	II_91_0008	Pülfringen, Pülfringen	9.52624, 49.58149	kümerli	kümmerle	2	kümmerli	kümmerle	1	Kümmerle	Kümmerle	0
+18	MH p2	II_89_0022	Reicholzheim, Reicholzheim	9.53393, 49.72663	kümmerle	kümmerling	3	kümmerle	kümmerling	3	Kümmerle	Kümmerle	0
+19	MH p3	II_89_0023	Bronnbach, Bronnbach	9.54654, 49.71348	kümmerling	kümmerling	0	kümmerling	kümmerling	0	Kümmerle	Kümmerle	0
+20	MH F2	na	Brehmen	9.55454, 49.56839	kümmerlä	na	999	kümmerle	na	999	Kümmerle	na	999
+21	MH g4	II_88_0022	Bettingen, Bettingen	9.5642, 49.77261	kümmerli	kümmerla	1	kümmerli	kümmerla	1	Kümmerle	Kümmerle	0
+22	MH p13	II_89_0019	Urphar, Urphar	9.5706, 49.74798	kümmerla	kümaola	3	kümmerla	kümmerola	1	Kümmerle	Kümmerle	0
+23	MH p6/1, MH p6/2	II_89_0025	Uissigheim, Uissigheim	9.57194, 49.67957	kümmerle	kümmerle	0	kümmerle	kümmerle	0	Kümmerle	Kümmerle	0
+24	MH g2	II_88_0023	Lindelbach, Lindelbach	9.58346, 49.75732	kümårla	kümmrla	1	kümmerla	kümmerla	0	Kümmerle	Kümmerle	0
+25	MH x5	II_90_0013	Gissigheim, Gissigheim	9.58726, 49.59451	kümerle	kümmerle	1	kümmerle	kümmerle	0	Kümmerle	Kümmerle	0
+26	MH x1	II_90_0010	Eiersheim, Eiersheim	9.58787, 49.65953	kümmerle	kümmerle	0	kümmerle	kümmerle	0	Kümmerle	Kümmerle	0
+27	MH x6	II_90_0012	Königheim, Königheim	9.59419, 49.61802	kümmerling	kümmerling	0	kümmerling	kümmerling	0	Kümmerle	Kümmerle	0
+28	MH p8	II_89_0026	Gamburg, Gamburg	9.59986, 49.69382	kümmerling	kümmerling	0	kümmerling	kümmerling	0	Kümmerle	Kümmerle	0
+29	MH p12	II_89_0020	Dietenhan, Dietenhan	9.6066, 49.74297	kümmerla	kümmerla	0	kümmerla	kümmerla	0	Kümmerle	Kümmerle	0
+30	MH p10	II_89_0028	Höhefeld, Höhefeld	9.60905, 49.71271	kümmerle	kümmerle	0	kümmerle	kümmerle	0	Kümmerle	Kümmerle	0
+31	MH x9	II_90_0011	Dienstadt, Dienstadt	9.61232, 49.63373	kümmerling	kümmerling	0	kümmerling	kümmerling	0	Kümmerle	Kümmerle	0
+32	MH p9	II_89_0027	Niklashausen, Niklashausen	9.6175, 49.70453	kümmerlä	kümmerle	1	kümmerle	kümmerle	0	Kümmerle	Kümmerle	0
+33	MH g1	II_88_0024	Dertingen über Wertheim a.M., Dertingen	9.61957, 49.7665	kümmerla	kümmarlă	2	kümmerla	kümmerla	0	Kümmerle	Kümmerle	0
+34	MH p11a/1, MH p11a/2	II_89_0021	Kembach, Kembach	9.62461, 49.74217	kümmerla	kümmerla	0	kümmerla	kümmerla	0	Kümmerle	Kümmerle	0
+35	MH x2	II_90_0017, II_90_0020, II_90_0018, II_90_0019	Hochhausen, Hochhausen	9.63526, 49.6621	kümmerling	kümmerling	0	kümmerling	kümmerling	0	Kümmerle	Kümmerle	0
+36	MH x4	II_90_0014	Dittwar, Dittwar	9.63593, 49.58974	kümmerling	kummerling	1	kümmerling	kümmerling	0	Kümmerle	Kümmerle	0
+37	MH F8	II_91_0015	Heckfeld, Heckfeld	9.63713, 49.55077	kümmerle	kümmerla	1	kümmerle	kümmerla	1	Kümmerle	Kümmerle	0
+38	MH p7	II_89_0031, II_89_0030, II_89_0032	Werbach, Werbach	9.63871, 49.67029	kümmerling	kümmerling	0	kümmerling	kümmerling	0	Kümmerle	Kümmerle	0
+39	MH x3	II_90_0016	Impfingen, Impfingen	9.65946, 49.64719	kümmerling	kümmerling	0	kümmerling	kümmerling	0	Kümmerle	Kümmerle	0
+40	MH x8	II_90_0015	Tauberbischofsheim, Tauberbischofsheim	9.66553, 49.62352	kümmerling	gümerling	2	kümmerling	kümmerling	0	Kümmerle	Kümmerle	0
+41	MH y4	II_90_0021	Dittigheim, Dittigheim	9.67647, 49.61035	kümmerling	kümmerling	0	kümmerling	kümmerling	0	Kümmerle	Kümmerle	0
+42	MH G1	II_91_0016	Oberlauda, Oberlauda	9.67912, 49.56608	kümmerling	kümmerling	0	kümmerling	kümmerling	0	Kümmerle	Kümmerle	0
+43	MH q3	II_89_0035	Werbachhausen, Werbachhausen	9.67954, 49.67946	kümmerle	kümmerle	0	kümmerle	kümmerle	0	Kümmerle	Kümmerle	0
+44	MH y5	II_90_0022	Distelhausen, Distelhausen	9.69353, 49.59735	kümmerle	kümmerle	0	kümmerle	kümmerle	0	Kümmerle	Kümmerle	0
+45	MH q2	II_89_0034	Wenkheim, Wenkheim	9.70149, 49.70022	kümerli	kümmerle	2	kümmerli	kümmerle	1	Kümmerle	Kümmerle	0
+46	MH G2	II_91_0017	Lauda, Lauda	9.70203, 49.5702	kümmerli	kümmerling	2	kümmerli	kümmerling	2	Kümmerle	Kümmerle	0
+47	MH G3	II_91_0026	Gerlachsheim, Gerlachsheim	9.71775, 49.57998	kümmerle	kümmerle	0	kümmerle	kümmerle	0	Kümmerle	Kümmerle	0
+48	MH G4	II_91_0025	Marbach, Marbach	9.7264, 49.56581	kümmerle	kümmerle	0	kümmerle	kümmerle	0	Kümmerle	Kümmerle	0
+49	MH y1	II_89_0036	Großrinderfeld, Grossrinderfeld	9.73405, 49.66558	kümmerle	kümmerle	0	kümmerle	kümmerle	0	Kümmerle	Kümmerle	0
+50	MH y3	II_90_0024	Grünsfeldhausen, Grünsfeldhausen	9.74055, 49.62456	kümmerle	kümmerle	0	kümmerle	kümmerle	0	Kümmerle	Kümmerle	0
+51	MH y6	II_90_0023	Grünsfeld, Grünsfeld	9.74656, 49.6066	kümmerle	kümmerle	0	kümmerle	kümmerle	0	Kümmerle	Kümmerle	0
+52	MH y2	II_90_0025	Paimar, Paimar	9.75368, 49.6402	kümmerli	kümmerle	1	kümmerli	kümmerle	1	Kümmerle	Kümmerle	0
+53	MH G5	II_91_0027	Kützbrunn, Kützbrunn	9.76136, 49.58159	kümmerle	kümmerle	0	kümmerle	kümmerle	0	Kümmerle	Kümmerle	0
+54	MH y8	II_90_0026	Krensheim, Krensheim	9.78002, 49.63781	kümmerla	kümmerla	0	kümmerla	kümmerla	0	Kümmerle	Kümmerle	0
+55	MH q4	II_89_0040	Gerchsheim, Gerchsheim	9.78301, 49.70681	kümerle	kümerle	0	kümmerle	kümmerle	0	Kümmerle	Kümmerle	0
+56	MH y10	II_89_0042	Ilmspan, Ilmspan	9.79016, 49.66609	kümmerli	kümmerli	0	kümmerli	kümmerli	0	Kümmerle	Kümmerle	0
+57	MH G7/2, MH G7/1	II_91_0032	Oberbalbach, Oberbalbach	9.7938, 49.53997	kümmerli , kümmerle	kümmerla	1	kümmerli, kümmerle	kümmerla	1	Kümmerle	Kümmerle	0
+58	MH q5	II_89_0041	Schönfeld, Schönfeld	9.80069, 49.67702	kümmerle	kümmeli	2	kümmerle	kümmerli	1	Kümmerle	Kümmerle	0
+59	MH y7	II_90_0131	Vilchband, Vilchband	9.82424, 49.58989	kümmerle	kümmerle	0	kümmerle	kümmerle	0	Kümmerle	Kümmerle	0
+60	MH y9	II_90_0027	Poppenhausen, Poppenhausen	9.82622, 49.63065	kümmerla	kümmerla	0	kümmerla	kümmerla	0	Kümmerle	Kümmerle	0
+61	MH ya2	II_90_0028	Unterwittighausen, Unterwittighausen	9.83878, 49.61344	kümmerla	kümmerla	0	kümmerla	kümmerla	0	Kümmerle	Kümmerle	0
+62	MH ya1/1, MH ya1/2	II_90_0030	Oberwittighausen, Oberwittighausen	9.85164, 49.62585	kümmerla, kümmerle	kümmerla	0	kümmerla, kümmerle	kümmerla	0	Kümmerle	Kümmerle	0
+63	na	II_90_0003	Wettersdorf	9.38743, 49.63075	na	kümmerle	999	na	kümmerle	999	na	Kümmerle	999
+64	na	II_88_0005	Boxtal	9.40146, 49.76416	na	kümmerle	999	na	kümmerle	999	na	Kümmerle	999
+65	na	II_89_0006	Wessental	9.41215, 49.73004	na	kümerli	999	na	kümmerli	999	na	Kümmerle	999
+66	na	II_92_0007	Osterburken	9.42838, 49.4308	na	kümmerle	999	na	kümmerle	999	na	Kümmerle	999
+67	na	II_91_0007	Gerichtstetten	9.5049, 49.53499	na	gümmerla	999	na	kümmerla	999	na	Kümmerle	999
+68	na	II_89_0037	Steinbach	9.72212, 49.71075	na	kümmerli	999	na	kümmerli	999	na	Kümmerle	999
+69	na	II_91_0028, II_91_0029	Messelhausen	9.7887, 49.5756	na	kümmerli, kümmerle	999	na	kümmerli, kümmerle	999	na	Kümmerle	999

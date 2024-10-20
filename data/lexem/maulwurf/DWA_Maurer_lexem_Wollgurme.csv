@@ -1,0 +1,26 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Hag D 2	III_5_0022	Altweiler (Altwiller), Altweiler	6.98122, 48.93023	wolkwuame	molgur	6	wolkwurme	molgur	5	Wollgurme	Wollgurme	0
+1	Hag E 9	III_5_0027	Harskirchen, Harskirchen	7.0389, 48.93409	wollgurme	mollgurme	1	wollgurme	molgurme	2	Wollgurme	Wollgurme	0
+2	Hag M 12	III_6_0005	Diedendorf, Diedendorf	7.04974, 48.87869	wollgwurme	wolgwurme	1	wolkwurme	wolkwurme	0	Wollgurme	Wollgurme	0
+3	Hag E 8	III_5_0026	Schopperten, Schopperten	7.05316, 48.94524	wollgurme	wollgurme	0	wollgurme	wollgurme	0	Wollgurme	Wollgurme	0
+4	Hag M 11/1, Hag M 11/2	III_6_0003	Wolfskirchen, Wolfskirchen	7.07612, 48.87884	wollgurme, wolkwurme	wolkwurme	0	wollgurme, wolkwurme	wolkwurme	0	Wollgurme	Wollgurme	0
+5	Hag M 1	III_5_0034	Zollingen, Zollingen	7.07636, 48.91048	wollgůarme	wollguame	2	wollgurme	wollgurme	0	Wollgurme	Wollgurme	0
+6	Hag E 5	III_5_0033	Saarwerden (Sarrewerden), Saarwerden	7.08411, 48.9218	wollkwuame	wolgwurme	3	wolkwurme	wolkwurme	0	Wollgurme	Wollgurme	0
+7	Hag E 6/2	III_5_0028, III_5_0029	Saarbuckenheim (Sarre-Union), Saarbuckenheim	7.08686, 48.93919	woltwurme	wolttwurme, wollgwurmer	1	woltwurme	wollgwurmer, woltwurme	0	Wollgurme	Wollgurme	0
+8	Hag M 3	III_6_0004	Burbach, Burbach	7.11226, 48.90144	wulkwurm	wolkwurm	1	wulkwurm	wolkwurm	1	Wollgurme	Wollgurme	0
+9	Hag E 4	III_5_0032	Rimsdorf, Rimsdorf	7.12568, 48.92923	wollgurme	molkwurme	3	wollgurme	molkwurme	3	Wollgurme	Wollgurme	0
+10	Hag M 7	III_6_0016	Eyweiler (Eywiller), Eyweiler	7.13172, 48.8709	wollgorma	wollgorma	0	wollgorme	wollgurme	1	Wollgurme	Wollgurme	0
+11	Hag E 2	III_5_0030	Völlerdingen (Voellerdingen), Völlerdingen	7.14098, 48.9622	molkwurme	moldwurme	1	molkwurme	moltwurme	1	Wollgurme	Wollgurme	0
+12	Hag M 4	na	Tal bei Drulingen (Thal-Drulingen)	7.1452, 48.90983	molkwurme	na	999	molkwurme	na	999	Wollgurme	na	999
+13	Hag E 3	III_5_0031	Domfessel, Domfessel	7.15171, 48.95143	molkwuarme	molkwuame	1	molkwurme	molkwurme	0	Wollgurme	Wollgurme	0
+14	Hag M 5	III_6_0008	Berg, Berg	7.1532, 48.89487	wolkwurme	wollgurme	2	wolkwurme	wollgurme	2	Wollgurme	Wollgurme	0
+15	Hag M 6	III_6_0009	Güngweiler (Gungwiller), Gu[e]ngweiler	7.15771, 48.88171	wollgurmä	wollgůrme	2	wollgurme	wollgurme	0	Wollgurme	Wollgurme	0
+16	Hag F 6	III_5_0041	Mackweiler (Mackwiller), Mackweiler	7.17502, 48.9258	wollgurme	wollgurme	0	wollgurme	wollgurme	0	Wollgurme	Wollgurme	0
+17	Hag F 4	na	Lorenzen (Lorentzen)	7.1752, 48.95249	mollgurme	na	999	mollgurme	na	999	Wollgurme	na	999
+18	Hag N 17	na	Berg, Rexingen	7.17654, 48.90012	wolkwurme	na	999	wolkwurme	na	999	Wollgurme	na	999
+19	Hag F 5	III_5_0040	Diemeringen, Diemeringen	7.18685, 48.94061	molkwurme	mollgurme	2	molkwurme	molgurme	2	Wollgurme	Wollgurme	0
+20	Hag F 7	III_5_0050	Waldhambach, Waldhambach	7.21529, 48.92578	wollgurmä	wollgurme	1	wollgurme	wollgurme	0	Wollgurme	Wollgurme	0
+21	Hag F 3	III_5_0044	Ratzweiler (Ratzwiller), Ratzweiler	7.23978, 48.95501	wollgurme	wollgurme	0	wollgurme	wollgurme	0	Wollgurme	Wollgurme	0
+22	na	III_4_0050	Örmingen	7.12881, 49.00062	na	wolkwurm	999	na	wolkwurm	999	na	Wollgurme	999
+23	na	III_6_0010	Weyer	7.15976, 48.85488	na	molkwurme	999	na	molkwurme	999	na	Wollgurme	999
+24	na	III_5_0092	Ingolsheim	7.93636, 48.97357	na	wollgurme	999	na	wollgurme	999	na	Wollgurme	999

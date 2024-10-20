@@ -1,0 +1,103 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_maurer_align	item_DWA	item_DWA_align	Levenshtein_item
+0	Stra p 3	III_9_0078	Honau, Honau	7.87132, 48.64025	gurk	g u r k	gurg	g u r g	1
+1	Co R3	III_15_0071	Häg (bei Mambach), Häg	7.91432, 47.73207	gůrgä	g ů r g ä	gurke	g u r k e	3
+2	Co R11	III_15_0083	Gersbach, Gersbach	7.93271, 47.69725	gurge	g u r g e	gurgä	g u r g ä	1
+3	TÜB a3	III_7_0119	Schwarzach (bei Bühl), Schwarzach	8.04423, 48.74717	gūrg	g ū r g	gurge	g u r g e	2
+4	TUTT L/8,9	III_15_0098	Hierbach - Wilfingen, Wilfingen	8.09123, 47.686	gurke	g u r k e	gūrge	g ū r g e	2
+5	TUTT w3	III_14_0072	Bärental, Bärental	8.0952, 47.86975	gurke	g u r k e	gurge	g u r g e	1
+6	TÜB a7	III_8_0105	Balzhofen, Balzhofen	8.09765, 48.71247	gurk	g u r k	gurke	g u r k e	1
+7	KST S14	III_7_0113	Hügelsheim, Hügelsheim	8.10904, 48.79654	gurge	g u r g e	gurg	g u r g	1
+8	TÜB a10	III_8_0100	Steinbach, Steinbach	8.16038, 48.72843	gürk	g ü r k	gurk	g u r k	1
+9	TÜB E2	III_11_0080	Seebach, Seebach	8.20278, 48.57466	gurk	g u r k	gurke	g u r k e	1
+10	KST E8	III_5_0129	Illingen, Illingen	8.20923, 48.9349	gurig	g u r i g	gurik	g u r i k	1
+11	KST M9	III_6_0108	Niederbühl, Niederbühl	8.21769, 48.84547	gurk	g u r k	gurke	g u r k e	1
+12	KST E4	III_5_0136, III_5_0137, III_5_0138	Mörsch, Mörsch	8.28883, 48.96003	gurk	g u r k	gürk	g ü r k	1
+13	TÜB M1	III_11_0149	Sankt Roman, St. Roman	8.2924, 48.33187	gurk	g u r k	gurke	g u r k e	1
+14	KST M5	III_6_0103	Waldprechtsweier, Waldprechtsweier	8.33173, 48.8612	gurje	g u r j e	gurik	g u r i k	2
+15	KST N1	III_6_0101, III_6_0100, III_6_0102	Malsch, Malsch	8.3345, 48.88047	gurje	g u r j e	gurk	g u r k	2
+16	TÜB k1	III_26_0001	Raumünzach, Raumänzach	8.34869, 48.63918	gurk	g u r k	gurge	g u r g e	2
+17	TÜB F1	III_29_0001	Kaltbrunn, Kaltbrunn	8.35246, 48.34621	gurge	g u r g e	gurke	g u r k e	1
+18	TÜB c5	III_25_0002	Langenbrand, Langenbrand	8.36334, 48.70441	gork	g o r k	gurk	g u r k	1
+19	TÜB N1	III_30_0007	Schenkenzell, Schenkenzell	8.37253, 48.31105	gurge	g u r g e	gurk	g u r k	2
+20	KST F2	III_22_0001	Bulach, Bulach	8.38244, 48.9868	gork	g o r k	gurg	g u r g	2
+21	KST F12	III_22_0003	Ettlingenweier, Ettlingenweier	8.38589, 48.92887	gurge	g u r g e	gurke	g u r k e	1
+22	KST r4	III_20_0006	Leopoldshafen, Leopoldshafen	8.3923, 49.09933	gurig	g u r i g	gurk	g u r k	2
+23	KST r1	III_20_0002	Liedolsheim, Liedolsheim	8.41451, 49.16221	guak	g u a k	gurk	g u r k	1
+24	Ma f1/2	II_58_0061	Mannheim-Sandhofen, Mannheim-Sandhofen, Mannheim-Sandhofen	8.44789, 49.5433	gorge	g o r g e	gork	g o r k	2
+25	TUTT k1	III_33_0069	Vilingen, Villingen	8.45901, 48.0567	gurk	g u r k	gurge	g u r g e	2
+26	KST F9	III_22_0008	Palmbach, Palmbach	8.48266, 48.94683	gurk	g u r k	gurg	g u r g	1
+27	KST d2	III_18_0009, III_18_0008	Altlußheim, Altlussheim	8.49951, 49.30106	gurigä	g u r i g ä	guik	g u i k	3
+28	MH Q7	II_60_0033	Ketsch, Ketsch	8.52432, 49.3678	gōrgä	g ō r g ä	gork	g o r k	3
+29	KST z6	III_21_0014, III_21_0015	Berghausen, Berghausen	8.52712, 49.00389	gurig	g u r i g	gurg	g u r g	1
+30	MH H2	II_59_0067	Feudenheim, Feudenheim	8.53299, 49.4864	guarg	g u a r g	gurge	g u r g e	2
+31	KST s8	III_20_0021	Untergrombach, Untergrombach	8.55318, 49.0861	gurke	g u r k e	gurk	g u r k	1
+32	MH Q2	II_60_0035, II_60_0034	Schwetzingen, Schwetzingen	8.57064, 49.38567	gurk	g u r k	gurg	g u r g	1
+33	KST O5	III_23_0015	Dietlingen, Dietlingen	8.60093, 48.89654	gurig	g u r i g	gurk	g u r k	2
+34	MH H5	II_59_0072	Neckarhausen, Neckarhausen	8.60233, 49.46433	gurk	g u r k	gurke	g u r k e	1
+35	KST d7	III_18_0019	Sankt Leon, Sankt Leon	8.6025, 49.26526	gurik	g u r i k	gurke	g u r k e	2
+36	MH H4	II_59_0070	Ladenburg, Ladenburg	8.61098, 49.47244	goigä	g o i g ä	gurg	g u r g	3
+37	KST z4	III_21_0018	Wössingen, Wössingen	8.61142, 49.01017	gurke	g u r k e	gurig	g u r i g	2
+38	KST l7	III_19_0015	Weiher, Weiher	8.62179, 49.17863	gurk	g u r k	gurke	g u r k e	1
+39	KST G11	III_22_0023	Ersingen, Ersingen	8.63492, 48.93324	gurge	g u r g e	gurik	g u r i k	2
+40	KST d5	III_18_0020	Walldorf, Walldorf	8.64294, 49.3028	guarg	g u a r g	gurke	g u r k e	3
+41	KST l4	III_19_0018, III_19_0020, III_19_0019	Mingolsheim, Mingolsheim	8.65316, 49.21986	gurk	g u r k	gurick	g u r i ck	2
+42	MH R3	II_60_0041	Heidelberg-Rohrbach, Heidelberg-Rohrbach	8.69, 49.38005	gurg	g u r g	gurk	g u r k	1
+43	TUTT t5	III_34_0038	Zimmern, Zimmern	8.71521, 47.94848	girke	g i r k e	gorka	g o r k a	2
+44	KST H2	III_22_0032	Bauschlott, Bauschlott	8.72785, 48.97051	gurk	g u r k	gurge	g u r g e	2
+45	KST P8	III_23_0058	Würm, Würm	8.73641, 48.86041	gūrk	g ū r k	gurg	g u r g	2
+46	MH J7	II_59_0081	Altenbach / Schriesheim, Altenbach	8.73843, 49.48622	gurken	g u r k e n	gurke	g u r k e	1
+47	MH R11	II_60_0043	Gaiberg, Gaiberg	8.75015, 49.36606	gorge	g o r g e	gork	g o r k	2
+48	KST W7	III_24_0034	Neuhausen, Neuhausen	8.77888, 48.79256	gurge	g u r g e	gurke	g u r k e	1
+49	KST W4	III_24_0025	Steinegg, Steinegg	8.79091, 48.81349	gurg	g u r g	gurge	g u r g e	1
+50	MH J10	II_59_0082	Heiligkreuzsteinach, Heiligkreuzsteinach	8.79709, 49.48538	gurke	g u r k e	gurk	g u r k	1
+51	MH R13	II_60_0045	Neckargemünd, Neckargemünd	8.79751, 49.39508	gurk	g u r k	gurg	g u r g	1
+52	KST W3	III_24_0026	Tiefenbronn, Tiefenbronn	8.80329, 48.82521	gurk	g u r k	gürge	g ü r g e	3
+53	MH R10	II_60_0050	Wiesenbach, Wiesenbach	8.80354, 49.36103	guaik	g u a i k	gueige	g u ei g e	3
+54	MH J13	II_59_0084	Schönau bei Heidelberg, Schönau	8.80977, 49.43706	guaig	g u a i g	guack	g u a ck	2
+55	KST W5	III_24_0036	Mühlhausen , Mühlhausen	8.82201, 48.80607	gurge	g u r g e	gurige	g u r i g e	1
+56	KST f1	III_18_0041	Eschelbronn, Eschelbronn	8.86825, 49.3202	gurge	g u r g e	gurke	g u r k e	1
+57	MH K8	II_59_0097	Neckarhäuserhof, Neckarhäuserhof	8.88191, 49.41513	guik	g u i k	gurk	g u r k	1
+58	MH K5	II_59_0094	Pleutersbach, Pleutersbach	8.95293, 49.45367	guaige	g u a i g e	gurge	g u r g e	2
+59	TUTT f2	III_32_0038	Heinstetten, Heinstetten	8.96312, 48.13491	gurga	g u r g a	gurge	g u r g e	1
+60	MH S10	II_60_0061	Michelbach, Michelbach	8.96532, 49.37259	gurje	g u r j e	gurke	g u r k e	1
+61	TUTT n1	III_33_0040	Buchheim, Buchheim	8.98672, 48.011	gurk	g u r k	gurke	g u r k e	1
+62	MH K4	II_59_0095	Rockenau, Rockenau	8.99904, 49.44673	gurge	g u r g e	gurke	g u r k e	1
+63	TUTT o3	III_33_0047	Leibertingen, Leibertingen	9.01551, 48.04265	guerke	g u e r k e	gürke	g ü r k e	2
+64	KST o2	III_19_0052	Treschklingen, Treschklingen	9.05577, 49.22614	gurge	g u r g e	guriger	g u r i g e r	2
+65	MH T6	II_60_0074	Binau, Binau	9.0577, 49.36658	gurgä	g u r g ä	gurge	g u r g e	1
+66	MH T17	II_60_0075	Neckargerach, Neckargerach	9.0708, 49.40101	gurgä	g u r g ä	gurke	g u r k e	2
+67	KST g4	III_18_0061	Siegelsbach, Siegelsbach	9.08942, 49.27263	gürgä	g ü r g ä	gurke	g u r k e	3
+68	MH T10	II_60_0078	Obrigheim, Obrigheim	9.09608, 49.35186	gurge	g u r g e	gurke	g u r k e	1
+69	KST g1	III_18_0064	Hochhausen, Hochhausen	9.1008, 49.323	gurgä	g u r g ä	gurge	g u r g e	1
+70	TUTT v8	III_34_0060	Rast, Rast	9.12126, 47.93997	gurka	g u r k a	gurke	g u r k e	1
+71	MH T15	II_60_0077	Lohrbach, Lohrbach	9.14183, 49.4	gurge	g u r g e	gurke	g u r k e	1
+72	MH T13	II_60_0081, II_60_0082	Mosbach, Mosbach	9.14619, 49.35501	guerik	g u e r i k	gurke	g u r k e	3
+73	KST g14	III_18_0069	Heinsheim, Heinsheim	9.14778, 49.26416	gurge	g u r g e	gurke	g u r k e	1
+74	SIG d1	III_33_0055	Göggingen, Göggingen	9.20194, 48.00389	gurk	g u r k	gurke	g u r k e	1
+75	MH Y4	III_18_0076	Stein am Kocher, Stein	9.29954, 49.26198	gurgé	g u r g é	gurge	g u r g e	1
+76	MH V2	II_93_0002	Sennfeld, Sennfeld	9.38438, 49.38045	gurke	g u r k e	gurge	g u r g e	1
+77	TUTT L4/2, Co K12, TUTT L4/1, Co R15, TUTT D5	III_15_0073, III_14_0176	Todtmoos, Todtmoos (-Rütte), Todtmoos , Todtmoos	8.00438, 47.74133	gurge	g u r g e	gurka	g u r k a	2
+78	TUTT L4/2, Co K12, TUTT L4/1, Co R15, TUTT D5	III_15_0073, III_14_0176	Todtmoos, Todtmoos (-Rütte), Todtmoos , Todtmoos	8.00438, 47.74133	gurge	g u r g e	gurka	g u r k a	2
+79	TUTT i3	III_13_0089	Urach, Urach	8.25368, 48.00477	gurke	g u r k e	gurge	g u r g e	1
+80	KST E4	III_5_0136, III_5_0137, III_5_0138	Mörsch, Mörsch	8.28883, 48.96003	gurk	g u r k	gürk	g ü r k	1
+81	TUTT i2	III_13_0087, III_13_0084, III_13_0086	Vöhrenbach, Vöhrenbach	8.30495, 48.04519	gurk	g u r k	gurg	g u r g	1
+82	TUTT i2	III_13_0087, III_13_0084, III_13_0086	Vöhrenbach, Vöhrenbach	8.30495, 48.04519	gurk	g u r k	gurke	g u r k e	1
+83	KST z6	III_21_0014, III_21_0015	Berghausen, Berghausen	8.52712, 49.00389	gurig	g u r i g	gurg	g u r g	1
+84	MH H2	II_59_0067	Feudenheim, Feudenheim	8.53299, 49.4864	guairg 	g u a i r g 	gurge	g u r g e	3
+85	MH H2	II_59_0067	Feudenheim, Feudenheim	8.53299, 49.4864	guarg	g u a r g	gurge	g u r g e	2
+86	KST z4	III_21_0018	Wössingen, Wössingen	8.61142, 49.01017	gurke	g u r k e	gurg	g u r g	2
+87	KST z4	III_21_0018	Wössingen, Wössingen	8.61142, 49.01017	gurke	g u r k e	gurig	g u r i g	2
+88	KST l4	III_19_0018, III_19_0020, III_19_0019	Mingolsheim, Mingolsheim	8.65316, 49.21986	gurk	g u r k	gurik	g u r i k	1
+89	KST l4	III_19_0018, III_19_0020, III_19_0019	Mingolsheim, Mingolsheim	8.65316, 49.21986	gurk	g u r k	gurick	g u r i ck	2
+90	KST P3/4, KST P3/3, KST P3/1	III_23_0043, III_23_0050, III_23_0037, III_23_0052, III_23_0045, III_23_0041, III_23_0054, III_23_0036	Pforzheim, Pforzheim	8.70025, 48.89013	gurig 	g u r i g 	gurg	g u r g	2
+91	KST P3/4, KST P3/3, KST P3/1	III_23_0043, III_23_0050, III_23_0037, III_23_0052, III_23_0045, III_23_0041, III_23_0054, III_23_0036	Pforzheim, Pforzheim	8.70025, 48.89013	gurig 	g u r i g 	gurig	g u r i g	1
+92	KST P3/4, KST P3/3, KST P3/1	III_23_0043, III_23_0050, III_23_0037, III_23_0052, III_23_0045, III_23_0041, III_23_0054, III_23_0036	Pforzheim, Pforzheim	8.70025, 48.89013	gurig 	g u r i g 	gurk	g u r k	3
+93	KST P3/4, KST P3/3, KST P3/1	III_23_0043, III_23_0050, III_23_0037, III_23_0052, III_23_0045, III_23_0041, III_23_0054, III_23_0036	Pforzheim, Pforzheim	8.70025, 48.89013	gurge	g u r g e	gurg	g u r g	1
+94	KST P3/4, KST P3/3, KST P3/1	III_23_0043, III_23_0050, III_23_0037, III_23_0052, III_23_0045, III_23_0041, III_23_0054, III_23_0036	Pforzheim, Pforzheim	8.70025, 48.89013	gurge	g u r g e	gurig	g u r i g	2
+95	KST P3/4, KST P3/3, KST P3/1	III_23_0043, III_23_0050, III_23_0037, III_23_0052, III_23_0045, III_23_0041, III_23_0054, III_23_0036	Pforzheim, Pforzheim	8.70025, 48.89013	gurge	g u r g e	gurk	g u r k	2
+96	KST P3/4, KST P3/3, KST P3/1	III_23_0043, III_23_0050, III_23_0037, III_23_0052, III_23_0045, III_23_0041, III_23_0054, III_23_0036	Pforzheim, Pforzheim	8.70025, 48.89013	gurk	g u r k	gurg	g u r g	1
+97	KST P3/4, KST P3/3, KST P3/1	III_23_0043, III_23_0050, III_23_0037, III_23_0052, III_23_0045, III_23_0041, III_23_0054, III_23_0036	Pforzheim, Pforzheim	8.70025, 48.89013	gurk	g u r k	gurig	g u r i g	2
+98	MH S4	II_60_0055	Lobenfeld, Lobenfeld	8.8718, 49.35884	gurg	g u r g	gurje	g u r j e	2
+99	MH K8	II_59_0097	Neckarhäuserhof, Neckarhäuserhof	8.88191, 49.41513	guik	g u i k	gurke	g u r k e	2
+100	MH K8	II_59_0097	Neckarhäuserhof, Neckarhäuserhof	8.88191, 49.41513	guik	g u i k	gurk	g u r k	1
+101	MH T11	II_60_0079	Diedesheim, Diedesheim	9.11367, 49.34933	gurge	g u r g e	gurke	g u r k e	1

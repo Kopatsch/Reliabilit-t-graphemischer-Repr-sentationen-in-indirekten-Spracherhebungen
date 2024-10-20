@@ -1,0 +1,4 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_maurer_align	item_DWA	item_DWA_align	Levenshtein_item
+0	Stra m 10	III_9_0023	Wangen , Wangen	7.4664, 48.61834	rosspflümme	r o ss p f l ü m m e	rosspflüm	r o ss p f l ü m	2
+1	KST L3	III_6_0088	Schaffhausen (Schaffhouse-près-Selz), Schaffhausen	8.10006, 48.9087	roßpflaume	r o ß p f l a u m e	roßpflaůme	r o ß p f l a ů m e	1
+2	KST D8	III_5_0114	Winzenbach (Winthenbach), Winzenbach	8.1038, 48.9341	roßpflaume	r o ß p f l a u m e	roßpflaum	r o ß p f l a u m	1

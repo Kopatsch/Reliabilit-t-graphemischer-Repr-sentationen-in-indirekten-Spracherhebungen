@@ -1,0 +1,12 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Co E4	na	Aue (Lauw)	7.02216, 47.75778	roßpflüma	na	999	rospflüme	na	999	Rosspflaume	na	999
+1	Co E10	na	Oberasbach (Aspach-Le-Haute)	7.13352, 47.77692	rosspflüma	na	999	rospflüme	na	999	Rosspflaume	na	999
+2	Stra m 10	III_9_0023	Wangen , Wangen	7.4664, 48.61834	rosspflümme	rosspflüm	2	rospflüme	rospflüm	1	Rosspflaume	Rosspflaume	0
+3	Stra A 1/2	na	Rosheim	7.46905, 48.49622	rohspflŭme	na	999	rospflume	na	999	Rosspflaume	na	999
+4	Stra f 6	na	Hohatzenheim	7.61598, 48.71578	rosspflüme	na	999	rospflüme	na	999	Rosspflaume	na	999
+5	Stra J 6	na	Matzenheim	7.62677, 48.39642	roßpflümme	na	999	rospflüme	na	999	Rosspflaume	na	999
+6	Co u 8	na	Schallstadt	7.76422, 47.959	roßpflume	na	999	rospflume	na	999	Rosspflaume	na	999
+7	KST D11	na	Trimbach	8.0182, 48.94347	roßpflaume	na	999	rospflaume	na	999	Rosspflaume	na	999
+8	KST D12	na	Kaidenburg (Kaidenbourg)	8.03018, 48.94495	rosspflaume	na	999	rospflaume	na	999	Rosspflaume	na	999
+9	KST L3	III_6_0088	Schaffhausen (Schaffhouse-près-Selz), Schaffhausen	8.10006, 48.9087	roßpflaume	roßpflaůme	1	rospflaume	rospflaume	0	Rosspflaume	Rosspflaume	0
+10	KST D8	III_5_0114	Winzenbach (Winthenbach), Winzenbach	8.1038, 48.9341	roßpflaume	roßpflaum	1	rospflaume	rospflaum	1	Rosspflaume	Rosspflaume	0

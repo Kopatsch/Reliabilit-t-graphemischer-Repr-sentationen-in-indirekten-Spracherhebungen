@@ -1,0 +1,737 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_maurer_align	item_DWA	item_DWA_align	Levenshtein_item
+0	Hag D 2	III_5_0022	Altweiler (Altwiller), Altweiler	6.98122, 48.93023	grumbēre	g r u m b ē r e	grumbiere	g r u m b ie r e	2
+1	Co x 5	III_14_0009	St. Amarin, St. Amarin	7.03186, 47.87365	grundbirne	g r u n d b i r n e	grumbera	g r u m b e r a	5
+2	Hag E 9	III_5_0027	Harskirchen, Harskirchen	7.0389, 48.93409	grummber	g r u mm b e r	grumbeer	g r u m b ee r	2
+3	Hag E 7	III_5_0024	Keskastel, Keskastel	7.04339, 48.96955	grumbire	g r u m b i r e	grumbier	g r u m b ie r	2
+4	Hag M 12	III_6_0005	Diedendorf, Diedendorf	7.04974, 48.87869	grumbeere	g r u m b ee r e	grumbeer	g r u m b ee r	1
+5	Hag E 8	III_5_0026	Schopperten, Schopperten	7.05316, 48.94524	grumbeer	g r u m b ee r	grumbeere	g r u m b ee r e	1
+6	Hag T 2	III_7_0006	Kirberg (Kirrberg), Kirberg	7.06204, 48.8233	grumbier	g r u m b ie r	grumbirr	g r u m b i rr	1
+7	Hag M 2	III_6_0002	Pisdorf (Bischtroff-sur-Sarre), Pisdorf	7.06995, 48.9005	grumbier	g r u m b ie r	krummbire	k r u mm b i r e	4
+8	Hag M 11/2, Hag M 11/1	III_6_0003	Wolfskirchen, Wolfskirchen	7.07612, 48.87884	krummbeer	k r u mm b e e r	grumbeer	g r u m b ee r	2
+9	Hag M 1	III_5_0034	Zollingen, Zollingen	7.07636, 48.91048	grůmbeer	g r ů m b ee r	grummberre	g r u mm b e r r e	4
+10	Hag T 4	III_7_0013	Goerlingen, Görlingen	7.08247, 48.79646	grumbier	g r u m b ie r	grumbiere	g r u m b ie r e	1
+11	Hag x 2	III_4_0053	Herbitzheim, Herbitzheim	7.08355, 49.01459	grumbeere	g r u m b ee r e	grumbier	g r u m b ie r	2
+12	Hag E 5	III_5_0033	Saarwerden (Sarrewerden), Saarwerden	7.08411, 48.9218	grumbēre	g r u m b ē r e	grumbär	g r u m b ä r	2
+13	Hag M 10	III_6_0012	Bärendorf (Baerendorf), Bärendorf	7.08463, 48.83742	krummbir	k r u mm b i r	krumbier	k r u m b ie r	2
+14	Hag E 6/1, Hag E 6/2	III_5_0028, III_5_0029	Saarbuckenheim (Sarre-Union), Saarbuckenheim	7.08686, 48.93919	grumbeer	g r u m b ee r	grumbier	g r u m b ie r	1
+15	Hag x 1	III_4_0044	Silzheim (Siltzheim), Silzheim	7.09071, 49.0616	grumbiere	g r u m b ie r e	grumbeern	g r u m b ee r n	2
+16	Hag T 3	III_7_0008	Rauweiler, Rauweiler	7.10907, 48.81139	grummbeere	g r u mm b e e r e	grumbeere	g r u m b ee r e	1
+17	Hag M 3	III_6_0004	Burbach, Burbach	7.11226, 48.90144	grumbeer	g r u m b ee r	grummbeer	g r u mm b e e r	1
+18	Hag M 8	III_6_0007	Eschweiler (Eschwiller), Eschweiler	7.11652, 48.8596	grumbiere	g r u m b ie r e	grummbiere	g r u mm b ie r e	1
+19	Hag E 4	III_5_0032	Rimsdorf, Rimsdorf	7.12568, 48.92923	krummbier	k r u mm b ie r	grumber	g r u m b e r	3
+20	Hag E 1	III_4_0050	Örmingen (Oermingen), Örmingen	7.12881, 49.00062	grumbeͥr	g r u m b e ͥ r	grumbeeͥr	g r u m b ee ͥ r	1
+21	Hag M 7	III_6_0016	Eyweiler (Eywiller), Eyweiler	7.13172, 48.8709	grummbeer	g r u mm b e e r	grumbeere	g r u m b ee r e	2
+22	Hag E 2	III_5_0030	Völlerdingen (Voellerdingen), Völlerdingen	7.14098, 48.9622	grůmbeer	g r ů m b ee r	grumberre	g r u m b e rr e	3
+23	Hag E 3	III_5_0031	Domfessel, Domfessel	7.15171, 48.95143	grumbeer	g r u m b ee r	grumbea	g r u m b e a	2
+24	Hag M 5	III_6_0008	Berg, Berg	7.1532, 48.89487	grumbir	g r u m b i r	groummbeer	g r o u mm b e e r	4
+25	Hag M 6	III_6_0009	Güngweiler (Gungwiller), Gu[e]ngweiler	7.15771, 48.88171	grumbär	g r u m b ä r	grůmbeer	g r ů m b ee r	3
+26	Hag M 9	III_6_0010	Weyer, Weyer	7.15976, 48.85488	grummbire	g r u mm b i r e	grumbire	g r u m b i r e	1
+27	Hag F 6	III_5_0041	Mackweiler (Mackwiller), Mackweiler	7.17502, 48.9258	krumbier	k r u m b ie r	grumbiere	g r u m b ie r e	2
+28	Hag F 4	III_5_0039	Lorenzen (Lorentzen), Lorenzen	7.1752, 48.95249	grumbir	g r u m b i r	krumbiere	k r u m b ie r e	3
+29	Hag N 17	III_6_0017	Berg, Rexingen, Rexingen	7.17654, 48.90012	grumbeer	g r u m b ee r	grumbir	g r u m b i r	2
+30	Hag N 11	III_6_0025	Bettweiler (Bettwiller), Bettweiler	7.17993, 48.88617	grumberĕ	g r u m b e r ĕ	grumbiere	g r u m b ie r e	2
+31	Hag F 5	III_5_0040	Diemeringen, Diemeringen	7.18685, 48.94061	grumbeer	g r u m b ee r	krumbeer	k r u m b ee r	1
+32	Hag N 13	III_6_0026	Drulingen, Drulingen	7.18979, 48.8662	grombeer	g r o m b ee r	grombeere	g r o m b ee r e	1
+33	Hag F 1	III_5_0037	Dehlingen, Dehlingen	7.19095, 48.98016	grumbier	g r u m b ie r	grumbiere	g r u m b ie r e	1
+34	Hag N 10	III_6_0024	Dürstel (Durstel), Durstel	7.19745, 48.89156	grumbeere	g r u m b ee r e	krumbere	k r u m b e r e	2
+35	Hag N 9	III_6_0018	Adamsweiler (Adamswiller), Adamsweiler	7.20348, 48.90463	grumbēre	g r u m b ē r e	krumbeere	k r u m b ee r e	3
+36	Hag N 16	III_6_0028	Sieweiler (Siewiller), Sieweiler	7.20676, 48.84318	krummbirä	k r u mm b i r ä	krummbiere	k r u mm b ie r e	2
+37	Hag F 7	III_5_0050	Waldhambach, Waldhambach	7.21529, 48.92578	grummbir	g r u mm b i r	grumbia	g r u m b i a	2
+38	Hag N 12	III_6_0023	Aßweiler (Asswiller), Assweiler	7.2198, 48.88035	grumbirr	g r u m b i rr	grumbier	g r u m b ie r	1
+39	Hag F 2	III_5_0042	Bütten (Butten), Bütten	7.2205, 48.97095	grumbeer	g r u m b ee r	grumbire	g r u m b i r e	3
+40	Hag F 3	III_5_0044	Ratzweiler (Ratzwiller), Ratzweiler	7.23978, 48.95501	grumberr	g r u m b e rr	grumbire	g r u m b i r e	2
+41	Hag N 15	III_6_0031	Lohr, Lohr	7.24351, 48.85748	grumbeer	g r u m b ee r	grumbeere	g r u m b ee r e	1
+42	Hag N 5	III_6_0019	Tieffenbach, Tieffenbach	7.24987, 48.90483	grumbeer	g r u m b ee r	grumbeere	g r u m b ee r e	1
+43	Hag N 4	III_5_0048	Weislingen, Weislingen	7.25159, 48.91879	grumbeere	g r u m b ee r e	grumbeer	g r u m b ee r	1
+44	Hag N 6	III_6_0022	Strut (Struth), Strut	7.25475, 48.89009	grumbire	g r u m b i r e	krombēr	k r o m b ē r	4
+45	Hag U 5	III_7_0032	Pfalzweier (-weyer), Pfalzweier	7.25813, 48.80543	grummbeer	g r u mm b e e r	grumbeere	g r u m b ee r e	2
+46	Hag U 3	III_6_0033	Schönburg (Schoenbourg), Schönburg	7.26823, 48.83392	krumbeere	k r u m b ee r e	grumbeere	g r u m b ee r e	1
+47	Hag N 7	III_6_0035	Petersbach, Petersbach	7.26874, 48.86912	grumbere	g r u m b e r e	grummbier	g r u mm b ie r	3
+48	Hag N 3	III_6_0020	Frohmühl (Frohmuhl), Frohmühl	7.28007, 48.90754	krumbiere	k r u m b ie r e	grumbeer	g r u m b ee r	3
+49	Hag U 2	III_7_0034	Graufthal, Grauftal	7.28092, 48.81935	krumbire	k r u m b i r e	grumbiere	g r u m b ie r e	2
+50	Hag N 2	III_6_0021	Hinsburg (Hinsbourg), Hinsburg	7.28852, 48.90706	grumbier	g r u m b ie r	grumbeer	g r u m b ee r	1
+51	Hag N 1	III_5_0049	Puberg, Puberg	7.31461, 48.91322	grumbeer	g r u m b ee r	grummbeer	g r u mm b e e r	1
+52	Hag N 8	III_6_0032	Lützelstein (La Petite-Pierre), Lützelstein	7.32076, 48.85864	grumbiere	g r u m b ie r e	grummbier	g r u mm b ie r	2
+53	Hag G 1	III_5_0052	Rosteig, Rosteig	7.33838, 48.9327	grumbeer	g r u m b ee r	krombeere	k r o m b ee r e	3
+54	Hag O 3	III_6_0036	Zittersheim, Zittersheim	7.34551, 48.89955	grummbeere	g r u mm b e e r e	grumbier	g r u m b ie r	3
+55	Stra e 1	III_7_0047	Otterstal, Ottersthal	7.34837, 48.75567	grůmbeere	g r ů m b ee r e	grombeere	g r o m b ee r e	1
+56	Hag V 10	III_7_0044	Eckartsweiler, Eckartsweiler	7.357, 48.76744	grummbeer	g r u mm b e e r	grumbeer	g r u m b ee r	1
+57	Hag O 4	III_6_0037	Erkartsweiler (Erckartswiller), Erkartsweiler	7.3596, 48.87532	krumbere	k r u m b e r e	grūmbeere	g r ū m b ee r e	3
+58	Stra e 2/3, Stra e 2/1, Stra e 2/2	III_8_0029, III_8_0030	Zabern, Zabern	7.36605, 48.73948	grumbeer	g r u m b ee r	grumbeere	g r u m b ee r e	1
+59	Hag G 2	III_5_0057	Wingen (Wingen-Sur-Moder), Wingen	7.38129, 48.91753	grumbir	g r u m b i r	grumbeer	g r u m b ee r	2
+60	Hag V 6	III_7_0043	Dossenheim (Dossenheim-Sur-Zinsel), Dossenheim	7.40138, 48.80593	grumbeͥr	g r u m b e ͥ r	grummbeer	g r u mm b e e r	2
+61	Stra e 18	III_8_0046	Reutenburg, Reutenburg	7.4064, 48.68515	grumbära	g r u m b ä r a	krumbeera	k r u m b ee r a	3
+62	Stra m 8	III_9_0010	Romansweiler, Romansweiler	7.40829, 48.64445	grumber	g r u m b e r	krumbeere	k r u m b ee r e	3
+63	Hag V 11	III_7_0049	Steinburg (Steinbourg), Steinburg	7.41332, 48.7697	grumbeere	g r u m b ee r e	grumbere	g r u m b e r e	1
+64	Hag O 12	III_6_0040	Weitersweiler (Weiterswiller), Weitersweiler	7.41341, 48.85298	grumbeere	g r u m b ee r e	grombeer	g r o m b ee r	2
+65	Hag O 5	III_6_0039	Sparsbach, Sparsbach	7.41533, 48.87754	grumbēre	g r u m b ē r e	grumbeere	g r u m b ee r e	2
+66	Hag O 2	III_6_0038	Wimmenau, Wimmenau	7.41957, 48.91035	grumbiere	g r u m b ie r e	grumbier	g r u m b ie r	1
+67	Stra m 5	III_9_0011	Krastatt, Krastatt	7.4265, 48.65831	grumbeere	g r u m b ee r e	grummbeere	g r u mm b e e r e	1
+68	Stra e 22	III_8_0032	Waldolwisheim, Waldolwisheim	7.43629, 48.73254	grumbēre	g r u m b ē r e	grumbeere	g r u m b ee r e	2
+69	Stra t 1	III_10_0005	Balbronn, Balbronn	7.43736, 48.58406	grummbeer	g r u mm b e e r	grumbeer	g r u m b ee r	1
+70	Hag O 6	III_6_0047, III_6_0046	Weinburg (Weinbourg), Weinburg	7.44029, 48.87157	grůmmbeer	g r ů mm b e e r	grumbier	g r u m b ie r	3
+71	Stra e 12,13	III_8_0051	Westhausen (Westhouse-Marmoutier), Westhausen	7.44963, 48.68592	grůmber	g r ů m b e r	krummbeere	k r u mm b e e r e	5
+72	Hag O 11	III_6_0041	Obersulzbach (Obersoultzbach), Obersulzbach	7.45013, 48.85174	grůmbeer	g r ů m b ee r	grŭmbeer	g r ŭ m b ee r	1
+73	Stra e 10	III_8_0053	Wolschheim, Wolschheim	7.45106, 48.70358	krumbär	k r u m b ä r	grumbär	g r u m b ä r	1
+74	Hag V 3	III_7_0051	Imbsheim, Imbsheim	7.45399, 48.80165	grombeer	g r o m b ee r	grumbeer	g r u m b ee r	1
+75	Stra e 14	III_8_0050	Knörsheim, Knörrsheim	7.46052, 48.68079	krumbäre	k r u m b ä r e	gromber	g r o m b e r	4
+76	Stra e 9	III_8_0054	Männolsheim, Männolsheim	7.46258, 48.69969	grumbär	g r u m b ä r	grumbeer	g r u m b ee r	2
+77	Hag G 3	III_5_0058	Reipertsweiler (Reipertswiller), Reipertsweiler	7.46373, 48.93214	grumbeer	g r u m b ee r	krumbeer	k r u m b ee r	1
+78	Hag V 13	III_7_0055	Dettweiler, Dettweiler	7.46685, 48.75406	grumbēr	g r u m b ē r	grumbeer	g r u m b ee r	2
+79	Stra m 7	III_9_0017	Hohengöft, Hohengött	7.47311, 48.66189	grumbǟre	g r u m b ǟ r e	grombäre	g r o m b ä r e	2
+80	Stra m 6	III_9_0016	Rangen, Rangen	7.47865, 48.66636	grumbeere	g r u m b ee r e	krummbäre	k r u mm b ä r e	4
+81	Hag V 15	III_7_0054	Gottesheim-Prinzheim, Prinzheim	7.47921, 48.79113	grumbeer	g r u m b ee r	grumbeere	g r u m b ee r e	1
+82	Hag V 14	III_7_0056	Gottesheim, Gottesheim	7.47938, 48.77591	grumbeer	g r u m b ee r	grumbeere	g r u m b ee r e	1
+83	Hag V 2	III_7_0052	Riedheim, Riedheim	7.47956, 48.81064	grumbeer	g r u m b ee r	grumbeere	g r u m b ee r e	1
+84	Hag O 7	III_6_0045	Ingweiler (Ingwiller), Ingweiler	7.48031, 48.87322	grumber	g r u m b e r	grumbiere	g r u m b ie r e	2
+85	Hag O 1	III_5_0059	Lichtenberg, Lichtenberg	7.48181, 48.9216	grumbiar	g r u m b i a r	grummbir	g r u mm b i r	2
+86	Stra e 7/2, Stra e 7/1	III_8_0033	Lupstein, Lupstein	7.48491, 48.73763	grumbäre	g r u m b ä r e	grundbeere	g r u n d b ee r e	4
+87	Stra e 8	III_8_0055	Friedolsheim, Friedolsheim	7.48538, 48.70717	grumbēr	g r u m b ē r	grummbeere	g r u mm b e e r e	4
+88	Hag O 8	III_6_0044	Menchhofen (Menchhoffen), Menchhofen	7.49498, 48.85955	grumbäre	g r u m b ä r e	krumbeer	k r u m b ee r	4
+89	Stra e 15	III_8_0038	Landersheim, Landersheim	7.49655, 48.69022	grumbeere	g r u m b ee r e	grommbäre	g r o mm b ä r e	4
+90	Hag W 13	III_7_0057	Bosselshausen, Bosselshausen	7.50884, 48.80522	grumbēre	g r u m b ē r e	groͧmbeere	g r o ͧ m b ee r e	4
+91	Stra n 11	III_9_0038	Nordheim, Nordheim	7.51005, 48.63544	krumbēre	k r u m b ē r e	krumbiere	k r u m b ie r e	2
+92	Stra f 19	III_8_0061	Willgottheim, Willgottheim	7.51166, 48.67082	grumbere	g r u m b e r e	grumbeere	g r u m b ee r e	1
+93	Stra n 1	III_9_0037	Winzenheim (Wintzenheim-Kochersberg), Winzenheim	7.51469, 48.65916	grumbēr	g r u m b ē r	grumbeer	g r u m b ee r	2
+94	Stra f 15	III_8_0059, III_8_0058	Sässolsheim, Sässolsheim	7.51503, 48.70869	grumbeere	g r u m b ee r e	grumbeer	g r u m b ee r	1
+95	Hag P 17	III_6_0052	Schillersdorf, Schillersdorf	7.52526, 48.87312	grumbeer	g r u m b ee r	grumbiere	g r u m b ie r e	2
+96	Stra n 10	III_9_0024	Küttolsheim, Küttolsheim	7.52543, 48.64343	gråmbeer	g r å m b ee r	groumber	g r o u m b e r	3
+97	Hag W 6	III_7_0058	Kirrweiler, Kirweiler	7.53026, 48.81331	grumbeͥer	g r u m b e ͥ e r	grumbeer	g r u m b ee r	1
+98	Hag P 18	III_6_0060	Obermodern, Obermodern	7.53932, 48.84466	grumbeer	g r u m b ee r	grumbeere	g r u m b ee r e	1
+99	Hag P 4	III_6_0049	Bischholz, Bischholz	7.53995, 48.89301	grumbeer	g r u m b ee r	krumbeer	k r u m b ee r	1
+100	Co P12	III_15_0051	Blansingen, Blansingen	7.54141, 47.69158	grumbiere	g r u m b ie r e	grůmbiere	g r ů m b ie r e	1
+101	Hag P 2	III_6_0059	Offweiler, Offweiler	7.54296, 48.91021	grumbēr	g r u m b ē r	grumbäre	g r u m b ä r e	2
+102	Hag W 11	III_7_0064, III_7_0065	Lixhausen, Lixhausen	7.5473, 48.79426	grumbiere	g r u m b ie r e	grumbier	g r u m b ie r	1
+103	Hag W 4	III_7_0059	Büsweiler (Buswiller), Büsweiler	7.55923, 48.82025	grumbeer	g r u m b ee r	grůmbeer	g r ů m b ee r	1
+104	Hag W 5	III_6_0065	Schalkendorf, Schalkendorf	7.55965, 48.83213	grumbeere	g r u m b ee r e	grummbeere	g r u mm b e e r e	1
+105	Hag W 15	III_7_0068	Bossendorf, Bossendorf	7.55983, 48.78146	grumbeer	g r u m b ee r	grůmbeer	g r ů m b ee r	1
+106	Stra f 2	III_8_0078	Schaffhausen bei Hochfelden (schaffhouse-sur-Zorn), Schaffhausen	7.56211, 48.7324	grummbeeere	g r u mm b e e e r e	krombär	k r o m b ä r	7
+107	Co W 3, Co W 2	III_16_0068, III_16_0069	Kirchen (Efringen-Kirchen), Efringen (Efringen-Kirchen), Kirchen, Efringen	7.56471, 47.64989	grumbier	g r u m b ie r	krummbiere	k r u mm b ie r e	3
+108	Stra f 16	III_8_0065	Gugenheim, Gugenheim	7.56591, 48.70185	grumbär	g r u m b ä r	grumbeer	g r u m b ee r	2
+109	Co P17	III_15_0053	Wintersweiler, Wintersweiler	7.56756, 47.67374	grumbire	g r u m b i r e	krŭmbire	k r ŭ m b i r e	2
+110	Stra f 22	III_9_0041	Schnersheim, Schnersheim	7.568, 48.65809	grumbēre	g r u m b ē r e	grummbeere	g r u mm b e e r e	3
+111	Hag W 17	III_7_0079	Hochfelden, Hochfelden	7.57004, 48.75735	grumbeera	g r u m b ee r a	grummbeere	g r u mm b e e r e	2
+112	Stra n 14	III_9_0036, III_9_0035	Quatzenheim, Quatzenheim	7.57372, 48.62636	grumbier	g r u m b ie r	grumbeer	g r u m b ee r	1
+113	Hag P 6	III_6_0054	Uhrweiler (Uhrwiller), Uhrweiler	7.57892, 48.8784	grumbīr	g r u m b ī r	grumbir	g r u m b i r	1
+114	Co W 12	III_16_0071, III_16_0070	Märkt, Märkt	7.58103, 47.627	chrumbiere	ch r u m b ie r e	grumbiere	g r u m b ie r e	2
+115	Hag W 3	III_7_0060	Ettendorf, Ettendorf	7.58414, 48.81374	grumbeere	g r u m b ee r e	krumbäre	k r u m b ä r e	3
+116	Stra f 3	III_8_0079	Mutzenhausen (Mutzenouse), Mutzenhausen	7.58822, 48.7411	krumbera	k r u m b e r a	grumbeer	g r u m b ee r	3
+117	Stra f 1	III_8_0077	Gingsheim, Gingsheim	7.58895, 48.71645	grumbär	g r u m b ä r	grumbäre	g r u m b ä r e	1
+118	Stra n 15	III_9_0040	Hürtigheim, Hürtigheim	7.59369, 48.6152	krümbēr	k r ü m b ē r	krumbere	k r u m b e r e	3
+119	Hag P 15	III_6_0057	Kindweiler, Kindweiler	7.59731, 48.86227	grummbäre	g r u mm b ä r e	grombäre	g r o m b ä r e	2
+120	Co P14	III_15_0054	Mappach, Mappach	7.59794, 47.68033	grumbire	g r u m b i r e	grumbiere	g r u m b ie r e	1
+121	Hag W 18	III_7_0078	Schwindratzheim, Schwindratzheim	7.59981, 48.7561	grumbeer	g r u m b ee r	grumbeere	g r u m b ee r e	1
+122	Stra n 7	III_9_0034	Wiwersheim, Wiwersheim	7.60738, 48.63994	grumber	g r u m b e r	grumbeer	g r u m b ee r	1
+123	Stra f 11	III_8_0066	Gimbrett, Gimbrett	7.60781, 48.69592	grumbeer	g r u m b ee r	grümbeer	g r ü m b ee r	1
+124	Stra u 14	III_10_0035	Bläsheim, Bläsheim	7.60783, 48.50535	grůmbeer	g r ů m b ee r	grumbiere	g r u m b ie r e	3
+125	Hag P 14, Hag P 19	III_6_0066	Pfaffenhofen -Volksberg, Pfaffenhofen, Pfaffenhofen	7.60881, 48.84422	grumbeere	g r u m b ee r e	grŭmbär	g r ŭ m b ä r	4
+126	Co P6	III_15_0057	Tannenkirch, Tannenkirch	7.6103, 47.71116	grumbire	g r u m b i r e	grumbiere	g r u m b ie r e	1
+127	Co W 22	III_16_0089, III_16_0090	Haltingen, Haltingen	7.61378, 47.61384	grum̄biere	g r u m ̄ b ie r e	grumbiere	g r u m b ie r e	1
+128	Hag P 7	III_6_0055	Engweiler, Engweiler	7.61501, 48.88508	grumbēr	g r u m b ē r	grumbeer	g r u m b ee r	2
+129	Stra f 12	III_8_0067	Reitweiler, Reitweiler	7.61546, 48.67598	grunnbèr	g r u nn b è r	grumber	g r u m b e r	3
+130	Hag W 9	III_7_0070	Minversheim, Minversheim	7.61936, 48.78575	grumbeer	g r u m b ee r	grumbeere	g r u m b ee r e	1
+131	Co W 23	III_16_0075	Ötlingen, Ötlingen	7.62133, 47.62261	grum̄biere	g r u m ̄ b ie r e	krummbiere	k r u mm b ie r e	2
+132	Co W 10	III_16_0072, III_16_0073	Binzen, Binzen, Märkt	7.62403, 47.63133	grumbēra	g r u m b ē r a	grumbiira	g r u m b ii r a	2
+133	Co W 6	III_16_0076	Schallbach, Schallbach	7.62759, 47.65706	grumbiere	g r u m b ie r e	chrumbiere	ch r u m b ie r e	2
+134	Co P15	III_15_0055	Holzen, Holzen	7.62775, 47.69538	grumbiere	g r u m b ie r e	grum̄biere	g r u m ̄ b ie r e	1
+135	Hag P 12	III_6_0064	Überach (Uberach), Überach	7.62806, 48.84844	grummbeere	g r u mm b e e r e	grummbere	g r u mm b e r e	1
+136	Stra f 7	III_8_0074	Mittelhausen, Mittelhausen	7.63107, 48.7093	grümbiere	g r ü m b ie r e	grumbeer	g r u m b ee r	3
+137	Hag A 1	III_4_0077	Dambach, Dambach	7.63179, 49.00256	grumbeer	g r u m b ee r	grumbeere	g r u m b ee r e	1
+138	Hag P 8	III_6_0050	Gumbrechtshofen, Gumbrechtshofen	7.6319, 48.90544	grůmbear	g r ů m b e a r	grummbäre	g r u mm b ä r e	5
+139	Co W 18	III_16_0085	Weil am Rhein, Weil	7.63299, 47.59278	grumbire	g r u m b i r e	grumbirä	g r u m b i r ä	1
+140	Stra f 5	III_8_0076	Wingersheim, Wingersheim	7.63371, 48.72198	grumbǟre	g r u m b ǟ r e	grümmbäre	g r ü mm b ä r e	3
+141	Stra f 10	III_8_0071	Rumersheim, Rumersheim	7.6354, 48.69228	grumbeer	g r u m b ee r	grummbeer	g r u mm b e e r	1
+142	Co P5	III_15_0058	Riedlingen, Riedlingen	7.63561, 47.71579	grumbīre	g r u m b ī r e	krumbire	k r u m b i r e	2
+143	Co H11	III_14_0140	Feldberg, Feldberg	7.64081, 47.7737	grumbire	g r u m b i r e	grumbiere	g r u m b ie r e	1
+144	Co W 7, 9/2	III_16_0077	Rümmingen, Rümmingen	7.64143, 47.64099	grumbīre	g r u m b ī r e	grumbiere	g r u m b ie r e	2
+145	Co P4	III_15_0059	Feuerbach, Feuerbach	7.642, 47.73653	grumbīre	g r u m b ī r e	grumbiere	g r u m b ie r e	2
+146	Hag H 2/3, Hag H 2/1, Hag H 2/2	III_5_0066, III_5_0067	Niederbronn (GID von Niederbronn les bains), Bad-Niederbronn (Niederbronn-Les-Bains), Bad-Niederbronn	7.64282, 48.95108	grumbǟre	g r u m b ǟ r e	grumbeer	g r u m b ee r	3
+147	Stra n 6	III_9_0030	Pfettisheim, Pfettisheim	7.64331, 48.66042	krummbēere	k r u mm b ē e r e	krumbeere	k r u m b ee r e	2
+148	Stra v 8	III_10_0032	Holzheim, Holzheim	7.64383, 48.55724	grumbēere	g r u m b ē e r e	krumbäre	k r u m b ä r e	3
+149	Co H12	III_14_0142	Obereggenen, Niedereggenen, Obereggenen, Niedereggenen	7.64434, 47.75677	grumbiir	g r u m b ii r	grumbiire	g r u m b ii r e	1
+150	Co W 7, 9/1	III_16_0086	Wittlingen, Wittlingen	7.64842, 47.6562	grumbīre	g r u m b ī r e	grummbiere	g r u mm b ie r e	3
+151	Co W 8	III_15_0056	Wollbach, Wollbach	7.65387, 47.67054	grumbīre	g r u m b ī r e	grumbiire	g r u m b ii r e	2
+152	Co W 21	III_16_0078	Tumringen, Tumringen	7.65564, 47.62739	grumbire	g r u m b i r e	grumbira	g r u m b i r a	1
+153	Co H9	III_14_0141	Lipburg, Lipburg	7.65665, 47.78685	grumbīre	g r u m b ī r e	grumbiire	g r u m b ii r e	2
+154	Stra f 13	III_8_0070, III_8_0069	Berstett, Berstett	7.65758, 48.67898	grumbeere	g r u m b ee r e	grumbeer	g r u m b ee r	1
+155	Stra f 8	III_8_0073	Bilwisheim, Bilwisheim	7.65824, 48.70895	krummbeer	k r u mm b e e r	krumbär	k r u m b ä r	3
+156	Hag P 9	III_5_0063	Gundershofen, Gundershofen	7.6592, 48.90652	grumbeer	g r u m b ee r	krummbeere	k r u mm b e e r e	3
+157	Hag W 19	III_7_0073	Wittersheim, Wittersheim	7.66007, 48.78303	grumbier	g r u m b ie r	grumbeer	g r u m b ee r	1
+158	Co P16	III_15_0046	Kandern, Kandern	7.66224, 47.71456	grumbīre	g r u m b ī r e	grumbire	g r u m b i r e	1
+159	Hag H 3	III_5_0064, III_5_0065	Reichshofen (Reichshoffen), Reichshofen, Reichshofen-Werk	7.66338, 48.93223	grumbeera	g r u m b ee r a	krumbeer	k r u m b ee r	2
+160	Co W 19 , Co W 20	III_16_0081, III_16_0080, III_16_0082	Lörrach, Lörrach , Lörrach	7.66409, 47.61258	krumbire	k r u m b i r e	grumbirě	g r u m b i r ě	2
+161	Stra v 6	III_9_0027	Wolfisheim, Wolfisheim	7.66606, 48.58281	grumbere	g r u m b e r e	krumbeere	k r u m b ee r e	2
+162	Stra o 5	III_9_0044	Pfulgriesheim, Pfulgriesheim	7.67069, 48.64279	grumbeere	g r u m b ee r e	grumbeer	g r u m b ee r	1
+163	Hag X 1	III_7_0080	Uhlweiler, Uhlweiler	7.67396, 48.82047	grumbäre	g r u m b ä r e	grumbeeren	g r u m b ee r e n	3
+164	Stra g 8	III_8_0081, III_8_0080	Olwisheim, Olwisheim	7.67511, 48.69681	grümbeere	g r ü m b ee r e	grumbeere	g r u m b ee r e	1
+165	Hag X 13	III_7_0089	Hochstett, Hochstett	7.67779, 48.77853	grumbier	g r u m b ie r	grumbeer	g r u m b ee r	1
+166	Hag Q 12	III_6_0068	Griesbach, Griesbach	7.67856, 48.89026	grumbeer	g r u m b ee r	grumbeere	g r u m b ee r e	1
+167	Co X 4	III_16_0091, III_16_0092	Haagen, Haagen	7.67898, 47.63703	grumbiere	g r u m b ie r e	krumbire	k r u m b i r e	2
+168	Stra o 16	III_9_0045	Straßburg-Oberhausbergen, Strassburg-Oberhausbergen	7.68507, 48.60569	grumbeer	g r u m b ee r	grumbier	g r u m b ie r	1
+169	Hag X 11	III_7_0090	Bernolsheim, Bernolsheim	7.69085, 48.75532	grumbär	g r u m b ä r	grumbäre	g r u m b ä r e	1
+170	Co X 6	III_16_0094, III_16_0095	Brombach (/Maulburg, aber gestrichen), Brombach	7.69236, 47.63395	grumbīre	g r u m b ī r e	grumbiire	g r u m b ii r e	2
+171	Stra g 9	III_8_0082	Eckwersheim, Eckwersheim	7.69351, 48.68244	grumbeer	g r u m b ee r	grumbeeren	g r u m b ee r e n	2
+172	Hag B 2	III_4_0080	Obersteinbach, Obersteinbach	7.69364, 49.03549	grumbāre	g r u m b ā r e	grumbeere	g r u m b ee r e	2
+173	Co X 5	III_16_0093	Hauingen, Hauingen	7.69375, 47.64287	grumbiere	g r u m b ie r e	grumbirä	g r u m b i r ä	2
+174	Stra o 9	III_9_0047	Niederhausbergen, Niederhausbergen	7.70033, 48.62313	grümbere	g r ü m b e r e	grümbeer	g r ü m b ee r	2
+175	Hag X 2	III_7_0081	Ohlungen, Ohlungen	7.70034, 48.81187	grummbeer	g r u mm b e e r	grum̄beer	g r u m ̄ b ee r	1
+176	Hag X 15	III_7_0086	Wintershausen, Winterhausen	7.70271, 48.79349	grumbeer	g r u m b ee r	grummbeere	g r u mm b e e r e	2
+177	Hag J 12	III_5_0073	Nehweiler (Nehwiller), Nehweiler	7.70322, 48.96072	grumbere	g r u m b e r e	grumbeer	g r u m b ee r	2
+178	Hag X 14	III_7_0087	Batzendorf, Batzendorf	7.70638, 48.78331	grumbeere	g r u m b ee r e	grŭmber	g r ŭ m b e r	3
+179	Co J7, Co Q1	III_14_0147, III_15_0061	Malsburg, Malsburg	7.70866, 47.73257	grumbiere	g r u m b ie r e	grumbire	g r u m b i r e	1
+180	Stra g 2	III_8_0084	Brumath, Brumath	7.71045, 48.73026	grumbeer	g r u m b ee r	grombeere	g r o m b ee r e	2
+181	Stra g 10	III_8_0083	Vendenheim, Vendenheim	7.71285, 48.66933	grömbeer	g r ö m b ee r	grümbär	g r ü m b ä r	3
+182	Hag Q 3	III_6_0071	Forstheim, Forstheim	7.71468, 48.89506	gruummbärä	g r uu m m b ä r ä	krumpieere	k r u m p iee r e	7
+183	Hag B 3	III_4_0081	Niedersteinbach, Niedersteinbach	7.71501, 49.0295	grumbär	g r u m b ä r	krummbeer	k r u mm b e e r	4
+184	Hag Q 2	III_6_0070	Eberbach , Eberbach	7.71711, 48.91154	grumbere	g r u m b e r e	grumbeere	g r u m b ee r e	1
+185	Hag Q 10	III_6_0072	Laubach, Laubach	7.72032, 48.88168	grumbärä	g r u m b ä r ä	grummbere	g r u mm b e r e	3
+186	Hag J 11	III_5_0074	Fröschweiler (Frœschwiller), Fröschweiler	7.72171, 48.94318	grummbi͜͞arä̆	g r u mm b i ͜ ͞ a r ä ̆	grommbeare	g r o mm b e a r e	6
+187	Stra C 3	III_10_0113	Plobsheim, Plobsheim	7.72339, 48.46948	grumbeere	g r u m b ee r e	grumbeer	g r u m b ee r	1
+188	Co J4	III_14_0146	Marzell bei Kandern, Marzell über Kandern	7.72688, 47.77116	chrumbire	ch r u m b i r e	krumbiere	k r u m b ie r e	3
+189	Stra o 12	III_9_0048	Kronenburg (Cronenbourg), Kronenburg	7.73212, 48.59535	grumbeer	g r u m b ee r	grombeeren	g r o m b ee r e n	3
+190	Co Q8	III_15_0062	Endenburg, Endenburg	7.73306, 47.71161	grumbiere	g r u m b ie r e	grumbiire	g r u m b ii r e	1
+191	Hag J 13	III_5_0072	Langensulzbach (Langensoultzbach), Langensulzbach	7.73367, 48.96812	grombiͤr	g r o m b i ͤ r	grumbeere	g r u m b ee r e	4
+192	Hag X 3/2, Hag X 3/1	III_7_0082	Schweighausen (Schweighouse-Sur-Moder), Schweighausen	7.73517, 48.82151	grumbeer	g r u m b ee r	krummbiere	k r u mm b ie r e	4
+193	Stra o 11	III_9_0065, III_9_0060, III_9_0059, III_9_0057, III_9_0063, III_9_0071, III_9_0073, III_9_0066, III_9_0062, III_9_0072, III_9_0070, III_9_0074, III_9_0069, III_9_0067, III_9_0068, III_9_0061, III_9_0058, III_9_0064	Straßburg, Straßburg	7.73609, 48.58523	grumbēr	g r u m b ē r	grumbeer	g r u m b ee r	2
+194	Co X 7	III_16_0098	Steinen, Steinen	7.73911, 47.64447	grumbire	g r u m b i r e	grumbiere	g r u m b ie r e	1
+195	Stra o 8	III_9_0053	Suffelweyersheim, Suffelweyersheim	7.74147, 48.6355	grumbēr	g r u m b ē r	grumbiere	g r u m b ie r e	3
+196	Hag Q 4	III_6_0074	Morsbronn (Morsbronn-Les-Bains), Morbronn	7.74283, 48.90037	krumbire	k r u m b i r e	krumbīre	k r u m b ī r e	1
+197	Hag J 10	III_5_0075	Wört (Woerth), Wört	7.74374, 48.93677	grumbeer	g r u m b ee r	grummbeer	g r u mm b e e r	1
+198	Hag Q 5	III_6_0075	Hagenheim (Hegeney), Hagenheim	7.74557, 48.89153	grumbīre	g r u m b ī r e	grůmbiere	g r ů m b ie r e	3
+199	Co X 8	III_16_0099	Höllstein, Höllstein	7.74574, 47.63943	grumbīre	g r u m b ī r e	grumbiirä	g r u m b ii r ä	3
+200	Stra g 3	III_8_0085	Geudertheim, Geudertheim	7.74686, 48.72273	grambaer	g r a m b a e r	grumbär	g r u m b ä r	3
+201	Stra o 13	III_9_0049	Schiltigheim, Schiltigheim	7.74856, 48.60595	grumbēr	g r u m b ē r	grumbeer	g r u m b ee r	2
+202	Stra o 14	III_9_0051, III_9_0050	Straßburg-Bischheim, Straßburg-Bischheim	7.75254, 48.61483	grůmmbĕĕr	g r ů mm b ĕ ĕ r	grumbeere	g r u m b ee r e	5
+203	Stra o 2	III_9_0054	Reichstett, Reichstett	7.75359, 48.6483	grombeere	g r o m b ee r e	grumbeere	g r u m b ee r e	1
+204	Stra K 2	III_11_0042	Ottenheim, Ottenheim	7.75477, 48.38593	grumbera	g r u m b e r a	krummbiere	k r u mm b ie r e	4
+205	Hag J 9	III_5_0084	Oberdorf-Spachbach, Oberdorf-Spachbach	7.75696, 48.92512	grumbier	g r u m b ie r	grummbeere	g r u mm b e e r e	3
+206	Stra K 5	III_11_0046	Nonnenweier, Nonnenweier	7.76001, 48.34931	grumbire	g r u m b i r e	grumbiere	g r u m b ie r e	1
+207	Hag J 2	III_5_0071	Mattstall, Mattstall	7.7613, 48.98757	grumbäre	g r u m b ä r e	grumbära	g r u m b ä r a	1
+208	Co Q9	III_15_0064	Weitenau, Weitenau	7.76525, 47.67775	grumbiere	g r u m b ie r e	grumbire	g r u m b i r e	1
+209	Co Q2	III_14_0148	Wies, Wies	7.76723, 47.74789	grumbīre	g r u m b ī r e	grumbiere	g r u m b ie r e	2
+210	Hag J 5	III_5_0076	Görsdorf (Goersdorf), Görsdorf	7.76782, 48.95111	gruͥmbear	g r u ͥ m b e a r	grumbeer	g r u m b ee r	2
+211	Hag Q 6	III_6_0076	Dürrenbach (Durrenbach), Dürrenbach	7.76797, 48.89675	grumbeer	g r u m b ee r	grumbeere	g r u m b ee r e	1
+212	Co Q7	III_15_0066	Sallneck, Sallneck	7.7724, 47.72297	krumbiere	k r u m b ie r e	grumbiere	g r u m b ie r e	1
+213	Hag J 8	III_5_0079	Diefenbach (Dieffenbach-Lès-Woerth), Diefenbach	7.77425, 48.93532	grumbier	g r u m b ie r	grummbeere	g r u mm b e e r e	3
+214	Hag X 7	III_7_0094	Weitbruch, Weitbruch	7.77586, 48.7535	grumbeer	g r u m b ee r	grumbeere	g r u m b ee r e	1
+215	Stra K 1	III_11_0040	Meissenheim, Meissenheim	7.77738, 48.40898	grumbier	g r u m b ie r	krummbeere	k r u mm b e e r e	4
+216	Co X 10	III_16_0106	Maulburg , Maulburg	7.77782, 47.64075	grumbīre	g r u m b ī r e	grumbiere	g r u m b ie r e	2
+217	Stra g 7	III_8_0086	Hördt, Hördt	7.78279, 48.69341	grumbäre	g r u m b ä r e	krumbeere	k r u m b ee r e	3
+218	Stra K 4	III_11_0047	Allmannsweier, Allmannsweier	7.78326, 48.36703	grumbiire	g r u m b ii r e	grumbir	g r u m b i r	2
+219	Hag J 4	III_5_0077	Mitschdorf, Mitschdorf	7.78435, 48.9524	krumber	k r u m b e r	grumber	g r u m b e r	1
+220	Hag X 4	III_7_0083, III_7_0084	Hagenau, Hagenau	7.78868, 48.81435	grumbeer	g r u m b ee r	krummbeere	k r u mm b e e r e	3
+221	Hag Q 7	III_6_0069	Biblisheim, Biblisheim	7.79196, 48.89991	grumbēre	g r u m b ē r e	grumbeer	g r u m b ee r	3
+222	Co Q6	III_15_0067	Tegernau, Tegernau	7.79638, 47.72037	grumbīre	g r u m b ī r e	grumbiire	g r u m b ii r e	2
+223	Co Q3	III_14_0152	Raich, Raich	7.79724, 47.75076	grumber	g r u m b e r	grumbiere	g r u m b ie r e	2
+224	Stra o 17	III_9_0056	Straßburg-Ruprechtsau, Straßburg-Ruprechtsau	7.80059, 48.61004	grumbeer	g r u m b ee r	grumbeere	g r u m b ee r e	1
+225	Hag J 6	III_5_0085	Preuschdorf, Preuschdorf	7.80425, 48.9435	grumbeer	g r u m b ee r	grümbiere	g r ü m b ie r e	3
+226	Stra g 5	III_8_0087	Kurzenhausen, Kurzenhausen	7.80901, 48.74019	krumbeer	k r u m b ee r	krumbeere	k r u m b ee r e	1
+227	Hag X 6	III_7_0091	Gries , Gries	7.81383, 48.75262	grümbeere	g r ü m b ee r e	krombeere	k r o m b ee r e	2
+228	Stra C 5	III_10_0114	Altenheim, Altenheim	7.81393, 48.46505	grundbiere	g r u n d b ie r e	grumbiere	g r u m b ie r e	2
+229	Stra v 1	III_10_0047	Kehl, Kehl	7.81494, 48.57419	grumbeer	g r u m b ee r	grumbeere	g r u m b ee r e	1
+230	Hag J 3	III_5_0078	Lampertsloch, Lampertsloch	7.81713, 48.95698	krumber	k r u m b e r	grumbiere	g r u m b ie r e	3
+231	Hag B 4	III_4_0087	Wingen, Wingen	7.81729, 49.02601	grumbier	g r u m b ie r	grumbe̊e̊r	g r u m b e ̊ e ̊ r	3
+232	Co Q5	III_15_0068	Gresgen, Gresgen	7.82053, 47.71127	grumbire	g r u m b i r e	grumbĕre	g r u m b ĕ r e	1
+233	Co X 3	III_16_0110, III_16_0109	Schopfheim (/Grenzach, aber gestrichen), Schopfheim	7.82315, 47.64973	grumbiere	g r u m b ie r e	grumbiére	g r u m b i é r e	1
+234	Stra K 9	III_11_0045	Langenwinkel, Langenwinkel	7.82557, 48.3325	grūmbiär	g r ū m b i ä r	grumbir	g r u m b i r	2
+235	Stra o 1	III_9_0055	Wanzenau, Wanzenau	7.82574, 48.65926	krumbäre	k r u m b ä r e	krumbere	k r u m b e r e	1
+236	Co J5	III_14_0149	Bürchau, Bürchau	7.82686, 47.77616	grumbīre	g r u m b ī r e	grumbire	g r u m b i r e	1
+237	Hag J 1	III_5_0082	Lembach-Pfaffenbronn (Pfaffenbronn) , Lembach-Pfaffenbronn	7.83111, 48.99355	grumbäre	g r u m b ä r e	krummbeer	k r u mm b e e r	5
+238	Co Q4	III_14_0186	Elbenschwand, Elbenschwand	7.83139, 47.7509	grummbiere	g r u mm b ie r e	grumbiere	g r u m b ie r e	1
+239	Hag Y 4	III_7_0095	Kaltenhausen, Kaltenhausen	7.83521, 48.79041	grumbeere	g r u m b ee r e	gůmbeere	g ů m b ee r e	2
+240	Stra p 9	ungeodnet2	Auenheim, Auenheim	7.83597, 48.6051	grombier	g r o m b ie r	grumbir	g r u m b i r	2
+241	Co Y 1	III_16_0121	Fahrnau, Fahrnau	7.83602, 47.66179	grumbiere	g r u m b ie r e	grumbiire	g r u m b ii r e	1
+242	Stra L 10	III_11_0044	Hugsweier, Hugsweier	7.83742, 48.36009	grumbīr	g r u m b ī r	grumbire	g r u m b i r e	2
+243	Stra S 1	III_11_0119	Mietersheim, Mietersheim	7.83797, 48.32639	grummbiere	g r u mm b ie r e	grumbir	g r u m b i r	3
+244	Co Y 15	III_16_0122	Eichen, Eichen	7.83816, 47.6471	grumbire	g r u m b i r e	grumbiere	g r u m b ie r e	1
+245	Hag K 22	III_5_0108	Oberkutzenhausen, Oberkutzenhausen	7.84049, 48.93847	grumbäre	g r u m b ä r e	grumbeerä	g r u m b ee r ä	3
+246	Stra w 1	III_10_0049	Neumühl, Neumühl	7.84392, 48.57012	krombeer	k r o m b ee r	gromber	g r o m b e r	2
+247	Hag K 21	III_5_0090	Lobsann, Lobsann	7.84681, 48.96327	grumbire	g r u m b i r e	grummbere	g r u mm b e r e	2
+248	Hag R 3	III_6_0086	Surburg, Surburg	7.84913, 48.90982	grumbär	g r u m b ä r	krumbäre	k r u m b ä r e	2
+249	Stra w 10	III_10_0056	Eckartsweier, Eckartsweier	7.85175, 48.52985	grommbeere	g r o mm b e e r e	grumbiere	g r u m b ie r e	3
+250	Stra p 4	III_9_0077	Leutesheim, Leutesheim	7.85613, 48.62423	grombeere	g r o m b ee r e	grumbiere	g r u m b ie r e	2
+251	Co Y 13	III_16_0114	Dossenbach, Dossenbach	7.85693, 47.61597	grumbire	g r u m b i r e	grumbiere	g r u m b ie r e	1
+252	Stra h 10	III_8_0088	Kilstett, Kilstett	7.85798, 48.67473	grümmbeere	g r ü mm b e e r e	grumbäre	g r u m b ä r e	4
+253	Stra L 11	III_11_0058	Dinglingen, Dinglingen	7.85875, 48.34966	grumbere	g r u m b e r e	krumbier	k r u m b ie r	3
+254	Co R13	III_15_0085	Raitbach, Raitbach	7.86089, 47.68233	grummbirä	g r u mm b i r ä	grumbiire	g r u m b ii r e	3
+255	Stra D 2	III_10_0117	Hohnhurst, Hohnhurst	7.86191, 48.49204	grumbīr	g r u m b ī r	krummbeere	k r u mm b e e r e	5
+256	Hag Y 5	III_7_0105	Oberhofen (Oberhoffen-Sur-Moder), Oberhofen	7.86327, 48.78298	grumbere	g r u m b e r e	grumbeere	g r u m b ee r e	1
+257	Co Y 2	III_16_0116	Kürnberg, Kürnberg	7.86873, 47.6649	grumbire	g r u m b i r e	grumbiere	g r u m b ie r e	1
+258	Stra w 13	III_10_0050	Kork, Kork	7.86899, 48.56537	grumbire	g r u m b i r e	grummbeere	g r u mm b e e r e	3
+259	Hag K 17	III_5_0093, III_5_0094	Memmelshofen (Memmelshoffen), Memmelshofen	7.87106, 48.96013	grumbär	g r u m b ä r	grumbäre	g r u m b ä r e	1
+260	Stra p 3	III_9_0078	Honau, Honau	7.87132, 48.64025	grumbiere	g r u m b ie r e	grumbier	g r u m b ie r	1
+261	Stra p 10	III_9_0079	Bodersweier, Bodersweier	7.87462, 48.60047	grumbīre	g r u m b ī r e	grombir	g r o m b i r	3
+262	Stra L 12	III_11_0060, III_11_0059	Lahr (Lahr/Schwarzwald), Lahr	7.87603, 48.34018	grumbīre	g r u m b ī r e	krumbir	k r u m b i r	3
+263	Hag R 4	III_6_0080, III_6_0081	Schwabweiler, Schwabweiler	7.87665, 48.90207	grumbeer	g r u m b ee r	grumbeere	g r u m b ee r e	1
+264	Hag K 16	III_5_0095	Retschweiler (Retschwiller), Retschweiler	7.87838, 48.95025	grumbär	g r u m b ä r	grummber	g r u mm b e r	2
+265	Stra h 9	III_8_0089	Gambsheim, Gambsheim	7.87971, 48.69159	grümbǟr	g r ü m b ǟ r	grümmbäre	g r ü mm b ä r e	3
+266	Stra w 2	III_10_0051	Odelshofen, Odelshofen	7.88021, 48.56001	grombīre	g r o m b ī r e	krummbire	k r u mm b i r e	4
+267	Stra w 9/2, Stra w 9/1	III_10_0058	Hesselhurst, Hesselhurst	7.88114, 48.52042	grumbeer	g r u m b ee r	grumbeere	g r u m b ee r e	1
+268	Hag K 18	III_5_0091	Keffenach, Keffenach	7.88225, 48.96489	grumbeere	g r u m b ee r e	grumbär	g r u m b ä r	3
+269	Hag K 14	III_5_0099	Sulz u. (f) (Soultz-Sous-Forêts), Sulz u. Wald	7.88268, 48.93782	grumbär	g r u m b ä r	grmbäre	g r m b ä r e	2
+270	Hag R 2	III_5_0101	Reimersweiler, Reimersweiler	7.88417, 48.9137	grumbere	g r u m b e r e	grumbire	g r u m b i r e	1
+271	Stra p 2/2, Stra p 2/1	III_9_0084	Diersheim, Diersheim	7.8874, 48.64789	grumbier	g r u m b ie r	grombeer	g r o m b ee r	2
+272	Stra w 11	III_10_0055	Willstätt, Willstätt	7.89222, 48.53868	grumbier	g r u m b ie r	grumbeere	g r u m b ee r e	2
+273	Hag C 7	III_4_0090	Kleeburg (Cleebourg), Kleeburg	7.89318, 49.00093	grumbär	g r u m b ä r	grumbeere	g r u m b ee r e	3
+274	Stra p 5	III_9_0082	Linx, Linx	7.89706, 48.62687	grumbier	g r u m b ie r	grumbire	g r u m b i r e	2
+275	Co Y 3	III_16_0115	Hasel, Hasel	7.89786, 47.65393	grumbiire	g r u m b ii r e	grumbiere	g r u m b ie r e	1
+276	Hag K 2	III_5_0087	Bremmelbach, Bremmelbach	7.90023, 48.986	grumbärä	g r u m b ä r ä	grumbeere	g r u m b ee r e	3
+277	Stra p 8	III_9_0081	Zierolshofen, Zierolshofen	7.9036, 48.60838	grumbeͥr	g r u m b e ͥ r	grundbirne	g r u n d b i r n e	6
+278	Hag Y 7	III_7_0102	Rohrwiller, Rohrweiler	7.90543, 48.75592	grůmbeere	g r ů m b ee r e	grumbäre	g r u m b ä r e	3
+279	Stra h 1	III_8_0091	Herlisheim (Herrlisheim), Herlisheim	7.90651, 48.72976	grümbīr	g r ü m b ī r	grümbier	g r ü m b ie r	2
+280	Hag K 12	III_5_0100	Hermersweiler (Hermerswiller), Hermersweiler	7.91205, 48.93588	krumbeere	k r u m b ee r e	krumbeer	k r u m b ee r	1
+281	Hag C 1	III_4_0100	Weißenburg-Weiler, Weissenburg-Weiler	7.91271, 49.0377	grumbeer	g r u m b ee r	grumbäre	g r u m b ä r e	3
+282	Hag C 4	III_4_0091	Rott, Rott	7.91304, 49.02495	grumbeere	g r u m b ee r e	grundbeere	g r u n d b ee r e	2
+283	Stra w 3	III_10_0052	Legelshurst, Legelshurst	7.91306, 48.56803	grumbeere	g r u m b ee r e	grombeere	g r o m b ee r e	1
+284	Hag K 13	III_5_0096	Schönenburg (Schoenenbourg), Schönenburg	7.91332, 48.95207	grumbir	g r u m b i r	grummbir	g r u mm b i r	1
+285	Stra h 2	III_8_0090	Offendorf, Offendorf	7.91375, 48.71167	grümbier	g r ü m b ie r	grumbeere	g r u m b ee r e	3
+286	Hag R 6	III_6_0083	Niederbetschdorf, Niederbetschdorf	7.91693, 48.8985	grumbeeer	g r u m b ee e r	grumbeer	g r u m b ee r	1
+287	Stra p 6	III_9_0083	Holzhausen, Holzhausen	7.92018, 48.62595	grōmbeere	g r ō m b ee r e	grumbeere	g r u m b ee r e	1
+288	Hag R 1, Hag K 11 R 1	III_5_0102	Kühlendorf (Kuhlendorf), Kühlendorf (Kuhlendorf) und Hohweiler, Hohweiler	7.92307, 48.91408	grumbeere	g r u m b ee r e	grumbär	g r u m b ä r	3
+289	Stra p 1	III_9_0085	Rheinbischofsheim, Rheinbischofsheim	7.92904, 48.65493	grombeer	g r o m b ee r	grumbire	g r u m b i r e	4
+290	Stra h 8	III_8_0092	Freistett, Freistett	7.93582, 48.67138	grummbīr	g r u mm b ī r	grumbire	g r u m b i r e	3
+291	Hag K 5	III_5_0097	Hunspach, Hunspach	7.94316, 48.9536	grumbeere	g r u m b ee r e	grümbeer	g r ü m b ee r	2
+292	Hag K 1	III_5_0088	Riedselz (Riedseltz), Riedselz	7.95195, 48.99281	grumbere	g r u m b e r e	krumbeere	k r u m b ee r e	2
+293	Hag C 2	III_4_0094, III_4_0093	Weißenburg (Wissembourg), Weißenburg	7.9521, 49.03733	grumbier	g r u m b ie r	grumbeer	g r u m b ee r	1
+294	Stra h 4	III_8_0095	Helmlingen, Helmlingen	7.9656, 48.70959	grumbir	g r u m b i r	grumbiere	g r u m b ie r e	2
+295	Hag C 3	III_4_0099	Altenstadt, Altenstadt	7.96964, 49.03158	grumbeer	g r u m b ee r	grumbeere	g r u m b ee r e	1
+296	Stra h 3	III_8_0097	Grauelsbaum, Grauelsbaum	7.98186, 48.73575	krumbir	k r u m b i r	grumbeer	g r u m b ee r	3
+297	Stra h 7	III_8_0093	Memprechtshofen, Memprechtshofen	7.98237, 48.68233	grumbeere	g r u m b ee r e	grumbiere	g r u m b ie r e	1
+298	Hag K 6	III_5_0106	Aschbach, Aschbach	7.98262, 48.93423	grumbeeren	g r u m b ee r e n	grumbiere	g r u m b ie r e	2
+299	Stra h 6	III_8_0094	Muckenschopf am Rhein, Muckenschopf	7.98806, 48.69362	grumbire	g r u m b i r e	grumbere	g r u m b e r e	1
+300	Hag Y 9	III_7_0104	Falhünden (Dalhünden), Dallhuenden, Fallhuenden	7.98835, 48.77367	grumbäre	g r u m b ä r e	grumbire	g r u m b i r e	1
+301	Hag K 4	III_5_0098	Oberseebach, Oberseebach	7.98947, 48.9672	krummbeere	k r u mm b e e r e	grumbeere	g r u m b ee r e	2
+302	Hag K 7	III_5_0105	Stundweiler (Stundwiller), Stundweiler	7.99256, 48.92477	grumbere	g r u m b e r e	grumbeer	g r u m b ee r	2
+303	Stra h 5	III_8_0096	Scherzheim, Scherzheim	7.99655, 48.7137	grummber	g r u mm b e r	grumbeere	g r u m b ee r e	3
+304	KST S1	III_7_0124	Stattmatten, Stattmatten	7.9997, 48.79553	krumbeer	k r u m b ee r	grumbeer	g r u m b ee r	1
+305	TÜB a1	III_8_0098	Lichtenau, Lichtenau	8.00691, 48.72636	grumbeer	g r u m b ee r	grommbeere	g r o mm b e e r e	3
+306	KST S9	III_7_0118	Greffern, Greffern	8.00704, 48.7525	grumbeere	g r u m b ee r e	grumbēre	g r u m b ē r e	2
+307	KST S3	III_7_0107	Runzenheim (Rountzenheim), Runzenheim	8.00708, 48.82172	grumbēere	g r u m b ē e r e	grumbeer	g r u m b ee r	2
+308	KST S2	III_7_0108	Auenheim, Auenheim	8.00818, 48.81256	grumbeer	g r u m b ee r	grummbeer	g r u mm b e e r	1
+309	KST D11	III_5_0110, III_5_0112	Trimbach, Trimbach	8.0182, 48.94347	grumbeere	g r u m b ee r e	grumbeer	g r u m b ee r	1
+310	KST L10	III_6_0093, III_6_0092	Forstfeld, Forstfeld	8.03702, 48.859	grumbeer	g r u m b ee r	grombeer	g r o m b ee r	1
+311	KST S4	III_7_0109	Röschwoog (Roeschwoog), Röschwoog	8.04001, 48.83085	grumbeer	g r u m b ee r	grummbere	g r u mm b e r e	3
+312	KST D10	III_5_0125	Siegen (Weissenburg), Siegen	8.04269, 48.9581	grumbēer	g r u m b ē e r	krummbeer	k r u mm b e e r	3
+313	KST D1	III_5_0123	Schleital (Schleithal), Schleithal	8.04688, 48.98799	krumbeere	k r u m b ee r e	grumbeere	g r u m b ee r e	1
+314	KST L8	III_6_0094	Roppenheim, Roppenheim	8.05791, 48.8465	krūmbären	k r ū m b ä r e n	krumbeer	k r u m b ee r	4
+315	KST S6	III_7_0110	Ludwigsfeste (bei Roeschwoog) (Fort-Louis), Fort-Louis, Ludwigsfeste	8.05803, 48.80321	grummbeer	g r u mm b e e r	grumbeer	g r u m b ee r	1
+316	TÜB a14	III_8_0104	Unzhurst, Unzhurst	8.05808, 48.68815	grumbeere	g r u m b ee r e	grumbere	g r u m b e r e	1
+317	TÜB a4	III_8_0103	Hildmannsfeld, Hildmannsfeld	8.05893, 48.73423	krumbeere	k r u m b ee r e	grumbeere	g r u m b ee r e	1
+318	TÜB h5	III_9_0091, III_9_0090	Achern, Achern	8.06363, 48.62871	krummbīre	k r u mm b ī r e	grumbir	g r u m b i r	4
+319	KST D14	III_5_0113	Eberbach-Selz, Eberbach-Selz	8.06718, 48.92481	grum̄bēre	g r u m ̄ b ē r e	krummbiere	k r u mm b ie r e	4
+320	KST L12	III_6_0095	Beinheim (Weissenburg), Beinheim	8.08253, 48.86153	grumbeer	g r u m b ee r	grumbeere	g r u m b ee r e	1
+321	KST S5	III_7_0111	Neuhäusel (Neuhaeusel), Neuhäusel	8.08594, 48.82427	grumbäre	g r u m b ä r e	grumbär	g r u m b ä r	1
+322	KST S10	III_7_0120	Leiberstung, Lieberstung	8.09585, 48.75131	grumbeere	g r u m b ee r e	grummbeer	g r u mm b e e r	2
+323	TÜB a7	III_8_0105	Balzhofen, Balzhofen	8.09765, 48.71247	grumbier	g r u m b ie r	grumbire	g r u m b i r e	2
+324	KST L3	III_6_0088	Schaffhausen (Schaffhouse-près-Selz), Schaffhausen	8.10006, 48.9087	grumbeere	g r u m b ee r e	grůmbeere	g r ů m b ee r e	1
+325	KST D3/1, KST D3/3, KST D3/2	III_5_0121	Niederlauterbach, Niederlauterbach	8.10398, 48.97233	grumbeere	g r u m b ee r e	grumbeer	g r u m b ee r	1
+326	KST S14	III_7_0113	Hügelsheim, Hügelsheim	8.10904, 48.79654	grumbēr	g r u m b ē r	grummbeere	g r u mm b e e r e	4
+327	TÜB a8	III_8_0106	Vimbuch, Vimbuch	8.11501, 48.71676	krumbeere	k r u m b ee r e	krummbeer	k r u mm b e e r	2
+328	TÜB a9	III_8_0099	Weitenung, Weitenung	8.12886, 48.73998	grummbēere	g r u mm b ē e r e	grumbeere	g r u m b ee r e	2
+329	KST D4	III_5_0120, III_5_0119	Scheibenhard, Scheibenhardt, Scheibenhard	8.13481, 48.97663	grumbeer	g r u m b ee r	grumbeere	g r u m b ee r e	1
+330	KST S15	III_7_0112	Iffezheim, Iffezheim	8.14011, 48.82287	grumbier	g r u m b ie r	grumbiere	g r u m b ie r e	1
+331	KST S11	III_7_0122	Halberstung, Halberstung	8.14298, 48.76025	grumbire	g r u m b i r e	krumbire	k r u m b i r e	1
+332	KST D7	III_5_0116, III_5_0115	Münchhausen (Munchhausen), Münchhausen	8.14635, 48.92142	grumbeā	g r u m b e ā	grumbeere	g r u m b ee r e	3
+333	TÜB a10	III_8_0100	Steinbach, Steinbach	8.16038, 48.72843	grumbire	g r u m b i r e	grumbier	g r u m b ie r	2
+334	TÜB b5	III_8_0102, III_8_0101	Eisental, Eisental	8.16417, 48.71189	grumbeere	g r u m b ee r e	grumbiere	g r u m b ie r e	1
+335	KST S12	III_7_0123, III_7_0136	Sinzheim bei Winden, Sinzheim	8.16564, 48.76405	grumbiere	g r u m b ie r e	grumbeere	g r u m b ee r e	1
+336	KST E1	III_5_0127	Lauterburg (Weissenburg) (Lauterbourg), Lauterburg	8.18046, 48.97495	grummbäar	g r u mm b ä a r	grumbeere	g r u m b ee r e	4
+337	TÜB b4	III_8_0110, III_8_0111	Neuweier, Neuweier	8.18377, 48.72012	grumbira	g r u m b i r a	grumbire	g r u m b i r e	1
+338	KST T10	III_7_0125	Sandweier, Sandweier	8.19586, 48.80855	krummbir	k r u mm b i r	krummbier	k r u mm b ie r	1
+339	KST M1	III_6_0097	Steinmauern, Steinmauern	8.19956, 48.90045	grumbern	g r u m b e r n	grumbeer	g r u m b ee r	2
+340	KST M10/1, KST M10/2	III_6_0109	Rastatt, Rastatt	8.20142, 48.8573	grumbier	g r u m b ie r	grumbiere	g r u m b ie r e	1
+341	KST E8	III_5_0129	Illingen, Illingen	8.20923, 48.9349	grumbēre	g r u m b ē r e	grumbere	g r u m b e r e	1
+342	KST E7	III_5_0130	Elchesheim, Elchesheim	8.2136, 48.93047	krumbeere	k r u m b ee r e	krumbeer	k r u m b ee r	1
+343	KST M9	III_6_0108	Niederbühl, Niederbühl	8.21769, 48.84547	grumbere	g r u m b e r e	grumbern	g r u m b e r n	1
+344	KST T9	III_7_0126, III_7_0127	Haueneberstein, Haueneberstein	8.22194, 48.80626	krumber	k r u m b e r	grumbier	g r u m b ie r	2
+345	KST E9	III_5_0131	Au am Rhein, Au am Rhein	8.23933, 48.95136	grumbēr	g r u m b ē r	grumbirn	g r u m b i r n	2
+346	KST T14/3, KST T14/4, KST T14/1	III_7_0131	Baden-Baden-West, Baden-Baden , Baden-Baden, Baden-Baden Weststadt	8.24094, 48.76273	grummbier	g r u mm b ie r	grumbiere	g r u m b ie r e	2
+347	KST M8	III_6_0107	Rauental, Rauental	8.24794, 48.8572	grumbiere	g r u m b ie r e	krumbiere	k r u m b ie r e	1
+348	KST T1	III_7_0128	Kuppenheim, Kuppenheim	8.25452, 48.82818	grumbiere	g r u m b ie r e	grumbier	g r u m b ie r	1
+349	KST E6	III_5_0139	Würmersheim, Würmersheim	8.25452, 48.94056	grumbere	g r u m b e r e	grumber	g r u m b e r	1
+350	TÜB i1	III_9_0104	Herrenwies, Herrenwies	8.26593, 48.65907	krumbir	k r u m b i r	krummbiere	k r u mm b ie r e	3
+351	KST E5	III_5_0133, III_5_0132	Durmersheim, Durmersheim	8.2685, 48.93129	grumbier	g r u m b ie r	grumber	g r u m b e r	1
+352	KST T7	III_7_0132	Ebersteinburg, Ebersteinburg	8.26889, 48.77997	grumbier	g r u m b ie r	krumbiere	k r u m b ie r e	2
+353	TÜB i2	III_9_0105	Forbach-Hundsbach, Forbach-Hundsbach	8.27064, 48.62026	grum̄biere	g r u m ̄ b ie r e	grumbeere	g r u m b ee r e	2
+354	KST M4	III_6_0105, III_6_0104	Muggensturm, Muggenturm	8.2763, 48.87021	grumbīr	g r u m b ī r	grumbir	g r u m b i r	1
+355	KST M7	III_6_0106	Bischweier, Bischweier	8.28478, 48.83768	grumbiere	g r u m b ie r e	grumbire	g r u m b i r e	1
+356	KST E4	III_5_0136, III_5_0137, III_5_0138	Mörsch, Mörsch	8.28883, 48.96003	grumbire	g r u m b i r e	grumbiere	g r u m b ie r e	1
+357	KST T6	III_7_0133	Staufenberg, Staufenberg	8.3082, 48.76673	grumbire	g r u m b i r e	krummbiere	k r u mm b ie r e	3
+358	KST E3	III_5_0135	Forchheim, Forchheim	8.31683, 48.97425	grumbier	g r u m b ie r	grumbiere	g r u m b ie r e	1
+359	KST M5	III_6_0103	Waldprechtsweier, Waldprechtsweier	8.33173, 48.8612	grummbiere	g r u mm b ie r e	grummbere	g r u mm b e r e	1
+360	KST N1	III_6_0101, III_6_0100, III_6_0102	Malsch, Malsch	8.3345, 48.88047	krum̄biere	k r u m ̄ b ie r e	grumbire	g r u m b i r e	3
+361	KST U4	III_7_0134	Gernsbach, Gernsbach	8.33578, 48.76294	grumbiere	g r u m b ie r e	grumbieren	g r u m b ie r e n	1
+362	KST x 1	III_4_0114	Daxlanden, Daxlanden	8.33737, 49.0022	grumbir	g r u m b i r	grumbiere	g r u m b ie r e	2
+363	TÜB c1	III_25_0007	Obertsrot und Hilpertsau, Hilpertsau	8.34633, 48.74303	grumbire	g r u m b i r e	grumbirn	g r u m b i r n	1
+364	TÜB k1	III_26_0001	Raumünzach, Raumänzach	8.34869, 48.63918	grumbīre	g r u m b ī r e	grumbiere	g r u m b ie r e	2
+365	KST U1	III_24_0001	Michelbach, Michelbach	8.35062, 48.8186	grumbire	g r u m b i r e	grumbirn	g r u m b i r n	1
+366	KST N2, KST U6	III_24_0002	Sulzbach, Sulzbach	8.35791, 48.80596	grummbīr	g r u mm b ī r	grumbir	g r u m b i r	2
+367	TÜB c5	III_25_0002	Langenbrand, Langenbrand	8.36334, 48.70441	krumbäre	k r u m b ä r e	krumbarn	k r u m b a r n	2
+368	KST F13	III_22_0002	Bruchhausen bei Ettlingen, Bruchhausen	8.371, 48.92716	grummbier	g r u mm b ie r	grombier	g r o m b ie r	2
+369	KST N3	III_23_0002	Oberweier, Oberweier	8.37866, 48.91717	krumbiere	k r u m b ie r e	krommbiere	k r o mm b ie r e	2
+370	KST y 9, KST y 10	III_21_0001	Neureut, Neureut	8.37902, 49.05267	grumbiere	g r u m b ie r e	grummbiere	g r u mm b ie r e	1
+371	KST F2	III_22_0001	Bulach, Bulach	8.38244, 48.9868	grumbiera	g r u m b ie r a	grombier	g r o m b ie r	2
+372	KST F12	III_22_0003	Ettlingenweier, Ettlingenweier	8.38589, 48.92887	grombira	g r o m b i r a	grumbiere	g r u m b ie r e	3
+373	TÜB c3	III_25_0005	Reichental, Reichental	8.39101, 48.72956	krumbär	k r u m b ä r	grumban	g r u m b a n	3
+374	KST r4	III_20_0006	Leopoldshafen, Leopoldshafen	8.3923, 49.09933	grumbier	g r u m b ie r	grumbir	g r u m b i r	1
+375	KST N4	III_23_0007	Schluttenbach, Schluttenbach	8.40022, 48.89885	grumbiere	g r u m b ie r e	grummbiere	g r u mm b ie r e	1
+376	KST F3	III_21_0003	Karlsruhe-Rüppurr, Karlsruhe-Rüppurr	8.406, 48.97394	grombier	g r o m b ie r	grumbiere	g r u m b ie r e	2
+377	KST r3	III_20_0005	Linkenheim, Linkenheim	8.40844, 49.12418	krůmmbiere	k r ů mm b ie r e	grumbiere	g r u m b ie r e	3
+378	KST k1	III_19_0003	Rheinsheim, Rheinsheim	8.40954, 49.23272	grummbēr	g r u mm b ē r	grumbier	g r u m b ie r	3
+379	KST r1	III_20_0002	Liedolsheim, Liedolsheim	8.41451, 49.16221	grumbia	g r u m b i a	grumbier	g r u m b ie r	2
+380	KST r2	III_20_0003, III_20_0004	Hochstetten, Hochstetten	8.41566, 49.13702	grumbier	g r u m b ie r	grumbiere	g r u m b ie r e	1
+381	KST N7	III_23_0004, III_23_0003	Etzenrot, Etzenrot	8.46465, 48.90968	grumbier	g r u m b ie r	grumbiere	g r u m b ie r e	1
+382	Ma h1/2	II_59_0053, II_59_0054, II_59_0040, II_59_0048, II_59_0050, II_59_0049, II_59_0052, II_59_0047, II_59_0051, II_59_0056, II_59_0060, II_59_0042, II_59_0039	Mannheim, Mannheim	8.46678, 49.4865	grumbeere	g r u m b ee r e	krummbiere	k r u mm b ie r e	3
+383	KST k3	III_19_0008	Huttenheim, Huttenheim	8.46955, 49.1967	grumbier	g r u m b ie r	grumbiere	g r u m b ie r e	1
+384	KST F6	III_21_0008	Karlsruhe-Durlach, Durlach	8.4704, 48.99897	grummbier	g r u mm b ie r	grumbir	g r u m b i r	2
+385	KST N8	III_23_0011	Spielberg, Spielberg	8.47045, 48.89758	grumbiere	g r u m b ie r e	grumbier	g r u m b ie r	1
+386	KST y1	III_21_0006	Blankenloch, Blankenloch	8.47137, 49.06482	grumbier	g r u m b ie r	krumbire	k r u m b i r e	3
+387	KST c1	III_18_0010	Rheinhausen, Rheinhausen	8.47341, 49.28141	gru̠mbīr	g r u ̠ m b ī r	krum̄bire	k r u m ̄ b i r e	5
+388	KST F11	III_22_0009	Reichenbach bei Ettlingen, Reichenbach	8.47546, 48.92348	grumbīre	g r u m b ī r e	grummbir	g r u mm b i r	3
+389	KST r5	III_20_0009	Friedrichstal, Friedrichstal	8.48091, 49.10481	grumbeere	g r u m b ee r e	grumbeer	g r u m b ee r	1
+390	KST F9	III_22_0008	Palmbach, Palmbach	8.48266, 48.94683	grummbīr	g r u mm b ī r	grombiera	g r o m b ie r a	5
+391	KST c2	III_18_0014, III_18_0013, III_18_0011, III_18_0012	Oberhausen, Oberhausen	8.48324, 49.26035	grumbire	g r u m b i r e	grumbira	g r u m b i r a	1
+392	KST r6	III_20_0010	Graben, Graben	8.48928, 49.16535	grumbier	g r u m b ie r	grumbiere	g r u m b ie r e	1
+393	KST y 4	III_21_0021	Grötzingen, Grötzingen	8.49556, 49.00711	grummbir	g r u mm b i r	grumbir	g r u m b i r	1
+394	KST l9	III_19_0011, III_19_0012, III_19_0009, III_19_0010	Neudorf, Neudorf	8.49692, 49.17524	grumbiere	g r u m b ie r e	grumbir	g r u m b i r	2
+395	KST O8	III_23_0008, III_23_0009, III_23_0010	Langenalb, Langenalb	8.50104, 48.84402	grumbier	g r u m b ie r	grumbira	g r u m b i r a	2
+396	KST O1	III_22_0014	Langensteinbach, Langensteinbach	8.50638, 48.915	grummbīr	g r u mm b ī r	grumbire	g r u m b i r e	3
+397	KST G7	III_22_0145	Stupferich, Stupferich	8.51098, 48.95396	grumbier	g r u m b ie r	grumbiere	g r u m b ie r e	1
+398	KST d8	III_18_0016	Waghäusel, Waghäusel	8.51733, 49.25118	grummbier	g r u mm b ie r	grummbir	g r u mm b i r	1
+399	KST l1	III_19_0013	Wiesental, Wiesental	8.51962, 49.22472	krumbire	k r u m b i r e	grumbier	g r u m b ie r	3
+400	KST s4	III_20_0011	Neuthard, Neuthard	8.52086, 49.1278	grumbier	g r u m b ie r	grumbiera	g r u m b ie r a	1
+401	KST s6	III_20_0162	Büchenau, Büchenau	8.52764, 49.10075	grumbir	g r u m b i r	grumbiră	g r u m b i r ă	1
+402	KST z8	III_21_0012, III_21_0011, III_21_0013, III_21_0010, III_21_0009	Weingarten, Weingarten	8.53114, 49.0533	grumbiere	g r u m b ie r e	grumbier	g r u m b ie r	1
+403	KST O2	III_23_0014	Auerbach, Auerbach	8.53163, 48.91379	krombire	k r o m b i r e	krombir	k r o m b i r	1
+404	KST G6	III_22_0015	Mutschelbach, Mutschelbach	8.53428, 48.94409	grommbīr	g r o mm b ī r	krommbiere	k r o mm b ie r e	4
+405	KST s3	III_20_0016	Karlsdorf, Karlsdorf	8.54164, 49.1363	grumbire	g r u m b i r e	grumbäre	g r u m b ä r e	1
+406	KST G1	III_22_0010, III_22_0013, III_22_0011	Söllingen, Söllingen	8.5425, 48.98622	grumbiere	g r u m b ie r e	grumbier	g r u m b ie r	1
+407	KST O6	III_23_0016	Weiler Kr. Pforzheim, Weiler	8.54326, 48.8837	grumbiere	g r u m b ie r e	grumbeere	g r u m b ee r e	1
+408	KST l8	III_19_0021	Hambrücken, Hambrücken	8.54514, 49.18532	grumbier	g r u m b ie r	grumbire	g r u m b i r e	2
+409	KST s8	III_20_0022, III_20_0021, III_20_0023	Untergrombach, Untergrombach	8.55318, 49.0861	grumbiere	g r u m b ie r e	grumbiern	g r u m b ie r n	1
+410	KST z5	III_21_0017	Wöschbach, Wöschbach	8.56737, 48.99948	krum̄biere	k r u m ̄ b ie r e	krummbiere	k r u mm b ie r e	1
+411	KST G3	III_22_0016	Singen bei Pforzheim, Singen	8.56804, 48.95764	grummbiere̊	g r u mm b ie r e ̊	grombīere̊	g r o m b ī e r e ̊	3
+412	KST G4	III_22_0017	Wilferdingen, Wilferdingen	8.57281, 48.9487	krumbiere	k r u m b ie r e	grumbiere	g r u m b ie r e	1
+413	KST z 1	III_21_0016	Obergrombach, Obergrombach	8.58542, 49.07709	grumbier	g r u m b ie r	grumbiere	g r u m b ie r e	1
+414	KST s2, KST s11	III_20_0019, III_20_0020, III_20_0018	Bruchsal , Bruchsal (Forstamt), Bruchsal	8.60102, 49.12377	grumbier	g r u m b ie r	grummbier	g r u mm b ie r	1
+415	KST d7	III_18_0019	Sankt Leon, Sankt Leon	8.6025, 49.26526	grumbier	g r u m b ie r	krumbirne	k r u m b i r n e	4
+416	KST z4	III_21_0018	Wössingen, Wössingen	8.61142, 49.01017	grumbir	g r u m b i r	grumbier	g r u m b ie r	1
+417	KST G8	III_22_0024, III_22_0018, III_22_0020, III_22_0021, III_22_0019	Königsbach, Stein, Königsbach	8.61207, 48.96515	gråmbia	g r å m b i a	krummbiere	k r u mm b ie r e	6
+418	KST G10	III_22_0022	Bilfingen, Bilfingen	8.61996, 48.95027	krummbiere	k r u mm b ie r e	krumbier	k r u m b ie r	2
+419	KST l7	III_19_0015	Weiher, Weiher	8.62179, 49.17863	grumbirer	g r u m b i r e r	grumbier	g r u m b ie r	1
+420	KST d6	III_18_0021	Rot, Rot	8.63137, 49.26348	grumbier	g r u m b ie r	grummbiere	g r u mm b ie r e	2
+421	KST s1	III_20_0024	Ubstadt, Ubstadt	8.6322, 49.16181	grum̄bīre	g r u m ̄ b ī r e	grumbire	g r u m b i r e	2
+422	KST l3	III_19_0014	Kronau, Kronau	8.63449, 49.21954	grumbīere	g r u m b ī e r e	krummbiere	k r u mm b ie r e	3
+423	KST G11	III_22_0023	Ersingen, Ersingen	8.63492, 48.93324	grum̄bire	g r u m ̄ b i r e	grumbiere	g r u m b ie r e	2
+424	KST l6	III_19_0016	Stettfeld, Stettfeld	8.64516, 49.18353	grumbiere	g r u m b ie r e	grumbiir	g r u m b ii r	2
+425	KST s10	III_20_0026	Heidelsheim, Heidelsheim	8.64542, 49.10114	grumbierä	g r u m b ie r ä	grumbiere	g r u m b ie r e	1
+426	KST z3	III_21_0019	Dürrenbüchig, Dürrenbüchig	8.64747, 49.0227	grumbier	g r u m b ie r	grumbīr	g r u m b ī r	2
+427	KST l4	III_19_0018, III_19_0017, III_19_0020, III_19_0019	Mingolsheim, Mingolsheim	8.65316, 49.21986	grumbier	g r u m b ie r	grumbiere	g r u m b ie r e	1
+428	KST O9	III_23_0028	Büchenbronn, Büchenbronn	8.66335, 48.85558	grumbier	g r u m b ie r	grummbier	g r u mm b ie r	1
+429	KST P1	III_22_0027, III_22_0026	Ispringen , Ispringen	8.66764, 48.91655	krombīre	k r o m b ī r e	krumbire	k r u m b i r e	2
+430	KST P2	III_23_0032, III_23_0029, III_23_0030, III_23_0031	Brötzingen, Pforzheim-Brötzingen	8.66799, 48.889	grom̄bier	g r o m ̄ b ie r	grombier	g r o m b ie r	1
+431	KST H4	III_22_0025	Eisingen, Eisingen	8.66865, 48.94773	grumbierä	g r u m b ie r ä	grumbiere	g r u m b ie r e	1
+432	KST A6	III_21_0023	Diedelsheim, Diedelsheim	8.67848, 49.04109	grumbiere	g r u m b ie r e	krumbiere	k r u m b ie r e	1
+433	KST e10	III_18_0024	Malschenberg, Malschenberg	8.67996, 49.25599	grumbiare	g r u m b i a r e	grumbiere	g r u m b ie r e	1
+434	KST A7	III_21_0024	Rinklingen , Rinklingen	8.6832, 49.03485	krumbieră	k r u m b ie r ă	grummbiere	g r u mm b ie r e	3
+435	KST A3	III_21_0022	Neibsheim (bei Bruchsal), Neibsheim	8.68509, 49.07104	grumbire	g r u m b i r e	krummbiere	k r u mm b ie r e	3
+436	KST H1	III_22_0028	Nussbaum, Nussbaum	8.69353, 48.98977	grumbīre	g r u m b ī r e	grumbiere	g r u m b ie r e	2
+437	KST P7	III_23_0057	Huchenfeld, Huchenfeld	8.69574, 48.85613	grombier	g r o m b ie r	grombir	g r o m b i r	1
+438	KST m2	III_19_0023	Rettigheim, Rettigheim	8.6981, 49.24111	grummbiere	g r u mm b ie r e	krummbiere	k r u mm b ie r e	1
+439	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	grombīr	g r o m b ī r	grummbier	g r u mm b ie r	4
+440	KST e9	III_18_0025	Rauenberg, Rauenberg	8.70096, 49.27036	grumbiere	g r u m b ie r e	grumbier	g r u m b ie r	1
+441	KST H3	III_22_0029	Göbrichen, Göbrichen	8.70848, 48.95808	grummbiren	g r u mm b i r e n	krumpiere	k r u m p ie r e	5
+442	KST A2	III_21_0031	Büchig (bei Bretten), Büchig	8.70984, 49.0742	grumbire	g r u m b i r e	krummbir	k r u mm b i r	3
+443	KST m11	III_19_0025, III_19_0024, III_19_0026	Östringen, Östringen	8.7137, 49.22037	grumbiere	g r u m b ie r e	krummbier	k r u mm b ie r	3
+444	KST H2	III_22_0032, III_22_0031	Bauschlott, Bauschlott	8.72785, 48.97051	grummbiére	g r u mm b i é r e	grummbiere	g r u mm b ie r e	1
+445	KST e8	III_18_0028	Dielheim, Dielheim	8.7354, 49.28257	grumbīr	g r u m b ī r	grummbier	g r u mm b ie r	3
+446	KST P8	III_23_0058	Würm, Würm	8.73641, 48.86041	krombiere	k r o m b ie r e	grombier	g r o m b ie r	2
+447	TÜB m1	III_26_0039	Wildberg Kreis Calw, Wildberg	8.73924, 48.62251	grumbier	g r u m b ie r	grommbiir	g r o mm b i i r	3
+448	KST W1	III_24_0023	Schellbronn, Schellbronn	8.74222, 48.81738	krumbier	k r u m b ie r	grumbier	g r u m b ie r	1
+449	KST t6	III_20_0032	Gochsheim, Gochsheim	8.74551, 49.10407	grumbiere	g r u m b ie r e	grumbiera	g r u m b ie r a	1
+450	KST H6	III_22_0035	Kieselbronn, Kieselbronn	8.75287, 48.93453	grombirä	g r o m b i r ä	grommbiere	g r o mm b ie r e	3
+451	KST H5	III_22_0034	Dürrn, Dürrn	8.75615, 48.95653	krummbire	k r u mm b i r e	grombire	g r o m b i r e	3
+452	KST e12	III_18_0029	Tairnbach, Tairnbach	8.75625, 49.26367	grumbire	g r u m b i r e	krumbiere	k r u m b ie r e	2
+453	KST t7	III_20_0036, III_20_0037, III_20_0038, III_20_0039, III_20_0035	Flehingen , Flehingen	8.78694, 49.0869	grumbiere	g r u m b ie r e	grum̄biere	g r u m ̄ b ie r e	1
+454	KST W4	III_24_0025	Steinegg, Steinegg	8.79091, 48.81349	grombier	g r o m b ie r	krombiere	k r o m b ie r e	2
+455	KST W3	III_24_0026	Tiefenbronn, Tiefenbronn	8.80329, 48.82521	krummbiere	k r u mm b ie r e	grummbier	g r u mm b ie r	2
+456	KST m6	III_19_0033	Waldangelloch, Waldangelloch	8.80551, 49.21046	grumbīra	g r u m b ī r a	grumbira	g r u m b i r a	1
+457	KST m7	III_19_0036	Eichelberg, Eichelberg	8.813, 49.1891	grummbiere	g r u mm b ie r e	krummbir	k r u mm b i r	3
+458	KST P5	III_23_0035	Öschelbronn, Öschelbronn	8.81415, 48.90599	grombīre	g r o m b ī r e	grumbier	g r u m b ie r	4
+459	KST W6	III_24_0035	Lehningen, Lehningen	8.81639, 48.79486	grombire	g r o m b i r e	krombiere	k r o m b ie r e	2
+460	KST W5	III_24_0036	Mühlhausen , Mühlhausen	8.82201, 48.80607	grumbir	g r u m b i r	grombiere	g r o m b ie r e	3
+461	KST f9	III_18_0045	Hoffenheim, Hoffenheim	8.8417, 49.27088	grumbiere	g r u m b ie r e	krumbirne	k r u m b i r n e	3
+462	KST n12	III_19_0038, III_19_0039, III_19_0040	Hilsbach, Hilsbach	8.86227, 49.1957	grummbire	g r u mm b i r e	krummbiere	k r u mm b ie r e	2
+463	TÜB f1	III_25_0047	Döffingen, Döffingen	8.91383, 48.7106	grum̄bier	g r u m ̄ b ie r	krumbir	k r u m b i r	3
+464	MH o8/2, MH o8/1	II_89_0005	Ebenheid, Ebenheid	9.36095, 49.7158	grumbirn	g r u m b i r n	grumbera	g r u m b e r a	2
+465	MH o1	II_89_0016	Rauenberg, Rauenberg	9.38407, 49.74117	grumbern	g r u m b e r n	krumbǟrn	k r u m b ǟ r n	2
+466	MH o2	II_89_0006	Wessental, Wessental	9.41215, 49.73004	krumbirn	k r u m b i r n	krummbirne	k r u mm b i r n e	2
+467	MH f1	II_88_0007	Mondfeld, Krs. Tauberbischofsheim, Mondfeld	9.41656, 49.7837	grummbirn	g r u mm b i r n	krummbirn	k r u mm b i r n	1
+468	MH w2	II_90_0006	Dornberg, Dornberg	9.42843, 49.62542	grumbern	g r u m b e r n	grumbere	g r u m b e r e	1
+469	MH p4	II_89_0013	Dörlesberg, Dörlesberg	9.501, 49.71273	krumbern	k r u m b e r n	grumbirnen	g r u m b i r n e n	4
+470	MH p5	II_89_0024	Külsheim, Külsheim	9.5236, 49.66947	krumbere	k r u m b e r e	grummbiere	g r u mm b ie r e	3
+471	MH F1	II_91_0008	Pülfringen, Pülfringen	9.52624, 49.58149	krumbeern	k r u m b ee r n	krummbiern	k r u mm b ie r n	2
+472	MH p2	II_89_0022	Reicholzheim, Reicholzheim	9.53393, 49.72663	krumbern	k r u m b e r n	grumbirne	g r u m b i r n e	3
+473	MH x1	II_90_0010	Eiersheim, Eiersheim	9.58787, 49.65953	grumbēre	g r u m b ē r e	grumbiere	g r u m b ie r e	2
+474	MH p8	II_89_0026	Gamburg, Gamburg	9.59986, 49.69382	grumbiere	g r u m b ie r e	krumbiere	k r u m b ie r e	1
+475	MH p12	II_89_0020	Dietenhan, Dietenhan	9.6066, 49.74297	grummbīre	g r u mm b ī r e	grummbiera	g r u mm b ie r a	3
+476	MH p11a/2, MH p11a/1	II_89_0021	Kembach, Kembach	9.62461, 49.74217	krummbiere	k r u mm b ie r e	grummbiera	g r u mm b ie r a	2
+477	MH x2	II_90_0020, II_90_0018, II_90_0019, II_90_0017	Hochhausen, Hochhausen	9.63526, 49.6621	grummbiere	g r u mm b ie r e	grumbiere	g r u m b ie r e	1
+478	MH p7	II_89_0031, II_89_0030, II_89_0032	Werbach, Werbach	9.63871, 49.67029	grumbire	g r u m b i r e	krumbire	k r u m b i r e	1
+479	MH q3	II_89_0035	Werbachhausen, Werbachhausen	9.67954, 49.67946	grumbiere	g r u m b ie r e	krummbiere	k r u mm b ie r e	2
+480	STU k1	III_24_0105	Wäschenbeuren, Wäschenbeuren	9.68695, 48.75984	grombira	g r o m b i r a	grombirê	g r o m b i r ê	1
+481	MH q2	II_89_0034	Wenkheim, Wenkheim	9.70149, 49.70022	krumbire	k r u m b i r e	krumbiere	k r u m b ie r e	1
+482	MH G2	II_91_0017	Lauda, Lauda	9.70203, 49.5702	krummbire	k r u mm b i r e	krummbiere	k r u mm b ie r e	1
+483	MH y2	II_90_0025	Paimar, Paimar	9.75368, 49.6402	krumbiere	k r u m b ie r e	grumbiere	g r u m b ie r e	1
+484	MH G5	II_91_0027	Kützbrunn, Kützbrunn	9.76136, 49.58159	grumbīre	g r u m b ī r e	grumbiere	g r u m b ie r e	2
+485	MH y8	II_90_0026	Krensheim, Krensheim	9.78002, 49.63781	krumbïera	k r u m b ï e r a	krummbira	k r u mm b i r a	3
+486	MH G6	II_91_0028, II_91_0029	Messelhausen, Messelhausen	9.7887, 49.5756	grumbire	g r u m b i r e	krummbiere	k r u mm b ie r e	3
+487	MH q5	II_89_0041	Schönfeld, Schönfeld	9.80069, 49.67702	grumbire	g r u m b i r e	grumbiera	g r u m b ie r a	2
+488	MH y7	II_90_0131	Vilchband, Vilchband	9.82424, 49.58989	grummbiere	g r u mm b ie r e	krummbiera	k r u mm b ie r a	2
+489	MH y9	II_90_0027	Poppenhausen, Poppenhausen	9.82622, 49.63065	grumbira	g r u m b i r a	krumbira	k r u m b i r a	1
+490	MH ya2	II_90_0028	Unterwittighausen, Unterwittighausen	9.83878, 49.61344	grumbira	g r u m b i r a	krumbira	k r u m b i r a	1
+491	MH ya1/2, MH ya1/1	II_90_0030	Oberwittighausen, Oberwittighausen	9.85164, 49.62585	grummbiara	g r u mm b i a r a	krummbiara	k r u mm b i a r a	1
+492	Hag E 8	III_5_0026	Schopperten, Schopperten	7.05316, 48.94524	grumbeer	g r u m b ee r	grundbirne	g r u n d b i r n e	6
+493	Hag E 8	III_5_0026	Schopperten, Schopperten	7.05316, 48.94524	grumbeer	g r u m b ee r	grumbeere	g r u m b ee r e	1
+494	Hag M 11/2, Hag M 11/1	III_6_0003	Wolfskirchen, Wolfskirchen	7.07612, 48.87884	krummbeer	k r u mm b e e r	grumbeer	g r u m b ee r	2
+495	Hag E 6/1, Hag E 6/2	III_5_0028, III_5_0029	Saarbuckenheim (Sarre-Union), Saarbuckenheim	7.08686, 48.93919	grůmbiͤr	g r ů m b i ͤ r	grumbeer	g r u m b ee r	3
+496	Hag E 6/1, Hag E 6/2	III_5_0028, III_5_0029	Saarbuckenheim (Sarre-Union), Saarbuckenheim	7.08686, 48.93919	grůmbiͤr	g r ů m b i ͤ r	grumbier	g r u m b ie r	2
+497	Hag E 6/1, Hag E 6/2	III_5_0028, III_5_0029	Saarbuckenheim (Sarre-Union), Saarbuckenheim	7.08686, 48.93919	grumbeer	g r u m b ee r	grumbier	g r u m b ie r	1
+498	Hag V 9	III_7_0045, III_7_0046	St. Johann (Saint-Jean-Saverne), St. Johann	7.36064, 48.76931	grumbeere	g r u m b ee r e	grumbeer	g r u m b ee r	1
+499	Stra e 2/3, Stra e 2/1, Stra e 2/2	III_8_0029, III_8_0030	Zabern, Zabern	7.36605, 48.73948	grumber	g r u m b e r	grundbirne	g r u n d b i r n e	5
+500	Stra e 2/3, Stra e 2/1, Stra e 2/2	III_8_0029, III_8_0030	Zabern, Zabern	7.36605, 48.73948	grumber	g r u m b e r	grumbeere	g r u m b ee r e	2
+501	Stra e 2/3, Stra e 2/1, Stra e 2/2	III_8_0029, III_8_0030	Zabern, Zabern	7.36605, 48.73948	grumbeer	g r u m b ee r	grundbirne	g r u n d b i r n e	6
+502	Stra e 2/3, Stra e 2/1, Stra e 2/2	III_8_0029, III_8_0030	Zabern, Zabern	7.36605, 48.73948	grumbeer	g r u m b ee r	grumbeere	g r u m b ee r e	1
+503	Hag O 12	III_6_0040	Weitersweiler (Weiterswiller), Weitersweiler	7.41341, 48.85298	grumbeer	g r u m b ee r	grombeer	g r o m b ee r	1
+504	Hag O 12	III_6_0040	Weitersweiler (Weiterswiller), Weitersweiler	7.41341, 48.85298	grumbeere	g r u m b ee r e	grombeer	g r o m b ee r	2
+505	Hag O 6	III_6_0047, III_6_0046	Weinburg (Weinbourg), Weinburg	7.44029, 48.87157	grůmmbeer	g r ů mm b e e r	grumbeer	g r u m b ee r	2
+506	Hag O 6	III_6_0047, III_6_0046	Weinburg (Weinbourg), Weinburg	7.44029, 48.87157	grůmmbeer	g r ů mm b e e r	grumbier	g r u m b ie r	3
+507	Stra e 7/2, Stra e 7/1	III_8_0033	Lupstein, Lupstein	7.48491, 48.73763	grumbiere	g r u m b ie r e	grundbeere	g r u n d b ee r e	3
+508	Stra e 7/2, Stra e 7/1	III_8_0033	Lupstein, Lupstein	7.48491, 48.73763	grumbäre	g r u m b ä r e	grundbeere	g r u n d b ee r e	4
+509	Hag W 13	III_7_0057	Bosselshausen, Bosselshausen	7.50884, 48.80522	grumbēre	g r u m b ē r e	groͧmbeer	g r o ͧ m b ee r	5
+510	Hag W 13	III_7_0057	Bosselshausen, Bosselshausen	7.50884, 48.80522	grumbēre	g r u m b ē r e	groͧmbeere	g r o ͧ m b ee r e	4
+511	Stra f 15	III_8_0059, III_8_0058	Sässolsheim, Sässolsheim	7.51503, 48.70869	grumbeere	g r u m b ee r e	krumbeere	k r u m b ee r e	1
+512	Stra f 15	III_8_0059, III_8_0058	Sässolsheim, Sässolsheim	7.51503, 48.70869	grumbeere	g r u m b ee r e	grumbeer	g r u m b ee r	1
+513	Hag W 16/1, Hag W 16/2	III_7_0077	Melsheim, Melsheim	7.51974, 48.75911	grumbeer	g r u m b ee r	grumbeere	g r u m b ee r e	1
+514	Hag W 12/2, Hag W 12/1	III_7_0135	Zöbersdorf, Zöbersdorf	7.52538, 48.79381	grumbēr	g r u m b ē r	grumbeer	g r u m b ee r	2
+515	Hag W 11	III_7_0064, III_7_0065	Lixhausen, Lixhausen	7.5473, 48.79426	grumbiere	g r u m b ie r e	grumbier	g r u m b ie r	1
+516	Co W 3, Co W 2	III_16_0068, III_16_0069	Kirchen (Efringen-Kirchen), Efringen (Efringen-Kirchen), Kirchen, Efringen	7.56471, 47.64989	grumbire	g r u m b i r e	grumbiire	g r u m b ii r e	1
+517	Co W 3, Co W 2	III_16_0068, III_16_0069	Kirchen (Efringen-Kirchen), Efringen (Efringen-Kirchen), Kirchen, Efringen	7.56471, 47.64989	grumbire	g r u m b i r e	krummbiere	k r u mm b ie r e	3
+518	Co W 3, Co W 2	III_16_0068, III_16_0069	Kirchen (Efringen-Kirchen), Efringen (Efringen-Kirchen), Kirchen, Efringen	7.56471, 47.64989	grumbier	g r u m b ie r	grumbiire	g r u m b ii r e	2
+519	Co W 3, Co W 2	III_16_0068, III_16_0069	Kirchen (Efringen-Kirchen), Efringen (Efringen-Kirchen), Kirchen, Efringen	7.56471, 47.64989	grumbier	g r u m b ie r	krummbiere	k r u mm b ie r e	3
+520	Co W 12	III_16_0071, III_16_0070	Märkt, Märkt	7.58103, 47.627	chrumbiere	ch r u m b ie r e	grumbire	g r u m b i r e	3
+521	Co W 12	III_16_0071, III_16_0070	Märkt, Märkt	7.58103, 47.627	chrumbiere	ch r u m b ie r e	grumbiere	g r u m b ie r e	2
+522	Hag P 14, Hag P 19	III_6_0066	Pfaffenhofen -Volksberg, Pfaffenhofen, Pfaffenhofen	7.60881, 48.84422	grůmbeer	g r ů m b ee r	grŭmbär	g r ŭ m b ä r	3
+523	Hag P 14, Hag P 19	III_6_0066	Pfaffenhofen -Volksberg, Pfaffenhofen, Pfaffenhofen	7.60881, 48.84422	grumbeere	g r u m b ee r e	grŭmbär	g r ŭ m b ä r	4
+524	Co W 22	III_16_0089, III_16_0090	Haltingen, Haltingen	7.61378, 47.61384	grum̄biere	g r u m ̄ b ie r e	grumbire	g r u m b i r e	2
+525	Co W 22	III_16_0089, III_16_0090	Haltingen, Haltingen	7.61378, 47.61384	grum̄biere	g r u m ̄ b ie r e	grumbiere	g r u m b ie r e	1
+526	Stra n 8	III_9_0033, III_9_0032	Offenheim, Stutzheim-Offenheim, Offenheim	7.61838, 48.63195	grumbeere	g r u m b ee r e	krumbeere	k r u m b ee r e	1
+527	Co W 10	III_16_0072, III_16_0073	Binzen, Binzen, Märkt	7.62403, 47.63133	grumbēr	g r u m b ē r	grumbeera	g r u m b ee r a	3
+528	Co W 10	III_16_0072, III_16_0073	Binzen, Binzen, Märkt	7.62403, 47.63133	grumbēr	g r u m b ē r	grumbire	g r u m b i r e	2
+529	Co W 10	III_16_0072, III_16_0073	Binzen, Binzen, Märkt	7.62403, 47.63133	grumbēr	g r u m b ē r	grumbiira	g r u m b ii r a	3
+530	Co W 10	III_16_0072, III_16_0073	Binzen, Binzen, Märkt	7.62403, 47.63133	grumbēra	g r u m b ē r a	grumbeera	g r u m b ee r a	2
+531	Co W 10	III_16_0072, III_16_0073	Binzen, Binzen, Märkt	7.62403, 47.63133	grumbēra	g r u m b ē r a	grumbire	g r u m b i r e	2
+532	Co W 10	III_16_0072, III_16_0073	Binzen, Binzen, Märkt	7.62403, 47.63133	grumbēra	g r u m b ē r a	grumbiira	g r u m b ii r a	2
+533	Hag H 2/3, Hag H 2/1, Hag H 2/2	III_5_0066, III_5_0067	Niederbronn (GID von Niederbronn les bains), Bad-Niederbronn (Niederbronn-Les-Bains), Bad-Niederbronn	7.64282, 48.95108	grumbeere	g r u m b ee r e	krummbere	k r u mm b e r e	3
+534	Hag H 2/3, Hag H 2/1, Hag H 2/2	III_5_0066, III_5_0067	Niederbronn (GID von Niederbronn les bains), Bad-Niederbronn (Niederbronn-Les-Bains), Bad-Niederbronn	7.64282, 48.95108	grumbeere	g r u m b ee r e	grumbeer	g r u m b ee r	1
+535	Hag H 2/3, Hag H 2/1, Hag H 2/2	III_5_0066, III_5_0067	Niederbronn (GID von Niederbronn les bains), Bad-Niederbronn (Niederbronn-Les-Bains), Bad-Niederbronn	7.64282, 48.95108	krummbea	k r u mm b e a	krummbere	k r u mm b e r e	2
+536	Hag H 2/3, Hag H 2/1, Hag H 2/2	III_5_0066, III_5_0067	Niederbronn (GID von Niederbronn les bains), Bad-Niederbronn (Niederbronn-Les-Bains), Bad-Niederbronn	7.64282, 48.95108	krummbea	k r u mm b e a	grumbeer	g r u m b ee r	4
+537	Hag H 2/3, Hag H 2/1, Hag H 2/2	III_5_0066, III_5_0067	Niederbronn (GID von Niederbronn les bains), Bad-Niederbronn (Niederbronn-Les-Bains), Bad-Niederbronn	7.64282, 48.95108	grumbǟre	g r u m b ǟ r e	krummbere	k r u mm b e r e	3
+538	Hag H 2/3, Hag H 2/1, Hag H 2/2	III_5_0066, III_5_0067	Niederbronn (GID von Niederbronn les bains), Bad-Niederbronn (Niederbronn-Les-Bains), Bad-Niederbronn	7.64282, 48.95108	grumbǟre	g r u m b ǟ r e	grumbeer	g r u m b ee r	3
+539	Co W 21	III_16_0078	Tumringen, Tumringen	7.65564, 47.62739	grumbire	g r u m b i r e	grumbirä	g r u m b i r ä	1
+540	Co W 21	III_16_0078	Tumringen, Tumringen	7.65564, 47.62739	grumbire	g r u m b i r e	grumbira	g r u m b i r a	1
+541	Stra f 13	III_8_0070, III_8_0069	Berstett, Berstett	7.65758, 48.67898	grumbeere	g r u m b ee r e	grumber	g r u m b e r	2
+542	Stra f 13	III_8_0070, III_8_0069	Berstett, Berstett	7.65758, 48.67898	grumbeere	g r u m b ee r e	grumbeer	g r u m b ee r	1
+543	Hag H 3	III_5_0064, III_5_0065	Reichshofen (Reichshoffen), Reichshofen, Reichshofen-Werk	7.66338, 48.93223	grumbeera	g r u m b ee r a	grumbäre	g r u m b ä r e	3
+544	Hag H 3	III_5_0064, III_5_0065	Reichshofen (Reichshoffen), Reichshofen, Reichshofen-Werk	7.66338, 48.93223	grumbeera	g r u m b ee r a	krumbeer	k r u m b ee r	2
+545	Co W 19 , Co W 20	III_16_0081, III_16_0080, III_16_0082	Lörrach, Lörrach , Lörrach	7.66409, 47.61258	grumbire	g r u m b i r e	grumbirě	g r u m b i r ě	1
+546	Co W 19 , Co W 20	III_16_0081, III_16_0080, III_16_0082	Lörrach, Lörrach , Lörrach	7.66409, 47.61258	krumbire	k r u m b i r e	grumbire	g r u m b i r e	1
+547	Co W 19 , Co W 20	III_16_0081, III_16_0080, III_16_0082	Lörrach, Lörrach , Lörrach	7.66409, 47.61258	krumbire	k r u m b i r e	grumbirě	g r u m b i r ě	2
+548	Stra g 8	III_8_0081, III_8_0080	Olwisheim, Olwisheim	7.67511, 48.69681	grümbeere	g r ü m b ee r e	grumbeer	g r u m b ee r	2
+549	Stra g 8	III_8_0081, III_8_0080	Olwisheim, Olwisheim	7.67511, 48.69681	grümbeere	g r ü m b ee r e	grumbeere	g r u m b ee r e	1
+550	Co X 4	III_16_0091, III_16_0092	Haagen, Haagen	7.67898, 47.63703	grumbiere	g r u m b ie r e	grumbire	g r u m b i r e	1
+551	Co X 4	III_16_0091, III_16_0092	Haagen, Haagen	7.67898, 47.63703	grumbiere	g r u m b ie r e	krumbire	k r u m b i r e	2
+552	Co X 6	III_16_0094, III_16_0095	Brombach (/Maulburg, aber gestrichen), Brombach	7.69236, 47.63395	grumbīre	g r u m b ī r e	grumbire	g r u m b i r e	1
+553	Co X 6	III_16_0094, III_16_0095	Brombach (/Maulburg, aber gestrichen), Brombach	7.69236, 47.63395	grumbīre	g r u m b ī r e	grumbiire	g r u m b ii r e	2
+554	Co J7, Co Q1	III_14_0147, III_15_0061	Malsburg, Malsburg	7.70866, 47.73257	grumbīre	g r u m b ī r e	grumbīēre	g r u m b ī ē r e	1
+555	Co J7, Co Q1	III_14_0147, III_15_0061	Malsburg, Malsburg	7.70866, 47.73257	grumbīre	g r u m b ī r e	grumbire	g r u m b i r e	1
+556	Co J7, Co Q1	III_14_0147, III_15_0061	Malsburg, Malsburg	7.70866, 47.73257	grumbiere	g r u m b ie r e	grumbīēre	g r u m b ī ē r e	2
+557	Co J7, Co Q1	III_14_0147, III_15_0061	Malsburg, Malsburg	7.70866, 47.73257	grumbiere	g r u m b ie r e	grumbire	g r u m b i r e	1
+558	Stra g 2	III_8_0084	Brumath, Brumath	7.71045, 48.73026	grümbeer	g r ü m b ee r	grombeere	g r o m b ee r e	2
+559	Stra g 2	III_8_0084	Brumath, Brumath	7.71045, 48.73026	grumbeer	g r u m b ee r	grombeere	g r o m b ee r e	2
+560	Hag X 3/2, Hag X 3/1	III_7_0082	Schweighausen (Schweighouse-Sur-Moder), Schweighausen	7.73517, 48.82151	grumbieer	g r u m b iee r	grummbiere	g r u mm b ie r e	3
+561	Hag X 3/2, Hag X 3/1	III_7_0082	Schweighausen (Schweighouse-Sur-Moder), Schweighausen	7.73517, 48.82151	grumbieer	g r u m b iee r	krummbiere	k r u mm b ie r e	4
+562	Hag X 3/2, Hag X 3/1	III_7_0082	Schweighausen (Schweighouse-Sur-Moder), Schweighausen	7.73517, 48.82151	grumbeer	g r u m b ee r	grummbiere	g r u mm b ie r e	3
+563	Hag X 3/2, Hag X 3/1	III_7_0082	Schweighausen (Schweighouse-Sur-Moder), Schweighausen	7.73517, 48.82151	grumbeer	g r u m b ee r	krummbiere	k r u mm b ie r e	4
+564	Stra o 11	III_9_0065, III_9_0060, III_9_0059, III_9_0057, III_9_0063, III_9_0071, III_9_0073, III_9_0066, III_9_0062, III_9_0072, III_9_0070, III_9_0074, III_9_0069, III_9_0067, III_9_0068, III_9_0061, III_9_0058, III_9_0064	Straßburg, Straßburg	7.73609, 48.58523	grumbēr	g r u m b ē r	grumbär	g r u m b ä r	1
+565	Stra o 11	III_9_0065, III_9_0060, III_9_0059, III_9_0057, III_9_0063, III_9_0071, III_9_0073, III_9_0066, III_9_0062, III_9_0072, III_9_0070, III_9_0074, III_9_0069, III_9_0067, III_9_0068, III_9_0061, III_9_0058, III_9_0064	Straßburg, Straßburg	7.73609, 48.58523	grumbēr	g r u m b ē r	grumber	g r u m b e r	1
+566	Stra o 11	III_9_0065, III_9_0060, III_9_0059, III_9_0057, III_9_0063, III_9_0071, III_9_0073, III_9_0066, III_9_0062, III_9_0072, III_9_0070, III_9_0074, III_9_0069, III_9_0067, III_9_0068, III_9_0061, III_9_0058, III_9_0064	Straßburg, Straßburg	7.73609, 48.58523	grumbēr	g r u m b ē r	grumbeere	g r u m b ee r e	3
+567	Stra o 11	III_9_0065, III_9_0060, III_9_0059, III_9_0057, III_9_0063, III_9_0071, III_9_0073, III_9_0066, III_9_0062, III_9_0072, III_9_0070, III_9_0074, III_9_0069, III_9_0067, III_9_0068, III_9_0061, III_9_0058, III_9_0064	Straßburg, Straßburg	7.73609, 48.58523	grumbēr	g r u m b ē r	grumbeeere	g r u m b ee e r e	4
+568	Stra o 11	III_9_0065, III_9_0060, III_9_0059, III_9_0057, III_9_0063, III_9_0071, III_9_0073, III_9_0066, III_9_0062, III_9_0072, III_9_0070, III_9_0074, III_9_0069, III_9_0067, III_9_0068, III_9_0061, III_9_0058, III_9_0064	Straßburg, Straßburg	7.73609, 48.58523	grumbēr	g r u m b ē r	grumbeer	g r u m b ee r	2
+569	Stra o 14	III_9_0051, III_9_0050	Straßburg-Bischheim, Straßburg-Bischheim	7.75254, 48.61483	grůmmbĕĕr	g r ů mm b ĕ ĕ r	grumbeer	g r u m b ee r	4
+570	Stra o 14	III_9_0051, III_9_0050	Straßburg-Bischheim, Straßburg-Bischheim	7.75254, 48.61483	grůmmbĕĕr	g r ů mm b ĕ ĕ r	grumbeere	g r u m b ee r e	5
+571	Hag J 4	III_5_0077	Mitschdorf, Mitschdorf	7.78435, 48.9524	krumber	k r u m b e r	grumber	g r u m b e r	1
+572	Co Q3	III_14_0152	Raich, Raich	7.79724, 47.75076	grumbīre	g r u m b ī r e	grumbiere	g r u m b ie r e	2
+573	Co Q3	III_14_0152	Raich, Raich	7.79724, 47.75076	grumber	g r u m b e r	grumbiere	g r u m b ie r e	2
+574	Co X 11	III_16_0107, III_16_0108	Wiechs, Wiechs	7.81236, 47.63655	grumbiire	g r u m b ii r e	grumbiere	g r u m b ie r e	1
+575	Co X 3	III_16_0110, III_16_0109	Schopfheim (/Grenzach, aber gestrichen), Schopfheim	7.82315, 47.64973	grumbiere	g r u m b ie r e	krumbiére	k r u m b i é r e	2
+576	Co X 3	III_16_0110, III_16_0109	Schopfheim (/Grenzach, aber gestrichen), Schopfheim	7.82315, 47.64973	grumbiere	g r u m b ie r e	grumbiére	g r u m b i é r e	1
+577	Stra L 12	III_11_0060, III_11_0059	Lahr (Lahr/Schwarzwald), Lahr	7.87603, 48.34018	grumbīre	g r u m b ī r e	krumbiere	k r u m b ie r e	3
+578	Stra L 12	III_11_0060, III_11_0059	Lahr (Lahr/Schwarzwald), Lahr	7.87603, 48.34018	grumbīre	g r u m b ī r e	krumbir	k r u m b i r	3
+579	Hag R 4	III_6_0080, III_6_0081	Schwabweiler, Schwabweiler	7.87665, 48.90207	grumbeer	g r u m b ee r	kumbeere	k u m b ee r e	3
+580	Hag R 4	III_6_0080, III_6_0081	Schwabweiler, Schwabweiler	7.87665, 48.90207	grumbeer	g r u m b ee r	grumbeere	g r u m b ee r e	1
+581	Stra w 9/2, Stra w 9/1	III_10_0058	Hesselhurst, Hesselhurst	7.88114, 48.52042	groůmbeerä	g r o ů m b ee r ä	grumbeere	g r u m b ee r e	3
+582	Stra w 9/2, Stra w 9/1	III_10_0058	Hesselhurst, Hesselhurst	7.88114, 48.52042	grumbeer	g r u m b ee r	grumbeere	g r u m b ee r e	1
+583	Stra p 2/2, Stra p 2/1	III_9_0084	Diersheim, Diersheim	7.8874, 48.64789	grombeere	g r o m b ee r e	grombeer	g r o m b ee r	1
+584	Stra p 2/2, Stra p 2/1	III_9_0084	Diersheim, Diersheim	7.8874, 48.64789	grumbier	g r u m b ie r	grombeer	g r o m b ee r	2
+585	Stra p 8	III_9_0081	Zierolshofen, Zierolshofen	7.9036, 48.60838	grumbeͥr	g r u m b e ͥ r	grumbire	g r u m b i r e	3
+586	Stra p 8	III_9_0081	Zierolshofen, Zierolshofen	7.9036, 48.60838	grumbeͥr	g r u m b e ͥ r	grundbirne	g r u n d b i r n e	6
+587	Stra p 6	III_9_0083	Holzhausen, Holzhausen	7.92018, 48.62595	grōmbeere	g r ō m b ee r e	grumbeeire	g r u m b eei r e	2
+588	Stra p 6	III_9_0083	Holzhausen, Holzhausen	7.92018, 48.62595	grōmbeere	g r ō m b ee r e	grumbeere	g r u m b ee r e	1
+589	Hag R 1, Hag K 11 R 1	III_5_0102	Kühlendorf (Kuhlendorf), Kühlendorf (Kuhlendorf) und Hohweiler, Hohweiler	7.92307, 48.91408	grumbeer	g r u m b ee r	grumbär	g r u m b ä r	2
+590	Hag R 1, Hag K 11 R 1	III_5_0102	Kühlendorf (Kuhlendorf), Kühlendorf (Kuhlendorf) und Hohweiler, Hohweiler	7.92307, 48.91408	grumbeere	g r u m b ee r e	grumbär	g r u m b ä r	3
+591	Hag K 1	III_5_0088	Riedselz (Riedseltz), Riedselz	7.95195, 48.99281	grumbere	g r u m b e r e	grundbeere	g r u n d b ee r e	3
+592	Hag K 1	III_5_0088	Riedselz (Riedseltz), Riedselz	7.95195, 48.99281	grumbere	g r u m b e r e	krumbeere	k r u m b ee r e	2
+593	Hag C 2	III_4_0094, III_4_0093	Weißenburg (Wissembourg), Weißenburg	7.9521, 49.03733	grumbier	g r u m b ie r	grumbire	g r u m b i r e	2
+594	Hag C 2	III_4_0094, III_4_0093	Weißenburg (Wissembourg), Weißenburg	7.9521, 49.03733	grumbier	g r u m b ie r	grumbeer	g r u m b ee r	1
+595	KST L10	III_6_0093, III_6_0092	Forstfeld, Forstfeld	8.03702, 48.859	grumbeer	g r u m b ee r	grombeer	g r o m b ee r	1
+596	KST S8	III_7_0117, III_7_0116, III_7_0115	Stollhofen, Stollhofen	8.04874, 48.76575	grumbeere	g r u m b ee r e	grumbeer	g r u m b ee r	1
+597	TÜB h5	III_9_0091, III_9_0090	Achern, Achern	8.06363, 48.62871	krummbīre	k r u mm b ī r e	grumbiere	g r u m b ie r e	4
+598	TÜB h5	III_9_0091, III_9_0090	Achern, Achern	8.06363, 48.62871	krummbīre	k r u mm b ī r e	grumbir	g r u m b i r	4
+599	KST D3/1, KST D3/3, KST D3/2	III_5_0121	Niederlauterbach, Niederlauterbach	8.10398, 48.97233	grumbeeren	g r u m b ee r e n	grumbeer	g r u m b ee r	2
+600	KST D3/1, KST D3/3, KST D3/2	III_5_0121	Niederlauterbach, Niederlauterbach	8.10398, 48.97233	grumbeere	g r u m b ee r e	grumbeer	g r u m b ee r	1
+601	KST D4	III_5_0120, III_5_0119	Scheibenhard, Scheibenhardt, Scheibenhard	8.13481, 48.97663	grumbeer	g r u m b ee r	grumbeere	g r u m b ee r e	1
+602	KST D7	III_5_0116, III_5_0115	Münchhausen (Munchhausen), Münchhausen	8.14635, 48.92142	grumbeā	g r u m b e ā	grumbea	g r u m b e a	1
+603	KST D7	III_5_0116, III_5_0115	Münchhausen (Munchhausen), Münchhausen	8.14635, 48.92142	grumbeā	g r u m b e ā	grumbeere	g r u m b ee r e	3
+604	KST T14/3, KST T14/4, KST T14/1	III_7_0131	Baden-Baden-West, Baden-Baden , Baden-Baden, Baden-Baden Weststadt	8.24094, 48.76273	grumber	g r u m b e r	grumbiere	g r u m b ie r e	2
+605	KST T14/3, KST T14/4, KST T14/1	III_7_0131	Baden-Baden-West, Baden-Baden , Baden-Baden, Baden-Baden Weststadt	8.24094, 48.76273	grumbīre	g r u m b ī r e	grumbiere	g r u m b ie r e	2
+606	KST T14/3, KST T14/4, KST T14/1	III_7_0131	Baden-Baden-West, Baden-Baden , Baden-Baden, Baden-Baden Weststadt	8.24094, 48.76273	grumbire	g r u m b i r e	grumbiere	g r u m b ie r e	1
+607	KST T14/3, KST T14/4, KST T14/1	III_7_0131	Baden-Baden-West, Baden-Baden , Baden-Baden, Baden-Baden Weststadt	8.24094, 48.76273	grummbier	g r u mm b ie r	grumbiere	g r u m b ie r e	2
+608	KST M4	III_6_0105, III_6_0104	Muggensturm, Muggenturm	8.2763, 48.87021	grumbīr	g r u m b ī r	grummbir	g r u mm b i r	2
+609	KST M4	III_6_0105, III_6_0104	Muggensturm, Muggenturm	8.2763, 48.87021	grumbīr	g r u m b ī r	grumbir	g r u m b i r	1
+610	KST T6	III_7_0133	Staufenberg, Staufenberg	8.3082, 48.76673	grumbire	g r u m b i r e	krummbirne	k r u mm b i r n e	3
+611	KST T6	III_7_0133	Staufenberg, Staufenberg	8.3082, 48.76673	grumbire	g r u m b i r e	krummbiere	k r u mm b ie r e	3
+612	KST N1	III_6_0101, III_6_0100, III_6_0102	Malsch, Malsch	8.3345, 48.88047	krum̄biere	k r u m ̄ b ie r e	krummbire	k r u mm b i r e	2
+613	KST N1	III_6_0101, III_6_0100, III_6_0102	Malsch, Malsch	8.3345, 48.88047	krum̄biere	k r u m ̄ b ie r e	grumbire	g r u m b i r e	3
+614	KST N2, KST U6	III_24_0002	Sulzbach, Sulzbach	8.35791, 48.80596	grombīr	g r o m b ī r	grumbir	g r u m b i r	2
+615	KST N2, KST U6	III_24_0002	Sulzbach, Sulzbach	8.35791, 48.80596	grummbīr	g r u mm b ī r	grumbir	g r u m b i r	2
+616	TÜB c8	III_25_0003, III_25_0004	Forbach, Forbach	8.3589, 48.67857	grummbian	g r u mm b i a n	krummbeere	k r u mm b e e r e	5
+617	KST F14/2, KST F14/1	III_22_0006, III_22_0004, III_22_0005	Ettlingen , Ettlingen, Ettlingen	8.40245, 48.94247	grumbiere	g r u m b ie r e	grombiere	g r o m b ie r e	1
+618	KST F14/2, KST F14/1	III_22_0006, III_22_0004, III_22_0005	Ettlingen , Ettlingen, Ettlingen	8.40245, 48.94247	grumbiere	g r u m b ie r e	grumbier	g r u m b ie r	1
+619	KST F14/2, KST F14/1	III_22_0006, III_22_0004, III_22_0005	Ettlingen , Ettlingen, Ettlingen	8.40245, 48.94247	grumbier	g r u m b ie r	grombiere	g r o m b ie r e	2
+620	KST F3	III_21_0003	Karlsruhe-Rüppurr, Karlsruhe-Rüppurr	8.406, 48.97394	grombiere	g r o m b ie r e	grumbiere	g r u m b ie r e	1
+621	KST F3	III_21_0003	Karlsruhe-Rüppurr, Karlsruhe-Rüppurr	8.406, 48.97394	grombier	g r o m b ie r	grumbiere	g r u m b ie r e	2
+622	KST r2	III_20_0003, III_20_0004	Hochstetten, Hochstetten	8.41566, 49.13702	grumbiera	g r u m b ie r a	grumbire	g r u m b i r e	2
+623	KST r2	III_20_0003, III_20_0004	Hochstetten, Hochstetten	8.41566, 49.13702	grumbiera	g r u m b ie r a	grumbiere	g r u m b ie r e	1
+624	KST r2	III_20_0003, III_20_0004	Hochstetten, Hochstetten	8.41566, 49.13702	grumbier	g r u m b ie r	grumbire	g r u m b i r e	2
+625	KST r2	III_20_0003, III_20_0004	Hochstetten, Hochstetten	8.41566, 49.13702	grumbier	g r u m b ie r	grumbiere	g r u m b ie r e	1
+626	KST k2	III_19_0007, III_19_0004, III_19_0005	Philippsburg, Philippsburg	8.45298, 49.235	grumbier	g r u m b ie r	grummbiere  	g r u mm b ie r e  	4
+627	KST N7	III_23_0004, III_23_0003	Etzenrot, Etzenrot	8.46465, 48.90968	grumbier	g r u m b ie r	grumbire	g r u m b i r e	2
+628	KST N7	III_23_0004, III_23_0003	Etzenrot, Etzenrot	8.46465, 48.90968	grumbier	g r u m b ie r	grumbiere	g r u m b ie r e	1
+629	Ma h1/2	II_59_0053, II_59_0054, II_59_0040, II_59_0048, II_59_0050, II_59_0049, II_59_0052, II_59_0047, II_59_0051, II_59_0056, II_59_0060, II_59_0042, II_59_0039	Mannheim, Mannheim	8.46678, 49.4865	grumbeere	g r u m b ee r e	grumbire	g r u m b i r e	2
+630	Ma h1/2	II_59_0053, II_59_0054, II_59_0040, II_59_0048, II_59_0050, II_59_0049, II_59_0052, II_59_0047, II_59_0051, II_59_0056, II_59_0060, II_59_0042, II_59_0039	Mannheim, Mannheim	8.46678, 49.4865	grumbeere	g r u m b ee r e	grumbiere	g r u m b ie r e	1
+631	Ma h1/2	II_59_0053, II_59_0054, II_59_0040, II_59_0048, II_59_0050, II_59_0049, II_59_0052, II_59_0047, II_59_0051, II_59_0056, II_59_0060, II_59_0042, II_59_0039	Mannheim, Mannheim	8.46678, 49.4865	grumbeere	g r u m b ee r e	grummbeer	g r u mm b e e r	2
+632	Ma h1/2	II_59_0053, II_59_0054, II_59_0040, II_59_0048, II_59_0050, II_59_0049, II_59_0052, II_59_0047, II_59_0051, II_59_0056, II_59_0060, II_59_0042, II_59_0039	Mannheim, Mannheim	8.46678, 49.4865	grumbeere	g r u m b ee r e	grumbäre	g r u m b ä r e	2
+633	Ma h1/2	II_59_0053, II_59_0054, II_59_0040, II_59_0048, II_59_0050, II_59_0049, II_59_0052, II_59_0047, II_59_0051, II_59_0056, II_59_0060, II_59_0042, II_59_0039	Mannheim, Mannheim	8.46678, 49.4865	grumbeere	g r u m b ee r e	grundbirne	g r u n d b i r n e	5
+634	Ma h1/2	II_59_0053, II_59_0054, II_59_0040, II_59_0048, II_59_0050, II_59_0049, II_59_0052, II_59_0047, II_59_0051, II_59_0056, II_59_0060, II_59_0042, II_59_0039	Mannheim, Mannheim	8.46678, 49.4865	grumbeere	g r u m b ee r e	grumbiern	g r u m b ie r n	2
+635	Ma h1/2	II_59_0053, II_59_0054, II_59_0040, II_59_0048, II_59_0050, II_59_0049, II_59_0052, II_59_0047, II_59_0051, II_59_0056, II_59_0060, II_59_0042, II_59_0039	Mannheim, Mannheim	8.46678, 49.4865	grumbeere	g r u m b ee r e	grumbier	g r u m b ie r	2
+636	Ma h1/2	II_59_0053, II_59_0054, II_59_0040, II_59_0048, II_59_0050, II_59_0049, II_59_0052, II_59_0047, II_59_0051, II_59_0056, II_59_0060, II_59_0042, II_59_0039	Mannheim, Mannheim	8.46678, 49.4865	grumbeere	g r u m b ee r e	grumbeer	g r u m b ee r	1
+637	Ma h1/2	II_59_0053, II_59_0054, II_59_0040, II_59_0048, II_59_0050, II_59_0049, II_59_0052, II_59_0047, II_59_0051, II_59_0056, II_59_0060, II_59_0042, II_59_0039	Mannheim, Mannheim	8.46678, 49.4865	grumbeere	g r u m b ee r e	krummbiere	k r u mm b ie r e	3
+638	KST c2	III_18_0014, III_18_0013, III_18_0011, III_18_0012	Oberhausen, Oberhausen	8.48324, 49.26035	grumbire	g r u m b i r e	grumbiera	g r u m b ie r a	2
+639	KST c2	III_18_0014, III_18_0013, III_18_0011, III_18_0012	Oberhausen, Oberhausen	8.48324, 49.26035	grumbire	g r u m b i r e	grummbiara	g r u mm b i a r a	3
+640	KST c2	III_18_0014, III_18_0013, III_18_0011, III_18_0012	Oberhausen, Oberhausen	8.48324, 49.26035	grumbire	g r u m b i r e	grumbira	g r u m b i r a	1
+641	KST l9	III_19_0011, III_19_0012, III_19_0009, III_19_0010	Neudorf, Neudorf	8.49692, 49.17524	grumbiere	g r u m b ie r e	krumbiire	k r u m b ii r e	2
+642	KST l9	III_19_0011, III_19_0012, III_19_0009, III_19_0010	Neudorf, Neudorf	8.49692, 49.17524	grumbiere	g r u m b ie r e	grumbir	g r u m b i r	2
+643	KST O8	III_23_0008, III_23_0009, III_23_0010	Langenalb, Langenalb	8.50104, 48.84402	grumbier	g r u m b ie r	krumbierer	k r u m b ie r e r	3
+644	KST O8	III_23_0008, III_23_0009, III_23_0010	Langenalb, Langenalb	8.50104, 48.84402	grumbier	g r u m b ie r	grombira	g r o m b i r a	3
+645	KST O8	III_23_0008, III_23_0009, III_23_0010	Langenalb, Langenalb	8.50104, 48.84402	grumbier	g r u m b ie r	grumbira	g r u m b i r a	2
+646	KST s7	III_20_0015, III_20_0014, III_20_0013	Staffort, Staffort	8.51034, 49.09079	grumbier	g r u m b ie r	grumbierer	g r u m b ie r e r	2
+647	KST z8	III_21_0012, III_21_0011, III_21_0013, III_21_0010, III_21_0009	Weingarten, Weingarten	8.53114, 49.0533	grumbiere	g r u m b ie r e	grummbiere	g r u mm b ie r e	1
+648	KST z8	III_21_0012, III_21_0011, III_21_0013, III_21_0010, III_21_0009	Weingarten, Weingarten	8.53114, 49.0533	grumbiere	g r u m b ie r e	grumbier	g r u m b ie r	1
+649	KST G1	III_22_0010, III_22_0013, III_22_0011	Söllingen, Söllingen	8.5425, 48.98622	grumbiere	g r u m b ie r e	krummbiere	k r u mm b ie r e	2
+650	KST G1	III_22_0010, III_22_0013, III_22_0011	Söllingen, Söllingen	8.5425, 48.98622	grumbiere	g r u m b ie r e	grumbier	g r u m b ie r	1
+651	KST s8	III_20_0022, III_20_0021, III_20_0023	Untergrombach, Untergrombach	8.55318, 49.0861	grumbiere	g r u m b ie r e	grumbiern	g r u m b ie r n	1
+652	KST s2, KST s11	III_20_0019, III_20_0020, III_20_0018	Bruchsal , Bruchsal (Forstamt), Bruchsal	8.60102, 49.12377	grumbiere	g r u m b ie r e	grummbier	g r u mm b ie r	2
+653	KST s2, KST s11	III_20_0019, III_20_0020, III_20_0018	Bruchsal , Bruchsal (Forstamt), Bruchsal	8.60102, 49.12377	grumbier	g r u m b ie r	grumbiere	g r u m b ie r e	1
+654	KST s2, KST s11	III_20_0019, III_20_0020, III_20_0018	Bruchsal , Bruchsal (Forstamt), Bruchsal	8.60102, 49.12377	grumbier	g r u m b ie r	grummbier	g r u mm b ie r	1
+655	KST z4	III_21_0018	Wössingen, Wössingen	8.61142, 49.01017	grumbir	g r u m b i r	grumbiere	g r u m b ie r e	2
+656	KST z4	III_21_0018	Wössingen, Wössingen	8.61142, 49.01017	grumbir	g r u m b i r	grumbier	g r u m b ie r	1
+657	KST G8	III_22_0024, III_22_0018, III_22_0020, III_22_0021, III_22_0019	Königsbach, Stein, Königsbach	8.61207, 48.96515	gråmbia	g r å m b i a	krumbier	k r u m b ie r	4
+658	KST G8	III_22_0024, III_22_0018, III_22_0020, III_22_0021, III_22_0019	Königsbach, Stein, Königsbach	8.61207, 48.96515	gråmbia	g r å m b i a	grumbier	g r u m b ie r	3
+659	KST G8	III_22_0024, III_22_0018, III_22_0020, III_22_0021, III_22_0019	Königsbach, Stein, Königsbach	8.61207, 48.96515	gråmbia	g r å m b i a	grombiere	g r o m b ie r e	4
+660	KST G8	III_22_0024, III_22_0018, III_22_0020, III_22_0021, III_22_0019	Königsbach, Stein, Königsbach	8.61207, 48.96515	gråmbia	g r å m b i a	krombiere	k r o m b ie r e	5
+661	KST G8	III_22_0024, III_22_0018, III_22_0020, III_22_0021, III_22_0019	Königsbach, Stein, Königsbach	8.61207, 48.96515	gråmbia	g r å m b i a	krummbiere	k r u mm b ie r e	6
+662	KST l4	III_19_0018, III_19_0017, III_19_0020, III_19_0019	Mingolsheim, Mingolsheim	8.65316, 49.21986	grumbier	g r u m b ie r	krumbiere	k r u m b ie r e	2
+663	KST l4	III_19_0018, III_19_0017, III_19_0020, III_19_0019	Mingolsheim, Mingolsheim	8.65316, 49.21986	grumbier	g r u m b ie r	grúmmbīr	g r ú mm b ī r	4
+664	KST l4	III_19_0018, III_19_0017, III_19_0020, III_19_0019	Mingolsheim, Mingolsheim	8.65316, 49.21986	grumbier	g r u m b ie r	grumbire	g r u m b i r e	2
+665	KST l4	III_19_0018, III_19_0017, III_19_0020, III_19_0019	Mingolsheim, Mingolsheim	8.65316, 49.21986	grumbier	g r u m b ie r	grumbiere	g r u m b ie r e	1
+666	KST P1	III_22_0027, III_22_0026	Ispringen , Ispringen	8.66764, 48.91655	krombīre	k r o m b ī r e	grumbiere	g r u m b ie r e	4
+667	KST P1	III_22_0027, III_22_0026	Ispringen , Ispringen	8.66764, 48.91655	krombīre	k r o m b ī r e	krumbire	k r u m b i r e	2
+668	KST P2	III_23_0032, III_23_0029, III_23_0030, III_23_0031	Brötzingen, Pforzheim-Brötzingen	8.66799, 48.889	grom̄bier	g r o m ̄ b ie r	grombiere	g r o m b ie r e	2
+669	KST P2	III_23_0032, III_23_0029, III_23_0030, III_23_0031	Brötzingen, Pforzheim-Brötzingen	8.66799, 48.889	grom̄bier	g r o m ̄ b ie r	grombier	g r o m b ie r	1
+670	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	krummbīre	k r u mm b ī r e	grombir	g r o m b i r	5
+671	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	krummbīre	k r u mm b ī r e	grumbire	g r u m b i r e	3
+672	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	krummbīre	k r u mm b ī r e	grumbiere	g r u m b ie r e	4
+673	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	krummbīre	k r u mm b ī r e	krummbire	k r u mm b i r e	1
+674	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	krummbīre	k r u mm b ī r e	krommbier	k r o mm b ie r	4
+675	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	krummbīre	k r u mm b ī r e	grummbir	g r u mm b i r	3
+676	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	krummbīre	k r u mm b ī r e	krummbir	k r u mm b i r	2
+677	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	krummbīre	k r u mm b ī r e	grombier	g r o m b ie r	6
+678	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	krummbīre	k r u mm b ī r e	grumbier	g r u m b ie r	5
+679	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	krummbīre	k r u mm b ī r e	grombīre	g r o m b ī r e	3
+680	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	krummbīre	k r u mm b ī r e	grombiere	g r o m b ie r e	5
+681	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	krummbīre	k r u mm b ī r e	grummbier	g r u mm b ie r	4
+682	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	grom̄bier	g r o m ̄ b ie r	grombir	g r o m b i r	2
+683	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	grom̄bier	g r o m ̄ b ie r	grumbire	g r u m b i r e	4
+684	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	grom̄bier	g r o m ̄ b ie r	grumbiere	g r u m b ie r e	3
+685	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	grom̄bier	g r o m ̄ b ie r	krummbire	k r u mm b i r e	5
+686	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	grom̄bier	g r o m ̄ b ie r	krommbier	k r o mm b ie r	2
+687	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	grom̄bier	g r o m ̄ b ie r	grummbir	g r u mm b i r	3
+688	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	grom̄bier	g r o m ̄ b ie r	krummbir	k r u mm b i r	4
+689	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	grom̄bier	g r o m ̄ b ie r	grombier	g r o m b ie r	1
+690	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	grom̄bier	g r o m ̄ b ie r	grumbier	g r u m b ie r	2
+691	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	grom̄bier	g r o m ̄ b ie r	grombīre	g r o m b ī r e	4
+692	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	grom̄bier	g r o m ̄ b ie r	grombiere	g r o m b ie r e	2
+693	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	grom̄bier	g r o m ̄ b ie r	grummbier	g r u mm b ie r	2
+694	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	grumbiere	g r u m b ie r e	grombir	g r o m b i r	3
+695	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	grumbiere	g r u m b ie r e	grumbire	g r u m b i r e	1
+696	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	grumbiere	g r u m b ie r e	krummbire	k r u mm b i r e	3
+697	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	grumbiere	g r u m b ie r e	krommbier	k r o mm b ie r	4
+698	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	grumbiere	g r u m b ie r e	grummbir	g r u mm b i r	3
+699	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	grumbiere	g r u m b ie r e	krummbir	k r u mm b i r	4
+700	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	grumbiere	g r u m b ie r e	grombier	g r o m b ie r	2
+701	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	grumbiere	g r u m b ie r e	grumbier	g r u m b ie r	1
+702	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	grumbiere	g r u m b ie r e	grombīre	g r o m b ī r e	3
+703	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	grumbiere	g r u m b ie r e	grombiere	g r o m b ie r e	1
+704	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	grumbiere	g r u m b ie r e	grummbier	g r u mm b ie r	2
+705	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	grombīr	g r o m b ī r	grombir	g r o m b i r	1
+706	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	grombīr	g r o m b ī r	grumbire	g r u m b i r e	3
+707	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	grombīr	g r o m b ī r	grumbiere	g r u m b ie r e	4
+708	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	grombīr	g r o m b ī r	krummbire	k r u mm b i r e	5
+709	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	grombīr	g r o m b ī r	krommbier	k r o mm b ie r	4
+710	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	grombīr	g r o m b ī r	grummbir	g r u mm b i r	3
+711	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	grombīr	g r o m b ī r	krummbir	k r u mm b i r	4
+712	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	grombīr	g r o m b ī r	grombier	g r o m b ie r	2
+713	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	grombīr	g r o m b ī r	grumbier	g r u m b ie r	3
+714	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	grombīr	g r o m b ī r	grombīre	g r o m b ī r e	1
+715	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	grombīr	g r o m b ī r	grombiere	g r o m b ie r e	3
+716	KST P3/4, KST P3/3, KST P3/1, KST P3/2	III_23_0038, III_23_0041, III_23_0054, III_23_0037, III_23_0045, III_23_0047, III_23_0036, III_23_0043, III_23_0051, III_23_0053, III_23_0049, III_23_0048, III_23_0039, III_23_0050, III_23_0052, III_23_0044, III_23_0040, III_23_0042, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	grombīr	g r o m b ī r	grummbier	g r u mm b ie r	4
+717	KST A5	III_21_0027, III_21_0026, III_21_0025	Bretten, Bretten	8.70657, 49.03456	grumbier	g r u m b ie r	grombiere	g r o m b ie r e	2
+718	KST A5	III_21_0027, III_21_0026, III_21_0025	Bretten, Bretten	8.70657, 49.03456	grumbier	g r u m b ie r	krummbiere	k r u mm b ie r e	3
+719	KST m11	III_19_0025, III_19_0024, III_19_0026	Östringen, Östringen	8.7137, 49.22037	grumbiere	g r u m b ie r e	grumbire	g r u m b i r e	1
+720	KST m11	III_19_0025, III_19_0024, III_19_0026	Östringen, Östringen	8.7137, 49.22037	grumbiere	g r u m b ie r e	krummbier	k r u mm b ie r	3
+721	KST t7	III_20_0036, III_20_0037, III_20_0038, III_20_0039, III_20_0035	Flehingen , Flehingen	8.78694, 49.0869	grumbiere	g r u m b ie r e	krummbire	k r u mm b i r e	3
+722	KST t7	III_20_0036, III_20_0037, III_20_0038, III_20_0039, III_20_0035	Flehingen , Flehingen	8.78694, 49.0869	grumbiere	g r u m b ie r e	grum̄biere	g r u m ̄ b ie r e	1
+723	KST n12	III_19_0038, III_19_0039, III_19_0040	Hilsbach, Hilsbach	8.86227, 49.1957	grummbire	g r u mm b i r e	grumbiere	g r u m b ie r e	2
+724	KST n12	III_19_0038, III_19_0039, III_19_0040	Hilsbach, Hilsbach	8.86227, 49.1957	grummbire	g r u mm b i r e	grumbeere	g r u m b ee r e	3
+725	KST n12	III_19_0038, III_19_0039, III_19_0040	Hilsbach, Hilsbach	8.86227, 49.1957	grummbire	g r u mm b i r e	krummbiere	k r u mm b ie r e	2
+726	MH o8/2, MH o8/1	II_89_0005	Ebenheid, Ebenheid	9.36095, 49.7158	grummbern	g r u mm b e r n	grumbera	g r u m b e r a	2
+727	MH o8/2, MH o8/1	II_89_0005	Ebenheid, Ebenheid	9.36095, 49.7158	grumbirn	g r u m b i r n	grumbera	g r u m b e r a	2
+728	MH p6/2, MH p6/1	II_89_0025	Uissigheim, Uissigheim	9.57194, 49.67957	grumbiere	g r u m b ie r e	grummbiere	g r u mm b ie r e	1
+729	MH x2	II_90_0020, II_90_0018, II_90_0019, II_90_0017	Hochhausen, Hochhausen	9.63526, 49.6621	grummbiere	g r u mm b ie r e	krumbihre	k r u m b i h r e	3
+730	MH x2	II_90_0020, II_90_0018, II_90_0019, II_90_0017	Hochhausen, Hochhausen	9.63526, 49.6621	grummbiere	g r u mm b ie r e	grumbiere	g r u m b ie r e	1
+731	MH p7	II_89_0031, II_89_0030, II_89_0032	Werbach, Werbach	9.63871, 49.67029	grumbire	g r u m b i r e	krumbiere	k r u m b ie r e	2
+732	MH p7	II_89_0031, II_89_0030, II_89_0032	Werbach, Werbach	9.63871, 49.67029	grumbire	g r u m b i r e	krumbire	k r u m b i r e	1
+733	STU k1	III_24_0105	Wäschenbeuren, Wäschenbeuren	9.68695, 48.75984	grombira	g r o m b i r a	grundbirne	g r u n d b i r n e	5
+734	STU k1	III_24_0105	Wäschenbeuren, Wäschenbeuren	9.68695, 48.75984	grombira	g r o m b i r a	grombirê	g r o m b i r ê	1
+735	MH G6	II_91_0028, II_91_0029	Messelhausen, Messelhausen	9.7887, 49.5756	grumbire	g r u m b i r e	krummbiere	k r u mm b ie r e	3

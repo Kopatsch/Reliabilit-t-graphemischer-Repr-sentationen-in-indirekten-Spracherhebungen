@@ -1,0 +1,25 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_maurer_align	item_DWA	item_DWA_align	Levenshtein_item
+0	TUTT P2	III_37_0014	Bietingen, Bietingen	8.73023, 47.73862	gegerst	g e g e r s t	gägerscht	g ä g e r sch t	3
+1	TUTT A8	III_35_0029	Anselfingen, Anselfingen	8.76516, 47.84558	gäggerscht	g ä gg e r sch t	gäggerst	g ä gg e r s t	2
+2	TUTT A7	III_35_0033, III_35_0034, III_35_0032	Engen, Engen	8.76853, 47.85186	gägescht	g ä g e sch t	gägerst	g ä g e r s t	3
+3	TUTT J4	III_36_0150	Singen, Singen	8.83317, 47.76378	geggerst	g e gg e r s t	gägerscht	g ä g e r sch t	4
+4	TUTT J2 /1	III_36_0052	Schlatt (unter Krähen), Schlatt	8.83529, 47.80435	gägersch	g ä g e r sch	gägerst	g ä g e r s t	2
+5	TUTT X1	III_38_0024	Öhningen, Öhningen	8.89136, 47.66162	gä̆gerst	g ä ̆ g e r s t	gäggerscht	g ä gg e r sch t	3
+6	TUTT Q4	III_37_0021	Bohlingen, Bohlingen	8.8965, 47.72199	gegerst	g e g e r s t	gägerscht	g ä g e r sch t	3
+7	TUTT B9	III_35_0049	Homberg Münchhof, Münchhöf	8.95295, 47.88032	gäggescht	g ä gg e sch t	gägerscht	g ä g e r sch t	2
+8	TUTT C7	III_35_0039	Hindelwangen, Hindelwangen	9.00909, 47.86237	gägest	g ä g e s t	gäägescht	g ää g e sch t	3
+9	TUTT o3	III_33_0047	Leibertingen, Leibertingen	9.01551, 48.04265	kǟgisch	k ǟ g i sch	kägisch	k ä g i sch	1
+10	TUTT C1	III_35_0054	Schwackenreute, Schwackenreute	9.04401, 47.91392	käkisch	k ä k i sch	gäges	g ä g e s	5
+11	TUTT o4	III_33_0042	Kreenheinstetten, Kreenheinstetten	9.05221, 48.0555	kägīsch	k ä g ī sch	kägisch	k ä g i sch	1
+12	SIG n16	III_36_0075	Nußdorf, Nußdorf	9.19513, 47.75277	gägäscht	g ä g ä sch t	kägäst	k ä g ä s t	3
+13	SIG n7	III_36_0078	Frickingen, Frickingen	9.27056, 47.81023	kāgesch	k ā g e sch	kägesch	k ä g e sch	1
+14	SIG n6	III_36_0079	Leustetten, Leustetten	9.29433, 47.80634	kägerst	k ä g e r s t	kägesch	k ä g e sch	3
+15	SIG q5	III_37_0044	Grasbeuren, Grasbeuren	9.29766, 47.73029	kägersch	k ä g e r sch	kägisch	k ä g i sch	2
+16	SIG q6	III_37_0045	Ahausen, Ahausen	9.32247, 47.72502	ghägschd	g h ä g sch d	ghägesch	g h ä g e sch	2
+17	TUTT J4	III_36_0150	Singen, Singen	8.83317, 47.76378	geggerschd	g e gg e r sch d	gägerscht	g ä g e r sch t	3
+18	TUTT J4	III_36_0150	Singen, Singen	8.83317, 47.76378	geggerst	g e gg e r s t	gägerscht	g ä g e r sch t	4
+19	SIG n6	III_36_0079	Leustetten, Leustetten	9.29433, 47.80634	kägerst	k ä g e r s t	kägersch	k ä g e r sch	2
+20	SIG n6	III_36_0079	Leustetten, Leustetten	9.29433, 47.80634	kägerst	k ä g e r s t	kägerscht	k ä g e r sch t	2
+21	SIG n6	III_36_0079	Leustetten, Leustetten	9.29433, 47.80634	kägerst	k ä g e r s t	kägesch	k ä g e sch	3
+22	SIG q6	III_37_0045	Ahausen, Ahausen	9.32247, 47.72502	ghägeschd	g h ä g e sch d	ghägesch	g h ä g e sch	1
+23	SIG q6	III_37_0045	Ahausen, Ahausen	9.32247, 47.72502	ghägschd	g h ä g sch d	ghägesch	g h ä g e sch	2

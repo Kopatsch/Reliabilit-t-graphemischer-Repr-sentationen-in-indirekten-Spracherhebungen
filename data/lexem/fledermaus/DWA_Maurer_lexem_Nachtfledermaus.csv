@@ -1,0 +1,5 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Hag Q 5	na	Hagenheim (Hegeney)	7.74557, 48.89153	nåchtfleddermüs	na	999	nachtfledermüs	na	999	Nachtfledermaus	na	999
+1	Hag K 5	III_5_0097	HunSpach, HunSpach	7.94316, 48.9536	nachtfladdermaus	nachtfledermaus	2	nachtfladermaus	nachtfledermaus	1	Nachtfledermaus	Nachtfledermaus	0
+2	KST L11	III_6_0096	Keseldorf (Weisenburg), Keseldorf	8.06748, 48.87606	nåchtfleddermaus	nåchtfleddermaus	0	nachtfledermaus	nachtfledermaus	0	Nachtfledermaus	Nachtfledermaus	0
+3	na	III_23_0035	Öschelbronn	8.81415, 48.90599	na	naachtfleddermaus	999	na	nachtfledermaus	999	na	Nachtfledermaus	999

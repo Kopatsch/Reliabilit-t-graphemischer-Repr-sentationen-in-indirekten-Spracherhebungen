@@ -1,0 +1,3 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	KST D7	III_5_0116	Münchhausen (Munchhausen), Münchhausen	8.14635, 48.92142	späckflädamaus	speckflädamaus	1	schpäkflädermaus	schpekflädermaus	1	Speckfledermaus	Speckfledermaus	0
+1	KST O4	na	Ellmendingen	8.5761, 48.90131	spegfläddermaus	na	999	schpekflädermaus	na	999	Speckfledermaus	na	999

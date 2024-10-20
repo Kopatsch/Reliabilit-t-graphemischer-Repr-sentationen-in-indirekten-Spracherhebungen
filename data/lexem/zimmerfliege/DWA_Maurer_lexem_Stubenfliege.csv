@@ -1,0 +1,30 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Co P6	na	Tannenkirch	7.6103, 47.71116	stubafliega	na	999	stubefliege	na	999	Stubenfliege	na	999
+1	Co C2	na	Wieden	7.8814, 47.84169	schdubeflieg	na	999	stubeflieg	na	999	Stubenfliege	na	999
+2	Co o 3	na	Föhrental (Föhrenthal)	7.92468, 48.0349	stubafliaga	na	999	stubefliäge	na	999	Stubenfliege	na	999
+3	Co R4	na	Happach	7.95137, 47.7412	schdubäfliäge	na	999	stubefliäge	na	999	Stubenfliege	na	999
+4	TUTT D1	na	Menzenschwand	8.07059, 47.81749	stubefliege	na	999	stubefliege	na	999	Stubenfliege	na	999
+5	TUTT S10	na	Rotzingen	8.0762, 47.66588	stubafliaga	na	999	stubefliege	na	999	Stubenfliege	na	999
+6	TUTT L1	III_15_0111	Urberg, Urberg	8.12409, 47.73478	stuwäflüügä	schduweflüge	6	stuweflüge	stuweflüge	0	Stubenfliege	Stubenfliege	0
+7	TUTT w4	na	Falkau	8.12453, 47.8699	stūbefliēge	na	999	stubefliäge	na	999	Stubenfliege	na	999
+8	TUTT w5	na	Raitenbuch	8.14698, 47.86647	schdubbefliĕg	na	999	stubefliäge	na	999	Stubenfliege	na	999
+9	TUTT k9	na	Herzogenweiler	8.37157, 48.0254	schdubefliege	na	999	stubefliege	na	999	Stubenfliege	na	999
+10	TUTT U6	na	Weisweil	8.45797, 47.64517	stubeflüge	na	999	stubeflüge	na	999	Stubenfliege	na	999
+11	TUTT s4	na	Geisingen	8.65129, 47.93283	stubaflieg	na	999	stubeflieg	na	999	Stubenfliege	na	999
+12	TUTT P5	na	Gailingen	8.75499, 47.69685	stubbeflüge	na	999	stubeflüge	na	999	Stubenfliege	na	999
+13	TUTT A7	na	Engen	8.76853, 47.85186	stubeflijege	na	999	stubefliäge	na	999	Stubenfliege	na	999
+14	TUTT H2	na	Mühlhausen	8.81866, 47.80792	stubeflüg	na	999	stubeflüg	na	999	Stubenfliege	na	999
+15	TUTT z2	na	Nendingen	8.86067, 48.00602	stuͦbefliage	na	999	stubefliäge	na	999	Stubenfliege	na	999
+16	TUTT J5	na	Friedingen	8.87581, 47.78669	stubenfliege	na	999	stubenfliege	na	999	Stubenfliege	na	999
+17	TUTT K7	na	Liggeringen	9.02698, 47.77495	stuebeflieg	na	999	stuebeflieg	na	999	Stubenfliege	na	999
+18	SIG n16	na	Nußdorf	9.19513, 47.75277	stubefliëg	na	999	stubefliäg	na	999	Stubenfliege	na	999
+19	na	III_16_0071	Märkt	7.58103, 47.627	na	stubefliege	999	na	stubefliege	999	na	Stubenfliege	999
+20	na	III_15_0048	Hertingen	7.58442, 47.7231	na	schtuebefliege	999	na	stuebefliege	999	na	Stubenfliege	999
+21	na	III_13_0055	Umkirch	7.7624, 48.03183	na	stubenfliege	999	na	stubenfliege	999	na	Stubenfliege	999
+22	na	III_17_0055, III_17_0048	Säckingen	7.96171, 47.57476	na	stubefliege	999	na	stubefliege	999	na	Stubenfliege	999
+23	na	III_16_0142	Buch	8.11336, 47.61399	na	stubeflüge	999	na	stubeflüge	999	na	Stubenfliege	999
+24	na	III_15_0122	Brenden	8.22606, 47.72946	na	stubèflügè	999	na	stubeflüge	999	na	Stubenfliege	999
+25	na	III_12_0072	Reichenbach	8.22958, 48.21343	na	stuweflieg	999	na	stuweflieg	999	na	Stubenfliege	999
+26	na	III_12_0165	Triberg	8.2316, 48.13032	na	stubbeflieg	999	na	stubeflieg	999	na	Stubenfliege	999
+27	na	III_12_0155	St. Georgen	8.33183, 48.12564	na	stuweflieg	999	na	stuweflieg	999	na	Stubenfliege	999
+28	na	III_32_0016	Dauchingen	8.55237, 48.09031	na	stubefliege	999	na	stubefliege	999	na	Stubenfliege	999

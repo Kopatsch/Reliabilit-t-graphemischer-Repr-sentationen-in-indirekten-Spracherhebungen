@@ -1,0 +1,16 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Co D1	na	Dollern (Dolleren)	6.93211, 47.80559	grabta	na	999	grabde	na	999	z Grabede	na	999
+1	Co w 4	na	Mollau	6.97488, 47.87245	grabde	na	999	grabde	na	999	z Grabede	na	999
+2	Co w 1	na	Oderen	6.97525, 47.91008	grabĕde	na	999	grabede	na	999	z Grabede	na	999
+3	Co T11	na	Mansbach (Manspach)	7.10508, 47.6176	gråbda	na	999	grabde	na	999	z Grabede	na	999
+4	Co T13	na	St. Ulrich bei Dammerkirch	7.11911, 47.59537	grābta	na	999	grabde	na	999	z Grabede	na	999
+5	Co T14	na	Füllern (Fulleren)	7.14596, 47.59468	grābda	na	999	grabde	na	999	z Grabede	na	999
+6	TUTT L15	na	Tiefenhäusern	8.14547, 47.70277	grab	na	999	grab	na	999	z Grabede	na	999
+7	na	III_14_0012	Weiler	7.07073, 47.84351	na	grabta	999	na	grabde	999	na	z Grabede	999
+8	na	III_16_0007	Wolfersdorf	7.1132, 47.63625	na	grâbta	999	na	grabde	999	na	z Grabede	999
+9	na	III_16_0008	Bütweiler	7.14982, 47.65627	na	grabte	999	na	grabde	999	na	z Grabede	999
+10	na	III_16_0010	Ballersdorf	7.1624, 47.625	na	graabta	999	na	grabde	999	na	z Grabede	999
+11	na	III_16_0025	Obermorschweiler	7.31001, 47.64239	na	grabe	999	na	grabe	999	na	z Grabede	999
+12	na	III_12_0060	Oberbiederbach	8.02694, 48.2183	na	gräb	999	na	gräb	999	na	z Grabede	999
+13	na	III_12_0145	Yach	8.0932, 48.15752	na	gräb	999	na	gräb	999	na	z Grabede	999
+14	na	III_12_0064	Oberprechtal	8.12114, 48.20548	na	gräb	999	na	gräb	999	na	z Grabede	999

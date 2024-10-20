@@ -1,0 +1,20 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Stra L 6	na	Oberweier	7.89815, 48.37746	bißerli	na	999	bißerli	na	999	Beißerle	na	999
+1	Stra L 13	III_11_0061	Kuhbach, Kuhbach	7.90787, 48.33884	biesserle	bisserli	2	bißerle	bißerli	1	Beißerle	Beißerle	0
+2	Stra S 4	na	Reichenbach (Gengb.)	7.9231, 48.33196	bisserli	na	999	bißerli	na	999	Beißerle	na	999
+3	TÜB w7	na	Hesselbach	8.06498, 48.49863	bisserli	na	999	bißerli	na	999	Beißerle	na	999
+4	TÜB h11	na	Obersasbach	8.10713, 48.63223	bisserle	na	999	bißerle	na	999	Beißerle	na	999
+5	TÜB p8	III_10_0076	Lautenbach, Lautenbach	8.11439, 48.52093	bisserli	bisserli	0	bißerli	bißerli	0	Beißerle	Beißerle	0
+6	TÜB a9	na	Weitenung	8.12886, 48.73998	bisserle	na	999	bißerle	na	999	Beißerle	na	999
+7	TÜB p7	na	Furschenbach und Ottenhöfen	8.13639, 48.5767	bisserli	na	999	bißerli	na	999	Beißerle	na	999
+8	TÜB b5	na	Eisental	8.16417, 48.71189	bisserle	na	999	bißerle	na	999	Beißerle	na	999
+9	TÜB b3	na	Varnhalt	8.17941, 48.73522	bißerle	na	999	bißerle	na	999	Beißerle	na	999
+10	KST r4	III_20_0006	Leopoldshafen, Leopoldshafen	8.3923, 49.09933	beißerle	beißerle	0	beißerle	beißerle	0	Beißerle	Beißerle	0
+11	KST N6	na	Spessart	8.42992, 48.91189	beiselen	na	999	beißerlen	na	999	Beißerle	na	999
+12	KST N7	III_23_0004, III_23_0003	Etzenrot, Etzenrot	8.46465, 48.90968	beihserlen	beißalen, beißerlin	3	beißerlen	beißerlen, beißerlin	0	Beißerle	Beißerle	0
+13	KST F11	III_22_0009	Reichenbach bei Ettlingen, Reichenbach	8.47546, 48.92348	beiserle	beiserle	0	beißerle	beißerle	0	Beißerle	Beißerle	0
+14	KST F7	na	Hohenwettersbach	8.47808, 48.96713	beißerle	na	999	beißerle	na	999	Beißerle	na	999
+15	KST s2	na	Bruchsal (Forstamt)	8.60102, 49.12377	beißerlin	na	999	beißerlin	na	999	Beißerle	na	999
+16	KST d6	III_18_0021	Rot, Rot	8.63137, 49.26348	beisserlin	beißalin	4	beißerlin	beißerlin	0	Beißerle	Beißerle	0
+17	na	III_10_0080, III_10_0079, III_10_0081	Ottenhöfen	8.15978, 48.56801	na	bisserli, bisserle	999	na	bißerli, bißerle	999	na	Beißerle	999
+18	na	III_20_0007, III_20_0008	Eggenstein	8.39572, 49.08482	na	beißerle	999	na	beißerle	999	na	Beißerle	999

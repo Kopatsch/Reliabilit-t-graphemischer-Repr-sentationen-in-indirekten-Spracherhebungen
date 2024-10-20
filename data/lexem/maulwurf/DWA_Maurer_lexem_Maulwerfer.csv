@@ -1,0 +1,674 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Co D3	na	Rimbach-Pès-Masevaux)	6.9473, 47.82212	mülwarfer	na	999	mülwarfer	na	999	Maulwerfer	na	999
+1	Hag T 2	III_7_0006	Kirberg (Kirrberg), Kirberg	7.06204, 48.8233	müllwärfer	mülwerfer	2	mülwerfer	mülwerfer	0	Maulwerfer	Maulwerfer	0
+2	Hag T 4	III_7_0013	Goerlingen, Görlingen	7.08247, 48.79646	mullwerfer	mullwerfer	0	mulwerfer	mulwerfer	0	Maulwerfer	Maulwerfer	0
+3	Hag E 6/1	na	Saarbuckenheim (Sarre-Union)	7.08686, 48.93919	müllwärfer	na	999	mülwerfer	na	999	Maulwerfer	na	999
+4	Hag T 3	III_7_0008	Rauweiler, Rauweiler	7.10907, 48.81139	müllwerfer	mülwerfer	1	mülwerfer	mülwerfer	0	Maulwerfer	Maulwerfer	0
+5	Hag T 1	III_6_0011	Hirschland, Hirschland	7.11324, 48.83701	mülwerfer	mülwerfer	0	mülwerfer	mülwerfer	0	Maulwerfer	Maulwerfer	0
+6	Hag M 8	III_6_0007	Eschweiler (Eschwiller), Eschweiler	7.11652, 48.8596	mülwerfer	mǖlwerfer	1	mülwerfer	mülwerfer	0	Maulwerfer	Maulwerfer	0
+7	Hag M 7	III_6_0016	Eyweiler (Eywiller), Eyweiler	7.13172, 48.8709	müllwerfer	müllwärfer	1	mülwerfer	mülwerfer	0	Maulwerfer	Maulwerfer	0
+8	Hag M 4	na	Tal bei Drulingen (Thal-Drulingen)	7.1452, 48.90983	müllwärfer	na	999	mülwerfer	na	999	Maulwerfer	na	999
+9	Hag M 9	na	Weyer	7.15976, 48.85488	mülwärfer	na	999	mülwerfer	na	999	Maulwerfer	na	999
+10	Hag N 11	III_6_0025	Bettweiler (Bettwiller), Bettweiler	7.17993, 48.88617	müllwärfer	müllwärfer	0	mülwerfer	mülwerfer	0	Maulwerfer	Maulwerfer	0
+11	Hag N 13	III_6_0026	Drulingen, Drulingen	7.18979, 48.8662	müllwerfer	müllwerfer	0	mülwerfer	mülwerfer	0	Maulwerfer	Maulwerfer	0
+12	Hag N 10	III_6_0024	Dürstel (Durstel), Durstel	7.19745, 48.89156	mülwerfer	mülwerfer	0	mülwerfer	mülwerfer	0	Maulwerfer	Maulwerfer	0
+13	Co r 4	na	Winzfelden (Wintzfelden)	7.19806, 47.97442	mülwarfer	na	999	mülwarfer	na	999	Maulwerfer	na	999
+14	Hag N 9	III_6_0018	Adamsweiler (Adamswiller), Adamsweiler	7.20348, 48.90463	mǖlwerfr	mülwerfer	2	mülwerfer	mülwerfer	0	Maulwerfer	Maulwerfer	0
+15	Hag N 16	III_6_0028	Sieweiler (Siewiller), Sieweiler	7.20676, 48.84318	mülwerfer	müllwerfer	1	mülwerfer	mülwerfer	0	Maulwerfer	Maulwerfer	0
+16	Hag N 12	III_6_0023	Aßweiler (Asswiller), Assweiler	7.2198, 48.88035	müllwerfer	mülwerfer	1	mülwerfer	mülwerfer	0	Maulwerfer	Maulwerfer	0
+17	Co y 3	III_14_0022	Sulz (Soultz-Haut-Rhin), Sulz	7.22862, 47.88613	müllwarfer	müllwarfer	0	mülwarfer	mülwarfer	0	Maulwerfer	Maulwerfer	0
+18	Hag N 14	III_6_0030, III_6_0029	Ottweiler (Ottwiller), Ottweiler	7.23096, 48.86516	mülwerfer	mülwerfer, mulwerfer	0	mülwerfer	mülwerfer, mulwerfer	0	Maulwerfer	Maulwerfer	0
+19	Hag U 4	na	Büst (Bust)	7.2357, 48.82915	mülwerfer	na	999	mülwerfer	na	999	Maulwerfer	na	999
+20	Hag N 15	III_6_0031	Lohr, Lohr	7.24351, 48.85748	mülwerfer	müllwerfer	1	mülwerfer	mülwerfer	0	Maulwerfer	Maulwerfer	0
+21	Hag N 5	III_6_0019	Tieffenbach, Tieffenbach	7.24987, 48.90483	mülwärfer	mülwelfer	2	mülwerfer	mülwelfer	1	Maulwerfer	Maulwerfer	0
+22	Hag N 4	III_5_0048	Weislingen, Weislingen	7.25159, 48.91879	mülwärfr	müllwerfer	3	mülwerfer	mülwerfer	0	Maulwerfer	Maulwerfer	0
+23	Hag N 6	III_6_0022	Strut (Struth), Strut	7.25475, 48.89009	mühlwerfer	mülwerfer	1	mülwerfer	mülwerfer	0	Maulwerfer	Maulwerfer	0
+24	Hag U 5	III_7_0032	Pfalzweier (-weyer), Pfalzweier	7.25813, 48.80543	müllwerfer	müllwerfer	0	mülwerfer	mülwerfer	0	Maulwerfer	Maulwerfer	0
+25	Stra z 2	III_10_0086	Natzweiler, Natzweiler	7.25895, 48.43628	mulwarfr	mülwarfr	1	mülwarfer	mülwarfer	0	Maulwerfer	Maulwerfer	0
+26	Hag U 3	na	Schönburg (Schoenbourg)	7.26823, 48.83392	mülwelfer	na	999	mülwelfer	na	999	Maulwerfer	na	999
+27	Hag N 7	III_6_0035	Petersbach, Petersbach	7.26874, 48.86912	mülwerfer	mülwerfer	0	mülwerfer	mülwerfer	0	Maulwerfer	Maulwerfer	0
+28	Hag N 3	III_6_0020	Frohmühl (Frohmuhl), Frohmühl	7.28007, 48.90754	müllwerfer	mülwerfer	1	mülwerfer	mülwerfer	0	Maulwerfer	Maulwerfer	0
+29	Hag U 2	III_7_0034	Graufthal, Grauftal	7.28092, 48.81935	mülwälfer	mülwelver	2	mülwelfer	mülwelfer	0	Maulwerfer	Maulwerfer	0
+30	Stra G 7	III_11_0001	Bassenberg (Bassemberg), Bassenberg	7.28546, 48.33566	müllwalfer	mühwolfer	3	mülwalfer	müwalfer	1	Maulwerfer	Maulwerfer	0
+31	Hag N 2	III_6_0021	Hinsburg (Hinsbourg), Hinsburg	7.28852, 48.90706	müllwerfer	mülwerfer	1	mülwerfer	mülwerfer	0	Maulwerfer	Maulwerfer	0
+32	Stra G 4	na	St, Martin (Saint-Martin)	7.28942, 48.35047	müllwerfer	na	999	mülwerfer	na	999	Maulwerfer	na	999
+33	Hag U 1	III_7_0033	Etschburg (Eschbourg), Eschburg	7.29591, 48.81267	mülwelfer	mülwelfer	0	mülwelfer	mülwelfer	0	Maulwerfer	Maulwerfer	0
+34	Stra s 3	III_10_0003	Mühlbach (Muhlbach-Sur-Bruche), Mühlbach	7.29709, 48.51659	mülwaͤlfer	müllwarfer	3	mülwalfer	mülwarfer	1	Maulwerfer	Maulwerfer	0
+35	Stra l 1, Stra l 3	III_9_0005, III_9_0007	Engental, Engenthal, Engental-Windsburg, Engental	7.30153, 48.63467	müllwalfer, mulwalfer	mülwalfer, mülwalver	1	mülwalfer, mulwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+36	Stra O 4	III_11_0086	Wanzel (La Vancelle), Wanzel	7.30201, 48.28406	mülwarfer	müllwärfer	2	mülwarfer	mülwerfer	1	Maulwerfer	Maulwerfer	0
+37	Stra l 2	na	Wangenburg	7.30732, 48.6228	müllwerfer	na	999	mülwerfer	na	999	Maulwerfer	na	999
+38	Stra O 2	III_11_0084	Neukirch (Neuve-Église), Neukirch	7.31338, 48.32872	mülwolfer	müllwolfer	1	mülwolfer	mülwolfer	0	Maulwerfer	Maulwerfer	0
+39	Hag N 1	III_5_0049	Puberg, Puberg	7.31461, 48.91322	mülwerfer	mülwerfer	0	mülwerfer	mülwerfer	0	Maulwerfer	Maulwerfer	0
+40	Stra d 2	III_8_0026	Reinhardsmünster, Reinhardsmünster	7.31728, 48.67755	mülwalfer	mülwalfer	0	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+41	Hag N 8	III_6_0032	Lützelstein (La Petite-Pierre), Lützelstein	7.32076, 48.85864	mülwerfer	mülwerfer	0	mülwerfer	mülwerfer	0	Maulwerfer	Maulwerfer	0
+42	Co c 13	na	Mittelweier	7.32094, 48.14982	mülwalfr	na	999	mülwalfer	na	999	Maulwerfer	na	999
+43	Stra z 1/2, Stra z 1/1	III_10_0085	Grendelbruch, Grendelbruch	7.32375, 48.49241	mülwarfer, mülwalfer	müllwalfer	1	mülwarfer, mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+44	Stra s 2	III_10_0004	Urmatt, Urmatt	7.32457, 48.52675	müllwalfer	mülwarfer	2	mülwalfer	mülwarfer	1	Maulwerfer	Maulwerfer	0
+45	Stra V 4	na	Rappoltsweiler (Ribeauvillé)	7.32486, 48.19355	mülwarfer	na	999	mülwarfer	na	999	Maulwerfer	na	999
+46	Stra O 3	III_11_0085	Diefenbach (Dieffenbach-Au-Val), Diefenbach	7.32766, 48.31529	mülwalfer	mülwalfer	0	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+47	Stra d 1	III_8_0027	Sankt Gallen, Tal St, Gallen	7.32779, 48.69001	mülwalfer	mülwalfer	0	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+48	Stra G 1	III_11_0002	Le Hohwald, Hohwald	7.33005, 48.40339	müllwarfer	müllwarfer	0	mülwarfer	mülwarfer	0	Maulwerfer	Maulwerfer	0
+49	Stra s 1/1, Stra s 1/2	III_10_0001	Oberhaslach, Oberhaslach	7.33046, 48.5499	müllwarfer, mülwärfer	mülwarfer	1	mülwarfer, mülwerfer	mülwarfer	0	Maulwerfer	Maulwerfer	0
+50	Stra m 17	III_8_0043	Hengweiler, Hengweiler	7.33273, 48.66842	mülwarfer	müllwerfer	2	mülwarfer	mülwerfer	1	Maulwerfer	Maulwerfer	0
+51	Stra P 1	III_11_0091	St Moritz (Saint-Maurice), St, Moritz	7.33562, 48.32669	müllwalfer	mulwalfer	2	mülwalfer	mulwalfer	1	Maulwerfer	Maulwerfer	0
+52	Hag G 1	III_5_0052	Rosteig, Rosteig	7.33838, 48.9327	meulwarfer	mäulweafer	3	mäulwarfer	maulwerfer	2	Maulwerfer	Maulwerfer	0
+53	Stra P 4	na	Gereut (Neubois)	7.33937, 48.3063	mülwarfer	na	999	mülwarfer	na	999	Maulwerfer	na	999
+54	Stra e 21	na	Hägen	7.33939, 48.71422	mülwalfer	na	999	mülwalfer	na	999	Maulwerfer	na	999
+55	Stra t 14	III_10_0012	Niederhaslach, Niederhaslach	7.34119, 48.54244	müllwarfer	mullwarfer	1	mülwarfer	mulwarfer	1	Maulwerfer	Maulwerfer	0
+56	Stra m 1	III_9_0013	Birkenwald, Birkenwald	7.34505, 48.65874	mülwalfer	mülwalfer	0	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+57	Hag O 3	III_6_0036	Zittersheim, Zittersheim	7.34551, 48.89955	mülwerfer	mülwerfer	0	mülwerfer	mülwerfer	0	Maulwerfer	Maulwerfer	0
+58	Stra e 1	III_7_0047	Otterstal, Ottersthal	7.34837, 48.75567	mülwalfer	müllwelfer	2	mülwalfer	mülwelfer	1	Maulwerfer	Maulwerfer	0
+59	Stra e 16	III_8_0040	Tal bei Maursmünster (Marmoutier), Tal-Maursmünster	7.35204, 48.70268	müllwälver	mülwalfer	3	mülwelfer	mülwalfer	1	Maulwerfer	Maulwerfer	0
+60	Stra P 3	na	Tannweiler (Thanvillé)	7.35364, 48.32384	mülwalver	na	999	mülwalfer	na	999	Maulwerfer	na	999
+61	Hag V 10	III_7_0044	Eckartsweiler, Eckartsweiler	7.357, 48.76744	mülwalfer	müllwalfer	1	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+62	Stra W 3	III_12_0011	Rodern, Rodern	7.35716, 48.22457	mülwarfer	mülwarfer	0	mülwarfer	mülwarfer	0	Maulwerfer	Maulwerfer	0
+63	Stra e 19	III_8_0042	Dimbstal, Dimbstal	7.35926, 48.6727	mühlwalfer	müllwerfer	3	mülwalfer	mülwerfer	2	Maulwerfer	Maulwerfer	0
+64	Hag O 4	III_6_0037	Erkartsweiler (Erckartswiller), Erkartsweiler	7.3596, 48.87532	mülwärfer	müllwellfer	4	mülwerfer	mülwelfer	1	Maulwerfer	Maulwerfer	0
+65	Stra P 2	III_11_0092	St Petersholz (Saint Pierre Bois), St, Petersholz	7.36093, 48.3272	mülwalver	mülwalfer	1	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+66	Stra e 2/3, Stra e 2/2, Stra e 2/1	III_8_0029	Zabern, Zabern	7.36605, 48.73948	mühlwelfer, müllwärfer, mullwelfer	mülwerfer	2	mülwerfer, mulwelfer	mülwerfer	0	Maulwerfer	Maulwerfer	0
+67	Co d 1	III_12_0088	Ostheim, Ostheim	7.37011, 48.1551	mülwarfer	mülwarfer	0	mülwarfer	mülwarfer	0	Maulwerfer	Maulwerfer	0
+68	Stra m 2	III_8_0044	Salental, Salental	7.37043, 48.66739	mülwalwer	müllwalfer	2	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+69	Stra m 16	III_9_0008	Allenweiler, Allenweiler	7.37795, 48.65555	můlwerfer	müllwarfer	3	mulwerfer	mülwarfer	2	Maulwerfer	Maulwerfer	0
+70	Stra e 3	na	Ottersweiler (Otterswiller)	7.37883, 48.7258	müllwalfr	na	999	mülwalfer	na	999	Maulwerfer	na	999
+71	Hag V 8	III_7_0042	Ernolsheim (Ernoldsheim-Lès-Saverne), Ernolsheim	7.38025, 48.78942	mülwalfer	mülwalfer	0	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+72	Stra m 3/1, Stra e 17	III_8_0041	Maursmünster (Marmoutier), Maursmünster, Maursmünster	7.38108, 48.69056	müllwalfer	müllwalfer	0	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+73	Hag G 2	III_5_0057	Wingen (Wingen-Sur-Moder), Wingen	7.38129, 48.91753	mǖlwerfer	mülwerfer	1	mülwerfer	mülwerfer	0	Maulwerfer	Maulwerfer	0
+74	Stra W 2, Stra W 1	III_12_0008, III_12_0009	St, Pilt (saint-Hyppolyte), Orschweiler (Orschwiller), St, Pilt, Orschweiler	7.38445, 48.24184	müllwarfer	müllwerfer, müllwelfer	1	mülwarfer	mülwelfer, mülwerfer	1	Maulwerfer	Maulwerfer	0
+75	Stra H 7	III_11_0020	Reichsfeld, Reichsfeld	7.38628, 48.36613	mǖlwalfer	mülwalfr	2	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+76	Stra m 3/2	III_8_0045	Singrist, Singrist	7.38757, 48.6705	müllwarfer	müllwarfer	0	mülwarfer	mülwarfer	0	Maulwerfer	Maulwerfer	0
+77	Stra t 9	III_10_0014	Heiligenberg, Heiligenberg	7.3916, 48.53799	mülwarfer	mülwarfer	0	mülwarfer	mülwarfer	0	Maulwerfer	Maulwerfer	0
+78	Stra P 9	III_11_0094	Kinzheim (Kintzheim), Kinzheim	7.39476, 48.25441	muᵉlwaᵉrfer	mülwerfer	4	mulwarfer	mülwerfer	2	Maulwerfer	Maulwerfer	0
+79	Stra m 18	III_9_0012	Koßweiler (Cosswiller), Kossweiler	7.39912, 48.63165	mülwalfer	mülwalfer	0	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+80	Stra P 8	III_11_0096	Kestenholz (Châtenois), Kestenholz	7.39919, 48.27183	müllwarfer	müllwarfer	0	mülwarfer	mülwarfer	0	Maulwerfer	Maulwerfer	0
+81	Stra H 6, Stra A 5	III_11_0019, III_10_0094	Bernhardsweiler (Bernardvillé), Bernhardsweiler	7.40011, 48.36706	mülwalfer, mulwaälfer	mulwaͣ̈rfer, mülwalfer	0	mülwalfer, mulwalfer	mülwalfer, mulwärfer	0	Maulwerfer	Maulwerfer	0
+82	Hag V 6	III_7_0043	Dossenheim (Dossenheim-Sur-Zinsel), Dossenheim	7.40138, 48.80593	mülwalver	mülwalver	0	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+83	Hag V 5	III_7_0040	Neuweiler (Neuwiller-Lès-Saverne), Neuweiler	7.4034, 48.82391	mülwelfer	mülwelfer	0	mülwelfer	mülwelfer	0	Maulwerfer	Maulwerfer	0
+84	Stra t 4	III_10_0013	Still, Still	7.4048, 48.54953	mülwarfer	mülwarfer	0	mülwarfer	mülwarfer	0	Maulwerfer	Maulwerfer	0
+85	Stra e 18	III_8_0046	Reutenburg, Reutenburg	7.4064, 48.68515	mülwalfer	mülwalfer	0	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+86	Stra m 8	III_9_0010	Romansweiler, Romansweiler	7.40829, 48.64445	müllwälfer	mülwalver	3	mülwelfer	mülwalfer	1	Maulwerfer	Maulwerfer	0
+87	Stra e 4	III_8_0037	Schweinheim (Schwenheim), Schweinheim	7.4132, 48.71301	mülwalfer	müllwalfer	1	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+88	Hag V 11	III_7_0049	Steinburg (Steinbourg), Steinburg	7.41332, 48.7697	müllwalfer	mülwalfer	1	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+89	Hag O 12	III_6_0040	Weitersweiler (Weiterswiller), Weitersweiler	7.41341, 48.85298	mülwerfer	mülwelfer	1	mülwerfer	mülwelfer	1	Maulwerfer	Maulwerfer	0
+90	Stra m 4	III_8_0047	Jettersweiler, Jettersweiler	7.41482, 48.67034	mülwalfer	mülwalfer	0	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+91	Hag O 5	na	Sparsbach	7.41533, 48.87754	müllwelfer	na	999	mülwelfer	na	999	Maulwerfer	na	999
+92	Stra e 11	III_8_0052	Lochweiler, Lochweiler	7.41619, 48.69645	müllwelfer	mülwalfer	2	mülwelfer	mülwalfer	1	Maulwerfer	Maulwerfer	0
+93	Stra H 5	III_11_0018	Andlau, Andlau	7.41747, 48.38635	müllwelfer	müllwalfer	1	mülwelfer	mülwalfer	1	Maulwerfer	Maulwerfer	0
+94	Stra A 11	III_10_0090	Klingenthal, Klingental	7.41771, 48.47239	müllwalfer	müllwalfer	0	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+95	Stra H 14	III_11_0025	Blienschweiler (Blienschwiller), Blienschweiler	7.41844, 48.34128	mülwarfer	müllwarfer	1	mülwarfer	mülwarfer	0	Maulwerfer	Maulwerfer	0
+96	Stra H 13	III_11_0024	Nothalten, Nothalten	7.41957, 48.3503	mülwalfer	mülwalfer	0	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+97	Hag O 2	III_6_0038	Wimmenau, Wimmenau	7.41957, 48.91035	mülwelfer	mülwälfer	1	mülwelfer	mülwelfer	0	Maulwerfer	Maulwerfer	0
+98	Stra P 7	III_11_0087	Scherweiler (Scherwiller), Scherweiler	7.4198, 48.28734	müllwarfer	müllwarfer	0	mülwarfer	mülwarfer	0	Maulwerfer	Maulwerfer	0
+99	Stra P 6	III_11_0095	Diefental (Dieffenthal), Diefental	7.4217, 48.30979	mülwarfer	mülwarfer	0	mülwarfer	mülwarfer	0	Maulwerfer	Maulwerfer	0
+100	Hag V 7	III_7_0050	Hattmatt, Hattmatt	7.42386, 48.79158	mühlwalfer	mülwalfer	1	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+101	Stra m 5	III_9_0011	Krastatt, Krastatt	7.4265, 48.65831	müllwarfer	müllwalfer	1	mülwarfer	mülwalfer	1	Maulwerfer	Maulwerfer	0
+102	Stra t 5	III_10_0015, III_10_0016	Dinsheim (Dinsheim-Sur-Bruche), Dinsheim	7.4273, 48.54254	müllwarfer	mülwarfer, müllwarfer	0	mülwarfer	mülwarfer	0	Maulwerfer	Maulwerfer	0
+103	Stra P 5	III_11_0089, III_11_0090	Dambach (Dambach-La-Ville), Dambach	7.42838, 48.32103	mullwerfer	mulwärfer, mülwarfr	2	mulwerfer	mülwarfer, mulwerfer	0	Maulwerfer	Maulwerfer	0
+104	Stra t 15/1	III_10_0006, III_10_0007	Flexburg, Flexburg	7.43177, 48.57213	mülwarfer	müllwarfer, mulwarfi	1	mülwarfer	mülwarfer, mulwarfi	0	Maulwerfer	Maulwerfer	0
+105	Stra t 10	na	Gressweiler	7.43186, 48.53571	mülwarfer	na	999	mülwarfer	na	999	Maulwerfer	na	999
+106	Stra H 12	III_11_0021	Ittersweiler (Itterswiller), Ittersweiler	7.4322, 48.36386	mulwarfer	mülwalfer	2	mulwarfer	mülwalfer	2	Maulwerfer	Maulwerfer	0
+107	Stra A 6/1, Stra A 6/2	III_10_0091	Ottrott, Ottrott	7.43298, 48.46056	mulwalfr, mülwalfer	müllwerfer	3	mülwalfer, mulwalfer	mülwerfer	2	Maulwerfer	Maulwerfer	0
+108	Stra W 6	na	Illhäusern (Illhaeusern)	7.43355, 48.18466	mülwarfer	na	999	mülwarfer	na	999	Maulwerfer	na	999
+109	Stra e 22	III_8_0032	Waldolwisheim, Waldolwisheim	7.43629, 48.73254	müelwelfer	mulwerfer	3	müelwelfer	mulwerfer	3	Maulwerfer	Maulwerfer	0
+110	Hag V 4	na	Griesbach Le Bastberg	7.43717, 48.81355	mülwalfer	na	999	mülwalfer	na	999	Maulwerfer	na	999
+111	Stra t 1	III_10_0005	Balbronn, Balbronn	7.43736, 48.58406	müllwalfer	müllwalfer	0	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+112	Stra e 5	III_8_0036	Furchhausen, Furchhausen	7.43921, 48.71868	mülwelfer	müllwelfer	1	mülwelfer	mülwelfer	0	Maulwerfer	Maulwerfer	0
+113	Stra A 3/1	III_10_0089	Börsch (Boersch), Börsch	7.43994, 48.47577	mülwarfer	müllwarfer	1	mülwarfer	mülwarfer	0	Maulwerfer	Maulwerfer	0
+114	Hag O 6	III_6_0046	Weinburg (Weinbourg), Weinburg	7.44029, 48.87157	mulwälfer	müllwelfer	3	mulwelfer	mülwelfer	1	Maulwerfer	Maulwerfer	0
+115	Stra H 3	III_11_0017	Mittelbergheim, Mittelbergheim	7.44252, 48.39603	mülwalfer	mülwalfer	0	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+116	Stra H 4	III_11_0016	Eichhofen (Eichhoffen), Eichhofen	7.44268, 48.38403	müllwarfer	müllwarfer	0	mülwarfer	mülwarfer	0	Maulwerfer	Maulwerfer	0
+117	Stra m 19	III_9_0022	Westhofen, Westhofen	7.44341, 48.60424	mülwalfer	mülwarfer	1	mülwalfer	mülwarfer	1	Maulwerfer	Maulwerfer	0
+118	Stra e 12	na	Kleingöft	7.44376, 48.69162	mülwalfer	na	999	mülwalfer	na	999	Maulwerfer	na	999
+119	Stra m 9/2, Stra m 9/1	III_9_0009	Wasselnheim (Wasselonne), Wasselnheim	7.44724, 48.63718	mülwarfer, mülwälfer	mülwarfer	0	mülwelfer, mülwarfer	mülwarfer	0	Maulwerfer	Maulwerfer	0
+120	Stra e 12,13	III_8_0051	Westhausen (Westhouse-Marmoutier), Westhausen	7.44963, 48.68592	mülwerfer	mülwälfer	2	mülwerfer	mülwelfer	1	Maulwerfer	Maulwerfer	0
+121	Hag O 11	III_6_0041	Obersulzbach (Obersoultzbach), Obersulzbach	7.45013, 48.85174	müllwälfer	mülwalfer	2	mülwelfer	mülwalfer	1	Maulwerfer	Maulwerfer	0
+122	Stra t 6	na	Mutzig	7.45043, 48.53927	müllwarfer	na	999	mülwarfer	na	999	Maulwerfer	na	999
+123	Hag V 12	III_7_0053	Rosenweiler-Dettweiler, Rosenweiler-Dettweiler	7.45083, 48.76772	müllwerfer	mülwalfer	3	mülwerfer	mülwalfer	2	Maulwerfer	Maulwerfer	0
+124	Stra e 20	III_8_0048	Zehnacker, Zehnacker	7.45086, 48.67123	mühlwalfer	mülwalfer	1	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+125	Stra e 10	III_8_0053	Wolschheim, Wolschheim	7.45106, 48.70358	mülwalfer	mülwalfer	0	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+126	Stra A 8	III_10_0096	Heiligenstein, Heiligenstein	7.45184, 48.41784	mülwarfer	müllwarfer	1	mülwarfer	mülwarfer	0	Maulwerfer	Maulwerfer	0
+127	Stra P 10/2, Stra P 10/1, Stra P 10/3	III_11_0093	Schlettstadt (Sélestat), Schlettstadt	7.45232, 48.2578	mülwerfer, müllwerfer	mulwelfer	2	mülwerfer	mulwelfer	2	Maulwerfer	Maulwerfer	0
+128	Stra H 2/2, Stra H 2/3, Stra H 2/1	III_11_0013	Barr, Barr	7.45244, 48.40651	müllwarfer, mühlwälter	müllwafer	1	mülwarfer, mülwälter	mülwafer	1	Maulwerfer	Maulwerfer	0
+129	Hag V 3	III_7_0051	Imbsheim, Imbsheim	7.45399, 48.80165	mülwarfer	müllwalfer	2	mülwarfer	mülwalfer	1	Maulwerfer	Maulwerfer	0
+130	Stra t 2/2	na	Bergbieten	7.45869, 48.57632	mülwarfer	na	999	mülwarfer	na	999	Maulwerfer	na	999
+131	Stra e 14	III_8_0050	Knörsheim, Knörrsheim	7.46052, 48.68079	mülwalver	mühlwalfer	2	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+132	Stra e 9	III_8_0054	Männolsheim, Männolsheim	7.46258, 48.69969	mülwarfer	mülwalfer	1	mülwarfer	mülwalfer	1	Maulwerfer	Maulwerfer	0
+133	Hag G 3	III_5_0058	Reipertsweiler (Reipertswiller), Reipertsweiler	7.46373, 48.93214	mülwelfer	mulwelfer	1	mülwelfer	mulwelfer	1	Maulwerfer	Maulwerfer	0
+134	Stra e 6	III_8_0035	Altenheim, Altenheim	7.46448, 48.71956	mǖlwālfer	müllwalfer	3	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+135	Stra m 15	III_9_0019	Tränheim, Tränheim	7.46472, 48.59545	mülwalfer	mülwalfer	0	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+136	Stra H 11/2, Stra H 11/1	III_11_0023, III_11_0022	Epfig, Epfig	7.4655, 48.35803	mülwalfr, mülwalfer	mülwalfer, müllwalfer	0	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+137	Hag O 10	III_6_0042	Niedersulzbach (Niedersoultzbach), Niedersulzbach	7.4662, 48.84923	müllwalfer	müllwalfer	0	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+138	Stra m 10	III_9_0023	Wangen , Wangen	7.4664, 48.61834	mullwalfer	müllwalfer	1	mulwalfer	mülwalfer	1	Maulwerfer	Maulwerfer	0
+139	Stra t 3	III_10_0009	Dangolsheim, Dangolsheim	7.46645, 48.57212	mülwalfer	mülwarfer	1	mülwalfer	mülwarfer	1	Maulwerfer	Maulwerfer	0
+140	Hag V 13	III_7_0055	Dettweiler, Dettweiler	7.46685, 48.75406	mülwalfer	mülwalfer	0	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+141	Stra H 1	III_11_0012	Gertweiler (Gertwiller), Gertweiler	7.46795, 48.4111	mǖlwārfer	mülwalfer	3	mülwarfer	mülwalfer	1	Maulwerfer	Maulwerfer	0
+142	Stra H 10	III_11_0015	St, Peter (Saint-Pierre), St, Peter	7.47022, 48.38171	mülwerfer	mülwarfer	1	mülwerfer	mülwarfer	1	Maulwerfer	Maulwerfer	0
+143	Stra m 7	III_9_0017	Hohengöft, Hohengött	7.47311, 48.66189	mülwalfer	mülwalfer	0	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+144	Stra t 13	III_9_0020	Irmstett, Irmstett	7.47751, 48.58828	müllwalfer	mülwalfer	1	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+145	Hag V 1/2, Hag V 1/1	III_7_0041	Buchsweiler (Bouxwiller), Buchsweiler	7.47851, 48.82528	mülwelfer, müllwelfer	müülwelfer	1	mülwelfer	mülwelfer	0	Maulwerfer	Maulwerfer	0
+146	Stra m 6	III_9_0016	Rangen, Rangen	7.47865, 48.66636	mǖlwalfer	müllwalfer	2	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+147	Hag V 15	III_7_0054	Gottesheim-Prinzheim, Prinzheim	7.47921, 48.79113	mülwalfer	mülwalfer	0	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+148	Hag V 14	III_7_0056	Gottesheim, Gottesheim	7.47938, 48.77591	mǖlwalfer	mülwalfer	1	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+149	Hag V 2	na	Riedheim	7.47956, 48.81064	mǖlwalfer	na	999	mülwalfer	na	999	Maulwerfer	na	999
+150	Hag O 7	III_6_0045	Ingweiler (Ingwiller), Ingweiler	7.48031, 48.87322	mǖlwälfer	maulwerfer	4	mülwelfer	maulwerfer	3	Maulwerfer	Maulwerfer	0
+151	Hag O 1	III_5_0059	Lichtenberg, Lichtenberg	7.48181, 48.9216	mülwalfer	müllwelfer	2	mülwalfer	mülwelfer	1	Maulwerfer	Maulwerfer	0
+152	Stra A 10	III_10_0097	Goxweiler (Goxwiller), Goxweiler	7.48432, 48.43288	müllwerfer	müllwerfer	0	mülwerfer	mülwerfer	0	Maulwerfer	Maulwerfer	0
+153	Stra e 7/2, Stra e 7/1	III_8_0033	Lupstein, Lupstein	7.48491, 48.73763	mullwerfer, mülwalver	müllwaifer	3	mulwerfer, mülwalfer	mülwaifer	1	Maulwerfer	Maulwerfer	0
+154	Stra A 4	III_10_0093	Oberehnheim (Obernai), Oberehnheim	7.48507, 48.4622	mülwarfer	mülwarfer	0	mülwarfer	mülwarfer	0	Maulwerfer	Maulwerfer	0
+155	Stra e 8	III_8_0055	Friedolsheim, Friedolsheim	7.48538, 48.70717	mülwälfer	mülwälfer	0	mülwelfer	mülwelfer	0	Maulwerfer	Maulwerfer	0
+156	Hag O 9	III_6_0043	Uttweiler (Uttwiller), Uttweiler	7.48667, 48.84591	mülwalfer	mülwalfer	0	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+157	Stra m 13	III_9_0018	Odratzheim, Odratzheim	7.48778, 48.60108	müllwalfer	mülwalfer	1	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+158	Stra H 9	III_11_0014	Stotzheim, Stotzheim	7.48841, 48.37831	müllwalfer	müllwalfer	0	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+159	Stra m 11	III_9_0015	Marlenheim, Kärchheim, Marlenheim	7.49054, 48.62101	mülwarfer	mülwalfe	2	mülwarfer	mülwalfer	1	Maulwerfer	Maulwerfer	0
+160	Stra A 9	III_11_0011	Burgheim (Bourgheim), Burgheim	7.49064, 48.41936	mülwalfer	mülwalfer	0	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+161	Stra t 7	III_10_0019	Molsheim, Molsheim	7.49067, 48.54038	müllwalfer	müllwalfer	0	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+162	Hag O 8	III_6_0044	Menchhofen (Menchhoffen), Menchhofen	7.49498, 48.85955	mülwalfer	müllwalfer	1	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+163	Stra m 12	III_9_0014	Kirchheim, Kirchheim	7.49624, 48.60963	müllwarfer	müllwarfer	0	mülwarfer	mülwarfer	0	Maulwerfer	Maulwerfer	0
+164	Stra e 15	III_8_0038	Landersheim, Landersheim	7.49655, 48.69022	müllwalfer	mullwalfr	2	mülwalfer	mulwalfer	1	Maulwerfer	Maulwerfer	0
+165	Stra H 8	III_11_0027	Zellweiler (Zellwiller), Zellweiler	7.49786, 48.39782	müllwalfer	müllwalfer	0	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+166	Stra u 7	III_10_0011	Avolsheim, Avolsheim	7.50043, 48.56159	mülwaffler	mülwerfer	3	mülwalfer	mülwerfer	2	Maulwerfer	Maulwerfer	0
+167	Stra P 11	III_11_0098	Ebersheim, Ebersheim	7.50132, 48.30759	mülwärfr	müllwarfer	3	mülwerfer	mülwarfer	1	Maulwerfer	Maulwerfer	0
+168	Stra u 1	na	Dahlenheim	7.50654, 48.58628	mülwarfl	na	999	mülwarfer	na	999	Maulwerfer	na	999
+169	Stra f 20	III_8_0056	Wilwisheim, Wilwisheim	7.5074, 48.74799	muͤlwalfer	mülwalfer	2	mulwalfer	mülwalfer	1	Maulwerfer	Maulwerfer	0
+170	Hag W 13	III_7_0057	Bosselshausen, Bosselshausen	7.50884, 48.80522	mülwalfer	mülwalfer	0	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+171	Stra n 11	III_9_0038	Nordheim, Nordheim	7.51005, 48.63544	müllwārfer	mühlwarfer	2	mülwarfer	mülwarfer	0	Maulwerfer	Maulwerfer	0
+172	Stra f 19	na	Willgottheim	7.51166, 48.67082	müllwerfer	na	999	mülwerfer	na	999	Maulwerfer	na	999
+173	Stra n 1	III_9_0037	Winzenheim (Wintzenheim-Kochersberg), Winzenheim	7.51469, 48.65916	müllwallfer	müllwalfer	1	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+174	Stra f 15	III_8_0059, III_8_0058	Sässolsheim, Sässolsheim	7.51503, 48.70869	mulwarfer	mülwalfer, mulwalfer	1	mulwarfer	mülwalfer, mulwalfer	1	Maulwerfer	Maulwerfer	0
+175	Stra B 6	III_10_0100	Niederehnheim (Niedernai), Niederehnheim	7.51765, 48.45309	müllwalfer	müllwalfer	0	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+176	Hag W 16/2, Hag W 16/1	III_7_0077	Melsheim, Melsheim	7.51974, 48.75911	mülwalfer, müllwalfer	müllwalfer	0	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+177	Stra B 7	III_10_0102, III_10_0103	Walf (Valff)), Walf	7.52068, 48.42151	müllwalfer	mülwalfer	1	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+178	Stra f 21	III_8_0057	Ingenheim, Ingenheim	7.52092, 48.7349	mǖlwalfer	mülwalfer	1	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+179	Stra Q 1	III_11_0097	Ebersmünster (Ebersmunster), Ebersmunster	7.52112, 48.31139	müllwarfer	mülwärfr	3	mülwarfer	mülwerfer	1	Maulwerfer	Maulwerfer	0
+180	Hag P 17	III_6_0052	Schillersdorf, Schillersdorf	7.52526, 48.87312	mülwälfer	müllwerfer	3	mülwelfer	mülwerfer	1	Maulwerfer	Maulwerfer	0
+181	Hag W 12/1, Hag W 12/2	III_7_0135	Zöbersdorf, Zöbersdorf	7.52538, 48.79381	mülwarfer, mülwarfr	mülwarfer	0	mülwarfer	mülwarfer	0	Maulwerfer	Maulwerfer	0
+182	Stra n 10	III_9_0024	Küttolsheim, Küttolsheim	7.52543, 48.64343	mülwalfer	müllwalfer	1	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+183	Stra u 13	III_10_0040	Altdorf (Altorf), Altdorf	7.52793, 48.52186	mülwarfer	mülwarfer	0	mülwarfer	mülwarfer	0	Maulwerfer	Maulwerfer	0
+184	Stra u 6/2	III_10_0025	Ergersheim, Ergersheim	7.52806, 48.56941	mullwalfer	müllwalfer	1	mulwalfer	mülwalfer	1	Maulwerfer	Maulwerfer	0
+185	Hag P 3	III_6_0048	Rotbach, Rotbach	7.52883, 48.90568	mühlwalfer	mühlwalfer	0	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+186	Hag W 6	III_7_0058	Kirrweiler, Kirweiler	7.53026, 48.81331	mülwalfer	mülwalfer	0	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+187	Hag W 14	III_7_0066	Wickersheim, Wickersheim	7.53159, 48.78313	mülwalfer	mülwarfer	1	mülwalfer	mülwarfer	1	Maulwerfer	Maulwerfer	0
+188	Stra u 8	III_10_0026	Dachstein, Dachstein	7.53229, 48.56055	müllwarfer	mülwerfer	2	mülwarfer	mülwerfer	1	Maulwerfer	Maulwerfer	0
+189	Stra Q 6	III_11_0103	Müttersholz (Muttersholtz), Muttersholz	7.53321, 48.2674	müllwarfer	müllwarfer	0	mülwarfer	mülwarfer	0	Maulwerfer	Maulwerfer	0
+190	Stra f 14	III_8_0060	Dunzenheim, Dunzenheim	7.53538, 48.71278	mülwarfer	mülwerfer	1	mülwarfer	mülwerfer	1	Maulwerfer	Maulwerfer	0
+191	Stra n 12	na	Fessenheim (Fessenheim-le-Bas)	7.5391, 48.63315	müllwalfer	na	999	mülwalfer	na	999	Maulwerfer	na	999
+192	Hag P 18	na	Obermodern	7.53932, 48.84466	mülwalfer	na	999	mülwalfer	na	999	Maulwerfer	na	999
+193	Hag P 4	III_6_0049	Bischholz, Bischholz	7.53995, 48.89301	mülwalfer	mülwälfer	1	mülwalfer	mülwelfer	1	Maulwerfer	Maulwerfer	0
+194	Stra J 12	III_11_0037	Kogenheim, Kogenheim	7.5423, 48.33798	müllwarfer	müllwarfer	0	mülwarfer	mülwarfer	0	Maulwerfer	Maulwerfer	0
+195	Hag P 2	III_6_0059	Offweiler, Offweiler	7.54296, 48.91021	mühlwalfer	mülwerfer	3	mülwalfer	mülwerfer	2	Maulwerfer	Maulwerfer	0
+196	Stra B 5	III_10_0101	Meistratzheim, Meistratzheim	7.54397, 48.44858	müllwarfer	mülwarfer	1	mülwarfer	mülwarfer	0	Maulwerfer	Maulwerfer	0
+197	Stra n 4	na	Neugartheim und Ittlenheim	7.54562, 48.6548	mülwalfer	na	999	mülwalfer	na	999	Maulwerfer	na	999
+198	Stra n 2	na	Ittlenheim	7.54562, 48.65481	mülwalfer	na	999	mülwalfer	na	999	Maulwerfer	na	999
+199	Hag W 11	III_7_0064	Lixhausen, Lixhausen	7.5473, 48.79426	müllwarfer	mülwarfer	1	mülwarfer	mülwarfer	0	Maulwerfer	Maulwerfer	0
+200	Stra f 17	III_8_0062	Rohr, Rohr	7.54735, 48.69609	müllwalfer	müllwalfer	0	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+201	Hag P 16	III_6_0062, III_6_0061	Zutzendorf, Zutzendorf	7.54972, 48.85428	mülwalfer	mülwalfer, mulwalfer	0	mülwalfer	mülwalfer, mulwalfer	0	Maulwerfer	Maulwerfer	0
+202	Stra J 11	III_11_0036	Sermersheim, Sermersheim	7.55199, 48.34632	müllwarfer	mullwarfer	1	mülwarfer	mulwarfer	1	Maulwerfer	Maulwerfer	0
+203	Hag P 5	III_6_0053	Mühlhausen, Mühlhausen	7.5527, 48.88226	mǖlwalfer	mülwalfer	1	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+204	Hag W 7	III_7_0063	Ringendorf, Ringendorf	7.55409, 48.80777	mülwarfer	mülwalfer	1	mülwarfer	mülwalfer	1	Maulwerfer	Maulwerfer	0
+205	Stra u 2/1	III_9_0025	Osthofen, Osthofen	7.55672, 48.58641	mülwalfer	müllwalfer	1	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+206	Hag W 4	III_7_0059	Büsweiler (Buswiller), Büsweiler	7.55923, 48.82025	mǖlwalfer	mülwalfer	1	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+207	Hag W 5	III_6_0065	Schalkendorf, Schalkendorf	7.55965, 48.83213	mülwalfer	mülwalfer	0	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+208	Hag W 15	III_7_0068	Bossendorf, Bossendorf	7.55983, 48.78146	mülwalfer	mülwalfer	0	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+209	Stra f 2	III_8_0078	Schaffhausen bei Hochfelden (schaffhouse-sur-Zorn), Schaffhausen	7.56211, 48.7324	mulwarfer	mülwalfer	2	mulwarfer	mülwalfer	2	Maulwerfer	Maulwerfer	0
+210	Stra u 2/2, Stra n 16	III_9_0042	Fürdenheim, Fürdenheim	7.56378, 48.61325	müllwalfer	mülwelfer	2	mülwalfer	mülwelfer	1	Maulwerfer	Maulwerfer	0
+211	Stra u 9	na	Ernolsheim	7.56478, 48.56483	müllwarfer	na	999	mülwarfer	na	999	Maulwerfer	na	999
+212	Stra B 4	na	Krautergersheim	7.56557, 48.47613	müllwarfer	na	999	mülwarfer	na	999	Maulwerfer	na	999
+213	Stra f 16	III_8_0065	Gugenheim, Gugenheim	7.56591, 48.70185	müllwalfer	müllwalfer	0	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+214	Stra u 12	III_10_0037	Duttlenheim, Düttlenheim	7.56596, 48.52454	müllwarfer	müllwarfer	0	mülwarfer	mülwarfer	0	Maulwerfer	Maulwerfer	0
+215	Stra X 13	na	Mackenheim	7.56598, 48.18437	mulwarfer	na	999	mulwarfer	na	999	Maulwerfer	na	999
+216	Stra Q 5	III_11_0100	Hilsenheim, Hilsenheim	7.56768, 48.29055	müllwarfer	mülwarfer	1	mülwarfer	mülwarfer	0	Maulwerfer	Maulwerfer	0
+217	Hag W 17	III_7_0079	Hochfelden, Hochfelden	7.57004, 48.75735	mülwārfer	mülwalfer	2	mülwarfer	mülwalfer	1	Maulwerfer	Maulwerfer	0
+218	Stra J 3	III_11_0034	Kerzfeld (Kertzfeld), Kerzfeld	7.57276, 48.37779	mülwarfer	müllwarfer	1	mülwarfer	mülwarfer	0	Maulwerfer	Maulwerfer	0
+219	Stra n 13	na	Dossenheim-Kochersberg	7.57335, 48.63816	müllwalfer	na	999	mülwalfer	na	999	Maulwerfer	na	999
+220	Stra B 2	III_10_0098	Innenheim, Innenheim	7.57348, 48.49644	mülwarfer	mülwrfer	1	mülwarfer	mülwerfer	1	Maulwerfer	Maulwerfer	0
+221	Stra n 14	III_9_0036, III_9_0035	Quatzenheim, Quatzenheim	7.57372, 48.62636	müllwalfer	müülwalfer, müllwalfer	0	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+222	Stra X 8	na	Artolsheim	7.57377, 48.20951	mülwerfer	na	999	mülwerfer	na	999	Maulwerfer	na	999
+223	Stra J 10	III_11_0035	Hüttenheim (Huttenheim), Hüttenheim	7.57814, 48.35799	mulwalfer	mülwarfer	2	mulwalfer	mülwarfer	2	Maulwerfer	Maulwerfer	0
+224	Stra f 18	III_8_0064	Kienheim, Kienheim	7.57862, 48.68905	mühlwälfer	mülwalfer	2	mülwelfer	mülwalfer	1	Maulwerfer	Maulwerfer	0
+225	Hag P 6	III_6_0054	Uhrweiler (Uhrwiller), Uhrweiler	7.57892, 48.8784	mühlwålfr	mühlwalfer	2	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+226	Stra n 19	na	Kleinfrankenheim	7.58074, 48.66169	mülwelfer	na	999	mülwelfer	na	999	Maulwerfer	na	999
+227	Hag W 3	III_7_0060	Ettendorf, Ettendorf	7.58414, 48.81374	mülwalfer	müllwalfer	1	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+228	Stra f 3	III_8_0079	Mutzenhausen (Mutzenouse), Mutzenhausen	7.58822, 48.7411	muhlwalfr	mülwarfer	4	mulwalfer	mülwarfer	2	Maulwerfer	Maulwerfer	0
+229	Stra J 2	na	Westhausen (Westhouse)	7.58855, 48.39622	mülwarfer	na	999	mülwarfer	na	999	Maulwerfer	na	999
+230	Stra f 1	III_8_0077	Gingsheim, Gingsheim	7.58895, 48.71645	mülwalfer	mülwalfer	0	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+231	Stra u 11	na	Düppigheim und Duttlenheim (Duppigheim)	7.58968, 48.52813	mülwarfer	na	999	mülwarfer	na	999	Maulwerfer	na	999
+232	Hag P 1	III_5_0068	Zinsweiler, Zinsweiler	7.59018, 48.9196	mühlwalfer	müelwalfer	1	mülwalfer	müelwalfer	1	Maulwerfer	Maulwerfer	0
+233	Stra n 15	na	Hürtigheim	7.59369, 48.6152	müllwalfer	na	999	mülwalfer	na	999	Maulwerfer	na	999
+234	Stra J 4/1, Stra J 4/2, Stra J 4/3	III_11_0033	Benfeld, Benfeld	7.59385, 48.37263	mülwarfer, müllwarfer	mülwarfer	0	mülwarfer	mülwarfer	0	Maulwerfer	Maulwerfer	0
+235	Hag W 10	na	Alteckendorf	7.59484, 48.79272	müllwarfer	na	999	mülwarfer	na	999	Maulwerfer	na	999
+236	Stra n 17, Stra n 18	III_9_0031	Ittenheim, Ittenheim	7.59542, 48.60404	müllwarfer, mülwalfer	mühlwalfer	1	mülwarfer, mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+237	Stra J 1	III_11_0028	Uttenheim, Uttenheim	7.5965, 48.41075	mülwarfer	müllwarfer	1	mülwarfer	mülwarfer	0	Maulwerfer	Maulwerfer	0
+238	Hag P 15	III_6_0057	Kindweiler, Kindweiler	7.59731, 48.86227	mühlwâlfer	mǖhlwelfer	2	mülwalfer	mülwelfer	1	Maulwerfer	Maulwerfer	0
+239	Hag W 18	III_7_0078	Schwindratzheim, Schwindratzheim	7.59981, 48.7561	mülwalfer	mülwalfer	0	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+240	Stra u 3	III_10_0029	Breuschwickersheim, Breuschwickersheim	7.60198, 48.5795	müllwalfer	müllwalfer	0	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+241	Stra Q 4	III_11_0101	Bindernheim, Bindernheim	7.60713, 48.28366	müllwarfer	müllwarfer	0	mülwarfer	mülwarfer	0	Maulwerfer	Maulwerfer	0
+242	Stra n 5	III_9_0029	Truchtersheim, Truchtersheim	7.60723, 48.66319	mülwelfer	mülwelfer	0	mülwelfer	mülwelfer	0	Maulwerfer	Maulwerfer	0
+243	Stra n 7	III_9_0034	Wiwersheim, Wiwersheim	7.60738, 48.63994	mülwarfer	mulwalfer	2	mülwarfer	mulwalfer	2	Maulwerfer	Maulwerfer	0
+244	Stra f 11	III_8_0066	Gimbrett, Gimbrett	7.60781, 48.69592	müllwalfer	müllwalfer	0	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+245	Hag H 1	III_5_0062	Oberbronn, Oberbronn	7.6082, 48.94109	mülwalfer	mülwalfer	0	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+246	Hag P 19	na	Pfaffenhofen -Volksberg	7.60881, 48.84422	mǖlwerfer	na	999	mülwerfer	na	999	Maulwerfer	na	999
+247	Hag X 5	na	Walk (La Walck)	7.60966, 48.84793	mulwelfer	na	999	mulwelfer	na	999	Maulwerfer	na	999
+248	Stra B 8	III_10_0104	Bolsenheim, Bolsenheim	7.6099, 48.42013	müllwarfer	mülwarfer	1	mülwarfer	mülwarfer	0	Maulwerfer	Maulwerfer	0
+249	Stra Q 2	III_11_0099	Witternheim, Witternheim	7.61297, 48.31375	müllwarfer	mülwerfer	2	mülwarfer	mülwerfer	1	Maulwerfer	Maulwerfer	0
+250	Stra J 5	III_11_0032	Sand, Sand	7.61417, 48.38275	müllwarfer	müllwarfer	0	mülwarfer	mülwarfer	0	Maulwerfer	Maulwerfer	0
+251	Hag P 7	III_6_0055	Engweiler, Engweiler	7.61501, 48.88508	müllwalfer	mülwalfer	1	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+252	Stra f 12	III_8_0067	Reitweiler, Reitweiler	7.61546, 48.67598	müllwallfer	müllwalfer	1	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+253	Stra f 6	III_8_0075	Hohatzenheim, Hohatzenheim	7.61598, 48.71578	müllwalfer	müllwalfer	0	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+254	Stra J 9	III_11_0038	Roßfeld (Rossfeld), Roßfeld	7.61683, 48.33696	mülwarfr	mülwarfer	1	mülwarfer	mülwarfer	0	Maulwerfer	Maulwerfer	0
+255	Stra n 8	III_9_0032, III_9_0033	Offenheim, Stutzheim-Offenheim, Offenheim	7.61838, 48.63195	müllwarfer	mülwarfer, müllwalfer	1	mülwarfer	mülwarfer, mülwalfer	0	Maulwerfer	Maulwerfer	0
+256	Hag P 11	III_6_0058	Bitschhofen, Bitschhofen	7.61913, 48.85878	mülwälfer	müllwärfer	2	mülwelfer	mülwerfer	1	Maulwerfer	Maulwerfer	0
+257	Hag W 9	III_7_0070	Minversheim, Minversheim	7.61936, 48.78575	müllwalfer	müllwalfer	0	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+258	Stra B 9	III_10_0106	Schäfersheim (Schaeffersheim), Schäfersheim	7.6199, 48.42864	müllwarfer	müllwafer	1	mülwarfer	mülwafer	1	Maulwerfer	Maulwerfer	0
+259	Stra u 4	III_10_0030	Achenheim, Achenheim	7.62578, 48.5817	mühlwarfer	mülwarfer	1	mülwarfer	mülwarfer	0	Maulwerfer	Maulwerfer	0
+260	Stra n 9	na	Stutzheim-Offenheim	7.62623, 48.6279	mülwarfer	na	999	mülwarfer	na	999	Maulwerfer	na	999
+261	Hag P 13	na	Niedermodern	7.62648, 48.84525	mülwalfer	na	999	mülwalfer	na	999	Maulwerfer	na	999
+262	Stra J 6	III_11_0030	Matzenheim, Matzenheim	7.62677, 48.39642	müllwarfer	mulwarfer	2	mülwarfer	mulwarfer	1	Maulwerfer	Maulwerfer	0
+263	Hag W 2	III_7_0062	Morschweiler, Morschweiler	7.62689, 48.81972	mülwalwer	müllwarfer	3	mülwalfer	mülwarfer	1	Maulwerfer	Maulwerfer	0
+264	Hag P 12	III_6_0064	Überach (Uberach), Überach	7.62806, 48.84844	mülwarfer	mülwalfer	1	mülwarfer	mülwalfer	1	Maulwerfer	Maulwerfer	0
+265	Stra f 4	na	Waltenheim	7.62965, 48.74804	mülwalfer	na	999	mülwalfer	na	999	Maulwerfer	na	999
+266	Stra f 7	III_8_0074	Mittelhausen, Mittelhausen	7.63107, 48.7093	müllwelfer	mülwälfer	2	mülwelfer	mülwelfer	0	Maulwerfer	Maulwerfer	0
+267	Hag A 1	na	Dambach	7.63179, 49.00256	müllwalfer	na	999	mülwalfer	na	999	Maulwerfer	na	999
+268	Hag P 8	III_6_0050	Gumbrechtshofen, Gumbrechtshofen	7.6319, 48.90544	mülwalfer	mülwalver	1	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+269	Stra f 5	III_8_0076	Wingersheim, Wingersheim	7.63371, 48.72198	mülwalfer	mülwalfer	0	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+270	Stra f 10	III_8_0071	Rumersheim, Rumersheim	7.6354, 48.69228	mülwalfer	mulwalfer	1	mülwalfer	mulwalfer	1	Maulwerfer	Maulwerfer	0
+271	Stra u 16	III_10_0033	Enzheim, Enzheim	7.63634, 48.53413	mǖlwä̊rfer	müllwerfer	4	mülwerfer	mülwerfer	0	Maulwerfer	Maulwerfer	0
+272	Hag P 10	III_6_0056	Mietesheim, Mietesheim	7.63837, 48.87814	mülwälfer	mülwalver	2	mülwelfer	mülwalfer	1	Maulwerfer	Maulwerfer	0
+273	Stra J 7	III_11_0031	Osthausen (Osthouse), Osthausen	7.63886, 48.40167	mülwaerfr	mülwärfr	2	mülwerfer	mülwerfer	0	Maulwerfer	Maulwerfer	0
+274	Hag W 8	III_7_0071	Hüttendorf, Hüttendorf	7.64259, 48.80222	mülwälfer	mülwälfer	0	mülwelfer	mülwelfer	0	Maulwerfer	Maulwerfer	0
+275	Hag H 2/3, Hag H 2/2, Hag H 2/1	III_5_0067, III_5_0066	Bad-Niederbronn (Niederbronn-Les-Bains), Niederbronn (GID von Niederbronn les bains), Bad-Niederbronn	7.64282, 48.95108	mǖlwalfer, mülwalfer	mülwalfer, müllwalfer	0	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+276	Stra u 15	III_10_0034	Geispolsheim, Geispolsheim	7.64329, 48.51516	mülwarfer	mülwarfer	0	mülwarfer	mülwarfer	0	Maulwerfer	Maulwerfer	0
+277	Stra n 6	III_9_0030	Pfettisheim, Pfettisheim	7.64331, 48.66042	muelwälfr	muelwälfär, muelwälfr	0	muelwelfer	muelwelfer	0	Maulwerfer	Maulwerfer	0
+278	Stra v 8	na	Holzheim	7.64383, 48.55724	müllwarfer	na	999	mülwarfer	na	999	Maulwerfer	na	999
+279	Stra B 11	III_10_0107	Limersheim, Limersheim	7.64596, 48.45465	mulwarfer	mülwarfer	1	mulwarfer	mülwarfer	1	Maulwerfer	Maulwerfer	0
+280	Stra f 9	III_8_0072	Mittelschäffolsheim, Mittelschäffolsheim	7.65125, 48.70026	müllwalfer	müllwelfer	1	mülwalfer	mülwelfer	1	Maulwerfer	Maulwerfer	0
+281	Stra u 5	III_9_0028	Oberschäffolsheim, Oberschäffolsheim	7.65236, 48.5868	mülwerfer	müllwarfer	2	mülwerfer	mülwarfer	1	Maulwerfer	Maulwerfer	0
+282	Hag W 1	III_6_0067	Dauendorf, Dauendorf	7.65509, 48.82974	müllwalfer	mülwalfer	1	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+283	Stra f 13	III_8_0069, III_8_0070	Berstett, Berstett	7.65758, 48.67898	mülwarfer	mülwalfe, müllwalfer	2	mülwarfer	mülwalfer	1	Maulwerfer	Maulwerfer	0
+284	Stra f 8	III_8_0073	Bilwisheim, Bilwisheim	7.65824, 48.70895	müllwalfer	mülwalfer	1	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+285	Hag P 9	III_5_0063	Gundershofen, Gundershofen	7.6592, 48.90652	mülwalfer	müllwälfer	2	mülwalfer	mülwelfer	1	Maulwerfer	Maulwerfer	0
+286	Hag W 19	III_7_0073	Wittersheim, Wittersheim	7.66007, 48.78303	mülwalfer	mulwerfer	3	mülwalfer	mulwerfer	3	Maulwerfer	Maulwerfer	0
+287	Stra Q 3	III_11_0102	Diebolsheim, Diebolsheim	7.66174, 48.29015	mühlwerfer	mühlwerfer	0	mülwerfer	mülwerfer	0	Maulwerfer	Maulwerfer	0
+288	Stra B 10	na	Erstein	7.66295, 48.4211	müllwarfer	na	999	mülwarfer	na	999	Maulwerfer	na	999
+289	Hag H 3	III_5_0065, III_5_0064	Reichshofen (Reichshoffen), Reichshofen, Reichshofen-Werk	7.66338, 48.93223	müllwalfer	müllwalfer	0	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+290	Stra v 6	III_9_0027	Wolfisheim, Wolfisheim	7.66606, 48.58281	mülwarfer	müllwerfer	2	mülwarfer	mülwerfer	1	Maulwerfer	Maulwerfer	0
+291	Stra o 6, 7	III_9_0043	Dingsheim, Griesheim, Dingsheim, Griesheim	7.66779, 48.62966	mülwalfer	mülwalfer	0	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+292	Stra B 3	III_10_0109	Lipsheim, Lipsheim	7.66966, 48.49284	mülwarfer	müllwarfer	1	mülwarfer	mülwarfer	0	Maulwerfer	Maulwerfer	0
+293	Stra R 2	III_11_0107	Friesenheim, Friesenheim	7.67044, 48.30971	müllwarfer	müllwarfer	0	mülwarfer	mülwarfer	0	Maulwerfer	Maulwerfer	0
+294	Stra o 5	III_9_0044	Pfulgriesheim, Pfulgriesheim	7.67069, 48.64279	mülwalfer	müllwalfer	1	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+295	Stra C 4	III_10_0112	Hipsheim, Hipsheim	7.67249, 48.46706	müllwalfer	müllwalfer	0	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+296	Hag X 1	III_7_0080	Uhlweiler, Uhlweiler	7.67396, 48.82047	müllwallfer	müllwelfer	2	mülwalfer	mülwelfer	1	Maulwerfer	Maulwerfer	0
+297	Stra g 8	III_8_0080, III_8_0081	Olwisheim, Olwisheim	7.67511, 48.69681	mülwarfer	mülwarfer	0	mülwarfer	mülwarfer	0	Maulwerfer	Maulwerfer	0
+298	Hag X 13	III_7_0089	Hochstett, Hochstett	7.67779, 48.77853	mülwalfer	mulwelfer	2	mülwalfer	mulwelfer	2	Maulwerfer	Maulwerfer	0
+299	Hag Q 12	III_6_0068	Griesbach, Griesbach	7.67856, 48.89026	mǖlwalfer	mülwalfer	1	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+300	Hag Q 11	III_6_0078	Merzweiler (Mertzwiller), Merzweiler	7.67936, 48.86259	mülwarfer	mülwalfer	1	mülwarfer	mülwalfer	1	Maulwerfer	Maulwerfer	0
+301	Stra C 1/2, Stra C 1/1	III_10_0110	Fegersheim, Fegersheim	7.67959, 48.4897	mülwarfer, mülwärfer	mülwalfer	1	mülwarfer, mülwerfer	mülwalfer	1	Maulwerfer	Maulwerfer	0
+302	Stra R 1	na	Boofzheim	7.68036, 48.33214	mülwarfer	na	999	mülwarfer	na	999	Maulwerfer	na	999
+303	Stra o 16	III_9_0045	Straßburg-Oberhausbergen, Strassburg-Oberhausbergen	7.68507, 48.60569	mülwälfer	mülwalfer	1	mülwelfer	mülwalfer	1	Maulwerfer	Maulwerfer	0
+304	Hag X 12	na	Wahlenheim	7.68522, 48.76281	mülwalfer	na	999	mülwalfer	na	999	Maulwerfer	na	999
+305	Stra g 1	na	Krautweiler	7.68667, 48.73776	müllwalfär	na	999	mülwalfer	na	999	Maulwerfer	na	999
+306	Stra v 7	na	Eckbolsheim	7.68725, 48.57932	mullwerfer, müllwelfer	na	999	mülwelfer, mulwerfer	na	999	Maulwerfer	na	999
+307	Stra K 7	III_11_0049	Obenheim, Obenheim	7.68912, 48.35924	mulwarfer	müllwarfer	2	mulwarfer	mülwarfer	1	Maulwerfer	Maulwerfer	0
+308	Hag X 11	III_7_0090	Bernolsheim, Bernolsheim	7.69085, 48.75532	mühlwalfer	mülwalfer	1	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+309	Stra o 10	III_9_0046	Mittelhausbergen, Mittelhausbergen	7.69275, 48.61406	mǖlwarfer	mülwalfer	2	mülwarfer	mülwalfer	1	Maulwerfer	Maulwerfer	0
+310	Stra g 9	III_8_0082	Eckwersheim, Eckwersheim	7.69351, 48.68244	mülwalfer	mülwalver	1	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+311	Hag B 2	III_4_0080	Obersteinbach, Obersteinbach	7.69364, 49.03549	müllwelfer	mülwerfer	2	mülwelfer	mülwerfer	1	Maulwerfer	Maulwerfer	0
+312	Stra K 8	na	Gerstheim	7.69824, 48.38295	müllwarfer	na	999	mülwarfer	na	999	Maulwerfer	na	999
+313	Stra o 9	III_9_0047	Niederhausbergen, Niederhausbergen	7.70033, 48.62313	mülwalfer	mülwarfer	1	mülwalfer	mülwarfer	1	Maulwerfer	Maulwerfer	0
+314	Hag X 2	III_7_0081	Ohlungen, Ohlungen	7.70034, 48.81187	mülwalfer	mülwalfer	0	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+315	Stra o 4	III_9_0075	Lamgertheim, Lamgertheim	7.70087, 48.65016	müllwalfer	müllwalfer	0	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+316	Hag X 15	III_7_0086	Wintershausen, Winterhausen	7.70271, 48.79349	müllwalfer	mülwarfer	2	mülwalfer	mülwarfer	1	Maulwerfer	Maulwerfer	0
+317	Hag J 12	III_5_0073	Nehweiler (Nehwiller), Nehweiler	7.70322, 48.96072	mülwalfer	mulwarfer	2	mülwalfer	mulwarfer	2	Maulwerfer	Maulwerfer	0
+318	Stra R 3	III_11_0108	Rheinau (Rhinau), Rheinau	7.70498, 48.3175	müllwarfer	müllwerfer	1	mülwarfer	mülwerfer	1	Maulwerfer	Maulwerfer	0
+319	Hag X 14	III_7_0087	Batzendorf, Batzendorf	7.70638, 48.78331	mulwalfer	mülwalfer	1	mulwalfer	mülwalfer	1	Maulwerfer	Maulwerfer	0
+320	Stra g 2	III_8_0084	Brumath, Brumath	7.71045, 48.73026	müllwalfer	mülwalfer	1	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+321	Stra v 4, Stra v 5	na	Illkirch-Grafenstaden	7.71183, 48.5288	müllwarfer, mülwalfer	na	999	mülwarfer, mülwalfer	na	999	Maulwerfer	na	999
+322	Stra g 10	III_8_0083	Vendenheim, Vendenheim	7.71285, 48.66933	müllwalfr	müllwalfer	1	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+323	Hag X 10	na	Rottelsheim	7.7144, 48.75688	müllwallfer	na	999	mülwalfer	na	999	Maulwerfer	na	999
+324	Hag Q 3	III_6_0071	Forstheim, Forstheim	7.71468, 48.89506	mülwalfr	mulwalfer	2	mülwalfer	mulwalfer	1	Maulwerfer	Maulwerfer	0
+325	Hag B 3	III_4_0081	Niedersteinbach, Niedersteinbach	7.71501, 49.0295	mülwaͤrfer	mülwarfer	1	mülwarfer	mülwarfer	0	Maulwerfer	Maulwerfer	0
+326	Stra o 3	III_9_0076	Mundolsheim, Mundolsheim	7.71544, 48.64179	mülwalfer	mulwarfer	2	mülwalfer	mulwarfer	2	Maulwerfer	Maulwerfer	0
+327	Stra C 2	III_10_0111	Eschau, Eschau	7.71556, 48.48796	mülwarfer	mülwarfer	0	mülwarfer	mülwarfer	0	Maulwerfer	Maulwerfer	0
+328	Stra K 6	III_11_0048	Daubensand, Daubensand	7.71659, 48.34964	müllwerfer	mullwerfer	1	mülwerfer	mulwerfer	1	Maulwerfer	Maulwerfer	0
+329	Hag Q 2	III_6_0070	Eberbach , Eberbach	7.71711, 48.91154	mürwalfe	mülwalfer	2	mürwalfe	mülwalfer	2	Maulwerfer	Maulwerfer	0
+330	Hag Q 10	III_6_0072	Laubach, Laubach	7.72032, 48.88168	mulwalfr	mühlwalfer	3	mulwalfer	mülwalfer	1	Maulwerfer	Maulwerfer	0
+331	Hag J 11	III_5_0074	Fröschweiler (Frœschwiller), Fröschweiler	7.72171, 48.94318	mühlwălfär	mühlwalfer	2	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+332	Stra C 3	na	Plobsheim	7.72339, 48.46948	müllwarfer	na	999	mülwarfer	na	999	Maulwerfer	na	999
+333	Hag X 9	na	Kriegsheim	7.72687, 48.75719	müllwalfer	na	999	mülwalfer	na	999	Maulwerfer	na	999
+334	Stra o 12	na	Kronenburg (Cronenbourg)	7.73212, 48.59535	mülwelfer	na	999	mülwelfer	na	999	Maulwerfer	na	999
+335	Hag J 13	III_5_0072	Langensulzbach (Langensoultzbach), Langensulzbach	7.73367, 48.96812	mühlwalfer	mullwalfer	2	mülwalfer	mulwalfer	1	Maulwerfer	Maulwerfer	0
+336	Hag X 3/1, Hag X 3/2	III_7_0082	Schweighausen (Schweighouse-Sur-Moder), Schweighausen	7.73517, 48.82151	mülwalfer, mühlwerfer	mulwerfer	2	mülwerfer, mülwalfer	mulwerfer	1	Maulwerfer	Maulwerfer	0
+337	Stra o 11	III_9_0072, III_9_0060, III_9_0058, III_9_0065, III_9_0068, III_9_0064, III_9_0063, III_9_0074, III_9_0070, III_9_0073, III_9_0071, III_9_0061, III_9_0066, III_9_0062, III_9_0067	Straßburg, Straßburg	7.73609, 48.58523	mülwärfer	mülwelfer, mühlwelfer, mülwärfer, mülwelver, mülwerfer, mulwafer, müllwerfer	0	mülwerfer	mülwelfer, mülwerfer, mulwarfer	0	Maulwerfer	Maulwerfer	0
+338	Hag Q 9	III_6_0073	Eschbach, Eschbach	7.73641, 48.87453	müllwarfer	müllwarfer	0	mülwarfer	mülwarfer	0	Maulwerfer	Maulwerfer	0
+339	Hag X 8	na	Niederschäffolsheim	7.7384, 48.7721	mǖlwarfer	na	999	mülwarfer	na	999	Maulwerfer	na	999
+340	Stra o 8	III_9_0053	Suffelweyersheim, Suffelweyersheim	7.74147, 48.6355	mülwalfer	müllwalfer	1	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+341	Hag Q 4	III_6_0074	Morsbronn (Morsbronn-Les-Bains), Morbronn	7.74283, 48.90037	mülweifer	mühlwalfer	3	maulwerfer	mülwalfer	4	Maulwerfer	Maulwerfer	0
+342	Hag J 10	III_5_0075	Wört (Woerth), Wört	7.74374, 48.93677	müllwalfer	müllwalfer	0	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+343	Hag Q 5	III_6_0075	Hagenheim (Hegeney), Hagenheim	7.74557, 48.89153	mülwalfr	mülwalfr	0	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+344	Stra g 3	III_8_0085	Geudertheim, Geudertheim	7.74686, 48.72273	müllwalfer	mülwalfer	1	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+345	Stra o 13	III_9_0049	Schiltigheim, Schiltigheim	7.74856, 48.60595	müllwälfer	mülwerfer	3	mülwelfer	mülwerfer	1	Maulwerfer	Maulwerfer	0
+346	Stra o 14	III_9_0051, III_9_0050	Straßburg-Bischheim, Straßburg-Bischheim	7.75254, 48.61483	müllwalfer	mülwalfer, müllwalfer	0	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+347	Stra o 2	III_9_0054	Reichstett, Reichstett	7.75359, 48.6483	mullwalfer	mullwalfer	0	mulwalfer	mulwalfer	0	Maulwerfer	Maulwerfer	0
+348	Stra K 2	III_11_0042	Ottenheim, Ottenheim	7.75477, 48.38593	mülwarfer	mulwerfer	2	mülwarfer	mulwerfer	2	Maulwerfer	Maulwerfer	0
+349	Stra o 15	III_9_0052	Hönheim, Straßburg-Hönheim	7.75526, 48.62105	mülwalfer	mülwelfer	1	mülwalfer	mülwelfer	1	Maulwerfer	Maulwerfer	0
+350	Hag R 9	na	Walburg-Hinterfeld (Hinterfeld)	7.75568, 48.88314	mülwalfer	na	999	mülwalfer	na	999	Maulwerfer	na	999
+351	Hag J 9	III_5_0084	Oberdorf-Spachbach, Oberdorf-Spachbach	7.75696, 48.92512	mülwalfer	mülwalfer	0	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+352	Stra R 4	na	Wittenweier	7.75888, 48.32591	mǖlwerfr	na	999	mülwerfer	na	999	Maulwerfer	na	999
+353	Stra K 5	III_11_0046	Nonnenweier, Nonnenweier	7.76001, 48.34931	mülwärfr	mühlwärfer	2	mülwerfer	mülwerfer	0	Maulwerfer	Maulwerfer	0
+354	Hag J 2	III_5_0071	Mattstall, Mattstall	7.7613, 48.98757	mūlwälfer	mülwarfer	3	mulwelfer	mülwarfer	3	Maulwerfer	Maulwerfer	0
+355	Hag Q 1	na	Gunstett	7.76471, 48.91584	mülwalfêr	na	999	mülwalfer	na	999	Maulwerfer	na	999
+356	Hag J 5	III_5_0076	Görsdorf (Goersdorf), Görsdorf	7.76782, 48.95111	mǖlwalfer	mülwelfer	2	mülwalfer	mülwelfer	1	Maulwerfer	Maulwerfer	0
+357	Hag Q 6	III_6_0076	Dürrenbach (Durrenbach), Dürrenbach	7.76797, 48.89675	mülwalfer	müllwallfer	2	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+358	Hag J 8	III_5_0079	Diefenbach (Dieffenbach-Lès-Woerth), Diefenbach	7.77425, 48.93532	mülwalfer	muelwalfer	2	mülwalfer	muelwalfer	2	Maulwerfer	Maulwerfer	0
+359	Hag X 7	III_7_0094	Weitbruch, Weitbruch	7.77586, 48.7535	mülwalfer	mülwalfer	0	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+360	Stra K 1	III_11_0040	Meissenheim, Meissenheim	7.77738, 48.40898	mulwärfr	mulwärfer	1	mulwerfer	mulwerfer	0	Maulwerfer	Maulwerfer	0
+361	Stra g 4	na	Bietlenheim	7.7826, 48.71905	mülwälfer	na	999	mülwalfer	na	999	Maulwerfer	na	999
+362	Stra g 7	III_8_0086	Hördt, Hördt	7.78279, 48.69341	müllwallfer	mülwelfer	3	mülwalfer	mülwelfer	1	Maulwerfer	Maulwerfer	0
+363	Stra K 4	III_11_0047	Allmannsweier, Allmannsweier	7.78326, 48.36703	mǖlwarfer	muulwärfer	3	mülwarfer	mulwerfer	2	Maulwerfer	Maulwerfer	0
+364	Hag J 4	III_5_0077	Mitschdorf, Mitschdorf	7.78435, 48.9524	mülwelfer	müelwelfer	1	mülwelfer	müelwelfer	1	Maulwerfer	Maulwerfer	0
+365	Hag X 4	III_7_0083, III_7_0084	Hagenau, Hagenau	7.78868, 48.81435	mülwelfer	mülwelfer, mühlwälfer	0	mülwelfer	mülwelfer	0	Maulwerfer	Maulwerfer	0
+366	Hag Q 8	III_6_0077	Walburg (Walbourg), Walburg	7.78939, 48.88652	mǖlwalfr	mülwalfer	2	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+367	Hag B 5	III_4_0086	Lembach, Lembach	7.78942, 49.00701	mǖlwarfer	mülwarfer	1	mülwarfer	mülwarfer	0	Maulwerfer	Maulwerfer	0
+368	Hag Q 7	III_6_0069	Biblisheim, Biblisheim	7.79196, 48.89991	mülwelfer	mülwelfer	0	mülwelfer	mülwelfer	0	Maulwerfer	Maulwerfer	0
+369	Stra o 17	III_9_0056	Straßburg-Ruprechtsau, Straßburg-Ruprechtsau	7.80059, 48.61004	müllwalfer	müllwalfer	0	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+370	Stra g 6	na	Weyersheim	7.8009, 48.7126	mülwalfer	na	999	mülwalfer	na	999	Maulwerfer	na	999
+371	Hag J 6	III_5_0085	Preuschdorf, Preuschdorf	7.80425, 48.9435	mülwelfer	mülwarfer	2	mülwelfer	mülwarfer	2	Maulwerfer	Maulwerfer	0
+372	Stra g 5	III_8_0087	Kurzenhausen, Kurzenhausen	7.80901, 48.74019	mulwalfer	mulwalfer	0	mulwalfer	mulwalfer	0	Maulwerfer	Maulwerfer	0
+373	Stra C 7	III_10_0147	Ichenheim, Ichenheim	7.81161, 48.43161	mǖlwärfer	mülwärfer	1	mülwerfer	mülwerfer	0	Maulwerfer	Maulwerfer	0
+374	Hag X 6	III_7_0091	Gries , Gries	7.81383, 48.75262	mülwälfer	mülwalfer	1	mülwelfer	mülwalfer	1	Maulwerfer	Maulwerfer	0
+375	Stra C 5	III_10_0114	Altenheim, Altenheim	7.81393, 48.46505	mulwerfer	mulwärfer	1	mulwerfer	mulwerfer	0	Maulwerfer	Maulwerfer	0
+376	Stra v 1	III_10_0047	Kehl, Kehl	7.81494, 48.57419	mullwerfer	mulwerfer	1	mulwerfer	mulwerfer	0	Maulwerfer	Maulwerfer	0
+377	Stra C 6	III_10_0115	Dundenheim, Dundenheim	7.81569, 48.44904	mulwerfer	mulwärfer	1	mulwerfer	mulwerfer	0	Maulwerfer	Maulwerfer	0
+378	Stra K 3	III_11_0043	Kürzell, Kürzell	7.81571, 48.38829	mulwerfer	mülwerfer	1	mulwerfer	mülwerfer	1	Maulwerfer	Maulwerfer	0
+379	Hag J 3	III_5_0078	Lampertsloch, Lampertsloch	7.81713, 48.95698	mülwalfer	mülwalfer	0	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+380	Hag B 4	III_4_0087	Wingen, Wingen	7.81729, 49.02601	maulwarfer	maulwarfer	0	maulwarfer	maulwarfer	0	Maulwerfer	Maulwerfer	0
+381	Stra v 3	na	Goldscheuer	7.81911, 48.51308	mūlwälfer	na	999	mulwelfer	na	999	Maulwerfer	na	999
+382	Stra v 2	III_10_0048	Marlen, Marlen	7.8231, 48.52207	mulwelfer	mulwelfer	0	mulwelfer	mulwelfer	0	Maulwerfer	Maulwerfer	0
+383	Stra o 1	III_9_0055	Wanzenau, Wanzenau	7.82574, 48.65926	mülwolfer	mülwolfer	0	mülwolfer	mülwolfer	0	Maulwerfer	Maulwerfer	0
+384	Hag J 7	III_5_0081	Merkweiler (Merkwiller-Pechelbronn), Merkweiler	7.82707, 48.93886	mǖlwalfer	mülwalfer	1	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+385	Hag J 1	na	Lembach-Pfaffenbronn (Pfaffenbronn)	7.83111, 48.99355	mülwerfer	na	999	mülwerfer	na	999	Maulwerfer	na	999
+386	Stra D 1	III_10_0057	Kittersburg, Kittersburg	7.83346, 48.49695	mūlwälfer	mülwälfer, mulwälfer	1	mulwelfer	mülwalfer, mulwelfer	0	Maulwerfer	Maulwerfer	0
+387	Stra D 16	III_10_0134	Müllen, Müllen	7.83364, 48.46521	mulwärfer	mulwerfer	1	mulwerfer	mulwerfer	0	Maulwerfer	Maulwerfer	0
+388	Hag Y 4	III_7_0095	Kaltenhausen, Kaltenhausen	7.83521, 48.79041	mülwalfer	mülwalfer	0	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+389	Stra p 9	ungeodnet2	Auenheim, Auenheim	7.83597, 48.6051	müllwerfer	mullwärfer	2	mülwerfer	mulwerfer	1	Maulwerfer	Maulwerfer	0
+390	Hag K 22	III_5_0108	Oberkutzenhausen, Oberkutzenhausen	7.84049, 48.93847	mühlwelfer	mülwalfer	2	maulwerfer	mülwalfer	4	Maulwerfer	Maulwerfer	0
+391	Stra L 8	III_11_0052	Schutterzell, Schutterzell	7.84148, 48.4057	müllwärfr	müllwerfer	2	mülwerfer	mülwerfer	0	Maulwerfer	Maulwerfer	0
+392	Hag K 21	III_5_0090	Lobsann, Lobsann	7.84681, 48.96327	mülwalfer	mühlwalfer	1	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+393	Hag R 3	III_6_0086	Surburg, Surburg	7.84913, 48.90982	müllwalfer	müllwalfer	0	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+394	Hag C 8	III_4_0088	Klimbach (Climbach), Klimbach	7.85041, 49.01803	mäulwarfer	maulwarfer	1	maulwarfer	maulwarfer	0	Maulwerfer	Maulwerfer	0
+395	Stra w 10	III_10_0056	Eckartsweier, Eckartsweier	7.85175, 48.52985	mullwärfer	mulwerfer	2	mulwerfer	mulwerfer	0	Maulwerfer	Maulwerfer	0
+396	Stra L 9	III_11_0053	Schuttern, Schuttern	7.85268, 48.38219	mülwarfer	mulwarfer	1	mülwarfer	mulwarfer	1	Maulwerfer	Maulwerfer	0
+397	Stra p 4	na	Leutesheim	7.85613, 48.62423	mulwerfer	na	999	mulwerfer	na	999	Maulwerfer	na	999
+398	Hag K 15	III_5_0107	Kutzenhausen, Kutzenhausen	7.85624, 48.93375	mühlwalver	mülwalfer	2	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+399	Stra h 10	III_8_0088	Kilstett, Kilstett	7.85798, 48.67473	mülwalfer	mülwalfer	0	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+400	Stra L 11	na	Dinglingen	7.85875, 48.34966	maulwerfer	na	999	maulwerfer	na	999	Maulwerfer	na	999
+401	Hag Y 6	III_7_0100	Bischweiler, Bischweiler	7.85912, 48.76826	mülwelfer	mülwelfer	0	mülwelfer	mülwelfer	0	Maulwerfer	Maulwerfer	0
+402	Stra D 2	III_10_0117	Hohnhurst, Hohnhurst	7.86191, 48.49204	mulwärfr	mulwerfer	2	mülwerfer	mulwerfer	1	Maulwerfer	Maulwerfer	0
+403	Hag Y 5	III_7_0105	Oberhofen (Oberhoffen-Sur-Moder), Oberhofen	7.86327, 48.78298	mǖlwälfer	müllwalfer	3	mülwelfer	mülwalfer	1	Maulwerfer	Maulwerfer	0
+404	Stra p 11	III_9_0080	Querbach, Querbach	7.86754, 48.58924	mullwärfr	mulwärfr	1	mulwerfer	mulwerfer	0	Maulwerfer	Maulwerfer	0
+405	Stra w 13	III_10_0050	Kork, Kork	7.86899, 48.56537	müllwerfer	müllwerfer	0	mülwerfer	mülwerfer	0	Maulwerfer	Maulwerfer	0
+406	Hag K 20	III_5_0086	Drachenbronn, Drachenbronn	7.87037, 48.98626	maulwelfer	maulwelfer	0	maulwelfer	maulwelfer	0	Maulwerfer	Maulwerfer	0
+407	Hag K 17	III_5_0094, III_5_0093	Memmelshofen (Memmelshoffen), Memmelshofen	7.87106, 48.96013	mülwalfer	mülwalfer	0	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+408	Stra p 3	III_9_0078	Honau, Honau	7.87132, 48.64025	müllwalfer	müllwalfer	0	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+409	Stra p 10	III_9_0079	Bodersweier, Bodersweier	7.87462, 48.60047	mullwärfer	mullwärfer	0	mulwerfer	mulwerfer	0	Maulwerfer	Maulwerfer	0
+410	Stra L 7	III_11_0055, III_11_0054, III_11_0056	Friesenheim, Friesenheim	7.87515, 48.37378	mülwerfer	mülwerfer	0	mülwerfer	mülwerfer	0	Maulwerfer	Maulwerfer	0
+411	Hag K 16	III_5_0095	Retschweiler (Retschwiller), Retschweiler	7.87838, 48.95025	mülwalfer	mülwalfer	0	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+412	Stra h 9	III_8_0089	Gambsheim, Gambsheim	7.87971, 48.69159	müllwalfer	mülwalfer	1	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+413	Stra w 2	III_10_0051	Odelshofen, Odelshofen	7.88021, 48.56001	müllwerfer	mulwerfer	2	mülwerfer	mulwerfer	1	Maulwerfer	Maulwerfer	0
+414	Stra w 9/2, Stra w 9/1	III_10_0058	Hesselhurst, Hesselhurst	7.88114, 48.52042	müllwälfer, muülwärfer	mülwerfer	2	mülwelfer, mulwerfer	mülwerfer	1	Maulwerfer	Maulwerfer	0
+415	Hag K 18	III_5_0091	Keffenach, Keffenach	7.88225, 48.96489	maulwölfer	maulwelfer	1	maulwölfer	maulwelfer	1	Maulwerfer	Maulwerfer	0
+416	Hag K 14	III_5_0099	Sulz u, (f) (Soultz-Sous-Forêts), Sulz u, Wald	7.88268, 48.93782	mülwalfer	mülwalfer	0	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+417	Hag K 19	III_5_0089	Birlenbach, Birlenbach	7.8829, 48.9763	maulwelfer	maulwelfer	0	maulwelfer	maulwelfer	0	Maulwerfer	Maulwerfer	0
+418	Hag R 2	III_5_0101	Reimersweiler, Reimersweiler	7.88417, 48.9137	mülwalfer	mülwalfer	0	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+419	Stra D 17	III_10_0131, III_10_0133, III_10_0132	Schutterwald, Schutterwald	7.88679, 48.45347	mulwarfer	mulwerfer, muulwerfer	1	mulwarfer	mulwerfer	1	Maulwerfer	Maulwerfer	0
+420	Stra p 2/2, Stra p 2/1	III_9_0084	Diersheim, Diersheim	7.8874, 48.64789	mulwerfer, mullwärfer	mulwarfer	1	mulwerfer	mulwarfer	1	Maulwerfer	Maulwerfer	0
+421	Stra L 1	III_10_0118	Niederschopfheim, Niederschopfheim	7.891, 48.41717	mūlwerfer	mülwerfer	1	mulwerfer	mülwerfer	1	Maulwerfer	Maulwerfer	0
+422	Stra w 11	III_10_0055	Willstätt, Willstätt	7.89222, 48.53868	mūlwerfer	mulwerfer	1	mulwerfer	mulwerfer	0	Maulwerfer	Maulwerfer	0
+423	Stra p 5	III_9_0082	Linx, Linx	7.89706, 48.62687	mulwärfer	mülwarfer	2	mulwerfer	mülwarfer	2	Maulwerfer	Maulwerfer	0
+424	Hag R 5/1	III_6_0082	Oberbetschdorf, Oberbetschdorf	7.89812, 48.8986	mulwalfer	müllwerfer	4	mulwalfer	mülwerfer	3	Maulwerfer	Maulwerfer	0
+425	Hag K 2	III_5_0087	Bremmelbach, Bremmelbach	7.90023, 48.986	maulwelfer	maulwälfer	1	maulwelfer	maulwelfer	0	Maulwerfer	Maulwerfer	0
+426	Stra p 8	III_9_0081	Zierolshofen, Zierolshofen	7.9036, 48.60838	mullwerfer	mullwarfr	2	mulwerfer	mulwarfer	1	Maulwerfer	Maulwerfer	0
+427	Hag Y 7	III_7_0102	Rohrwiller, Rohrweiler	7.90543, 48.75592	mühlwalfer	mühlwallför	2	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+428	Hag Y 3	III_7_0097, III_7_0096	Schirrhein, Schirrhein	7.90562, 48.80154	mülwelfer	maulwerfer, mülwerfer	1	mülwelfer	maulwerfer, mülwerfer	1	Maulwerfer	Maulwerfer	0
+429	Stra h 1	III_8_0091	Herlisheim (Herrlisheim), Herlisheim	7.90651, 48.72976	müllwalfer	müllwarfer, müllwalfer	0	mülwalfer	mülwarfer, mülwalfer	0	Maulwerfer	Maulwerfer	0
+430	Stra D 15	III_10_0119	Hofweier, Hofweier	7.90797, 48.42392	mulwerfer	mülwerfer	1	mulwerfer	mülwerfer	1	Maulwerfer	Maulwerfer	0
+431	Hag K 12	III_5_0100	Hermersweiler (Hermerswiller), Hermersweiler	7.91205, 48.93588	mühlwelver	mülwalver	2	mülwelfer	mülwalfer	1	Maulwerfer	Maulwerfer	0
+432	Hag C 1	III_4_0100	Weißenburg-Weiler, Weissenburg-Weiler	7.91271, 49.0377	maulwelfer	maulwerfer	1	maulwelfer	maulwerfer	1	Maulwerfer	Maulwerfer	0
+433	Hag C 4	III_4_0091	Rott, Rott	7.91304, 49.02495	maulwelfer	maulwelfer	0	maulwelfer	maulwelfer	0	Maulwerfer	Maulwerfer	0
+434	Stra w 3	III_10_0052	Legelshurst, Legelshurst	7.91306, 48.56803	müllwelfer	mulwerfer	3	mülwelfer	mulwerfer	2	Maulwerfer	Maulwerfer	0
+435	Stra h 2	na	Offendorf	7.91375, 48.71167	mülwalfer	na	999	mülwalfer	na	999	Maulwerfer	na	999
+436	Hag R 5/2	na	Betschdorf	7.91634, 48.89883	mülwalfer	na	999	mülwalfer	na	999	Maulwerfer	na	999
+437	Hag R 6	III_6_0083	Niederbetschdorf, Niederbetschdorf	7.91693, 48.8985	mülwalfer	mülwerfer	2	mülwalfer	mülwerfer	2	Maulwerfer	Maulwerfer	0
+438	Stra D 3	III_10_0130	Weier, Weier	7.91766, 48.49812	mulwerfer	mulwerfer	0	mulwerfer	mulwerfer	0	Maulwerfer	Maulwerfer	0
+439	Hag C 5	na	Oberhoffen-lès-Wissembourg	7.91832, 49.01679	maulwelfer	na	999	maulwelfer	na	999	Maulwerfer	na	999
+440	Stra D 7	na	Waltersweier	7.91883, 48.48554	mulwerfer	na	999	mulwerfer	na	999	Maulwerfer	na	999
+441	Hag Y 2	III_7_0106	Schirrhofen, Schirrhofen	7.9193, 48.8066	mülwälfer	müelwelfer	2	mülwelfer	müelwelfer	1	Maulwerfer	Maulwerfer	0
+442	Stra p 6	III_9_0083	Holzhausen, Holzhausen	7.92018, 48.62595	mullwärfer	mulwaerfa, mulwarfa	4	mulwerfer	mulwarfer, mulwerfer	0	Maulwerfer	Maulwerfer	0
+443	Stra w 12	III_10_0059	Sand, Sand	7.92148, 48.53823	mulwerfer	mulwerfer	0	mulwerfer	mulwerfer	0	Maulwerfer	Maulwerfer	0
+444	Hag R 1, Hag K 11 R 1	III_5_0102	Kühlendorf (Kuhlendorf) und Hohweiler, Kühlendorf (Kuhlendorf), Hohweiler	7.92307, 48.91408	mühlwalfer, mülwalfer	mülwalfer	0	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+445	Stra w 8	III_10_0064	Griesheim, Griesheim	7.924, 48.51041	mulwerfer	mulwerfer	0	mulwerfer	mulwerfer	0	Maulwerfer	Maulwerfer	0
+446	Stra p 1	III_9_0085	Rheinbischofsheim, Rheinbischofsheim	7.92904, 48.65493	müllwerfer	mullwerfer	1	mülwerfer	mulwerfer	1	Maulwerfer	Maulwerfer	0
+447	Hag C 6	III_4_0092	Steinselz (Steinseltz), Steinselz	7.93035, 49.0109	maulwölfer	maulwelfer	1	maulwölfer	maulwelfer	1	Maulwerfer	Maulwerfer	0
+448	Stra D 4	III_10_0129	Bühl, Bühl	7.93242, 48.4947	mūlwärfer	mulwerfer	2	mülwarfer	mulwerfer	2	Maulwerfer	Maulwerfer	0
+449	Stra h 8	III_8_0092	Freistett, Freistett	7.93582, 48.67138	müllwelfer	mulwarfer	4	mülwelfer	mulwarfer	3	Maulwerfer	Maulwerfer	0
+450	Hag K 3	III_5_0092	Ingolsheim, Ingolsheim	7.93636, 48.97357	maulwafer	maulwurfer	2	maulwarfer	maulwurfer	1	Maulwerfer	Maulwerfer	0
+451	Hag K 10	III_5_0109	Hofen (Hoffen), Hofen	7.9412, 48.92766	maulwölfer	mäulwölfer	1	maulwölfer	maulwölfer	0	Maulwerfer	Maulwerfer	0
+452	Hag K 5	III_5_0097	Hunspach, Hunspach	7.94316, 48.9536	maulwälfer	maulwälfer	0	maulwelfer	maulwelfer	0	Maulwerfer	Maulwerfer	0
+453	Stra D 14	na	Zunsweier	7.94627, 48.42199	mulwerfer	na	999	mulwerfer	na	999	Maulwerfer	na	999
+454	Hag K 9	III_5_0103	Leitersweiler (Leiterswiller), Leitersweiler	7.94768, 48.92407	maulwarfer	mulwarfer	1	maulwarfer	mulwarfer	1	Maulwerfer	Maulwerfer	0
+455	Stra D 5	III_10_0060	Bohlsbach, Bohlsbach	7.94796, 48.49264	mulwerfer	mulwärfär	2	mulwerfer	mulwerfer	0	Maulwerfer	Maulwerfer	0
+456	Hag K 1	III_5_0088	Riedselz (Riedseltz), Riedselz	7.95195, 48.99281	maulwelfler	maulwelfer	1	maulwelfer	maulwelfer	0	Maulwerfer	Maulwerfer	0
+457	Hag C 2	III_4_0094, III_4_0093	Weißenburg (Wissembourg), Weißenburg	7.9521, 49.03733	maulwerfer	maulwerfer	0	maulwerfer	maulwerfer	0	Maulwerfer	Maulwerfer	0
+458	Hag Y 8	na	Drusenheim	7.95234, 48.7651	mülwalfer	na	999	mülwalfer	na	999	Maulwerfer	na	999
+459	Hag R 7	III_6_0084	Rittershofen, Rittershofen	7.95587, 48.90241	mülwalfer	mülwalfer	0	mülwalfer	mülwalfer	0	Maulwerfer	Maulwerfer	0
+460	Stra w 7	III_10_0061	Windschläg, Windschläg	7.95693, 48.5148	mullwärfer	mulwerfer	2	mulwerfer	mulwerfer	0	Maulwerfer	Maulwerfer	0
+461	Hag Y 1	III_6_0079	Sufflenheim, Sufflenheim	7.95924, 48.82979	mülwelfer	mülwelfer	0	mülwelfer	mülwelfer	0	Maulwerfer	Maulwerfer	0
+462	Stra h 4	III_8_0095	Helmlingen, Helmlingen	7.9656, 48.70959	mulwärfer	müllwerfer	3	mulwerfer	mülwerfer	1	Maulwerfer	Maulwerfer	0
+463	Stra w 4	III_10_0054, III_10_0053	Urloffen, Urloffen	7.96889, 48.557	mullwärfr	mulwerfer	3	mulwerfer	mulwerfer	0	Maulwerfer	Maulwerfer	0
+464	Hag C 3	III_4_0099	Altenstadt, Altenstadt	7.96964, 49.03158	maulwelfer	maulwelfer	0	maulwelfer	maulwelfer	0	Maulwerfer	Maulwerfer	0
+465	Hag R 8	III_6_0085	Hatten, Hatten	7.97777, 48.90173	mülwalfer	mülwarfer	1	mülwalfer	mülwarfer	1	Maulwerfer	Maulwerfer	0
+466	Stra w 5	III_10_0063	Appenweier, Appenweier	7.98009, 48.53996	mūlwerfer	mullwerfer	2	mulwerfer	mulwerfer	0	Maulwerfer	Maulwerfer	0
+467	Stra h 3	III_8_0097	Grauelsbaum, Grauelsbaum	7.98186, 48.73575	mulwaͤrfr	mulwerfer	3	mulwarfer	mulwerfer	1	Maulwerfer	Maulwerfer	0
+468	Stra h 7	III_8_0093	Memprechtshofen, Memprechtshofen	7.98237, 48.68233	mullwarfer	mulwerfer	2	mulwarfer	mulwerfer	1	Maulwerfer	Maulwerfer	0
+469	Stra w 6	III_10_0062	Ebersweier, Ebersweier	7.98301, 48.50723	mullwerfer	mulwerfer	1	mulwerfer	mulwerfer	0	Maulwerfer	Maulwerfer	0
+470	Stra h 6	III_8_0094	Muckenschopf am Rhein, Muckenschopf	7.98806, 48.69362	mulwärfer	mulwarfer, mulwalfer	1	mulwerfer	mulwarfer, mulwalfer	1	Maulwerfer	Maulwerfer	0
+471	Hag Y 9	III_7_0104	Falhünden (Dalhünden), Dallhuenden, Fallhuenden	7.98835, 48.77367	mülwalfer	mulwärfer	3	mülwalfer	mulwerfer	3	Maulwerfer	Maulwerfer	0
+472	Hag K 4	III_5_0098	Oberseebach, Oberseebach	7.98947, 48.9672	maulwelfer	maulwölfler	2	maulwelfer	maulwölfer	1	Maulwerfer	Maulwerfer	0
+473	Hag K 7	III_5_0105	Stundweiler (Stundwiller), Stundweiler	7.99256, 48.92477	maulwelfer	maulwärfer	2	maulwelfer	maulwerfer	1	Maulwerfer	Maulwerfer	0
+474	Stra p 7	III_9_0086	Wagshurst, Wagshurst	7.99491, 48.62035	mulwerfer	muulwerfer	1	mulwerfer	mulwerfer	0	Maulwerfer	Maulwerfer	0
+475	Stra h 5	III_8_0096	Scherzheim, Scherzheim	7.99655, 48.7137	mulwå̄rfer	mullwalfer	4	mulwarfer	mulwalfer	1	Maulwerfer	Maulwerfer	0
+476	KST S1	III_7_0124	Stattmatten, Stattmatten	7.9997, 48.79553	mülwälfer	mülwelfer	1	mülwelfer	mülwelfer	0	Maulwerfer	Maulwerfer	0
+477	TÜB p11	III_10_0065	Nesselried, Nesselried	8.00608, 48.52212	müllwärfär	mulwerfer	4	mülwerfer	mulwerfer	1	Maulwerfer	Maulwerfer	0
+478	KST L1	III_5_0111	Bühl (Buhl), Bühl	8.00666, 48.91753	moulwerfer	maulwerfer	1	maulwerfer	maulwerfer	0	Maulwerfer	Maulwerfer	0
+479	TÜB a1	III_8_0098	Lichtenau, Lichtenau	8.00691, 48.72636	mullwerfer	mulwerfer	1	mulwerfer	mulwerfer	0	Maulwerfer	Maulwerfer	0
+480	KST S9	III_7_0118	Greffern, Greffern	8.00704, 48.7525	mulwelfe	mulwerfer	2	mulwelfer	mulwerfer	1	Maulwerfer	Maulwerfer	0
+481	KST S3	III_7_0107	Runzenheim (Rountzenheim), Runzenheim	8.00708, 48.82172	mülwarfer	mülwarfēr	1	mülwarfer	mülwarfer	0	Maulwerfer	Maulwerfer	0
+482	KST S2	III_7_0108	Auenheim, Auenheim	8.00818, 48.81256	mülwälfer	mülwälfer	0	mülwelfer	mülwelfer	0	Maulwerfer	Maulwerfer	0
+483	TÜB h8	III_9_0097	Renchen, Renchen	8.01285, 48.58724	mulwerfer	mulwerfer	0	mulwerfer	mulwerfer	0	Maulwerfer	Maulwerfer	0
+484	TÜB a2	na	Ulm (bei Bühl)	8.01434, 48.727	mülwerfer	na	999	mülwerfer	na	999	Maulwerfer	na	999
+485	TÜB p13	III_10_0069	Zusenhofen, Zusenhofen	8.01675, 48.54725	mulwärfer	mūlwerfer	2	mulwerfer	mulwerfer	0	Maulwerfer	Maulwerfer	0
+486	KST D11	III_5_0110, III_5_0112	Trimbach, Trimbach	8.0182, 48.94347	maulwerfer	maulwerfer	0	maulwerfer	maulwerfer	0	Maulwerfer	Maulwerfer	0
+487	TÜB h1/1, TÜB h1/2	III_9_0103	Gamshurst, Gamshurst	8.0187, 48.66413	mulwerfer, mulwärfer	mullwerfer	1	mulwerfer	mulwerfer	0	Maulwerfer	Maulwerfer	0
+488	TÜB p12	III_10_0068	Nussbach, Nussbach	8.02103, 48.53543	mulwerfer	mulwerfer	0	mulwerfer	mulwerfer	0	Maulwerfer	Maulwerfer	0
+489	KST L9	III_6_0091	Leutenheim, Leutenheim	8.02175, 48.843	müllwelfer	müllwarfer	2	mülwelfer	mülwarfer	2	Maulwerfer	Maulwerfer	0
+490	TÜB p15	III_10_0071	Erlach, Erlach	8.02495, 48.56914	mülwärfer	mulwerfer	2	mülwerfer	mulwerfer	1	Maulwerfer	Maulwerfer	0
+491	KST D12	na	Kaidenburg (Kaidenbourg)	8.03018, 48.94495	maulwerfer	na	999	maulwerfer	na	999	Maulwerfer	na	999
+492	KST D13	na	Kröttweiler (Croettwiller)	8.03043, 48.93123	maulwäͣrfer	na	999	maulwerfer	na	999	Maulwerfer	na	999
+493	TÜB p14	III_10_0070	Stadelhofen, Stadelhofen	8.03555, 48.55945	mullwerfer	mulwärfer	2	mulwerfer	mulwerfer	0	Maulwerfer	Maulwerfer	0
+494	KST L10	III_6_0092, III_6_0093	Forstfeld, Forstfeld	8.03702, 48.859	mülwälfer	mülwälfer	0	mülwälfer	mülwelfer	1	Maulwerfer	Maulwerfer	0
+495	KST S4	III_7_0109	Röschwoog (Roeschwoog), Röschwoog	8.04001, 48.83085	mülwälfer	müelwelfer	2	mülwelfer	müelwelfer	1	Maulwerfer	Maulwerfer	0
+496	KST L2	III_6_0087	Niederrödern/Elsass, Niederrödern	8.04105, 48.90576	maulwärfer	müllwerfer	3	maulwerfer	mülwerfer	2	Maulwerfer	Maulwerfer	0
+497	KST D10	III_5_0125	Siegen (Weissenburg), Siegen	8.04269, 48.9581	maulwarfer	maulwarfer	0	maulwarfer	maulwarfer	0	Maulwerfer	Maulwerfer	0
+498	TÜB a3	III_7_0119	Schwarzach (bei Bühl), Schwarzach	8.04423, 48.74717	mühlwerfer	muhlwerfer	1	mülwerfer	mulwerfer	1	Maulwerfer	Maulwerfer	0
+499	KST D1	III_5_0123	Schleital (Schleithal), Schleithal	8.04688, 48.98799	maulwelfer	maulwelfer	0	maulwelfer	maulwelfer	0	Maulwerfer	Maulwerfer	0
+500	TÜB h2	III_9_0088, III_9_0087	Großweier, Grossweier	8.0487, 48.65502	mulwärfr	muhlwerfer	3	mülwerfer	mulwerfer	1	Maulwerfer	Maulwerfer	0
+501	KST S8	III_7_0117, III_7_0115, III_7_0116	Stollhofen, Stollhofen	8.04874, 48.76575	muhlwerfer	mulwerfer	1	mulwerfer	mulwerfer	0	Maulwerfer	Maulwerfer	0
+502	TÜB p1	III_10_0072	Ulm Kr, Offenburg, Ulm	8.05069, 48.57993	mulwerfer	mulwärfer	1	mulwerfer	mulwerfer	0	Maulwerfer	Maulwerfer	0
+503	TÜB h6	na	Fautenbach	8.05129, 48.62351	mūlwerfer	na	999	mulwerfer	na	999	Maulwerfer	na	999
+504	KST S7	III_7_0114	Söllingen, Söllingen	8.05486, 48.78147	mūlwerfer	mülwerfer	1	mulwerfer	mülwerfer	1	Maulwerfer	Maulwerfer	0
+505	TÜB p2	III_10_0073	Haslach, Haslach	8.05661, 48.56552	mūlwerfer	mulwärfer	2	mulwerfer	mulwerfer	0	Maulwerfer	Maulwerfer	0
+506	KST L8	III_6_0094	Roppenheim, Roppenheim	8.05791, 48.8465	mǖlwärfer	mülwälfer	2	mülwerfer	mülwelfer	1	Maulwerfer	Maulwerfer	0
+507	KST S6	III_7_0110	Ludwigsfeste (bei Roeschwoog) (Fort-Louis), Fort-Louis, Ludwigsfeste	8.05803, 48.80321	mülwelfer	mülwelfer	0	mülwelfer	mülwelfer	0	Maulwerfer	Maulwerfer	0
+508	TÜB a14	III_8_0104	Unzhurst, Unzhurst	8.05808, 48.68815	mulwerfer	mülwerfer	1	mulwerfer	mülwerfer	1	Maulwerfer	Maulwerfer	0
+509	TÜB a4	III_8_0103	Hildmannsfeld, Hildmannsfeld	8.05893, 48.73423	mulwerfer	muhlwerfer	1	mulwerfer	mulwerfer	0	Maulwerfer	Maulwerfer	0
+510	TÜB h5	III_9_0091, III_9_0090	Achern, Achern	8.06363, 48.62871	mūlwerfer	mulwerfer, muhlwerfer	1	mulwerfer	mulwerfer	0	Maulwerfer	Maulwerfer	0
+511	TÜB p3	na	Tiergarten	8.06377, 48.55715	mullwerfer	na	999	mulwerfer	na	999	Maulwerfer	na	999
+512	TÜB h9	na	Mösbach	8.06514, 48.5964	mulwärfer	na	999	mulwerfer	na	999	Maulwerfer	na	999
+513	TÜB a5	na	Moos	8.06679, 48.71918	mulwerfer	na	999	mulwerfer	na	999	Maulwerfer	na	999
+514	KST D14	III_5_0113	Eberbach-Selz, Eberbach-Selz	8.06718, 48.92481	maulwelfer	maulwelfer	0	maulwelfer	maulwelfer	0	Maulwerfer	Maulwerfer	0
+515	KST L11	III_6_0096	Kesseldorf (Weissenburg), Kesseldorf	8.06748, 48.87606	maulwarfer	maulwårfer	1	maulwarfer	maulwarfer	0	Maulwerfer	Maulwerfer	0
+516	KST D9	III_5_0124	Oberlauterbach, Oberlauterbach	8.07041, 48.94851	maulwerfer	maulwalfer	2	maulwerfer	maulwalfer	2	Maulwerfer	Maulwerfer	0
+517	KST D2	III_5_0122	Salmbach (bei Weißenburg), Salmbach	8.07143, 48.97818	maulwölfer	maulwölfer	0	maulwölfer	maulwölfer	0	Maulwerfer	Maulwerfer	0
+518	KST L12	III_6_0095	Beinheim (Weissenburg), Beinheim	8.08253, 48.86153	mühlwelfer	mülwelfa	3	maulwerfer	mülwelfer	3	Maulwerfer	Maulwerfer	0
+519	KST S5	III_7_0111	Neuhäusel (Neuhaeusel), Neuhäusel	8.08594, 48.82427	mülwärfer	mülwärfer	0	mülwelfer	mülwerfer	1	Maulwerfer	Maulwerfer	0
+520	TÜB h3	III_9_0089	Sasbachried, Sasbachried	8.08648, 48.65688	mulwerfer	muulwerfer	1	mulwerfer	mulwerfer	0	Maulwerfer	Maulwerfer	0
+521	TÜB a6	na	Oberbruch	8.08775, 48.72893	mulwerfer	na	999	mulwerfer	na	999	Maulwerfer	na	999
+522	TÜB p4	III_10_0074	Ringelbach, Ringelbach	8.08834, 48.55764	mulwerfer	mullwerfer	1	mulwerfer	mulwerfer	0	Maulwerfer	Maulwerfer	0
+523	TÜB h4	III_9_0092	Sasbach , Sasbach	8.09181, 48.63896	mūlwerfer	mulwerfer	1	mulwerfer	mulwerfer	0	Maulwerfer	Maulwerfer	0
+524	KST S10	III_7_0120	Leiberstung, Lieberstung	8.09585, 48.75131	mūlwerfer	muulwerfer	2	mulwerfer	mulwerfer	0	Maulwerfer	Maulwerfer	0
+525	TÜB a7	III_8_0105	Balzhofen, Balzhofen	8.09765, 48.71247	mulwerfr	muhlwarfer	3	mulwerfer	mülwarfer	2	Maulwerfer	Maulwerfer	0
+526	KST L3	na	Schaffhausen (Schaffhouse-près-Selz)	8.10006, 48.9087	maulwarfer	na	999	maulwarfer	na	999	Maulwerfer	na	999
+527	KST D8	III_5_0114	Winzenbach (Winthenbach), Winzenbach	8.1038, 48.9341	maulwelfer	maulwelfer	0	maulwelfer	maulwelfer	0	Maulwerfer	Maulwerfer	0
+528	KST L4	III_6_0089	Selz (Seltz), Selz	8.10383, 48.89457	maulwelfer	maulwarfer, maulwelfer	0	maulwelfer	maulwarfer, maulwelfer	0	Maulwerfer	Maulwerfer	0
+529	KST D3/2	III_5_0121	Niederlauterbach, Niederlauterbach	8.10398, 48.97233	maulwerfer	maulwerfer	0	maulwerfer	maulwerfer	0	Maulwerfer	Maulwerfer	0
+530	TÜB p5	na	Waldulm	8.10478, 48.58093	mulwerfer	na	999	mulwerfer	na	999	Maulwerfer	na	999
+531	TÜB h11	III_9_0100	Obersasbach, Obersasbach	8.10713, 48.63223	mulwerfer	muulwerfer	1	mulwerfer	mulwerfer	0	Maulwerfer	Maulwerfer	0
+532	TÜB a12	na	Oberweier	8.10851, 48.70178	mūlwerfer	na	999	mulwerfer	na	999	Maulwerfer	na	999
+533	KST S14	III_7_0113	Hügelsheim, Hügelsheim	8.10904, 48.79654	mulwerfer	mühlwerfer	2	mulwerfer	mülwerfer	1	Maulwerfer	Maulwerfer	0
+534	TÜB a13	III_8_0108	Ottersweier, Ottersweier	8.11279, 48.66967	muhlwerfer	muulwerfer	1	mulwerfer	mulwerfer	0	Maulwerfer	Maulwerfer	0
+535	TÜB a8	III_8_0106	Vimbuch, Vimbuch	8.11501, 48.71676	mulwerfer	muhlwerfer	1	mulwerfer	mulwerfer	0	Maulwerfer	Maulwerfer	0
+536	TÜB h15	III_9_0102, III_9_0101	Kappelrodeck, Kappelrodeck	8.11791, 48.59087	mulwerfer	mulwerfer	0	mulwerfer	mulwerfer	0	Maulwerfer	Maulwerfer	0
+537	TÜB h14	na	Sasbachwalden	8.12201, 48.62035	mulwerfer	na	999	mulwerfer	na	999	Maulwerfer	na	999
+538	KST D5	III_5_0118	Neeweiler (Neewiller-près-Lauterbourg), Neeweiler	8.12624, 48.95491	maulwärfer	maulwärfer	0	maulwerfer	maulwerfer	0	Maulwerfer	Maulwerfer	0
+539	TÜB h12	III_9_0094, III_9_0093	Lauf, Lauf	8.12648, 48.65317	muhlwärfer	mulwerfer, muhlwärfr	1	mulwerfer	mülwerfer, mulwerfer	0	Maulwerfer	Maulwerfer	0
+540	TÜB a9	III_8_0099	Weitenung, Weitenung	8.12886, 48.73998	mulwerfer	muulwerfer	1	mulwerfer	mulwerfer	0	Maulwerfer	Maulwerfer	0
+541	KST L7	na	Wintersdorf	8.13451, 48.84595	mulwelfer	na	999	mulwelfer	na	999	Maulwerfer	na	999
+542	KST D4	III_5_0120	Scheibenhard, Scheibenhardt	8.13481, 48.97663	maulwelfer	maulwölfer	1	maulwelfer	maulwölfer	1	Maulwerfer	Maulwerfer	0
+543	TÜB a11	na	Bühl	8.13592, 48.69536	mulwerfer	na	999	mulwerfer	na	999	Maulwerfer	na	999
+544	TÜB p6	na	Furschenbach	8.13639, 48.5767	mulwerfr	na	999	mulwerfer	na	999	Maulwerfer	na	999
+545	KST S13	na	Liedelshof bei Sinzheim	8.13914, 48.74435	mulwärfer	na	999	mulwerfer	na	999	Maulwerfer	na	999
+546	KST S15	III_7_0112	Iffezheim, Iffezheim	8.14011, 48.82287	mullwärfer	mulwerfer	2	mulwerfer	mulwerfer	0	Maulwerfer	Maulwerfer	0
+547	KST S11	III_7_0122	Halberstung, Halberstung	8.14298, 48.76025	mulwerfer	mulwerfer	0	mulwerfer	mulwerfer	0	Maulwerfer	Maulwerfer	0
+548	KST D7	III_5_0115, III_5_0116	Münchhausen (Munchhausen), Münchhausen	8.14635, 48.92142	maulwiarfer	maulwerfer, maulwelfa	2	maulwerfer	maulwerfer, maulwelfer	0	Maulwerfer	Maulwerfer	0
+549	KST D6	III_5_0117	Motern (Mothern), Motern	8.15128, 48.93354	maulwelfer	maulwelfer	0	maulwelfer	maulwelfer	0	Maulwerfer	Maulwerfer	0
+550	KST L6	na	Ottersdorf	8.15398, 48.86103	mǖͧlwelfer	na	999	mulwelfer	na	999	Maulwerfer	na	999
+551	KST L5	III_6_0090	Plittersdorf bei Rastatt, Plittersdorf	8.15649, 48.88249	mūlwelfer	mulwelfa	3	mulwelfer	mulwelfer	0	Maulwerfer	Maulwerfer	0
+552	TÜB a10	III_8_0100	Steinbach, Steinbach	8.16038, 48.72843	muhlwerfer	mulwerfer	1	mulwerfer	mulwerfer	0	Maulwerfer	Maulwerfer	0
+553	TÜB b6	na	Altschweier	8.16047, 48.69964	mulwerfer	na	999	mulwerfer	na	999	Maulwerfer	na	999
+554	TÜB b5	III_8_0101, III_8_0102	Eisental, Eisental	8.16417, 48.71189	mulwerfer	mulwerfer	0	mulwerfer	mulwerfer	0	Maulwerfer	Maulwerfer	0
+555	KST T12	na	Kartung bei Sinzheim	8.16546, 48.771	mulwerfer	na	999	mulwerfer	na	999	Maulwerfer	na	999
+556	KST S12	III_7_0136, III_7_0123	Sinzheim bei Winden, Sinzheim	8.16564, 48.76405	mulwerfer	mulwerfer	0	mulwerfer	mulwerfer	0	Maulwerfer	Maulwerfer	0
+557	TÜB b3	na	Varnhalt	8.17941, 48.73522	mulwerfer	na	999	mulwerfer	na	999	Maulwerfer	na	999
+558	KST E1	III_5_0127	Lauterburg (Weissenburg) (Lauterbourg), Lauterburg	8.18046, 48.97495	maulwäafa	maulwerfer	4	maulwerfer	maulwerfer	0	Maulwerfer	Maulwerfer	0
+559	KST T13	na	Sinzheim-Vormberg-Ebenung	8.18209, 48.7552	mulwerfer	na	999	mulwerfer	na	999	Maulwerfer	na	999
+560	TÜB b10	na	Neusatzeck	8.18311, 48.66621	můllwerfer	na	999	mulwerfer	na	999	Maulwerfer	na	999
+561	TÜB b4	III_8_0111, III_8_0110	Neuweier, Neuweier	8.18377, 48.72012	mulwärfer	mulwerfer	1	mulwerfer	mulwerfer	0	Maulwerfer	Maulwerfer	0
+562	TÜB b8, TÜB b7, TÜB b9	III_8_0112, III_8_0113	Bühlertal-Obertal, Bühlertal-Hof, Bühlertal-Untertal, Bühlertal-Hof, Bühlertal	8.19194, 48.68215	muhlwerfer, mulwärfer	mullwerfer, mulwerfer	1	mulwerfer	mulwerfer	0	Maulwerfer	Maulwerfer	0
+563	KST E8	III_5_0129	Illingen, Illingen	8.20923, 48.9349	mulwelfer	mulwelfer	0	mulwelfer	mulwelfer	0	Maulwerfer	Maulwerfer	0
+564	KST E7	III_5_0130	Elchesheim, Elchesheim	8.2136, 48.93047	mulwelfer	maulwelfr	2	mulwelfer	maulwelfer	1	Maulwerfer	Maulwerfer	0
+565	KST M9	na	Niederbühl	8.21769, 48.84547	mulwerfer	na	999	mulwerfer	na	999	Maulwerfer	na	999
+566	KST T9	III_7_0127, III_7_0126	Haueneberstein, Haueneberstein	8.22194, 48.80626	muhlwärfer	mulwerfer	2	mulwerfer	mulwerfer	0	Maulwerfer	Maulwerfer	0
+567	KST T8	na	Baden-Baden/Balg	8.22708, 48.78962	mulwerfer	na	999	mulwerfer	na	999	Maulwerfer	na	999
+568	KST M3	III_6_0099, III_6_0098	Ötigheim, Oetigheim	8.23212, 48.89333	mulwelfer	mulwerfer	1	mulwelfer	mulwerfer	1	Maulwerfer	Maulwerfer	0
+569	KST E9	III_5_0131	Au am Rhein, Au am Rhein	8.23933, 48.95136	mulwelfer	mulwölfer	1	mulwelfer	mulwölfer	1	Maulwerfer	Maulwerfer	0
+570	TÜB b1	na	Gerolsau	8.24536, 48.73474	muhlwerfer	na	999	mulwerfer	na	999	Maulwerfer	na	999
+571	KST T11	na	Baden-Oos	8.24755, 48.76768	mulwerfer	na	999	mulwerfer	na	999	Maulwerfer	na	999
+572	KST M8	III_6_0107	Rauental, Rauental	8.24794, 48.8572	mulwärfer	mulwerfer	1	mulwerfer	mulwerfer	0	Maulwerfer	Maulwerfer	0
+573	KST M2	na	Bietigheim	8.25343, 48.91099	mūlweärfer	na	999	maulwerfer	na	999	Maulwerfer	na	999
+574	KST T1	III_7_0128	Kuppenheim, Kuppenheim	8.25452, 48.82818	mulwerfer	mulwerfer	0	mulwerfer	mulwerfer	0	Maulwerfer	Maulwerfer	0
+575	KST E5	III_5_0132, III_5_0133	Durmersheim, Durmersheim	8.2685, 48.93129	mūlwerfer	mulwerfer	1	mulwerfer	mulwerfer	0	Maulwerfer	Maulwerfer	0
+576	KST T7	III_7_0132	Ebersteinburg, Ebersteinburg	8.26889, 48.77997	mulwerfer	mulwerfer	0	mulwerfer	mulwerfer	0	Maulwerfer	Maulwerfer	0
+577	KST T2	na	Oberndorf	8.27573, 48.82868	mulwerfer	na	999	mulwerfer	na	999	Maulwerfer	na	999
+578	KST M4	III_6_0104, III_6_0105	Muggensturm, Muggenturm	8.2763, 48.87021	maulwerfer	mulwerfer	1	maulwerfer	mulwerfer	1	Maulwerfer	Maulwerfer	0
+579	KST T6	III_7_0133	Staufenberg, Staufenberg	8.3082, 48.76673	mulwerfer	mūūlwerfer	2	mulwerfer	mulwerfer	0	Maulwerfer	Maulwerfer	0
+580	KST T3	na	(Bad) Rotenfels (Ortsteil von Gaggenau)	8.30895, 48.81087	mulwerfer	na	999	mulwerfer	na	999	Maulwerfer	na	999
+581	KST M6	na	Oberweier	8.31051, 48.84847	mulwerfer	na	999	mulwerfer	na	999	Maulwerfer	na	999
+582	KST T5	na	Selbach	8.31271, 48.78121	mulwerfer	na	999	mulwerfer	na	999	Maulwerfer	na	999
+583	KST M5	III_6_0103	Waldprechtsweier, Waldprechtsweier	8.33173, 48.8612	maulwurfer	maulwerfer	1	maulwurfer	maulwerfer	1	Maulwerfer	Maulwerfer	0
+584	KST N1	III_6_0100, III_6_0102, III_6_0101	Malsch, Malsch	8.3345, 48.88047	maulwärfer	maulwerfer	1	maulwerfer	maulwerfer	0	Maulwerfer	Maulwerfer	0
+585	KST x 1	na	Daxlanden	8.33737, 49.0022	maulwerfer	na	999	maulwerfer	na	999	Maulwerfer	na	999
+586	TÜB c6	III_25_0008, III_25_0009	Bermersbach, Bermersbach	8.34126, 48.69401	muhlwärfer	mulwerfer	2	mulwerfer	mulwerfer	0	Maulwerfer	Maulwerfer	0
+587	KST U3	na	Hörden	8.34313, 48.78046	mulwerfer	na	999	mulwerfer	na	999	Maulwerfer	na	999
+588	TÜB c1	III_25_0006, III_25_0007	Obertsrot und Hilpertsau, Hilpertsau, Obertsrot	8.34633, 48.74303	mulwerfer	mulwerfer	0	mulwerfer	mulwerfer	0	Maulwerfer	Maulwerfer	0
+589	KST U1	III_24_0001	Michelbach, Michelbach	8.35062, 48.8186	mulwerfer	mulwerfer	0	mulwerfer	mulwerfer	0	Maulwerfer	Maulwerfer	0
+590	TÜB c2	na	Weisenbach	8.35397, 48.72827	mulwerfer	na	999	mulwerfer	na	999	Maulwerfer	na	999
+591	KST N2, KST U6	III_24_0002	Sulzbach, Sulzbach	8.35791, 48.80596	maulwärfer, mūlwerfer	mulwerfer	1	maulwerfer, mulwerfer	mulwerfer	0	Maulwerfer	Maulwerfer	0
+592	TÜB c8	na	Forbach	8.3589, 48.67857	muhlwärfer	na	999	mulwerfer	na	999	Maulwerfer	na	999
+593	TÜB c7	na	Gausbach	8.36067, 48.68405	mulwerfer	na	999	mulwerfer	na	999	Maulwerfer	na	999
+594	TÜB c4	na	Au im Murgtal	8.36129, 48.72172	muulwärfer, mulwärfer	na	999	mulwerfer	na	999	Maulwerfer	na	999
+595	TÜB c5	III_25_0002	Langenbrand, Langenbrand	8.36334, 48.70441	muhlwerfa	mulwerfa	1	mulwerfer	mulwerfer	0	Maulwerfer	Maulwerfer	0
+596	KST F13	III_22_0002	Bruchhausen bei Ettlingen, Bruchhausen	8.371, 48.92716	mulwerfer	maulwerfer	1	mulwerfer	maulwerfer	1	Maulwerfer	Maulwerfer	0
+597	KST N3	III_23_0002	Oberweier, Oberweier	8.37866, 48.91717	maulwerfer	maulwerfer	0	maulwerfer	maulwerfer	0	Maulwerfer	Maulwerfer	0
+598	KST y 9, KST y 10	III_21_0001	Neureut, Neureut	8.37902, 49.05267	maulwerfer	maulwerfer	0	maulwerfer	maulwerfer	0	Maulwerfer	Maulwerfer	0
+599	KST N12	na	Moosbronn	8.38849, 48.83638	maulwerfer	na	999	maulwerfer	na	999	Maulwerfer	na	999
+600	TÜB c3	III_25_0005	Reichental, Reichental	8.39101, 48.72956	mulwärfer	mulwärfa	2	mulwerfer	mulwerfer	0	Maulwerfer	Maulwerfer	0
+601	KST y 11	III_20_0008	Eggenstein, Eggenstein	8.39572, 49.08482	maulhelfer	maulhelfer	0	maulwerfer	maulhelfer	2	Maulwerfer	Maulwerfer	0
+602	KST N13	na	Völkersbach	8.39644, 48.8701	maulwärfer	na	999	maulwerfer	na	999	Maulwerfer	na	999
+603	TUTT F13	na	Dillendorf	8.40272, 47.79846	mulwerfer	na	999	mulwerfer	na	999	Maulwerfer	na	999
+604	KST F3	III_21_0003	Karlsruhe-Rüppurr, Karlsruhe-Rüppurr	8.406, 48.97394	maulwerfer	maulwerfer	0	maulwerfer	maulwerfer	0	Maulwerfer	Maulwerfer	0
+605	KST N9	III_23_0012	Burbach, Burbach	8.43853, 48.87037	maulwerfer	maulwerfer	0	maulwerfer	maulwerfer	0	Maulwerfer	Maulwerfer	0
+606	KST y 3	III_21_0007	Hagsfeld, Hagsfeld	8.45514, 49.02773	maulwerfer	maulwerfer	0	maulwerfer	maulwerfer	0	Maulwerfer	Maulwerfer	0
+607	KST N10	na	Pfaffenrot	8.45861, 48.86075	maulwerfer	na	999	maulwerfer	na	999	Maulwerfer	na	999
+608	KST y 2	na	Büchig	8.46824, 49.04811	maulwärfer, moulwärfer	na	999	maulwerfer	na	999	Maulwerfer	na	999
+609	KST F6	na	Karlsruhe-Durlach	8.4704, 48.99897	maulwerfer	na	999	maulwerfer	na	999	Maulwerfer	na	999
+610	KST N8	III_23_0011	Spielberg, Spielberg	8.47045, 48.89758	maulwerfer	maulwärfer	1	maulwerfer	maulwerfer	0	Maulwerfer	Maulwerfer	0
+611	KST F7	na	Hohenwettersbach	8.47808, 48.96713	maulwerfer	na	999	maulwerfer	na	999	Maulwerfer	na	999
+612	KST r5	III_20_0009	Friedrichstal, Friedrichstal	8.48091, 49.10481	maulwerfer	maulwerfer	0	maulwerfer	maulwerfer	0	Maulwerfer	Maulwerfer	0
+613	KST F9	na	Palmbach	8.48266, 48.94683	maulwerfer	na	999	maulwerfer	na	999	Maulwerfer	na	999
+614	KST G7	III_22_0145	Stupferich, Stupferich	8.51098, 48.95396	maulwerfler	maulwerfler	0	maulwerfler	maulwerfler	0	Maulwerfer	Maulwerfer	0
+615	KST s4	na	Neuthard	8.52086, 49.1278	maulwǟfa	na	999	maulwerfer	na	999	Maulwerfer	na	999
+616	KST z6	III_21_0015	Berghausen, Berghausen	8.52712, 49.00389	maulwärfa	maulwärfer	2	maulwerfer	maulwerfer	0	Maulwerfer	Maulwerfer	0
+617	KST s6	III_20_0162	Büchenau, Büchenau	8.52764, 49.10075	maulwerfer	meulwerf	3	maulwerfer	mäulwerfer	1	Maulwerfer	Maulwerfer	0
+618	KST z8	III_21_0010	Weingarten, Weingarten	8.53114, 49.0533	maulwerfer	maulwerfer	0	maulwerfer	maulwerfer	0	Maulwerfer	Maulwerfer	0
+619	KST O2	III_23_0014	Auerbach, Auerbach	8.53163, 48.91379	maulwerfer	maulwerfer	0	maulwerfer	maulwerfer	0	Maulwerfer	Maulwerfer	0
+620	KST G6	III_22_0015	Mutschelbach, Mutschelbach	8.53428, 48.94409	maulwerfer	maulwerfer	0	maulwerfer	maulwerfer	0	Maulwerfer	Maulwerfer	0
+621	KST G1	III_22_0013, III_22_0011, III_22_0012, III_22_0010	Söllingen, Söllingen	8.5425, 48.98622	maulwerfer	maulwerfer	0	maulwerfer	maulwerfer	0	Maulwerfer	Maulwerfer	0
+622	KST l8	III_19_0021	Hambrücken, Hambrücken	8.54514, 49.18532	maulwerfer	maulwerfer	0	maulwerfer	maulwerfer	0	Maulwerfer	Maulwerfer	0
+623	KST G2	na	Kleinsteinbach	8.55383, 48.96613	maulwerfer	na	999	maulwerfer	na	999	Maulwerfer	na	999
+624	KST O3	na	Dietenhausen	8.56003, 48.91574	maulwerfer	na	999	maulwerfer	na	999	Maulwerfer	na	999
+625	KST z5	na	Wöschbach	8.56737, 48.99948	maulwerfer	na	999	maulwerfer	na	999	Maulwerfer	na	999
+626	KST z4	III_21_0018	Wössingen, Wössingen	8.61142, 49.01017	maulwerfer	maulwärfer	1	maulwerfer	maulwerfer	0	Maulwerfer	Maulwerfer	0
+627	KST z3	III_21_0019	Dürrenbüchig, Dürrenbüchig	8.64747, 49.0227	maulwerfer	maulwerfer	0	maulwerfer	maulwerfer	0	Maulwerfer	Maulwerfer	0
+628	KST A8	na	Sprantal	8.6823, 49.00345	maulwerfer	na	999	maulwerfer	na	999	Maulwerfer	na	999
+629	KST A7	III_21_0024	Rinklingen , Rinklingen	8.6832, 49.03485	maulwerfa	maulwerfer	2	maulwerfer	maulwerfer	0	Maulwerfer	Maulwerfer	0
+630	KST A4	na	Gölshausen	8.72322, 49.04608	maulwärfå	na	999	maulwerfer	na	999	Maulwerfer	na	999
+631	KST A9	na	Ruit	8.72435, 49.00924	maulwerfer	na	999	maulwerfer	na	999	Maulwerfer	na	999
+632	KST B1	III_21_0033	Kürnbach, Kürnbach	8.84279, 49.07732	maulwärfa	maulwerfer	3	maulwerfer	maulwerfer	0	Maulwerfer	Maulwerfer	0
+633	STU h1	na	Stetten/Remstal	9.34045, 48.79285	maulwerfer	na	999	maulwerfer	na	999	Maulwerfer	na	999
+634	MH o3	na	Sonderriet	9.43938, 49.71753	moutwerfel	na	999	moudwerfel	na	999	Maulwerfer	na	999
+635	MH f3	na	Grünenwört	9.47135, 49.77438	moudwerfel	na	999	moudwerfel	na	999	Maulwerfer	na	999
+636	STU u2	na	Bissingen/Teck	9.49128, 48.60024	maulwerfer	na	999	maulwerfer	na	999	Maulwerfer	na	999
+637	STU k1	na	Wäschenbeuren	9.68695, 48.75984	mauerfer	na	999	mauerfer	na	999	Maulwerfer	na	999
+638	na	III_14_0086	Maasmünster	6.99386, 47.7727	na	mülwarfer	999	na	mülwarfer	999	na	Maulwerfer	999
+639	na	III_6_0017	Rexingen	7.17654, 48.90012	na	mülwerfer	999	na	mülwerfer	999	na	Maulwerfer	999
+640	na	III_5_0050	Waldhambach	7.21529, 48.92578	na	mülwäafe	999	na	mülwerfer	999	na	Maulwerfer	999
+641	na	III_13_0113	Rufach	7.29696, 47.95968	na	mühlwelfer	999	na	mülwelfer	999	na	Maulwerfer	999
+642	na	III_11_0007	Weiler	7.30273, 48.34253	na	mülwolfer	999	na	mülwolfer	999	na	Maulwerfer	999
+643	na	III_12_0086	Ingersheim	7.30725, 48.0936	na	mülwalfer	999	na	mülwalfer	999	na	Maulwerfer	999
+644	na	III_10_0022	Mollkirch	7.38528, 48.50755	na	mülwarfer	999	na	mülwarfer	999	na	Maulwerfer	999
+645	na	III_10_0020	Dorlisheim	7.48538, 48.52471	na	mülwärfer	999	na	mülwerfer	999	na	Maulwerfer	999
+646	na	III_10_0010	Sulzbad	7.48699, 48.572	na	mülwarfer	999	na	mülwarfer	999	na	Maulwerfer	999
+647	na	III_12_0097	Dürrenenzen	7.50406, 48.09192	na	müllwarfer	999	na	mülwarfer	999	na	Maulwerfer	999
+648	na	III_10_0024	Wolxheim	7.51077, 48.56903	na	müllwerfer	999	na	mülwerfer	999	na	Maulwerfer	999
+649	na	III_10_0039	Griesheim	7.53227, 48.50237	na	mülwalfer	999	na	mülwalfer	999	na	Maulwerfer	999
+650	na	III_9_0039	Nuegartheim, Ittlenheim	7.53766, 48.6623	na	mülweͣlfer	999	na	mülwalfer	999	na	Maulwerfer	999
+651	na	III_9_0041	Schnersheim	7.568, 48.65809	na	müllwalfer	999	na	mülwalfer	999	na	Maulwerfer	999
+652	na	III_12_0022	Saasenheim	7.61664, 48.23405	na	mülwarfar	999	na	mülwarfer	999	na	Maulwerfer	999
+653	na	III_11_0039	Herbsheim	7.6323, 48.3467	na	müllwarfer	999	na	mülwarfer	999	na	Maulwerfer	999
+654	na	III_10_0049	Neumühl	7.84392, 48.57012	na	mulwerfer	999	na	mulwerfer	999	na	Maulwerfer	999
+655	na	III_6_0081	Schwabweiler	7.87665, 48.90207	na	mülwalfer	999	na	mülwalfer	999	na	Maulwerfer	999
+656	na	III_5_0096	Schönenburg	7.91332, 48.95207	na	maulwerfer	999	na	maulwerfer	999	na	Maulwerfer	999
+657	na	III_10_0127	Offenburg	7.9447, 48.47195	na	mulwerfer	999	na	mulwerfer	999	na	Maulwerfer	999
+658	na	III_9_0098	Oensbach	8.03279, 48.60579	na	mulwerfer	999	na	mulwerfer	999	na	Maulwerfer	999
+659	na	III_9_0099	Oberachern	8.08066, 48.6193	na	mulwerfer	999	na	mulwerfer	999	na	Maulwerfer	999
+660	na	III_7_0125	Sandweier	8.19586, 48.80855	na	mulwerfer	999	na	mulwerfer	999	na	Maulwerfer	999
+661	na	III_6_0097	Steinmauern	8.19956, 48.90045	na	muwolfer	999	na	muwalfer	999	na	Maulwerfer	999
+662	na	III_9_0104	Herrenwies	8.26593, 48.65907	na	maulwerfer	999	na	maulwerfer	999	na	Maulwerfer	999
+663	na	III_6_0106	Bischweier	8.28478, 48.83768	na	mulwerfer	999	na	mulwerfer	999	na	Maulwerfer	999
+664	na	III_23_0004	Etzenrot	8.46465, 48.90968	na	maulwerfer	999	na	maulwerfer	999	na	Maulwerfer	999
+665	na	III_21_0006	Blankenloch	8.47137, 49.06482	na	maulwerfer	999	na	maulwerfer	999	na	Maulwerfer	999
+666	na	III_22_0014	Langensteinbach	8.50638, 48.915	na	maulwerfer	999	na	maulwerfer	999	na	Maulwerfer	999
+667	na	III_20_0012	Spöck	8.51033, 49.11179	na	maulwerfer	999	na	maulwerfer	999	na	Maulwerfer	999
+668	na	III_22_0022	Bilfingen	8.61996, 48.95027	na	maulwerfer	999	na	maulwerfer	999	na	Maulwerfer	999
+669	na	III_20_0026	Heidelsheim	8.64542, 49.10114	na	maulwerfer	999	na	maulwerfer	999	na	Maulwerfer	999
+670	na	III_21_0020	Gondelsheim	8.65584, 49.0596	na	maulwerfer	999	na	maulwerfer	999	na	Maulwerfer	999
+671	na	II_89_0008	Vockenrot	9.48521, 49.74816	na	madewerfer	999	na	madewerfer	999	na	Maulwerfer	999
+672	na	II_89_0018	Waldenhausen	9.52298, 49.74357	na	modwärfel	999	na	modwerfel	999	na	Maulwerfer	999

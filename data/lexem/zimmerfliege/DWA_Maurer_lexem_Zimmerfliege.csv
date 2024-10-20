@@ -1,0 +1,3 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	TUTT A1	na	Geisingen (Kirchenhausen)	8.65129, 47.93283	zimmerfliege	na	999	tsimerfliege	na	999	Zimmerfliege	na	999
+1	TUTT C9	na	Hoppetenzell	9.00808, 47.89295	zimmerflieg	na	999	tsimerflieg	na	999	Zimmerfliege	na	999

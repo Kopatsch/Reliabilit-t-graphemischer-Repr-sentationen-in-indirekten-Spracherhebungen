@@ -1,0 +1,10 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Stra p 3	III_9_0078	Honau, Honau	7.87132, 48.64025	hagebutzle	haweputzle	2	hagebutzle	hawebutzle	1	Hagebuttle	Hagebuttle	0
+1	TÜB a4	na	Hildmannsfeld	8.05893, 48.73423	hagebüttle	na	999	hagebüttle	na	999	Hagebuttle	na	999
+2	TÜB w4	na	Ibach	8.16274, 48.45618	hagebuttele	na	999	hagebuttle	na	999	Hagebuttle	na	999
+3	TUTT C5	na	Winterspüren	9.05857, 47.85618	haggebuddele	na	999	hagebuttle	na	999	Hagebuttle	na	999
+4	MH o4	II_89_0014	Hundheim, Hundheim	9.46691, 49.69109	hawebützele	hackebützele	2	hawebutte	hagebützle	4	Hagebuttle	Hagebuttle	0
+5	MH o5	II_89_0011, II_89_0010, II_89_0009	Sachsenhausen, Sachsenhausen	9.49147, 49.73223	håchebutzeli	haachebützeli, hoachebützele, hâchabützala	3	hachebutzli	hachebützli, hachebützla, hachebützle	1	Hagebuttle	Hagebuttle	0
+6	MH x6	II_90_0012	Königheim, Königheim	9.59419, 49.61802	håchebützeli	haachebützeli	2	hachebützli	hachebützli	0	Hagebuttle	Hagebuttle	0
+7	na	III_15_0102	Immeneich	8.12543, 47.69719	na	hagenbutzele	999	na	hagenbutzle	999	na	Hagebuttle	999
+8	na	III_6_0090	Plittersdorf	8.15649, 48.88249	na	habudzl	999	na	habutzl	999	na	Hagebuttle	999

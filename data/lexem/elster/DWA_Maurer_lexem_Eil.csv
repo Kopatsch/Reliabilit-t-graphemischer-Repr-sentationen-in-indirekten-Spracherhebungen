@@ -1,0 +1,3 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Stra h 3	na	Grauelsbaum	7.98186, 48.73575	il	na	999	il	na	999	Eil	na	999
+1	KST D1	III_5_0123	Schleital (Schleithal), Schleithal	8.04688, 48.98799	eil	eile	1	eil	eile	1	Eil	Eil	0

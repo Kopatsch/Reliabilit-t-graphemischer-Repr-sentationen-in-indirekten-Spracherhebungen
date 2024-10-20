@@ -1,0 +1,36 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_maurer_align	item_DWA	item_DWA_align	Levenshtein_item
+0	Co Ub 2	III_17_0011	Mörnach (Mœrnach), Mörnach auf vierter Seite Mornach	7.25681, 47.50213	beardigung	b e a r d i g u n g	beerdigung	b ee r d i g u n g	1
+1	Co Xa 5	III_17_0040	Wyhlen, Wyhlen	7.69103, 47.54989	beärdigung	b e ä r d i g u n g	beerdigung	b ee r d i g u n g	1
+2	Co X 14	III_16_0104	Minseln, Minseln	7.79067, 47.60301	beardigung	b e a r d i g u n g	beerdigung	b ee r d i g u n g	1
+3	Co X 17	III_16_0105	Karzau (Karsau) , Karsau	7.79868, 47.58875	bierdigung	b ie r d i g u n g	beerdigung	b ee r d i g u n g	1
+4	Co Y 9	III_16_0120	Bergalingen, Bergalingen	7.95943, 47.61266	beärdigung	b e ä r d i g u n g	beerdigung	b ee r d i g u n g	1
+5	Co Ya 2	III_17_0049, III_17_0055, III_17_0048	Obersäckingen, Säckingen	7.96171, 47.57476	beärdigung	b e ä r d i g u n g	beerdigung	b ee r d i g u n g	1
+6	Co Y 10	III_16_0125	Willaringen, Willaringen	7.97281, 47.60577	beä̅rdigung	b e ä ̅ r d i g u n g	beerdigung	b ee r d i g u n g	2
+7	Co Y 6	III_16_0123	Altenschwand, Altenschwand	7.976, 47.63697	beärdigung	b e ä r d i g u n g	beerdigung	b ee r d i g u n g	1
+8	TUTT S20	III_16_0138	Hänner, Hänner	8.03004, 47.59489	beärdigung	b e ä r d i g u n g	beerdigung	b ee r d i g u n g	1
+9	TUTT Sa5	III_16_0137	Oberhof, Oberhof	8.0324, 47.58493	beärdigung	b e ä r d i g u n g	beerdigung	b ee r d i g u n g	1
+10	TUTT L/S7, TUTT S1	III_15_0093, III_15_0095	Strittmatt, Strittmatt und Engelschwand, Strittmatt, Engelschwand	8.04718, 47.66382	beärdigung	b e ä r d i g u n g	beerdigung	b ee r d i g u n g	1
+11	TUTT L8	III_15_0097	Hartschwand, Hartschwand	8.0655, 47.67119	beärdigung	b e ä r d i g u n g	beerdigung	b ee r d i g u n g	1
+12	TUTT S10	III_15_0096	Rotzingen, Rotzingen	8.0762, 47.66588	beärdigung	b e ä r d i g u n g	beerdigung	b ee r d i g u n g	1
+13	TUTT S18	III_16_0140	Hochsal, Hochsal	8.08003, 47.5887	beardigung	b e a r d i g u n g	beerdigung	b ee r d i g u n g	1
+14	TUTT L/8,9	III_15_0099	Hierbach - Wilfingen, Hierbach	8.09123, 47.686	beärdigung	b e ä r d i g u n g	beerdigung	b ee r d i g u n g	1
+15	TUTT S21	III_16_0141	Schachen, Schachen	8.09406, 47.60368	beärdigung	b e ä r d i g u n g	beerdigung	b ee r d i g u n g	1
+16	TUTT L12	III_15_0107, III_15_0106, III_15_0104	Remetschwiel/Brunnadern, Brunnadern, Remetschwiel	8.14553, 47.68929	beärdigung	b e ä r d i g u n g	beerdigung	b ee r d i g u n g	1
+17	TUTT S13	III_16_0169	Birkingen, Birkingen	8.1477, 47.62511	beerdigung	b ee r d i g u n g	beeridung	b ee r i d u n g	2
+18	TUTT T5	III_16_0158	Eschbach, Eschbach	8.18086, 47.6336	beerdigung	b ee r d i g u n g	bärdigung	b ä r d i g u n g	2
+19	KST F13	III_22_0002	Bruchhausen bei Ettlingen, Bruchhausen	8.371, 48.92716	beärdigung	b e ä r d i g u n g	beerdigung	b ee r d i g u n g	1
+20	TUTT U1	III_38_0002	Erzingen, Erzingen	8.42011, 47.66108	beerdigung	b ee r d i g u n g	běērdigung	b ě ē r d i g u n g	2
+21	MH R13	II_60_0045	Neckargemünd, Neckargemünd	8.79751, 49.39508	beerdigung	b ee r d i g u n g	beerdischung	b ee r d i sch u n g	3
+22	MH K8	II_59_0097	Neckarhäuserhof, Neckarhäuserhof	8.88191, 49.41513	beerdichung	b ee r d i ch u n g	beerdigung	b ee r d i g u n g	2
+23	MH T17	II_60_0075	Neckargerach, Neckargerach	9.0708, 49.40101	beerdischung	b ee r d i sch u n g	beerdigung	b ee r d i g u n g	3
+24	MH T10	II_60_0078	Obrigheim, Obrigheim	9.09608, 49.35186	beerdischung	b ee r d i sch u n g	beerdigung	b ee r d i g u n g	3
+25	MH T11	II_60_0079	Diedesheim, Diedesheim	9.11367, 49.34933	beerdiching	b ee r d i ch i n g	beerdigung	b ee r d i g u n g	3
+26	MH f1	II_88_0007	Mondfeld, Krs. Tauberbischofsheim, Mondfeld	9.41656, 49.7837	beerdichung	b ee r d i ch u n g	beerdigung	b ee r d i g u n g	2
+27	MH E5	II_91_0004	Waldstetten, Waldstetten	9.44893, 49.5647	beerdichung	b ee r d i ch u n g	beerdigung	b ee r d i g u n g	2
+28	MH p9	II_89_0027	Niklashausen, Niklashausen	9.6175, 49.70453	beärdichung	b e ä r d i ch u n g	beerdigung	b ee r d i g u n g	3
+29	MH x3	II_90_0016	Impfingen, Impfingen	9.65946, 49.64719	beerdichung	b ee r d i ch u n g	beerdigung	b ee r d i g u n g	2
+30	TUTT S5, TUTT Sa8	III_17_0060	Luttingen, Luttingen und Grunholz, Luttingen	8.09878, 47.57252	beärdigung	b e ä r d i g u n g	beerdigung	b ee r d i g u n g	1
+31	TUTT L12	III_15_0107, III_15_0106, III_15_0104	Remetschwiel/Brunnadern, Brunnadern, Remetschwiel	8.14553, 47.68929	beärdigung	b e ä r d i g u n g	beerdigung	b ee r d i g u n g	1
+32	KST P3/1	III_23_0043, III_23_0046, III_23_0051, III_23_0037, III_23_0054, III_23_0040, III_23_0045, III_23_0053, III_23_0041, III_23_0049, III_23_0044	Pforzheim, Pforzheim	8.70025, 48.89013	beerdigung	b ee r d i g u n g	beerdichung	b ee r d i ch u n g	2
+33	MH T11	II_60_0079	Diedesheim, Diedesheim	9.11367, 49.34933	beerdichung	b ee r d i ch u n g	beerdigung	b ee r d i g u n g	2
+34	MH T11	II_60_0079	Diedesheim, Diedesheim	9.11367, 49.34933	beerdiching	b ee r d i ch i n g	beerdigung	b ee r d i g u n g	3

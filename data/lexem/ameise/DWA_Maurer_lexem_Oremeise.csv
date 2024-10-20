@@ -1,0 +1,11 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	TUTT h5	na	Wildgutach	8.11606, 48.0323	ohremeise	na	999	oremeise	na	999	Oremeise	na	999
+1	TUTT h4	na	(Alt)Glashütte	8.13564, 48.0008	orameise	na	999	oremeise	na	999	Oremeise	na	999
+2	TUTT a5	na	Rohrhardsberg	8.16036, 48.1327	ohrenmeise	na	999	oremeise	na	999	Oremeise	na	999
+3	TUTT q1	na	Waldau	8.16331, 47.98172	orremais	na	999	oremeise	na	999	Oremeise	na	999
+4	TÜB T5	na	Rensberg	8.1889, 48.17741	oremeis	na	999	oremeise	na	999	Oremeise	na	999
+5	TUTT b3	III_12_0161	Schonach, Schonach	8.20179, 48.14296	ohremeis	ohremeis	0	oremeise	oremeise	0	Oremeise	Oremeise	0
+6	TUTT b8	na	Schönwald	8.20401, 48.10371	ohrenmeise	na	999	oremeise	na	999	Oremeise	na	999
+7	TUTT b5	III_12_0152, III_12_0154	Nussbach, Nussbach	8.25836, 48.13097	ōhremaise	oremeise	3	oremeise	oremeise	0	Oremeise	Oremeise	0
+8	na	III_13_0076	Gütenbach	8.13807, 48.04398	na	ohrêmeis	999	na	oremeise	999	na	Oremeise	999
+9	na	III_13_0082	Rohrbach	8.25784, 48.07437	na	ohremeise	999	na	oremeise	999	na	Oremeise	999

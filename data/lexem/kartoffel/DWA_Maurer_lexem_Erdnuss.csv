@@ -1,0 +1,20 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Stra p 7	III_9_0086	Wagshurst, Wagshurst	7.99491, 48.62035	erdnuhs, ärdnuhs	erdnuß	2	erdnuss	erdnuss	0	Erdnuss	Erdnuss	0
+1	TÜB h1/1, TÜB h1/2	III_9_0103	Gamshurst, Gamshurst	8.0187, 48.66413	erdnuhs, erdnuß	erdnuß	0	erdnuss	erdnuss	0	Erdnuss	Erdnuss	0
+2	TÜB h7	III_9_0098	Önsbach, Oensbach	8.03279, 48.60579	erdnuß	erdnuß	0	erdnuss	erdnuss	0	Erdnuss	Erdnuss	0
+3	TÜB h2	III_9_0088, III_9_0087	Großweier, Grossweier	8.0487, 48.65502	ärdnuß	erdnuß	1	erdnuss	erdnuss	0	Erdnuss	Erdnuss	0
+4	TÜB h6	na	Fautenbach	8.05129, 48.62351	erdnuß	na	999	erdnuss	na	999	Erdnuss	na	999
+5	TÜB h10	III_9_0099	Oberachern, Oberachern	8.08066, 48.6193	ärdnuß	ärdnuß	0	erdnuss	erdnuss	0	Erdnuss	Erdnuss	0
+6	TÜB h3	III_9_0089	Sasbachried, Sasbachried	8.08648, 48.65688	erdnuß	erdnuß	0	erdnuss	erdnuss	0	Erdnuss	Erdnuss	0
+7	TÜB h4	III_9_0092	Sasbach , Sasbach	8.09181, 48.63896	erdnuß	erdnuß	0	erdnuss	erdnuss	0	Erdnuss	Erdnuss	0
+8	TÜB h11	III_9_0100	Obersasbach, Obersasbach	8.10713, 48.63223	erdnuß	erdnuß	0	erdnuss	erdnuss	0	Erdnuss	Erdnuss	0
+9	TÜB a13	III_8_0108	Ottersweier, Ottersweier	8.11279, 48.66967	erdnuß	erdnuss	2	erdnuss	erdnuss	0	Erdnuss	Erdnuss	0
+10	TÜB h14	na	Sasbachwalden	8.12201, 48.62035	erdnuß	na	999	erdnuss	na	999	Erdnuss	na	999
+11	TÜB h12	III_9_0094, III_9_0093	Lauf, Lauf	8.12648, 48.65317	erdnuss	erdnuß, ärdnuß	2	erdnuss	erdnuss	0	Erdnuss	Erdnuss	0
+12	TÜB a11	na	Bühl	8.13592, 48.69536	erdnuß	na	999	erdnuss	na	999	Erdnuss	na	999
+13	TÜB h13	III_9_0095, III_9_0096	Neusatz , Neusatz	8.14904, 48.65879	erdnuß	erdnuß	0	erdnuss	erdnuss	0	Erdnuss	Erdnuss	0
+14	TÜB b6	na	Altschweier	8.16047, 48.69964	erdnuß	na	999	erdnuss	na	999	Erdnuss	na	999
+15	TÜB b10	na	Neusatzeck	8.18311, 48.66621	erdnuss	na	999	erdnuss	na	999	Erdnuss	na	999
+16	TÜB b8, TÜB b7, TÜB b9	III_8_0112, III_8_0113	Bühlertal-Obertal, Bühlertal-Hof, Bühlertal-Untertal, Bühlertal-Hof, Bühlertal	8.19194, 48.68215	erdnuß, erdnuss	erdnuss	0	erdnuss	erdnuss	0	Erdnuss	Erdnuss	0
+17	MH g1	II_88_0024	Dertingen über Wertheim a.M., Dertingen	9.61957, 49.7665	ardnüß	ādnūs	4	ardnüss	ardnuss	1	Erdnuss	Erdnuss	0
+18	na	III_9_0090, III_9_0091	Achern	8.06363, 48.62871	na	erdnusse, erdnuß	999	na	erdnuss	999	na	Erdnuss	999

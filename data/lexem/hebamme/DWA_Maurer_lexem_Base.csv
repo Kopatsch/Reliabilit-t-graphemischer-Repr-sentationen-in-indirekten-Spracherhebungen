@@ -1,0 +1,7 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Stra w 13	III_10_0050	Kork, Kork	7.86899, 48.56537	baß	baß	0	bas	bas	0	Base	Base	0
+1	KST z8	III_21_0012, III_21_0011, III_21_0013, III_21_0010, III_21_0009	Weingarten, Weingarten	8.53114, 49.0533	base	base	0	base	base	0	Base	Base	0
+2	KST l2	III_19_0161	Kirrlach, Kirrlach	8.54938, 49.24183	baas	baas	0	bas	bas	0	Base	Base	0
+3	MH w3	II_90_0007	Hardheim, Hardheim	9.47457, 49.60804	bosch	bas	3	basch	bas	2	Base	Base	0
+4	na	III_19_0012	Neudorf	8.49692, 49.17524	na	bas	999	na	bas	999	na	Base	999
+5	na	II_90_0001	Reichenhardsachsen	9.34508, 49.64003	na	basch	999	na	basch	999	na	Base	999

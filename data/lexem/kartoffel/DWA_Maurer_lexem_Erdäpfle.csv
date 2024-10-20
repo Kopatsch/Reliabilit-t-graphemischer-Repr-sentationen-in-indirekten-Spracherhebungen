@@ -1,0 +1,18 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Stra G 7	na	Bassenberg (Bassemberg)	7.28546, 48.33566	ardepfle	na	999	ardäpfle	na	999	Erdäpfle	na	999
+1	Stra P 8	na	Kestenholz (Châtenois)	7.39919, 48.27183	hardepfele	na	999	hardäpfle	na	999	Erdäpfle	na	999
+2	Stra H 6	III_11_0019	Bernhardsweiler (Bernardvillé), Bernhardsweiler	7.40011, 48.36706	ārdepfle	ardepfle	1	ardäpfle	ardäpfle	0	Erdäpfle	Erdäpfle	0
+3	Stra P 6	na	Diefental (Dieffenthal)	7.4217, 48.30979	ardepfella	na	999	ardäpfla	na	999	Erdäpfle	na	999
+4	Stra A 1/1	na	Rosheim	7.46905, 48.49622	ārdäpfle	na	999	ardäpfle	na	999	Erdäpfle	na	999
+5	Stra A 4	III_10_0093	Oberehnheim (Obernai), Oberehnheim	7.48507, 48.4622	ardäpfle	ardäpfele	1	ardäpfle	ardäpfle	0	Erdäpfle	Erdäpfle	0
+6	na	III_10_0086	Natzweiler	7.25895, 48.43628	na	ardäpfle	999	na	ardäpfle	999	na	Erdäpfle	999
+7	na	III_11_0008	St. Martin	7.28942, 48.35047	na	ardepfla	999	na	ardäpfla	999	na	Erdäpfle	999
+8	na	III_11_0094	Kinzheim	7.39476, 48.25441	na	hardepfle	999	na	hardäpfle	999	na	Erdäpfle	999
+9	na	III_15_0041	Habsheim	7.41666, 47.72864	na	hardäpfle	999	na	hardäpfle	999	na	Erdäpfle	999
+10	na	III_11_0090	Dambach	7.42838, 48.32103	na	ardepfle	999	na	ardäpfle	999	na	Erdäpfle	999
+11	na	III_10_0097	Goxweiler	7.48432, 48.43288	na	erdäpfle	999	na	erdäpfle	999	na	Erdäpfle	999
+12	na	III_12_0108	Burkheim am Kaiserstuhl	7.59943, 48.10194	na	herdäpfle	999	na	herdäpfle	999	na	Erdäpfle	999
+13	na	III_10_0107	Limersheim	7.64596, 48.45465	na	ardepfla	999	na	ardäpfla	999	na	Erdäpfle	999
+14	na	III_14_0055	Wettelbrunn	7.69689, 47.87134	na	hardepfle	999	na	hardäpfle	999	na	Erdäpfle	999
+15	na	III_14_0057	Grunern	7.72184, 47.87162	na	hardepfle	999	na	hardäpfle	999	na	Erdäpfle	999
+16	na	III_33_0051	Menningen	9.15825, 48.01089	na	herdöpfle	999	na	herdöpfle	999	na	Erdäpfle	999

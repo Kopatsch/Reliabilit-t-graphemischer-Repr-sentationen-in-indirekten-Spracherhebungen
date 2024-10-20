@@ -1,0 +1,5 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	TUTT k1	na	Vilingen	8.45901, 48.0567	hadlä	na	999	haddle	na	999	Haddele	na	999
+1	na	III_16_0147	Waldkirch	8.17132, 47.65851	na	haddlə	999	na	haddle	999	na	Haddele	999
+2	na	III_34_0028	Geisingen	8.65129, 47.93283	na	hettla	999	na	heddla	999	na	Haddele	999
+3	na	III_36_0034	Duchtlingen	8.79029, 47.79154	na	hätteli	999	na	heddli	999	na	Haddele	999

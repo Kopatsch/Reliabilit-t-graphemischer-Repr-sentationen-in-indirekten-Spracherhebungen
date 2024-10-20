@@ -1,0 +1,19 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Stra w 10	na	Eckartsweier	7.85175, 48.52985	schäck	na	999	schäk	na	999	Schäk	na	999
+1	Stra S 6	na	Seelbach	7.94104, 48.30987	schäg	na	999	schäk	na	999	Schäk	na	999
+2	Stra S 8	na	Schuttertal	7.95562, 48.27087	tschäg	na	999	tschäk	na	999	Schäk	na	999
+3	Stra w 6	III_10_0062	Ebersweier, Ebersweier	7.98301, 48.50723	schǟg	schäg	1	schäk	schäk	0	Schäk	Schäk	0
+4	TÜB h5	III_9_0091	Achern, Achern	8.06363, 48.62871	schǟk	schäg	2	schäk	schäk	0	Schäk	Schäk	0
+5	TÜB h9	na	Mösbach	8.06514, 48.5964	schǟck	na	999	schäk	na	999	Schäk	na	999
+6	TÜB a7	III_8_0105	Balzhofen, Balzhofen	8.09765, 48.71247	schäg	schäg	0	schäk	schäk	0	Schäk	Schäk	0
+7	TÜB E4	III_11_0079	Oberwolfach, Oberwolfach-Walke	8.21698, 48.3174	schäg	schäge	1	schäk	schäke	1	Schäk	Schäk	0
+8	TÜB b1	na	Gerolsau	8.24536, 48.73474	schäg	na	999	schäk	na	999	Schäk	na	999
+9	KST T11	na	Baden-Oos	8.24755, 48.76768	schäg	na	999	schäk	na	999	Schäk	na	999
+10	TÜB M9	na	Halbmeil	8.27063, 48.29042	schäk	na	999	schäk	na	999	Schäk	na	999
+11	TÜB E3	na	Schapbach	8.28904, 48.37778	schäg	na	999	schäk	na	999	Schäk	na	999
+12	TÜB M1	na	Sankt Roman	8.2924, 48.33187	schäg	na	999	schäk	na	999	Schäk	na	999
+13	KST M5	na	Waldprechtsweier	8.33173, 48.8612	schägäg, schäg	na	999	schäkäk, schäk	na	999	Schäk	na	999
+14	KST U3	na	Hörden	8.34313, 48.78046	schäg	na	999	schäk	na	999	Schäk	na	999
+15	KST F13	na	Bruchhausen bei Ettlingen	8.371, 48.92716	schäg	na	999	schäk	na	999	Schäk	na	999
+16	KST N10	na	Pfaffenrot	8.45861, 48.86075	schäk	na	999	schäk	na	999	Schäk	na	999
+17	na	III_10_0126	Rammersweier	7.96625, 48.48439	na	schäge	999	na	schäke	999	na	Schäk	999

@@ -1,0 +1,567 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Co w 4	III_14_0003	Mollau , Mollau	6.97488, 47.87245	gīfelä	giefele	3	gifele	gifele	0	Glifle	Glifle	0
+1	Hag M 11/2	na	Wolfskirchen	7.07612, 48.87884	geffel	na	999	gefel	na	999	Glifle	na	999
+2	Co E5	na	Rodern	7.0877, 47.77839	giefela	na	999	gifela	na	999	Glifle	na	999
+3	Co k 11	na	Sulzbach (Soultzbach-Les-Bains)	7.20324, 48.03797	gefala	na	999	gefela	na	999	Glifle	na	999
+4	Co r 3	III_13_0110	Westhalten, Westhalten	7.2595, 47.95742	giefla	geefla	1	gifla	gefla	1	Glifle	Glifle	0
+5	Co Ub 6	na	Winkel	7.26347, 47.46074	gefala	na	999	gefela	na	999	Glifle	na	999
+6	Hag U 2	na	Graufthal	7.28092, 48.81935	giffel	na	999	gifel	na	999	Glifle	na	999
+7	Hag U 1	III_7_0033	Etschburg (Eschbourg), Eschburg	7.29591, 48.81267	giffel	gēflel	2	gifel	geflel	2	Glifle	Glifle	0
+8	Hag G 1	na	Rosteig	7.33838, 48.9327	giefel	na	999	gifel	na	999	Glifle	na	999
+9	Co V 1	na	Obersteinbrunn (Steinbrunn-le-Haut)	7.3467, 47.65852	giefala	na	999	gifela	na	999	Glifle	na	999
+10	Stra W 7	na	Rohrschweier (Rorschwihr)	7.36295, 48.21541	gefl	na	999	gefl	na	999	Glifle	na	999
+11	Stra m 2	na	Salental	7.37043, 48.66739	geffel	na	999	gefel	na	999	Glifle	na	999
+12	Stra m 3/1	na	Maursmünster (Marmoutier)	7.38108, 48.69056	gieffel	na	999	gifel	na	999	Glifle	na	999
+13	Co l 7	III_13_0034	Logelnheim (Logelheim), Logelnheim	7.40918, 48.0211	giefla	gefla	1	gifla	gefla	1	Glifle	Glifle	0
+14	Co d 5	III_12_0092	Riedweier, Riedweier	7.44536, 48.12387	gūfela	giefeler	4	gufela	gifela	1	Glifle	Glifle	0
+15	Co H16	na	Ottmarsheim	7.50646, 47.78661	gufale	na	999	gufele	na	999	Glifle	na	999
+16	Stra X 12	III_12_0029	Boozheim (Bootzheim), Boozheim	7.57052, 48.18862	geefle	geefle	0	gefle	gefle	0	Glifle	Glifle	0
+17	Co A10	na	Zienken (Müllheim)	7.57779, 47.84303	giiflė	na	999	gifle	na	999	Glifle	na	999
+18	Co P7	na	Hertingen	7.58442, 47.7231	güfli	na	999	güfli	na	999	Glifle	na	999
+19	Co e 4	III_12_0108	Burkheim am Kaiserstuhl, Burkheim am Kaiserstuhl	7.59943, 48.10194	gifli	gifli	0	gifli	gifli	0	Glifle	Glifle	0
+20	Co e 14	na	Jechtingen am Kaierstuhl	7.60965, 48.11815	giefli	na	999	gifli	na	999	Glifle	na	999
+21	Co e 12	III_12_0103	Sasbach, Sasbach	7.61363, 48.13798	giefli	gifla	2	gifli	gifla	1	Glifle	Glifle	0
+22	Co m 4	na	Achkarren	7.62448, 48.06769	güfli	na	999	güfli	na	999	Glifle	na	999
+23	Co t 4	na	Hartheim	7.62702, 47.93691	gīfli	na	999	gifli	na	999	Glifle	na	999
+24	Co e 13	III_12_0107	Oberrotweil, Oberrotweil	7.63551, 48.08944	gifli	gifli	0	gifli	gifli	0	Glifle	Glifle	0
+25	Co P4	III_15_0059	Feuerbach, Feuerbach	7.642, 47.73653	güfli	güfle	1	güfli	güfle	1	Glifle	Glifle	0
+26	Co m 2	III_13_0039	Gündlingen, Gündlingen	7.64227, 48.01556	gifli	gifli	0	gifli	gifli	0	Glifle	Glifle	0
+27	Co e 7	III_12_0032, III_12_0031	Wyhl am Kaiserstuhl, Wyhl	7.64933, 48.1663	givli	güfli	2	gifli	güfli	1	Glifle	Glifle	0
+28	Co t 3	na	Feldkirch	7.64962, 47.93629	gevili	na	999	gefeli	na	999	Glifle	na	999
+29	Co e 2	III_12_0105	Kiechlinsbergen, Kiechlinsbergen	7.65306, 48.12469	giefle	geefli	2	gifle	gefli	2	Glifle	Glifle	0
+30	Co e 11	III_12_0104	Königschaffhausen am Kaiserstuhl, Königschaffhausen	7.65562, 48.13337	gefli	gifli	1	gefli	gifli	1	Glifle	Glifle	0
+31	Co B1	III_14_0050	Tunsel, Tunsel	7.66581, 47.90315	güfle	güfeli	2	güfle	güfeli	2	Glifle	Glifle	0
+32	Co u 18	III_13_0127	Niederrimsingen, Niederrimsingen	7.67114, 47.98702	giefli	giveli	2	gifli	gifeli	1	Glifle	Glifle	0
+33	Co f 12	III_12_0123	Amoltern, Amoltern	7.67629, 48.12873	gīefli	giefli	1	gifli	gifli	0	Glifle	Glifle	0
+34	Co n 14	na	Wasenweiler	7.6813, 48.05162	gïfli	na	999	gifli	na	999	Glifle	na	999
+35	Co f 6	na	Schelingen am Kaiserstuhl	7.68308, 48.10435	gifli	na	999	gifli	na	999	Glifle	na	999
+36	Co n 4	III_13_0059, III_13_0058	Merdingen, Merdingen	7.68864, 48.0173	gi̠fli	guefle, giefli, gifli	1	gifli	guefle, gifli	0	Glifle	Glifle	0
+37	Co B3	III_14_0055, III_14_0056	Wettelbrunn, Wettelbrunn	7.69689, 47.87134	giefli	gifili, giafli	1	gifli	gifeli, giaflo	1	Glifle	Glifle	0
+38	Co u 16	III_13_0129	Munzingen, Munzingen	7.69883, 47.96873	gi̠fli	giifli	1	gifli	gifli	0	Glifle	Glifle	0
+39	Co f 9	III_12_0119	Forchheim, Forchheim	7.7031, 48.16341	gīfli	giifli	2	gifli	gifli	0	Glifle	Glifle	0
+40	Co f 1	III_12_0121, III_12_0122, III_12_0120	Endingen, Endingen	7.70312, 48.1419	gifle	giefli, gifli	1	gifle	gifli	1	Glifle	Glifle	0
+41	Co J7	III_15_0061, III_14_0147	Malsburg, Malsburg	7.70866, 47.73257	güfle	güefli, güüfli	2	güfle	güefli, güfli	1	Glifle	Glifle	0
+42	Stra Y 2	III_12_0035	Oberhausen, Oberhausen	7.71048, 48.22667	gīfli	giefli	2	gifli	gifli	0	Glifle	Glifle	0
+43	Stra Y 1	na	Niederhausen	7.71317, 48.23982	giäfli, gifli	na	999	gifli	na	999	Glifle	na	999
+44	Co n 13	III_13_0056	Waltershofen, Waltershofen	7.71857, 48.02338	gīfle	gifli	2	gifle	gifli	1	Glifle	Glifle	0
+45	Co B10	III_14_0057	Grunern bei Müllheim, Grunern	7.72184, 47.87162	giflé	gifli	1	gifle	gifli	1	Glifle	Glifle	0
+46	Stra R 13	na	Rust	7.72571, 48.26873	gīfli	na	999	gifli	na	999	Glifle	na	999
+47	Co n 12	III_13_0050, III_13_0051	Bötzingen, Bötzingen	7.72593, 48.07743	gīvli̍	giifli, giefli	4	gifli	gifli	0	Glifle	Glifle	0
+48	Co n 8	na	Gottenheim	7.72686, 48.04969	gifli	na	999	gifli	na	999	Glifle	na	999
+49	Co Xa 4	na	Herten	7.72902, 47.55493	güefele	na	999	glüefele	na	999	Glifle	na	999
+50	Co f 10	III_12_0111	Bahlingen, Bahlingen	7.73937, 48.12209	gīfaͤli	giifili	4	gifali	gifeli	1	Glifle	Glifle	0
+51	Co f 7	na	Eichstetten	7.74563, 48.09417	gīfli	na	999	gifli	na	999	Glifle	na	999
+52	Co f 2	III_12_0113	Riegel, Riegel	7.7507, 48.15056	gifli	gievle	3	gifli	gifle	1	Glifle	Glifle	0
+53	Co u 6	na	Pfaffenweiler	7.75445, 47.94133	giefli	na	999	gifli	na	999	Glifle	na	999
+54	Stra Y 14	na	Hecklingen	7.76731, 48.16962	giefle	na	999	gifle	na	999	Glifle	na	999
+55	Stra R 12	na	Grafenhausen (Kappel-Grafenhausen)	7.76775, 48.2841	gīͤfli	na	999	gifli	na	999	Glifle	na	999
+56	Co n 5	na	Neuershausen	7.76972, 48.0689	gifle	na	999	gifle	na	999	Glifle	na	999
+57	Co Q7	na	Sallneck	7.7724, 47.72297	guefli	na	999	guefli	na	999	Glifle	na	999
+58	Stra Y 8	III_12_0038, III_12_0037, III_12_0039	Herbolzheim a. d. Bleich, Herbolzheim	7.77743, 48.22249	gifli	giefli	1	gifli	gifli	0	Glifle	Glifle	0
+59	Co f 3	na	Nimburg	7.77794, 48.10762	giefli	na	999	gifli	na	999	Glifle	na	999
+60	Co n 11	na	Buchheim	7.77912, 48.06092	gīfli	na	999	gifli	na	999	Glifle	na	999
+61	Co u 19/2	na	Bollschweil	7.77924, 47.91994	gīfli	na	999	gifli	na	999	Glifle	na	999
+62	Stra Y 4	III_12_0033	Ringsheim, Ringsheim	7.78041, 48.24632	gīflī	giefli	3	gifli	gifli	0	Glifle	Glifle	0
+63	Co n 9	III_13_0054	Hugstetten, Hugstetten	7.78045, 48.05415	gifli	gifli	0	gifli	gifli	0	Glifle	Glifle	0
+64	Co f 5	III_12_0117	Malterdingen, Malterdingen	7.79392, 48.16302	gifli	gifli	0	gifli	gifli	0	Glifle	Glifle	0
+65	Co Q10	na	Wieslet	7.79819, 47.6893	gǖfli	na	999	güfli	na	999	Glifle	na	999
+66	Stra R 8	na	Orschweier	7.79862, 48.27835	glifli	na	999	glifli	na	999	Glifle	na	999
+67	Co n 7	na	Holzhausen	7.79978, 48.07044	gīfli	na	999	gifli	na	999	Glifle	na	999
+68	Co n 6	na	Hochdorf	7.80212, 48.0489	gifli	na	999	gifli	na	999	Glifle	na	999
+69	Co f 11	na	Teningen	7.80344, 48.12897	güfli	na	999	güfli	na	999	Glifle	na	999
+70	Stra Y 7	III_12_0040	Tutschfelden, Tutschfelden	7.80659, 48.21534	gifli	güfle	2	gifli	güfle	2	Glifle	Glifle	0
+71	Stra R 6	na	Kippenheimweiler	7.80753, 48.31925	giefli	na	999	gifli	na	999	Glifle	na	999
+72	Stra R 7	III_11_0113	Mahlberg, Mahlberg	7.81323, 48.28708	gifli	giifli	1	gifli	gifli	0	Glifle	Glifle	0
+73	Stra R 10	III_11_0117	Ettenheim, Ettenheim	7.81361, 48.25631	gīfli	giefli	2	gifli	gifli	0	Glifle	Glifle	0
+74	Stra R 9	III_11_0116, III_11_0115	Altdorf, Altdorf	7.81401, 48.26606	gīfli	giefli	2	gifli	gifli	0	Glifle	Glifle	0
+75	Stra Y 12	na	Bombach	7.81686, 48.17869	gifli	na	999	gifli	na	999	Glifle	na	999
+76	Stra Y 5	III_12_0034	Ettenheimweiler, Ettenheimweiler	7.82007, 48.23676	güfli	giefle	3	güfli	gifle	2	Glifle	Glifle	0
+77	Stra R 5	III_11_0112	Kippenheim, Kippenheim	7.82466, 48.29439	gifli	giifli	1	gifli	gifli	0	Glifle	Glifle	0
+78	Co n 2	III_13_0060	Reute, Reute	7.82538, 48.08175	güfli	gīfli	1	güfli	gifli	1	Glifle	Glifle	0
+79	Stra Y a 1	III_12_0112	Heimbach, Heimbach	7.82936, 48.1638	gīfli	gifli	1	gifli	gifli	0	Glifle	Glifle	0
+80	Co u 10	na	Au	7.82976, 47.95687	giefli	na	999	gifli	na	999	Glifle	na	999
+81	Stra Y 10	III_12_0042	Bleichheim, Bleichheim	7.8306, 48.20842	gifli	giefli	1	gifli	gifli	0	Glifle	Glifle	0
+82	Stra L 10	III_11_0044	Hugsweier, Hugsweier	7.83742, 48.36009	gifli	gifli	0	gifli	gifli	0	Glifle	Glifle	0
+83	Co C9	na	St Ulrich	7.83776, 47.909	güfli	na	999	güfli	na	999	Glifle	na	999
+84	Stra S 1	III_11_0119	Mietersheim, Mietersheim	7.83797, 48.32639	gifli	gifli	0	gifli	gifli	0	Glifle	Glifle	0
+85	Co K6	na	Böllen	7.84054, 47.80226	geefli	na	999	gefli	na	999	Glifle	na	999
+86	Stra L 9	III_11_0053	Schuttern, Schuttern	7.85268, 48.38219	gefli	giefli	1	gefli	gifli	1	Glifle	Glifle	0
+87	Stra S 10	III_11_0132	Wallburg, Wallburg	7.85339, 48.26704	gīfli	gifli	1	gifli	gifli	0	Glifle	Glifle	0
+88	Stra S 9	na	Schmieheim	7.85658, 48.27938	gifli	na	999	gifli	na	999	Glifle	na	999
+89	Stra S 11	III_12_0048	Münchweier, Münchweier	7.85884, 48.24754	gifli	gifli	0	gifli	gifli	0	Glifle	Glifle	0
+90	Stra S 3, Stra S 2	III_11_0120, III_11_0121	Sulz, Langenhard-Sulz, Sulz	7.86031, 48.31851	giefli, gifli	güfli, gifli	0	gifli	güfli, gifli	0	Glifle	Glifle	0
+91	Co C1	na	Obermünstertal-Neuhof	7.86115, 47.84975	güfli	na	999	güfli	na	999	Glifle	na	999
+92	Stra p 3	III_9_0078	Honau, Honau	7.87132, 48.64025	gifl	kiffle	3	gifl	gifle	1	Glifle	Glifle	0
+93	Co R6	na	Atzenbach	7.8735, 47.71532	güfli	na	999	güfli	na	999	Glifle	na	999
+94	Stra L 7	na	Friesenheim	7.87515, 48.37378	gifli	na	999	gifli	na	999	Glifle	na	999
+95	Stra Z 1	III_12_0047	Ettenheimmünster, Ettenheimmünster	7.88015, 48.24152	güfli	gifli	1	güfli	gifli	1	Glifle	Glifle	0
+96	Co C2	III_14_0070	Wieden, Wieden	7.8814, 47.84169	gīfli	gifli	1	gifli	gifli	0	Glifle	Glifle	0
+97	Co R5	III_15_0076	Mambach, Mambach	7.88363, 47.72839	güüfli	güüfli	0	güfli	güfli	0	Glifle	Glifle	0
+98	Co g 14	na	Freiamt-Mußbach (Mussbach)	7.88578, 48.17377	giefli	na	999	gifli	na	999	Glifle	na	999
+99	Stra L 1	III_10_0118	Niederschopfheim, Niederschopfheim	7.891, 48.41717	gifli	gifle	1	gifli	gifle	1	Glifle	Glifle	0
+100	Co C7	III_14_0068	Hofsgrund, Hofsgrund	7.89778, 47.90096	giefli	giefli	0	gifli	gifli	0	Glifle	Glifle	0
+101	Stra L 6	III_11_0050	Oberweier, Oberweier	7.89815, 48.37746	gifli	gifli	0	gifli	gifli	0	Glifle	Glifle	0
+102	Stra L 2	na	Oberschopfheim	7.90095, 48.39821	gīfli	na	999	gifli	na	999	Glifle	na	999
+103	Stra Z 5	na	Freiamt	7.90612, 48.17863	gifli	na	999	gifli	na	999	Glifle	na	999
+104	Co R2	na	Ehrsberg	7.90629, 47.74318	güfli	na	999	güfli	na	999	Glifle	na	999
+105	Stra L 13	III_11_0061	Kuhbach, Kuhbach	7.90787, 48.33884	güfli	güefli	1	güfli	güefli	1	Glifle	Glifle	0
+106	Stra D 15	III_10_0119	Hofweier, Hofweier	7.90797, 48.42392	giefli	güfli	2	gifli	güfli	1	Glifle	Glifle	0
+107	Co K4	na	Utzenfeld	7.91301, 47.80054	gifle	na	999	gifle	na	999	Glifle	na	999
+108	Co R3	III_15_0071	Häg (bei Mambach), Häg	7.91432, 47.73207	güfli	güfli	0	güfli	güfli	0	Glifle	Glifle	0
+109	Co C5	na	Muggenbrunn	7.91725, 47.857	gīfle	na	999	gifle	na	999	Glifle	na	999
+110	Stra h 8	na	Freistett	7.93582, 48.67138	giffel	na	999	gifel	na	999	Glifle	na	999
+111	Hag K 3	III_5_0092	Ingolsheim, Ingolsheim	7.93636, 48.97357	geffel	gefel	1	gefel	gefel	0	Glifle	Glifle	0
+112	Stra L 3	III_11_0063	Diersburg, Diersburg	7.93733, 48.40041	gifli	gifli	0	gifli	gifli	0	Glifle	Glifle	0
+113	Co K2	III_14_0166	Schlechtnau, Schlechtnau	7.93888, 47.8175	gifli	gifli	0	gifli	gifli	0	Glifle	Glifle	0
+114	Co K3	III_14_0165	Geschwend, Geschwend	7.93964, 47.80434	gifli	gifli	0	gifli	gifli	0	Glifle	Glifle	0
+115	Stra S 6	III_11_0128, III_11_0129, III_11_0127	Seelbach, Seelbach	7.94104, 48.30987	gifli	güfli	1	gifli	güfli	1	Glifle	Glifle	0
+116	Stra D 14	na	Zunsweier	7.94627, 48.42199	giefli	na	999	gifli	na	999	Glifle	na	999
+117	Co Y 7	III_16_0119	Hütten, Hütten	7.94873, 47.62902	gülfeli	güfeli	1	gülfeli	güfeli	1	Glifle	Glifle	0
+118	Stra Z 2	III_12_0049	Dörlinbach, Dörlinbach	7.95383, 48.24804	gīfle	giefli	3	gifle	gifli	1	Glifle	Glifle	0
+119	Stra S 8	III_11_0131	Schuttertal, Schuttertal	7.95562, 48.27087	gifli	gifli	0	gifli	gifli	0	Glifle	Glifle	0
+120	Co Y 9	III_16_0120	Bergalingen, Bergalingen	7.95943, 47.61266	gülfeli	güfeli	1	gülfeli	güfeli	1	Glifle	Glifle	0
+121	Co K10	III_14_0154	Präg, Präg	7.97232, 47.77964	güfli	güfli	0	güfli	güfli	0	Glifle	Glifle	0
+122	Co Y 4	na	Obergebisbach- Hornbach	7.97459, 47.65405	güefeli	na	999	güefeli	na	999	Glifle	na	999
+123	Co Y 6	III_16_0123	Altenschwand, Altenschwand	7.976, 47.63697	güllfelli	güllfeli	1	gülfeli	gülfeli	0	Glifle	Glifle	0
+124	Hag Y 9	na	Falhünden (Dalhünden)	7.98835, 48.77367	geffel	na	999	gefel	na	999	Glifle	na	999
+125	Co Y 5	III_16_0113	Niedergebisbach, Niedergebisbach	7.99251, 47.65054	güefeli	güfeli	1	güefeli	güfeli	1	Glifle	Glifle	0
+126	Stra p 7	III_9_0086	Wagshurst, Wagshurst	7.99491, 48.62035	gīfel	gifle	3	gifel	gifle	2	Glifle	Glifle	0
+127	Co K12, TUTT D5	III_15_0073	Todtmoos (-Rütte), Todtmoos, Todtmoos	8.00438, 47.74133	güfli	güfili	1	güfli	güfeli	1	Glifle	Glifle	0
+128	TÜB a2	na	Ulm (bei Bühl)	8.01434, 48.727	giffel	na	999	gifel	na	999	Glifle	na	999
+129	TUTT S4	na	Hogschür	8.01475, 47.64742	güfeli	na	999	güfeli	na	999	Glifle	na	999
+130	TUTT D2/1	na	Bernau(-Hof)	8.01571, 47.82095	gǖfele	na	999	güfele	na	999	Glifle	na	999
+131	TUTT Sa5	III_16_0137	Oberhof, Oberhof	8.0324, 47.58493	gülfeli	gülfeli	0	gülfeli	gülfeli	0	Glifle	Glifle	0
+132	Stra S 5	III_11_0126	Schönberg, Schönberg	8.0327, 48.36461	gifli	gifli	0	gifli	gifli	0	Glifle	Glifle	0
+133	TUTT D2/2	na	Bernau	8.03629, 47.80171	güfli	na	999	güfli	na	999	Glifle	na	999
+134	TUTT Sa4	III_17_0059	Niederhof, Niederhof	8.03951, 47.56938	güfili, güefili	güfili	0	güefeli, güfeli	güfeli	0	Glifle	Glifle	0
+135	TÜB a3	III_7_0119	Schwarzach (bei Bühl), Schwarzach	8.04423, 48.74717	giffel	giffel	0	gifel	gifel	0	Glifle	Glifle	0
+136	TUTT S6	III_16_0129, III_16_0130	Oberwihl, Oberwihl	8.04597, 47.62098	güfili	güfeli	1	güfeli	güfeli	0	Glifle	Glifle	0
+137	TUTT L/S7, TUTT S1	III_15_0095, III_15_0093	Strittmatt, Strittmatt und Engelschwand, Engelschwand, Strittmatt	8.04718, 47.66382	güfeli	güfeli	0	güfeli	güfeli	0	Glifle	Glifle	0
+138	KST S8	III_7_0117, III_7_0115, III_7_0116	Stollhofen, Stollhofen	8.04874, 48.76575	giffle	gifle, giffel	1	gifle	gifle, gifel	0	Glifle	Glifle	0
+139	KST S7	na	Söllingen	8.05486, 48.78147	giffel	na	999	gifel	na	999	Glifle	na	999
+140	TÜB L5	III_11_0135	Steinach, Steinach	8.05831, 48.30508	güfli	gufel	3	güfli	gufel	3	Glifle	Glifle	0
+141	TUTT Sa6	na	Binzgen	8.06143, 47.57622	gülfeli	na	999	gülfeli	na	999	Glifle	na	999
+142	TUTT S19	III_16_0139	Rotzel, Rotzel	8.06151, 47.59473	güfeli	güfele	1	güfeli	güfele	1	Glifle	Glifle	0
+143	TUTT L8	III_15_0097	Hartschwand, Hartschwand	8.0655, 47.67119	güfeli	güfeli	0	güfeli	güfeli	0	Glifle	Glifle	0
+144	KST D9	na	Oberlauterbach	8.07041, 48.94851	giefel	na	999	gifel	na	999	Glifle	na	999
+145	TUTT L3	na	Ibach	8.07077, 47.73259	güfeli	na	999	güfeli	na	999	Glifle	na	999
+146	TUTT S8	na	Rüsswihl	8.07093, 47.63063	güfeli	na	999	güfeli	na	999	Glifle	na	999
+147	TUTT S7	III_16_0131	Niederwihl, Niederwihl	8.07095, 47.61851	güfili	güfeli	1	güfeli	güfeli	0	Glifle	Glifle	0
+148	TÜB S4	III_12_0055	Elzach, Elzach	8.07142, 48.17331	gīfli	gifli	1	gifli	gifli	0	Glifle	Glifle	0
+149	TUTT S10	III_15_0096	Rotzingen, Rotzingen	8.0762, 47.66588	güfeli	güfeli	0	güfeli	güfeli	0	Glifle	Glifle	0
+150	TUTT L17	na	Fröhnd	8.07717, 47.70011	güfili	na	999	güfeli	na	999	Glifle	na	999
+151	TUTT S9	III_16_0134	Görwihl, Görwihl	8.07817, 47.64186	guefeli	güfili	3	gluefeli	güfeli	3	Glifle	Glifle	0
+152	TUTT Sa7	na	Laufenburg (Baden)	8.0908, 47.58055	güfili	na	999	güfeli	na	999	Glifle	na	999
+153	TUTT L/8,9	III_15_0098, III_15_0099	Hierbach - Wilfingen, Wilfingen, Hierbach	8.09123, 47.686	gǖfeli	güfeli	1	güfeli	güfeli	0	Glifle	Glifle	0
+154	TUTT S21	III_16_0141	Schachen, Schachen	8.09406, 47.60368	güfili	güfele	2	güfeli	güfele	1	Glifle	Glifle	0
+155	TUTT w3	III_14_0072	Bärental, Bärental	8.0952, 47.86975	giifli	giifli	0	gifli	gifli	0	Glifle	Glifle	0
+156	TUTT S5	III_17_0060	Luttingen, Luttingen	8.09878, 47.57252	güllfelli	güfeli	3	gülfeli	güfeli	1	Glifle	Glifle	0
+157	TUTT L2	III_15_0110	Wittenschwand, Wittenschwand	8.10083, 47.72846	güfeli	güfili	1	güfeli	güfeli	0	Glifle	Glifle	0
+158	TUTT L10	III_15_0100	Wolpadingen, Wolpadingen	8.10774, 47.69861	gǖfeli	glüfeli	2	güfeli	glüfeli	1	Glifle	Glifle	0
+159	KST S14	III_7_0113	Hügelsheim, Hügelsheim	8.10904, 48.79654	giffle	güffle	1	gifle	güfle	1	Glifle	Glifle	0
+160	TUTT S17	III_16_0146	Albert, Albbruck-Albert	8.11012, 47.58535	güffeli	güfeli	1	güfeli	güfeli	0	Glifle	Glifle	0
+161	TUTT S15	III_16_0142	Buch über Waldshut, Buch	8.11336, 47.61399	güfeli	güfeli	0	güfeli	güfeli	0	Glifle	Glifle	0
+162	TUTT h5	III_13_0077	Wildgutach, Wildgutach	8.11606, 48.0323	gifli	gifli	0	gifli	gifli	0	Glifle	Glifle	0
+163	TÜB h15	na	Kappelrodeck	8.11791, 48.59087	gifle	na	999	gifle	na	999	Glifle	na	999
+164	TÜB S5	III_12_0061, III_12_0062	Unterprechtal, Unterprechtal	8.12114, 48.20548	giefli	gieflie, gifli	1	gifli	gifli	0	Glifle	Glifle	0
+165	TUTT L1	III_15_0111, III_15_0112	Urberg, Urberg	8.12409, 47.73478	güvili	güfeli, güveli	1	güfeli	güfeli	0	Glifle	Glifle	0
+166	TUTT L16	III_15_0103	Schlageten, Schlageten	8.12512, 47.71178	gufele	güfele	1	gufele	güfele	1	Glifle	Glifle	0
+167	TUTT L11	III_15_0102	Immeneich, Immeneich	8.12543, 47.69719	güfele	güfele	0	güfele	güfele	0	Glifle	Glifle	0
+168	TUTT D4	III_14_0172, III_14_0174, III_14_0173, III_14_0171	St. Blasien, St. Blasien	8.12792, 47.76144	güfeli	güfele	1	güfeli	güfele	1	Glifle	Glifle	0
+169	TÜB a9	III_8_0099	Weitenung, Weitenung	8.12886, 48.73998	giefel	giefel	0	gifel	gifel	0	Glifle	Glifle	0
+170	TUTT S14	na	Birndorf	8.13384, 47.62519	güfeli	na	999	güfeli	na	999	Glifle	na	999
+171	TUTT h4	na	(Alt)Glashütte	8.13564, 48.0008	gefle	na	999	gefle	na	999	Glifle	na	999
+172	TUTT p7,8	na	(Breitnau-)Eckbach	8.13811, 47.9479	gǖfli	na	999	güfli	na	999	Glifle	na	999
+173	TUTT S16	III_16_0145	Albruck-Kiesenbach, Albruck	8.14411, 47.60046	güfili	chüfeli	3	güfeli	chüfeli	2	Glifle	Glifle	0
+174	TUTT L15	na	Tiefenhäusern	8.14547, 47.70277	güfili	na	999	güfeli	na	999	Glifle	na	999
+175	TUTT S13	III_16_0169	Birkingen, Birkingen	8.1477, 47.62511	güefeli	güffeli	1	güefeli	güfeli	1	Glifle	Glifle	0
+176	TUTT w1/2	na	Titisee	8.14936, 47.90254	gǖfli	na	999	güfli	na	999	Glifle	na	999
+177	TUTT S11	III_16_0136	Oberalpfen, Oberalpfen	8.15262, 47.65791	gǖfili	güfeli	2	güfeli	güfeli	0	Glifle	Glifle	0
+178	KST L5	III_6_0090	Plittersdorf bei Rastatt, Plittersdorf	8.15649, 48.88249	giffel	giffle	2	gifel	gifle	2	Glifle	Glifle	0
+179	TUTT E1	na	Fischbach	8.16112, 47.84388	gīfeli	na	999	gifeli	na	999	Glifle	na	999
+180	TUTT M2	III_15_0113, III_15_0129	Höchenschwand, Höchenschwand	8.16491, 47.73427	güfeli	güfeli	0	güfeli	güfeli	0	Glifle	Glifle	0
+181	TUTT M1	III_15_0120	Attlisberg, Attlisberg	8.16607, 47.72173	gǖfili	güfili	1	güfeli	güfeli	0	Glifle	Glifle	0
+182	TUTT L14, TUTT L13	III_15_0123	Remetschwiel und Bannholz, Bannholz, Bannholz	8.167, 47.67614	güfili, güefili	güfili	0	güefeli, güfeli	güfeli	0	Glifle	Glifle	0
+183	TUTT M16	na	Häusern	8.16959, 47.75398	güfele	na	999	güfele	na	999	Glifle	na	999
+184	TUTT T4	na	Waldkirch	8.17132, 47.65851	güfeli	na	999	güfeli	na	999	Glifle	na	999
+185	TUTT D3	na	Blasiwald (Am Schluchsee)	8.17706, 47.7987	güfili	na	999	güfeli	na	999	Glifle	na	999
+186	TUTT M3	III_15_0121	Amrigschwand, Amrigschwand	8.1855, 47.71974	gǖfili	güfili	1	güfeli	güfeli	0	Glifle	Glifle	0
+187	TUTT M15	III_15_0114	Bierbronnen, Bierbronnen	8.18848, 47.6749	güfili	güfili	0	güfeli	güfeli	0	Glifle	Glifle	0
+188	TÜB T5	III_12_0069	Rensberg, Rensberg	8.1889, 48.17741	gifli	gifli	0	gifli	gifli	0	Glifle	Glifle	0
+189	TUTT b3	III_12_0161	Schonach, Schonach	8.20179, 48.14296	gîfli	gīfli	1	gifli	gifli	0	Glifle	Glifle	0
+190	TÜB E2	III_11_0080	Seebach, Seebach	8.20278, 48.57466	gīflĭ	giefli	3	gifli	gifli	0	Glifle	Glifle	0
+191	TUTT b8	III_12_0167, III_12_0166, III_12_0168	Schönwald, Schönwald	8.20401, 48.10371	gīfli	gīefle, gīfli, gifli	0	gifli	gifle, gifli	0	Glifle	Glifle	0
+192	KST E8	na	Illingen	8.20923, 48.9349	gīfl	na	999	gifl	na	999	Glifle	na	999
+193	TUTT E5	III_14_0178	Staufen, Staufen	8.21221, 47.75633	güfele	güfeli	1	güfele	güfeli	1	Glifle	Glifle	0
+194	KST E7	III_5_0130	Elchesheim, Elchesheim	8.2136, 48.93047	giefel	gifel	1	gifel	gifel	0	Glifle	Glifle	0
+195	TUTT M14	III_15_0124	Nöggenschwiel, Nöggenschwiel	8.21364, 47.69246	güfeli	güfeli	0	güfeli	güfeli	0	Glifle	Glifle	0
+196	TUTT T2	III_16_0160	Indlekofen, Indlekofen	8.22113, 47.65889	güffili	güfili	1	güfeli	güfeli	0	Glifle	Glifle	0
+197	TUTT M4	III_15_0122	Brenden, Brenden	8.22606, 47.72946	küfele	güfeli	2	güfele	güfeli	1	Glifle	Glifle	0
+198	TÜB T4	III_12_0067, III_12_0068	Niederwasser, Niederwasser	8.22818, 48.18982	giefli	güfli, giefli	0	gifli	güfli, gifli	0	Glifle	Glifle	0
+199	TUTT b4	III_12_0163, III_12_0164, III_12_0165	Triberg, Triberg	8.2316, 48.13032	gīfli	gifli	1	gifli	gifli	0	Glifle	Glifle	0
+200	TUTT i7	III_13_0090	Schönenbach, Schönenbach	8.23618, 48.04705	giefli	giefli	0	gifli	gifli	0	Glifle	Glifle	0
+201	KST E9	III_5_0131	Au am Rhein, Au am Rhein	8.23933, 48.95136	gievle	gifel	3	gifle	gifel	2	Glifle	Glifle	0
+202	TUTT T1	III_16_0161	Weilheim, Weilheim	8.24051, 47.65862	güffili	güfili	1	güfeli	güfeli	0	Glifle	Glifle	0
+203	TUTT M13	III_15_0128	Dietlingen, Dietlingen	8.24371, 47.67342	güfili	güfili	0	güfeli	güfeli	0	Glifle	Glifle	0
+204	TUTT q2	III_13_0157	Schollach, Schollach	8.24463, 47.98628	giefli	gievle	2	gifli	geifle	2	Glifle	Glifle	0
+205	TÜB M8	na	Kirnbach	8.24598, 48.26194	giefle	na	999	gifle	na	999	Glifle	na	999
+206	TUTT T8	na	Gurtweil	8.24698, 47.64159	gufili	na	999	gufeli	na	999	Glifle	na	999
+207	KST M2	na	Bietigheim	8.25343, 48.91099	giefl	na	999	gifl	na	999	Glifle	na	999
+208	TUTT i3	III_13_0089	Urach, Urach	8.25368, 48.00477	giefle	gîfli	3	gifle	gifli	1	Glifle	Glifle	0
+209	KST E6	na	Würmersheim	8.25452, 48.94056	glieftel	na	999	gliftel	na	999	Glifle	na	999
+210	TUTT b2	III_12_0162	Gremmelsbach, Gremmelsbach	8.25756, 48.15793	giefli	giefli	0	gifli	gifli	0	Glifle	Glifle	0
+211	TUTT i1	na	Rohrbach	8.25784, 48.07437	gīfli	na	999	gifli	na	999	Glifle	na	999
+212	TUTT b5	III_12_0152	Nussbach, Nussbach	8.25836, 48.13097	gīfli	gifle	2	gifli	gifle	1	Glifle	Glifle	0
+213	TUTT E4	na	Grafenhausen	8.26186, 47.7749	giffili	na	999	gifeli	na	999	Glifle	na	999
+214	TÜB T3	na	Schwanenbach (Reichenbach)	8.26562, 48.1922	gīfle	na	999	gifle	na	999	Glifle	na	999
+215	TUTT i4	III_13_0088	Linach, Linach	8.26602, 48.02831	gifle	giifle	1	gifle	gifle	0	Glifle	Glifle	0
+216	TUTT M5	na	Mettenberg	8.26708, 47.75087	güvili	na	999	güfeli	na	999	Glifle	na	999
+217	KST E2	na	Neuburgweier	8.26776, 48.96981	gliefdl	na	999	gliftl	na	999	Glifle	na	999
+218	TUTT q4	III_13_0160	Eisenbach, Eisenbach	8.26837, 47.96084	giefle	giefli	1	gifle	gifli	1	Glifle	Glifle	0
+219	TÜB i2	III_9_0105	Forbach-Hundsbach, Forbach-Hundsbach	8.27064, 48.62026	gīftli	gliftle	3	giftli	gliftle	2	Glifle	Glifle	0
+220	TUTT T9	na	Tiengen	8.28181, 47.63443	güfeli	na	999	güfeli	na	999	Glifle	na	999
+221	KST M7	na	Bischweier	8.28478, 48.83768	giffle	na	999	gifle	na	999	Glifle	na	999
+222	TUTT M7	III_15_0115	Hürrlingen, Hürrlingen	8.28505, 47.72465	güfeli	güfeli	0	güfeli	güfeli	0	Glifle	Glifle	0
+223	KST E4	III_5_0137, III_5_0136, III_5_0138	Mörsch, Mörsch	8.28883, 48.96003	klüfle	klieftl	4	glüfle	glifle	1	Glifle	Glifle	0
+224	TUTT q6	na	Oberbränd	8.2909, 47.94957	gīfli	na	999	gifli	na	999	Glifle	na	999
+225	TUTT M8	III_15_0116	Riedern im Wald, Riedern	8.29113, 47.71786	güfeli	güfeli	0	güfeli	güfeli	0	Glifle	Glifle	0
+226	TUTT x1	na	Rötenbach	8.29448, 47.89247	gĭfli	na	999	gifli	na	999	Glifle	na	999
+227	TUTT q5	III_13_0159	Bubenbach, Bubenbach	8.29595, 47.96531	gīfli	giffli	2	gifli	giffli	1	Glifle	Glifle	0
+228	TUTT T12	na	Unterlauchringen	8.30394, 47.63095	güffeli	na	999	güfeli	na	999	Glifle	na	999
+229	TUTT M10	na	Krenkingen	8.30454, 47.68312	güffeli	na	999	güfeli	na	999	Glifle	na	999
+230	TUTT T16	III_16_0166	Rheinheim, Rheinheim	8.30495, 47.58771	güfeli	güfili	1	güfeli	güfeli	0	Glifle	Glifle	0
+231	TUTT i2	III_13_0087, III_13_0086	Vöhrenbach, Vöhrenbach	8.30495, 48.04519	gifli	giefli, gifli	0	gifli	gifli	0	Glifle	Glifle	0
+232	KST T6	na	Staufenberg	8.3082, 48.76673	klüftel	na	999	glüftel	na	999	Glifle	na	999
+233	TUTT x7	III_14_0077	Göschweiler, Göschweiler	8.31065, 47.85812	giffili	gifili	1	gifeli	gifeli	0	Glifle	Glifle	0
+234	TUTT M6	III_14_0181, III_14_0182, III_14_0183	Birkendorf, Birkendorf	8.3126, 47.74971	güfilli	güfele, güffili	2	güfeli	güfele, güfeli	0	Glifle	Glifle	0
+235	KST T5	na	Selbach	8.31271, 48.78121	kliefl	na	999	glifl	na	999	Glifle	na	999
+236	KST E3	III_5_0135	Forchheim, Forchheim	8.31683, 48.97425	gliefdel	gliftel	2	gliftel	gliftel	0	Glifle	Glifle	0
+237	TUTT q3	III_13_0158	Hammereisenbach, Hammereisenbach	8.31732, 47.99481	giefli	glifli	2	gifli	glifli	1	Glifle	Glifle	0
+238	TUTT M9	na	Uhlingen	8.31845, 47.7201	güfeli	na	999	güfeli	na	999	Glifle	na	999
+239	TUTT b7	na	Oberkirnach	8.31901, 48.09369	gi̠i̠fle	na	999	gifle	na	999	Glifle	na	999
+240	TUTT T15	III_16_0167	Dangstetten, Dangstetten	8.31944, 47.59581	güffili	güffeli	1	güfeli	güfeli	0	Glifle	Glifle	0
+241	TUTT T11	na	Detzeln	8.32062, 47.66643	guffeli	na	999	gufeli	na	999	Glifle	na	999
+242	TÜB x5, TÜB x6	III_10_0145	Bad Rippoldsau, Bad Rippoldsau	8.32852, 48.42806	giefli, gifli	gifli	0	gifli	gifli	0	Glifle	Glifle	0
+243	TUTT Ta1	III_16_0156	Reckingen, Reckingen	8.33116, 47.57477	güfili	güfeli	1	güfeli	güfeli	0	Glifle	Glifle	0
+244	KST M5	III_6_0103	Waldprechtsweier, Waldprechtsweier	8.33173, 48.8612	klifel	klüftl	2	glifel	glüftl	2	Glifle	Glifle	0
+245	TÜB c6	na	Bermersbach	8.34126, 48.69401	giefl	na	999	gifl	na	999	Glifle	na	999
+246	KST y 8	na	Karlsruhe-Knielingen	8.34437, 49.03039	klüfle	na	999	glüfle	na	999	Glifle	na	999
+247	TUTT N5	na	Untermettingen	8.34615, 47.70245	güffeli	na	999	güfeli	na	999	Glifle	na	999
+248	TÜB c1	III_25_0006	Obertsrot und Hilpertsau, Obertsrot	8.34633, 48.74303	gieftel	giftel	1	giftel	giftel	0	Glifle	Glifle	0
+249	TUTT F4	III_36_0005	Wittlekoffen, Wittlekoffen	8.34635, 47.78326	giffili	giffili	0	gifeli	gifeli	0	Glifle	Glifle	0
+250	TUTT U4	III_38_0006	Horheim, Horheim	8.34737, 47.64854	güffili	güüfli	2	güfeli	güfli	1	Glifle	Glifle	0
+251	TUTT y3	III_35_0003	Seppenhofen, Seppenhofen	8.34864, 47.8748	giffili	giefili	1	gifeli	gifeli	0	Glifle	Glifle	0
+252	TUTT y4	III_35_0002	Reiselfingen, Reiselfingen	8.35108, 47.85467	giffili	giffili	0	gifeli	gifeli	0	Glifle	Glifle	0
+253	TUTT F3	III_36_0006	Wellendingen, Wellendingen	8.35185, 47.79705	giffili	gifili	1	gifeli	gifeli	0	Glifle	Glifle	0
+254	TÜB F1	III_29_0001	Kaltbrunn, Kaltbrunn	8.35246, 48.34621	gifli	gifli	0	gifli	gifli	0	Glifle	Glifle	0
+255	TUTT r4	III_34_0017	Unterbränd, Unterbränd	8.35693, 47.93373	gifle	gifli	1	gifle	gifli	1	Glifle	Glifle	0
+256	KST N2, KST U6	III_24_0002	Sulzbach, Sulzbach	8.35791, 48.80596	gīftl, gliefle	gifdl	2	giftl, glifle	giftl	0	Glifle	Glifle	0
+257	TÜB c8	III_25_0003, III_25_0004	Forbach, Forbach	8.3589, 48.67857	giefdl	giefdl	0	giftl	giftl	0	Glifle	Glifle	0
+258	TUTT y1	III_35_0004	Dittishausen, Dittishausen	8.36266, 47.90077	giffili	giffili	0	gifeli	gifeli	0	Glifle	Glifle	0
+259	TUTT U5	na	Wutöschingen	8.36613, 47.65918	güffeli	na	999	güfeli	na	999	Glifle	na	999
+260	TUTT k10	na	Unterkirnach	8.36628, 48.07845	glifle	na	999	glifle	na	999	Glifle	na	999
+261	TUTT k9	III_33_0002	Herzogenweiler, Herzogenweiler	8.37157, 48.0254	glifli	gifli	1	glifli	gifli	1	Glifle	Glifle	0
+262	TUTT Ua1	III_38_0083	Lienheim, Lienheim	8.37469, 47.5721	güfili	güfele	2	güfeli	güfele	1	Glifle	Glifle	0
+263	KST N3	III_23_0002	Oberweier, Oberweier	8.37866, 48.91717	klieftl	glieftl	1	glifle	gliftl	2	Glifle	Glifle	0
+264	TUTT N6	III_37_0006	Obereggingen, Obereggingen	8.38631, 47.70175	güfeli	güfele	1	güfeli	güfele	1	Glifle	Glifle	0
+265	KST N12	na	Moosbronn	8.38849, 48.83638	gliefgen	na	999	glifgle	na	999	Glifle	na	999
+266	TÜB c3	III_25_0005	Reichental, Reichental	8.39101, 48.72956	giefdl	giftlä	3	giftl	giftle	1	Glifle	Glifle	0
+267	KST r4	III_20_0006	Leopoldshafen, Leopoldshafen	8.3923, 49.09933	kliefel	klüfel	2	glifel	glüfel	1	Glifle	Glifle	0
+268	TUTT N7	na	Untereggingen	8.39385, 47.69277	güfeli	na	999	güfeli	na	999	Glifle	na	999
+269	TUTT F1	na	Münchingen	8.39596, 47.82501	giffili	na	999	gifeli	na	999	Glifle	na	999
+270	TUTT U2	III_38_0001	Rechberg, Rechberg	8.39987, 47.6501	güfili	güfeli	1	güfeli	güfeli	0	Glifle	Glifle	0
+271	KST N4	III_23_0007	Schluttenbach, Schluttenbach	8.40022, 48.89885	klivle	kliflen	2	glifle	gliflen	1	Glifle	Glifle	0
+272	TUTT r5	na	Waldhausen	8.4011, 47.92931	gifle	na	999	gifle	na	999	Glifle	na	999
+273	TUTT y11	III_35_0009	Bachheim, Bachheim	8.4031, 47.85931	giffilli	giffili	1	gifeli	gifeli	0	Glifle	Glifle	0
+274	KST r3	na	Linkenheim	8.40844, 49.12418	glüfle	na	999	glüfle	na	999	Glifle	na	999
+275	TUTT k7	III_34_0001	Tannheim, Tannheim	8.41033, 47.99946	gliffli	glifli	1	glifli	glifli	0	Glifle	Glifle	0
+276	TUTT U12	III_38_0011	Grießen, Griessen	8.4114, 47.62774	güfele	güfeli	1	güfele	güfeli	1	Glifle	Glifle	0
+277	KST r1	na	Liedolsheim	8.41451, 49.16221	gliefl	na	999	glifl	na	999	Glifle	na	999
+278	TUTT U11	III_38_0015	Bergöschingen, Bergöschingen	8.42093, 47.59537	güfeli	güffili	2	güfeli	güfeli	0	Glifle	Glifle	0
+279	KST N5	na	Schöllbronn bei Ettlingen	8.42179, 48.89892	glievle	na	999	glifle	na	999	Glifle	na	999
+280	KST k4	na	Rußheim	8.42435, 49.18617	glifl	na	999	glifl	na	999	Glifle	na	999
+281	TUTT r2	III_34_0002	Wolterdingen, Wolterdingen	8.42701, 47.96861	gifli	gliffli	2	gifli	glifli	1	Glifle	Glifle	0
+282	TUTT N2	III_37_0008	Eberfingen, Eberfingen	8.42708, 47.72036	güffeli	güfili	2	güfeli	güfeli	0	Glifle	Glifle	0
+283	KST N6	na	Spessart	8.42992, 48.91189	glīfle	na	999	glifle	na	999	Glifle	na	999
+284	TUTT F12	III_36_0011	Lembach, Lembach	8.43056, 47.80389	giffili	giffili	0	gifeli	gifeli	0	Glifle	Glifle	0
+285	TUTT y9	III_35_0006	Döggingen, Döggingen	8.43444, 47.8919	giffili	giffili	0	gifeli	gifeli	0	Glifle	Glifle	0
+286	KST N9	III_23_0012	Burbach, Burbach	8.43853, 48.87037	klīfle	glüfle	2	glifle	glüfle	1	Glifle	Glifle	0
+287	TUTT U10	III_38_0005	Stetten (bei Waldshut), Stetten	8.4393, 47.59011	güfeli	güfeli	0	güfeli	güfeli	0	Glifle	Glifle	0
+288	TUTT y5	III_35_0010	Ewattingen, Ewattingen	8.44464, 47.83863	gifili	gifili	0	gifeli	gifeli	0	Glifle	Glifle	0
+289	TUTT U7	na	Riedern am Sand (im SprachGIS: Unter Riedern)	8.4462, 47.6245	güfili	na	999	güfeli	na	999	Glifle	na	999
+290	TUTT r6	III_34_0004, III_34_0003	Bräunlingen, Bräunlingen	8.44765, 47.9301	güffli	güfli	1	güfli	güfli	0	Glifle	Glifle	0
+291	KST y 5	na	Rintheim	8.45071, 49.0099	klüfle	na	999	glüfle	na	999	Glifle	na	999
+292	TUTT F11	III_36_0012	Lausheim, Lausheim	8.45286, 47.81178	giffili	gifilli	2	gifeli	gifeli	0	Glifle	Glifle	0
+293	TUTT k2	III_33_0006	Rietheim, Rietheim	8.45381, 48.02981	gīfli	gifli	1	gifli	gifli	0	Glifle	Glifle	0
+294	KST F5	na	Karlsruhe-Aue	8.46138, 48.9881	gliefle	na	999	glifle	na	999	Glifle	na	999
+295	KST F10	na	Busenbach	8.46237, 48.93179	kliefle	na	999	glifle	na	999	Glifle	na	999
+296	TUTT F8	na	Weizen	8.46354, 47.77888	giffili	na	999	gifeli	na	999	Glifle	na	999
+297	TUTT y7	III_35_0001	Mundelfingen, Mundelfingen	8.46432, 47.8676	gifeli	gifele	1	gifeli	gifele	1	Glifle	Glifle	0
+298	KST N7	III_23_0004	Etzenrot, Etzenrot	8.46465, 48.90968	klievle	kluvle	2	glifle	glufle	1	Glifle	Glifle	0
+299	KST y 2	na	Büchig	8.46824, 49.04811	glīfle	na	999	glifle	na	999	Glifle	na	999
+300	TUTT c7	na	Obereschach	8.46928, 48.10596	kliefle	na	999	glifle	na	999	Glifle	na	999
+301	TUTT k4	na	Kirchdorf	8.4704, 48.01378	glifli	na	999	glifli	na	999	Glifle	na	999
+302	KST F6	na	Karlsruhe-Durlach	8.4704, 48.99897	kliefle	na	999	glifle	na	999	Glifle	na	999
+303	KST N8	III_23_0011	Spielberg, Spielberg	8.47045, 48.89758	gliefle	glievle	1	glifle	glifle	0	Glifle	Glifle	0
+304	TUTT r1	III_34_0014	Grüningen, Grüningen	8.47107, 47.98253	glifli	glifli	0	glifli	glifli	0	Glifle	Glifle	0
+305	TUTT k3	III_33_0007	Marbach, Marbach	8.47117, 48.03143	giffli	giffli	0	giffli	giffli	0	Glifle	Glifle	0
+306	TUTT r9	na	Aufen	8.47258, 47.964	glīfli	na	999	glifli	na	999	Glifle	na	999
+307	KST F11	III_22_0009	Reichenbach bei Ettlingen, Reichenbach	8.47546, 48.92348	gliefle	kliefle	1	glifle	glifle	0	Glifle	Glifle	0
+308	KST F7	na	Hohenwettersbach	8.47808, 48.96713	gliefle	na	999	glifle	na	999	Glifle	na	999
+309	KST r5	III_20_0009	Friedrichstal, Friedrichstal	8.48091, 49.10481	glüvle	klüvle	1	glüfle	glüfle	0	Glifle	Glifle	0
+310	KST F9	III_22_0008	Palmbach, Palmbach	8.48266, 48.94683	klievle	glihfle	3	glifle	glifle	0	Glifle	Glifle	0
+311	TUTT U9	III_38_0016	Dettighofen, Dettighofen	8.48357, 47.62374	güfili	güfeli	1	güfeli	güfeli	0	Glifle	Glifle	0
+312	TUTT y6	III_35_0008	Achdorf-Aselfingen, Achdorf	8.48733, 47.84	giffili	giffili	0	gifeli	gifeli	0	Glifle	Glifle	0
+313	TUTT y8	III_35_0007	Hausen vor Wald, Hausen	8.49054, 47.89134	giffili	kliifli	4	gifeli	glifli	2	Glifle	Glifle	0
+314	TUTT c4	na	Fischbach	8.49142, 48.15251	glüfle	na	999	glüfle	na	999	Glifle	na	999
+315	KST l9	III_19_0012	Neudorf, Neudorf	8.49692, 49.17524	klüvle	kliftl	4	glüfle	gliftl	3	Glifle	Glifle	0
+316	TUTT F10	na	Blumegg	8.49815, 47.80904	giffili	na	999	gifeli	na	999	Glifle	na	999
+317	TUTT d3	III_32_0118	Weilersbach, Weilersbach	8.50084, 48.09608	glüfli	glivli	2	glüfli	glifli	1	Glifle	Glifle	0
+318	KST O8	III_23_0010, III_23_0008	Langenalb, Langenalb	8.50104, 48.84402	glivle	klieftla, gliftle	2	glifle	gliftla, gliftle	1	Glifle	Glifle	0
+319	TUTT z7	na	Eschach	8.50328, 47.86021	giffili	na	999	gifeli	na	999	Glifle	na	999
+320	KST O1	III_22_0014	Langensteinbach, Langensteinbach	8.50638, 48.915	glīevle	klüvle	3	glifle	glüfle	1	Glifle	Glifle	0
+321	KST O7	na	Ittersbach	8.50684, 48.86638	glīfle	na	999	glifle	na	999	Glifle	na	999
+322	KST s5	III_20_0012	Spöck, Spöck	8.51033, 49.11179	kliefel	glüfl	4	glifel	glüfl	2	Glifle	Glifle	0
+323	KST s7	na	Staffort	8.51034, 49.09079	klīfl	na	999	glifl	na	999	Glifle	na	999
+324	TUTT V4,5	na	Baltersweil	8.51054, 47.63723	güfili	na	999	güfeli	na	999	Glifle	na	999
+325	KST G7	III_22_0145	Stupferich, Stupferich	8.51098, 48.95396	glievle	gliewle	1	glifle	gliwle	1	Glifle	Glifle	0
+326	TUTT z4	III_35_0012	Behla, Behla	8.51475, 47.89489	glüfli	giefli	2	glüfli	gifli	2	Glifle	Glifle	0
+327	KST s4	III_20_0011	Neuthard, Neuthard	8.52086, 49.1278	gliefel	gliefel	0	glifel	glifel	0	Glifle	Glifle	0
+328	KST z6	III_21_0015, III_21_0014	Berghausen, Berghausen	8.52712, 49.00389	gliefle	glefle, gliefle	0	glifle	glefle, glifle	0	Glifle	Glifle	0
+329	TUTT d1	na	Niedereschach	8.52734, 48.13129	giefli	na	999	gifli	na	999	Glifle	na	999
+330	KST s6	na	Büchenau	8.52764, 49.10075	glifl	na	999	glifl	na	999	Glifle	na	999
+331	TUTT G1	na	Fützen	8.5291, 47.80794	gifili	na	999	gifeli	na	999	Glifle	na	999
+332	KST O2	na	Auerbach	8.53163, 48.91379	glifle	na	999	glifle	na	999	Glifle	na	999
+333	KST G6	III_22_0015	Mutschelbach, Mutschelbach	8.53428, 48.94409	glifle	gliefle	1	glifle	glifle	0	Glifle	Glifle	0
+334	TUTT z3	III_35_0014, III_35_0015, III_35_0013	Sumpfohren, Sumpfohren	8.53796, 47.90851	gliffli	glifli	1	glifli	glifli	0	Glifle	Glifle	0
+335	TUTT z6	III_35_0017	Riedböhringen, Riedböhringen	8.53811, 47.87011	glifli	glifli	0	glifli	glifli	0	Glifle	Glifle	0
+336	KST G1	III_22_0013, III_22_0011, III_22_0012, III_22_0010	Söllingen, Söllingen	8.5425, 48.98622	gliefle	kliftle, glieftle	1	glifle	gliftle	1	Glifle	Glifle	0
+337	KST O6	III_23_0016	Weiler Kr. Pforzheim, Weiler	8.54326, 48.8837	glivle	klevle	2	glifle	glefle	1	Glifle	Glifle	0
+338	KST l8	na	Hambrücken	8.54514, 49.18532	glǖfle	na	999	glüfle	na	999	Glifle	na	999
+339	TUTT s7	III_34_0023	Aasen, Aasen	8.5512, 47.98	glüfli	glifli	1	glüfli	glifli	1	Glifle	Glifle	0
+340	KST G2	na	Kleinsteinbach	8.55383, 48.96613	gliefle	na	999	glifle	na	999	Glifle	na	999
+341	TUTT G2/1	III_36_0019	Epfenhofen, Epfenhofen	8.55432, 47.81867	gifili	gifili	0	gifeli	gifeli	0	Glifle	Glifle	0
+342	TUTT s5	III_34_0018	Pfohren, Pfohren	8.55997, 47.9474	glüpfli	glüfli	1	glüpfli	glüfli	1	Glifle	Glifle	0
+343	KST O3	na	Dietenhausen	8.56003, 48.91574	gliefle	na	999	glifle	na	999	Glifle	na	999
+344	TUTT s8	na	Heidenhofen	8.5657, 47.98295	glüfli	na	999	glüfli	na	999	Glifle	na	999
+345	KST z5	III_21_0017	Wöschbach, Wöschbach	8.56737, 48.99948	klǖfle	klüflen	2	glüfle	glüflen	1	Glifle	Glifle	0
+346	KST G3	III_22_0016	Singen bei Pforzheim, Singen	8.56804, 48.95764	glīfle	gliefle	2	glifle	glifle	0	Glifle	Glifle	0
+347	KST G5	na	Nöttingen	8.56916, 48.93008	gliefle	na	999	glifle	na	999	Glifle	na	999
+348	TUTT l1	na	Hochemmingen	8.56986, 48.02587	gliffli	na	999	glifli	na	999	Glifle	na	999
+349	KST G4	na	Wilferdingen	8.57281, 48.9487	glievle	na	999	glifle	na	999	Glifle	na	999
+350	KST z7	na	Jöhlingen	8.5744, 49.03222	klüfle	na	999	glüfle	na	999	Glifle	na	999
+351	KST O4	III_23_0021	Ellmendingen, Ellmendingen	8.5761, 48.90131	gliéfli	glīftle	4	glifli	gliftle	2	Glifle	Glifle	0
+352	TUTT V1	na	Altenburg	8.59899, 47.65513	güfeli	na	999	güfeli	na	999	Glifle	na	999
+353	KST O5	III_23_0015	Dietlingen, Dietlingen	8.60093, 48.89654	gliefle	gliefle	0	glifle	glifle	0	Glifle	Glifle	0
+354	TUTT s2	na	Oberbaldingen	8.60629, 47.97542	glivle	na	999	glifle	na	999	Glifle	na	999
+355	TUTT G4	na	Nordhalden	8.60654, 47.8069	glifili	na	999	glifli	na	999	Glifle	na	999
+356	KST z4	na	Wössingen	8.61142, 49.01017	kliwle	na	999	gliwle	na	999	Glifle	na	999
+357	TUTT s3	na	Unterbaldingen	8.61256, 47.96992	klivli	na	999	glifli	na	999	Glifle	na	999
+358	TUTT G3	na	Kommingen	8.61478, 47.81599	glifili	na	999	glifli	na	999	Glifle	na	999
+359	TUTT z1	III_35_0023	Gutmadingen, Gutmadingen	8.61605, 47.91149	kliffli	glivlen	5	glifli	glifle	1	Glifle	Glifle	0
+360	KST G10	III_22_0022	Bilfingen, Bilfingen	8.61996, 48.95027	glifle	gliefle	1	glifle	glifle	0	Glifle	Glifle	0
+361	KST z3	na	Dürrenbüchig	8.64747, 49.0227	gliefle	na	999	glifle	na	999	Glifle	na	999
+362	TUTT A1	na	Geisingen (Kirchenhausen)	8.65129, 47.93283	gifli	na	999	gifli	na	999	Glifle	na	999
+363	KST O9	III_23_0028	Büchenbronn, Büchenbronn	8.66335, 48.85558	glifzle	klipftsle	4	glifzle	glipftsle	3	Glifle	Glifle	0
+364	TUTT t2	III_34_0027	Ippingen, Ippingen	8.67098, 47.98355	glifli	glifli	0	glifli	glifli	0	Glifle	Glifle	0
+365	KST m10	na	Zeutern	8.67522, 49.17718	klieftlin	na	999	gliftlin	na	999	Glifle	na	999
+366	KST A8	na	Sprantal	8.6823, 49.00345	glīfle	na	999	glifle	na	999	Glifle	na	999
+367	KST A3	III_21_0022	Neibsheim (bei Bruchsal), Neibsheim	8.68509, 49.07104	glifle	gliefle	1	glifle	glifle	0	Glifle	Glifle	0
+368	KST H1	III_22_0028	Nussbaum, Nussbaum	8.69353, 48.98977	glīfle	gliefle	2	glifle	glifle	0	Glifle	Glifle	0
+369	TUTT J2 /2	III_36_0037, III_36_0038, III_36_0036	Schlatt (am Randen), Schlatt	8.70119, 47.76891	glüfeli	chlüfli	3	glüfeli	chüfli	3	Glifle	Glifle	0
+370	TUTT H9	na	Weil	8.7018, 47.81859	glivili	na	999	glifeli	na	999	Glifle	na	999
+371	KST A2	na	Büchig (bei Bretten)	8.70984, 49.0742	glīfle	na	999	glifle	na	999	Glifle	na	999
+372	TUTT t5	III_34_0038	Zimmern, Zimmern	8.71521, 47.94848	gliffli	gliffili	1	glifli	glifeli	1	Glifle	Glifle	0
+373	TUTT A3	III_35_0026	Stetten (bei Engen), Stetten	8.71683, 47.87248	gliffli	gliifli	1	glifli	glifli	0	Glifle	Glifle	0
+374	TUTT t1	III_34_0032	Esslingen, Esslingen	8.71709, 47.99269	glivli	kliefle	4	glifli	glifle	1	Glifle	Glifle	0
+375	KST A4	na	Gölshausen	8.72322, 49.04608	klivle	na	999	glifle	na	999	Glifle	na	999
+376	KST H2	III_22_0031, III_22_0032	Bauschlott, Bauschlott	8.72785, 48.97051	glifle	klüfle, kliefle	2	glifle	glifle, glüfle	0	Glifle	Glifle	0
+377	KST P6	na	Hohenwart	8.73054, 48.83244	gliefle	na	999	glifle	na	999	Glifle	na	999
+378	KST P8	III_23_0058	Würm, Würm	8.73641, 48.86041	glifle	kliefle	2	glifle	glifle	0	Glifle	Glifle	0
+379	TUTT A4	III_35_0028	Zimmerholz, Zimmerholz	8.74175, 47.86811	gifli	gliffli	2	gifli	glifli	1	Glifle	Glifle	0
+380	KST W1	na	Schellbronn	8.74222, 48.81738	gliefle	na	999	glifle	na	999	Glifle	na	999
+381	KST A1	na	Bauerbach	8.74269, 49.07514	klifle	na	999	glifle	na	999	Glifle	na	999
+382	KST H5	na	Dürrn	8.75615, 48.95653	glifle	na	999	glifle	na	999	Glifle	na	999
+383	KST e12	III_18_0029	Tairnbach, Tairnbach	8.75625, 49.26367	glifl	gliefel	2	glifl	glifel	1	Glifle	Glifle	0
+384	TUTT H10	na	Welschingen	8.75772, 47.82306	gliffli	na	999	glifli	na	999	Glifle	na	999
+385	TUTT A8	III_35_0029	Anselfingen, Anselfingen	8.76516, 47.84558	kliffli	klüffli	1	glifli	glüfli	1	Glifle	Glifle	0
+386	KST W2	III_24_0024	Hamberg, Hamberg	8.76924, 48.81833	glivle	glifle	1	glifle	glifle	0	Glifle	Glifle	0
+387	KST H7	na	Niefern	8.77601, 48.91977	gliefle	na	999	glifle	na	999	Glifle	na	999
+388	KST W7	III_24_0034	Neuhausen, Neuhausen	8.77888, 48.79256	glifle	klüfle	2	glifle	glüfle	1	Glifle	Glifle	0
+389	KST t7	III_20_0036, III_20_0035, III_20_0039, III_20_0037	Flehingen , Flehingen	8.78694, 49.0869	kliefle	klüfle, kliefle	0	glifle	glifle, glüfle	0	Glifle	Glifle	0
+390	KST W4	III_24_0025	Steinegg, Steinegg	8.79091, 48.81349	gliefle	glifle	1	gifle	glifle	1	Glifle	Glifle	0
+391	KST W3	na	Tiefenbronn	8.80329, 48.82521	gliefle	na	999	glifle	na	999	Glifle	na	999
+392	KST t11	III_20_0033	Landshausen, Landshausen	8.80627, 49.14899	glifle	glifle	0	glifle	glifle	0	Glifle	Glifle	0
+393	KST P5	III_23_0035	Öschelbronn, Öschelbronn	8.81415, 48.90599	glǖfle	gliefle	2	glüfle	glifle	1	Glifle	Glifle	0
+394	KST W6	III_24_0035	Lehningen, Lehningen	8.81639, 48.79486	gliffl	gliefle	2	glifl	glifle	1	Glifle	Glifle	0
+395	KST W5	na	Mühlhausen	8.82201, 48.80607	klīvle	na	999	glifle	na	999	Glifle	na	999
+396	KST B1	III_21_0033	Kürnbach, Kürnbach	8.84279, 49.07732	glieflä	gliefle	1	glifle	glifle	0	Glifle	Glifle	0
+397	KST u5	III_20_0163, III_20_0042, III_20_0043	Sulzfeld, Sulzfeld	8.85671, 49.10336	gliefle	gliefle	0	glifle	glifle	0	Glifle	Glifle	0
+398	TUTT z2	na	Nendingen	8.86067, 48.00602	glīfle	na	999	glifle	na	999	Glifle	na	999
+399	TUTT B3	na	Reute	8.90723, 47.8873	kliffle	na	999	glifle	na	999	Glifle	na	999
+400	TÜB f1	III_25_0047	Döffingen, Döffingen	8.91383, 48.7106	gliefle	kliefle	1	glifle	glifle	0	Glifle	Glifle	0
+401	TUTT Q7	na	Bankholzen	8.92989, 47.7082	glüffli	na	999	glüfli	na	999	Glifle	na	999
+402	MH K6/1	na	Allemühl	8.95618, 49.42613	klifferle	na	999	gliferle	na	999	Glifle	na	999
+403	TUTT Q11	III_37_0029	Hemmenhofen, Hemmenhofen	8.96502, 47.67294	glüfli	glüfle	1	glüfli	glüfle	1	Glifle	Glifle	0
+404	KST n5	na	Bockschaft	8.96721, 49.20342	klüvle	na	999	glüfle	na	999	Glifle	na	999
+405	TUTT Q10	III_37_0026	Gaienhofen, Gaienhofen	8.9829, 47.68263	glüfli	güfeli, glüfli	0	glüfli	güfeli, glüfli	0	Glifle	Glifle	0
+406	TUTT n1	na	Buchheim	8.98672, 48.011	glifli	na	999	glifli	na	999	Glifle	na	999
+407	TUTT f3	na	Schwenningen	8.99619, 48.10638	glifle	na	999	glifle	na	999	Glifle	na	999
+408	TUTT u3	III_34_0048	Gallmannsweil, Gallmannsweil	8.99683, 47.92357	gliffli	gliefli	1	glifli	glifli	0	Glifle	Glifle	0
+409	TUTT v2	na	Worndorf	8.9985, 47.98553	glífli	na	999	glifli	na	999	Glifle	na	999
+410	KST g7	na	Untergimern	9.00947, 49.27049	kliefle	na	999	glifle	na	999	Glifle	na	999
+411	TUTT o3	III_33_0047	Leibertingen, Leibertingen	9.01551, 48.04265	glifli	gliefle	2	glifli	glifle	1	Glifle	Glifle	0
+412	TUTT v1	na	Altheim	9.03387, 47.99511	kliefle	na	999	glifle	na	999	Glifle	na	999
+413	TUTT g1	III_32_0042	Glashütte (Heuberg), Glashütte	9.03485, 48.1237	glifle	glifle	0	glifle	glifle	0	Glifle	Glifle	0
+414	MH L4	II_59_0099	Zwingenberg, Zwingenberg	9.04439, 49.41287	glifferle	glifferle	0	gliferle	gliferle	0	Glifle	Glifle	0
+415	TUTT o4	III_33_0042	Kreenheinstetten, Kreenheinstetten	9.05221, 48.0555	glīfle	glievle	3	glifle	glifle	0	Glifle	Glifle	0
+416	MH L2	II_59_0101	Oberdielbach, Oberdielbach	9.05361, 49.44781	glifferle	glifferle	0	gliferle	gliferle	0	Glifle	Glifle	0
+417	MH L6	na	Waldkatzenbach	9.05484, 49.45603	glefferle	na	999	gleferle	na	999	Glifle	na	999
+418	TUTT v11	na	Heudorf	9.07121, 47.99412	kliefle	na	999	glifle	na	999	Glifle	na	999
+419	MH L3	II_59_0100	Schollbrunn, Schollbrunn	9.07962, 49.43431	klifferlĕ	gliffere	3	gliferle	glifere	1	Glifle	Glifle	0
+420	MH T5	na	Reichenbuch	9.09708, 49.39371	gliefderle	na	999	glifterle	na	999	Glifle	na	999
+421	TUTT R5	na	Hegne	9.09929, 47.7097	glifli	na	999	glifli	na	999	Glifle	na	999
+422	MH L9	II_59_0104	Mülben, Mülben	9.09946, 49.46414	glifferle	glifferle	0	gliferle	gliferle	0	Glifle	Glifle	0
+423	TUTT v9	III_34_0049	Wasser, Wasser	9.10143, 47.9671	klifle	guefle	3	glifle	guefle	2	Glifle	Glifle	0
+424	TUTT 07	III_33_0049	Rohrdorf, Rohrdorf	9.10207, 48.01811	glifle	kliefle	2	glifle	glifle	0	Glifle	Glifle	0
+425	KST v1	na	Schluchtern	9.1026, 49.14843	glifle	na	999	glifle	na	999	Glifle	na	999
+426	TUTT 05	III_33_0045	Langenhart, Langenhart	9.10404, 48.04793	gliefle	klüvle	4	glifle	glüfle	1	Glifle	Glifle	0
+427	KST g5	na	Zimmerhof	9.1218, 49.25206	klifle	na	999	glifle	na	999	Glifle	na	999
+428	TUTT o6	III_33_0046	Engelswies, Engelswies	9.12846, 48.04259	klievle	gliefle	2	glifle	glifle	0	Glifle	Glifle	0
+429	KST g2	III_18_0065	Neckarzimmern, Neckarzimmern	9.1329, 49.31835	glifdle	klifdle, klifde	1	gliftle	glifte, gliftle	0	Glifle	Glifle	0
+430	MH L8	II_59_0106	Wagenschwend, Wagenschwend	9.14637, 49.47256	glifferle, schlifferli	glifferli	1	gliferle	gliferli	1	Glifle	Glifle	0
+431	TUTT o8	III_33_0051	Menningen, Menningen	9.15825, 48.01089	glīfle	glüfle	1	glifle	glüfle	1	Glifle	Glifle	0
+432	MH M7	II_59_0112	Trienz, Trienz	9.16956, 49.44002	glifferli	gliffern	2	gliferli	glifern	2	Glifle	Glifle	0
+433	MH M3	II_59_0109	Balsbach, Balsbach	9.17362, 49.47895	gläfferle	glifferle	1	gleferle	gliferle	1	Glifle	Glifle	0
+434	SIG d1	III_33_0055	Göggingen, Göggingen	9.20194, 48.00389	glīflé	klüfle	3	glifle	glüfle	1	Glifle	Glifle	0
+435	MH M8	na	Muckental	9.20231, 49.42474	glifli	na	999	glifli	na	999	Glifle	na	999
+436	MH U8	II_60_0089	Billigheim, Billigheim	9.25406, 49.34748	glievle	klivle	2	glifle	glifle	0	Glifle	Glifle	0
+437	MH Y3	III_18_0075	Herbolzheim, Herbolzheim	9.26007, 49.28376	gliflä	gliefle	2	glifle	glifle	0	Glifle	Glifle	0
+438	MH U5	II_60_0086	Unterschefflenz, Unterschefflenz	9.27076, 49.39154	gliefle	klievle	2	glifle	glifle	0	Glifle	Glifle	0
+439	MH U7	II_60_0090	Waldmühlbach, Waldmühlbach	9.28262, 49.36078	glievle	klüfle	4	glifle	glüfle	1	Glifle	Glifle	0
+440	MH M13	na	Großeicholzheim	9.28966, 49.44361	kliefle	na	999	glifle	na	999	Glifle	na	999
+441	MH Y4	III_18_0076	Stein am Kocher, Stein	9.29954, 49.26198	gliefle	gliefle	0	glifle	glifle	0	Glifle	Glifle	0
+442	na	III_14_0004	Odern	6.97525, 47.91008	na	gifäla	999	na	gifela	999	na	Glifle	999
+443	na	III_14_0005	Felleringen	6.98613, 47.89621	na	gefala	999	na	gefela	999	na	Glifle	999
+444	na	III_14_0010	Malmerspach	7.03487, 47.86486	na	gifele	999	na	gifele	999	na	Glifle	999
+445	na	III_14_0013	Geishausen	7.05832, 47.88017	na	giefala	999	na	gifela	999	na	Glifle	999
+446	na	III_16_0017	Retzweiler	7.09315, 47.63072	na	gefale	999	na	gefele	999	na	Glifle	999
+447	na	III_16_0004	Gommersdorf	7.13318, 47.64299	na	gefale	999	na	gefele	999	na	Glifle	999
+448	na	III_15_0010	Falkweiler	7.13461, 47.6894	na	güfala	999	na	güfela	999	na	Glifle	999
+449	na	III_12_0096	Munzenheim	7.47318, 48.10199	na	güfele	999	na	güfele	999	na	Glifle	999
+450	na	III_12_0109	Balzenheim	7.55624, 48.09319	na	gevle	999	na	gefle	999	na	Glifle	999
+451	na	III_12_0028	Mackenheim	7.56598, 48.18437	na	gefle	999	na	gefle	999	na	Glifle	999
+452	na	III_9_0035	Quatzenheim	7.57372, 48.62636	na	giffel	999	na	gifel	999	na	Glifle	999
+453	na	III_14_0043	Grissheim	7.59238, 47.87313	na	güvli	999	na	güfli	999	na	Glifle	999
+454	na	III_12_0106	Bischoffingen	7.62537, 48.10625	na	gefli	999	na	gefli	999	na	Glifle	999
+455	na	III_14_0138, III_14_0139	Dattingen	7.65681, 47.83383	na	gifli	999	na	gifli	999	na	Glifle	999
+456	na	III_14_0047	Heitersheim	7.66768, 47.87108	na	gifili	999	na	gifeli	999	na	Glifle	999
+457	na	III_13_0134	Schlatt	7.67473, 47.92531	na	gieflie	999	na	gifli	999	na	Glifle	999
+458	na	III_10_0110	Fegersheim	7.67959, 48.4897	na	givele	999	na	gifele	999	na	Glifle	999
+459	na	III_13_0135	Biengen	7.68958, 47.93875	na	gīffle	999	na	gifle	999	na	Glifle	999
+460	na	III_13_0055	Umkirch	7.7624, 48.03183	na	güfle	999	na	güfle	999	na	Glifle	999
+461	na	III_12_0044	Kenzingen	7.77005, 48.19298	na	giefli	999	na	gifli	999	na	Glifle	999
+462	na	III_12_0173	Bottingen	7.78356, 48.09119	na	giefli	999	na	gifli	999	na	Glifle	999
+463	na	III_12_0043	Wagenstadt	7.79647, 48.20762	na	giefli	999	na	gifli	999	na	Glifle	999
+464	na	III_13_0132	St. Georgen	7.8056, 47.97934	na	güfli	999	na	güfli	999	na	Glifle	999
+465	na	III_13_0137	Sölden	7.80967, 47.93307	na	gifli	999	na	gifli	999	na	Glifle	999
+466	na	III_16_0107	Wiechs	7.81236, 47.63655	na	güüfli	999	na	güfli	999	na	Glifle	999
+467	na	III_12_0045	Nordweil	7.81384, 48.19396	na	gifli	999	na	gifli	999	na	Glifle	999
+468	na	III_14_0150	Neuenweg	7.8271, 47.79543	na	güfeli	999	na	güfeli	999	na	Glifle	999
+469	na	III_12_0041	Broggingen	7.82928, 48.21892	na	gifle	999	na	gifle	999	na	Glifle	999
+470	na	III_15_0069	Pfaffenberg	7.86972, 47.73452	na	güfli	999	na	güfli	999	na	Glifle	999
+471	na	III_5_0086	Drachenbronn	7.87037, 48.98626	na	giftel	999	na	giftel	999	na	Glifle	999
+472	na	III_14_0163	Fröhnd-Stutz	7.88397, 47.7603	na	güfli	999	na	güfli	999	na	Glifle	999
+473	na	III_12_0051	Ottoschwanden	7.89687, 48.18611	na	giifli	999	na	gifli	999	na	Glifle	999
+474	na	III_4_0100	Weissenburg-Weiler	7.91271, 49.0377	na	geefle	999	na	gefle	999	na	Glifle	999
+475	na	III_15_0083	Gersbach	7.93271, 47.69725	na	güfli	999	na	güfli	999	na	Glifle	999
+476	na	III_11_0130	Wittelbach	7.95069, 48.29243	na	giefli	999	na	gifli	999	na	Glifle	999
+477	na	III_15_0072	Happach	7.95137, 47.7412	na	güfli	999	na	güfli	999	na	Glifle	999
+478	na	III_8_0095	Helmlingen	7.9656, 48.70959	na	giffel	999	na	gifel	999	na	Glifle	999
+479	na	III_8_0093	Memprechtshofen	7.98237, 48.68233	na	giffle	999	na	gifle	999	na	Glifle	999
+480	na	III_15_0087	Herrischried	8.00161, 47.66587	na	güfeli	999	na	güfeli	999	na	Glifle	999
+481	na	III_15_0090	Grossherrischwand	8.01017, 47.6797	na	gülfili	999	na	gülfeli	999	na	Glifle	999
+482	na	III_15_0086	Rütte	8.01336, 47.76141	na	gülfeli	999	na	gülfeli	999	na	Glifle	999
+483	na	III_17_0058	Murg	8.02352, 47.55376	na	güfeli	999	na	güfeli	999	na	Glifle	999
+484	na	III_16_0126	Segeten	8.02357, 47.65954	na	güfeli	999	na	güfeli	999	na	Glifle	999
+485	na	III_12_0060	Oberbiederbach	8.02694, 48.2183	na	güfli	999	na	güfli	999	na	Glifle	999
+486	na	III_16_0138	Hänner	8.03004, 47.59489	na	gülfeli	999	na	gülfeli	999	na	Glifle	999
+487	na	III_8_0103	Hildmannsfeld	8.05893, 48.73423	na	giffel	999	na	gifel	999	na	Glifle	999
+488	na	III_14_0170	Merzenschwand	8.07059, 47.81749	na	güefili	999	na	güefeli	999	na	Glifle	999
+489	na	III_16_0140	Hochsal	8.08003, 47.5887	na	güfeli	999	na	güfeli	999	na	Glifle	999
+490	na	III_7_0120	Lieberstung	8.09585, 48.75131	na	giefl	999	na	gifl	999	na	Glifle	999
+491	na	III_5_0120	Scheibenhardt	8.13481, 48.97663	na	gefl	999	na	gefl	999	na	Glifle	999
+492	na	III_16_0135	Unteralpfen	8.13573, 47.64543	na	güfili	999	na	güfeli	999	na	Glifle	999
+493	na	III_15_0105, III_15_0106, III_15_0104	Brunnadern, Remetschwiel	8.14553, 47.68929	na	gufele, güfeli, güfele	999	na	gufele, güfeli, güfele	999	na	Glifle	999
+494	na	III_13_0093	Neukirch	8.17383, 48.02447	na	gliifli	999	na	glifli	999	na	Glifle	999
+495	na	III_16_0158	Eschbach	8.18086, 47.6336	na	gü̂ffili	999	na	güfeli	999	na	Glifle	999
+496	na	III_8_0111, III_8_0110	Neuweier	8.18377, 48.72012	na	gifl	999	na	gifl	999	na	Glifle	999
+497	na	III_12_0174	Gutach	8.21021, 48.25051	na	küwle	999	na	güwle	999	na	Glifle	999
+498	na	III_12_0066	Hornberg	8.23036, 48.21193	na	güfle	999	na	güfle	999	na	Glifle	999
+499	na	III_15_0117	Aichen	8.26226, 47.67494	na	güffeli	999	na	güfeli	999	na	Glifle	999
+500	na	III_5_0132, III_5_0133	Durmersheim	8.2685, 48.93129	na	glievdel	999	na	gliftel	999	na	Glifle	999
+501	na	III_11_0081	Schapbach	8.28904, 48.37778	na	giefle	999	na	gifle	999	na	Glifle	999
+502	na	III_10_0143	Kniebis	8.3101, 48.47233	na	giefle	999	na	gifle	999	na	Glifle	999
+503	na	III_4_0114	Daxlanden	8.33737, 49.0022	na	glieftel	999	na	gliftel	999	na	Glifle	999
+504	na	III_24_0001	Michelbach	8.35062, 48.8186	na	glifl	999	na	glifl	999	na	Glifle	999
+505	na	III_38_0004	Schwerzen	8.35642, 47.64323	na	güfili	999	na	güfeli	999	na	Glifle	999
+506	na	III_25_0002	Langenbrand	8.36334, 48.70441	na	gieftel	999	na	giftel	999	na	Glifle	999
+507	na	III_38_0008	Küssnach	8.36574, 47.59396	na	güfele	999	na	güfele	999	na	Glifle	999
+508	na	III_32_0002	Peterzell	8.37425, 48.13255	na	küwle	999	na	güwle	999	na	Glifle	999
+509	na	III_32_0001	Buchenberg	8.37655, 48.16035	na	giefle	999	na	gifle	999	na	Glifle	999
+510	na	III_21_0001	Neureut	8.37902, 49.05267	na	glüfle	999	na	glüfle	999	na	Glifle	999
+511	na	III_36_0007	Brunnadern	8.38083, 47.79495	na	giffile	999	na	gifile	999	na	Glifle	999
+512	na	III_34_0006	Hubertshofen	8.38827, 47.96002	na	giffli	999	na	giffli	999	na	Glifle	999
+513	na	III_37_0004	Mauchen	8.39032, 47.73994	na	güfeli	999	na	güfeli	999	na	Glifle	999
+514	na	III_38_0010	Geisslingen	8.39181, 47.61975	na	güfili	999	na	güfeli	999	na	Glifle	999
+515	na	III_36_0010, III_36_0008, III_36_0009	Dillendorf	8.40272, 47.79846	na	güffili	999	na	güfeli	999	na	Glifle	999
+516	na	III_20_0003, III_20_0004	Hochstetten	8.41566, 49.13702	na	glievle, glievel, glüfle	999	na	glifel, glifle, glüfle	999	na	Glifle	999
+517	na	III_33_0005, III_33_0004, III_33_0003	Pfaffenweiler	8.41798, 48.03273	na	giefli	999	na	gifli	999	na	Glifle	999
+518	na	III_38_0002, III_38_0003	Erzingen	8.42011, 47.66108	na	güfili	999	na	güfeli	999	na	Glifle	999
+519	na	III_36_0016	Schwaningen	8.42524, 47.77843	na	güfele	999	na	güfele	999	na	Glifle	999
+520	na	III_32_0009	Mönchweiler	8.42939, 48.09993	na	glievle	999	na	glifle	999	na	Glifle	999
+521	na	III_38_0013	Weisweil	8.45797, 47.64517	na	güfeli	999	na	güfeli	999	na	Glifle	999
+522	na	III_32_0006	Neuhausen	8.45905, 48.13221	na	glifli	999	na	glifli	999	na	Glifle	999
+523	na	III_22_0007	Grünwettersbach	8.46671, 48.95784	na	kliflen	999	na	gliflen	999	na	Glifle	999
+524	na	II_59_0051	Mannheim	8.46678, 49.4865	na	klifferle	999	na	gliferle	999	na	Glifle	999
+525	na	III_33_0008	Klengen	8.46686, 48.00388	na	glivli	999	na	glifli	999	na	Glifle	999
+526	na	III_34_0010, III_34_0007, III_34_0013	Donaueschingen	8.50052, 47.95113	na	giffili	999	na	gifeli	999	na	Glifle	999
+527	na	III_33_0018	Bad Dürrheim	8.53214, 48.01807	na	glifli	999	na	glifli	999	na	Glifle	999
+528	na	III_35_0020, III_35_0019	Blumberg	8.53265, 47.83981	na	gliffili, glifili	999	na	glifeli, glifli	999	na	Glifle	999
+529	na	III_35_0016	Fürstenberg	8.55367, 47.89124	na	glifli	999	na	glifli	999	na	Glifle	999
+530	na	III_35_0021	Riedöschingen	8.6077, 47.84306	na	glifli	999	na	glifli	999	na	Glifle	999
+531	na	III_36_0020	Tengen	8.66036, 47.81721	na	glüfle	999	na	glüfle	999	na	Glifle	999
+532	na	III_21_0024	Rinklingen	8.6832, 49.03485	na	klievle	999	na	glifle	999	na	Glifle	999
+533	na	III_36_0031	Büsslingen	8.6839, 47.79252	na	güfli	999	na	güfli	999	na	Glifle	999
+534	na	III_23_0057	Huchenfeld	8.69574, 48.85613	na	glifdle	999	na	gliftle	999	na	Glifle	999
+535	na	III_23_0037	Pforzheim	8.70025, 48.89013	na	klüfle	999	na	glüfle	999	na	Glifle	999
+536	na	III_21_0026	Bretten	8.70657, 49.03456	na	gliefle	999	na	glifle	999	na	Glifle	999
+537	na	III_37_0014	Bietingen	8.73023, 47.73862	na	güfeli, glüfli	999	na	güfeli, glüfli	999	na	Glifle	999
+538	na	III_22_0035	Kieselbronn	8.75287, 48.93453	na	gliefle	999	na	glifle	999	na	Glifle	999
+539	na	III_20_0031	Menzingen	8.77067, 49.13931	na	glieffle	999	na	glifle	999	na	Glifle	999
+540	na	III_37_0016	Gottmadingen	8.77716, 47.73498	na	klüfili	999	na	glüfeli	999	na	Glifle	999
+541	na	III_34_0042	Hattingen	8.78447, 47.92082	na	gliffli	999	na	glifli	999	na	Glifle	999
+542	na	III_20_0034	Bahnbrücken	8.78671, 49.11865	na	gliefle	999	na	glifle	999	na	Glifle	999
+543	na	III_36_0034	Duchtlingen	8.79029, 47.79154	na	glüfli	999	na	glüfli	999	na	Glifle	999
+544	na	III_20_0046	Adelshofen	8.89073, 49.16806	na	gliefdle	999	na	gliftle	999	na	Glifle	999
+545	na	III_36_0024	Wiechs	8.90712, 47.8158	na	glüfili	999	na	glüfeli	999	na	Glifle	999
+546	na	III_34_0047	Liptingen	8.90748, 47.93756	na	glüffli	999	na	glüfli	999	na	Glifle	999
+547	na	III_19_0045	Reihen	8.91628, 49.21715	na	glīfdli	999	na	gliftli	999	na	Glifle	999
+548	na	III_35_0041	Rorgenwies	8.92043, 47.90334	na	glifli	999	na	glifli	999	na	Glifle	999
+549	na	II_60_0062	Schönbrunn	8.92851, 49.41228	na	gliffalä	999	na	glifele	999	na	Glifle	999
+550	na	III_35_0047	Heudorf	8.93517, 47.91373	na	klifli	999	na	glifli	999	na	Glifle	999
+551	na	II_59_0093, II_59_0094	Pleutersbach	8.95293, 49.45367	na	klifferle, gliffaling	999	na	glifaling, gliferle	999	na	Glifle	999
+552	na	II_60_0071	Asbach	9.02562, 49.34133	na	gliffelin	999	na	glifelin	999	na	Glifle	999
+553	na	III_34_0053	Bietingen	9.03261, 47.97091	na	glifli	999	na	glifli	999	na	Glifle	999
+554	na	III_35_0052	Zoznegg	9.04053, 47.89958	na	gliefle	999	na	glifle	999	na	Glifle	999
+555	na	III_35_0054	Schwackenreute	9.04401, 47.91392	na	gliefle	999	na	glifle	999	na	Glifle	999
+556	na	III_34_0052	Krumbach	9.04788, 47.96159	na	gliffle	999	na	glifle	999	na	Glifle	999
+557	na	II_60_0073	Guttenbach	9.07142, 49.38983	na	klivverle	999	na	gliferle	999	na	Glifle	999
+558	na	III_32_0043	Stetten	9.07816, 48.12086	na	kliefle	999	na	glifle	999	na	Glifle	999
+559	na	III_36_0062	Sipplingen	9.09665, 47.79525	na	glifle	999	na	glifle	999	na	Glifle	999
+560	na	III_35_0061	Sentenhart	9.12618, 47.91369	na	gliffle	999	na	glifle	999	na	Glifle	999
+561	na	II_60_0084	Dallau	9.19192, 49.38655	na	gliefle	999	na	glifle	999	na	Glifle	999
+562	na	II_59_0114	Rittersbach	9.23597, 49.42445	na	gliefle	999	na	glifle	999	na	Glifle	999
+563	na	III_18_0073	Allfeld	9.24133, 49.32379	na	gliefla	999	na	glifla	999	na	Glifle	999
+564	na	III_35_0071, III_35_0073, III_35_0072, III_35_0074	Denkingen	9.30821, 47.89505	na	gliffle, glüffle	999	na	glifle, glüfle	999	na	Glifle	999
+565	na	III_36_0080	Röhrenbach	9.3248, 47.82972	na	glifli	999	na	glifli	999	na	Glifle	999

@@ -1,0 +1,6 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_maurer_align	item_DWA	item_DWA_align	Levenshtein_item
+0	Stra L 13	III_11_0061	Kuhbach, Kuhbach	7.90787, 48.33884	biesserle	b ie ss e r l e	bisserli	b i ss e r l i	2
+1	KST N7	III_23_0004, III_23_0003	Etzenrot, Etzenrot	8.46465, 48.90968	beihserlen	b ei h s e r l e n	beißerlin	b ei ß e r l i n	3
+2	KST d6	III_18_0021	Rot, Rot	8.63137, 49.26348	beisserlin	b ei ss e r l i n	beißalin	b ei ß a l i n	4
+3	KST N7	III_23_0004, III_23_0003	Etzenrot, Etzenrot	8.46465, 48.90968	beihserlen	b ei h s e r l e n	beißalen	b ei ß a l e n	4
+4	KST N7	III_23_0004, III_23_0003	Etzenrot, Etzenrot	8.46465, 48.90968	beihserlen	b ei h s e r l e n	beißerlin	b ei ß e r l i n	3

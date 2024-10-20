@@ -1,0 +1,45 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_maurer_align	item_DWA	item_DWA_align	Levenshtein_item
+0	Hag K 2	III_5_0087	Bremmelbach, Bremmelbach	7.90023, 48.986	schbagmaus	sch b a g m a u s	speckmaus	s p e ck m a u s	5
+1	KST D1	III_5_0123	Schleital (Schleithal), Schleithal	8.04688, 48.98799	speckmaus	s p e ck m a u s	spackmaus	s p a ck m a u s	1
+2	KST D8	III_5_0114	Winzenbach (Winthenbach), Winzenbach	8.1038, 48.9341	schpeckmaus	sch p e ck m a u s	speckmaus	s p e ck m a u s	2
+3	KST D4	III_5_0120	Scheibenhard, Scheibenhardt	8.13481, 48.97663	späckmaus	s p ä ck m a u s	speckmaus	s p e ck m a u s	1
+4	KST M5	III_6_0103	Waldprechtsweier, Waldprechtsweier	8.33173, 48.8612	schpeckmaus	sch p e ck m a u s	speckmaus	s p e ck m a u s	2
+5	KST k1	III_19_0003	Rheinsheim, Rheinsheim	8.40954, 49.23272	schbäckmaus	sch b ä ck m a u s	schbeggmaus	sch b e gg m a u s	3
+6	KST c2	III_18_0013, III_18_0011, III_18_0012	Oberhausen, Oberhausen	8.48324, 49.26035	speckmaus	s p e ck m a u s	schbegmaus	sch b e g m a u s	5
+7	MH Q6	II_60_0092	Oftersheim, Oftersheim	8.58107, 49.36823	schpeckmaus	sch p e ck m a u s	speckmaus	s p e ck m a u s	2
+8	KST G10	III_22_0022	Bilfingen, Bilfingen	8.61996, 48.95027	schbeckmaus	sch b e ck m a u s	speckmaus	s p e ck m a u s	3
+9	KST l4	III_19_0019	Mingolsheim, Mingolsheim	8.65316, 49.21986	speckmaus	s p e ck m a u s	spackmaus	s p a ck m a u s	1
+10	MH J1	II_59_0071	Schrießheim, Schriesheim	8.66514, 49.47649	schbeggmaus	sch b e gg m a u s	speckmaus	s p e ck m a u s	5
+11	KST e1	III_18_0022	Nusloch, Nusloch	8.69576, 49.32301	schbeggmaus	sch b e gg m a u s	schbeckmaus	sch b e ck m a u s	2
+12	MH R11	II_60_0043	Gaiberg, Gaiberg	8.75015, 49.36606	speckmaus	s p e ck m a u s	speckmäus	s p e ck m ä u s	1
+13	MH J6	II_59_0080	Wilhelmsfeld, Wilhelmsfeld	8.7544, 49.47018	schpeckmaus	sch p e ck m a u s	speckmaus	s p e ck m a u s	2
+14	MH J12	II_59_0083	Altneudorf, Altneudorf	8.80481, 49.46366	schbeckmaus	sch b e ck m a u s	speckmaus	s p e ck m a u s	3
+15	KST m7	III_19_0036	Eichelberg, Eichelberg	8.813, 49.1891	schbeckmaus	sch b e ck m a u s	speckmaus	s p e ck m a u s	3
+16	MH K1	II_59_0085	Brombach (bei Hirschhorn), Brombach	8.8675, 49.48863	schbeckmaus	sch b e ck m a u s	speckmaus	s p e ck m a u s	3
+17	MH S3	II_60_0054	Waldwimmersbach, Waldwimmersbach	8.89219, 49.37538	speckmaus	s p e ck m a u s	speckmäus	s p e ck m ä u s	1
+18	MH S13	II_60_0062	Schönbrunn, Schönbrunn	8.92851, 49.41228	schbeckmaus	sch b e ck m a u s	schpeckmaus	sch p e ck m a u s	1
+19	MH S11	II_60_0067	Haag, Haag	8.92912, 49.39429	schbĕggmaus	sch b ĕ gg m a u s	speckmaus	s p e ck m a u s	6
+20	MH K6/1	II_59_0096	Allemühl, Allemühl	8.95618, 49.42613	schbeckmaus	sch b e ck m a u s	speggmaus	s p e gg m a u s	5
+21	MH T3	II_60_0069	Neckarkatzenbach, Neckarkatzenbach	9.03457, 49.38441	schbäggmaus	sch b ä gg m a u s	schbeggmaus	sch b e gg m a u s	1
+22	MH T4	II_60_0073	Guttenbach, Guttenbach	9.07142, 49.38983	schpeckmaus	sch p e ck m a u s	speckmaus	s p e ck m a u s	2
+23	MH L8	II_59_0106	Wagenschwend, Wagenschwend	9.14637, 49.47256	speckmausch	s p e ck m a u sch	spegmausch	s p e g m a u sch	2
+24	MH C4	II_58_0116	Schloßau, Schloßau	9.15226, 49.53935	schbäckmaus	sch b ä ck m a u s	speckmausch	s p e ck m a u sch	6
+25	MH D8	II_58_0111	Steinbach, Steinbach	9.24327, 49.54854	schbäägmausch	sch b ää g m a u sch	schbääkmausch	sch b ää k m a u sch	1
+26	MH Y3	III_18_0075	Herbolzheim, Herbolzheim	9.26007, 49.28376	speckmaus	s p e ck m a u s	schbäckmaus	sch b ä ck m a u s	4
+27	MH Y2	III_18_0074	Neudenau, Neudenau	9.27037, 49.2923	schbeggmaus	sch b e gg m a u s	schbeckmaus	sch b e ck m a u s	2
+28	MH U7	II_60_0090	Waldmühlbach, Waldmühlbach	9.28262, 49.36078	schbeckmaus	sch b e ck m a u s	speckmaus	s p e ck m a u s	3
+29	MH N2	II_92_0003	Schlierstadt, Schlierstadt	9.36816, 49.45257	schpeckmausch	sch p e ck m a u sch	schbegmausch	sch b e g m a u sch	3
+30	MH N8	II_92_0001	Götzingen, Götzingen	9.39465, 49.49693	speckmaus	s p e ck m a u s	spēkmaus	s p ē k m a u s	2
+31	MH o2	II_89_0006	Wesental, Wesental	9.41215, 49.73004	speegmaus	s p ee g m a u s	speckmaus	s p e ck m a u s	2
+32	MH N11	II_92_0005	Bofsheim, Bofsheim	9.41226, 49.4714	schbeekmausch	sch b ee k m a u sch	speckmaus	s p e ck m a u s	6
+33	MH E4	II_91_0003	Altheim, Altheim	9.4436, 49.51915	schbēgmausch	sch b ē g m a u sch	speckmaus	s p e ck m a u s	7
+34	MH w3	II_90_0007	Hardheim, Hardheim	9.47457, 49.60804	schbēgmausch	sch b ē g m a u sch	speckmaus	s p e ck m a u s	7
+35	MH E6	II_91_0123, II_91_0005	Bretzingen, Bretzingen	9.48682, 49.57826	speckmaus	s p e ck m a u s	spegmaus	s p e g m a u s	2
+36	MH o5	II_89_0010	Sachsenhausen, Sachsenhausen	9.49147, 49.73223	spēckmåus	s p ē ck m å u s	späckmaus	s p ä ck m a u s	2
+37	MH E8	II_91_0006	Erfeld, Erfeld	9.49597, 49.55416	schbeggmaus	sch b e gg m a u s	schbagmaus	sch b a g m a u s	2
+38	MH F4	II_91_0007	Gerichtstetten, Gerichtstetten	9.5049, 49.53499	spēkmausch	s p ē k m a u sch	speckmaus	s p e ck m a u s	4
+39	KST D3/1, KST D3/3, KST D3/2	III_5_0121	Niederlauterbach, Niederlauterbach	8.10398, 48.97233	spackmaus	s p a ck m a u s	speckmaus	s p e ck m a u s	1
+40	KST c2	III_18_0013, III_18_0011, III_18_0012	Oberhausen, Oberhausen	8.48324, 49.26035	speckmaus	s p e ck m a u s	spackmaus	s p a ck m a u s	1
+41	KST c2	III_18_0013, III_18_0011, III_18_0012	Oberhausen, Oberhausen	8.48324, 49.26035	speckmaus	s p e ck m a u s	schbeckmaus	sch b e ck m a u s	3
+42	KST c2	III_18_0013, III_18_0011, III_18_0012	Oberhausen, Oberhausen	8.48324, 49.26035	speckmaus	s p e ck m a u s	schbegmaus	sch b e g m a u s	5
+43	MH E6	II_91_0123, II_91_0005	Bretzingen, Bretzingen	9.48682, 49.57826	speckmaus	s p e ck m a u s	spegmaus	s p e g m a u s	2

@@ -1,0 +1,6 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	TÜB N1	na	Schenkenzell	8.37253, 48.31105	eierzwetschge	na	999	eierzwetschge	na	999	Eierzwetschge	na	999
+1	MH L1	na	Stümpfelbrunn	9.07574, 49.4645	eiergwetschde	na	999	eiergwetsche	na	999	Eierzwetschge	na	999
+2	MH C4	na	Schloßau	9.15226, 49.53935	äiergwetsche	na	999	eiergwetsche	na	999	Eierzwetschge	na	999
+3	MH E7	na	Walldürn	9.36793, 49.58322	äerquetsche	na	999	eergwetsche	na	999	Eierzwetschge	na	999
+4	MH F2	na	Brehmen	9.55454, 49.56839	ārgwetsche	na	999	argwetsche	na	999	Eierzwetschge	na	999

@@ -1,0 +1,31 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_maurer_align	item_DWA	item_DWA_align	Levenshtein_item
+0	MH n1	II_55_0128, II_55_0129	Freudenberg, Freudenberg	9.32533, 49.75145	kimmerling	k i mm e r l i n g	kimmerle	k i mm e r l e	3
+1	MH o1	II_89_0016	Rauenberg, Rauenberg	9.38407, 49.74117	kümmerli	k ü mm e r l i	kümmerle	k ü mm e r l e	1
+2	MH o4	II_89_0014	Hundheim, Hundheim	9.46691, 49.69109	kümmerli	k ü mm e r l i	kümrle	k ü m r l e	3
+3	MH w3	II_90_0007	Hardheim, Hardheim	9.47457, 49.60804	kümmerli	k ü mm e r l i	kümmerlė	k ü mm e r l ė	1
+4	MH E6	II_91_0123, II_91_0005	Bretzingen, Bretzingen	9.48682, 49.57826	kůmmerle	k ů mm e r l e	kummerle	k u mm e r l e	1
+5	MH E8	II_91_0006	Erfeld, Erfeld	9.49597, 49.55416	kümmerle	k ü mm e r l e	kümmerli	k ü mm e r l i	1
+6	MH p4	II_89_0013	Dörlesberg, Dörlesberg	9.501, 49.71273	kümmerling	k ü mm e r l i n g	kümmerlïng	k ü mm e r l ï n g	1
+7	MH p1	II_89_0018	Waldenhausen, Waldenhausen	9.52298, 49.74357	kümmerlie	k ü mm e r l ie	kümrle	k ü m r l e	3
+8	MH p5	II_89_0024	Külsheim, Külsheim	9.5236, 49.66947	kümerling	k ü m e r l i n g	kümmerling	k ü mm e r l i n g	1
+9	MH F1	II_91_0008	Pülfringen, Pülfringen	9.52624, 49.58149	kümerli	k ü m e r l i	kümmerle	k ü mm e r l e	2
+10	MH p2	II_89_0022	Reicholzheim, Reicholzheim	9.53393, 49.72663	kümmerle	k ü mm e r l e	kümmerling	k ü mm e r l i n g	3
+11	MH g4	II_88_0022	Bettingen, Bettingen	9.5642, 49.77261	kümmerli	k ü mm e r l i	kümmerla	k ü mm e r l a	1
+12	MH p13	II_89_0019	Urphar, Urphar	9.5706, 49.74798	kümmerla	k ü mm e r l a	kümaola	k ü m a o l a	3
+13	MH g2	II_88_0023	Lindelbach, Lindelbach	9.58346, 49.75732	kümårla	k ü m å r l a	kümmrla	k ü mm r l a	1
+14	MH x5	II_90_0013	Gissigheim, Gissigheim	9.58726, 49.59451	kümerle	k ü m e r l e	kümmerle	k ü mm e r l e	1
+15	MH p9	II_89_0027	Niklashausen, Niklashausen	9.6175, 49.70453	kümmerlä	k ü mm e r l ä	kümmerle	k ü mm e r l e	1
+16	MH g1	II_88_0024	Dertingen über Wertheim a.M., Dertingen	9.61957, 49.7665	kümmerla	k ü mm e r l a	kümmarlă	k ü mm a r l ă	2
+17	MH x4	II_90_0014	Dittwar, Dittwar	9.63593, 49.58974	kümmerling	k ü mm e r l i n g	kummerling	k u mm e r l i n g	1
+18	MH F8	II_91_0015	Heckfeld, Heckfeld	9.63713, 49.55077	kümmerle	k ü mm e r l e	kümmerla	k ü mm e r l a	1
+19	MH x8	II_90_0015	Tauberbischofsheim, Tauberbischofsheim	9.66553, 49.62352	kümmerling	k ü mm e r l i n g	gümerling	g ü m e r l i n g	2
+20	MH q2	II_89_0034	Wenkheim, Wenkheim	9.70149, 49.70022	kümerli	k ü m e r l i	kümmerle	k ü mm e r l e	2
+21	MH G2	II_91_0017	Lauda, Lauda	9.70203, 49.5702	kümmerli	k ü mm e r l i	kümmerling	k ü mm e r l i n g	2
+22	MH y2	II_90_0025	Paimar, Paimar	9.75368, 49.6402	kümmerli	k ü mm e r l i	kümmerle	k ü mm e r l e	1
+23	MH G7/2, MH G7/1	II_91_0032	Oberbalbach, Oberbalbach	9.7938, 49.53997	kümmerli	k ü mm e r l i	kümmerla	k ü mm e r l a	1
+24	MH q5	II_89_0041	Schönfeld, Schönfeld	9.80069, 49.67702	kümmerle	k ü mm e r l e	kümmeli	k ü mm e l i	2
+25	MH E6	II_91_0123, II_91_0005	Bretzingen, Bretzingen	9.48682, 49.57826	kůmmerle	k ů mm e r l e	gumerle	g u m e r l e	3
+26	MH E6	II_91_0123, II_91_0005	Bretzingen, Bretzingen	9.48682, 49.57826	kůmmerle	k ů mm e r l e	kummerle	k u mm e r l e	1
+27	MH G7/2, MH G7/1	II_91_0032	Oberbalbach, Oberbalbach	9.7938, 49.53997	kümmerle	k ü mm e r l e	kümmerla	k ü mm e r l a	1
+28	MH G7/2, MH G7/1	II_91_0032	Oberbalbach, Oberbalbach	9.7938, 49.53997	kümmerli	k ü mm e r l i	kümmerla	k ü mm e r l a	1
+29	MH ya1/2, MH ya1/1	II_90_0030	Oberwittighausen, Oberwittighausen	9.85164, 49.62585	kümmerle	k ü mm e r l e	kümmerla	k ü mm e r l a	1

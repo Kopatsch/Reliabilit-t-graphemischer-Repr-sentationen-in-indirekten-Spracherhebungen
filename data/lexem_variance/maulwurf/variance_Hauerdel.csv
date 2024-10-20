@@ -1,0 +1,15 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_maurer_align	item_DWA	item_DWA_align	Levenshtein_item
+0	KST P1	III_22_0027, III_22_0026	Ispringen , Ispringen	8.66764, 48.91655	hauerdl	h a u e r d l	hauerdel	h a u e r d e l	1
+1	KST P2	III_23_0030	Brötzingen, Pforzheim-Brötzingen	8.66799, 48.889	hauerdel	h a u e r d e l	hauerdl	h a u e r d l	1
+2	KST H4	III_22_0025	Eisingen, Eisingen	8.66865, 48.94773	howärdel	h o w ä r d e l	howertl	h o w e r t l	3
+3	KST H2	III_22_0032, III_22_0031	Bauschlott, Bauschlott	8.72785, 48.97051	howērdl	h o w ē r d l	howerdel	h o w e r d e l	2
+4	KST P8	III_23_0058	Würm, Würm	8.73641, 48.86041	hauerdel	h a u e r d e l	hauerdl	h a u e r d l	1
+5	KST H6	III_22_0035	Kieselbronn, Kieselbronn	8.75287, 48.93453	hauerdel	h a u e r d e l	hauerdl	h a u e r d l	1
+6	KST P5	III_23_0035	Öschelbronn, Öschelbronn	8.81415, 48.90599	howārdl	h o w ā r d l	howärdl	h o w ä r d l	1
+7	KST W6	III_24_0035	Lehningen, Lehningen	8.81639, 48.79486	howärdel	h o w ä r d e l	havertel	h a v e r t e l	4
+8	KST P1	III_22_0027, III_22_0026	Ispringen , Ispringen	8.66764, 48.91655	hauerdl	h a u e r d l	hauerdle	h a u e r d l e	1
+9	KST P1	III_22_0027, III_22_0026	Ispringen , Ispringen	8.66764, 48.91655	hauerdl	h a u e r d l	hauerdel	h a u e r d e l	1
+10	KST H2	III_22_0032, III_22_0031	Bauschlott, Bauschlott	8.72785, 48.97051	howērdl	h o w ē r d l	howerdl	h o w e r d l	1
+11	KST H2	III_22_0032, III_22_0031	Bauschlott, Bauschlott	8.72785, 48.97051	howērdl	h o w ē r d l	howerdel	h o w e r d e l	2
+12	KST P5	III_23_0035	Öschelbronn, Öschelbronn	8.81415, 48.90599	howārdl	h o w ā r d l	hauerdl	h a u e r d l	3
+13	KST P5	III_23_0035	Öschelbronn, Öschelbronn	8.81415, 48.90599	howārdl	h o w ā r d l	howärdl	h o w ä r d l	1

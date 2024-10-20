@@ -1,0 +1,3 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	MH x8	na	Tauberbischofsheim	9.66553, 49.62352	regenvougel	na	999	regenvogel	na	999	Regenvogel	na	999
+1	na	III_13_0095	Krüt	6.96629, 47.92912	na	regenvogel	999	na	regenvogel	999	na	Regenvogel	999

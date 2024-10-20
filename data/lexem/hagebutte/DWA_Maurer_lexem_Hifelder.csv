@@ -1,0 +1,101 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	MH D9	na	Hornbach (Hettingenbeuern)	9.29012, 49.591	häffelder	na	999	hefelder	na	999	Hifelder	na	999
+1	MH v2	II_57_0138	Rippberg, Rippberg	9.29762, 49.62253	hiffelder	hiffelder	0	hifelder	hifelder	0	Hifelder	Hifelder	0
+2	MH v3	II_57_0139	Gerolzahn, Gerolzahn	9.31895, 49.62645	hüffelter	hifelter	2	hifelder	hifelder	0	Hifelder	Hifelder	0
+3	MH D6	na	Buchen	9.32603, 49.52041	hiffelder	na	999	hifelder	na	999	Hifelder	na	999
+4	MH w1	II_90_0001	Reichenhardsachsen, Reichenhardsachsen	9.34508, 49.64003	hiffelder	hiffelder	0	hifelder	hifelder	0	Hifelder	Hifelder	0
+5	MH o8/1, MH o8/2	II_89_0005	Ebenheid, Ebenheid	9.36095, 49.7158	hiffelder	hiffelder	0	hifelder	hifelder	0	Hifelder	Hifelder	0
+6	MH w6	na	Glashofen	9.36648, 49.62382	hivelder	na	999	hifelder	na	999	Hifelder	na	999
+7	MH N4/2	na	Zimmern	9.37304, 49.43313	hiffelder	na	999	hifelder	na	999	Hifelder	na	999
+8	MH o1	II_89_0016	Rauenberg, Rauenberg	9.38407, 49.74117	hiffelder	hiffelder	0	hifelder	hifelder	0	Hifelder	Hifelder	0
+9	MH w7	II_90_0003	Wettersdorf, Wettersdorf	9.38743, 49.63075	hivelder	hivelder	0	hifelder	hifelder	0	Hifelder	Hifelder	0
+10	MH f2	II_88_0005	Boxtal, Boxtal	9.40146, 49.76416	hiffelder	hifelder	1	hifelder	hifelder	0	Hifelder	Hifelder	0
+11	MH o2	II_89_0006	Wessental, Wessental	9.41215, 49.73004	hiffelter	hiffelter	0	hifelder	hifelder	0	Hifelder	Hifelder	0
+12	MH w4	II_90_0005	Höpfingen, Höpfingen	9.42753, 49.60185	hiffelder	hiffelder	0	hifelder	hifelder	0	Hifelder	Hifelder	0
+13	MH w2	II_90_0006	Dornberg, Dornberg	9.42843, 49.62542	hiffelder	hiffelter	1	hifelder	hifelder	0	Hifelder	Hifelder	0
+14	MH o3	II_89_0012	Sonderriet, Sonderriet	9.43938, 49.71753	hiffeter	hiffelter	1	hifeder	hifelder	1	Hifelder	Hifelder	0
+15	MH E5	II_91_0004	Waldstetten, Waldstetten	9.44893, 49.5647	hiffeldern	hiffelder	1	hifelder	hifelder	0	Hifelder	Hifelder	0
+16	MH o7	na	Nassig	9.45146, 49.73582	hifelder	na	999	hifelder	na	999	Hifelder	na	999
+17	MH q1	na	Steinbach	9.47108, 49.68011	hiffelder	na	999	hifelder	na	999	Hifelder	na	999
+18	MH f3	II_88_0014	Grünenwört, Grünenwört	9.47135, 49.77438	hiffelder	hiffelde	1	hifelder	hifelder	0	Hifelder	Hifelder	0
+19	MH w3	II_90_0007	Hardheim, Hardheim	9.47457, 49.60804	hiffelter	hiffelter	0	hifelder	hifelder	0	Hifelder	Hifelder	0
+20	MH w5	na	Steinfurt	9.48425, 49.64828	häfelter	na	999	hefelder	na	999	Hifelder	na	999
+21	MH o6	II_89_0008	Vockenrot, Vockenrot	9.48521, 49.74816	hiffelter	hiffelder	1	hifelder	hifelder	0	Hifelder	Hifelder	0
+22	MH E6	II_91_0005, II_91_0123	Bretzingen, Bretzingen	9.48682, 49.57826	hiffelder	hiffelder	0	hifelder	hifelder	0	Hifelder	Hifelder	0
+23	MH E8	II_91_0006	Erfeld, Erfeld	9.49597, 49.55416	hiffelder	hiffelder	0	hifelder	hifelder	0	Hifelder	Hifelder	0
+24	MH p4	na	Dörlesberg	9.501, 49.71273	hiffelder	na	999	hifelder	na	999	Hifelder	na	999
+25	MH g3	na	Wertheim-Bastenheid	9.5029, 49.78173	hüffelder	na	999	hifelder	na	999	Hifelder	na	999
+26	MH F4	II_91_0007	Gerichtstetten, Gerichtstetten	9.5049, 49.53499	hüfelter	häffelter	2	hifelder	hefelder	1	Hifelder	Hifelder	0
+27	MH p1	II_89_0018	Waldenhausen, Waldenhausen	9.52298, 49.74357	hiffldär	hiffelder	2	hiflder	hifelder	1	Hifelder	Hifelder	0
+28	MH p5	II_89_0024	Külsheim, Külsheim	9.5236, 49.66947	hiffelder	hiffelder	0	hifelder	hifelder	0	Hifelder	Hifelder	0
+29	MH x7	II_90_0009	Schweinberg, Schweinberg	9.52459, 49.61864	hiffelda	hiffelta	1	hifelder	hifelder	0	Hifelder	Hifelder	0
+30	MH F1	II_91_0008	Pülfringen, Pülfringen	9.52624, 49.58149	hiffelder	hiffelder	0	hifelder	hifelder	0	Hifelder	Hifelder	0
+31	MH p2	II_89_0022	Reicholzheim, Reicholzheim	9.53393, 49.72663	hiffelder	hifelter	2	hifelder	hifelder	0	Hifelder	Hifelder	0
+32	MH F5	II_91_0011	Eubigheim, Eubigheim	9.53977, 49.5018	hiffeldern	hiffldern	1	hifelder	hifldern	2	Hifelder	Hifelder	0
+33	MH g5	na	Wertheim-Eichel	9.54093, 49.76546	hiffelter	na	999	hifelder	na	999	Hifelder	na	999
+34	MH p3	II_89_0023	Bronnbach, Bronnbach	9.54654, 49.71348	hiffelder	hiffelter	1	hifelder	hifelder	0	Hifelder	Hifelder	0
+35	MH F2	II_91_0009	Brehmen, Brehmen	9.55454, 49.56839	hiffeldå	hiffelder	2	hifelder	hifelder	0	Hifelder	Hifelder	0
+36	MH O7	II_92_0014	Oberwittstadt, Oberwittstadt	9.55565, 49.43027	hiffeldern	hiffeldern	0	hifelder	hifelder	0	Hifelder	Hifelder	0
+37	MH g4	II_88_0022	Bettingen, Bettingen	9.5642, 49.77261	hiffelter	hiffelter	0	hifelder	hifelder	0	Hifelder	Hifelder	0
+38	MH p13	II_89_0019	Urphar, Urphar	9.5706, 49.74798	hiffldår	hiflder	2	hiflder	hiflder	0	Hifelder	Hifelder	0
+39	MH p6/1, MH p6/2	II_89_0025	Uissigheim, Uissigheim	9.57194, 49.67957	hiffelder	hiffelder	0	hifelder	hifelder	0	Hifelder	Hifelder	0
+40	MH O4	II_92_0013	Schillingstadt, Schillingstadt	9.57461, 49.46035	hiffeldr	hiffelder	1	hifelder	hifelder	0	Hifelder	Hifelder	0
+41	MH g2	II_88_0023	Lindelbach, Lindelbach	9.58346, 49.75732	hifldår	hifldr	1	hiflder	hiflder	0	Hifelder	Hifelder	0
+42	MH x5	II_90_0013	Gissigheim, Gissigheim	9.58726, 49.59451	hifelder	hifelder	0	hifelder	hifelder	0	Hifelder	Hifelder	0
+43	MH x1	II_90_0010	Eiersheim, Eiersheim	9.58787, 49.65953	hifflde̊r	hiffelder	2	hiflder	hifelder	1	Hifelder	Hifelder	0
+44	MH O8	II_91_0012	Uiffingen, Uiffingen	9.59227, 49.50171	hifelder	hiefelder	1	hifelder	hifelder	0	Hifelder	Hifelder	0
+45	MH x6	na	Königheim	9.59419, 49.61802	hiffelder	na	999	hifelder	na	999	Hifelder	na	999
+46	MH O9	II_92_0022	Angeltürn, Angeltürn	9.59726, 49.48572	hiffelder	hiffeldr	1	hifelder	hifelder	0	Hifelder	Hifelder	0
+47	MH p8	II_89_0026	Gamburg, Gamburg	9.59986, 49.69382	hiffelder	hifelder	1	hifelder	hifelder	0	Hifelder	Hifelder	0
+48	MH O5	na	Schwabhausen	9.60196, 49.45569	hiffeldr	na	999	hifelder	na	999	Hifelder	na	999
+49	MH p12	II_89_0020	Dietenhan, Dietenhan	9.6066, 49.74297	hiffelder	hifflder	1	hifelder	hiflder	1	Hifelder	Hifelder	0
+50	MH p10	II_89_0028	Höhefeld, Höhefeld	9.60905, 49.71271	hiffelder	hifelder	1	hifelder	hifelder	0	Hifelder	Hifelder	0
+51	MH x9	II_90_0011	Dienstadt, Dienstadt	9.61232, 49.63373	hiffelder	hiffelder	0	hifelder	hifelder	0	Hifelder	Hifelder	0
+52	MH W5	II_93_0020	Neunstetten, Neunstetten	9.61267, 49.41114	hiffeldor, hiffeldorr	hüffelter	3	hifelder	hifelder	0	Hifelder	Hifelder	0
+53	MH p9	II_89_0027	Niklashausen, Niklashausen	9.6175, 49.70453	hifĕldĕr	hiffelder, hiffelter	3	hifelder	hifelder	0	Hifelder	Hifelder	0
+54	MH F7	II_91_0013	Kupprichhausen-Lengenrieden, Kupprichhausen u. Lengenrieden	9.62002, 49.52627	hüffelder	hiffelder	1	hifelder	hifelder	0	Hifelder	Hifelder	0
+55	MH O6	II_92_0016	Windischbuch, Windischbuch	9.62194, 49.43593	hiffelder	hiffelder	0	hifelder	hifelder	0	Hifelder	Hifelder	0
+56	MH p11a/1, MH p11a/2	II_89_0021	Kembach, Kembach	9.62461, 49.74217	hiffelder	hifflder	1	hifelder	hiflder	1	Hifelder	Hifelder	0
+57	MH F6	II_91_0014	Epplingen, Epplingen	9.62742, 49.5054	hiffeldr	hifflder	2	hifelder	hiflder	1	Hifelder	Hifelder	0
+58	MH O10	II_92_0023, II_92_0025, II_92_0024	Wölchingen, Wölchingen	9.63011, 49.48494	hiffelder	hifflder, hifelder, hiffelder	0	hifelder	hifelder, hiflder	0	Hifelder	Hifelder	0
+59	MH W7	II_93_0022	Krautheim, Krautheim	9.63369, 49.39159	hiffelder	hiffelder	0	hifelder	hifelder	0	Hifelder	Hifelder	0
+60	MH x2	II_90_0017, II_90_0020, II_90_0018, II_90_0019	Hochhausen, Hochhausen	9.63526, 49.6621	hiffelder	hifelder, hifflder, hifflder	1	hifelder	hifelder, hiflder	0	Hifelder	Hifelder	0
+61	MH x4	II_90_0014	Dittwar, Dittwar	9.63593, 49.58974	hiffelder	hiffelder	0	hifelder	hifelder	0	Hifelder	Hifelder	0
+62	MH p7	II_89_0031, II_89_0030, II_89_0032	Werbach, Werbach	9.63871, 49.67029	hiffelder	hiffelder, hiffelter	0	hifelder	hifelder	0	Hifelder	Hifelder	0
+63	MH W6	na	Horrenbach	9.66028, 49.40826	hiffldr	na	999	hiflder	na	999	Hifelder	na	999
+64	MH x8	II_90_0015	Tauberbischofsheim, Tauberbischofsheim	9.66553, 49.62352	hiffelder	hiffelder	0	hifelder	hifelder	0	Hifelder	Hifelder	0
+65	MH P2	II_92_0040	Schweigern, Schweigern	9.66576, 49.49224	hiffldern	hifflder	1	hifldern	hiflder	1	Hifelder	Hifelder	0
+66	MH X1	na	Klepsau	9.67156, 49.38805	hiffeldér	na	999	hifelder	na	999	Hifelder	na	999
+67	MH P3	II_92_0028	Bobstadt, Bobstadt	9.67398, 49.46607	hifflder	hiffelter	2	hiflder	hifelder	1	Hifelder	Hifelder	0
+68	MH y4	II_90_0021	Dittigheim, Dittigheim	9.67647, 49.61035	hüffelter	hüffelter	0	hifelder	hifelder	0	Hifelder	Hifelder	0
+69	MH G11	II_91_0019	Oberschüpf, Oberschüpf	9.67687, 49.52252	hieflder	hiefelder	1	hifelder	hifelder	0	Hifelder	Hifelder	0
+70	MH q3	II_89_0035	Werbachhausen, Werbachhausen	9.67954, 49.67946	heffelder	heffelter	1	hefelder	hefelder	0	Hifelder	Hifelder	0
+71	MH G12	II_91_0020	Unterschüpf, Unterschüpf	9.68922, 49.51437	hifelder	hiffelder	1	hifelder	hifelder	0	Hifelder	Hifelder	0
+72	MH y5	II_90_0022	Distelhausen, Distelhausen	9.69353, 49.59735	hiefelder	hüfellter	4	hifelder	hifelder	0	Hifelder	Hifelder	0
+73	MH q2	II_89_0034	Wenkheim, Wenkheim	9.70149, 49.70022	heffelder	hiffelder	1	hefelder	hifelder	1	Hifelder	Hifelder	0
+74	MH G2	II_91_0017	Lauda, Lauda	9.70203, 49.5702	hiffelder	hiffelder	0	hifelder	hifelder	0	Hifelder	Hifelder	0
+75	MH G10	II_91_0018	Beckstein, Beckstein	9.70422, 49.54668	hifflde̊r	hüffeldr	4	hiflder	hifelder	1	Hifelder	Hifelder	0
+76	MH G13	II_91_0021	Sachsenflur, Sachsenflur	9.71, 49.52377	hifflter	hieffelder	3	hiflder	hifelder	1	Hifelder	Hifelder	0
+77	MH P1	II_92_0027	Dainbach-Herold, Dainbach	9.71553, 49.49662	hifflder	hiefelder	2	hiflder	hifelder	1	Hifelder	Hifelder	0
+78	MH G3	II_91_0026	Gerlachsheim, Gerlachsheim	9.71775, 49.57998	hiffelder	hiffelder	0	hifelder	hifelder	0	Hifelder	Hifelder	0
+79	MH G4	II_91_0025	Marbach, Marbach	9.7264, 49.56581	hiffeldr	hiffelder	1	hifelder	hifelder	0	Hifelder	Hifelder	0
+80	MH G9	II_91_0022	Königshofen, Königshofen	9.73105, 49.54759	hiffelder	hiffelder	0	hifelder	hifelder	0	Hifelder	Hifelder	0
+81	MH y3	II_90_0024	Grünsfeldhausen, Grünsfeldhausen	9.74055, 49.62456	hifflter	hiflder	2	hiflder	hiflder	0	Hifelder	Hifelder	0
+82	MH y6	II_90_0023	Grünsfeld, Grünsfeld	9.74656, 49.6066	hiffeldr	hiffeldr	0	hifelder	hifelder	0	Hifelder	Hifelder	0
+83	MH G8	II_91_0023	Unterbalbach, Unterbalbach	9.74711, 49.52779	hiffelder	hīfĕlder	3	hifelder	hifelder	0	Hifelder	Hifelder	0
+84	MH y2	II_90_0025	Paimar, Paimar	9.75368, 49.6402	heffelder	höffelder	1	hefelder	hefelder	0	Hifelder	Hifelder	0
+85	MH G5	II_91_0027	Kützbrunn, Kützbrunn	9.76136, 49.58159	hiffelder	hefelter	3	hifelder	hefelder	1	Hifelder	Hifelder	0
+86	MH y8	II_90_0026	Krensheim, Krensheim	9.78002, 49.63781	hefelter	heffelter	1	hefelder	hefelder	0	Hifelder	Hifelder	0
+87	MH q4	II_89_0040	Gerchsheim, Gerchsheim	9.78301, 49.70681	hefflder	heffelder	1	heflder	hefelder	1	Hifelder	Hifelder	0
+88	MH y10	II_89_0042	Ilmspan, Ilmspan	9.79016, 49.66609	hefelder	heffelder	1	hefelder	hefelder	0	Hifelder	Hifelder	0
+89	MH G7/2, MH G7/1	II_91_0032	Oberbalbach, Oberbalbach	9.7938, 49.53997	hifelter, iflder	hiffldr	3	iflder, hifelder	hiflder	1	Hifelder	Hifelder	0
+90	MH q5	II_89_0041	Schönfeld, Schönfeld	9.80069, 49.67702	hefelder	heffelder	1	hefelder	hefelder	0	Hifelder	Hifelder	0
+91	MH y9	II_90_0027	Poppenhausen, Poppenhausen	9.82622, 49.63065	heffldr	heffldr	0	heflder	heflder	0	Hifelder	Hifelder	0
+92	na	III_10_0060	Bohlsbach	7.94796, 48.49264	na	hiefdärn	999	na	hifdern	999	na	Hifelder	999
+93	na	II_92_0008	Rosenberg	9.4752, 49.45583	na	hifflder	999	na	hiflder	999	na	Hifelder	999
+94	na	II_92_0011	Hirschlanden	9.50074, 49.47297	na	hifelter	999	na	hifelder	999	na	Hifelder	999
+95	na	II_93_0011	Ballenberg	9.55086, 49.40093	na	hiffelder	999	na	hifelder	999	na	Hifelder	999
+96	na	II_93_0019	Oberndorf	9.59181, 49.40817	na	hifflder	999	na	hifelder	999	na	Hifelder	999
+97	na	II_90_0016	Impfingen	9.65946, 49.64719	na	hifelder	999	na	hifelder	999	na	Hifelder	999
+98	na	II_91_0028, II_91_0029	Messelhausen	9.7887, 49.5756	na	hiffelder	999	na	hifelder	999	na	Hifelder	999
+99	na	II_90_0131	Vilchband	9.82424, 49.58989	na	hiffeldr	999	na	hifelder	999	na	Hifelder	999

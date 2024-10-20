@@ -1,0 +1,7 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	MH Z1	III_18_0081	Ruchsen, Ruchsen	9.37887, 49.31914	häftlich	heftle	4	heftlich	heftle	3	Heftle	Heftle	0
+1	MH W3	II_93_0012	Erlenbach, Erlenbach	9.5514, 49.38553	häftle	häftle	0	heftle	heftle	0	Heftle	Heftle	0
+2	na	II_60_0087	Katzental	9.26618, 49.37338	na	heftle	999	na	heftle	999	na	Heftle	999
+3	na	II_93_0004	Korb	9.39732, 49.35594	na	heftle	999	na	heftle	999	na	Heftle	999
+4	na	II_93_0005	Leibenstadt	9.42028, 49.36861	na	heftle	999	na	heftle	999	na	Heftle	999
+5	na	II_93_0006	Unterkessach	9.43829, 49.34571	na	häftle	999	na	heftle	999	na	Heftle	999

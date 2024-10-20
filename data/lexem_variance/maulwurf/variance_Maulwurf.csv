@@ -1,0 +1,93 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_maurer_align	item_DWA	item_DWA_align	Levenshtein_item
+0	Hag x 1	III_4_0044	Silzheim (Siltzheim), Silzheim	7.09071, 49.0616	mulwurf	m u l w u r f	murwolf	m u r w o l f	3
+1	Hag E 1	III_4_0050	Örmingen (Oermingen), Örmingen	7.12881, 49.00062	mürwölf	m ü r w ö l f	mülwurf	m ü l w u r f	3
+2	Stra G 2	III_11_0004, III_11_0003	Breitenbach, Breitenbach	7.2921, 48.36514	mürwolf	m ü r w o l f	murwolf	m u r w o l f	1
+3	Stra G 6	III_11_0005	Weiler (Villé), Weiler, ortsteil Erlenbach	7.30273, 48.34253	müllwolf	m ü ll w o l f	mürwolf	m ü r w o l f	2
+4	Stra G 8	III_11_0006	Triembach (Triembach-Au-Val), Triembach	7.32386, 48.33763	mürwalf	m ü r w a l f	mürwolf	m ü r w o l f	1
+5	Co l 1/3, Co l 1/2, Co l 1/1	III_13_0030	Kolmar (/Hausen an der Möhlin), Kolmar, Kolmar	7.36359, 48.08198	mülworf	m ü l w o r f	mulwurf	m u l w u r f	2
+6	Co P8	III_15_0045	Bamlach, Bamlach	7.54942, 47.71753	mulwurf	m u l w u r f	mŭlwŭrf	m ŭ l w ŭ r f	2
+7	Hag P 14	III_6_0066	Pfaffenhofen, Pfaffenhofen	7.60881, 48.84422	mǖlwurf	m ǖ l w u r f	mülwurf	m ü l w u r f	1
+8	Co f 6	III_12_0124	Schelingen am Kaiserstuhl, Schelingen	7.68308, 48.10435	mülwurf	m ü l w u r f	muhlwurf	m u h l w u r f	2
+9	Co g 2	III_12_0139	Waldkirch, Waldkirch	7.96049, 48.09361	mulwürf	m u l w ü r f	maulwurf	m a u l w u r f	2
+10	TUTT p4	III_13_0155	Buchenbach, Buchenbach	8.00773, 47.96134	mūlwurf	m ū l w u r f	muulwurf	m uu l w u r f	2
+11	TÜB h13	III_9_0096, III_9_0095	Neusatz , Neusatz	8.14904, 48.65879	mūlwurf	m ū l w u r f	mullwärf	m u ll w ä r f	3
+12	TÜB x5	III_10_0145	Bad Rippoldsau, Bad Rippoldsau	8.32852, 48.42806	mūlwurf	m ū l w u r f	mulwurf	m u l w u r f	1
+13	TUTT y4	III_35_0002	Reiselfingen, Reiselfingen	8.35108, 47.85467	mūlwurf	m ū l w u r f	mulworf	m u l w o r f	2
+14	TUTT k9	III_33_0002	Herzogenweiler, Herzogenweiler	8.37157, 48.0254	maulwurf	m a u l w u r f	mulwuerf	m u l w u e r f	2
+15	KST F2	III_22_0001	Bulach, Bulach	8.38244, 48.9868	maulwerf	m a u l w e r f	maulwurf	m a u l w u r f	1
+16	KST k1	III_19_0003	Rheinsheim, Rheinsheim	8.40954, 49.23272	mauälf	m a u ä l f	mauelf	m a u e l f	1
+17	TUTT F12	III_36_0011	Lembach, Lembach	8.43056, 47.80389	mūlwurf	m ū l w u r f	mulwurf	m u l w u r f	1
+18	KST k2	III_19_0007, III_19_0004, III_19_0005	Philippsburg, Philippsburg	8.45298, 49.235	maulwurf	m a u l w u r f	maulworf	m a u l w o r f	1
+19	KST k3	III_19_0008	Huttenheim, Huttenheim	8.46955, 49.1967	mauolf	m a u o l f	mawulf	m a w u l f	2
+20	TUTT r9	III_34_0005	Aufen, Aufen	8.47258, 47.964	muhlwurf	m u h l w u r f	muhlworf	m u h l w o r f	1
+21	Ma h2/3, Ma h2/1	II_59_0064	Neckarau, Mannheim-Neckarau, Mannheim	8.49104, 49.45335	maulwoaf	m a u l w o a f	maulwurf	m a u l w u r f	2
+22	KST d2	III_18_0009, III_18_0008	Altlußheim, Altlussheim	8.49951, 49.30106	maulwūrf	m a u l w ū r f	maulworff	m a u l w o r ff	2
+23	MH z4/2, MH z4/1	II_58_0065, II_58_0066	Mannheim-Käfertal, Käferthal	8.51715, 49.51259	maulwurf	m a u l w u r f	maulworf	m a u l w o r f	1
+24	KST d8	III_18_0016	Waghäusel, Waghäusel	8.51733, 49.25118	maulworf	m a u l w o r f	maulwurf	m a u l w u r f	1
+25	MH Q7	II_60_0033	Ketsch, Ketsch	8.52432, 49.3678	maulwurf	m a u l w u r f	mualwurf	m u a l w u r f	2
+26	MH H10/1	II_59_0074	Rheinau, Rheinau	8.53056, 49.42924	maulworf	m a u l w o r f	maulwurf	m a u l w u r f	1
+27	MH H2	II_59_0067	Feudenheim, Feudenheim	8.53299, 49.4864	maulwōrf	m a u l w ō r f	maulwurf	m a u l w u r f	1
+28	MH Q1	II_60_0032	Brühl, Brühl	8.53485, 49.3951	maulworf	m a u l w o r f	maulwoaf	m a u l w o a f	1
+29	KST G3	III_22_0016	Singen bei Pforzheim, Singen	8.56804, 48.95764	maulwurf	m a u l w u r f	maufwurf	m a u f w u r f	1
+30	MH Q2	II_60_0035, II_60_0034	Schwetzingen, Schwetzingen	8.57064, 49.38567	maulwurf	m a u l w u r f	maulworf	m a u l w o r f	1
+31	MH Q6	II_60_0092	Oftersheim, Oftersheim	8.58107, 49.36823	maulwoorf	m a u l w oo r f	maulworf	m a u l w o r f	1
+32	MH Q3	II_60_0036	Plankstadt, Plankstadt	8.59271, 49.39179	maulworf	m a u l w o r f	maulwurf	m a u l w u r f	1
+33	MH z3	II_58_0067	Heddesheim, Heddesheim	8.60327, 49.50529	maulwuaf	m a u l w u a f	maulwurf	m a u l w u r f	1
+34	MH H4	II_59_0070	Ladenburg, Ladenburg	8.61098, 49.47244	maulwoaf	m a u l w o a f	maulwurf	m a u l w u r f	2
+35	MH H8	II_59_0073	Edingen, Edingen	8.61196, 49.44847	maulwuorf	m a u l w u o r f	maulwurf	m a u l w u r f	1
+36	KST d5	III_18_0020	Walldorf, Walldorf	8.64294, 49.3028	maulwōaf	m a u l w ō a f	maulwurf	m a u l w u r f	2
+37	MH H11	II_58_0068	Leutershausen, Leutershausen	8.65616, 49.49821	multruff	m u l t r u ff	mulldruff	m u ll d r u f f	2
+38	MH Q5	II_60_0038	Sandhausen, Sandhausen	8.65837, 49.34236	maulworef	m a u l w o r e f	maulwurf	m a u l w u r f	2
+39	MH z2	II_58_0069	Großsachsen, Grosssachsen	8.6595, 49.51193	multruff	m u l t r u ff	mulldruft	m u ll d r u f t	3
+40	MH z1	II_58_0072	Sulzbach, Sulzbach	8.661, 49.57763	maulworf	m a u l w o r f	muldruff	m u l d r u ff	5
+41	MH J1	II_59_0071	Schrießheim, Schriesheim	8.66514, 49.47649	mulldruff	m u ll d r u f f	mulldriff	m u ll d r i f f	1
+42	MH A3	II_58_0070	Hohensachsen, Hohensachsen	8.66935, 49.51919	muldruf	m u l d r u f	mulldruff	m u ll d r u f f	2
+43	MH A1	II_58_0073	Weinheim, Weinheim	8.67068, 49.55495	mulderuff	m u l d e r u ff	maulworf	m a u l w o r f	5
+44	MH J3/1, MH J3/2	II_59_0077	Handschuhsheim, Heidelberg-Handschuhsheim, Heidelberg-Handschuhsheim	8.68613, 49.42774	maulwůrf	m a u l w ů r f	maulworf	m a u l w o r f	1
+45	MH R3	II_60_0041	Heidelberg-Rohrbach, Heidelberg-Rohrbach	8.69, 49.38005	maulworf	m a u l w o r f	maulwurf	m a u l w u r f	1
+46	KST e2/1, KST e2/2	III_18_0036	Wiesloch, Wiesloch	8.70178, 49.29504	maūlwurf	m a ū l w u r f	maulwoof	m a u l w oo f	3
+47	MH J7	II_59_0081	Altenbach / Schriesheim, Altenbach	8.73843, 49.48622	mahlbruf	m a h l b r u f	mulbruf	m u l b r u f	2
+48	MH R14	II_60_0051	Schlierbach, Schlierbach	8.76062, 49.41501	maulwurf	m a u l w u r f	mollwurf	m o ll w u r f	2
+49	MH J10	II_59_0082	Heiligkreuzsteinach, Heiligkreuzsteinach	8.79709, 49.48538	mullbruff	m u ll b r u f f	mulbruf	m u l b r u f	2
+50	MH J12	II_59_0083	Altneudorf, Altneudorf	8.80481, 49.46366	mulberuf	m u l b e r u f	mulbaruff	m u l b a r u ff	2
+51	MH K1	II_59_0085	Brombach (bei Hirschhorn), Brombach	8.8675, 49.48863	mullberuff	m u ll b e r u f f	mulberuf	m u l b e r u f	2
+52	MH K8	II_59_0097	Neckarhäuserhof, Neckarhäuserhof	8.88191, 49.41513	maulwurf	m a u l w u r f	mulbruf	m u l b r u f	4
+53	MH K3	II_59_0092	Eberbach, Eberbach	8.98755, 49.46322	muldruf	m u l d r u f	mulldruf	m u ll d r u f	1
+54	MH U1	II_60_0083	Neckarburken, Neckarburken	9.165, 49.37662	maulworf	m a u l w o r f	maulwurf	m a u l w u r f	1
+55	MH U5	II_60_0086	Unterschefflenz, Unterschefflenz	9.27076, 49.39154	maulruff	m a u l r u ff	mauruf	m a u r u f	2
+56	SIG q10	III_37_0048	Hagnau, Hagnau	9.31963, 47.67634	mulwurf	m u l w u r f	maulwurf	m a u l w u r f	1
+57	MH N3	II_59_0123	Seckach, Seckach	9.33368, 49.44238	mūruf	m ū r u f	muruf	m u r u f	1
+58	STU u1	III_26_0090	Nürtingen, Nürtingen	9.34192, 48.62663	maulwärf	m a u l w ä r f	maulwurf	m a u l w u r f	1
+59	MH N1	II_92_0002	Eberstadt, Eberstadt	9.3666, 49.47727	maulworf	m a u l w o r f	maulwerf	m a u l w e r f	1
+60	MH N2	II_92_0003	Schlierstadt, Schlierstadt	9.36816, 49.45257	maulwůrf	m a u l w ů r f	mauruff	m a u r u ff	4
+61	MH V2	II_93_0002	Sennfeld, Sennfeld	9.38438, 49.38045	maulworf	m a u l w o r f	maulwurf	m a u l w u r f	1
+62	SIG o2	III_36_0089	Deggenhausen, Deggenhausen	9.3844, 47.80143	maulwurf	m a u l w u r f	mulwurf	m u l w u r f	1
+63	MH W1	II_93_0009	Hüngheim, Hüngheim	9.51823, 49.41257	maulworf	m a u l w o r f	maulwurf	m a u l w u r f	1
+64	MH O7	II_92_0014	Oberwittstadt, Oberwittstadt	9.55565, 49.43027	mauerouf	m a u e r o u f	maulwurf	m a u l w u r f	4
+65	MH W9	II_93_0015	Winzenhofen, Winzenhofen	9.57229, 49.35628	maulwurf	m a u l w u r f	maulaff	m a u l a ff	3
+66	MH W8	II_93_0018	Gommersdorf, Gommersdorf	9.61253, 49.36877	maulwurf	m a u l w u r f	maulworf	m a u l w o r f	1
+67	MH W7	II_93_0022	Krautheim, Krautheim	9.63369, 49.39159	maulwŏrf	m a u l w ŏ r f	maulwurf	m a u l w u r f	1
+68	Co F7/2	III_14_0116, III_14_0108, III_14_0109, III_14_0112	Mülhausen, Mülhausen	7.34375, 47.7517	mülwurf	m ü l w u r f	mulwurf	m u l w u r f	1
+69	Co l 1/3, Co l 1/2, Co l 1/1	III_13_0030	Kolmar (/Hausen an der Möhlin), Kolmar, Kolmar	7.36359, 48.08198	mülwurf	m ü l w u r f	mulwurf	m u l w u r f	1
+70	Co l 1/3, Co l 1/2, Co l 1/1	III_13_0030	Kolmar (/Hausen an der Möhlin), Kolmar, Kolmar	7.36359, 48.08198	mülworf	m ü l w o r f	mulwurf	m u l w u r f	2
+71	KST F14/2, KST F14/1	III_22_0004, III_22_0006	Ettlingen , Ettlingen, Ettlingen	8.40245, 48.94247	maulwurf	m a u l w u r f	maulworf	m a u l w o r f	1
+72	KST k2	III_19_0007, III_19_0004, III_19_0005	Philippsburg, Philippsburg	8.45298, 49.235	maulwurf	m a u l w u r f	maulworf	m a u l w o r f	1
+73	KST c1	III_18_0010	Rheinhausen, Rheinhausen	8.47341, 49.28141	maulwourf	m a u l w o u r f	maulworf	m a u l w o r f	1
+74	Ma h2/3, Ma h2/1	II_59_0064	Neckarau, Mannheim-Neckarau, Mannheim	8.49104, 49.45335	maulwoaf	m a u l w o a f	maulwurf	m a u l w u r f	2
+75	KST s7	III_20_0015, III_20_0014, III_20_0013	Staffort, Staffort	8.51034, 49.09079	maulworf	m a u l w o r f	maulwurf	m a u l w u r f	1
+76	MH H2	II_59_0067	Feudenheim, Feudenheim	8.53299, 49.4864	maulwōf	m a u l w ō f	maulwurf	m a u l w u r f	2
+77	MH H2	II_59_0067	Feudenheim, Feudenheim	8.53299, 49.4864	maulwōrf	m a u l w ō r f	maulwurf	m a u l w u r f	1
+78	MH Q1	II_60_0032	Brühl, Brühl	8.53485, 49.3951	maulwurf	m a u l w u r f	maulwoaf	m a u l w o a f	2
+79	MH Q1	II_60_0032	Brühl, Brühl	8.53485, 49.3951	maulworf	m a u l w o r f	maulwoaf	m a u l w o a f	1
+80	KST s8	III_20_0022, III_20_0021, III_20_0023	Untergrombach, Untergrombach	8.55318, 49.0861	maulworf	m a u l w o r f	maulwurf	m a u l w u r f	1
+81	MH A1	II_58_0073	Weinheim, Weinheim	8.67068, 49.55495	mulderuff	m u l d e r u ff	mulltruff	m u ll t r u f f	2
+82	MH A1	II_58_0073	Weinheim, Weinheim	8.67068, 49.55495	mulderuff	m u l d e r u ff	maulworf	m a u l w o r f	5
+83	MH J3/1, MH J3/2	II_59_0077	Handschuhsheim, Heidelberg-Handschuhsheim, Heidelberg-Handschuhsheim	8.68613, 49.42774	maulwurf	m a u l w u r f	maulworf	m a u l w o r f	1
+84	MH J3/1, MH J3/2	II_59_0077	Handschuhsheim, Heidelberg-Handschuhsheim, Heidelberg-Handschuhsheim	8.68613, 49.42774	maulwůrf	m a u l w ů r f	maulworf	m a u l w o r f	1
+85	MH R5, MH R4	II_60_0042	Leimen, Leimen	8.68891, 49.34902	maulwurf	m a u l w u r f	maulworf	m a u l w o r f	1
+86	KST e2/1, KST e2/2	III_18_0036	Wiesloch, Wiesloch	8.70178, 49.29504	maulwurf	m a u l w u r f	maulwoof	m a u l w oo f	2
+87	KST e2/1, KST e2/2	III_18_0036	Wiesloch, Wiesloch	8.70178, 49.29504	maūlwurf	m a ū l w u r f	maulwoof	m a u l w oo f	3
+88	MH J12	II_59_0083	Altneudorf, Altneudorf	8.80481, 49.46366	mulberuf	m u l b e r u f	mulbruff	m u l b r u ff	2
+89	MH J12	II_59_0083	Altneudorf, Altneudorf	8.80481, 49.46366	mulberuf	m u l b e r u f	mulbaruff	m u l b a r u ff	2
+90	MH K1	II_59_0085	Brombach (bei Hirschhorn), Brombach	8.8675, 49.48863	mullbruff	m u ll b r u f f	mulberuf	m u l b e r u f	3
+91	MH K1	II_59_0085	Brombach (bei Hirschhorn), Brombach	8.8675, 49.48863	mullberuff	m u ll b e r u f f	mulberuf	m u l b e r u f	2

@@ -1,0 +1,8 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	TUTT f1	III_32_0032	Hartheim, Hartheim	8.93612, 48.15571	nagehhex	nagelhäxgeläx	6	nageheks	nagelheksgeleks	7	Nagelhex	Nagelhex	0
+1	TUTT f2	III_32_0038	Heinstetten, Heinstetten	8.96312, 48.13491	naggelhäx	nagelhäx	1	nagelheks	nagelheks	0	Nagelhex	Nagelhex	0
+2	TUTT f3	III_32_0041	Schwenningen, Schwenningen	8.99619, 48.10638	nagelhex	nagellex	1	nagelheks	nageleks	1	Nagelhex	Nagelhex	0
+3	TUTT g1	III_32_0042	Glashütte (Heuberg), Glashütte	9.03485, 48.1237	nagelhex	nagelhex	0	nagelheks	nagelheks	0	Nagelhex	Nagelhex	0
+4	TUTT g2	III_32_0043	Stetten a.k.M. (am kalten Markt), Stetten	9.07816, 48.12086	nagelhäx	nagelhex	1	nagelheks	nagelheks	0	Nagelhex	Nagelhex	0
+5	na	III_33_0008	Klengen	8.46686, 48.00388	na	nagelhex	999	na	nagelheks	999	na	Nagelhex	999
+6	na	III_36_0092	Mittelstenweiler	9.33753, 47.75241	na	nagelhex	999	na	nagelheks	999	na	Nagelhex	999

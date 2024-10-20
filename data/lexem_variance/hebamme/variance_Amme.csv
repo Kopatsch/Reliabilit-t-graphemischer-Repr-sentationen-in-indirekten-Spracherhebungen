@@ -1,0 +1,10 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_maurer_align	item_DWA	item_DWA_align	Levenshtein_item
+0	Ma h1/2	II_59_0061, II_59_0059, II_59_0040, II_59_0048	Mannheim, Mannheim	8.46678, 49.4865	amm	a mm	åmm	å mm	1
+1	MH z4/2	II_58_0065, II_58_0066	Mannheim-Käfertal, Käferthal	8.51715, 49.51259	amm	a mm	amme	a mm e	1
+2	MH H3	II_59_0069	Ilvesheim, Ilvesheim	8.56668, 49.47129	amm	a mm	amme	a mm e	1
+3	MH Q2	II_60_0035, II_60_0034	Schwetzingen, Schwetzingen	8.57064, 49.38567	åmm	å mm	amm	a mm	1
+4	KST g8	III_18_0058	Wollenberg, Wollenberg	9.03453, 49.29152	amm	a mm	amme	a mm e	1
+5	Ma h1/2	II_59_0061, II_59_0059, II_59_0040, II_59_0048	Mannheim, Mannheim	8.46678, 49.4865	amm	a mm	omm	o mm	1
+6	Ma h1/2	II_59_0061, II_59_0059, II_59_0040, II_59_0048	Mannheim, Mannheim	8.46678, 49.4865	amm	a mm	amme	a mm e	1
+7	Ma h1/2	II_59_0061, II_59_0059, II_59_0040, II_59_0048	Mannheim, Mannheim	8.46678, 49.4865	amm	a mm	åmm	å mm	1
+8	MH z4/2	II_58_0065, II_58_0066	Mannheim-Käfertal, Käferthal	8.51715, 49.51259	amm	a mm	amme	a mm e	1

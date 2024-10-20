@@ -1,0 +1,9 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Stra e 1	na	Otterstal	7.34837, 48.75567	gornischo͜n	na	999	gornischon	na	999	Cornichon	na	999
+1	Hag V 13	na	Dettweiler	7.46685, 48.75406	gornischu	na	999	gornischon	na	999	Cornichon	na	999
+2	Stra m 14	III_9_0021	Scharrachbergheim, Scharrachbergheim	7.49581, 48.593	gornischo	gornischo	0	gornischon	gornischon	0	Cornichon	Cornichon	0
+3	Stra Q 2	na	Witternheim	7.61297, 48.31375	kornischon	na	999	gornischon	na	999	Cornichon	na	999
+4	Stra f 5	na	Wingersheim	7.63371, 48.72198	gornischon	na	999	gornischon	na	999	Cornichon	na	999
+5	na	III_6_0047	Weinburg	7.44029, 48.87157	na	gornijon	999	na	gornischon	999	na	Cornichon	999
+6	na	III_12_0022	Saasenheim	7.61664, 48.23405	na	cornichon	999	na	gornischon	999	na	Cornichon	999
+7	na	III_10_0110	Fegersheim	7.67959, 48.4897	na	gonischo	999	na	gornischon	999	na	Cornichon	999

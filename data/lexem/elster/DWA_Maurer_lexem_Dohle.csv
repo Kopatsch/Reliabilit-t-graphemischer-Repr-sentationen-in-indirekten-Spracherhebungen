@@ -1,0 +1,6 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Co W 19	na	Lörrach	7.66409, 47.61258	dole	na	999	dole	na	999	Dohle	na	999
+1	MH S1	na	Dilsberg	8.8362, 49.39832	dōle	na	999	dole	na	999	Dohle	na	999
+2	SIG k2	na	Aftholderberg	9.2431, 47.89832	dohle	na	999	dole	na	999	Dohle	na	999
+3	STU XIII 1	na	(Bad) Schussenried	9.65803, 48.0041	dull	na	999	dul	na	999	Dohle	na	999
+4	na	II_59_0038	Mannheim	8.46678, 49.4865	na	dohle	999	na	dole	999	na	Dohle	999

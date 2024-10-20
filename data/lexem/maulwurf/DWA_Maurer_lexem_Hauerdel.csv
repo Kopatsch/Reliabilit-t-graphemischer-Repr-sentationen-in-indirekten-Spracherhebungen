@@ -1,0 +1,16 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	KST P1	III_22_0027, III_22_0026	Ispringen , Ispringen	8.66764, 48.91655	hauerdl	hauerdle, hauerdel	1	hauerdel	hauerdel	0	Hauerdel	Hauerdel	0
+1	KST P2	III_23_0030	Brötzingen, Pforzheim-Brötzingen	8.66799, 48.889	hauerdel	hauerdl	1	hauerdel	hauerdel	0	Hauerdel	Hauerdel	0
+2	KST H4	III_22_0025	Eisingen, Eisingen	8.66865, 48.94773	howärdel	howertl	3	howärdel	howerdel	1	Hauerdel	Hauerdel	0
+3	KST P7	III_23_0057	Huchenfeld, Huchenfeld	8.69574, 48.85613	hauhärle	hauhärle	0	hauhärle	hauhärle	0	Hauerdel	Hauerdel	0
+4	KST H2	III_22_0031, III_22_0032	Bauschlott, Bauschlott	8.72785, 48.97051	howērdl	howerdl, howerdel	1	howerdel	howerdel	0	Hauerdel	Hauerdel	0
+5	KST P8	III_23_0058	Würm, Würm	8.73641, 48.86041	hauerdel	hauerdl	1	hauerdel	hauerdel	0	Hauerdel	Hauerdel	0
+6	KST P4	na	Eutingen	8.74574, 48.91069	hauertèl	na	999	hauerdel	na	999	Hauerdel	na	999
+7	KST H6	III_22_0035	Kieselbronn, Kieselbronn	8.75287, 48.93453	hauerdel	hauerdl	1	hauerdel	hauerdel	0	Hauerdel	Hauerdel	0
+8	KST H5	III_22_0034	Dürrn, Dürrn	8.75615, 48.95653	hauerdel	hauerdel	0	hauerdel	hauerdel	0	Hauerdel	Hauerdel	0
+9	KST H7	na	Niefern	8.77601, 48.91977	hauerdel	na	999	hauerdel	na	999	Hauerdel	na	999
+10	KST P5	III_23_0035	Öschelbronn, Öschelbronn	8.81415, 48.90599	howārdl	hauerdl, howärdl	1	howardel	howärdel, hauerdel	1	Hauerdel	Hauerdel	0
+11	KST W6	III_24_0035	Lehningen, Lehningen	8.81639, 48.79486	howärdel	havertel	4	howärdel	hawerdel	2	Hauerdel	Hauerdel	0
+12	na	III_23_0021	Ellmendingen	8.5761, 48.90131	na	hauērde	999	na	hauerdel	999	na	Hauerdel	999
+13	na	III_23_0015	Dietlingen	8.60093, 48.89654	na	hauärdl	999	na	hauärdel	999	na	Hauerdel	999
+14	na	III_23_0044, III_23_0040, III_23_0053, III_23_0050	Pforzheim	8.70025, 48.89013	na	hauerdl, hauerdel, hawirdl	999	na	hawirdel, hauerdel	999	na	Hauerdel	999

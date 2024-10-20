@@ -1,0 +1,912 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Co D4	na	Kirchberg-Wegscheid	6.95965, 47.79904	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+1	Hag E 6/1	na	Saarbuckenheim (Sarre-Union)	7.08686, 48.93919	stecknå̄del	na	999	schteknådel	na	999	Stecknadel	na	999
+2	Co E5	na	Rodern	7.0877, 47.77839	sticknodle	na	999	schtiknodle	na	999	Stecknadel	na	999
+3	Hag x 1	na	Silzheim (Siltzheim)	7.09071, 49.0616	stecknadel	na	999	schteknadel	na	999	Stecknadel	na	999
+4	Co E6	III_14_0093	Leimbach, Leimbach	7.09999, 47.79305	schdecknodla	stecknodla	3	schteknodla	schteknodla	0	Stecknadel	Stecknadel	0
+5	Co T6	na	Dammerkirch (Dannemarie)	7.1214, 47.63024	stecknoodla	na	999	schteknodla	na	999	Stecknadel	na	999
+6	Hag E 4	na	Rimsdorf	7.12568, 48.92923	stecknoddel	na	999	schteknodel	na	999	Stecknadel	na	999
+7	Hag M 4	na	Tal bei Drulingen (Thal-Drulingen)	7.1452, 48.90983	schdecknādel	na	999	schteknadel	na	999	Stecknadel	na	999
+8	Hag F 3	III_5_0044	Ratzweiler (Ratzwiller), Ratzweiler	7.23978, 48.95501	stecknådel	stecknādel	1	schteknådel	schteknadel	1	Stecknadel	Stecknadel	0
+9	Co y 8	na	Bollweiler (Bollwiller)	7.25961, 47.86006	stecknådel	na	999	schteknådel	na	999	Stecknadel	na	999
+10	Stra l 3	III_9_0005	Engental, Engental	7.30153, 48.63467	stecknodel, stecknoudel	schteggnodel, schteggnondel	4	schteknoudel, schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+11	Stra z 1/2	na	Grendelbruch	7.32375, 48.49241	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+12	Hag O 3	na	Zittersheim	7.34551, 48.89955	stecknådl	na	999	schteknådl	na	999	Stecknadel	na	999
+13	Hag O 4	III_6_0037	Erkartsweiler (Erckartswiller), Erkartsweiler	7.3596, 48.87532	stecknädel	stecknädel	0	schteknädel	schteknädel	0	Stecknadel	Stecknadel	0
+14	Co l 1/1, Co l 1/2	na	Kolmar (/Hausen an der Möhlin), Kolmar	7.36359, 48.08198	schtecknōdl, stecknōdel	na	999	schteknodl, schteknodel	na	999	Stecknadel	na	999
+15	Stra e 2/2	III_8_0029	Zabern, Zabern	7.36605, 48.73948	stecknodel	stecknodel, stecknadel	0	schteknodel	schteknadel, schteknodel	0	Stecknadel	Stecknadel	0
+16	Co G6	na	Baldersheim	7.37806, 47.80152	stecknudel	na	999	schteknudel	na	999	Stecknadel	na	999
+17	Stra m 3/2	na	Singrist	7.38757, 48.6705	stecknōdel	na	999	schteknodel	na	999	Stecknadel	na	999
+18	Stra e 18	na	Reutenburg	7.4064, 48.68515	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+19	Hag O 2	III_6_0038	Wimmenau, Wimmenau	7.41957, 48.91035	stecknodel	stegnodel	2	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+20	Stra H 12	III_11_0021	Ittersweiler (Itterswiller), Ittersweiler	7.4322, 48.36386	stecknodel	stecknadel	1	schteknodel	schteknadel	1	Stecknadel	Stecknadel	0
+21	Stra t 2/1	na	Bergbieten	7.45869, 48.57632	steknădel	na	999	schteknadel	na	999	Stecknadel	na	999
+22	Hag G 3	III_5_0058	Reipertsweiler (Reipertswiller), Reipertsweiler	7.46373, 48.93214	stecknodel	stecknadel	1	schteknodel	schteknadel	1	Stecknadel	Stecknadel	0
+23	Stra n 1	III_9_0037	Winzenheim (Wintzenheim-Kochersberg), Winzenheim	7.51469, 48.65916	schtecknudel	stecknudel	2	schteknudel	schteknudel	0	Stecknadel	Stecknadel	0
+24	Co P1	na	Kleinlandau (Petit-Landau)	7.52082, 47.73028	stäcknodla	na	999	schteknodla	na	999	Stecknadel	na	999
+25	Hag P 17	na	Schillersdorf	7.52526, 48.87312	stecknådel	na	999	schteknådel	na	999	Stecknadel	na	999
+26	Hag W 14	na	Wickersheim	7.53159, 48.78313	schdecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+27	Stra X 2	na	Baldenheim	7.53925, 48.23746	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+28	Co H2	na	Neuenburg (am Rhein)	7.56012, 47.81393	stecknadel	na	999	schteknadel	na	999	Stecknadel	na	999
+29	Co A9	na	Grißheim (Grissheim)	7.59238, 47.87313	stecknodlä	na	999	schteknodle	na	999	Stecknadel	na	999
+30	Stra n 15	na	Hürtigheim	7.59369, 48.6152	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+31	Stra n 17	III_9_0031	Ittenheim, Ittenheim	7.59542, 48.60404	stecknodel	stecknodel	0	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+32	Co P3	na	Liel	7.604, 47.73928	schtecknodle	na	999	schteknodle	na	999	Stecknadel	na	999
+33	Hag P 19	na	Pfaffenhofen -Volksberg	7.60881, 48.84422	schdecknůdel	na	999	schteknudel	na	999	Stecknadel	na	999
+34	Co P6	III_15_0057	Tannenkirch, Tannenkirch	7.6103, 47.71116	stecknodle	stecknodle	0	schteknodle	schteknodle	0	Stecknadel	Stecknadel	0
+35	Stra X 6	na	Saasenheim	7.61664, 48.23405	schtecknudel	na	999	schteknudel	na	999	Stecknadel	na	999
+36	Co A8	III_14_0044	Bremgarten (Hartheim), Bremgarten	7.62385, 47.91694	stecknodle	stecknodle	0	schteknodle	schteknodle	0	Stecknadel	Stecknadel	0
+37	Hag W 2	na	Morschweiler	7.62689, 48.81972	stecknōdel	na	999	schteknodel	na	999	Stecknadel	na	999
+38	Hag W 8	na	Hüttendorf	7.64259, 48.80222	schdecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+39	Co m 3	III_13_0038	Ihringen, Ihringen	7.64554, 48.04572	stecknōdle	stecknodla	2	schteknodle	schteknodla	1	Stecknadel	Stecknadel	0
+40	Hag W 1	na	Dauendorf	7.65509, 48.82974	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+41	Stra f 8	na	Bilwisheim	7.65824, 48.70895	schtecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+42	Stra C 1/2, Stra C 1/1	na	Fegersheim	7.67959, 48.4897	stecknudel	na	999	schteknudel	na	999	Stecknadel	na	999
+43	Stra g 1	na	Krautweiler	7.68667, 48.73776	stecknodl	na	999	schteknodl	na	999	Stecknadel	na	999
+44	Co u 1/2	na	Biengen	7.68958, 47.93875	stecknadel	na	999	schteknadel	na	999	Stecknadel	na	999
+45	Co B4	III_14_0049	Ballrechten-Dottingen, Ballrechten	7.70076, 47.86061	stecknodel	stecknodle	2	schteknodel	schteknodle	2	Stecknadel	Stecknadel	0
+46	Stra Y 2	na	Oberhausen	7.71048, 48.22667	sticknodel	na	999	schtiknodel	na	999	Stecknadel	na	999
+47	Stra v 4	na	Illkirch-Grafenstaden	7.71183, 48.5288	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+48	Co u 3	na	Offnadingen	7.71217, 47.93434	stegnoadl	na	999	schteknoadl	na	999	Stecknadel	na	999
+49	Hag B 1	na	Wengelsbach	7.71622, 49.05104	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+50	Hag Q 2	III_6_0070	Eberbach , Eberbach	7.71711, 48.91154	schtecknodl	stecknodel	3	schteknodl	schteknodel	1	Stecknadel	Stecknadel	0
+51	Co u 5	III_13_0136	Norsingen, Norsingen	7.72683, 47.93837	stecknoadl	stecknodle	2	schteknådl	schteknodle	2	Stecknadel	Stecknadel	0
+52	Co B9	na	Staufen (bei Freiburg)	7.72962, 47.88166	schdecknadle	na	999	schteknadle	na	999	Stecknadel	na	999
+53	Stra o 8	na	Suffelweyersheim	7.74147, 48.6355	schtecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+54	Co X 8	III_16_0099	Höllstein, Höllstein	7.74574, 47.63943	schtecknōdlĕ	schtecknoodlä	3	schteknodle	schteknodle	0	Stecknadel	Stecknadel	0
+55	Co B12	na	Ehrenstetten	7.75208, 47.91557	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+56	Stra K 2	III_11_0042	Ottenheim, Ottenheim	7.75477, 48.38593	stäcknodel	stecknodl	2	schteknodel	schteknodl	1	Stecknadel	Stecknadel	0
+57	Stra R 4	na	Wittenweier	7.75888, 48.32591	stecknōdel	na	999	schteknodel	na	999	Stecknadel	na	999
+58	Hag J 2	III_5_0071	Mattstall, Mattstall	7.7613, 48.98757	stecknodl	stecknodl	0	schteknodl	schteknodl	0	Stecknadel	Stecknadel	0
+59	Co u 8	na	Schallstadt	7.76422, 47.959	sdeknōdle	na	999	schteknodle	na	999	Stecknadel	na	999
+60	Stra Y 13	na	Kenzingen	7.77005, 48.19298	stecknōdle	na	999	schteknodle	na	999	Stecknadel	na	999
+61	Co u 9	III_13_0140	Ebringen, Ebringen	7.77981, 47.95761	stecknodle	stecknadel	3	schteknodle	schteknadel	3	Stecknadel	Stecknadel	0
+62	Co B7	na	Untermünstertal-Ziegelplatz (Untermünstertal)	7.78649, 47.85518	stecknodle	na	999	schteknodle	na	999	Stecknadel	na	999
+63	Co Xa 3	III_17_0045, III_17_0046, III_17_0044	Rheinfelden-Stadt (Baden), Rheinfelden	7.78875, 47.55945	stecknådl, stecknådel	stecknodel, stecknodle	1	schteknådel	schteknodel, schteknodle	1	Stecknadel	Stecknadel	0
+64	Co Q6	na	Tegernau	7.79638, 47.72037	stecknodle	na	999	schteknodle	na	999	Stecknadel	na	999
+65	Stra Y 9	na	Wagenstadt	7.79647, 48.20762	schdecknodle	na	999	schteknodle	na	999	Stecknadel	na	999
+66	Stra C 6	III_10_0115	Dundenheim, Dundenheim	7.81569, 48.44904	stecknodel	stecknodl	1	schteknodel	schteknodl	1	Stecknadel	Stecknadel	0
+67	Stra K 3	III_11_0043	Kürzell, Kürzell	7.81571, 48.38829	stecknodel	stecknodel	0	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+68	Co u 11	na	Merzhausen	7.82532, 47.96635	stecknodle	na	999	schteknodle	na	999	Stecknadel	na	999
+69	Stra K 9	na	Langenwinkel	7.82557, 48.3325	stēcknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+70	Stra D 16	III_10_0134	Müllen, Müllen	7.83364, 48.46521	stecknodel	stecknodel	0	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+71	Co R8	na	Adelsberg	7.83666, 47.71725	schdegnodle	na	999	schteknodle	na	999	Stecknadel	na	999
+72	Stra w 1	III_10_0049	Neumühl, Neumühl	7.84392, 48.57012	stecknodel	schdecknodel	3	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+73	Co g 1	na	Emmendingen	7.84951, 48.1209	stecknodle	na	999	schteknodle	na	999	Stecknadel	na	999
+74	Co v 9	na	Horben	7.85911, 47.93223	schtecknodle	na	999	schteknodle	na	999	Stecknadel	na	999
+75	Stra p 11	III_9_0080	Querbach, Querbach	7.86754, 48.58924	stecknodl	stecknodl	0	schteknodl	schteknodl	0	Stecknadel	Stecknadel	0
+76	Co R1	na	Pfaffenberg	7.86972, 47.73452	schdeknådle	na	999	schteknådle	na	999	Stecknadel	na	999
+77	Hag K 20	na	Drachenbronn	7.87037, 48.98626	schtegnodel	na	999	schteknodel	na	999	Stecknadel	na	999
+78	Co R6	III_15_0077	Atzenbach, Atzenbach <+ Riedichen>	7.8735, 47.71532	stecknådle	stecknodel	3	schteknådle	schteknodel	3	Stecknadel	Stecknadel	0
+79	Hag K 16	na	Retschweiler (Retschwiller)	7.87838, 48.95025	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+80	Co g 9	na	Maleck	7.88416, 48.12924	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+81	Hag R 2	na	Reimersweiler	7.88417, 48.9137	schdēgnādel	na	999	schteknadel	na	999	Stecknadel	na	999
+82	Stra D 17	III_10_0131, III_10_0133	Schutterwald, Schutterwald	7.88679, 48.45347	stecknodl	stecknodel	1	schteknodl	schteknodel	1	Stecknadel	Stecknadel	0
+83	Stra L 6	na	Oberweier	7.89815, 48.37746	schtecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+84	Co o 12	na	Heuweiler	7.9028, 48.0513	stecknōͦdle	na	999	schteknodle	na	999	Stecknadel	na	999
+85	Co v 1	na	Littenweiler	7.90338, 47.97778	schtecknådle	na	999	schteknådle	na	999	Stecknadel	na	999
+86	Co o 11	na	Buchholz i.Br.	7.91201, 48.08253	stecknodle	na	999	schteknodle	na	999	Stecknadel	na	999
+87	Hag C 1	III_4_0100	Weißenburg-Weiler, Weissenburg-Weiler	7.91271, 49.0377	stecknŏdel	schtecknodl	4	schteknodel	schteknodl	1	Stecknadel	Stecknadel	0
+88	Hag R 6	na	Niederbetschdorf	7.91693, 48.8985	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+89	Stra D 3	III_10_0130	Weier, Weier	7.91766, 48.49812	stecknodel	stecknodl	1	schteknodel	schteknodl	1	Stecknadel	Stecknadel	0
+90	Hag C 5	na	Oberhoffen-lès-Wissembourg	7.91832, 49.01679	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+91	Co o 3	na	Föhrental (Föhrenthal)	7.92468, 48.0349	schdegnodla	na	999	schteknodla	na	999	Stecknadel	na	999
+92	Co R11	na	Gersbach	7.93271, 47.69725	schdecknodle	na	999	schteknodle	na	999	Stecknadel	na	999
+93	Co v 8	III_13_0150	Oberried, Oberried	7.94506, 47.93146	schteknodle	schtecknodle	1	schteknodle	schteknodle	0	Stecknadel	Stecknadel	0
+94	Hag K 9	III_5_0103	Leitersweiler (Leiterswiller), Leitersweiler	7.94768, 48.92407	stecknådel	stecknådel	0	schteknådel	schteknådel	0	Stecknadel	Stecknadel	0
+95	Stra D 5	na	Bohlsbach	7.94796, 48.49264	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+96	Hag C 2	III_4_0094, III_4_0093	Weißenburg (Wissembourg), Weißenburg	7.9521, 49.03733	stecknådel	stecknadel	1	schteknådel	schteknadel	1	Stecknadel	Stecknadel	0
+97	Co g 2	III_12_0139	Waldkirch, Waldkirch	7.96049, 48.09361	stecknodle	stecknadel	3	schteknodle	schteknadel	3	Stecknadel	Stecknadel	0
+98	Stra D 11	III_10_0123	Ortenberg, Ortenberg	7.97048, 48.45192	stecknodl	stecknodl	0	schteknodl	schteknodl	0	Stecknadel	Stecknadel	0
+99	Stra D 10	na	Fessenbach	7.97963, 48.46469	schtecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+100	Stra w 5	na	Appenweier	7.98009, 48.53996	schtecknōdl	na	999	schteknodl	na	999	Stecknadel	na	999
+101	Stra D 9	III_10_0125	Zell-Weierbach (Weierbach), Zell-Weierbach	7.98174, 48.47408	stecknodel	stecknadel	1	schteknodel	schteknadel	1	Stecknadel	Stecknadel	0
+102	Co g 16	III_12_0142	Gutach, Gutach	7.98722, 48.11814	stecknodle	stecknodle	0	schteknodle	schteknodle	0	Stecknadel	Stecknadel	0
+103	Hag K 4	na	Oberseebach	7.98947, 48.9672	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+104	TUTT p5	na	Falkensteig	7.99689, 47.94697	schdecknådlä	na	999	schteknådle	na	999	Stecknadel	na	999
+105	TÜB h8	III_9_0097	Renchen, Renchen	8.01285, 48.58724	stecknodel	stecknodl	1	schteknodel	schteknodl	1	Stecknadel	Stecknadel	0
+106	TÜB h1/2	III_9_0103	Gamshurst, Gamshurst	8.0187, 48.66413	stecknådel	stecknodel	1	schteknådel	schteknodel	1	Stecknadel	Stecknadel	0
+107	TÜB p12	III_10_0068	Nussbach, Nussbach	8.02103, 48.53543	stecknodel	stecknodel	0	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+108	TÜB h7	na	Önsbach	8.03279, 48.60579	schdeggnodel	na	999	schteknodel	na	999	Stecknadel	na	999
+109	TÜB p10	III_10_0077	Bottenau/Oberkirch, Bottenau	8.04409, 48.5298	stecknadel	stecknodel	1	schteknadel	schteknodel	1	Stecknadel	Stecknadel	0
+110	TUTT a4	na	Simonswald	8.04838, 48.10278	schtecknōdle	na	999	schteknodle	na	999	Stecknadel	na	999
+111	TÜB p1	III_10_0072	Ulm Kr. Offenburg, Ulm	8.05069, 48.57993	stecknodel	stegnodel	2	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+112	TÜB w5	III_10_0140	Haigerach, Haigerach	8.05467, 48.42157	stecknådel	stecknodl	2	schteknådel	schteknodl	2	Stecknadel	Stecknadel	0
+113	TÜB p2	III_10_0073	Haslach, Haslach	8.05661, 48.56552	stecknodle	stecknodel	2	schteknodle	schteknodel	2	Stecknadel	Stecknadel	0
+114	TÜB a4	na	Hildmannsfeld	8.05893, 48.73423	stecknadel	na	999	schteknadel	na	999	Stecknadel	na	999
+115	TÜB p3	na	Tiergarten	8.06377, 48.55715	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+116	KST D14	na	Eberbach-Selz	8.06718, 48.92481	stecknodl	na	999	schteknodl	na	999	Stecknadel	na	999
+117	TUTT D1	III_14_0170	Menzenschwand, Merzenschwand	8.07059, 47.81749	stecknodel	schtecknodel	2	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+118	TUTT S10	na	Rotzingen	8.0762, 47.66588	stecknodla	na	999	schteknodla	na	999	Stecknadel	na	999
+119	TÜB h10	III_9_0099	Oberachern, Oberachern	8.08066, 48.6193	stecknodl	stecknodel	1	schteknodl	schteknodel	1	Stecknadel	Stecknadel	0
+120	TÜB h3	III_9_0089	Sasbachried, Sasbachried	8.08648, 48.65688	stecknodel	stecknodel	0	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+121	TÜB a6	na	Oberbruch	8.08775, 48.72893	stecknadel	na	999	schteknadel	na	999	Stecknadel	na	999
+122	TÜB p4	na	Ringelbach	8.08834, 48.55764	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+123	TÜB D4/2	na	Unterharmersbach	8.08843, 48.35461	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+124	TUTT h7	na	Obersimonswald	8.09331, 48.0797	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+125	TÜB a7	III_8_0105	Balzhofen, Balzhofen	8.09765, 48.71247	stecknadl	stecknodel	2	schteknadl	schteknodel	2	Stecknadel	Stecknadel	0
+126	KST L3	III_6_0088	Schaffhausen (Schaffhouse-près-Selz), Schaffhausen	8.10006, 48.9087	stecknudel	stecknadel	1	schteknudel	schteknadel	1	Stecknadel	Stecknadel	0
+127	TUTT w6	III_14_0074	Altglashütten, Altglashütten	8.11016, 47.85701	stecknodel	stecknodle	2	schteknodel	schteknodle	2	Stecknadel	Stecknadel	0
+128	TÜB S6	III_12_0064, III_12_0063	Oberprechtal, Oberprechtal	8.12114, 48.20548	schdecknodel	schdegnodle, schtecknaᵒdle	4	schteknodel	schteknådle, schteknodle	2	Stecknadel	Stecknadel	0
+129	TÜB h14	na	Sasbachwalden	8.12201, 48.62035	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+130	TUTT w4	na	Falkau	8.12453, 47.8699	stecknoͣdle	na	999	schteknodle	na	999	Stecknadel	na	999
+131	TÜB h12	na	Lauf	8.12648, 48.65317	stecknôdel	na	999	schteknodel	na	999	Stecknadel	na	999
+132	TÜB p7, TÜB p6	na	Furschenbach und Ottenhöfen, Furschenbach	8.13639, 48.5767	stecknodel, schtecknoͦdel	na	999	schteknodel	na	999	Stecknadel	na	999
+133	TUTT h6	na	Gütenbach	8.13807, 48.04398	stecknådle	na	999	schteknådle	na	999	Stecknadel	na	999
+134	TÜB w3	III_10_0078	Ramsbach, Ramsbach	8.14144, 48.49573	stecknodel	schteknodel	3	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+135	TÜB h13	III_9_0095, III_9_0096	Neusatz , Neusatz	8.14904, 48.65879	schdeggnodel	schdegnodel	1	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+136	KST L6	na	Ottersdorf	8.15398, 48.86103	schdecknådl	na	999	schteknådel	na	999	Stecknadel	na	999
+137	TUTT a5	na	Rohrhardsberg	8.16036, 48.1327	stecknodle	na	999	schteknodle	na	999	Stecknadel	na	999
+138	KST S12	na	Sinzheim bei Winden	8.16564, 48.76405	stecknadel	na	999	schteknadel	na	999	Stecknadel	na	999
+139	TUTT T6	na	Dogern	8.17239, 47.60884	schĕggnao̅dle	na	999	scheknaodle	na	999	Stecknadel	na	999
+140	TUTT x3	na	Saig	8.17667, 47.89199	stecknoͦdle	na	999	schteknodle	na	999	Stecknadel	na	999
+141	KST T13	na	Sinzheim-Vormberg-Ebenung	8.18209, 48.7552	stecknadel	na	999	schteknadel	na	999	Stecknadel	na	999
+142	TÜB b9	III_8_0112, III_8_0113	Bühlertal-Hof, Bühlertal-Hof, Bühlertal	8.19194, 48.68215	stecknoͣdel	stecknodel, stecknodl	1	schteknodel	schteknodl, schteknodel	0	Stecknadel	Stecknadel	0
+143	KST M10/2, KST M10/1	na	Rastatt	8.20142, 48.8573	stecknodel, steggnadel	na	999	schteknadel, schteknodel	na	999	Stecknadel	na	999
+144	TÜB E4	na	Oberwolfach	8.21698, 48.3174	stecknadel	na	999	schteknadel	na	999	Stecknadel	na	999
+145	TÜB T2	III_12_0073	Reichenbach, Reichenbach	8.22958, 48.21343	stecknodle	stecknadle	1	schteknodle	schteknadle	1	Stecknadel	Stecknadel	0
+146	KST M3	na	Ötigheim	8.23212, 48.89333	stecknole	na	999	schteknole	na	999	Stecknadel	na	999
+147	TUTT q8	III_13_0161	Rudenberg, Rudenberg	8.23807, 47.9196	stecknodle	schdecknodle	3	schteknodle	schteknodle	0	Stecknadel	Stecknadel	0
+148	TUTT T1	na	Weilheim	8.24051, 47.65862	stecknodle	na	999	schteknodle	na	999	Stecknadel	na	999
+149	KST T14/3, KST T14/1, KST T14/4	III_7_0131	Baden-Baden, Baden-Baden-West, Baden-Baden , Baden-Baden Weststadt	8.24094, 48.76273	schdeggnådl, stecknådel	stecknadel	1	schteknådel	schteknadel	1	Stecknadel	Stecknadel	0
+150	TÜB M8	III_11_0154	Kirnbach, Kirnbach	8.24598, 48.26194	schtecknodle	stecknodle	2	schteknodle	schteknodle	0	Stecknadel	Stecknadel	0
+151	KST M8	na	Rauental	8.24794, 48.8572	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+152	TÜB M2	III_11_0148	Langenbach, Langenbach	8.25164, 48.3205	stecknådel	stecknodel	1	schteknådel	schteknodel	1	Stecknadel	Stecknadel	0
+153	TUTT q7	III_14_0075	Friedenweiler, Friedenweiler	8.25483, 47.91602	stecknodle	stecknodle	0	schteknodle	schteknodle	0	Stecknadel	Stecknadel	0
+154	TÜB b2/2	na	Lichtent(h)al	8.2614, 48.74458	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+155	TÜB T3	na	Schwanenbach (Reichenbach)	8.26562, 48.1922	steckna͜͞odl	na	999	schteknaodl	na	999	Stecknadel	na	999
+156	KST E2	na	Neuburgweier	8.26776, 48.96981	schdeggnoddel	na	999	schteknodel	na	999	Stecknadel	na	999
+157	KST E5	na	Durmersheim	8.2685, 48.93129	schtecknōdl	na	999	schteknodl	na	999	Stecknadel	na	999
+158	TÜB M9	III_11_0151	Halbmeil, Halbmeil	8.27063, 48.29042	stecknodel	stecknodel	0	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+159	KST T2	na	Oberndorf	8.27573, 48.82868	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+160	TÜB M1	III_11_0149	Sankt Roman, St. Roman	8.2924, 48.33187	stecknådel	stecknodel	1	schteknådel	schteknodel	1	Stecknadel	Stecknadel	0
+161	TUTT q5	na	Bubenbach	8.29595, 47.96531	stecknodle	na	999	schteknodle	na	999	Stecknadel	na	999
+162	KST T3	na	(Bad) Rotenfels (Ortsteil von Gaggenau)	8.30895, 48.81087	stecknadl	na	999	schteknadl	na	999	Stecknadel	na	999
+163	TUTT T13	III_16_0165	Oberlauchringen, Oberlauchringen	8.32685, 47.62036	stecknodel	stecknadel	1	schteknodel	schteknadel	1	Stecknadel	Stecknadel	0
+164	KST N1	III_6_0100, III_6_0102, III_6_0101	Malsch, Malsch	8.3345, 48.88047	stecknodel	schtecknodel, schtecknadel	2	schteknodel	schteknadel, schteknodel	0	Stecknadel	Stecknadel	0
+165	TÜB N2	III_30_0008	Schiltach, Schiltach	8.34259, 48.29033	schdecknådl	schtecknoadl	3	schteknådel	schteknoadl	3	Stecknadel	Stecknadel	0
+166	TÜB k1	III_26_0001	Raumünzach, Raumänzach	8.34869, 48.63918	stecknådel	stecknädel	1	schteknådel	schteknädel	1	Stecknadel	Stecknadel	0
+167	KST U1	III_24_0001	Michelbach, Michelbach	8.35062, 48.8186	schdegnådl	stecknodl	6	schteknådel	schteknodl	2	Stecknadel	Stecknadel	0
+168	TÜB c2	na	Weisenbach	8.35397, 48.72827	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+169	KST y 7	na	Karlsruhe-Grünwinkel	8.35529, 49.0032	schdeggnodl	na	999	schteknodel	na	999	Stecknadel	na	999
+170	TÜB c7	na	Gausbach	8.36067, 48.68405	stecknoadel	na	999	schteknoadel	na	999	Stecknadel	na	999
+171	TÜB c4	na	Au im Murgtal	8.36129, 48.72172	schtecknoddel	na	999	schteknodel	na	999	Stecknadel	na	999
+172	TÜB c5	na	Langenbrand	8.36334, 48.70441	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+173	KST F13	III_22_0002	Bruchhausen bei Ettlingen, Bruchhausen	8.371, 48.92716	schdecknoddel	stecknoddl	4	schteknodel	schteknodl	1	Stecknadel	Stecknadel	0
+174	TÜB N1	III_30_0007	Schenkenzell, Schenkenzell	8.37253, 48.31105	stecknodel	stecknodel	0	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+175	KST F1	na	Karlsruhe-Beiertheim	8.37277, 48.9907	schdecknōdl	na	999	schteknodel	na	999	Stecknadel	na	999
+176	TUTT c2	III_32_0002	Peterzell, Peterzell	8.37425, 48.13255	schtecknodel	stecknodle	4	schteknodel	schteknodle	2	Stecknadel	Stecknadel	0
+177	KST y 10	na	Neureut	8.37902, 49.05267	schdecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+178	KST F2	III_22_0001	Bulach, Bulach	8.38244, 48.9868	stegnodl	schdeggnoddl	5	schteknodl	schteknodel	1	Stecknadel	Stecknadel	0
+179	TUTT F13	na	Dillendorf	8.40272, 47.79846	stecknodle	na	999	schteknodle	na	999	Stecknadel	na	999
+180	TUTT y10	III_35_0005	Unadingen, Unadingen	8.40711, 47.88128	stecknodl	stecknadel	2	schteknodl	schteknadel	2	Stecknadel	Stecknadel	0
+181	KST r2	III_20_0004	Hochstetten, Hochstetten	8.41566, 49.13702	stecknodel	stecknodel	0	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+182	TUTT r2	na	Wolterdingen	8.42701, 47.96861	stecknodle	na	999	schteknodle	na	999	Stecknadel	na	999
+183	TUTT y9	na	Döggingen	8.43444, 47.8919	schdecknodla	na	999	schteknodla	na	999	Stecknadel	na	999
+184	TUTT U7	na	Riedern am Sand (im SprachGIS: Unter Riedern)	8.4462, 47.6245	stecknoedl	na	999	schteknoedl	na	999	Stecknadel	na	999
+185	Ma f1/2	na	Mannheim-Sandhofen	8.44789, 49.5433	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+186	KST N11	III_23_0013	Schielberg, Schielberg	8.44945, 48.84311	stecknoddel	stecknaddel	1	schteknodel	schteknadel	1	Stecknadel	Stecknadel	0
+187	KST F4	na	Wolfartsweier	8.45219, 48.97443	stegnodle	na	999	schteknodle	na	999	Stecknadel	na	999
+188	KST k2	III_19_0005	Philippsburg, Philippsburg	8.45298, 49.235	schdecknodel	schtecknodl	2	schteknodel	schteknodl	1	Stecknadel	Stecknadel	0
+189	KST y 3	na	Hagsfeld	8.45514, 49.02773	stecknadel	na	999	schteknadel	na	999	Stecknadel	na	999
+190	TUTT U6	na	Weisweil	8.45797, 47.64517	stecknodle	na	999	schteknodle	na	999	Stecknadel	na	999
+191	TUTT c5	na	Neuhausen	8.45905, 48.13221	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+192	KST F5	na	Karlsruhe-Aue	8.46138, 48.9881	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+193	TUTT F8	III_36_0149	Weizen, Weizen	8.46354, 47.77888	schdegchnoͦ̅dle	stecknodel	9	schtekchnodle	schteknodel	4	Stecknadel	Stecknadel	0
+194	TUTT U8	III_38_0012	Bühl, Bühl	8.4644, 47.61616	stecknodle	stecknodle	0	schteknodle	schteknodle	0	Stecknadel	Stecknadel	0
+195	KST F8	na	Grünwettersbach	8.46671, 48.95784	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+196	TUTT k5	na	Klengen	8.46686, 48.00388	schdeckno̰del	na	999	schteknodel	na	999	Stecknadel	na	999
+197	TUTT c7	III_32_0008	Obereschach, Obereschach	8.46928, 48.10596	stecknade	schtecknoadle	4	schteknade	schteknoadle	2	Stecknadel	Stecknadel	0
+198	KST c1	III_18_0010	Rheinhausen, Rheinhausen	8.47341, 49.28141	schdĕ̠gnōdl	stecknadel	8	schteknodel	schteknadel	1	Stecknadel	Stecknadel	0
+199	Ma h1/1	na	Siedlung Schönau (Mannheim)	8.47602, 49.54338	stecknodl	na	999	schteknodl	na	999	Stecknadel	na	999
+200	Ma f2	na	Mannheim-Waldhof (Luzenberg)	8.47981, 49.52527	stecknodl	na	999	schteknodl	na	999	Stecknadel	na	999
+201	Ma h2/2, Ma h2/1	II_59_0064	Neckarau, Mannheim-Neckarau, Mannheim	8.49104, 49.45335	stecknodel, stecknådl	stecknodel	0	schteknådl, schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+202	TUTT c6	na	Schabenhausen	8.49251, 48.1303	stecknodl	na	999	schteknodl	na	999	Stecknadel	na	999
+203	MH za1	na	Mannheim-Gartenstadt	8.50016, 49.5305	stecknodl	na	999	schteknodl	na	999	Stecknadel	na	999
+204	MH z4/2	na	Mannheim-Käfertal	8.51715, 49.51259	schdeggnoodel	na	999	schteknodel	na	999	Stecknadel	na	999
+205	KST d8	III_18_0016	Waghäusel, Waghäusel	8.51733, 49.25118	stecknodl	stecknodl	0	schteknodl	schteknodl	0	Stecknadel	Stecknadel	0
+206	KST d3	III_18_0017	Neulußheim, Neulußheim	8.522, 49.29291	stecknodl	stecknodl	0	schteknodl	schteknodl	0	Stecknadel	Stecknadel	0
+207	KST z6	III_21_0015, III_21_0014	Berghausen, Berghausen	8.52712, 49.00389	schdeggnoddel	steggnoddl, steggnoddel	3	schteknodel	schteknodl, schteknodel	0	Stecknadel	Stecknadel	0
+208	MH H10/2	na	Mannheim-Rheinau	8.53056, 49.4292	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+209	TUTT z8	na	Blumberg	8.53265, 47.83981	stecknodle	na	999	schteknodle	na	999	Stecknadel	na	999
+210	KST G6	na	Mutschelbach	8.53428, 48.94409	stecknoddel	na	999	schteknodel	na	999	Stecknadel	na	999
+211	MH Q1	II_60_0032	Brühl, Brühl	8.53485, 49.3951	stecknodel	schteggnodl	5	schteknodel	schteknodl	1	Stecknadel	Stecknadel	0
+212	KST s3	na	Karlsdorf	8.54164, 49.1363	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+213	KST d1	na	Hockenheim	8.54755, 49.31857	stecknodl	na	999	schteknodl	na	999	Stecknadel	na	999
+214	MH H1	na	Wennheim-Wallstadt	8.5484, 49.4957	schteggnodel	na	999	schteknodel	na	999	Stecknadel	na	999
+215	KST l2	na	Kirrlach	8.54938, 49.24183	schdecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+216	KST s8	III_20_0022, III_20_0021	Untergrombach, Untergrombach	8.55318, 49.0861	stecknodel	stecknodl, stecknadel	1	schteknodel	schteknadel, schteknodl	1	Stecknadel	Stecknadel	0
+217	MH H3	II_59_0069	Ilvesheim, Ilvesheim	8.56668, 49.47129	stecknodl	stecknadel	2	schteknodl	schteknadel	2	Stecknadel	Stecknadel	0
+218	KST G3	na	Singen bei Pforzheim	8.56804, 48.95764	steggnoddl	na	999	schteknodl	na	999	Stecknadel	na	999
+219	KST d4	III_18_0018	Reilingen, Reilingen	8.56943, 49.29368	stecknodl	stecknadl	1	schteknodl	schteknadl	1	Stecknadel	Stecknadel	0
+220	MH Q2	II_60_0035, II_60_0034	Schwetzingen, Schwetzingen	8.57064, 49.38567	steggnodl	schdeggnoodl	4	schteknodl	schteknodel	1	Stecknadel	Stecknadel	0
+221	MH H7	na	Mannheim-Friedrichsfeld	8.57534, 49.44026	stecknådel	na	999	schteknådel	na	999	Stecknadel	na	999
+222	MH Q3	II_60_0036	Plankstadt, Plankstadt	8.59271, 49.39179	stecknodl	stecknodel	1	schteknodl	schteknodel	1	Stecknadel	Stecknadel	0
+223	KST s2	III_20_0019	Bruchsal (Forstamt), Bruchsal	8.60102, 49.12377	stecknodel	stecknodel	0	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+224	KST d7	na	Sankt Leon	8.6025, 49.26526	stecknōdl	na	999	schteknodl	na	999	Stecknadel	na	999
+225	MH z3	II_58_0067	Heddesheim, Heddesheim	8.60327, 49.50529	schdecknohl	stecknadel	6	schteknol	schteknadel	3	Stecknadel	Stecknadel	0
+226	TUTT z9	na	Riedöschingen	8.6077, 47.84306	stecknådel	na	999	schteknådel	na	999	Stecknadel	na	999
+227	MH H4	na	Ladenburg	8.61098, 49.47244	stecknōdl	na	999	schteknodl	na	999	Stecknadel	na	999
+228	MH H8	II_59_0073	Edingen, Edingen	8.61196, 49.44847	stecknodel	stecknodel	0	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+229	TUTT G3	na	Kommingen	8.61478, 47.81599	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+230	KST s1	III_20_0024	Ubstadt, Ubstadt	8.6322, 49.16181	stecknodel	stecknodel	0	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+231	TUTT G5	III_36_0026	Uttenhofen, Uttenhofen	8.63235, 47.80782	stecknådle	stecknodle	1	schteknådle	schteknodle	1	Stecknadel	Stecknadel	0
+232	KST G11	III_22_0023	Ersingen, Ersingen	8.63492, 48.93324	schdeggnoddl	schdegnoddl	1	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+233	KST s9	na	Helmsheim	8.64229, 49.08509	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+234	KST l6	III_19_0016	Stettfeld, Stettfeld	8.64516, 49.18353	stecknodl	schdeggnodl	5	schteknodl	schteknodel	1	Stecknadel	Stecknadel	0
+235	MH R1/2	na	Heidelberg-Pfaffengrund	8.64698, 49.40282	stecknadel	na	999	schteknadel	na	999	Stecknadel	na	999
+236	KST z3	na	Dürrenbüchig	8.64747, 49.0227	stecknådel	na	999	schteknådel	na	999	Stecknadel	na	999
+237	MH H9	na	Heidelberg-Wieblingen	8.64805, 49.42539	stecknoͦdel	na	999	schteknodel	na	999	Stecknadel	na	999
+238	TUTT s4	III_34_0028	Geisingen, Geisingen	8.65129, 47.93283	stecknodla	stecknodle	1	schteknodla	schteknodle	1	Stecknadel	Stecknadel	0
+239	TUTT G6	na	Tengen	8.66036, 47.81721	stecknodle	na	999	schteknodle	na	999	Stecknadel	na	999
+240	KST t3	III_20_0025	Unteröwisheim, Unteröwisheim	8.66595, 49.14423	stecknodel	stecknodel	0	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+241	MH R2	na	Heidelberg-Kirchheim	8.66773, 49.37837	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+242	TUTT A2	na	Leipferdingen	8.66787, 47.86461	schdecknodle	na	999	schteknodle	na	999	Stecknadel	na	999
+243	KST P2	III_23_0030	Brötzingen, Pforzheim-Brötzingen	8.66799, 48.889	schdecknådel	schdecknodel	1	schteknådel	schteknodel	1	Stecknadel	Stecknadel	0
+244	KST A6	na	Diedelsheim	8.67848, 49.04109	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+245	KST A7	III_21_0024	Rinklingen , Rinklingen	8.6832, 49.03485	stecknodl	schtecknodl	2	schteknodl	schteknodl	0	Stecknadel	Stecknadel	0
+246	TUTT H7, TUTT H12	III_36_0032	Büsslingen, Beuren a(m) R(ied), Beuren	8.6839, 47.79252	stecknodle	stecknodle	0	schteknodle	schteknodle	0	Stecknadel	Stecknadel	0
+247	MH R5, MH R4	II_60_0042	Leimen, Leimen	8.68891, 49.34902	stecknådl, stecknodl	stecknodl	0	schteknådl, schteknodl	schteknodl	0	Stecknadel	Stecknadel	0
+248	MH R3	II_60_0041	Heidelberg-Rohrbach, Heidelberg-Rohrbach	8.69, 49.38005	steggnodel	steggnodl	1	schteknodel	schteknodl	1	Stecknadel	Stecknadel	0
+249	KST m2	na	Rettigheim	8.6981, 49.24111	stecknodĕl	na	999	schteknodel	na	999	Stecknadel	na	999
+250	KST P3/3, KST P3/1	III_23_0043, III_23_0046, III_23_0040, III_23_0045, III_23_0049, III_23_0041, III_23_0052, III_23_0037	Pforzheim, Pforzheim	8.70025, 48.89013	stecknodel, schdecknoͦdl	stegnodl, stecknodel, schdecknodel, stecknòdel, stecknadel	0	schteknodl, schteknodel	schteknadel, schteknodel, schteknodl	0	Stecknadel	Stecknadel	0
+251	KST H3	III_22_0029	Göbrichen, Göbrichen	8.70848, 48.95808	stecknottel	stecknodel	2	schteknottel	schteknodel	2	Stecknadel	Stecknadel	0
+252	MH A4	na	Rippenweier	8.70861, 49.50646	schdecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+253	KST e11	III_18_0026	Rotenberg, Rotenberg	8.71207, 49.25813	stecknodl	stecknodel	1	schteknodl	schteknodel	1	Stecknadel	Stecknadel	0
+254	KST m11	III_19_0024, III_19_0025, III_19_0026	Östringen, Östringen	8.7137, 49.22037	stecknodel	stecknodel, stecknodl	0	schteknodel	schteknodl, schteknodel	0	Stecknadel	Stecknadel	0
+255	KST m3	na	Mühlhausen	8.72271, 49.24953	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+256	KST A4	na	Gölshausen	8.72322, 49.04608	stecknodl	na	999	schteknodl	na	999	Stecknadel	na	999
+257	KST A9	na	Ruit	8.72435, 49.00924	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+258	MH A5	II_58_0077	Oberflockenbach, Oberflockenbach	8.73109, 49.51102	stecknōdel	stecknōdel	0	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+259	KST e3	III_18_0027	Baiertal, Baiertal	8.73772, 49.30253	stecknådl	stecknadel	2	schteknådl	schteknadel	2	Stecknadel	Stecknadel	0
+260	MH J7	na	Altenbach / Schriesheim	8.73843, 49.48622	stecknodl	na	999	schteknodl	na	999	Stecknadel	na	999
+261	TUTT H5	na	Riedheim	8.74873, 47.76389	stecknoͦdla	na	999	schteknodla	na	999	Stecknadel	na	999
+262	KST H6	na	Kieselbronn	8.75287, 48.93453	stecknoddel	na	999	schteknodel	na	999	Stecknadel	na	999
+263	MH J6	II_59_0080	Wilhelmsfeld, Wilhelmsfeld	8.7544, 49.47018	stecknodel	schdecknodl	4	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+264	MH J5	na	Peterstal (keine eigene GID, gleiche wie Wilhelmsfeld)	8.75548, 49.44624	stecknoodel	na	999	schteknodel	na	999	Stecknadel	na	999
+265	MH R7	na	Gauangelloch	8.75579, 49.34078	stecknodl	na	999	schteknodl	na	999	Stecknadel	na	999
+266	KST e4	III_18_0032	Schatthausen, Schatthausen	8.75841, 49.319	stecknōdl	stecknodl	1	schteknodl	schteknodl	0	Stecknadel	Stecknadel	0
+267	TUTT t3	III_34_0029	Möhringen, Möhringen	8.75916, 47.96779	stecknōdel	stecknodel	1	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+268	MH R14	II_60_0051	Schlierbach, Schlierbach	8.76062, 49.41501	schdecknōdl	stecknolle	6	schteknodel	schteknole	2	Stecknadel	Stecknadel	0
+269	MH J9	na	Lampenhain	8.76294, 49.49811	schdecknådl	na	999	schteknådel	na	999	Stecknadel	na	999
+270	TUTT A8	III_35_0029	Anselfingen, Anselfingen	8.76516, 47.84558	stecknådle	stecknadle	1	schteknådle	schteknadle	1	Stecknadel	Stecknadel	0
+271	TUTT H11	III_36_0028, III_36_0029, III_36_0027	Weiterdingen, Weiterdingen	8.76917, 47.79954	stecknodel	schdecknodlä, stecknodle	2	schteknodel	schteknodle	2	Stecknadel	Stecknadel	0
+272	MH R12	II_60_0044	Waldhilsbach, Waldhilsbach	8.77179, 49.3721	steggnōdel	stecknadel	3	schteknodel	schteknadel	1	Stecknadel	Stecknadel	0
+273	KST m4	III_19_0029	Eichtersheim, Eichtersheim	8.7742, 49.23438	stecknodel	stecknodel	0	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+274	TUTT A9	III_35_0031, III_35_0030	Neuhausen (b. Engen), Neuhausen	8.77423, 47.8379	stecknodla	stecknodel	2	schteknodla	schteknodel	2	Stecknadel	Stecknadel	0
+275	MH R9	II_60_0046	Bammental, Bammental	8.77604, 49.35511	stecknodel	stecknodl	1	schteknodel	schteknodl	1	Stecknadel	Stecknadel	0
+276	KST e14	III_18_0030	Eschelbach, Eschelbach	8.78417, 49.24823	steggnodl	schteggnodel	3	schteknodl	schteknodel	1	Stecknadel	Stecknadel	0
+277	MH R13	II_60_0045	Neckargemünd, Neckargemünd	8.79751, 49.39508	stecknadel	stecknodel	1	schteknadel	schteknodel	1	Stecknadel	Stecknadel	0
+278	TUTT H1	na	Ehingen	8.80075, 47.82351	stecknodle	na	999	schteknodle	na	999	Stecknadel	na	999
+279	MH R10	II_60_0050	Wiesenbach, Wiesenbach	8.80354, 49.36103	stecknoodl	schdecknoodl	3	schteknodl	schteknodel	1	Stecknadel	Stecknadel	0
+280	KST m6	na	Waldangelloch	8.80551, 49.21046	stecknodl	na	999	schteknodl	na	999	Stecknadel	na	999
+281	MH J13	na	Schönau bei Heidelberg	8.80977, 49.43706	stecknodl	na	999	schteknodl	na	999	Stecknadel	na	999
+282	TUTT A6	III_35_0035	Bittelbrunn (Aach), Bittelbrunn	8.81087, 47.86719	schdecknōdle	stecknodel	6	schteknodle	schteknodel	2	Stecknadel	Stecknadel	0
+283	TUTT A5	na	Biesendorf	8.81255, 47.91175	schtecknadl	na	999	schteknadl	na	999	Stecknadel	na	999
+284	KST e5	na	Meckesheim	8.81557, 49.32167	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+285	TUTT H2	na	Mühlhausen	8.81866, 47.80792	steknodle	na	999	schteknodle	na	999	Stecknadel	na	999
+286	MH J11	na	Heddesbach	8.82774, 49.48208	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+287	KST f9	na	Hoffenheim	8.8417, 49.27088	stecknodl	na	999	schteknodl	na	999	Stecknadel	na	999
+288	TUTT J3	na	Hausen an der Aach	8.84574, 47.7917	stecknådel	na	999	schteknådel	na	999	Stecknadel	na	999
+289	TUTT u5	na	Emmingen	8.85302, 47.92883	schdecknaudl	na	999	schteknaudl	na	999	Stecknadel	na	999
+290	MH S2	na	Mückenloch	8.8554, 49.3886	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+291	TUTT J1	III_36_0043	Volkertshausen, Volkertshausen	8.863, 47.82187	stecknōadle	stecknodle	2	schteknoadle	schteknodle	1	Stecknadel	Stecknadel	0
+292	TUTT Q3	III_37_0019	Worblingen, Worblingen	8.86677, 47.72492	stecknodla	stecknodla	0	schteknodla	schteknodla	0	Stecknadel	Stecknadel	0
+293	KST f1	III_18_0041, III_18_0040, III_18_0038, III_18_0039, III_18_0037	Eschelbronn, Eschelbronn	8.86825, 49.3202	stecknodel	stecknodel, stecknodel , stecknadel	0	schteknodel	schteknadel, schteknodel	0	Stecknadel	Stecknadel	0
+294	MH S4	II_60_0055	Lobenfeld, Lobenfeld	8.8718, 49.35884	stecknodel	stecknodel	0	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+295	KST f8	na	Sinsheim	8.87357, 49.25387	schtecknodl	na	999	schteknodl	na	999	Stecknadel	na	999
+296	TUTT J5	na	Friedingen	8.87581, 47.78669	stecknodlä	na	999	schteknodle	na	999	Stecknadel	na	999
+297	KST n13	III_19_0037	Weiler, Weiler	8.87587, 49.20862	stecknodl	stecknadel	2	schteknodl	schteknadel	2	Stecknadel	Stecknadel	0
+298	KST f10	na	Daisbach	8.87705, 49.2938	schtecknodl	na	999	schteknodl	na	999	Stecknadel	na	999
+299	MH K8	II_59_0097	Neckarhäuserhof, Neckarhäuserhof	8.88191, 49.41513	stecknodl	stecknodel	1	schteknodl	schteknodel	1	Stecknadel	Stecknadel	0
+300	MH S3	II_60_0054	Waldwimmersbach, Waldwimmersbach	8.89219, 49.37538	stecknodel	stecknadel	1	schteknodel	schteknadel	1	Stecknadel	Stecknadel	0
+301	TUTT Q12	na	Schienen	8.90035, 47.68774	schdecknōdle	na	999	schteknodle	na	999	Stecknadel	na	999
+302	KST f11	na	Rohrbach	8.9042, 49.25168	schdecknodl	na	999	schteknodel	na	999	Stecknadel	na	999
+303	TUTT u4	na	Liptingen	8.90748, 47.93756	stecknoådl	na	999	schteknåadl	na	999	Stecknadel	na	999
+304	KST u3	III_20_0051	Eppingen, Eppingen	8.9098, 49.13704	stecknodel	stecknodel	0	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+305	MH S14	II_60_0058	Epfenbach, Epfenbach	8.91088, 49.33719	stecknodel	schdegnodl	6	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+306	KST n3	na	Reihen	8.91628, 49.21715	schdecknodl	na	999	schteknodel	na	999	Stecknadel	na	999
+307	TUTT B2	na	Rorgenwies	8.92043, 47.90334	stecknodl	na	999	schteknodl	na	999	Stecknadel	na	999
+308	MH K7	na	Moosbrunn	8.92878, 49.42533	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+309	MH S11	II_60_0067	Haag, Haag	8.92912, 49.39429	schdĕgnōdel, schdĕgnōdl	schdegnōdĕl	2	schteknodl, schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+310	TUTT B7	na	Orsingen	8.92977, 47.83688	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+311	TUTT X2	III_38_0025	Wangen, Wangen	8.93161, 47.6599	stecknoadel	stecknôdle	4	schteknoadel	schteknodle	3	Stecknadel	Stecknadel	0
+312	TUTT B1	na	Heudorf	8.93517, 47.91373	schtecknodl	na	999	schteknodl	na	999	Stecknadel	na	999
+313	MH S7	na	Reichartshausen	8.94509, 49.35547	steggnodel	na	999	schteknodel	na	999	Stecknadel	na	999
+314	MH K2	na	Igelsbach	8.94534, 49.46217	schdecknōdl	na	999	schteknodel	na	999	Stecknadel	na	999
+315	MH K5	II_59_0094	Pleutersbach, Pleutersbach	8.95293, 49.45367	schdegnodl	stecknodel	6	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+316	TUTT Q8	III_37_0028	Weiler und Iznag, Weiler	8.95347, 47.70847	stecknodel	stecknodel	0	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+317	MH K6/2	II_59_0096	Allemühl, Allemühl	8.95618, 49.42613	stecknodel	schdecknodl	4	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+318	TUTT f2	na	Heinstetten	8.96312, 48.13491	schtäcknudel	na	999	schtäknudel	na	999	Stecknadel	na	999
+319	MH S10	II_60_0061	Michelbach, Michelbach	8.96532, 49.37259	stecknodel	stecknodel	0	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+320	TUTT C4, TUTT B11	na	Mahlspüren	8.97748, 47.87563	stecknoodl, stecknōdel	na	999	schteknodl, schteknodel	na	999	Stecknadel	na	999
+321	KST n7	na	Berwangen	8.98098, 49.18431	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+322	TUTT u1	na	Oberschwandorf	8.98238, 47.9602	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+323	KST n4	na	Ehrstädt	8.98266, 49.24404	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+324	MH T8, MH S8	na	Aglasterhausen, Aglasterhausen-Daudenzell	8.98981, 49.35471	schtecknodl, stecknadel	na	999	schteknadel, schteknodl	na	999	Stecknadel	na	999
+325	TUTT u2	III_34_0045	Unterschwandorf, Unterschwandorf	8.99628, 47.95028	stecknådl	stecknodel	2	schteknådl	schteknodel	2	Stecknadel	Stecknadel	0
+326	MH K4	II_59_0095	Rockenau, Rockenau	8.99904, 49.44673	schdeggnōdel	stecknadel	6	schteknodel	schteknadel	1	Stecknadel	Stecknadel	0
+327	KST g11	III_18_0053	Flinsbach, Flinsbach	8.9996, 49.30946	stecknodel	stecknoodel	1	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+328	TUTT K8	III_36_0045	Möggingen, Möggingen	9.00337, 47.76589	stecknōadel	stecknodle	4	schteknoadel	schteknodle	3	Stecknadel	Stecknadel	0
+329	TUTT C9	III_35_0060	Hoppetenzell, Hoppetenzell	9.00808, 47.89295	stecknodl	stecknodel	1	schteknodl	schteknodel	1	Stecknadel	Stecknadel	0
+330	MH T2	na	Neunkirchen	9.00887, 49.38789	stecknådel	na	999	schteknådel	na	999	Stecknadel	na	999
+331	TUTT C7	na	Hindelwangen	9.00909, 47.86237	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+332	TUTT v6	na	Mainwangen	9.0105, 47.92565	stecknadel	na	999	schteknadel	na	999	Stecknadel	na	999
+333	TUTT K5	na	Espasingen	9.01058, 47.82135	stecknådl	na	999	schteknådl	na	999	Stecknadel	na	999
+334	MH T16	II_60_0070	Breitenbronn, Breitenbronn	9.02197, 49.36483	schdegnodel	schtecknodl	4	schteknodel	schteknodl	1	Stecknadel	Stecknadel	0
+335	KST g9	III_18_0057	Bargen, Bargen	9.02233, 49.30537	stecknodel	stecknadel	1	schteknodel	schteknadel	1	Stecknadel	Stecknadel	0
+336	TUTT K7	III_36_0056, III_36_0057, III_36_0055	Liggeringen, Liggeringen	9.02698, 47.77495	stecknodel	stecknoedl, stecknodel, stecknodl	0	schteknodel	schteknoedl, schteknodl, schteknodel	0	Stecknadel	Stecknadel	0
+337	TUTT K6	III_36_0054	Bodman, Bodman	9.02835, 47.80402	stecknodl	stecknadel	2	schteknodl	schteknadel	2	Stecknadel	Stecknadel	0
+338	TUTT v5	na	Boll	9.0299, 47.9487	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+339	TUTT v3	na	Bietingen	9.03261, 47.97091	stecknådel	na	999	schteknådel	na	999	Stecknadel	na	999
+340	KST g8	III_18_0058	Wollenberg, Wollenberg	9.03453, 49.29152	stecknodel	stecknadel	1	schteknodel	schteknadel	1	Stecknadel	Stecknadel	0
+341	TUTT o2	na	Hausen im Tal	9.03969, 48.0848	sticknådel	na	999	schtiknådel	na	999	Stecknadel	na	999
+342	TUTT C2/1, TUTT C2/2	na	Zoznegg	9.04053, 47.89958	stecknådle, stecknodla	na	999	schteknodla, schteknådle	na	999	Stecknadel	na	999
+343	MH T7	II_60_0072	Mörtelstein, Mörtelstein	9.04246, 49.35708	stecknodel	stecknodel	0	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+344	TUTT v4	na	Krumbach	9.04788, 47.96159	stecknådel	na	999	schteknådel	na	999	Stecknadel	na	999
+345	MH C1	II_58_0102	Friedrichsdorf, Friedrichsdorf	9.054, 49.52034	stecknodel	stecknodel	0	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+346	KST o2	na	Treschklingen	9.05577, 49.22614	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+347	MH T6	II_60_0074	Binau, Binau	9.0577, 49.36658	stecknodl	stecknodl	0	schteknodl	schteknodl	0	Stecknadel	Stecknadel	0
+348	KST o4	na	Babstadt	9.05798, 49.24212	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+349	TUTT C5	III_35_0055	Winterspüren, Winterspüren	9.05857, 47.85618	stecknådel	stecknodel	1	schteknådel	schteknodel	1	Stecknadel	Stecknadel	0
+350	KST g10	III_18_0063	Kälbertshausen, Kälbertshausen	9.06276, 49.31724	stecknōdel	schdecknōdel, schdecknōdl	3	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+351	MH T17	II_60_0075	Neckargerach, Neckargerach	9.0708, 49.40101	schdeggnodl	stecknodel	6	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+352	TUTT R2	III_37_0031	Kaltbrunn, Kaltbrunn	9.07201, 47.73526	stecknodla	stecknodel	2	schteknodla	schteknodel	2	Stecknadel	Stecknadel	0
+353	TUTT K12	III_36_0058	Langenrain, Langenrain	9.07596, 47.76281	stecknådel	stecknodel	1	schteknådel	schteknodel	1	Stecknadel	Stecknadel	0
+354	TUTT K3	III_36_0066	Bonndorf, Bonndorf	9.09477, 47.82968	stecknoͣdel	stecknodel	1	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+355	MH T10	II_60_0078	Obrigheim, Obrigheim	9.09608, 49.35186	stecknodl	stecknadel	2	schteknodl	schteknadel	2	Stecknadel	Stecknadel	0
+356	KST g1	III_18_0064	Hochhausen, Hochhausen	9.1008, 49.323	stecknōdl	stecknadel	2	schteknodl	schteknadel	2	Stecknadel	Stecknadel	0
+357	TUTT v7	na	Sauldorf	9.10721, 47.94343	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+358	MH T11	na	Diedesheim	9.11367, 49.34933	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+359	TUTT v10	na	Messkirch	9.11537, 47.99484	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+360	TUTT R1	III_37_0036	Dettingen, Dettingen	9.117, 47.73485	stecknodl	stecknodel	1	schteknodl	schteknodel	1	Stecknadel	Stecknadel	0
+361	TUTT K2	III_36_0065	Nesselwangen, Nesselwangen	9.11824, 47.81683	stecknodel	stecknodl	1	schteknodel	schteknodl	1	Stecknadel	Stecknadel	0
+362	TUTT v8	III_34_0060	Rast, Rast	9.12126, 47.93997	stecknådel	stecknodle	3	schteknådel	schteknodle	3	Stecknadel	Stecknadel	0
+363	KST g5	na	Zimmerhof	9.1218, 49.25206	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+364	MH C2	II_58_0104	Reisenbach, Reisenbach	9.12415, 49.50336	sticknōdl	schdeggnodel	8	schtiknodl	schteknodel	2	Stecknadel	Stecknadel	0
+365	TUTT K1	na	Billafingen	9.13657, 47.83337	schecknodel	na	999	scheknodel	na	999	Stecknadel	na	999
+366	MH T15	na	Lohrbach	9.14183, 49.4	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+367	MH T13	II_60_0082, II_60_0081	Mosbach, Mosbach	9.14619, 49.35501	stecknodel	stecknodel, stecknodl	0	schteknodel	schteknodl, schteknodel	0	Stecknadel	Stecknadel	0
+368	KST g14	na	Heinsheim	9.14778, 49.26416	schdegnodel	na	999	schteknodel	na	999	Stecknadel	na	999
+369	MH L5	II_59_0108	Fahrenbach, Fahrenbach	9.14987, 49.43091	stecknōdel	stecknodel	1	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+370	MH C3	II_58_0110	Scheidental, Scheidental	9.15106, 49.50744	stecknå̠del	schdegnodel	7	schteknådel	schteknodel	1	Stecknadel	Stecknadel	0
+371	MH C4	na	Schloßau	9.15226, 49.53935	stecknodl	na	999	schteknodl	na	999	Stecknadel	na	999
+372	MH L7	II_59_0107	Robern, Robern	9.16265, 49.45394	stecknodl	stecknodl	0	schteknodl	schteknodl	0	Stecknadel	Stecknadel	0
+373	MH U1	II_60_0083	Neckarburken, Neckarburken	9.165, 49.37662	schdeggnodl	schdecknodl	2	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+374	MH U10	na	Sattelbach	9.16732, 49.40849	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+375	SIG k7, SIG k6	na	Großschönach (Herdwangen-Schönach), Herdwangen	9.16937, 47.86289	stecknodel, schdegnådel	na	999	schteknådel, schteknodel	na	999	Stecknadel	na	999
+376	MH M7	II_59_0112	Trienz, Trienz	9.16956, 49.44002	stecknodel	stecknodel	0	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+377	MH D1	na	Mörschenhardt	9.17211, 49.56893	schdecknōdl	na	999	schteknodel	na	999	Stecknadel	na	999
+378	SIG q1	na	Litzelstetten	9.17296, 47.71413	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+379	SIG n1	na	Öwingen	9.17351, 47.80982	schdecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+380	MH M6	II_59_0110	Krumbach, Krumbach	9.18402, 49.45323	schdeggnodl	schdeknodel	3	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+381	SIG o7	na	Homberg	9.19109, 47.83714	stecknŏdel	na	999	schteknodel	na	999	Stecknadel	na	999
+382	MH D2	na	Donebach	9.19217, 49.56113	schdecknōdl	na	999	schteknodel	na	999	Stecknadel	na	999
+383	SIG k1	na	Aach-Linz	9.20037, 47.91152	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+384	MH D4	na	Mudau-Langenelz	9.20495, 49.51744	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+385	MH D3	II_58_0108	Mudau, Mudau	9.20615, 49.53336	schdegnodl	stecknodl	5	schteknodel	schteknodl	1	Stecknadel	Stecknadel	0
+386	SIG n3	III_36_0076	Hohenbodmann, Hohenbodmann	9.21042, 47.82312	schdegnådl	stecknodl	6	schteknådl	schteknodl	1	Stecknadel	Stecknadel	0
+387	MH M5	II_59_0117	Limbach, Limbach	9.21181, 49.46142	stecknedelle, stecknådel	stecknodel	1	schteknådel	schteknodel	1	Stecknadel	Stecknadel	0
+388	SIG q7	III_36_0074	Deisendorf, Deisendorf	9.21621, 47.76835	stecknōdel	stecknoadle	4	schteknodel	schteknoadle	3	Stecknadel	Stecknadel	0
+389	MH U11	II_60_0088	Sulzbach, Sulzbach	9.22127, 49.35156	stecknōdl	stecknodl	1	schteknodl	schteknodl	0	Stecknadel	Stecknadel	0
+390	MH U9	II_60_0094	Auerbach, Auerbach	9.22666, 49.39927	schtecknodel	stecknodl	3	schteknodel	schteknodl	1	Stecknadel	Stecknadel	0
+391	SIG q2	III_37_0042	Unteruhldingen, Unteruhldingen	9.2334, 47.72271	stecknodl	stecknodl	0	schteknodl	schteknodl	0	Stecknadel	Stecknadel	0
+392	MH M4	II_59_0116	Scheringen, Scheringen	9.23513, 49.46663	stecknodel	stecknodel	0	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+393	SIG n8	III_36_0077	Lippertsreute, Lippertsreute	9.23743, 47.80427	stecknodel	stecknadel	1	schteknodel	schteknadel	1	Stecknadel	Stecknadel	0
+394	MH Y1	na	Allfeld	9.24133, 49.32379	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+395	SIG q3	III_37_0041	Oberuhldingen, Oberuhldingen	9.24549, 47.73557	stecknōdĕl	stecknôdl	2	schteknodel	schteknodl	1	Stecknadel	Stecknadel	0
+396	MH M10	II_59_0115	Heidersbach, Heidersbach	9.2468, 49.45517	schtecknodel	sticknoodel	4	schteknodel	schtiknodel	1	Stecknadel	Stecknadel	0
+397	SIG n4	na	Altheim	9.25398, 47.82461	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+398	SIG g2/2	III_34_0065	Pfullendorf, Pfullendorf	9.25466, 47.92614	stecknodel	stecknodel	0	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+399	MH M11	na	Waldhausen	9.25731, 49.46733	schdecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+400	MH U6	na	Katzental	9.26618, 49.37338	stecknode	na	999	schteknode	na	999	Stecknadel	na	999
+401	SIG q8/2	na	Meersburg/Daisendorf	9.26779, 47.71169	stecknoodl	na	999	schteknodl	na	999	Stecknadel	na	999
+402	MH Y2	na	Neudenau	9.27037, 49.2923	schdegnōdl	na	999	schteknodel	na	999	Stecknadel	na	999
+403	MH D7	II_58_0112	Unterneudorf, Unterneudorf	9.27534, 49.52921	stecknodel	stecknodel	0	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+404	MH U4	II_60_0085	Mittelschefflenz, Mittelschefflenz	9.27967, 49.40042	stecknodel	stecknodel	0	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+405	MH U3	II_59_0124	Oberschefflenz, Oberschefflenz	9.28249, 49.41626	stecknodl	stecknoodel	2	schteknodl	schteknodel	1	Stecknadel	Stecknadel	0
+406	SIG n13	III_36_0085	Mimmenausen, Mimmenausen	9.2852, 47.76025	stecknödel	stecknodel	1	schteknödel	schteknodel	1	Stecknadel	Stecknadel	0
+407	SIG n12	III_36_0081	Salem, Salem	9.28599, 47.77663	stecknodel	stecknadel	1	schteknodel	schteknadel	1	Stecknadel	Stecknadel	0
+408	MH M14	na	Kleineicholzheim	9.28876, 49.42893	schtecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+409	MH D9	II_57_0143	Hornbach (Hettingenbeuern), Hornbach	9.29012, 49.591	stecknodel	sticknodel	1	schteknodel	schtiknodel	1	Stecknadel	Stecknadel	0
+410	SIG n6	na	Leustetten	9.29433, 47.80634	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+411	MH v2	na	Rippberg	9.29762, 49.62253	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+412	MH v1	na	Gottersdorf	9.31064, 49.63751	stecknodl	na	999	schteknodl	na	999	Stecknadel	na	999
+413	SIG n14	na	Neufrach	9.31134, 47.75967	stecknodl	na	999	schteknodl	na	999	Stecknadel	na	999
+414	SIG n5	na	Heiligenberg	9.31203, 47.81993	stecknoodel	na	999	schteknodel	na	999	Stecknadel	na	999
+415	MH M12	na	Bödigheim	9.31522, 49.47408	schdecknodl	na	999	schteknodel	na	999	Stecknadel	na	999
+416	MH v3	II_57_0139	Gerolzahn, Gerolzahn	9.31895, 49.62645	stecknodel	stecknodel	0	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+417	SIG q10	III_37_0048	Hagnau, Hagnau	9.31963, 47.67634	schdecknodel	stecknodel	3	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+418	SIG n10	III_36_0073	Beuren, Beuren	9.32135, 47.80541	stegnoădl	stecknoădla	3	schteknoadl	schteknoadla	1	Stecknadel	Stecknadel	0
+419	SIG n15	na	Röhrenbach	9.3248, 47.82972	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+420	MH n1	na	Freudenberg	9.32533, 49.75145	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+421	MH D6	II_58_0114	Buchen, Buchen	9.32603, 49.52041	stecknodel	stecknodel	0	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+422	MH N3	II_59_0123	Seckach, Seckach	9.33368, 49.44238	stecknodel	stecknodel	0	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+423	SIG r7	na	Ittendorf	9.34074, 47.70119	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+424	MH w1	II_90_0001	Reichenhardsachsen, Reichenhardsachsen	9.34508, 49.64003	stecknodel, schtecknodel	stecknodel	0	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+425	SIG o1	III_36_0088	Betenbrunn, Betenbrunn	9.34649, 47.8185	schtecknådl	stecknodel	4	schteknådl	schteknodel	2	Stecknadel	Stecknadel	0
+426	MH o8/1, MH o8/2	II_89_0005	Ebenheid, Ebenheid	9.36095, 49.7158	schdecknōdel, stecknadel	stecknod̄el	2	schteknadel, schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+427	SIG o3	III_36_0098	Lellwangen, Lellwangen	9.36523, 47.79833	stecknoadel	stecknodel	1	schteknoadel	schteknodel	1	Stecknadel	Stecknadel	0
+428	MH E2	II_91_0001	Hettingen, Hettingen	9.36644, 49.5194	stecknodel	stecknadel	1	schteknodel	schteknadel	1	Stecknadel	Stecknadel	0
+429	MH w6	na	Glashofen	9.36648, 49.62382	schtecknådel	na	999	schteknådel	na	999	Stecknadel	na	999
+430	SIG u1	III_38_0026	Immenstaad, Immenstaad	9.3675, 47.66625	stecknodl	stecknodel	1	schteknodl	schteknodel	1	Stecknadel	Stecknadel	0
+431	MH E7	na	Walldürn	9.36793, 49.58322	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+432	MH N2	II_92_0003	Schlierstadt, Schlierstadt	9.36816, 49.45257	schtecknodel	schdegnoodel	4	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+433	MH N4/1, MH N4/2	II_92_0004	Zimmern, Zimmern	9.37304, 49.43313	schtecknödala, stecknōdel	schtecknoodel	4	schteknödle, schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+434	SIG l2	III_35_0080	Illmensee, Illmensee	9.37456, 47.86209	stecknōdle	stecknodl	2	schteknodle	schteknodl	1	Stecknadel	Stecknadel	0
+435	MH o1	II_89_0016	Rauenberg, Rauenberg	9.38407, 49.74117	stecknodel	stecknoudel	1	schteknodel	schteknoudel	1	Stecknadel	Stecknadel	0
+436	MH V2	II_93_0002	Sennfeld, Sennfeld	9.38438, 49.38045	schdecknodel	schtecknodel	1	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+437	SIG o2	III_36_0089	Deggenhausen, Deggenhausen	9.3844, 47.80143	stecknodel	stecknodle	2	schteknodel	schteknodle	2	Stecknadel	Stecknadel	0
+438	MH w7	II_90_0003	Wettersdorf, Wettersdorf	9.38743, 49.63075	schtecknadel	schticknodel	2	schteknadel	schtiknodel	2	Stecknadel	Stecknadel	0
+439	MH V1	II_93_0003	Adlesheim, Adlesheim	9.39101, 49.40289	schdecknodl	schdeggnodl	2	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+440	MH E3	II_91_0002	Rinschheim, Rinschheim	9.39249, 49.51369	stecknodel	stecknodel	0	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+441	MH N8	na	Götzingen	9.39465, 49.49693	stecknödel	na	999	schteknödel	na	999	Stecknadel	na	999
+442	MH V5	na	Korb	9.39732, 49.35594	schtecknodl	na	999	schteknodl	na	999	Stecknadel	na	999
+443	SIG r5	III_37_0056	Kluftern, Kluftern	9.40004, 47.69278	stecknodel	stecknodel	0	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+444	MH N10/1, MH N10/2	na	Hemsbach	9.40014, 49.42726	schtecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+445	MH f2	II_88_0005	Boxtal, Boxtal	9.40146, 49.76416	stecknodel	stecknodel	0	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+446	SIG o5	III_36_0093	Roggenbeuren, Roggenbeuren	9.40565, 47.76961	stecknodel	stecknodel	0	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+447	SIG r4	III_37_0057	Riedheim, Riedheim	9.41014, 47.70429	stecknōdel	stecknodel	1	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+448	MH o2	na	Wessental	9.41215, 49.73004	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+449	MH f1	II_88_0007	Mondfeld, Krs. Tauberbischofsheim, Mondfeld	9.41656, 49.7837	stecknodel	stecknodel	0	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+450	MH V3	na	Leibenstadt	9.42028, 49.36861	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+451	MH N5	II_92_0007, II_92_0006	Osterburken, Osterburken	9.42838, 49.4308	stecknodel	stecknadel	1	schteknodel	schteknadel	1	Stecknadel	Stecknadel	0
+452	MH w2	II_90_0006	Dornberg, Dornberg	9.42843, 49.62542	stecknodel	schtecknodel	2	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+453	SIG o6	III_36_0096	Urnau, Urnau	9.43083, 47.76354	stecknodel	stecknodĕl	1	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+454	SIG r6	na	Hepbach	9.43103, 47.7193	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+455	MH V4	na	Unterkessach	9.43829, 49.34571	steggnōdel	na	999	schteknodel	na	999	Stecknadel	na	999
+456	MH E4	II_91_0003	Altheim, Altheim	9.4436, 49.51915	schdecknōdel	stecknodel	4	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+457	MH E5	II_91_0004	Waldstetten, Waldstetten	9.44893, 49.5647	stegnodel	stecknodel	2	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+458	MH q1	na	Steinbach	9.47108, 49.68011	schdeggnådel	na	999	schteknådel	na	999	Stecknadel	na	999
+459	MH f3	II_88_0014	Grünenwört, Grünenwört	9.47135, 49.77438	stecknodel	stegnodel, stecknadel	1	schteknodel	schteknadel, schteknodel	0	Stecknadel	Stecknadel	0
+460	MH w3	II_90_0007	Hardheim, Hardheim	9.47457, 49.60804	stecknådel	stecknadel	1	schteknådel	schteknadel	1	Stecknadel	Stecknadel	0
+461	MH N6	II_92_0133	Bronnacker, Bronnacker	9.48305, 49.4446	stecknodel	stecknodel	0	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+462	MH w5	na	Steinfurt	9.48425, 49.64828	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+463	MH o6	II_89_0008	Vockenrot, Vockenrot	9.48521, 49.74816	stecknodel	stecknodel	0	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+464	MH E6	II_91_0005, II_91_0123	Bretzingen, Bretzingen	9.48682, 49.57826	stecknådel	stecknodel, stecknadel	1	schteknådel	schteknadel, schteknodel	1	Stecknadel	Stecknadel	0
+465	MH o5	na	Sachsenhausen	9.49147, 49.73223	stecknådl	na	999	schteknådl	na	999	Stecknadel	na	999
+466	MH E8	II_91_0006	Erfeld, Erfeld	9.49597, 49.55416	schdecknadel	schdegnodel	3	schteknadel	schteknodel	1	Stecknadel	Stecknadel	0
+467	MH O2	II_92_0011	Hirschlanden, Hirschlanden	9.50074, 49.47297	stecknoodel	stecknodel	1	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+468	MH p4	II_89_0013	Dörlesberg, Dörlesberg	9.501, 49.71273	stecknodel	stecknadel	1	schteknodel	schteknadel	1	Stecknadel	Stecknadel	0
+469	MH g3	na	Wertheim-Bastenheid	9.5029, 49.78173	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+470	MH W11	II_93_0010	Merchingen, Merchingen	9.50633, 49.4003	stecknodl	stecknodel	1	schteknodl	schteknodel	1	Stecknadel	Stecknadel	0
+471	MH p1	II_89_0018	Waldenhausen, Waldenhausen	9.52298, 49.74357	stecknodel	stecknodel	0	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+472	MH p5	II_89_0024	Külsheim, Külsheim	9.5236, 49.66947	stecknådel	stecknodel	1	schteknådel	schteknodel	1	Stecknadel	Stecknadel	0
+473	MH x7	II_90_0009	Schweinberg, Schweinberg	9.52459, 49.61864	stecknoodl	stecknodel	2	schteknodl	schteknodel	1	Stecknadel	Stecknadel	0
+474	MH F1	II_91_0008	Pülfringen, Pülfringen	9.52624, 49.58149	stecknodel	schdecknodel	3	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+475	MH p2	II_89_0022	Reicholzheim, Reicholzheim	9.53393, 49.72663	stecknådel	stecknadel	1	schteknådel	schteknadel	1	Stecknadel	Stecknadel	0
+476	MH F5	II_91_0011	Eubigheim, Eubigheim	9.53977, 49.5018	stecknodl	schtecknodl	2	schteknodl	schteknodl	0	Stecknadel	Stecknadel	0
+477	MH O3	II_92_0012	Berolzheim, Berolzheim	9.54042, 49.4749	schtecknodl	stecknodel	3	schteknodl	schteknodel	1	Stecknadel	Stecknadel	0
+478	MH g5	na	Wertheim-Eichel	9.54093, 49.76546	stecknådel	na	999	schteknådel	na	999	Stecknadel	na	999
+479	MH W2	II_93_0011	Ballenberg, Ballenberg	9.55086, 49.40093	schdecknådel	stecknodel	4	schteknådel	schteknodel	1	Stecknadel	Stecknadel	0
+480	MH F2	II_91_0009	Brehmen, Brehmen	9.55454, 49.56839	schteknodl	schtecknodel	2	schteknodl	schteknodel	1	Stecknadel	Stecknadel	0
+481	MH O7	II_92_0014	Oberwittstadt, Oberwittstadt	9.55565, 49.43027	stecknådel	stecknadel	1	schteknådel	schteknadel	1	Stecknadel	Stecknadel	0
+482	MH F3	II_91_0010	Buch, Buch	9.55592, 49.53858	stecknodel	stecknodel	0	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+483	MH p13	II_89_0019	Urphar, Urphar	9.5706, 49.74798	schdecknodl	stecknodel	4	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+484	MH p6/1, MH p6/2	II_89_0025	Uissigheim, Uissigheim	9.57194, 49.67957	stecknodel	stecknodel	0	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+485	MH O4	na	Schillingstadt	9.57461, 49.46035	schdeggnodel	na	999	schteknodel	na	999	Stecknadel	na	999
+486	MH g2	na	Lindelbach	9.58346, 49.75732	schdecknodl	na	999	schteknodel	na	999	Stecknadel	na	999
+487	MH W4	II_93_0019	Oberndorf, Oberndorf	9.59181, 49.40817	stecknōdel	stecknoodel	2	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+488	MH O8	II_91_0012	Uiffingen, Uiffingen	9.59227, 49.50171	stecknodel	stecknodel	0	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+489	MH x6	II_90_0012	Königheim, Königheim	9.59419, 49.61802	schdeggnōdel	stecknodel	6	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+490	MH O9	II_92_0022	Angeltürn, Angeltürn	9.59726, 49.48572	stecknodel, stecknödele	schdegnodl	6	schteknödele, schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+491	MH p8	II_89_0026	Gamburg, Gamburg	9.59986, 49.69382	stecknodel	stecknodel	0	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+492	MH O5	II_92_0021, II_92_0019	Schwabhausen, Schwabhausen	9.60196, 49.45569	schdeggnodel	stecknodel, steggnoh₌del	5	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+493	MH p12	II_89_0020	Dietenhan, Dietenhan	9.6066, 49.74297	stecknōdl	stecknodl	1	schteknodl	schteknodl	0	Stecknadel	Stecknadel	0
+494	MH x9	II_90_0011	Dienstadt, Dienstadt	9.61232, 49.63373	stecknodel	stecknodel	0	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+495	MH W8	II_93_0018	Gommersdorf, Gommersdorf	9.61253, 49.36877	stecknōdel	schdecknoodel	5	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+496	MH W5	II_93_0020	Neunstetten, Neunstetten	9.61267, 49.41114	schdeggnōdl	schtecknodel	5	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+497	MH p9	II_89_0027	Niklashausen, Niklashausen	9.6175, 49.70453	stecknōdel	stecknôdl	2	schteknodel	schteknodl	1	Stecknadel	Stecknadel	0
+498	MH g1	II_88_0024	Dertingen über Wertheim a.M., Dertingen	9.61957, 49.7665	stecknaadel	stecknōădl	3	schteknadel	schteknoadl	2	Stecknadel	Stecknadel	0
+499	MH F7	II_91_0013	Kupprichhausen-Lengenrieden, Kupprichhausen u. Lengenrieden	9.62002, 49.52627	stecknodel	stecknoedel	1	schteknodel	schteknoedel	1	Stecknadel	Stecknadel	0
+500	MH O6	II_92_0015, II_92_0017, II_92_0018	Windischbuch, Windischbuch	9.62194, 49.43593	stecknodel	stecknodel, steggnodl	0	schteknodel	schteknodl, schteknodel	0	Stecknadel	Stecknadel	0
+501	MH p11a/1, MH p11a/2	II_89_0021	Kembach, Kembach	9.62461, 49.74217	stecknodel	stecknodl	1	schteknodel	schteknodl	1	Stecknadel	Stecknadel	0
+502	MH O10	II_92_0023, II_92_0025, II_92_0024	Wölchingen, Wölchingen	9.63011, 49.48494	stecknoͦdel	stecknodel, schdecknodel, stegnadel	1	schteknodel	schteknadel, schteknodel	0	Stecknadel	Stecknadel	0
+503	MH W7	na	Krautheim	9.63369, 49.39159	schtecknōdel	na	999	schteknodel	na	999	Stecknadel	na	999
+504	MH x2	II_90_0020, II_90_0018, II_90_0019	Hochhausen, Hochhausen	9.63526, 49.6621	schdecknodel	stecknodel	3	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+505	MH x4	II_90_0014	Dittwar, Dittwar	9.63593, 49.58974	stecknodel	stecknodel	0	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+506	MH F8	II_91_0015	Heckfeld, Heckfeld	9.63713, 49.55077	stecknoͤdl	stecknodel	2	schteknodl	schteknodel	1	Stecknadel	Stecknadel	0
+507	MH p7	II_89_0031, II_89_0032	Werbach, Werbach	9.63871, 49.67029	stecknodel	stecknodel, stecknadel	0	schteknodel	schteknadel, schteknodel	0	Stecknadel	Stecknadel	0
+508	MH O11	II_92_0026	Boxberg, Boxberg	9.64298, 49.48181	stecknodel	stecknodel	0	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+509	MH x3	II_90_0016	Impfingen, Impfingen	9.65946, 49.64719	stecknådel	schtecknōdel	3	schteknådel	schteknodel	1	Stecknadel	Stecknadel	0
+510	MH W6	II_93_0021	Horrenbach, Horrenbach	9.66028, 49.40826	stecknodel	stecknodel	0	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+511	MH x8	II_90_0015	Tauberbischofsheim, Tauberbischofsheim	9.66553, 49.62352	stecknoodel	stecknoodel	0	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+512	MH P2	II_92_0040	Schweigern, Schweigern	9.66576, 49.49224	schdegnodl	schdeggnōdel	3	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+513	MH X1	II_93_0023	Klepsau, Klepsau	9.67156, 49.38805	stecknodel	stecknadel	1	schteknodel	schteknadel	1	Stecknadel	Stecknadel	0
+514	MH y4	II_90_0021	Dittigheim, Dittigheim	9.67647, 49.61035	stecknōdel	stecknodel	1	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+515	MH G11	II_91_0019	Oberschüpf, Oberschüpf	9.67687, 49.52252	schtecknodel	stecknodl	3	schteknodel	schteknodl	1	Stecknadel	Stecknadel	0
+516	MH q3	na	Werbachhausen	9.67954, 49.67946	stecknådel	na	999	schteknådel	na	999	Stecknadel	na	999
+517	MH P4	II_92_0032, II_92_0031, II_92_0030, II_92_0029	Assamstadt, Assamstadt	9.68738, 49.42689	stecknodel	stecknoedel, stecknodel, stecknadel	0	schteknodel	schteknoedel, schteknadel, schteknodel	0	Stecknadel	Stecknadel	0
+518	MH G12	II_91_0020	Unterschüpf, Unterschüpf	9.68922, 49.51437	stecknodel	stecknodel	0	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+519	MH y5	II_90_0022	Distelhausen, Distelhausen	9.69353, 49.59735	stecknodel	stecknodel	0	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+520	MH q2	II_89_0034	Wenkheim, Wenkheim	9.70149, 49.70022	stecknodel	stecknodel	0	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+521	MH G2	II_91_0017	Lauda, Lauda	9.70203, 49.5702	stecknodel	stecknodel	0	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+522	MH G10	II_91_0018	Beckstein, Beckstein	9.70422, 49.54668	stecknodl	stecknodel	1	schteknodl	schteknodel	1	Stecknadel	Stecknadel	0
+523	MH G13	II_91_0021	Sachsenflur, Sachsenflur	9.71, 49.52377	stecknodel	stecknodel	0	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+524	MH P1	II_92_0027	Dainbach-Herold, Dainbach	9.71553, 49.49662	stecknodl	stecknodel	1	schteknodl	schteknodel	1	Stecknadel	Stecknadel	0
+525	MH G3	II_91_0026	Gerlachsheim, Gerlachsheim	9.71775, 49.57998	steggnōdel	schdeggnoodel	5	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+526	MH G4	II_91_0025	Marbach, Marbach	9.7264, 49.56581	stecknāͦdel	stechnoodel	3	schteknodel	schtechnodel	2	Stecknadel	Stecknadel	0
+527	MH G9	II_91_0022	Königshofen, Königshofen	9.73105, 49.54759	stecknodel	stecknadel	1	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+528	MH y1	II_89_0036	Großrinderfeld, Grossrinderfeld	9.73405, 49.66558	stecknādl	stecknodl	1	schteknadl	schteknodl	1	Stecknadel	Stecknadel	0
+529	MH y6	na	Grünsfeld	9.74656, 49.6066	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+530	MH G5	II_91_0027	Kützbrunn, Kützbrunn	9.76136, 49.58159	schdegnoadel	stecknodel	6	schteknoadel	schteknodel	1	Stecknadel	Stecknadel	0
+531	MH q4	II_89_0040	Gerchsheim, Gerchsheim	9.78301, 49.70681	stecknodel	stecknodel	0	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+532	MH G6	II_91_0028, II_91_0029	Messelhausen, Messelhausen	9.7887, 49.5756	stecknodel	stecknodel	0	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+533	MH y10	II_89_0042	Ilmspan, Ilmspan	9.79016, 49.66609	stecknodel	stecknoadl	2	schteknodel	schteknoadl	2	Stecknadel	Stecknadel	0
+534	MH G7/2, MH G7/1	II_91_0032	Oberbalbach, Oberbalbach	9.7938, 49.53997	stecknodel, schdegnodel	schdeknôdl	3	schteknodel	schteknodl	1	Stecknadel	Stecknadel	0
+535	MH q5	II_89_0041	Schönfeld, Schönfeld	9.80069, 49.67702	stecknodel	stecknodel	0	schteknodel	schteknodel	0	Stecknadel	Stecknadel	0
+536	MH ya2	II_90_0028	Unterwittighausen, Unterwittighausen	9.83878, 49.61344	stecknådl	stecknadel	2	schteknådl	schteknadel	2	Stecknadel	Stecknadel	0
+537	MH ya1/1	na	Oberwittighausen	9.85164, 49.62585	stecknodel	na	999	schteknodel	na	999	Stecknadel	na	999
+538	na	III_13_0094	Wildenstein	6.96296, 47.98143	na	stecknodla	999	na	schteknodla	999	na	Stecknadel	999
+539	na	III_6_0005	Diedendorf	7.04974, 48.87869	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+540	na	III_7_0006	Kirberg	7.06204, 48.8233	na	stecknadel	999	na	schteknadel	999	na	Stecknadel	999
+541	na	III_15_0004	Bretten	7.0716, 47.69963	na	stecknadla	999	na	schteknadla	999	na	Stecknadel	999
+542	na	III_4_0053	Herbitzheim	7.08355, 49.01459	na	stecknadel	999	na	schteknadel	999	na	Stecknadel	999
+543	na	III_16_0002	Altenach	7.11466, 47.60658	na	stecknodla	999	na	schteknodla	999	na	Stecknadel	999
+544	na	III_6_0007	Eschweiler	7.11652, 48.8596	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+545	na	III_16_0003	St. Ulrich	7.11911, 47.59537	na	schdecknōdla	999	na	schteknodla	999	na	Stecknadel	999
+546	na	III_14_0095	Alttann	7.12206, 47.80704	na	starnodla	999	na	schtarnodla	999	na	Stecknadel	999
+547	na	III_13_0098	Lintal	7.12943, 47.94619	na	stecknadel	999	na	schteknadel	999	na	Stecknadel	999
+548	na	III_5_0030	Völlerdingen	7.14098, 48.9622	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+549	na	III_6_0010	Weyer	7.15976, 48.85488	na	stecknadel	999	na	schteknadel	999	na	Stecknadel	999
+550	na	III_6_0017	Rexingen	7.17654, 48.90012	na	stecknadel	999	na	schteknadel	999	na	Stecknadel	999
+551	na	III_14_0101	Uffholz	7.17804, 47.81981	na	stachnodel	999	na	schtachnodel	999	na	Stecknadel	999
+552	na	III_13_0109	Winzfelden	7.19806, 47.97442	na	stachnodel	999	na	schtachnodel	999	na	Stecknadel	999
+553	na	III_6_0028	Sieweiler	7.20676, 48.84318	na	schtecknodel	999	na	schteknodel	999	na	Stecknadel	999
+554	na	III_5_0050	Waldhambach	7.21529, 48.92578	na	schtegnadel	999	na	schteknadel	999	na	Stecknadel	999
+555	na	III_15_0017	Galfingen	7.22481, 47.70563	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+556	na	III_15_0021	Heimsbrunn	7.22696, 47.72682	na	stecknodle	999	na	schteknodle	999	na	Stecknadel	999
+557	na	III_16_0027	Aspach	7.23354, 47.6401	na	stecknodla	999	na	schteknodla	999	na	Stecknadel	999
+558	na	III_13_0012	Zimmerbach	7.23755, 48.07261	na	stecknadel	999	na	schteknadel	999	na	Stecknadel	999
+559	na	III_17_0063	Dürlinsdorf	7.24121, 47.48531	na	stecknodle	999	na	schteknodle	999	na	Stecknadel	999
+560	na	III_17_0005	Heimersdorf	7.24206, 47.57224	na	schdecknodla	999	na	schteknodla	999	na	Stecknadel	999
+561	na	III_16_0026	Walheim	7.26432, 47.63975	na	schdecknådl	999	na	schteknådel	999	na	Stecknadel	999
+562	na	III_17_0006	Rüderbach	7.26824, 47.56144	na	stecknodla	999	na	schteknodla	999	na	Stecknadel	999
+563	na	III_16_0036	Bettendorf	7.27676, 47.58379	na	stecknodla	999	na	schteknodla	999	na	Stecknadel	999
+564	na	III_7_0034	Grauftal	7.28092, 48.81935	na	schtecknodel	999	na	schteknodel	999	na	Stecknadel	999
+565	na	III_11_0007	Weiler	7.30273, 48.34253	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+566	na	III_8_0026	Reinhardsmünster	7.31728, 48.67755	na	stecknodla	999	na	schteknodla	999	na	Stecknadel	999
+567	na	III_16_0035	Weiler	7.31925, 47.5857	na	stecknodla	999	na	schteknodla	999	na	Stecknadel	999
+568	na	III_6_0032	Lützelstein	7.32076, 48.85864	na	steggnodel	999	na	schteknodel	999	na	Stecknadel	999
+569	na	III_14_0121	Mülhausen	7.34375, 47.7517	na	stecknodla	999	na	schteknodla	999	na	Stecknadel	999
+570	na	III_9_0013	Birkenwald	7.34505, 48.65874	na	stecknodl	999	na	schteknodl	999	na	Stecknadel	999
+571	na	III_15_0035	Niedersteinbrunn	7.36609, 47.67219	na	stecknadel	999	na	schteknadel	999	na	Stecknadel	999
+572	na	III_17_0074	Lutter	7.38095, 47.46702	na	stecknodle	999	na	schteknodle	999	na	Stecknadel	999
+573	na	III_15_0039	Zimmersheim	7.38892, 47.72013	na	staknodle	999	na	schtaknodle	999	na	Stecknadel	999
+574	na	III_10_0094	Bernhardsweiler	7.40011, 48.36706	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+575	na	III_8_0037	Schweinheim	7.4132, 48.71301	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+576	na	III_13_0029	Andolsheim	7.41512, 48.06763	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+577	na	III_15_0041	Habsheim	7.41666, 47.72864	na	stachnodl	999	na	schtachnodl	999	na	Stecknadel	999
+578	na	III_10_0007	Flexburg	7.43177, 48.57213	na	schdäcknodel	999	na	schteknodel	999	na	Stecknadel	999
+579	na	III_8_0032	Waldolwisheim	7.43629, 48.73254	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+580	na	III_11_0016	Eichhofen	7.44268, 48.38403	na	stecknadel	999	na	schteknadel	999	na	Stecknadel	999
+581	na	III_17_0021	Obermichelbach	7.44645, 47.56623	na	stachnoadal	999	na	schtachnoadel	999	na	Stecknadel	999
+582	na	III_17_0071	Biedertal	7.44789, 47.46978	na	stecknodle	999	na	schteknodle	999	na	Stecknadel	999
+583	na	III_8_0051	Westhausen	7.44963, 48.68592	na	stecknodl	999	na	schteknodl	999	na	Stecknadel	999
+584	na	III_11_0093	Schlettstadt	7.45232, 48.2578	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+585	na	III_17_0022	Oberhagental	7.46966, 47.52221	na	stecknadel	999	na	schteknadel	999	na	Stecknadel	999
+586	na	III_9_0017	Hohengött	7.47311, 48.66189	na	stecknudel	999	na	schteknudel	999	na	Stecknadel	999
+587	na	III_16_0056	Bartenheim	7.47707, 47.63392	na	schtachnåudla	999	na	schtdachnaudla	999	na	Stecknadel	999
+588	na	III_7_0052	Riedheim	7.47956, 48.81064	na	schdecknodl	999	na	schteknodel	999	na	Stecknadel	999
+589	na	III_8_0033	Lupstein	7.48491, 48.73763	na	stecknodl	999	na	schteknodl	999	na	Stecknadel	999
+590	na	III_10_0092	Oberehnheim	7.48507, 48.4622	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+591	na	III_10_0020	Dorlisheim	7.48538, 48.52471	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+592	na	III_10_0011	Avolsheim	7.50043, 48.56159	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+593	na	III_17_0027	Buschweiler	7.50989, 47.55993	na	stechnodel	999	na	schteknodel	999	na	Stecknadel	999
+594	na	III_8_0059	Sässolsheim	7.51503, 48.70869	na	schtecknodel	999	na	schteknodel	999	na	Stecknadel	999
+595	na	III_10_0103	Walf	7.52068, 48.42151	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+596	na	III_17_0035	Hegenheim	7.52344, 47.56115	na	steknaudla	999	na	schteknaudla	999	na	Stecknadel	999
+597	na	III_9_0024	Küttolsheim	7.52543, 48.64343	na	steggnoudl	999	na	schteknoudl	999	na	Stecknadel	999
+598	na	III_16_0057	Bartenheim-Neuweg	7.52868, 47.62399	na	stacknaudla	999	na	schtaknaudla	999	na	Stecknadel	999
+599	na	III_6_0059	Offweiler	7.54296, 48.91021	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+600	na	III_15_0045	Bamlach	7.54942, 47.71753	na	stecknodle	999	na	schteknodle	999	na	Stecknadel	999
+601	na	III_6_0061	Zutzendorf	7.54972, 48.85428	na	stecknudel	999	na	schteknudel	999	na	Stecknadel	999
+602	na	III_10_0027	Ernolsheim	7.56478, 48.56483	na	stachnadel	999	na	schtachnadel	999	na	Stecknadel	999
+603	na	III_7_0079	Hochfelden	7.57004, 48.75735	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+604	na	III_16_0061	Neudorf	7.57149, 47.60532	na	stacknodel	999	na	schtaknodel	999	na	Stecknadel	999
+605	na	III_14_0135	Schliengen	7.57624, 47.75579	na	stecknōdle	999	na	schteknodle	999	na	Stecknadel	999
+606	na	III_16_0071, III_16_0070	Märkt	7.58103, 47.627	na	stecknodel, stecknodle	999	na	schteknodel, schteknodle	999	na	Stecknadel	999
+607	na	III_8_0079	Mutzenhausen	7.58822, 48.7411	na	stecknadel	999	na	schteknadel	999	na	Stecknadel	999
+608	na	III_10_0028	Kolbsheim	7.58834, 48.56138	na	schtecknodel	999	na	schteknodel	999	na	Stecknadel	999
+609	na	III_11_0028	Uttenheim	7.5965, 48.41075	na	stecknudel	999	na	schteknudel	999	na	Stecknadel	999
+610	na	III_8_0075	Hohatzenheim	7.61598, 48.71578	na	stecknadel	999	na	schteknadel	999	na	Stecknadel	999
+611	na	III_9_0033	Offenheim	7.61838, 48.63195	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+612	na	III_7_0070	Minversheim	7.61936, 48.78575	na	stecknōdel	999	na	schteknodel	999	na	Stecknadel	999
+613	na	III_14_0137	Hügelheim	7.6208, 47.82868	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+614	na	III_16_0073	Binzen	7.62403, 47.63133	na	stecknodla	999	na	schteknodla	999	na	Stecknadel	999
+615	na	III_13_0037	Achkarren	7.62448, 48.06769	na	stecknodle	999	na	schteknodle	999	na	Stecknadel	999
+616	na	III_10_0030	Achenheim	7.62578, 48.5817	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+617	na	III_4_0077	Dambach	7.63179, 49.00256	na	schdecknådel	999	na	schteknådel	999	na	Stecknadel	999
+618	na	III_8_0076	Wingersheim	7.63371, 48.72198	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+619	na	III_14_0140	Feldberg	7.64081, 47.7737	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+620	na	III_12_0032, III_12_0031	Wyhl	7.64933, 48.1663	na	stecknodle	999	na	schteknodle	999	na	Stecknadel	999
+621	na	III_14_0048	Eschbach	7.65221, 47.8908	na	stecknadel	999	na	schteknadel	999	na	Stecknadel	999
+622	na	III_5_0065	Reichshofen-Werk	7.66338, 48.93223	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+623	na	III_9_0043	Dingsheim, Griesheim	7.66779, 48.62966	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+624	na	III_13_0127	Niederrimsingen	7.67114, 47.98702	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+625	na	III_14_0144	Britzingen	7.67237, 47.82744	na	stecknoodle	999	na	schteknodle	999	na	Stecknadel	999
+626	na	III_16_0092	Haagen	7.67898, 47.63703	na	stecknodle	999	na	schteknodle	999	na	Stecknadel	999
+627	na	III_14_0145	Badenweiler	7.67934, 47.80555	na	stecknodle	999	na	schteknodle	999	na	Stecknadel	999
+628	na	III_7_0090	Bernolsheim	7.69085, 48.75532	na	stecknodl	999	na	schteknodl	999	na	Stecknadel	999
+629	na	III_8_0082	Eckwersheim	7.69351, 48.68244	na	stecknadel	999	na	schteknadel	999	na	Stecknadel	999
+630	na	III_4_0080	Obersteinbach	7.69364, 49.03549	na	stecknadel	999	na	schteknadel	999	na	Stecknadel	999
+631	na	III_7_0086	Winterhausen	7.70271, 48.79349	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+632	na	III_12_0171	Niederhausen	7.71317, 48.23982	na	stecknodl	999	na	schteknodl	999	na	Stecknadel	999
+633	na	III_4_0081	Niedersteinbach	7.71501, 49.0295	na	stecknadel	999	na	schteknadel	999	na	Stecknadel	999
+634	na	III_11_0048	Daubensand	7.71659, 48.34964	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+635	na	III_5_0074	Fröschweiler	7.72171, 48.94318	na	stäcknodel	999	na	schteknodel	999	na	Stecknadel	999
+636	na	III_14_0146	Marzell über Kandern	7.72688, 47.77116	na	stecknodle	999	na	schteknodle	999	na	Stecknadel	999
+637	na	III_7_0082	Schweighausen	7.73517, 48.82151	na	schtecknodl	999	na	schteknodl	999	na	Stecknadel	999
+638	na	III_9_0058, III_9_0059, III_9_0066, III_9_0069, III_9_0062	Straßburg	7.73609, 48.58523	na	stecknodel, stecknadel	999	na	schteknadel, schteknodel	999	na	Stecknadel	999
+639	na	III_13_0164	Kirchhofen	7.74356, 47.91979	na	schdegnoudlä	999	na	schteknoudle	999	na	Stecknadel	999
+640	na	III_16_0102	Eichsel	7.75815, 47.59842	na	stecknadel	999	na	schteknadel	999	na	Stecknadel	999
+641	na	III_16_0101	Adelhausen	7.76116, 47.61477	na	stecknodle	999	na	schteknodle	999	na	Stecknadel	999
+642	na	III_13_0131	Wolfenweiler	7.76194, 47.96231	na	stecknodle	999	na	schteknodle	999	na	Stecknadel	999
+643	na	III_12_0046	Hecklingen	7.76731, 48.16962	na	stecknadel	999	na	schteknadel	999	na	Stecknadel	999
+644	na	III_11_0040	Meissenheim	7.77738, 48.40898	na	stecknadel	999	na	schteknadel	999	na	Stecknadel	999
+645	na	III_12_0118	Nimburg	7.77794, 48.10762	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+646	na	III_7_0084	Hagenau	7.78868, 48.81435	na	schtecknodel	999	na	schteknodel	999	na	Stecknadel	999
+647	na	III_16_0104	Minseln	7.79067, 47.60301	na	stecknodle	999	na	schteknodle	999	na	Stecknadel	999
+648	na	III_13_0053	Hochdorf	7.80212, 48.0489	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+649	na	III_12_0115	Teningen	7.80344, 48.12897	na	stecknodle	999	na	schteknodle	999	na	Stecknadel	999
+650	na	III_14_0054	Obermünstertal-Krummlinden	7.81186, 47.87153	na	stecknôdla	999	na	schteknodla	999	na	Stecknadel	999
+651	na	III_13_0138	Wittnau	7.814, 47.94661	na	stecknodle	999	na	schteknodle	999	na	Stecknadel	999
+652	na	III_10_0047	Kehl	7.81494, 48.57419	na	schtecknodl	999	na	schteknodl	999	na	Stecknadel	999
+653	na	III_16_0109, III_16_0110	Schopfheim	7.82315, 47.64973	na	schdecknodle, stecknodle	999	na	schteknodle	999	na	Stecknadel	999
+654	na	III_12_0042	Bleichheim	7.8306, 48.20842	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+655	na	III_5_0082	Lembach-Pfaffenbronn	7.83111, 48.99355	na	stecknadel	999	na	schteknadel	999	na	Stecknadel	999
+656	na	III_16_0122	Eichen	7.83816, 47.6471	na	stecknadel	999	na	schteknadel	999	na	Stecknadel	999
+657	na	III_5_0107	Kutzenhausen	7.85624, 48.93375	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+658	na	III_12_0135	Wasser	7.8564, 48.09846	na	stecknodle	999	na	schteknodle	999	na	Stecknadel	999
+659	na	III_11_0123	Schmieheim	7.85658, 48.27938	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+660	na	III_16_0114	Dossenbach	7.85693, 47.61597	na	schtegnodle	999	na	schteknodle	999	na	Stecknadel	999
+661	na	III_10_0117	Hohnhurst	7.86191, 48.49204	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+662	na	III_7_0105	Oberhofen	7.86327, 48.78298	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+663	na	III_5_0094	Memmelshofen	7.87106, 48.96013	na	stecknodl	999	na	schteknodl	999	na	Stecknadel	999
+664	na	III_9_0078	Honau	7.87132, 48.64025	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+665	na	III_13_0071	Gundelfingen	7.87313, 48.04353	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+666	na	III_11_0055, III_11_0054, III_11_0056	Friesenheim	7.87515, 48.37378	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+667	na	III_11_0060	Lahr	7.87603, 48.34018	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+668	na	III_10_0051	Odelshofen	7.88021, 48.56001	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+669	na	III_10_0058	Hesselhurst	7.88114, 48.52042	na	schdecknodel	999	na	schteknodel	999	na	Stecknadel	999
+670	na	III_14_0155	Schönenberg	7.88227, 47.79265	na	stecknodle	999	na	schteknodle	999	na	Stecknadel	999
+671	na	III_14_0164	Fröhnd-Ittenschwand	7.88397, 47.7603	na	stecknodle	999	na	schteknodle	999	na	Stecknadel	999
+672	na	III_14_0158, III_14_0156, III_14_0159, III_14_0157	Schönau	7.89443, 47.78637	na	stecknodle	999	na	schteknodle	999	na	Stecknadel	999
+673	na	III_5_0087	Bremmelbach	7.90023, 48.986	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+674	na	III_16_0117	Wehr	7.9045, 47.62927	na	schdecknodle	999	na	schteknodle	999	na	Stecknadel	999
+675	na	III_7_0102	Rohrweiler	7.90543, 48.75592	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+676	na	III_14_0161	Utzenfeld	7.91301, 47.80054	na	stecknodle	999	na	schteknodle	999	na	Stecknadel	999
+677	na	III_16_0118	Öflingen	7.91396, 47.59228	na	schtecknodle	999	na	schteknodle	999	na	Stecknadel	999
+678	na	III_15_0071	Häg	7.91432, 47.73207	na	stecknōdle	999	na	schteknodle	999	na	Stecknadel	999
+679	na	III_5_0102	Hohweiler	7.92307, 48.91408	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+680	na	III_14_0162	Tunau	7.92311, 47.78574	na	stecknodle	999	na	schteknodle	999	na	Stecknadel	999
+681	na	III_10_0129	Bühl	7.93242, 48.4947	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+682	na	III_5_0092	Ingolsheim	7.93636, 48.97357	na	stecknadel	999	na	schteknadel	999	na	Stecknadel	999
+683	na	III_14_0166	Schlechtnau	7.93888, 47.8175	na	schdegnodle	999	na	schteknodle	999	na	Stecknadel	999
+684	na	III_14_0165	Geschwend	7.93964, 47.80434	na	stecknodle	999	na	schteknodle	999	na	Stecknadel	999
+685	na	III_11_0128	Seelbach	7.94104, 48.30987	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+686	na	III_5_0109	Hofen	7.9412, 48.92766	na	stecknoddel	999	na	schteknodel	999	na	Stecknadel	999
+687	na	III_13_0069	Wittental	7.94267, 48.00437	na	schtecknodle	999	na	schteknodle	999	na	Stecknadel	999
+688	na	III_10_0127, III_10_0128	Offenburg	7.9447, 48.47195	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+689	na	III_10_0120	Zunsweier	7.94627, 48.42199	na	stecknadle	999	na	schteknadle	999	na	Stecknadel	999
+690	na	III_14_0069	St. Wilhelm	7.94887, 47.89511	na	stecknadlä	999	na	schteknadle	999	na	Stecknadel	999
+691	na	III_5_0088	Riedselz	7.95195, 48.99281	na	stecknadel	999	na	schteknadel	999	na	Stecknadel	999
+692	na	III_14_0169	Präg-Herrenschwand	7.95327, 47.76746	na	stecknodlĕ	999	na	schteknodle	999	na	Stecknadel	999
+693	na	III_13_0151	Stegen	7.96093, 47.98418	na	schtecknodle	999	na	schteknodle	999	na	Stecknadel	999
+694	na	III_17_0049, III_17_0055, III_17_0048	Säckingen	7.96171, 47.57476	na	stecknodle	999	na	schteknodle	999	na	Stecknadel	999
+695	na	III_13_0068	Oberglottertal	7.96407, 48.04803	na	stecknodle	999	na	schteknodle	999	na	Stecknadel	999
+696	na	III_10_0053	Urloffen	7.96889, 48.557	na	schdecknodl	999	na	schteknodel	999	na	Stecknadel	999
+697	na	III_4_0099	Altenstadt	7.96964, 49.03158	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+698	na	III_12_0141	Siensbach	7.98804, 48.10755	na	stecknodlä	999	na	schteknodle	999	na	Stecknadel	999
+699	na	III_14_0176	Todtmoos	8.00438, 47.74133	na	stecknodla	999	na	schteknodla	999	na	Stecknadel	999
+700	na	III_13_0153	Unteribental	8.00642, 47.97982	na	stecknodle	999	na	schteknodle	999	na	Stecknadel	999
+701	na	III_8_0098	Lichtenau	8.00691, 48.72636	na	schdecknodel	999	na	schteknodel	999	na	Stecknadel	999
+702	na	III_7_0118	Greffern	8.00704, 48.7525	na	stecknōdl	999	na	schteknodl	999	na	Stecknadel	999
+703	na	III_13_0155	Buchenbach	8.00773, 47.96134	na	schdecknodl	999	na	schteknodel	999	na	Stecknadel	999
+704	na	III_15_0090	Grossherrischwand	8.01017, 47.6797	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+705	na	III_5_0110, III_5_0112	Trimbach	8.0182, 48.94347	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+706	na	III_11_0072	Biberach	8.0278, 48.33891	na	stecknodle	999	na	schteknodle	999	na	Stecknadel	999
+707	na	III_10_0070	Stadelhofen	8.03555, 48.55945	na	schtecknodel	999	na	schteknodel	999	na	Stecknadel	999
+708	na	III_6_0087	Niederrödern	8.04105, 48.90576	na	stecknadel	999	na	schteknadel	999	na	Stecknadel	999
+709	na	III_13_0154	Wagensteig	8.04607, 47.98466	na	stecknoodle	999	na	schteknodle	999	na	Stecknadel	999
+710	na	III_9_0088, III_9_0087	Grossweier	8.0487, 48.65502	na	stecknohdel, stecknadel	999	na	schteknadel, schteknodel	999	na	Stecknadel	999
+711	na	III_10_0136	Hesselbach	8.06498, 48.49863	na	stecknadel	999	na	schteknadel	999	na	Stecknadel	999
+712	na	III_15_0109	Ibach	8.07077, 47.73259	na	stecknodle	999	na	schteknodle	999	na	Stecknadel	999
+713	na	III_16_0132	Rüßwihl	8.07093, 47.63063	na	stecknodle	999	na	schteknodle	999	na	Stecknadel	999
+714	na	III_12_0056, III_12_0057	Elzach	8.07142, 48.17331	na	stecknodle, schtecknodle	999	na	schteknodle	999	na	Stecknadel	999
+715	na	III_13_0156	Breitnau	8.07603, 47.94014	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+716	na	III_15_0101	Fröhnd	8.07717, 47.70011	na	stöcknadel	999	na	schtöknadel	999	na	Stecknadel	999
+717	na	III_6_0095	Beinheim	8.08253, 48.86153	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+718	na	III_9_0092	Sasbach	8.09181, 48.63896	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+719	na	III_13_0079, III_13_0078	St. Märgen	8.09239, 48.00756	na	stecknodle, steknodel	999	na	schteknodel, schteknodle	999	na	Stecknadel	999
+720	na	III_5_0121	Niederlauterbach	8.10398, 48.97233	na	stecknadel	999	na	schteknadel	999	na	Stecknadel	999
+721	na	III_9_0100	Obersasbach	8.10713, 48.63223	na	stecknadel	999	na	schteknadel	999	na	Stecknadel	999
+722	na	III_7_0113	Hügelsheim	8.10904, 48.79654	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+723	na	III_8_0108	Ottersweier	8.11279, 48.66967	na	steggnodel	999	na	schteknodel	999	na	Stecknadel	999
+724	na	III_8_0106	Vimbuch	8.11501, 48.71676	na	schdeggnodel	999	na	schteknodel	999	na	Stecknadel	999
+725	na	III_9_0102, III_9_0101	Kappelrodeck	8.11791, 48.59087	na	stecknadel	999	na	schteknadel	999	na	Stecknadel	999
+726	na	III_7_0122	Halberstung	8.14298, 48.76025	na	stecknadel	999	na	schteknadel	999	na	Stecknadel	999
+727	na	III_15_0108	Tiefenhäusern	8.14547, 47.70277	na	stecknodle	999	na	schteknodle	999	na	Stecknadel	999
+728	na	III_15_0106, III_15_0107	Remetschwiel	8.14553, 47.68929	na	stecknodle	999	na	schteknodle	999	na	Stecknadel	999
+729	na	III_5_0115	Münchhausen	8.14635, 48.92142	na	stecknadel	999	na	schteknadel	999	na	Stecknadel	999
+730	na	III_14_0073	Raitenbuch	8.14698, 47.86647	na	stecknodle	999	na	schteknodle	999	na	Stecknadel	999
+731	na	III_16_0169	Birkingen	8.1477, 47.62511	na	stechnodle	999	na	schtechnodle	999	na	Stecknadel	999
+732	na	III_15_0123	Bannholz	8.167, 47.67614	na	stecknodle	999	na	schteknodle	999	na	Stecknadel	999
+733	na	III_11_0144	Einbach-Hauserbach	8.16759, 48.2974	na	stecknadel	999	na	schteknadel	999	na	Stecknadel	999
+734	na	III_14_0175	Blasiwald	8.17706, 47.7987	na	stecknadel	999	na	schteknadel	999	na	Stecknadel	999
+735	na	III_5_0127	Lauterburg	8.18046, 48.97495	na	stecknadel	999	na	schteknadel	999	na	Stecknadel	999
+736	na	III_5_0129	Illingen	8.20923, 48.9349	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+737	na	III_12_0174	Gutach	8.21021, 48.25051	na	stecknodle	999	na	schteknodle	999	na	Stecknadel	999
+738	na	III_6_0108	Niederbühl	8.21769, 48.84547	na	stecknadel	999	na	schteknadel	999	na	Stecknadel	999
+739	na	III_11_0150	Wolfach	8.22076, 48.30289	na	stecknoadl, stecknodl	999	na	schteknoadl, schteknodl	999	na	Stecknadel	999
+740	na	III_16_0160	Indlekofen	8.22113, 47.65889	na	stecknodle	999	na	schteknodle	999	na	Stecknadel	999
+741	na	III_12_0065	Hornberg	8.23036, 48.21193	na	schdegnodel	999	na	schteknodel	999	na	Stecknadel	999
+742	na	III_12_0163	Triberg	8.2316, 48.13032	na	stecknudel	999	na	schteknudel	999	na	Stecknadel	999
+743	na	III_7_0128	Kuppenheim	8.25452, 48.82818	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+744	na	III_5_0139	Würmersheim	8.25452, 48.94056	na	schdecknodel	999	na	schteknodel	999	na	Stecknadel	999
+745	na	III_12_0162	Gremmelsbach	8.25756, 48.15793	na	stecknudle	999	na	schteknudle	999	na	Stecknadel	999
+746	na	III_15_0125, III_15_0126	Berau	8.25823, 47.69472	na	stecknodle	999	na	schteknodle	999	na	Stecknadel	999
+747	na	III_12_0154	Nussbach	8.25836, 48.13097	na	stecknodle	999	na	schteknodle	999	na	Stecknadel	999
+748	na	III_9_0104	Herrenwies	8.26593, 48.65907	na	steckno̊del	999	na	schteknodel	999	na	Stecknadel	999
+749	na	III_16_0155	Thiengen	8.28181, 47.63443	na	stecknadel	999	na	schteknadel	999	na	Stecknadel	999
+750	na	III_6_0106	Bischweier	8.28478, 48.83768	na	stecknadel	999	na	schteknadel	999	na	Stecknadel	999
+751	na	III_15_0119	Krenkingen	8.30454, 47.68312	na	schtecknodle	999	na	schteknodle	999	na	Stecknadel	999
+752	na	III_13_0084	Vöhrenbach	8.30495, 48.04519	na	stecknodle	999	na	schteknodle	999	na	Stecknadel	999
+753	na	III_11_0152	Vorderlehengericht	8.30807, 48.2924	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+754	na	III_10_0144, III_10_0143	Kniebis	8.3101, 48.47233	na	stecknodel, stecknodl	999	na	schteknodl, schteknodel	999	na	Stecknadel	999
+755	na	III_14_0181	Birkendorf	8.3126, 47.74971	na	stecknodle	999	na	schteknodle	999	na	Stecknadel	999
+756	na	III_12_0158, III_12_0160, III_12_0159	Langenschiltach	8.3168, 48.16202	na	stecknodel, stecknoddel, stecknadel	999	na	schteknadel, schteknodel	999	na	Stecknadel	999
+757	na	III_12_0155	St. Georgen	8.33183, 48.12564	na	schdeggnodl	999	na	schteknodel	999	na	Stecknadel	999
+758	na	III_7_0134	Gernsbach	8.33578, 48.76294	na	stecknadel	999	na	schteknadel	999	na	Stecknadel	999
+759	na	III_38_0006	Horheim	8.34737, 47.64854	na	stecknoodle	999	na	schteknodle	999	na	Stecknadel	999
+760	na	III_36_0006	Wellendingen	8.35185, 47.79705	na	schdecknodle	999	na	schteknodle	999	na	Stecknadel	999
+761	na	III_37_0001	Obermettingen	8.35956, 47.7213	na	stecknodle	999	na	schteknodle	999	na	Stecknadel	999
+762	na	III_38_0007	Wutöschingen	8.36613, 47.65918	na	schdeknodle	999	na	schteknodle	999	na	Stecknadel	999
+763	na	III_37_0005	Ofteringen	8.37663, 47.67838	na	stecknodle	999	na	schteknodle	999	na	Stecknadel	999
+764	na	III_36_0015	Oberwangen	8.3775, 47.7761	na	stecknodle	999	na	schteknodle	999	na	Stecknadel	999
+765	na	III_23_0002	Oberweier	8.37866, 48.91717	na	stecknodl	999	na	schteknodl	999	na	Stecknadel	999
+766	na	III_37_0002	Degernau	8.38187, 47.66635	na	stecknodle	999	na	schteknodle	999	na	Stecknadel	999
+767	na	III_19_0003	Rheinsheim	8.40954, 49.23272	na	schdeggnodel	999	na	schteknodel	999	na	Stecknadel	999
+768	na	III_20_0002	Liedolsheim	8.41451, 49.16221	na	stecknodl	999	na	schteknodl	999	na	Stecknadel	999
+769	na	III_33_0005, III_33_0004, III_33_0003	Pfaffenweiler	8.41798, 48.03273	na	stecknådel	999	na	schteknådel	999	na	Stecknadel	999
+770	na	III_38_0002	Erzingen	8.42011, 47.66108	na	schdecknǭdlə	999	na	schteknodle	999	na	Stecknadel	999
+771	na	III_34_0004, III_34_0003	Bräunlingen	8.44765, 47.9301	na	stecknodle	999	na	schteknodle	999	na	Stecknadel	999
+772	na	III_33_0010	Überauchen	8.45524, 48.01134	na	stecknodle	999	na	schteknodle	999	na	Stecknadel	999
+773	na	III_33_0069	Villingen	8.45901, 48.0567	na	schdecknodle	999	na	schteknodle	999	na	Stecknadel	999
+774	na	III_23_0003	Etzenrot	8.46465, 48.90968	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+775	na	II_59_0059, II_59_0043, II_59_0046, II_59_0061, II_59_0049, II_59_0062, II_59_0042, II_59_0045, II_59_0055, II_59_0056, II_59_0040, II_59_0041, II_59_0054, II_59_0063	Mannheim	8.46678, 49.4865	na	schdecknodl, stecknodel , schteggnodel, schteggnodl, schtecknodel, stecknodl, stécknadel , stecknodel, stecknadel	999	na	schteknadel, schteknodl, schteknodel	999	na	Stecknadel	999
+776	na	III_19_0008	Huttenheim	8.46955, 49.1967	na	schteggnodl	999	na	schteknodl	999	na	Stecknadel	999
+777	na	III_21_0008	Durlach	8.4704, 48.99897	na	stecknadel	999	na	schteknadel	999	na	Stecknadel	999
+778	na	III_21_0006	Blankenloch	8.47137, 49.06482	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+779	na	III_34_0005	Aufen	8.47258, 47.964	na	stecknoadlä	999	na	schteknoadle	999	na	Stecknadel	999
+780	na	III_20_0009	Friedrichstal	8.48091, 49.10481	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+781	na	III_18_0011, III_18_0012, III_18_0014, III_18_0013	Oberhausen	8.48324, 49.26035	na	schdegnodl, schdegnodel, stecknodl, steggnodl	999	na	schteknodl, schteknodel	999	na	Stecknadel	999
+782	na	III_19_0011, III_19_0009, III_19_0010	Neudorf	8.49692, 49.17524	na	stecknadel	999	na	schteknadel	999	na	Stecknadel	999
+783	na	III_36_0013	Blumegg	8.49815, 47.80904	na	stecknadel	999	na	schteknadel	999	na	Stecknadel	999
+784	na	III_18_0008, III_18_0009	Altlussheim	8.49951, 49.30106	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+785	na	III_34_0012	Donaueschingen	8.50052, 47.95113	na	stecknoadel	999	na	schteknoadel	999	na	Stecknadel	999
+786	na	III_23_0009	Langenalb	8.50104, 48.84402	na	stecknordl	999	na	schteknordl	999	na	Stecknadel	999
+787	na	III_20_0015, III_20_0014	Staffort	8.51034, 49.09079	na	stecknodel, stecknodl	999	na	schteknodl, schteknodel	999	na	Stecknadel	999
+788	na	III_19_0013	Wiesental	8.51962, 49.22472	na	stecknadel	999	na	schteknadel	999	na	Stecknadel	999
+789	na	II_60_0033	Ketsch	8.52432, 49.3678	na	stecknadel	999	na	schteknadel	999	na	Stecknadel	999
+790	na	III_36_0018, III_36_0017	Fützen	8.5291, 47.80794	na	stecknodle	999	na	schteknodle	999	na	Stecknadel	999
+791	na	III_33_0017, III_33_0016	Bad Dürrheim	8.53214, 48.01807	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+792	na	III_19_0021	Hambrücken	8.54514, 49.18532	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+793	na	III_32_0016	Dauchingen	8.55237, 48.09031	na	schdecknodl	999	na	schteknodel	999	na	Stecknadel	999
+794	na	III_38_0018, III_38_0019	Lottstetten	8.56963, 47.62576	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+795	na	III_22_0017	Wilferdingen	8.57281, 48.9487	na	stecknoddel	999	na	schteknodel	999	na	Stecknadel	999
+796	na	III_38_0021, III_38_0022, III_38_0020	Jestetten	8.57572, 47.65297	na	stecknodle, schtecknodle	999	na	schteknodle	999	na	Stecknadel	999
+797	na	III_38_0023	Altenburg	8.59899, 47.65513	na	stecknodle	999	na	schteknodle	999	na	Stecknadel	999
+798	na	III_22_0021, III_22_0019	Königsbach	8.61207, 48.96515	na	stecknoddel, schdricknoddl	999	na	schteknodl, schteknodel	999	na	Stecknadel	999
+799	na	III_34_0026	Unterbaldingen	8.61256, 47.96992	na	schtecknoodle	999	na	schteknodle	999	na	Stecknadel	999
+800	na	III_19_0015	Weiher	8.62179, 49.17863	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+801	na	II_60_0037	Eppelheim	8.62885, 49.40164	na	schdechnaͦdel	999	na	schteknodel	999	na	Stecknadel	999
+802	na	III_18_0021	Rot	8.63137, 49.26348	na	schtecknodl	999	na	schteknodl	999	na	Stecknadel	999
+803	na	III_18_0020	Walldorf	8.64294, 49.3028	na	stecknadel	999	na	schteknadel	999	na	Stecknadel	999
+804	na	III_19_0017, III_19_0018, III_19_0020, III_19_0019	Mingolsheim	8.65316, 49.21986	na	schdeggnōdl, stecknodl, stecknadel	999	na	schteknadel, schteknodl, schteknodel	999	na	Stecknadel	999
+805	na	II_58_0071	Lützelsachsen	8.66627, 49.52737	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+806	na	III_22_0026	Ispringen	8.66764, 48.91655	na	stecknoddel	999	na	schteknodel	999	na	Stecknadel	999
+807	na	II_58_0070	Hohensachsen	8.66935, 49.51919	na	schdeggnodl	999	na	schteknodel	999	na	Stecknadel	999
+808	na	III_36_0042	Hausen	8.67575, 47.91421	na	stecknodle	999	na	schteknodle	999	na	Stecknadel	999
+809	na	III_18_0024	Malschenberg	8.67996, 49.25599	na	stecknodl	999	na	schteknodl	999	na	Stecknadel	999
+810	na	III_19_0022	Malsch <Maleck>	8.68153, 49.24579	na	schdeggnoodl	999	na	schteknodel	999	na	Stecknadel	999
+811	na	III_37_0010	Büsingen	8.69282, 47.69702	na	stecknoedle	999	na	schteknoedle	999	na	Stecknadel	999
+812	na	III_36_0037, III_36_0038, III_36_0036	Schlatt	8.70119, 47.76891	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+813	na	III_18_0036	Wiesloch	8.70178, 49.29504	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+814	na	III_36_0035	Weil	8.7018, 47.81859	na	stecknodle	999	na	schteknodle	999	na	Stecknadel	999
+815	na	III_21_0025	Bretten	8.70657, 49.03456	na	schdegnodel	999	na	schteknodel	999	na	Stecknadel	999
+816	na	III_21_0031	Büchig	8.70984, 49.0742	na	stecknadel	999	na	schteknadel	999	na	Stecknadel	999
+817	na	III_34_0039, III_34_0041, III_34_0040	Immendingen	8.73032, 47.95055	na	stecknoodle, stecknoddle, stecknodle	999	na	schteknodle	999	na	Stecknadel	999
+818	na	III_18_0028	Dielheim	8.7354, 49.28257	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+819	na	II_60_0043	Gaiberg	8.75015, 49.36606	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+820	na	III_19_0028	Odenheim	8.75076, 49.17902	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+821	na	III_37_0015	Gailingen	8.75499, 47.69685	na	schtecknodle	999	na	schteknodle	999	na	Stecknadel	999
+822	na	III_35_0033, III_35_0032, III_35_0034	Engen	8.76853, 47.85186	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+823	na	III_18_0031	Horrenberg	8.78051, 49.28149	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+824	na	III_20_0034	Bahnbrücken	8.78671, 49.11865	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+825	na	III_20_0038	Flehingen	8.78694, 49.0869	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+826	na	II_60_0049	Mauer	8.79767, 49.34127	na	stecknadel	999	na	schteknadel	999	na	Stecknadel	999
+827	na	III_24_0026	Tiefenbronn	8.80329, 48.82521	na	stecknoadel	999	na	schteknoadel	999	na	Stecknadel	999
+828	na	II_59_0083	Altneudorf	8.80481, 49.46366	na	schtecknodl	999	na	schteknodl	999	na	Stecknadel	999
+829	na	III_23_0035	Öschelbronn	8.81415, 48.90599	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+830	na	III_24_0036	Mühlhausen	8.82201, 48.80607	na	schdecknodl	999	na	schteknodel	999	na	Stecknadel	999
+831	na	III_36_0052	Schlatt	8.83529, 47.80435	na	stecknodle	999	na	schteknodle	999	na	Stecknadel	999
+832	na	III_19_0034	Dühren	8.83562, 49.24557	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+833	na	III_37_0017	Rielasingen	8.83715, 47.73231	na	stecknadel	999	na	schteknadel	999	na	Stecknadel	999
+834	na	III_19_0042, III_19_0041, III_19_0043	Elsenz	8.83766, 49.17408	na	schdecknoadel, stecknaadel, stecknoadel	999	na	schteknoadel, schteknadel	999	na	Stecknadel	999
+835	na	II_60_0056	Mönchzell	8.85327, 49.33612	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+836	na	III_20_0043	Sulzfeld	8.85671, 49.10336	na	schtecknodel	999	na	schteknodel	999	na	Stecknadel	999
+837	na	III_36_0044	Beuren	8.87459, 47.79932	na	stecknodl	999	na	schteknodl	999	na	Stecknadel	999
+838	na	III_35_0044	Honstetten	8.88331, 47.8933	na	schdecknodel	999	na	schteknodel	999	na	Stecknadel	999
+839	na	III_18_0042	Neidenstein	8.88423, 49.31637	na	schdegnodl	999	na	schteknodel	999	na	Stecknadel	999
+840	na	III_35_0043	Eigeltingen	8.8974, 47.85806	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+841	na	III_37_0020	Überlingen am Ried	8.89807, 47.73495	na	stecknadel	999	na	schteknadel	999	na	Stecknadel	999
+842	na	III_20_0052	Mühlbach	8.90301, 49.09703	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+843	na	III_35_0045	Reute	8.90723, 47.8873	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+844	na	III_18_0050	Waibstadt	8.9198, 49.29982	na	stecknadel	999	na	schteknadel	999	na	Stecknadel	999
+845	na	III_36_0047	Steisslingen	8.92209, 47.80296	na	stecknoo̥adle	999	na	schteknoadle	999	na	Stecknadel	999
+846	na	III_37_0024	Moos	8.93316, 47.7259	na	stecknodle	999	na	schteknodle	999	na	Stecknadel	999
+847	na	III_20_0057	Stebbach	8.96448, 49.14676	na	schtecknodle	999	na	schteknodle	999	na	Stecknadel	999
+848	na	III_37_0029	Hemmenhofen	8.96502, 47.67294	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+849	na	III_36_0048	Wahlwies	8.96632, 47.81985	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+850	na	III_37_0023	Radolfzell	8.97017, 47.74493	na	stecknadel	999	na	schteknadel	999	na	Stecknadel	999
+851	na	III_33_0040	Buchheim	8.98672, 48.011	na	stecknadel	999	na	schteknadel	999	na	Stecknadel	999
+852	na	III_37_0027	Horn	8.99438, 47.69562	na	stecknoodlä̆	999	na	schteknodle	999	na	Stecknadel	999
+853	na	III_19_0050	Grombach	8.99507, 49.22687	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+854	na	III_32_0041	Schwenningen	8.99619, 48.10638	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+855	na	III_36_0050, III_36_0051	Güttingen	8.998, 47.77415	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+856	na	III_25_0044	Sindelfingen	9.00194, 48.70797	na	stecknadel	999	na	schteknadel	999	na	Stecknadel	999
+857	na	III_35_0059	Mühlingen	9.01554, 47.91191	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+858	na	III_18_0060	Obergimpern	9.04013, 49.25574	na	stecknadel	999	na	schteknadel	999	na	Stecknadel	999
+859	na	II_59_0102	Waldkatzenbach	9.05484, 49.45603	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+860	na	III_37_0040, III_37_0038, III_37_0039	Reichenau	9.06125, 47.69789	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+861	na	III_37_0032, III_37_0035, III_37_0034	Allensbach	9.06699, 47.71535	na	stecknodel, stecknadel	999	na	schteknadel, schteknodel	999	na	Stecknadel	999
+862	na	III_34_0055	Heudorf	9.07121, 47.99412	na	stecknodle	999	na	schteknodle	999	na	Stecknadel	999
+863	na	II_59_0103	Strümpfelbrunn	9.07574, 49.4645	na	schdeggnodl	999	na	schteknodel	999	na	Stecknadel	999
+864	na	III_18_0061	Siegelsbach	9.08942, 49.27263	na	stecknadel	999	na	schteknadel	999	na	Stecknadel	999
+865	na	III_36_0061, III_36_0062	Sipplingen	9.09665, 47.79525	na	stecknodel, stecknodle	999	na	schteknodel, schteknodle	999	na	Stecknadel	999
+866	na	II_60_0076	Reichenbuch	9.09708, 49.39371	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+867	na	III_33_0049	Rohrdorf	9.10207, 48.01811	na	stecknodl	999	na	schteknodl	999	na	Stecknadel	999
+868	na	III_19_0058	Bad Rappenau	9.10212, 49.24032	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+869	na	III_36_0151	Hödingen	9.13275, 47.78865	na	stecknôdel	999	na	schteknodel	999	na	Stecknadel	999
+870	na	III_18_0065	Neckarzimmern	9.1329, 49.31835	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+871	na	III_18_0066	Hassmersheim	9.14257, 49.30049	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+872	na	II_59_0106	Wagenschwend	9.14637, 49.47256	na	stegnodl	999	na	schteknodl	999	na	Stecknadel	999
+873	na	III_37_0037	Dingelsdorf	9.15648, 47.7384	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+874	na	III_35_0069	Herdwangen	9.16937, 47.8629	na	stegnoadel	999	na	schteknoadel	999	na	Stecknadel	999
+875	na	III_38_0131	Konstanz	9.17758, 47.66385	na	stecknodle	999	na	schteknodle	999	na	Stecknadel	999
+876	na	II_60_0084	Dallau	9.19192, 49.38655	na	stacknodl	999	na	schtaknodl	999	na	Stecknadel	999
+877	na	II_59_0113	Muckental	9.20231, 49.42474	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+878	na	II_59_0119	Laudenberg	9.21457, 49.48066	na	stecknadel	999	na	schteknadel	999	na	Stecknadel	999
+879	na	II_59_0120	Waldhausen/Einbach	9.24238, 49.48477	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+880	na	III_18_0075	Herbolzheim	9.26007, 49.28376	na	schdecknōdl	999	na	schteknodel	999	na	Stecknadel	999
+881	na	III_35_0075	Hattenweiler	9.27568, 47.85957	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+882	na	II_59_0122	Großeicholzheim	9.28966, 49.44361	na	stecknodl	999	na	schteknodl	999	na	Stecknadel	999
+883	na	III_37_0044	Grasbeuren	9.29766, 47.73029	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+884	na	III_18_0076	Stein	9.29954, 49.26198	na	schdeggnodl	999	na	schteknodel	999	na	Stecknadel	999
+885	na	III_37_0045	Ahausen	9.32247, 47.72502	na	schdecknŏŏdel, schdecknŏŏdl	999	na	schteknodl, schteknodel	999	na	Stecknadel	999
+886	na	III_35_0081	Echbeck	9.32995, 47.8587	na	schtecknodel	999	na	schteknodel	999	na	Stecknadel	999
+887	na	II_58_0115	Hainstadt	9.33082, 49.53905	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+888	na	III_36_0092	Mittelstenweiler	9.33753, 47.75241	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+889	na	III_37_0050	Bermatingen	9.34868, 47.73084	na	stecknodl	999	na	schteknodl	999	na	Stecknadel	999
+890	na	II_92_0002	Eberstadt	9.3666, 49.47727	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+891	na	III_36_0091	Untersiggingen	9.37828, 47.77517	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+892	na	III_37_0054, III_37_0055, III_37_0053, III_37_0052	Markdorf	9.38933, 47.72088	na	stecknodel, schdecknodel, stecknodl	999	na	schteknodl, schteknodel	999	na	Stecknadel	999
+893	na	II_92_0005	Bofsheim	9.41226, 49.4714	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+894	na	II_89_0012	Sonderriet	9.43938, 49.71753	na	stecknadel	999	na	schteknodel	999	na	Stecknadel	999
+895	na	II_89_0007	Nassig	9.45146, 49.73582	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+896	na	II_92_0009	Sindolsheim	9.45384, 49.48715	na	schtecknodel	999	na	schteknodel	999	na	Stecknadel	999
+897	na	II_89_0014	Hundheim	9.46691, 49.69109	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+898	na	II_92_0008	Rosenberg	9.4752, 49.45583	na	schdecknadel	999	na	schteknadel	999	na	Stecknadel	999
+899	na	II_92_0010	Hohenstadt	9.51685, 49.49168	na	schtecknodel	999	na	schteknodel	999	na	Stecknadel	999
+900	na	II_93_0009	Hüngheim	9.51823, 49.41257	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+901	na	II_89_0023	Bronnbach	9.54654, 49.71348	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+902	na	II_93_0015	Winzenhofen	9.57229, 49.35628	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+903	na	II_90_0013	Gissigheim	9.58726, 49.59451	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+904	na	II_89_0028	Höhefeld	9.60905, 49.71271	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+905	na	II_91_0014	Epplingen	9.62742, 49.5054	na	schdeggnodl	999	na	schteknodel	999	na	Stecknadel	999
+906	na	III_24_0105	Wäschenbeuren	9.68695, 48.75984	na	stecknôdl	999	na	schteknodl	999	na	Stecknadel	999
+907	na	II_89_0037	Steinbach	9.72212, 49.71075	na	stecknoädl	999	na	schteknoädl	999	na	Stecknadel	999
+908	na	II_90_0025	Paimar	9.75368, 49.6402	na	stecknoadel	999	na	schteknoadel	999	na	Stecknadel	999
+909	na	II_90_0026	Krensheim	9.78002, 49.63781	na	stecknodel	999	na	schteknodel	999	na	Stecknadel	999
+910	na	II_90_0027	Poppenhausen	9.82622, 49.63065	na	stecknaadl	999	na	schteknadl	999	na	Stecknadel	999

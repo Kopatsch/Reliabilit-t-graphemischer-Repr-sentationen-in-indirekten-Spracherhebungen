@@ -1,0 +1,19 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_maurer_align	item_DWA	item_DWA_align	Levenshtein_item
+0	Hag D 2	III_5_0022	Altweiler (Altwiller), Altweiler	6.98122, 48.93023	wolkwuame	w o l k w u a m e	molgur	m o l g u r	6
+1	Hag E 9	III_5_0027	Harskirchen, Harskirchen	7.0389, 48.93409	wollgurme	w o ll g u r m e	mollgurme	m o ll g u r m e	1
+2	Hag M 12	III_6_0005	Diedendorf, Diedendorf	7.04974, 48.87869	wollgwurme	w o ll g w u r m e	wolgwurme	w o l g w u r m e	1
+3	Hag M 11/2, Hag M 11/1	III_6_0003	Wolfskirchen, Wolfskirchen	7.07612, 48.87884	wollgurme	w o ll g u r m e	wolkwurme	w o l k w u r m e	2
+4	Hag M 1	III_5_0034	Zollingen, Zollingen	7.07636, 48.91048	wollgůarme	w o ll g ů a r m e	wollguame	w o ll g u a m e	2
+5	Hag E 5	III_5_0033	Saarwerden (Sarrewerden), Saarwerden	7.08411, 48.9218	wollkwuame	w o ll k w u a m e	wolgwurme	w o l g w u r m e	3
+6	Hag E 6/2	III_5_0028, III_5_0029	Saarbuckenheim (Sarre-Union), Saarbuckenheim	7.08686, 48.93919	woltwurme	w o l t w u r m e	wollgwurmer	w o ll g w u r m e r	3
+7	Hag M 3	III_6_0004	Burbach, Burbach	7.11226, 48.90144	wulkwurm	w u l k w u r m	wolkwurm	w o l k w u r m	1
+8	Hag E 4	III_5_0032	Rimsdorf, Rimsdorf	7.12568, 48.92923	wollgurme	w o ll g u r m e	molkwurme	m o l k w u r m e	3
+9	Hag E 2	III_5_0030	Völlerdingen (Voellerdingen), Völlerdingen	7.14098, 48.9622	molkwurme	m o l k w u r m e	moldwurme	m o l d w u r m e	1
+10	Hag E 3	III_5_0031	Domfessel, Domfessel	7.15171, 48.95143	molkwuarme	m o l k w u a r m e	molkwuame	m o l k w u a m e	1
+11	Hag M 5	III_6_0008	Berg, Berg	7.1532, 48.89487	wolkwurme	w o l k w u r m e	wollgurme	w o ll g u r m e	2
+12	Hag M 6	III_6_0009	Güngweiler (Gungwiller), Gu[e]ngweiler	7.15771, 48.88171	wollgurmä	w o ll g u r m ä	wollgůrme	w o ll g ů r m e	2
+13	Hag F 5	III_5_0040	Diemeringen, Diemeringen	7.18685, 48.94061	molkwurme	m o l k w u r m e	mollgurme	m o ll g u r m e	2
+14	Hag F 7	III_5_0050	Waldhambach, Waldhambach	7.21529, 48.92578	wollgurmä	w o ll g u r m ä	wollgurme	w o ll g u r m e	1
+15	Hag M 11/2, Hag M 11/1	III_6_0003	Wolfskirchen, Wolfskirchen	7.07612, 48.87884	wollgurme	w o ll g u r m e	wolkwurme	w o l k w u r m e	2
+16	Hag E 6/2	III_5_0028, III_5_0029	Saarbuckenheim (Sarre-Union), Saarbuckenheim	7.08686, 48.93919	woltwurme	w o l t w u r m e	wolttwurme	w o l tt w u r m e	1
+17	Hag E 6/2	III_5_0028, III_5_0029	Saarbuckenheim (Sarre-Union), Saarbuckenheim	7.08686, 48.93919	woltwurme	w o l t w u r m e	wollgwurmer	w o ll g w u r m e r	3

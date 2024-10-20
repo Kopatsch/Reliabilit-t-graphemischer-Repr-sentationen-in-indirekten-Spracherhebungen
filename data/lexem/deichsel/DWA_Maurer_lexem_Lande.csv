@@ -1,0 +1,39 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Co p 2	na	Wildenstein bei Krüt, Kreis Tann	6.96296, 47.98143	låndere	na	999	landere	na	999	Lande	na	999
+1	Co T1	na	Brückensweiler (Bréchaumont)	7.0684, 47.66973	lande	na	999	lande	na	999	Lande	na	999
+2	Co M6	na	Bretten Landkreis Altkirch	7.0716, 47.69963	lande	na	999	lande	na	999	Lande	na	999
+3	Co q 7	na	Lautenbachzell	7.14925, 47.94057	lande	na	999	lande	na	999	Lande	na	999
+4	Co r 9	III_13_0103	Bühl Landkreis Gebweiler (Buhl), Bühl	7.18638, 47.92816	lånder	lånda	2	lander	lander	0	Lande	Lande	0
+5	Co k 11	na	Sulzbach (Soultzbach-Les-Bains)	7.20324, 48.03797	lantera	na	999	landere	na	999	Lande	na	999
+6	Co c 12	na	Ammerschweier	7.28484, 48.12465	lānt	na	999	land	na	999	Lande	na	999
+7	Co c 2	na	Reichenweier (Riquewhir)	7.29975, 48.16568	lander	na	999	lander	na	999	Lande	na	999
+8	Co G6	na	Baldersheim	7.37806, 47.80152	lander	na	999	lander	na	999	Lande	na	999
+9	Co s 6	na	Oberenzen	7.37872, 47.94354	lander	na	999	lander	na	999	Lande	na	999
+10	Stra P 5	na	Dambach (Dambach-La-Ville)	7.42838, 48.32103	lander	na	999	lander	na	999	Lande	na	999
+11	Stra A 6/2	na	Ottrott	7.43298, 48.46056	loͣnde	na	999	lande	na	999	Lande	na	999
+12	Stra Q 6	III_11_0103	Müttersholz (Muttersholtz), Muttersholz	7.53321, 48.2674	lãnder	lãnder	0	lander	lander	0	Lande	Lande	0
+13	Co C3	na	Aftersteg (bei Todtnau)	7.92836, 47.843	lande	na	999	lande	na	999	Lande	na	999
+14	TÜB c6	na	Bermersbach	8.34126, 48.69401	låndä	na	999	lande	na	999	Lande	na	999
+15	Ma h1/2	II_59_0039, II_59_0043	Mannheim, Mannheim	8.46678, 49.4865	lann	lanne, lann	0	lann	lanne, lann	0	Lande	Lande	0
+16	MH J5	na	Peterstal (keine eigene GID, gleiche wie Wilhelmsfeld)	8.75548, 49.44624	bånn	na	999	lann	na	999	Lande	na	999
+17	MH R14	na	Schlierbach	8.76062, 49.41501	lanne	na	999	lanne	na	999	Lande	na	999
+18	na	III_14_0004	Odern	6.97525, 47.91008	na	landra	999	na	landere	999	na	Lande	999
+19	na	III_13_0008	Metzeral	7.07146, 48.01325	na	lāndara	999	na	landere	999	na	Lande	999
+20	na	III_15_0020	Reiningen	7.2319, 47.74911	na	lānda	999	na	lander	999	na	Lande	999
+21	na	III_14_0102	Wittelsheim	7.24063, 47.81047	na	landre	999	na	landere	999	na	Lande	999
+22	na	III_13_0132	St. Georgen	7.8056, 47.97934	na	lande	999	na	lande	999	na	Lande	999
+23	na	III_13_0133	Haslach	7.82166, 47.9895	na	lande	999	na	lande	999	na	Lande	999
+24	na	III_14_0167	Todtnau	7.94634, 47.82887	na	lande	999	na	lande	999	na	Lande	999
+25	na	III_16_0142	Buch	8.11336, 47.61399	na	lande	999	na	lande	999	na	Lande	999
+26	na	III_7_0125	Sandweier	8.19586, 48.80855	na	lônde	999	na	lande	999	na	Lande	999
+27	na	III_10_0141	Maisach	8.20067, 48.47223	na	landen	999	na	landen	999	na	Lande	999
+28	na	III_6_0106	Bischweier	8.28478, 48.83768	na	lanten	999	na	landen	999	na	Lande	999
+29	na	III_37_0004	Mauchen	8.39032, 47.73994	na	lande	999	na	lande	999	na	Lande	999
+30	na	III_38_0010	Geisslingen	8.39181, 47.61975	na	lande	999	na	lande	999	na	Lande	999
+31	na	III_36_0011	Lembach	8.43056, 47.80389	na	londe	999	na	lande	999	na	Lande	999
+32	na	II_59_0069	Ilvesheim	8.56668, 49.47129	na	lanne	999	na	lanne	999	na	Lande	999
+33	na	III_21_0016	Obergrombach	8.58542, 49.07709	na	lanne, lande	999	na	lanne, lande	999	na	Lande	999
+34	na	II_59_0075	Wieblingen	8.64805, 49.42539	na	lanne	999	na	lanne	999	na	Lande	999
+35	na	III_20_0051	Eppingen	8.9098, 49.13704	na	lanne	999	na	lanne	999	na	Lande	999
+36	na	II_58_0116	Schloßau	9.15226, 49.53935	na	lanne	999	na	lanne	999	na	Lande	999
+37	na	III_35_0067	Herdwangen	9.16937, 47.8629	na	lande	999	na	lande	999	na	Lande	999

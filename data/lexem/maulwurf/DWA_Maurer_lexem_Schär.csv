@@ -1,0 +1,340 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Co q 5	III_13_0096	Mittlach, Mittlach	7.03325, 48.00405	scharer	scharer	0	scharer	scharer	0	Schär	Schär	0
+1	Co T1	na	Brückensweiler (Bréchaumont)	7.0684, 47.66973	schar	na	999	schar	na	999	Schär	na	999
+2	Co i 3	III_13_0008	Metzeral, Metzeral	7.07146, 48.01325	schärer	scharer	1	schärer	scharer	1	Schär	Schär	0
+3	Co q 4	III_13_0097	Sondernach, Sondernach	7.07276, 47.99621	schārer	scharer	1	scharer	scharer	0	Schär	Schär	0
+4	Co i 10	III_13_0007	Mühlbach (Muhlbach-Sur-Munster), Mühlbach	7.08731, 48.02582	scharer	scharer	0	scharer	scharer	0	Schär	Schär	0
+5	Co T8	III_16_0017	Retzweiler, Retzweiler	7.09315, 47.63072	schaar	schaar	0	schar	schar	0	Schär	Schär	0
+6	Co i 7	III_13_0006	Breitenbach (Breitenbach-Haut-Rhin), Breitenbach	7.10087, 48.02382	schārer	scherer, scharer	1	scharer	scharer	0	Schär	Schär	0
+7	Co i 9	III_13_0004, III_13_0003	Stossweier, Stossweier	7.10163, 48.05432	schaarer	scharer, schaara	1	scharer	scharer	0	Schär	Schär	0
+8	Co i 2	III_13_0009	Sulzern (Soultzeren), Sulzern	7.10254, 48.06373	schārer	scharer	1	scharer	scharer	0	Schär	Schär	0
+9	Co T11	III_16_0019	Mansbach (Manspach), Mansbach	7.10508, 47.6176	schar	schar	0	schar	schar	0	Schär	Schär	0
+10	Co M9	III_15_0009	Diefmatten Kreis Altkirch, Diefmatten	7.11319, 47.70828	schar	schar	0	schar	schar	0	Schär	Schär	0
+11	Co i 6	III_13_0005	Luttenbach (Luttenbach-Près-Munster), Luttenbach	7.11745, 48.03105	scharer	scharer	0	scharer	scharer	0	Schär	Schär	0
+12	Co i 5	III_13_0002	Hohrod, Hohrod	7.12607, 48.05444	scharer	scharer	0	scharer	scharer	0	Schär	Schär	0
+13	Co i 1/2, Co i 1/1	III_13_0065	Münster (Munster), Münster	7.13185, 48.0418	scharer, schār	scharer	0	schar, scharer	scharer	0	Schär	Schär	0
+14	Co T5	III_16_0004	Gommersdorf, Gommersdorf	7.13318, 47.64299	schaar	schaar	0	schar	schar	0	Schär	Schär	0
+15	Co i 8	III_13_0001	Hohrodberg, Hohrodberg	7.13528, 48.06037	scharrer	schàrrer	1	scharer	scharer	0	Schär	Schär	0
+16	Co Vc 2	III_16_0011	Hindlingen, Hindlingen	7.13734, 47.57341	schaar	chahr	2	schar	char	1	Schär	Schär	0
+17	Co i 4	III_13_0010	Eschbach, Eschbach	7.14594, 48.02896	scharer	scharer	0	scharer	scharer	0	Schär	Schär	0
+18	Co T14	III_16_0006	Füllern (Fulleren), Füllern	7.14596, 47.59468	schar	schaar	1	schar	schar	0	Schär	Schär	0
+19	Co T3	na	Büttweiler (Buethwiller)	7.14982, 47.65627	schār	na	999	schar	na	999	Schär	na	999
+20	Co T4	na	Hagenbach	7.15712, 47.65028	schar	na	999	schar	na	999	Schär	na	999
+21	Co M5	na	Niederburnhaupt (Burnhaupt-Le-Bas)	7.16039, 47.71674	schār	na	999	schar	na	999	Schär	na	999
+22	Co Ua 11	III_17_0031	Pfetterhausen (Pfetterhouse), Pfetterhausen	7.16635, 47.50105	schaar	schaar	0	schar	schar	0	Schär	Schär	0
+23	Co k 1	III_13_0016	Griesbach (Griesbach-Au-Val), Griesbach	7.17071, 48.03351	scharer	schere	2	scharer	schere	2	Schär	Schär	0
+24	Co k 2	III_13_0015	Günsbach (Gunsbach), Günsbach	7.17323, 48.0464	schaarer	scherer	2	scharer	scherer	1	Schär	Schär	0
+25	Co N14	III_15_0027	Bernweiler (Bernwiller), Bernweiler	7.19368, 47.69085	schār	schar	1	schar	schar	0	Schär	Schär	0
+26	Co Ua 12	III_17_0012	Mooslargue, Moos	7.21833, 47.50939	schār	schar	1	schar	schar	0	Schär	Schär	0
+27	Co U 1	na	Heidweiler (Heidwiller)	7.23995, 47.6597	schaar	na	999	schar	na	999	Schär	na	999
+28	Co Ub 1	III_17_0063	Dürlinsdorf (Durlinsdorf), Dürlinsdorf	7.24121, 47.48531	schār	schär	1	schar	schär	1	Schär	Schär	0
+29	Co N8/2	III_15_0015	Illfurt (Illfurth), Illfurt	7.26494, 47.67073	schār	schar	1	schar	schar	0	Schär	Schär	0
+30	Co Ua 10	III_17_0006	Rüderbach (Ruederbach), Rüderbach	7.26824, 47.56144	schar	schar	0	schar	schar	0	Schär	Schär	0
+31	Co Ua 13	III_17_0010	Köstlach (Kœstlach), Köstlach	7.27085, 47.5062	schär	schär	0	schär	schär	0	Schär	Schär	0
+32	Co y 10	na	Rädersheim (Raedersheim)	7.28212, 47.88747	schar	na	999	schar	na	999	Schär	na	999
+33	Co Ua 7/1	na	Riespach	7.28623, 47.54132	schar	na	999	schar	na	999	Schär	na	999
+34	Co Ub 3/1	na	Altpfirt (Vieux-Ferrette)	7.30044, 47.50327	schār	na	999	schar	na	999	Schär	na	999
+35	Co Ua 4	na	Grenzingen	7.30068, 47.56354	schar	na	999	schar	na	999	Schär	na	999
+36	Co Ua 3	na	Weiler (Kreis Altkirch)	7.31925, 47.5857	schār	na	999	schar	na	999	Schär	na	999
+37	Co Va 10	III_17_0009	Dürmenach (Durmenach), Dürmenach	7.3374, 47.5271	schààr	schä̀r	3	schar	schär	1	Schär	Schär	0
+38	Co Va 9	III_17_0020	Buchsweiler (Bouxwiller), Buchsweiler	7.34362, 47.50479	schār	schar	1	schar	schar	0	Schär	Schär	0
+39	Co V 6	III_16_0041	Wahlbach, Wahlbach	7.34876, 47.63135	schǟr	schar	1	schär	schar	1	Schär	Schär	0
+40	Co V 10	na	Franken	7.35483, 47.59947	schar	na	999	schar	na	999	Schär	na	999
+41	Co Va 11	III_17_0015	Werenzhausen (Werentzhouse), Werenzweiler	7.3579, 47.51688	schar	schahr	1	schar	schar	0	Schär	Schär	0
+42	Co G1	III_14_0125	Rülisheim, Rülisheim	7.35868, 47.82216	schaar	schaar	0	schar	schar	0	Schär	Schär	0
+43	Co Vd 5	III_17_0075, III_17_0076	Rädersdorf (Raedersdorf), Rädersdorf , Rädersdorf	7.3665, 47.47487	schār	schar, schaar	1	schar	schar	0	Schär	Schär	0
+44	Co V 18	na	Zässingen (Zaessingue)	7.3676, 47.62375	schar	na	999	schar	na	999	Schär	na	999
+45	Co V 11	III_16_0044	Jettingen, Jettingen	7.36877, 47.59592	schar	schar	0	schar	schar	0	Schär	Schär	0
+46	Co G5	na	Sausheim	7.3698, 47.78852	schahr	na	999	schar	na	999	Schär	na	999
+47	Co V 16	na	Rantsweiler (Rantzwiller)	7.37595, 47.65241	schar	na	999	schar	na	999	Schär	na	999
+48	Co Va 8	III_17_0023	Mittelmüspach-Niedermüspach (Muespach), Müspach	7.3807, 47.54728	schār	schar, schär	1	schar	schar, schär	0	Schär	Schär	0
+49	Co Vd 6	III_17_0074	Lutter, Lutter	7.38095, 47.46702	schar	schar	0	schar	schar	0	Schär	Schär	0
+50	Co Va 14	III_16_0045	Berenzweiler (Berentzwiller), Berenzweiler	7.3832, 47.5856	schǟr	schär	1	schär	schär	0	Schär	Schär	0
+51	Co V 17/2, Co V 17/1	III_16_0050	Kötzingen (Kœtzingue), Kötzingen	7.394, 47.65091	schar	schaar	1	schar	schar	0	Schär	Schär	0
+52	Co Vd 2/2, Co Vd 2/1	III_17_0072	Oltingen (Oltingue), Oltingen	7.39411, 47.48862	schār, schår	schaar	2	schar	schar	0	Schär	Schär	0
+53	Co O1/1	na	Rixheim	7.39739, 47.74412	schārer	na	999	scharer	na	999	Schär	na	999
+54	V	III_17_0025	Knöringen  (Knœringue) (im Elsass), Knöringen	7.4042, 47.5624	schär	schar	1	schär	schar	1	Schär	Schär	0
+55	Co V 7	III_16_0052	Niedermagstatt (Magstatt-le-Bas), Niedermagstatt	7.41155, 47.6393	schar	schar	0	schar	schar	0	Schär	Schär	0
+56	Co Va 1	III_17_0024	Oberranspach (Ranspach-le-Haut), Oberranspach	7.4175, 47.57697	schar	schar	0	schar	schar	0	Schär	Schär	0
+57	Co V 8	III_16_0053	Stetten, Stetten	7.42942, 47.6261	schār	schaar	2	schar	schar	0	Schär	Schär	0
+58	Co V 14	na	Kappeln (Kappelen)	7.44156, 47.61975	schar	na	999	schar	na	999	Schär	na	999
+59	Co V 4	na	Uffheim	7.44285, 47.65062	schār	na	999	schar	na	999	Schär	na	999
+60	Co Va 2	III_17_0021	Obermichelbach (Michelbach-le-Haut), Obermichelbach	7.44645, 47.56623	schār	schār	0	schar	schar	0	Schär	Schär	0
+61	Co Va 15	na	Niederranspach (Ranspach-le-Bas)	7.44726, 47.58851	schar	na	999	schar	na	999	Schär	na	999
+62	Co Va 4/1	na	Volkensberg (Folgensbourg)	7.4473, 47.55147	schār	na	999	schar	na	999	Schär	na	999
+63	Co V 15	na	Brinkheim (Brinckheim)	7.45901, 47.62634	schār	na	999	schar	na	999	Schär	na	999
+64	Co Va 3	III_17_0018	Attenschweiler (Attenschwiller), Attenschweiler/Attenweiler	7.46216, 47.56912	schār	schar	1	schar	schar	0	Schär	Schär	0
+65	Co V 13/1	na	Niedermichelbach (Michelbach-le-Bas)	7.46442, 47.59288	schar	na	999	schar	na	999	Schär	na	999
+66	Co W 13	na	Rosenau	7.53493, 47.63685	schär	na	999	schär	na	999	Schär	na	999
+67	Co P18	III_15_0052	Huttingen, Huttingen	7.5497, 47.67294	schär	schäre	1	schär	schäre	1	Schär	Schär	0
+68	Co P13	na	Welmlingen	7.56233, 47.68899	schar, schär	na	999	schar, schär	na	999	Schär	na	999
+69	Co W 2, Co W 3	na	Efringen (Efringen-Kirchen), Kirchen (Efringen-Kirchen)	7.56471, 47.64989	schäre	na	999	schäre	na	999	Schär	na	999
+70	Co P17	na	Wintersweiler	7.56756, 47.67374	schar, schär	na	999	schar, schär	na	999	Schär	na	999
+71	Co A10	III_14_0042	Zienken (Müllheim), Zienken	7.57779, 47.84303	schär	schär	0	schär	schär	0	Schär	Schär	0
+72	Co P7	III_15_0048	Hertingen, Hertingen	7.58442, 47.7231	schär	schär	0	schär	schär	0	Schär	Schär	0
+73	Co H10	na	Mauchen	7.59411, 47.76239	schär	na	999	schär	na	999	Schär	na	999
+74	Co W 4, 5	III_16_0087, III_16_0088	Egringen und Fischingen, Egringen, Fischingen	7.59628, 47.66366	schär	schaer	2	schär	schar	1	Schär	Schär	0
+75	Co P14	III_15_0054	Mappach, Mappach	7.59794, 47.68033	schär	schaer	2	schär	schar	1	Schär	Schär	0
+76	Co P3	III_15_0049	Liel, Liel	7.604, 47.73928	schär	schär	0	schär	schär	0	Schär	Schär	0
+77	Co P6	III_15_0057	Tannenkirch, Tannenkirch	7.6103, 47.71116	schär, schäre	schar	1	schär, schäre	schar	1	Schär	Schär	0
+78	Co W 18	III_16_0085	Weil am Rhein, Weil	7.63299, 47.59278	schär	schär	0	schär	schär	0	Schär	Schär	0
+79	Co A5	na	Seefelden	7.63962, 47.85945	schär	na	999	schär	na	999	Schär	na	999
+80	Co H12	na	Obereggenen, Niedereggenen	7.64434, 47.75677	schǟr	na	999	schär	na	999	Schär	na	999
+81	Co t 3	na	Feldkirch	7.64962, 47.93629	schārer	na	999	scharer	na	999	Schär	na	999
+82	Co H9	III_14_0141	Lipburg, Lipburg	7.65665, 47.78685	schāer	schäar	2	schär	schär	0	Schär	Schär	0
+83	Co W 19	na	Lörrach	7.66409, 47.61258	schär	na	999	schär	na	999	Schär	na	999
+84	Co B1	na	Tunsel	7.66581, 47.90315	schär	na	999	schär	na	999	Schär	na	999
+85	Co J1	na	Britzingen	7.67237, 47.82744	schǟr	na	999	schär	na	999	Schär	na	999
+86	Co B3	na	Wettelbrunn	7.69689, 47.87134	schäer	na	999	schär	na	999	Schär	na	999
+87	Co B4	na	Ballrechten-Dottingen	7.70076, 47.86061	scher	na	999	scher	na	999	Schär	na	999
+88	Co J7, Co Q1	III_15_0061, III_14_0147	Malsburg, Malsburg	7.70866, 47.73257	schǟr, schär	schar, schär	0	schär	schar, schär	0	Schär	Schär	0
+89	Co J4	na	Marzell bei Kandern	7.72688, 47.77116	schär	na	999	schär	na	999	Schär	na	999
+90	Co Q8	III_15_0062	Endenburg, Endenburg	7.73306, 47.71161	scheer	schär	2	scher	schär	1	Schär	Schär	0
+91	Co Q11	na	Schlächtenhaus-Hofen	7.73863, 47.69047	schär	na	999	schär	na	999	Schär	na	999
+92	Co u 7	na	Wolfenweiler	7.76194, 47.96231	schär	na	999	schär	na	999	Schär	na	999
+93	Co u 8	na	Schallstadt	7.76422, 47.959	schaer	na	999	schär	na	999	Schär	na	999
+94	Co Q9	III_15_0064	Weitenau, Weitenau	7.76525, 47.67775	schǟr	schär	1	schär	schär	0	Schär	Schär	0
+95	Co Q2	III_14_0148	Wies, Wies	7.76723, 47.74789	scher	schär	1	scher	schär	1	Schär	Schär	0
+96	Co Q7	III_15_0066	Sallneck, Sallneck	7.7724, 47.72297	schär	schär	0	schär	schär	0	Schär	Schär	0
+97	Co X 10	na	Maulburg	7.77782, 47.64075	schōr	na	999	schar	na	999	Schär	na	999
+98	Co Q6	III_15_0067	Tegernau, Tegernau	7.79638, 47.72037	schär	schär	0	schär	schär	0	Schär	Schär	0
+99	Co Q3	III_14_0152	Raich, Raich	7.79724, 47.75076	schǟr	schäär	2	schär	schär	0	Schär	Schär	0
+100	Co Q10	III_15_0065	Wieslet, Wieslet	7.79819, 47.6893	schǟr	schär	1	schär	schär	0	Schär	Schär	0
+101	Co n 7	na	Holzhausen	7.79978, 48.07044	schǟr	na	999	schär	na	999	Schär	na	999
+102	Co n 6	III_13_0053	Hochdorf, Hochdorf	7.80212, 48.0489	schǟr	schēr	1	schär	scher	1	Schär	Schär	0
+103	Co B13	III_14_0054	Obermünstertal-Krumlinden (Obermünstertal), Obermünstertal-Krummlinden	7.81186, 47.87153	schär	schǟr	1	schär	schär	0	Schär	Schär	0
+104	Co Q5	III_15_0068	Gresgen, Gresgen	7.82053, 47.71127	schär	schär	0	schär	schär	0	Schär	Schär	0
+105	Co n 2	na	Reute	7.82538, 48.08175	schar	na	999	schar	na	999	Schär	na	999
+106	Co J5	na	Bürchau	7.82686, 47.77616	schär	na	999	schär	na	999	Schär	na	999
+107	Co J6	III_14_0150	Neuenweg, Landkreis Lörrach, Neuenweg	7.8271, 47.79543	scheer	scheer	0	scher	scher	0	Schär	Schär	0
+108	Co Q4	III_14_0186	Elbenschwand, Elbenschwand	7.83139, 47.7509	schäͣr	schäär	1	schär	schär	0	Schär	Schär	0
+109	Co C12	na	Obermünstertal-Spielweg	7.83588, 47.87776	schär	na	999	schär	na	999	Schär	na	999
+110	Co R8	III_15_0078	Adelsberg, Adelsberg	7.83666, 47.71725	schär	schär	0	schär	schär	0	Schär	Schär	0
+111	Co K6	III_14_0168	Böllen, Böllen	7.84054, 47.80226	scheer	scheer	0	scher	scher	0	Schär	Schär	0
+112	Co R13	na	Raitbach	7.86089, 47.68233	schär	na	999	schär	na	999	Schär	na	999
+113	Co C1	na	Obermünstertal-Neuhof	7.86115, 47.84975	schǟr	na	999	schär	na	999	Schär	na	999
+114	Co R1	III_15_0069	Pfaffenberg, Pfaffenberg	7.86972, 47.73452	schär	schǟr	1	schär	schär	0	Schär	Schär	0
+115	Co g 12	III_12_0136	Kollmarsreute, Kollmarsreute	7.87829, 48.10253	schär	scheer	2	schär	scher	1	Schär	Schär	0
+116	Co K7	na	Schönenberg	7.88227, 47.79265	schǟre	na	999	schäre	na	999	Schär	na	999
+117	Co K14	III_14_0164, III_14_0163	Fröhnd, Fröhnd-Stutz, Fröhnd-Ittenschwand	7.88397, 47.7603	schär	schär	0	schär	schär	0	Schär	Schär	0
+118	Co g 9	III_12_0130	Maleck, Maleck	7.88416, 48.12924	scher	scheer	1	scher	scher	0	Schär	Schär	0
+119	Co g 14	III_12_0052	Freiamt-Mußbach (Mussbach), Freiamt-Mußbach	7.88578, 48.17377	schär	schär	0	schär	schär	0	Schär	Schär	0
+120	Co g 4	na	Windenreuthe (Emmendingen)	7.88675, 48.11814	schär	na	999	schär	na	999	Schär	na	999
+121	Co R10	na	Riedichen	7.88873, 47.70465	schär, schēer	na	999	scher, schär	na	999	Schär	na	999
+122	Co K5	III_14_0160	Aitern, Aitern	7.89522, 47.80317	schǟr	scheer	2	schär	scher	1	Schär	Schär	0
+123	Stra Z 4	III_12_0051	Ottoschwanden, Ottoschwanden	7.89687, 48.18611	schǟr	schär	1	schär	schär	0	Schär	Schär	0
+124	Co C7	III_14_0068	Hofsgrund, Hofsgrund	7.89778, 47.90096	schär	scher	1	schär	scher	1	Schär	Schär	0
+125	Co Y 3	III_16_0115	Hasel, Hasel	7.89786, 47.65393	schǟr	schär	1	schär	schär	0	Schär	Schär	0
+126	Co R7	na	Häg-Rohrberg	7.90412, 47.7181	schēr	na	999	scher	na	999	Schär	na	999
+127	Stra Z 5	na	Freiamt	7.90612, 48.17863	schar	na	999	schar	na	999	Schär	na	999
+128	Co R2	III_15_0070	Ehrsberg, Ehrsberg	7.90629, 47.74318	schär	schär	0	schär	schär	0	Schär	Schär	0
+129	Co g 15	III_12_0129	Keppenbach, Frei Keppenbach	7.92037, 48.14437	schär	schär	0	schär	schär	0	Schär	Schär	0
+130	Co K9	na	Tunau	7.92311, 47.78574	schǟre	na	999	schäre	na	999	Schär	na	999
+131	Co g 13	III_12_0127, III_12_0126	Freiamt-Reichenbach, Freiamt-Reichenbach	7.92477, 48.15747	schǟr	schäär, scheer	2	schär	scher, schär	0	Schär	Schär	0
+132	Co R11	III_15_0083	Gersbach, Gersbach	7.93271, 47.69725	schär	schär	0	schär	schär	0	Schär	Schär	0
+133	Co C4	na	Todtnauberg	7.94335, 47.85074	schär	na	999	schär	na	999	Schär	na	999
+134	Co Y 7	III_16_0119	Hütten, Hütten	7.94873, 47.62902	schär	schär	0	schär	schär	0	Schär	Schär	0
+135	Co R4	III_15_0072	Happach, Happach	7.95137, 47.7412	schär	schär	0	schär	schär	0	Schär	Schär	0
+136	Co K11	na	Präg-Herrenschwand	7.95327, 47.76746	schär	na	999	schär	na	999	Schär	na	999
+137	Co Y 9	na	Bergalingen	7.95943, 47.61266	schär	na	999	schär	na	999	Schär	na	999
+138	Co Y 10	na	Willaringen	7.97281, 47.60577	schär	na	999	schär	na	999	Schär	na	999
+139	Co Y 4	na	Obergebisbach- Hornbach	7.97459, 47.65405	schär	na	999	schär	na	999	Schär	na	999
+140	Co Y 6	III_16_0123	Altenschwand, Altenschwand	7.976, 47.63697	schǟr	schär	1	schär	schär	0	Schär	Schär	0
+141	Co g 6	III_12_0128	Siegelau, Siegelau	7.97753, 48.14612	schär	schär	0	schär	schär	0	Schär	Schär	0
+142	Co Y 8	III_16_0124	Rickenbach, Rickenbach	7.97772, 47.61891	schär	schäre	1	schär	schäre	1	Schär	Schär	0
+143	Stra Z 6	III_12_0054	Oberspitzenbach, Oberspitzenbach	7.98858, 48.1762	schär	schär	0	schär	schär	0	Schär	Schär	0
+144	Co Y 5	III_16_0113	Niedergebisbach, Niedergebisbach	7.99251, 47.65054	schär	scheere	3	schär	schere	2	Schär	Schär	0
+145	Co K12, TUTT D5	III_14_0176	Todtmoos (-Rütte), Todtmoos, Todtmoos	8.00438, 47.74133	schär	schär	0	schär	schär	0	Schär	Schär	0
+146	TUTT S4	III_16_0127	Hogschür, Hogschür	8.01475, 47.64742	scher	schär	1	scher	schär	1	Schär	Schär	0
+147	TUTT a2	III_12_0143	Niederwinden, Niederwinden	8.02152, 48.14244	schǟr	schär	1	schär	schär	0	Schär	Schär	0
+148	TUTT S2	III_16_0126	Segeten, Segeten	8.02357, 47.65954	schär	schär	0	schär	schär	0	Schär	Schär	0
+149	TÜB S2	III_12_0058	Ober- und Unterbiederbach, Unterbiederbach	8.02694, 48.2183	scher	schär	1	scher	schär	1	Schär	Schär	0
+150	TUTT S20	na	Hänner	8.03004, 47.59489	schäär	na	999	schär	na	999	Schär	na	999
+151	TÜB S3	III_12_0059	Katzenmoos, Katzenmoos	8.03332, 48.167	schär	schär	0	schär	schär	0	Schär	Schär	0
+152	TUTT Sa4	na	Niederhof	8.03951, 47.56938	scherr	na	999	scher	na	999	Schär	na	999
+153	TUTT S6	III_16_0129, III_16_0130	Oberwihl, Oberwihl	8.04597, 47.62098	schär	schäre	1	schär	schäre	1	Schär	Schär	0
+154	TUTT p2	na	Wagensteig	8.04607, 47.98466	scheer	na	999	scher	na	999	Schär	na	999
+155	TUTT L/S7, TUTT S1	III_15_0095	Strittmatt, Strittmatt und Engelschwand, Strittmatt	8.04718, 47.66382	schǟr, schǟr	schär	1	schär	schär	0	Schär	Schär	0
+156	TUTT a4	na	Simonswald	8.04838, 48.10278	schär	na	999	schär	na	999	Schär	na	999
+157	TUTT S19	III_16_0139	Rotzel, Rotzel	8.06151, 47.59473	scheer	schär	2	scher	schär	1	Schär	Schär	0
+158	TUTT D1	III_14_0170	Menzenschwand, Merzenschwand	8.07059, 47.81749	schär	scheer	2	schär	scher	1	Schär	Schär	0
+159	TUTT L3	III_15_0109	Ibach, Ibach	8.07077, 47.73259	scher	scher	0	scher	scher	0	Schär	Schär	0
+160	TUTT S8	III_16_0132	Rüsswihl, Rüßwihl	8.07093, 47.63063	schär	schär	0	schär	schär	0	Schär	Schär	0
+161	TUTT S7	III_16_0131	Niederwihl, Niederwihl	8.07095, 47.61851	schär	schär	0	schär	schär	0	Schär	Schär	0
+162	TUTT S10	na	Rotzingen	8.0762, 47.66588	schär	na	999	schär	na	999	Schär	na	999
+163	TUTT L17	III_15_0101	Fröhnd, Fröhnd	8.07717, 47.70011	schär	schär	0	schär	schär	0	Schär	Schär	0
+164	TUTT S9	III_16_0134	Görwihl, Görwihl	8.07817, 47.64186	schär	schär	0	schär	schär	0	Schär	Schär	0
+165	TUTT S18	III_16_0140	Hochsal, Hochsal	8.08003, 47.5887	schär	schär	0	schär	schär	0	Schär	Schär	0
+166	TUTT L/8,9	III_15_0098, III_15_0099	Hierbach - Wilfingen, Wilfingen, Hierbach	8.09123, 47.686	schǟr	schär	1	schär	schär	0	Schär	Schär	0
+167	TUTT a6	III_12_0145	Yach, Yach	8.0932, 48.15752	schär	scher	1	schär	scher	1	Schär	Schär	0
+168	TUTT S21	na	Schachen	8.09406, 47.60368	schääer	na	999	schär	na	999	Schär	na	999
+169	TUTT w3	na	Bärental	8.0952, 47.86975	scher	na	999	scher	na	999	Schär	na	999
+170	TUTT S5	na	Luttingen	8.09878, 47.57252	schär	na	999	schär	na	999	Schär	na	999
+171	TUTT L10	III_15_0100	Wolpadingen, Wolpadingen	8.10774, 47.69861	schär	scheer	2	schär	scher	1	Schär	Schär	0
+172	TUTT S17	na	Albert	8.11012, 47.58535	schär	na	999	schär	na	999	Schär	na	999
+173	TUTT w6	na	Altglashütten	8.11016, 47.85701	scher	na	999	scher	na	999	Schär	na	999
+174	TUTT S15	na	Buch über Waldshut	8.11336, 47.61399	schär	na	999	schär	na	999	Schär	na	999
+175	TUTT h5	na	Wildgutach	8.11606, 48.0323	scher	na	999	scher	na	999	Schär	na	999
+176	TÜB S5	III_12_0061, III_12_0062, III_12_0064	Unterprechtal, Oberprechtal, Unterprechtal	8.12114, 48.20548	scheer	schär, schēr	2	scher	scher, schär	0	Schär	Schär	0
+177	TUTT h4	na	(Alt)Glashütte	8.13564, 48.0008	schär	na	999	schär	na	999	Schär	na	999
+178	TUTT L12	III_15_0106	Remetschwiel/Brunnadern, Remetschwiel	8.14553, 47.68929	scheer	scher	1	scher	scher	0	Schär	Schär	0
+179	TUTT S13	III_16_0169	Birkingen, Birkingen	8.1477, 47.62511	schār	schär	1	schar	schär	1	Schär	Schär	0
+180	TUTT w1/2	na	Titisee	8.14936, 47.90254	scher	na	999	scher	na	999	Schär	na	999
+181	TUTT S11	III_16_0136	Oberalpfen, Oberalpfen	8.15262, 47.65791	schǟr	schär	1	schär	schär	0	Schär	Schär	0
+182	TUTT q1	na	Waldau	8.16331, 47.98172	schäär	na	999	schär	na	999	Schär	na	999
+183	TUTT M2	na	Höchenschwand	8.16491, 47.73427	schǟr	na	999	schär	na	999	Schär	na	999
+184	TUTT M1	III_15_0120	Attlisberg, Attlisberg	8.16607, 47.72173	schǟr	schär, scheer	1	schär	scher, schär	0	Schär	Schär	0
+185	TUTT L14, TUTT L13	na	Remetschwiel und Bannholz, Bannholz	8.167, 47.67614	schär	na	999	schär	na	999	Schär	na	999
+186	TUTT M16	na	Häusern	8.16959, 47.75398	scher	na	999	scher	na	999	Schär	na	999
+187	TUTT i5	na	Neukirch	8.17383, 48.02447	schär	na	999	schär	na	999	Schär	na	999
+188	TUTT D3	na	Blasiwald (Am Schluchsee)	8.17706, 47.7987	schēr	na	999	scher	na	999	Schär	na	999
+189	TUTT E2	na	Schluchsee	8.17828, 47.81706	scheer	na	999	scher	na	999	Schär	na	999
+190	TUTT M3	III_15_0121	Amrigschwand, Amrigschwand	8.1855, 47.71974	schǟr	schär	1	schär	schär	0	Schär	Schär	0
+191	TUTT i6	na	Furtwangen (und Furtwangen-Katzensteig)	8.20648, 48.05227	schǟr	na	999	schär	na	999	Schär	na	999
+192	TUTT E5	III_14_0178	Staufen, Staufen	8.21221, 47.75633	scher	scher	0	scher	scher	0	Schär	Schär	0
+193	TÜB T2	III_12_0072	Reichenbach, Reichenbach	8.22958, 48.21343	scher	scheer	1	scher	scher	0	Schär	Schär	0
+194	TUTT q8	na	Rudenberg	8.23807, 47.9196	schär	na	999	schär	na	999	Schär	na	999
+195	TUTT b2	na	Gremmelsbach	8.25756, 48.15793	schär	na	999	schär	na	999	Schär	na	999
+196	TUTT i1	III_13_0082	Rohrbach, Rohrbach	8.25784, 48.07437	schär	schär	0	schär	schär	0	Schär	Schär	0
+197	TUTT E4	na	Grafenhausen	8.26186, 47.7749	schär	na	999	schär	na	999	Schär	na	999
+198	TÜB T3	III_12_0071, III_12_0070	Schwanenbach (Reichenbach), Schwanenbach	8.26562, 48.1922	schär	scher, scheer	1	schär	scher	1	Schär	Schär	0
+199	TUTT M5	na	Mettenberg	8.26708, 47.75087	scheer	na	999	scher	na	999	Schär	na	999
+200	TUTT q6	na	Oberbränd	8.2909, 47.94957	schǟr	na	999	schär	na	999	Schär	na	999
+201	TUTT b7	III_12_0170	Oberkirnach, Oberkirnach	8.31901, 48.09369	scheer	scheer	0	scher	scher	0	Schär	Schär	0
+202	TUTT F4	na	Wittlekoffen	8.34635, 47.78326	schǟr	na	999	schär	na	999	Schär	na	999
+203	TÜB U1	na	Tennenbronn	8.34688, 48.1887	schär	na	999	schär	na	999	Schär	na	999
+204	TUTT y3	III_35_0003	Seppenhofen, Seppenhofen	8.34864, 47.8748	schär	schär	0	schär	schär	0	Schär	Schär	0
+205	TÜB N3	na	Hinterlehengericht	8.36541, 48.26734	scheer	na	999	scher	na	999	Schär	na	999
+206	TUTT U5	na	Wutöschingen	8.36613, 47.65918	schär	na	999	schär	na	999	Schär	na	999
+207	TUTT Ua1	III_38_0083	Lienheim, Lienheim	8.37469, 47.5721	schär	scheer	2	schär	scher	1	Schär	Schär	0
+208	TUTT U2	III_38_0001	Rechberg, Rechberg	8.39987, 47.6501	schär	schär	0	schär	schär	0	Schär	Schär	0
+209	TUTT k7	na	Tannheim	8.41033, 47.99946	schǟr	na	999	schär	na	999	Schär	na	999
+210	TUTT U12	na	Grießen	8.4114, 47.62774	scheer	na	999	scher	na	999	Schär	na	999
+211	TUTT F12	na	Lembach	8.43056, 47.80389	scheher	na	999	scher	na	999	Schär	na	999
+212	TUTT F11	III_36_0012	Lausheim, Lausheim	8.45286, 47.81178	schehër	schär	3	scher	schär	1	Schär	Schär	0
+213	TUTT c5	III_32_0006	Neuhausen, Neuhausen	8.45905, 48.13221	scheer	schear	1	scher	scher	0	Schär	Schär	0
+214	TÜB U2	III_31_0006	Weiler/Villingen, Tennenbronn	8.46043, 48.17227	schär	scher	1	schär	scher	1	Schär	Schär	0
+215	TUTT U8	III_38_0012	Bühl, Bühl	8.4644, 47.61616	schär	schär	0	schär	schär	0	Schär	Schär	0
+216	TUTT c7	na	Obereschach	8.46928, 48.10596	scher	na	999	scher	na	999	Schär	na	999
+217	TUTT U9	na	Dettighofen	8.48357, 47.62374	schär	na	999	schär	na	999	Schär	na	999
+218	TUTT y6	na	Achdorf-Aselfingen	8.48733, 47.84	schär	na	999	schär	na	999	Schär	na	999
+219	TUTT y8	na	Hausen vor Wald	8.49054, 47.89134	schär	na	999	schär	na	999	Schär	na	999
+220	TUTT c4	na	Fischbach	8.49142, 48.15251	scheer	na	999	scher	na	999	Schär	na	999
+221	TUTT c6	na	Schabenhausen	8.49251, 48.1303	scher	na	999	scher	na	999	Schär	na	999
+222	TUTT z7	na	Eschach	8.50328, 47.86021	scheer	na	999	scher	na	999	Schär	na	999
+223	TUTT d2	III_32_0007	Kappel, Kappel	8.50341, 48.11215	schär	schär	0	schär	schär	0	Schär	Schär	0
+224	TUTT V4,5	na	Baltersweil	8.51054, 47.63723	schär	na	999	schär	na	999	Schär	na	999
+225	TUTT d1	na	Niedereschach	8.52734, 48.13129	schear	na	999	scher	na	999	Schär	na	999
+226	TUTT z5	III_35_0016	Fürstenberg, Fürstenberg	8.55367, 47.89124	schäar	schär	1	schär	schär	0	Schär	Schär	0
+227	TUTT l1	na	Hochemmingen	8.56986, 48.02587	schäar	na	999	schäar	na	999	Schär	na	999
+228	TÜB m1	III_26_0039	Wildberg Kreis Calw, Wildberg	8.73924, 48.62251	schear	schär	2	scher	schär	1	Schär	Schär	0
+229	KST W2	na	Hamberg	8.76924, 48.81833	schär	na	999	schär	na	999	Schär	na	999
+230	KST W4	III_24_0025	Steinegg, Steinegg	8.79091, 48.81349	scheer	schär	2	scher	schär	1	Schär	Schär	0
+231	TUTT B6	III_35_0042	Aach, Aach	8.8497, 47.84307	schear	scheer	1	scher	scher	0	Schär	Schär	0
+232	TÜB f1	III_25_0047	Döffingen, Döffingen	8.91383, 48.7106	scheår	schear	1	scher	scher	0	Schär	Schär	0
+233	TUTT Q7	na	Bankholzen	8.92989, 47.7082	scheer	na	999	scher	na	999	Schär	na	999
+234	TUTT B1	III_35_0047	Heudorf, Heudorf	8.93517, 47.91373	scheer	scheer	0	scher	scher	0	Schär	Schär	0
+235	TUTT f1	na	Hartheim	8.93612, 48.15571	schär	na	999	schär	na	999	Schär	na	999
+236	TUTT f2	III_32_0038	Heinstetten, Heinstetten	8.96312, 48.13491	schär	scher	1	schär	scher	1	Schär	Schär	0
+237	TUTT C4	na	Mahlspüren	8.97748, 47.87563	scher	na	999	scher	na	999	Schär	na	999
+238	TUTT u1	na	Oberschwandorf	8.98238, 47.9602	scheer	na	999	scher	na	999	Schär	na	999
+239	TUTT f3	III_32_0041	Schwenningen, Schwenningen	8.99619, 48.10638	schär	scheer	2	schär	scher	1	Schär	Schär	0
+240	TUTT u2	III_34_0045	Unterschwandorf, Unterschwandorf	8.99628, 47.95028	schǟr	schär	1	schär	schär	0	Schär	Schär	0
+241	TUTT u3	III_34_0048	Gallmannsweil, Gallmannsweil	8.99683, 47.92357	schǟr	schär	1	schär	schär	0	Schär	Schär	0
+242	TÜB g1	na	Sindelfingen	9.00194, 48.70797	scheâr	na	999	scher	na	999	Schär	na	999
+243	TUTT o3	na	Leibertingen	9.01551, 48.04265	schēr	na	999	scher	na	999	Schär	na	999
+244	TUTT C10	III_35_0059	Mühlingen, Mühlingen	9.01554, 47.91191	schär	schär	0	schär	schär	0	Schär	Schär	0
+245	TUTT v5	III_34_0051	Boll, Boll	9.0299, 47.9487	scher	schär	1	scher	schär	1	Schär	Schär	0
+246	TUTT v3	III_34_0053	Bietingen, Bietingen	9.03261, 47.97091	schär	scher	1	schär	scher	1	Schär	Schär	0
+247	TUTT C1	na	Schwackenreute	9.04401, 47.91392	schär	na	999	schär	na	999	Schär	na	999
+248	TUTT v4	III_34_0052	Krumbach, Krumbach	9.04788, 47.96159	schär	scher	1	schär	scher	1	Schär	Schär	0
+249	TUTT v11	III_34_0055	Heudorf, Heudorf	9.07121, 47.99412	schär	scheer	2	schär	scher	1	Schär	Schär	0
+250	TUTT v9	III_34_0049	Wasser, Wasser	9.10143, 47.9671	scheer	schär	2	scher	schär	1	Schär	Schär	0
+251	TUTT v7	III_34_0059	Sauldorf, Sauldorf	9.10721, 47.94343	schär	scher	1	schär	scher	1	Schär	Schär	0
+252	TUTT v10	na	Messkirch	9.11537, 47.99484	schär	na	999	schär	na	999	Schär	na	999
+253	TUTT v8	na	Rast	9.12126, 47.93997	schēr	na	999	scher	na	999	Schär	na	999
+254	TUTT o6	na	Engelswies	9.12846, 48.04259	schǟr	na	999	schär	na	999	Schär	na	999
+255	TUTT K1	na	Billafingen	9.13657, 47.83337	schärr	na	999	schär	na	999	Schär	na	999
+256	TUTT R7	III_37_0037	Dingelsdorf, Dingelsdorf	9.15648, 47.7384	schärr	scherr	1	schär	scher	1	Schär	Schär	0
+257	TUTT o8	III_33_0051	Menningen, Menningen	9.15825, 48.01089	schēr	scher	1	scher	scher	0	Schär	Schär	0
+258	SIG k1	na	Aach-Linz	9.20037, 47.91152	scherr	na	999	scher	na	999	Schär	na	999
+259	SIG d1	III_33_0055	Göggingen, Göggingen	9.20194, 48.00389	schēr	schär	1	scher	schär	1	Schär	Schär	0
+260	SIG n8	na	Lippertsreute	9.23743, 47.80427	scherr	na	999	scher	na	999	Schär	na	999
+261	SIG g1	na	Zell am Andelsbach	9.25932, 47.96971	scheer	na	999	scher	na	999	Schär	na	999
+262	SIG n9	na	Rickenbach	9.26015, 47.7972	schär	na	999	schär	na	999	Schär	na	999
+263	SIG n7	na	Frickingen	9.27056, 47.81023	scherr	na	999	scher	na	999	Schär	na	999
+264	na	III_15_0004	Bretten	7.0716, 47.69963	na	schaar	999	na	schar	999	na	Schär	999
+265	na	III_15_0003	Niedersulzbach	7.09079, 47.71688	na	schar	999	na	schar	999	na	Schär	999
+266	na	III_15_0002	Gewenheim	7.0913, 47.75291	na	schaar	999	na	schar	999	na	Schär	999
+267	na	III_17_0002	Friesen	7.15001, 47.56535	na	schaar	999	na	schar	999	na	Schär	999
+268	na	III_15_0028	Balschweiler	7.1681, 47.66772	na	schar	999	na	schar	999	na	Schär	999
+269	na	III_17_0030	Largitzen	7.1873, 47.56163	na	schaer	999	na	schar	999	na	Schär	999
+270	na	III_16_0021	Hirzbach	7.22017, 47.59449	na	schar	999	na	schar	999	na	Schär	999
+271	na	III_16_0036	Bettendorf	7.27676, 47.58379	na	schar	999	na	schar	999	na	Schär	999
+272	na	III_16_0023	Tagolsheim	7.28747, 47.65547	na	schar	999	na	schar	999	na	Schär	999
+273	na	III_17_0033	Steinsulz	7.34276, 47.55541	na	scho͞or	999	na	schar	999	na	Schär	999
+274	na	III_14_0112	Mülhausen	7.34375, 47.7517	na	scher	999	na	scher	999	na	Schär	999
+275	na	III_15_0034	Brubach	7.35964, 47.70073	na	schaar	999	na	schar	999	na	Schär	999
+276	na	III_15_0037	Dietweiler	7.40296, 47.69288	na	schär	999	na	schär	999	na	Schär	999
+277	na	III_16_0046	Helfrantskirch	7.41694, 47.6072	na	schar	999	na	schar	999	na	Schär	999
+278	na	III_16_0056	Bartenheim	7.47707, 47.63392	na	schar	999	na	schar	999	na	Schär	999
+279	na	III_17_0028	Neuweiler	7.51526, 47.52439	na	schär	999	na	schär	999	na	Schär	999
+280	na	III_15_0047	Bellingen	7.55728, 47.7319	na	schär	999	na	schär	999	na	Schär	999
+281	na	III_14_0135	Schliengen	7.57624, 47.75579	na	schär	999	na	schär	999	na	Schär	999
+282	na	III_16_0070	Märkt	7.58103, 47.627	na	schär	999	na	schär	999	na	Schär	999
+283	na	III_16_0090	Haltingen	7.61378, 47.61384	na	schär	999	na	schär	999	na	Schär	999
+284	na	III_14_0044	Bremgarten	7.62385, 47.91694	na	schär	999	na	schär	999	na	Schär	999
+285	na	III_15_0059	Feuerbach	7.642, 47.73653	na	scheer	999	na	scher	999	na	Schär	999
+286	na	III_14_0048	Eschbach	7.65221, 47.8908	na	schär	999	na	schär	999	na	Schär	999
+287	na	III_14_0138, III_14_0139	Dattingen	7.65681, 47.83383	na	schär, schār	999	na	schar, schär	999	na	Schär	999
+288	na	III_16_0107	Wiechs	7.81236, 47.63655	na	schäär	999	na	schär	999	na	Schär	999
+289	na	III_16_0121	Fahrnau	7.83602, 47.66179	na	schärer	999	na	schärer	999	na	Schär	999
+290	na	III_15_0077	Atzenbach <+ Riedichen>	7.8735, 47.71532	na	scheer	999	na	scher	999	na	Schär	999
+291	na	III_13_0063, III_13_0062, III_13_0064	Denzlingen	7.87987, 48.06793	na	schär	999	na	schär	999	na	Schär	999
+292	na	III_12_0137	Sexau	7.90788, 48.10424	na	schär	999	na	schär	999	na	Schär	999
+293	na	III_14_0154	Präg	7.97232, 47.77964	na	schär	999	na	schär	999	na	Schär	999
+294	na	III_12_0141	Siensbach	7.98804, 48.10755	na	schär	999	na	schär	999	na	Schär	999
+295	na	III_15_0087	Herrischried	8.00161, 47.66587	na	schär	999	na	schär	999	na	Schär	999
+296	na	III_15_0090, III_15_0091	Grossherrischwand	8.01017, 47.6797	na	schär, scheer	999	na	scher, schär	999	na	Schär	999
+297	na	III_15_0094	Wehrhalden	8.01061, 47.70213	na	schär	999	na	schär	999	na	Schär	999
+298	na	III_15_0086	Rütte	8.01336, 47.76141	na	schär	999	na	schär	999	na	Schär	999
+299	na	III_17_0058	Murg	8.02352, 47.55376	na	schär	999	na	schär	999	na	Schär	999
+300	na	III_13_0081	St, Märgen	8.09239, 48.00756	na	schär	999	na	schär	999	na	Schär	999
+301	na	III_15_0110	Wittenschwand	8.10083, 47.72846	na	schär	999	na	schär	999	na	Schär	999
+302	na	III_13_0076	Gütenbach	8.13807, 48.04398	na	schär	999	na	schär	999	na	Schär	999
+303	na	III_12_0146	Rohrhardsberg	8.16036, 48.1327	na	schär	999	na	schär	999	na	Schär	999
+304	na	III_16_0147	Waldkirch	8.17132, 47.65851	na	schär	999	na	schär	999	na	Schär	999
+305	na	III_12_0167, III_12_0166, III_12_0168	Schönwald	8.20401, 48.10371	na	scher, schär	999	na	scher, schär	999	na	Schär	999
+306	na	III_12_0174	Gutach	8.21021, 48.25051	na	scheer	999	na	scher	999	na	Schär	999
+307	na	III_15_0122	Brenden	8.22606, 47.72946	na	schär	999	na	schär	999	na	Schär	999
+308	na	III_13_0090	Schönenbach	8.23618, 48.04705	na	schär	999	na	schär	999	na	Schär	999
+309	na	III_11_0154	Kirnbach	8.24598, 48.26194	na	schär	999	na	schär	999	na	Schär	999
+310	na	III_15_0125	Berau	8.25823, 47.69472	na	scher	999	na	scher	999	na	Schär	999
+311	na	III_12_0153	Nussbach	8.25836, 48.13097	na	scheer	999	na	scher	999	na	Schär	999
+312	na	III_14_0078	Gündelwangen	8.29672, 47.84246	na	schär	999	na	schär	999	na	Schär	999
+313	na	III_10_0144	Kniebis	8.3101, 48.47233	na	schäer	999	na	schär	999	na	Schär	999
+314	na	III_12_0158, III_12_0160, III_12_0159	Langenschiltach	8.3168, 48.16202	na	schär	999	na	schär	999	na	Schär	999
+315	na	III_38_0008	Küssnach	8.36574, 47.59396	na	scheer	999	na	scher	999	na	Schär	999
+316	na	III_32_0001	Buchenberg	8.37655, 48.16035	na	scher	999	na	scher	999	na	Schär	999
+317	na	III_37_0006	Obereggingen	8.38631, 47.70175	na	schär	999	na	schär	999	na	Schär	999
+318	na	III_34_0006	Hubertshofen	8.38827, 47.96002	na	scher	999	na	scher	999	na	Schär	999
+319	na	III_38_0015	Bergöschingen	8.42093, 47.59537	na	schär	999	na	schär	999	na	Schär	999
+320	na	III_38_0014	Riedern am Sand	8.4462, 47.6245	na	schäär	999	na	schär	999	na	Schär	999
+321	na	III_35_0001	Mundelfingen	8.46432, 47.8676	na	scheer	999	na	scher	999	na	Schär	999
+322	na	III_32_0118	Weilersbach	8.50084, 48.09608	na	schäar	999	na	schär	999	na	Schär	999
+323	na	III_35_0012	Behla	8.51475, 47.89489	na	scherer	999	na	scherer	999	na	Schär	999
+324	na	III_24_0023	Schellbronn	8.74222, 48.81738	na	schär	999	na	schär	999	na	Schär	999
+325	na	III_37_0015	Gailingen	8.75499, 47.69685	na	scher	999	na	scher	999	na	Schär	999
+326	na	III_24_0034	Neuhausen	8.77888, 48.79256	na	scherr	999	na	scher	999	na	Schär	999
+327	na	III_33_0041	Nendingen	8.86067, 48.00602	na	schiar	999	na	schier	999	na	Schär	999
+328	na	III_37_0021	Bohlingen	8.8965, 47.72199	na	schärr	999	na	schär	999	na	Schär	999
+329	na	III_37_0022	Schienen	8.90035, 47.68774	na	scheer	999	na	scher	999	na	Schär	999
+330	na	III_37_0029	Hemmenhofen	8.96502, 47.67294	na	scherr, scheer	999	na	scher	999	na	Schär	999
+331	na	III_34_0046	Worndorf	8.9985, 47.98553	na	scheer	999	na	scher	999	na	Schär	999
+332	na	III_35_0040	Zizenhausen	9.0005, 47.87365	na	scher	999	na	scher	999	na	Schär	999
+333	na	III_34_0050	Mainwangen	9.0105, 47.92565	na	schär	999	na	schär	999	na	Schär	999
+334	na	III_35_0056	Stockach	9.01468, 47.85384	na	scheer	999	na	scher	999	na	Schär	999
+335	na	III_36_0060	Sipplingen	9.09665, 47.79525	na	scheer	999	na	scher	999	na	Schär	999
+336	na	III_33_0049	Rohrdorf	9.10207, 48.01811	na	scheer	999	na	scher	999	na	Schär	999
+337	na	III_35_0066, III_35_0069	Herdwangen	9.16937, 47.8629	na	scherr, scheer	999	na	scher	999	na	Schär	999
+338	na	III_36_0079	Leustetten	9.29433, 47.80634	na	scher	999	na	scher	999	na	Schär	999

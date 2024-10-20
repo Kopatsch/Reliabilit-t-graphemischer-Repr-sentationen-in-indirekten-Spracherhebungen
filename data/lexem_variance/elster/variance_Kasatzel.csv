@@ -1,0 +1,54 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_maurer_align	item_DWA	item_DWA_align	Levenshtein_item
+0	Stra V 3	III_12_0003	Tannenkirch (Thannenkirch), Tannenkirch	7.30397, 48.22949	kāsatzel	k ā s a tz e l	kaasatzel	k aa s a tz e l	2
+1	Stra t 9	III_10_0014	Heiligenberg, Heiligenberg	7.3916, 48.53799	kāsatzel	k ā s a tz e l	kasozel	k a s o z e l	3
+2	Stra A 5, Stra H 6	III_10_0094	Bernhardsweiler (Bernardvillé), Bernhardsweiler	7.40011, 48.36706	kasnātsel	k a s n ā t s e l	kasnatzel	k a s n a tz e l	2
+3	Stra t 10	III_10_0017	Gressweiler, Gressweiler	7.43186, 48.53571	kasatzel	k a s a tz e l	kaasatzel	k aa s a tz e l	1
+4	Stra W 6	III_12_0015, III_12_0016	Illhäusern (Illhaeusern), Illhäusern	7.43355, 48.18466	kasåtzel	k a s å tz e l	kasâtzel	k a s â tz e l	1
+5	Stra t 1	III_10_0005	Balbronn, Balbronn	7.43736, 48.58406	kasåtzel	k a s å tz e l	käsatzel	k ä s a tz e l	2
+6	Stra t 11	III_10_0021	Rosenweiler, Rosenweiler	7.4409, 48.50587	kåsnåzl	k å s n å z l	käsatzel	k ä s a tz e l	4
+7	Stra m 9/2	III_9_0009	Wasselnheim (Wasselonne), Wasselnheim	7.44724, 48.63718	kasatzel	k a s a tz e l	käsatzel	k ä s a tz e l	1
+8	Stra H 2/3	III_11_0013	Barr, Barr	7.45244, 48.40651	kaaso͜atzl	k aa s o ͜ a tz l	kâsâtzel	k â s â tz e l	6
+9	Stra t 2/1, Stra t 2/2	III_10_0008	Bergbieten, Bergbieten	7.45869, 48.57632	kasatzel	k a s a tz e l	kasåtzel	k a s å tz e l	1
+10	Stra t 3	III_10_0009	Dangolsheim, Dangolsheim	7.46645, 48.57212	kasazel	k a s a z e l	kasatzel	k a s a tz e l	1
+11	Stra H 1	III_11_0012	Gertweiler (Gertwiller), Gertweiler	7.46795, 48.4111	kāsātzel	k ā s ā tz e l	kasatzel	k a s a tz e l	2
+12	Stra A 1/3, Stra A 1/2, Stra A 1/1	III_10_0087	Rosheim, Rosheim	7.46905, 48.49622	kanåtzel	k a n å tz e l	kasnazel	k a s n a z e l	3
+13	Stra H 10	III_11_0015	St. Peter (Saint-Pierre), St. Peter	7.47022, 48.38171	kāsatzel	k ā s a tz e l	kasatzel	k a s a tz e l	1
+14	Stra A 4	III_10_0093	Oberehnheim (Obernai), Oberehnheim	7.48507, 48.4622	kåsåtzel	k å s å tz e l	kaznåzl	k a z n å z l	5
+15	Stra t 15/2	III_10_0010	Sulzbad (soultz-Les-Bains), Sulzbad	7.48699, 48.572	kasatzel	k a s a tz e l	kāsãtzel	k ā s ã tz e l	2
+16	Stra m 13	III_9_0018	Odratzheim, Odratzheim	7.48778, 48.60108	kasatzel	k a s a tz e l	kasazel	k a s a z e l	1
+17	Stra m 14	III_9_0021	Scharrachbergheim, Scharrachbergheim	7.49581, 48.593	kasozl	k a s o z l	kaseozl	k a s e o z l	1
+18	Stra u 7	III_10_0011	Avolsheim, Avolsheim	7.50043, 48.56159	kasdå̄tzel	k a s d å ̄ tz e l	kasdatzel	k a s d a tz e l	2
+19	Stra u 18	III_10_0024	Wolxheim, Wolxheim	7.51077, 48.56903	kasåtzel	k a s å tz e l	kasatzel	k a s a tz e l	1
+20	Stra f 19	III_8_0061	Willgottheim, Willgottheim	7.51166, 48.67082	käsatzel	k ä s a tz e l	käseatzel	k ä s e a tz e l	1
+21	Stra u 13	III_10_0040	Altdorf (Altorf), Altdorf	7.52793, 48.52186	kasåtzel	k a s å tz e l	käsatzel	k ä s a tz e l	2
+22	Stra u 6/2	III_10_0025	Ergersheim, Ergersheim	7.52806, 48.56941	kāsnatzl	k ā s n a tz l	kasnatzel	k a s n a tz e l	2
+23	Stra B 1	III_10_0038	Griesheim (Griesheim-Près-Molsheim), Griesheim	7.53227, 48.50237	kasatzel	k a s a tz e l	kasnatzel	k a s n a tz e l	1
+24	Stra u 8	III_10_0026	Dachstein, Dachstein	7.53229, 48.56055	kasnatzel	k a s n a tz e l	kasnazel	k a s n a z e l	1
+25	Stra B 5	III_10_0101	Meistratzheim, Meistratzheim	7.54397, 48.44858	kasatzl	k a s a tz l	käsatzel	k ä s a tz e l	2
+26	Stra J 11	III_11_0036	Sermersheim, Sermersheim	7.55199, 48.34632	kasåtzel	k a s å tz e l	kasatzel	k a s a tz e l	1
+27	Stra u 2/1	III_9_0025	Osthofen, Osthofen	7.55672, 48.58641	kasåtzel	k a s å tz e l	kasatzel	k a s a tz e l	1
+28	Stra B 4	III_10_0099	Krautergersheim, Krautergersheim	7.56557, 48.47613	kasatzel	k a s a tz e l	kasazel	k a s a z e l	1
+29	Stra J 2	III_11_0029	Westhausen (Westhouse), Westhausen	7.58855, 48.39622	kāsåtzel	k ā s å tz e l	käsatzel	k ä s a tz e l	2
+30	Stra u 11	III_10_0036	Düppigheim und Duttlenheim (Duppigheim), Düppigheim	7.58968, 48.52813	kasnatzel	k a s n a tz e l	kasatzel	k a s a tz e l	1
+31	Stra J 4/3, Stra J 4/2, Stra J 4/1	III_11_0033	Benfeld, Benfeld	7.59385, 48.37263	kasātzel	k a s ā tz e l	kasatzel	k a s a tz e l	1
+32	Stra B 9	III_10_0106	Schäfersheim (Schaeffersheim), Schäfersheim	7.6199, 48.42864	kāsatzel	k ā s a tz e l	käsatzel	k ä s a tz e l	1
+33	Stra J 8	III_11_0039	Herbsheim, Herbsheim	7.6323, 48.3467	kāsåtzel	k ā s å tz e l	kasatzel	k a s a tz e l	2
+34	Stra J 7	III_11_0031	Osthausen (Osthouse), Osthausen	7.63886, 48.40167	kasåtzl	k a s å tz l	kasatzl	k a s a tz l	1
+35	Stra B 11	III_10_0107	Limersheim, Limersheim	7.64596, 48.45465	kasåzl	k a s å z l	kasazel	k a s a z e l	2
+36	Stra B 10	III_10_0105	Erstein, Erstein	7.66295, 48.4211	kaasa̰tsel	k aa s a ̰ t s e l	kasåtzel	k a s å tz e l	4
+37	Stra B 3	III_10_0109	Lipsheim, Lipsheim	7.66966, 48.49284	kāsatzel	k ā s a tz e l	kasatzel	k a s a tz e l	1
+38	Stra C 1/1, Stra C 1/2	III_10_0110	Fegersheim, Fegersheim	7.67959, 48.4897	kasåtzel	k a s å tz e l	kasazel	k a s a z e l	2
+39	Stra v 5, Stra v 4	III_10_0042	Illkirch-Grafenstaden, Illkirch-Grafenstaden	7.71183, 48.5288	kasatzel	k a s a tz e l	käsatzel	k ä s a tz e l	1
+40	Hag Y 3	III_7_0096	Schirrhein, Schirrhein	7.90562, 48.80154	kiratzel	k i r a tz e l	käsnazel	k ä s n a z e l	4
+41	Stra A 5, Stra H 6	III_10_0094	Bernhardsweiler (Bernardvillé), Bernhardsweiler	7.40011, 48.36706	käsaͣ̈tzl	k ä s a ͣ ̈ tz l	kasnatzel	k a s n a tz e l	5
+42	Stra A 5, Stra H 6	III_10_0094	Bernhardsweiler (Bernardvillé), Bernhardsweiler	7.40011, 48.36706	kasnātsel	k a s n ā t s e l	kasnatzel	k a s n a tz e l	2
+43	Stra t 2/1, Stra t 2/2	III_10_0008	Bergbieten, Bergbieten	7.45869, 48.57632	kasatzel	k a s a tz e l	kasåtzel	k a s å tz e l	1
+44	Stra A 1/3, Stra A 1/2, Stra A 1/1	III_10_0087	Rosheim, Rosheim	7.46905, 48.49622	kăsnātzel 	k ă s n ā tz e l 	kasnazel	k a s n a z e l	4
+45	Stra A 1/3, Stra A 1/2, Stra A 1/1	III_10_0087	Rosheim, Rosheim	7.46905, 48.49622	kasnatzel	k a s n a tz e l	kasnazel	k a s n a z e l	1
+46	Stra A 1/3, Stra A 1/2, Stra A 1/1	III_10_0087	Rosheim, Rosheim	7.46905, 48.49622	kanåtzel	k a n å tz e l	kasnazel	k a s n a z e l	3
+47	Stra B 7	III_10_0102, III_10_0103	Walf (Valff)), Walf	7.52068, 48.42151	kasatzel	k a s a tz e l	kasotzel	k a s o tz e l	1
+48	Stra J 4/3, Stra J 4/2, Stra J 4/1	III_11_0033	Benfeld, Benfeld	7.59385, 48.37263	kasåtzel	k a s å tz e l	kasatzel	k a s a tz e l	1
+49	Stra J 4/3, Stra J 4/2, Stra J 4/1	III_11_0033	Benfeld, Benfeld	7.59385, 48.37263	kāsåtzel	k ā s å tz e l	kasatzel	k a s a tz e l	2
+50	Stra J 4/3, Stra J 4/2, Stra J 4/1	III_11_0033	Benfeld, Benfeld	7.59385, 48.37263	kasātzel	k a s ā tz e l	kasatzel	k a s a tz e l	1
+51	Stra v 5, Stra v 4	III_10_0042	Illkirch-Grafenstaden, Illkirch-Grafenstaden	7.71183, 48.5288	kāsåtzel	k ā s å tz e l	käsatzel	k ä s a tz e l	2
+52	Stra v 5, Stra v 4	III_10_0042	Illkirch-Grafenstaden, Illkirch-Grafenstaden	7.71183, 48.5288	kasatzel	k a s a tz e l	käsatzel	k ä s a tz e l	1

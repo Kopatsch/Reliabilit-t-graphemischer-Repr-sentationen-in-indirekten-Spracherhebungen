@@ -1,0 +1,13 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Co W 6	na	Schallbach	7.62759, 47.65706	bärōmese	na	999	bäramese	na	999	Bäramese	na	999
+1	Co X 9	III_16_0100	Hüsingen, Hüsingen	7.74114, 47.63121	bäreise	bäreise	0	bäreise	bäreise	0	Bäramese	Bäramese	0
+2	Co X 15	na	Eichsel (GID von Obereichsel)	7.75815, 47.59842	bärosömö	na	999	bäraseme	na	999	Bäramese	na	999
+3	Co X 13	III_16_0101	Adelhausen, Adelhausen	7.76116, 47.61477	bärosme	bärosme	0	bärasme	bärasme	0	Bäramese	Bäramese	0
+4	Co Q9	na	Weitenau	7.76525, 47.67775	bäromsme	na	999	bäramsme	na	999	Bäramese	na	999
+5	Stra L 5	na	Bermersbach	7.99239, 48.38717	bärumbeis	na	999	bärumbeise	na	999	Bäramese	na	999
+6	TUTT N8	na	Ofteringen	8.37663, 47.67838	bäramse	na	999	bäramse	na	999	Bäramese	na	999
+7	na	III_16_0071, III_16_0070	Märkt	7.58103, 47.627	na	bäromese	999	na	bäramese	999	na	Bäramese	999
+8	na	III_16_0074	Binzen	7.59518, 47.63113	na	bäromese	999	na	bäramese	999	na	Bäramese	999
+9	na	III_16_0077	Rümmingen	7.64143, 47.64099	na	bäromese	999	na	bäramese	999	na	Bäramese	999
+10	na	III_16_0091	Haagen	7.67898, 47.63703	na	bäreise	999	na	bäreise	999	na	Bäramese	999
+11	na	III_10_0148	Löcherberg	8.17462, 48.43425	na	bärenameise	999	na	bärenameise	999	na	Bäramese	999

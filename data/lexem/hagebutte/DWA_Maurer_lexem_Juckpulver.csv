@@ -1,0 +1,61 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Hag N 3	na	Frohmühl (Frohmuhl)	7.28007, 48.90754	juckpulver	na	999	jukpulver	na	999	Juckpulver	na	999
+1	Stra n 6	na	Pfettisheim	7.64331, 48.66042	juckpulvär	na	999	jukpulver	na	999	Juckpulver	na	999
+2	Stra R 13	na	Rust	7.72571, 48.26873	juckbulver	na	999	jukpulver	na	999	Juckpulver	na	999
+3	Co f 2	III_12_0113	Riegel, Riegel	7.7507, 48.15056	juckbulver	juckbulver	0	jukpulver	jukpulver	0	Juckpulver	Juckpulver	0
+4	Stra C 7	na	Ichenheim	7.81161, 48.43161	jugbulver	na	999	jukpulver	na	999	Juckpulver	na	999
+5	Stra C 6	na	Dundenheim	7.81569, 48.44904	jugbulvr	na	999	jukpulver	na	999	Juckpulver	na	999
+6	Stra v 3	na	Goldscheuer	7.81911, 48.51308	jugbulver	na	999	jukpulver	na	999	Juckpulver	na	999
+7	Stra v 2	na	Marlen	7.8231, 48.52207	juckbulver	na	999	jukpulver	na	999	Juckpulver	na	999
+8	Stra D 15	III_10_0119	Hofweier, Hofweier	7.90797, 48.42392	juckpulver	juckpulver	0	jukpulver	jukpulver	0	Juckpulver	Juckpulver	0
+9	Stra p 6	na	Holzhausen	7.92018, 48.62595	juggbulwer	na	999	jukpulver	na	999	Juckpulver	na	999
+10	Stra Z 2	III_12_0049	Dörlinbach, Dörlinbach	7.95383, 48.24804	juckpulver	juckbulver	1	jukpulver	jukpulver	0	Juckpulver	Juckpulver	0
+11	Stra w 6	na	Ebersweier	7.98301, 48.50723	juckpulver	na	999	jukpulver	na	999	Juckpulver	na	999
+12	Stra p 7	na	Wagshurst	7.99491, 48.62035	juckpulver	na	999	jukpulver	na	999	Juckpulver	na	999
+13	Stra h 5	na	Scherzheim	7.99655, 48.7137	jugbulvr	na	999	jukpulver	na	999	Juckpulver	na	999
+14	TÜB w1/1, TÜB w1/2	III_10_0135	Durbach, Durbach	8.01775, 48.49407	juckbulfer, juckbulver	juckpulver	1	jukpulver	jukpulver	0	Juckpulver	Juckpulver	0
+15	TÜB h1/2	III_9_0103	Gamshurst, Gamshurst	8.0187, 48.66413	juckpulver	juckpulver	0	jukpulver	jukpulver	0	Juckpulver	Juckpulver	0
+16	TÜB p12	III_10_0068	Nussbach, Nussbach	8.02103, 48.53543	juckpulver	juckpulver	0	jukpulver	jukpulver	0	Juckpulver	Juckpulver	0
+17	TÜB p10	III_10_0077	Bottenau/Oberkirch, Bottenau	8.04409, 48.5298	juckpulver	juckpulver	0	jukpulver	jukpulver	0	Juckpulver	Juckpulver	0
+18	KST S7	na	Söllingen	8.05486, 48.78147	juckpulver	na	999	jukpulver	na	999	Juckpulver	na	999
+19	TÜB h9	na	Mösbach	8.06514, 48.5964	jůckbůlver	na	999	jukpulver	na	999	Juckpulver	na	999
+20	TÜB h3	na	Sasbachried	8.08648, 48.65688	juckpulver	na	999	jukpulver	na	999	Juckpulver	na	999
+21	TÜB a6	na	Oberbruch	8.08775, 48.72893	juckpulver	na	999	jukpulver	na	999	Juckpulver	na	999
+22	TÜB a8	III_8_0106	Vimbuch, Vimbuch	8.11501, 48.71676	juckbulvr	juckbulvr	0	jukpulver	jukpulver	0	Juckpulver	Juckpulver	0
+23	KST L5	na	Plittersdorf bei Rastatt	8.15649, 48.88249	juggbulver	na	999	jukpulver	na	999	Juckpulver	na	999
+24	TÜB x1	III_10_0082	Lierbach, Lierbach	8.19298, 48.52477	juckpulver	juckpulver	0	jukpulver	jukpulver	0	Juckpulver	Juckpulver	0
+25	KST M1	na	Steinmauern	8.19956, 48.90045	juckbulver	na	999	jukpulver	na	999	Juckpulver	na	999
+26	KST T9	III_7_0127, III_7_0126	Haueneberstein, Haueneberstein	8.22194, 48.80626	juckpulver	juckbulver	1	jukpulver	jukpulver	0	Juckpulver	Juckpulver	0
+27	KST M8	III_6_0107	Rauental, Rauental	8.24794, 48.8572	juckpulver	juckpulver	0	jukpulver	jukpulver	0	Juckpulver	Juckpulver	0
+28	KST T7	III_7_0132	Ebersteinburg, Ebersteinburg	8.26889, 48.77997	juckpulver	juckpulver	0	jukpulver	jukpulver	0	Juckpulver	Juckpulver	0
+29	KST y 9, KST y 10	III_21_0001	Neureut, Neureut	8.37902, 49.05267	juckbulver	juckpulver	1	jukpulver	jukpulver	0	Juckpulver	Juckpulver	0
+30	KST N12	na	Moosbronn	8.38849, 48.83638	juggebulver	na	999	jukpulver	na	999	Juckpulver	na	999
+31	KST N5	na	Schöllbronn bei Ettlingen	8.42179, 48.89892	juckpulver	na	999	jukpulver	na	999	Juckpulver	na	999
+32	KST y 2	na	Büchig	8.46824, 49.04811	juckpulver	na	999	jukpulver	na	999	Juckpulver	na	999
+33	KST s5	na	Spöck	8.51033, 49.11179	juckpulver	na	999	jukpulver	na	999	Juckpulver	na	999
+34	MH Q2	na	Schwetzingen	8.57064, 49.38567	juxbulver	na	999	jukspulver	na	999	Juckpulver	na	999
+35	KST G4	na	Wilferdingen	8.57281, 48.9487	juckpulver	na	999	jukpulver	na	999	Juckpulver	na	999
+36	MH R7	na	Gauangelloch	8.75579, 49.34078	juckpulver	na	999	jukpulver	na	999	Juckpulver	na	999
+37	KST e12	III_18_0029	Tairnbach, Tairnbach	8.75625, 49.26367	jugbulfe	juckpulver	5	jukpulver	jukpulver	0	Juckpulver	Juckpulver	0
+38	MH S14	II_60_0058	Epfenbach, Epfenbach	8.91088, 49.33719	juckpulver	jugbulwä	6	jukpulver	jukpulver	0	Juckpulver	Juckpulver	0
+39	MH S13	II_60_0062	Schönbrunn, Schönbrunn	8.92851, 49.41228	juxäbulva	juxebulva	1	juksepulver	juksepulver	0	Juckpulver	Juckpulver	0
+40	MH T4	na	Guttenbach	9.07142, 49.38983	jugsebulver	na	999	juksepulver	na	999	Juckpulver	na	999
+41	MH L9	na	Mülben	9.09946, 49.46414	juckpulver	na	999	jukpulver	na	999	Juckpulver	na	999
+42	MH M7	II_59_0112	Trienz, Trienz	9.16956, 49.44002	juxtebulver	juxepulver	2	juksepulver	juksepulver	0	Juckpulver	Juckpulver	0
+43	MH O5	na	Schwabhausen	9.60196, 49.45569	juxebulver	na	999	juksepulver	na	999	Juckpulver	na	999
+44	na	III_11_0042	Ottenheim	7.75477, 48.38593	na	juckpulver	999	na	jukpulver	999	na	Juckpulver	999
+45	na	III_11_0043	Kürzell	7.81571, 48.38829	na	juckpulver	999	na	jukpulver	999	na	Juckpulver	999
+46	na	III_6_0080, III_6_0081	Schwabweiler	7.87665, 48.90207	na	juckpulver	999	na	jukpulver	999	na	Juckpulver	999
+47	na	III_11_0130	Wittelbach	7.95069, 48.29243	na	juckpulver	999	na	jukpulver	999	na	Juckpulver	999
+48	na	III_8_0095	Helmlingen	7.9656, 48.70959	na	juckpulver	999	na	jukpulver	999	na	Juckpulver	999
+49	na	III_8_0098	Lichtenau	8.00691, 48.72636	na	jockbulver	999	na	jokpulver	999	na	Juckpulver	999
+50	na	III_11_0126	Schönberg	8.0327, 48.36461	na	jugpulfer	999	na	jukpulver	999	na	Juckpulver	999
+51	na	III_10_0073	Haslach	8.05661, 48.56552	na	juckpulver	999	na	jukpulver	999	na	Juckpulver	999
+52	na	III_9_0099	Oberachern	8.08066, 48.6193	na	juckpulver	999	na	jukpulver	999	na	Juckpulver	999
+53	na	III_7_0122	Halberstung	8.14298, 48.76025	na	juckpulver	999	na	jukpulver	999	na	Juckpulver	999
+54	na	III_6_0104, III_6_0105	Muggenturm	8.2763, 48.87021	na	juckpulver	999	na	jukpulver	999	na	Juckpulver	999
+55	na	III_23_0007	Schluttenbach	8.40022, 48.89885	na	juckpulver	999	na	jukpulver	999	na	Juckpulver	999
+56	na	III_20_0016	Karlsdorf	8.54164, 49.1363	na	juckpulver	999	na	jukpulver	999	na	Juckpulver	999
+57	na	II_60_0060	Reichartshausen	8.94509, 49.35547	na	juckpulver	999	na	jukpulver	999	na	Juckpulver	999
+58	na	II_60_0061	Michelbach	8.96532, 49.37259	na	juckbulver	999	na	jukpulver	999	na	Juckpulver	999
+59	na	III_18_0060	Obergimpern	9.04013, 49.25574	na	juckpulver	999	na	jukpulver	999	na	Juckpulver	999

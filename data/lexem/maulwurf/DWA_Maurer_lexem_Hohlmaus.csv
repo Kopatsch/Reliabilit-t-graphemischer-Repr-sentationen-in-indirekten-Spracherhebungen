@@ -1,0 +1,12 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Co e 6	na	Bischoffingen	7.62537, 48.10625	hōlmüs	na	999	hohlmüs	na	999	Hohlmaus	na	999
+1	Stra R 13	III_11_0118	Rust, Rust	7.72571, 48.26873	hohlmüs	hohlemüs	1	hohlmüs	hohlmüs	0	Hohlmaus	Hohlmaus	0
+2	Stra R 11	III_11_0110	Kappel a, Rh,, Kappel a, Rh,	7.74182, 48.29235	hohlmüs	hohlmühs	1	hohlmüs	hohlmüs	0	Hohlmaus	Hohlmaus	0
+3	Stra R 10	na	Ettenheim	7.81361, 48.25631	hohlmūs	na	999	hohlmus	na	999	Hohlmaus	na	999
+4	TUTT v4	na	Krumbach	9.04788, 47.96159	hohlmaus	na	999	hohlmaus	na	999	Hohlmaus	na	999
+5	SIG q3	na	Oberuhldingen	9.24549, 47.73557	hohlmus	na	999	hohlmus	na	999	Hohlmaus	na	999
+6	na	III_13_0119	Bilzheim	7.38657, 47.95675	na	hohlmaus	999	na	hohlmaus	999	na	Hohlmaus	999
+7	na	III_12_0108	Burkheim am Kaiserstuhl	7.59943, 48.10194	na	hohlmus	999	na	hohlmus	999	na	Hohlmaus	999
+8	na	III_12_0033	Ringsheim	7.78041, 48.24632	na	hohlmuus	999	na	hohlmus	999	na	Hohlmaus	999
+9	na	III_36_0057	Liggeringen	9.02698, 47.77495	na	hohlmus	999	na	hohlmus	999	na	Hohlmaus	999
+10	na	III_35_0080	Illmensee	9.37456, 47.86209	na	hohlmus	999	na	hohlmus	999	na	Hohlmaus	999

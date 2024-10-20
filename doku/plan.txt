@@ -1,0 +1,46 @@
+Allgemein:
+- Dateinamen vereinheitlichen
+- arbeiten mit csv Dateien ohne Alinierung (Methode vermutlich nicht zielführend für die Fragestellung)
+- Script von Andreas konnte nicht gefunden werden
+
+Datenbereinigung:
+- Maurer Dateinamen anpassen wie im Projekt
+- item Bereinigung -> keine Artikel, keine weiteren Worte, mehrfach Nennungen trennen -> ist in Freiburger Daten schon geschehen
+--> wichtig, da bei Levinshtein Methode strings verglichen werden
+
+- Freiburg: sollen Daten
+
+Vergleich:
+- Match über Ortnamen und Koordinaten
+- Vergleich pro Ort
+- wie umgehen mit Mehrfachnennungen?
+
+
+ERgebnisse:
+
+DWA       2694
+maurer    2636
+
+-> mehr DWA als maurerdaten in Tabellen
+
+
+Levenstheindistanz
+- einfache Distanz
+- linguistisch komplexer: z.B. Metathesen berücksichtigen
+- in R gibt es Pakete dafür "stringr" -> Gewichtungung, Deletions
+
+Notizen:
+- Vergleich lextypes Maurer/DWA -> müssten ziemlich gleich sein
+- Statistik mit Grids/Kartenquadrate
+- worauf wenden wir Statistik an? -> Quadratcountverfahren/ örtlich verortet - Quadrate müssen mit Computer erzeugt werden
+-> schauen, wie viel porzentualer Anteil pro Quadrat pro Variante
+-> für jede Varainte einmal Maurer und einmal DWA pro- Frage: Reliabilität auf welcher Ebene: item/phonetype/lextype
+- linguistischer Unterschied vs. Problem in der graphemischen Repräsentation der Laute
+- Linguistic Coherence (Netzwerkanalyse?) -> Variation im Raum modellieren unter Berücksichtigung der nächsten Nachbarn
+
+
+Probleme bei:
+- Elster
+- Gurke
+- Stecknadel
+- Ziege

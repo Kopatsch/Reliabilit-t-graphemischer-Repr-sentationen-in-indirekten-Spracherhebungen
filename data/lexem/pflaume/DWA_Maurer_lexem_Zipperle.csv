@@ -1,0 +1,6 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	KST N11	na	Schielberg	8.44945, 48.84311	zibbeerle	na	999	ziberle	na	999	Zipperle	na	999
+1	MH w3	na	Hardheim	9.47457, 49.60804	zipperle	na	999	ziberle	na	999	Zipperle	na	999
+2	MH E6	na	Bretzingen	9.48682, 49.57826	zipperle	na	999	ziberle	na	999	Zipperle	na	999
+3	MH F4	na	Gerichtstetten	9.5049, 49.53499	zipperli	na	999	ziberle	na	999	Zipperle	na	999
+4	MH x3	na	Impfingen	9.65946, 49.64719	zipperli	na	999	ziberle	na	999	Zipperle	na	999

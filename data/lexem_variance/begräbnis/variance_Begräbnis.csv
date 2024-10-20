@@ -1,0 +1,6 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_maurer_align	item_DWA	item_DWA_align	Levenshtein_item
+0	Co D3	III_14_0080	Rimbach-Pès-Masevaux), Rimbach	6.9473, 47.82212	bagrabnis	b a g r a b n i s	begräbnis	b e g r ä b n i s	2
+1	Co x 5	III_14_0009	St. Amarin, St. Amarin	7.03186, 47.87365	bagräbnis	b a g r ä b n i s	bagrebnis	b a g r e b n i s	1
+2	Co k 4	III_13_0019	Wettolsheim, Wettolsheim	7.30629, 48.06133	begrabnis	b e g r a b n i s	begräbnis	b e g r ä b n i s	1
+3	Stra t 15/1	III_10_0006	Flexburg, Flexburg	7.43177, 48.57213	begräbnis	b e g r ä b n i s	begroebnis	b e g r o e b n i s	2
+4	Co Va 6	III_17_0022	Oberhagental (Hagenthal-le-Haut), Oberhagental	7.46966, 47.52221	begräbnis	b e g r ä b n i s	begrabnis	b e g r a b n i s	1

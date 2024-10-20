@@ -1,0 +1,5 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Stra R 9	na	Altdorf	7.81401, 48.26606	stōßmūs	na	999	stoßmus	na	999	Stoßmus	na	999
+1	Stra Y 5	na	Ettenheimweiler	7.82007, 48.23676	stohsmus	na	999	stoßmus	na	999	Stoßmus	na	999
+2	Stra S 10	na	Wallburg	7.85339, 48.26704	stōßmus	na	999	stoßmus	na	999	Stoßmus	na	999
+3	SIG k3	na	Denkingen	9.30821, 47.89505	stoßmaus	na	999	stoßmus	na	999	Stoßmus	na	999

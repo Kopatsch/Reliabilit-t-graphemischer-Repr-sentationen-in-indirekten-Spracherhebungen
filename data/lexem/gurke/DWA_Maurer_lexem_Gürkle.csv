@@ -1,0 +1,12 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Co A10	na	Zienken (Müllheim)	7.57779, 47.84303	girkle	na	999	girkle	na	999	Gürkle	na	999
+1	Stra D 5	na	Bohlsbach	7.94796, 48.49264	girkli	na	999	girkli	na	999	Gürkle	na	999
+2	TUTT D1	na	Menzenschwand	8.07059, 47.81749	gürgli	na	999	gürkli	na	999	Gürkle	na	999
+3	KST T8	na	Baden-Baden/Balg	8.22708, 48.78962	gürkle	na	999	gürkle	na	999	Gürkle	na	999
+4	TÜB b2/2	na	Lichtent(h)al	8.2614, 48.74458	girgle	na	999	girkle	na	999	Gürkle	na	999
+5	KST O6	na	Weiler Kr. Pforzheim	8.54326, 48.8837	gürkle	na	999	gürkle	na	999	Gürkle	na	999
+6	na	III_14_0144	Britzingen	7.67237, 47.82744	na	gürkli	999	na	gürkli	999	na	Gürkle	999
+7	na	III_16_0094	Brombach	7.69236, 47.63395	na	gürkli	999	na	gürkli	999	na	Gürkle	999
+8	na	III_10_0121	Ohlsbach	7.99275, 48.43199	na	girkle	999	na	girkle	999	na	Gürkle	999
+9	na	III_23_0045	Pforzheim	8.70025, 48.89013	na	gürkle	999	na	gürkle	999	na	Gürkle	999
+10	na	III_22_0031	Bauschlott	8.72785, 48.97051	na	gürkle	999	na	gürkle	999	na	Gürkle	999

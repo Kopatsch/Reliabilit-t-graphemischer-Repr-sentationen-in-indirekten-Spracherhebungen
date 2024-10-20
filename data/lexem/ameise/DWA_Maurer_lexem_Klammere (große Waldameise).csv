@@ -1,0 +1,58 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Co P15	na	Holzen	7.62775, 47.69538	chlamere	na	999	chlammere	na	999	Klammere (große Waldameise)	na	999
+1	Co Q9	na	Weitenau	7.76525, 47.67775	chlammere	na	999	chlammere	na	999	Klammere (große Waldameise)	na	999
+2	Co u 19/1	na	Bollschweil	7.77924, 47.91994	klammere	na	999	klammere	na	999	Klammere (große Waldameise)	na	999
+3	Co Q3	na	Raich	7.79724, 47.75076	chlammere	na	999	chlammere	na	999	Klammere (große Waldameise)	na	999
+4	Co Q10	na	Wieslet	7.79819, 47.6893	chlammere	na	999	chlammere	na	999	Klammere (große Waldameise)	na	999
+5	Co u 20	na	Sölden	7.80967, 47.93307	klammere	na	999	klammere	na	999	Klammere (große Waldameise)	na	999
+6	Co u 13	na	Haslach	7.82166, 47.9895	klammere	na	999	klammere	na	999	Klammere (große Waldameise)	na	999
+7	Co J5	na	Bürchau	7.82686, 47.77616	chlammere	na	999	chlammere	na	999	Klammere (große Waldameise)	na	999
+8	Co u 10	na	Au	7.82976, 47.95687	klammare	na	999	klammere	na	999	Klammere (große Waldameise)	na	999
+9	Co Y 13	na	Dossenbach	7.85693, 47.61597	chlammere	na	999	chlammere	na	999	Klammere (große Waldameise)	na	999
+10	Co C1	na	Obermünstertal-Neuhof	7.86115, 47.84975	chlamere	na	999	chlammere	na	999	Klammere (große Waldameise)	na	999
+11	Co C5	na	Muggenbrunn	7.91725, 47.857	chlammere	na	999	chlammere	na	999	Klammere (große Waldameise)	na	999
+12	Co C4	na	Todtnauberg	7.94335, 47.85074	chlammere	na	999	chlammere	na	999	Klammere (große Waldameise)	na	999
+13	Co K1	na	Todtnau	7.94634, 47.82887	chlammere	na	999	chlammere	na	999	Klammere (große Waldameise)	na	999
+14	Co C6	na	Sankt Wilhelm	7.94887, 47.89511	klammere	na	999	klammere	na	999	Klammere (große Waldameise)	na	999
+15	Co K11	na	Präg-Herrenschwand	7.95327, 47.76746	chlammere	na	999	chlammere	na	999	Klammere (große Waldameise)	na	999
+16	TUTT h2	na	St. Peter	8.03492, 48.01587	klammere	na	999	klammere	na	999	Klammere (große Waldameise)	na	999
+17	TUTT D1	na	Menzenschwand	8.07059, 47.81749	chlammere	na	999	chlammere	na	999	Klammere (große Waldameise)	na	999
+18	TUTT E1	na	Fischbach	8.16112, 47.84388	glammere	na	999	klammere	na	999	Klammere (große Waldameise)	na	999
+19	TUTT q1	na	Waldau	8.16331, 47.98172	glammere	na	999	klammere	na	999	Klammere (große Waldameise)	na	999
+20	TUTT T4	na	Waldkirch	8.17132, 47.65851	klammere	na	999	klammere	na	999	Klammere (große Waldameise)	na	999
+21	TUTT T5	na	Eschbach	8.18086, 47.6336	gchlammere	na	999	chlammere	na	999	Klammere (große Waldameise)	na	999
+22	TUTT E5	na	Staufen	8.21221, 47.75633	klammere	na	999	klammere	na	999	Klammere (große Waldameise)	na	999
+23	TÜB b2/1	na	Lichtent(h)al	8.2614, 48.74458	klåmmer	na	999	klammer	na	999	Klammere (große Waldameise)	na	999
+24	KST M4	na	Muggensturm	8.2763, 48.87021	kimmer	na	999	kimmer	na	999	Klammere (große Waldameise)	na	999
+25	TUTT T12	na	Unterlauchringen	8.30394, 47.63095	chlammerå	na	999	chlammere	na	999	Klammere (große Waldameise)	na	999
+26	TUTT F2	na	Bonndorf	8.34216, 47.8198	klammere	na	999	klammere	na	999	Klammere (große Waldameise)	na	999
+27	KST U6	na	Sulzbach	8.35791, 48.80596	klemmer	na	999	klemmer	na	999	Klammere (große Waldameise)	na	999
+28	TÜB c4	na	Au im Murgtal	8.36129, 48.72172	klämmer	na	999	klemmer	na	999	Klammere (große Waldameise)	na	999
+29	TUTT k9	na	Herzogenweiler	8.37157, 48.0254	glammere	na	999	klammere	na	999	Klammere (große Waldameise)	na	999
+30	TUTT N8	na	Ofteringen	8.37663, 47.67838	chlammere	na	999	chlammere	na	999	Klammere (große Waldameise)	na	999
+31	KST N5	na	Schöllbronn bei Ettlingen	8.42179, 48.89892	klemer	na	999	klemmer	na	999	Klammere (große Waldameise)	na	999
+32	TUTT G5	na	Uttenhofen	8.63235, 47.80782	klammere	na	999	klammere	na	999	Klammere (große Waldameise)	na	999
+33	TUTT P2	na	Bietingen	8.73023, 47.73862	chlammerĕ	na	999	chlammere	na	999	Klammere (große Waldameise)	na	999
+34	KST W2	na	Hamberg	8.76924, 48.81833	glemmer	na	999	klemmer	na	999	Klammere (große Waldameise)	na	999
+35	TUTT P4	na	Gotttmadingen	8.77716, 47.73498	klammara	na	999	klammere	na	999	Klammere (große Waldameise)	na	999
+36	TUTT A5	na	Biesendorf	8.81255, 47.91175	klammera	na	999	klammere	na	999	Klammere (große Waldameise)	na	999
+37	TUTT J4	na	Singen	8.83317, 47.76378	chlammere	na	999	chlammere	na	999	Klammere (große Waldameise)	na	999
+38	TUTT K7	na	Liggeringen	9.02698, 47.77495	klammer	na	999	klammer	na	999	Klammere (große Waldameise)	na	999
+39	TUTT R2	na	Kaltbrunn	9.07201, 47.73526	klammera	na	999	klammere	na	999	Klammere (große Waldameise)	na	999
+40	SIG k2	na	Aftholderberg	9.2431, 47.89832	klammere	na	999	klammere	na	999	Klammere (große Waldameise)	na	999
+41	SIG r4	na	Riedheim	9.41014, 47.70429	klammara	na	999	klammere	na	999	Klammere (große Waldameise)	na	999
+42	na	III_12_0121	Endingen	7.70312, 48.1419	na	klammerer	999	na	klammere	999	na	Klammere (große Waldameise)	999
+43	na	III_13_0141	Horben	7.85911, 47.93223	na	klammere	999	na	klammere	999	na	Klammere (große Waldameise)	999
+44	na	III_15_0071	Häg	7.91432, 47.73207	na	klammere	999	na	klammere	999	na	Klammere (große Waldameise)	999
+45	na	III_10_0125	Zell-Weierbach	7.98174, 48.47408	na	klemmer	999	na	klemmer	999	na	Klammere (große Waldameise)	999
+46	na	III_15_0127	Uhlingen Ühlingen	8.31845, 47.7201	na	klammere	999	na	klammere	999	na	Klammere (große Waldameise)	999
+47	na	III_6_0103	Waldprechtsweier	8.33173, 48.8612	na	klemmer	999	na	klemmer	999	na	Klammere (große Waldameise)	999
+48	na	III_12_0155	St. Georgen	8.33183, 48.12564	na	glemmer	999	na	klemmer	999	na	Klammere (große Waldameise)	999
+49	na	III_22_0007	Grünwettersbach	8.46671, 48.95784	na	klemmer	999	na	klemmer	999	na	Klammere (große Waldameise)	999
+50	na	II_59_0038	Mannheim	8.46678, 49.4865	na	klammer	999	na	klammer	999	na	Klammere (große Waldameise)	999
+51	na	III_22_0009	Reichenbach	8.47546, 48.92348	na	klemmer	999	na	klemmer	999	na	Klammere (große Waldameise)	999
+52	na	III_19_0019	Mingolsheim	8.65316, 49.21986	na	klemmer	999	na	klemmer	999	na	Klammere (große Waldameise)	999
+53	na	III_22_0027	Ispringen	8.66764, 48.91655	na	klemmer	999	na	klemmer	999	na	Klammere (große Waldameise)	999
+54	na	III_23_0045, III_23_0042, III_23_0051, III_23_0041, III_23_0038, III_23_0048	Pforzheim	8.70025, 48.89013	na	klemmer	999	na	klemmer	999	na	Klammere (große Waldameise)	999
+55	na	III_35_0055	Winterspüren	9.05857, 47.85618	na	klammere	999	na	klammere	999	na	Klammere (große Waldameise)	999
+56	na	III_35_0065	Aftholderberg	9.2431, 47.8983	na	klammern	999	na	klammern	999	na	Klammere (große Waldameise)	999

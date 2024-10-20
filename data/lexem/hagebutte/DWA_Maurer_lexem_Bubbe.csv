@@ -1,0 +1,4 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Co R11	III_15_0083	Gersbach, Gersbach	7.93271, 47.69725	bubbä	bubbe	1	bubbe	bubbe	0	Bubbe	Bubbe	0
+1	na	III_15_0090, III_15_0091	Grossherrischwand	8.01017, 47.6797	na	bubbe, puppen	999	na	bubbe, bubben	999	na	Bubbe	999
+2	na	III_15_0094	Wehrhalden	8.01061, 47.70213	na	bubbe	999	na	bubbe	999	na	Bubbe	999

@@ -1,0 +1,158 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_maurer_align	item_DWA	item_DWA_align	Levenshtein_item
+0	Ma h2/3, Ma h2/1, Ma h2/2	II_59_0064	Neckarau, Mannheim-Neckarau, Mannheim	8.49104, 49.45335	kadoffl	k a d o ff l	katoffle	k a t o ff l e	2
+1	MH z4/2, MH z4/1	II_58_0065, II_58_0066	Mannheim-Käfertal, Käferthal	8.51715, 49.51259	kadoffel	k a d o ff e l	kartoffelä	k a r t o ff e l ä	3
+2	MH Q7	II_60_0033	Ketsch, Ketsch	8.52432, 49.3678	kadoffl	k a d o ff l	kartoffel	k a r t o ff e l	3
+3	MH H2	II_59_0067	Feudenheim, Feudenheim	8.53299, 49.4864	kardoffl	k a r d o ff l	kartoffel	k a r t o ff e l	2
+4	MH Q1	II_60_0032	Brühl, Brühl	8.53485, 49.3951	kartoffel	k a r t o ff e l	kadoffl	k a d o ff l	3
+5	KST d1	III_18_0015	Hockenheim, Hockenheim	8.54755, 49.31857	kadoffl	k a d o ff l	katoffl	k a t o ff l	1
+6	MH H6	II_59_0068	Seckenheim, Seckenheim	8.56313, 49.46724	katoffl	k a t o ff l	kadoffl	k a d o ff l	1
+7	MH H3	II_59_0069	Ilvesheim, Ilvesheim	8.56668, 49.47129	kadoffel	k a d o ff e l	kartoffel	k a r t o ff e l	2
+8	KST d4	III_18_0018	Reilingen, Reilingen	8.56943, 49.29368	kårtoffl	k å r t o ff l	kartoffl	k a r t o ff l	1
+9	MH Q2	II_60_0035, II_60_0034	Schwetzingen, Schwetzingen	8.57064, 49.38567	kardoffl	k a r d o ff l	kadoffl	k a d o ff l	1
+10	MH Q6	II_60_0092	Oftersheim, Oftersheim	8.58107, 49.36823	kartoffel	k a r t o ff e l	kardoffl	k a r d o ff l	2
+11	MH Q3	II_60_0036	Plankstadt, Plankstadt	8.59271, 49.39179	katoffel	k a t o ff e l	kartoffel	k a r t o ff e l	1
+12	MH H5	II_59_0072	Neckarhausen, Neckarhausen	8.60233, 49.46433	kadoffl	k a d o ff l	kartoffel	k a r t o ff e l	3
+13	MH z3	II_58_0067	Heddesheim, Heddesheim	8.60327, 49.50529	kadofl	k a d o f l	kartoffel	k a r t o ff e l	4
+14	MH H4	II_59_0070	Ladenburg, Ladenburg	8.61098, 49.47244	kardoffl	k a r d o ff l	kartoffel	k a r t o ff e l	2
+15	MH H8	II_59_0073	Edingen, Edingen	8.61196, 49.44847	katoffeln	k a t o ff e l n	kartoffeln	k a r t o ff e l n	1
+16	MH Q4	II_60_0037	Eppelheim, Eppelheim	8.62885, 49.40164	kardoffel	k a r d o ff e l	kadofl	k a d o f l	3
+17	KST d5	III_18_0020	Walldorf, Walldorf	8.64294, 49.3028	kadoffel	k a d o ff e l	kartoffel	k a r t o ff e l	2
+18	MH r1	II_57_0082, II_57_0081	Laudenbach, Laudenbach	8.65434, 49.6119	kardoffl	k a r d o ff l	kartoffel	k a r t o ff e l	2
+19	MH H11	II_58_0068	Leutershausen, Leutershausen	8.65616, 49.49821	kadoffl	k a d o ff l	kartoffl	k a r t o ff l	2
+20	MH z1	II_58_0072	Sulzbach, Sulzbach	8.661, 49.57763	kardoffl	k a r d o ff l	kartoffl	k a r t o ff l	1
+21	MH J1	II_59_0071	Schrießheim, Schriesheim	8.66514, 49.47649	kardoffl	k a r d o ff l	kartoffel	k a r t o ff e l	2
+22	MH A2	II_58_0071	Lützelsachsen, Lützelsachsen	8.66627, 49.52737	kadoffel	k a d o ff e l	kartoffel	k a r t o ff e l	2
+23	MH J2	II_59_0076	Dossenheim, Dossenheim	8.66806, 49.44988	kadoffl	k a d o ff l	katoffl	k a t o ff l	1
+24	MH A1	II_58_0073	Weinheim, Weinheim	8.67068, 49.55495	kadoffel	k a d o ff e l	kartoffel	k a r t o ff e l	2
+25	MH J3/1, MH J3/2	II_59_0077	Handschuhsheim, Heidelberg-Handschuhsheim, Heidelberg-Handschuhsheim	8.68613, 49.42774	kartoffel	k a r t o ff e l	kartoffl	k a r t o ff l	1
+26	MH R5, MH R4	II_60_0042	Leimen, Leimen	8.68891, 49.34902	kadoffl	k a d o ff l	kardoffl	k a r d o ff l	1
+27	KST P3/4, KST P3/3	III_23_0040, III_23_0052, III_23_0045, III_23_0049	Pforzheim, Pforzheim	8.70025, 48.89013	kardoffl	k a r d o ff l	kartoffli	k a r t o ff l i	2
+28	KST e2/1, KST e2/2	III_18_0036	Wiesloch, Wiesloch	8.70178, 49.29504	kartoffel	k a r t o ff e l	kartoffl	k a r t o ff l	1
+29	MH A5	II_58_0077	Oberflockenbach, Oberflockenbach	8.73109, 49.51102	kadoffl	k a d o ff l	kardoffel	k a r d o ff e l	2
+30	MH R6	II_60_0047	Ochsenbach, Ochsenbach	8.73932, 49.33778	kadoffl	k a d o ff l	kartoffel	k a r t o ff e l	3
+31	MH J6	II_59_0080	Wilhelmsfeld, Wilhelmsfeld	8.7544, 49.47018	kartoffel	k a r t o ff e l	kardoffl	k a r d o ff l	2
+32	KST e12	III_18_0029	Tairnbach, Tairnbach	8.75625, 49.26367	katoffl	k a t o ff l	kartoffel	k a r t o ff e l	2
+33	MH R9	II_60_0046	Bammental, Bammental	8.77604, 49.35511	kadoffl	k a d o ff l	kartoffel	k a r t o ff e l	3
+34	KST e7	III_18_0031	Horrenberg, Horrenberg	8.78051, 49.28149	kartoffl	k a r t o ff l	kartoffel	k a r t o ff e l	1
+35	KST e14	III_18_0030	Eschelbach, Eschelbach	8.78417, 49.24823	kadoffl	k a d o ff l	kadoffel	k a d o ff e l	1
+36	MH R10	II_60_0050	Wiesenbach, Wiesenbach	8.80354, 49.36103	kadoffl̠	k a d o ff l ̠	kaʳdóffl	k a ʳ d ó ff l	3
+37	MH J12	II_59_0083	Altneudorf, Altneudorf	8.80481, 49.46366	gedoffel	g e d o ff e l	katoffl	k a t o ff l	4
+38	MH J13	II_59_0084	Schönau bei Heidelberg, Schönau	8.80977, 49.43706	kadoffl	k a d o ff l	kattoffl	k a tt o f f l	2
+39	MH S1	II_60_0052	Dilsberg, Dilsberg	8.8362, 49.39832	kardoffel	k a r d o ff e l	kardoffl	k a r d o ff l	1
+40	MH S6	II_60_0056	Mönchzell, Mönchzell	8.85327, 49.33612	kartoffel	k a r t o ff e l	katoffel	k a t o ff e l	1
+41	KST f1	III_18_0041, III_18_0037, III_18_0039, III_18_0040, III_18_0038	Eschelbronn, Eschelbronn	8.86825, 49.3202	kartoffel	k a r t o ff e l	kartoffl	k a r t o ff l	1
+42	MH S4	II_60_0055	Lobenfeld, Lobenfeld	8.8718, 49.35884	kardoffel	k a r d o ff e l	kartoffel	k a r t o ff e l	1
+43	KST f10	III_18_0043, III_18_0044	Daisbach, Daisbach	8.87705, 49.2938	kadoffl	k a d o ff l	kartoffel	k a r t o ff e l	3
+44	MH K8	II_59_0097	Neckarhäuserhof, Neckarhäuserhof	8.88191, 49.41513	kartoffel	k a r t o ff e l	kardoffle	k a r d o ff l e	3
+45	MH S3	II_60_0054	Waldwimmersbach, Waldwimmersbach	8.89219, 49.37538	kardoffel	k a r d o ff e l	kartoffel	k a r t o ff e l	1
+46	MH S14	II_60_0058	Epfenbach, Epfenbach	8.91088, 49.33719	kartoffel	k a r t o ff e l	kadoffl	k a d o ff l	3
+47	MH K7	II_59_0088	Moosbrunn, Moosbrunn	8.92878, 49.42533	kadoffel	k a d o ff e l	gedoffl	g e d o ff l	3
+48	MH S11	II_60_0067	Haag, Haag	8.92912, 49.39429	gĕdŏffl	g ĕ d ŏ ff l	gĕdoffl	g ĕ d o ff l	1
+49	MH K5	II_59_0093, II_59_0094	Pleutersbach, Pleutersbach	8.95293, 49.45367	kadoffl	k a d o ff l	kadoffel	k a d o ff e l	1
+50	MH K6/2, MH K6/1	II_59_0096	Allemühl, Allemühl	8.95618, 49.42613	katoffel	k a t o ff e l	gdoffl	g d o ff l	4
+51	MH S10	II_60_0061	Michelbach, Michelbach	8.96532, 49.37259	kadoffel	k a d o ff e l	kartoffel	k a r t o ff e l	2
+52	MH S12	II_60_0063	Schwanheim, Schwanheim	8.97596, 49.40194	gedoffel	g e d o ff e l	kedoffel	k e d o ff e l	1
+53	MH S9	II_60_0064	Unterschwarzach, Unterschwarzach	8.98202, 49.36856	kādoffl	k ā d o ff l	katoffel	k a t o ff e l	3
+54	KST n4	III_19_0051	Ehrstädt, Ehrstädt	8.98266, 49.24404	katoffl	k a t o ff l	kartoffel	k a r t o ff e l	2
+55	MH K3	II_59_0092	Eberbach, Eberbach	8.98755, 49.46322	kartoffl	k a r t o ff l	kartoffel	k a r t o ff e l	1
+56	MH K4	II_59_0095	Rockenau, Rockenau	8.99904, 49.44673	gedoffl	g e d o ff l	kartoffel	k a r t o ff e l	5
+57	KST g11	III_18_0053	Flinsbach, Flinsbach	8.9996, 49.30946	kadoffl	k a d o ff l	kardoffel	k a r d o ff e l	2
+58	KST g7	III_18_0059	Untergimern, Untergimern	9.00947, 49.27049	kadoffl	k a d o ff l	kartoffl	k a r t o ff l	2
+59	MH T16	II_60_0070	Breitenbronn, Breitenbronn	9.02197, 49.36483	gedoffel	g e d o ff e l	katoffl	k a t o ff l	4
+60	MH T9	II_60_0071	Asbach, Asbach	9.02562, 49.34133	kartoffel	k a r t o ff e l	katoffel	k a t o ff e l	1
+61	MH T7	II_60_0072	Mörtelstein, Mörtelstein	9.04246, 49.35708	kadoffel	k a d o ff e l	kadoffl	k a d o ff l	1
+62	MH L2	II_59_0101	Oberdielbach, Oberdielbach	9.05361, 49.44781	gedoffl	g e d o ff l	gedoffel	g e d o ff e l	1
+63	MH C1	II_58_0102	Friedrichsdorf, Friedrichsdorf	9.054, 49.52034	kadoffel	k a d o ff e l	kartoffel	k a r t o ff e l	2
+64	KST g10	III_18_0063	Kälbertshausen, Kälbertshausen	9.06276, 49.31724	kadoffel	k a d o ff e l	kadoffl	k a d o ff l	1
+65	MH T17	II_60_0075	Neckargerach, Neckargerach	9.0708, 49.40101	kadofl̠	k a d o f l ̠	kartoffel	k a r t o ff e l	5
+66	MH L1	II_59_0103	Stümpfelbrunn, Strümpfelbrunn	9.07574, 49.4645	gedoffel	g e d o ff e l	gedoffl	g e d o ff l	1
+67	KST g4	III_18_0061	Siegelsbach, Siegelsbach	9.08942, 49.27263	kardoffel	k a r d o ff e l	kartoffel	k a r t o ff e l	1
+68	MH T10	II_60_0078	Obrigheim, Obrigheim	9.09608, 49.35186	kadoffl	k a d o ff l	kartoffel	k a r t o ff e l	3
+69	KST g1	III_18_0064	Hochhausen, Hochhausen	9.1008, 49.323	katoffel	k a t o ff e l	kartoffel	k a r t o ff e l	1
+70	KST o3	III_19_0058	Bad Rappenau, Bad Rappenau	9.10212, 49.24032	kadofl	k a d o f l	kardoffl	k a r d o ff l	2
+71	MH T11	II_60_0079	Diedesheim, Diedesheim	9.11367, 49.34933	kardoffel	k a r d o ff e l	kartoffel	k a r t o ff e l	1
+72	KST g2	III_18_0065	Neckarzimmern, Neckarzimmern	9.1329, 49.31835	katoffel	k a t o ff e l	kartoffel	k a r t o ff e l	1
+73	MH T15	II_60_0077	Lohrbach, Lohrbach	9.14183, 49.4	katoffel	k a t o ff e l	kartoffel	k a r t o ff e l	1
+74	KST g12	III_18_0066	Hassmersheim, Hassmersheim	9.14257, 49.30049	katoffel	k a t o ff e l	kadoffel	k a d o ff e l	1
+75	MH L8	II_59_0106	Wagenschwend, Wagenschwend	9.14637, 49.47256	gedoffl	g e d o ff l	gedoffel	g e d o ff e l	1
+76	KST g14	III_18_0069	Heinsheim, Heinsheim	9.14778, 49.26416	kadoffl	k a d o ff l	kartoffl	k a r t o ff l	2
+77	MH C3	II_58_0110	Scheidental, Scheidental	9.15106, 49.50744	gedoffl	g e d o ff l	gedoffel	g e d o ff e l	1
+78	MH L7	II_59_0107	Robern, Robern	9.16265, 49.45394	gedoffl	g e d o ff l	kartoffel	k a r t o ff e l	5
+79	MH D1	II_58_0106	Mörschenhardt, Mörschenhardt	9.17211, 49.56893	gedoffl	g e d o ff l	gedoffel	g e d o ff e l	1
+80	MH D2	II_58_0107	Donebach, Donebach	9.19217, 49.56113	gedoffl	g e d o ff l	gědoffl	g ě d o ff l	1
+81	MH M8	II_59_0113	Muckental, Muckental	9.20231, 49.42474	gedoffel	g e d o ff e l	kartoffel	k a r t o ff e l	4
+82	MH D3	II_58_0108	Mudau, Mudau	9.20615, 49.53336	katoffel	k a t o ff e l	kadoffl	k a d o ff l	2
+83	MH M5	II_59_0117	Limbach, Limbach	9.21181, 49.46142	katoffel	k a t o ff e l	kartoffel	k a r t o ff e l	1
+84	MH M2	II_59_0119	Laudenberg, Laudenberg	9.21457, 49.48066	gedoffl	g e d o ff l	ketoffl	k e t o ff l	2
+85	MH U11	II_60_0088	Sulzbach, Sulzbach	9.22127, 49.35156	kadoffl	k a d o ff l	kadeffel	k a d e ff e l	2
+86	MH U9	II_60_0094	Auerbach, Auerbach	9.22666, 49.39927	kartoffl	k a r t o ff l	kadoffl	k a d o ff l	2
+87	MH Y1	III_18_0073	Allfeld, Allfeld	9.24133, 49.32379	kardoffl	k a r d o ff l	kartoffel	k a r t o ff e l	2
+88	MH M1	II_59_0120	Einbach, Waldhausen/Einbach	9.24238, 49.48477	gedoffel	g e d o ff e l	kartoffel	k a r t o ff e l	4
+89	MH Y3	III_18_0075	Herbolzheim, Herbolzheim	9.26007, 49.28376	kartoffel	k a r t o ff e l	kardoffl	k a r d o ff l	2
+90	MH Y2	III_18_0074	Neudenau, Neudenau	9.27037, 49.2923	kardoffl	k a r d o ff l	kardoffel	k a r d o ff e l	1
+91	MH U7	II_60_0090	Waldmühlbach, Waldmühlbach	9.28262, 49.36078	kadoffel	k a d o ff e l	kartoffel	k a r t o ff e l	2
+92	MH M13	II_59_0122	Großeicholzheim, Großeicholzheim	9.28966, 49.44361	kartoffel	k a r t o ff e l	kardoffl	k a r d o ff l	2
+93	MH D9	II_57_0143	Hornbach (Hettingenbeuern), Hornbach	9.29012, 49.591	kadoffel	k a d o ff e l	kartoffel	k a r t o ff e l	2
+94	MH v2	II_57_0138	Rippberg, Rippberg	9.29762, 49.62253	kadoffel	k a d o ff e l	kartoffel	k a r t o ff e l	2
+95	MH E1	II_58_0115	Hainstadt, Hainstadt	9.33082, 49.53905	kadoffel	k a d o ff e l	kartoffel	k a r t o ff e l	2
+96	MH w1	II_90_0001	Reichenhardsachsen, Reichenhardsachsen	9.34508, 49.64003	kartoffl	k a r t o ff l	kartoffel	k a r t o ff e l	1
+97	MH E2	II_91_0001	Hettingen, Hettingen	9.36644, 49.5194	kardoffel	k a r d o ff e l	kartoffel	k a r t o ff e l	1
+98	MH N2	II_92_0003	Schlierstadt, Schlierstadt	9.36816, 49.45257	kartoffel	k a r t o ff e l	kardoffel	k a r d o ff e l	1
+99	MH N8	II_92_0001	Götzingen, Götzingen	9.39465, 49.49693	gedoffel	g e d o ff e l	kartoffel	k a r t o ff e l	4
+100	MH o3	II_89_0012	Sonderriet, Sonderriet	9.43938, 49.71753	katoffel	k a t o ff e l	kartoffel	k a r t o ff e l	1
+101	MH E5	II_91_0004	Waldstetten, Waldstetten	9.44893, 49.5647	kadoffl	k a d o ff l	kartoffel	k a r t o ff e l	3
+102	MH o7	II_89_0007	Nassig, Nassig	9.45146, 49.73582	kadoffel	k a d o ff e l	kartoffl	k a r t o ff l	3
+103	MH f3	II_88_0014	Grünenwört, Grünenwört	9.47135, 49.77438	kadoffel	k a d o ff e l	kartoffel	k a r t o ff e l	2
+104	MH o6	II_89_0008	Vockenrot, Vockenrot	9.48521, 49.74816	kartoffl	k a r t o ff l	kartoffel	k a r t o ff e l	1
+105	MH o5	II_89_0011, II_89_0010, II_89_0009	Sachsenhausen, Sachsenhausen	9.49147, 49.73223	kadoffl	k a d o ff l	kadoffel	k a d o ff e l	1
+106	MH E8	II_91_0006	Erfeld, Erfeld	9.49597, 49.55416	kadoffel	k a d o ff e l	kardoffel	k a r d o ff e l	1
+107	MH p1	II_89_0018	Waldenhausen, Waldenhausen	9.52298, 49.74357	kaddoffl	k a dd o f f l	kartoffel	k a r t o ff e l	3
+108	MH F5	II_91_0011	Eubigheim, Eubigheim	9.53977, 49.5018	kartoffl	k a r t o ff l	kartoffel	k a r t o ff e l	1
+109	MH F2	II_91_0009	Brehmen, Brehmen	9.55454, 49.56839	katoffel	k a t o ff e l	kartoffel	k a r t o ff e l	1
+110	MH p13	II_89_0019	Urphar, Urphar	9.5706, 49.74798	kårdoffl	k å r d o ff l	kartoffel	k a r t o ff e l	3
+111	MH g2	II_88_0023	Lindelbach, Lindelbach	9.58346, 49.75732	kårdoffl	k å r d o ff l	koardoffl	k o a r d o ff l	2
+112	MH p10	II_89_0028	Höhefeld, Höhefeld	9.60905, 49.71271	kartoffel	k a r t o ff e l	gedoffel	g e d o ff e l	4
+113	MH p9	II_89_0027	Niklashausen, Niklashausen	9.6175, 49.70453	kadoffel	k a d o ff e l	kardoffel	k a r d o ff e l	1
+114	MH x8	II_90_0015	Tauberbischofsheim, Tauberbischofsheim	9.66553, 49.62352	kardoffel	k a r d o ff e l	kartoffle	k a r t o ff l e	3
+115	MH y4	II_90_0021	Dittigheim, Dittigheim	9.67647, 49.61035	katoffel	k a t o ff e l	kartoffel	k a r t o ff e l	1
+116	MH G1	II_91_0016	Oberlauda, Oberlauda	9.67912, 49.56608	kartoffl	k a r t o ff l	kartoffel	k a r t o ff e l	1
+117	Ma h2/3, Ma h2/1, Ma h2/2	II_59_0064	Neckarau, Mannheim-Neckarau, Mannheim	8.49104, 49.45335	kartoffel	k a r t o ff e l	katoffle	k a t o ff l e	3
+118	Ma h2/3, Ma h2/1, Ma h2/2	II_59_0064	Neckarau, Mannheim-Neckarau, Mannheim	8.49104, 49.45335	kadoffel	k a d o ff e l	katoffle	k a t o ff l e	3
+119	Ma h2/3, Ma h2/1, Ma h2/2	II_59_0064	Neckarau, Mannheim-Neckarau, Mannheim	8.49104, 49.45335	kardoffel	k a r d o ff e l	katoffle	k a t o ff l e	4
+120	Ma h2/3, Ma h2/1, Ma h2/2	II_59_0064	Neckarau, Mannheim-Neckarau, Mannheim	8.49104, 49.45335	kadoffl	k a d o ff l	katoffle	k a t o ff l e	2
+121	MH z4/2, MH z4/1	II_58_0065, II_58_0066	Mannheim-Käfertal, Käferthal	8.51715, 49.51259	kadoffel	k a d o ff e l	kartoffel	k a r t o ff e l	2
+122	MH z4/2, MH z4/1	II_58_0065, II_58_0066	Mannheim-Käfertal, Käferthal	8.51715, 49.51259	kadoffel	k a d o ff e l	kartoffelä	k a r t o ff e l ä	3
+123	MH J3/1, MH J3/2	II_59_0077	Handschuhsheim, Heidelberg-Handschuhsheim, Heidelberg-Handschuhsheim	8.68613, 49.42774	kardoffl	k a r d o ff l	katoffl	k a t o ff l	2
+124	MH J3/1, MH J3/2	II_59_0077	Handschuhsheim, Heidelberg-Handschuhsheim, Heidelberg-Handschuhsheim	8.68613, 49.42774	kardoffl	k a r d o ff l	kartoffl	k a r t o ff l	1
+125	MH J3/1, MH J3/2	II_59_0077	Handschuhsheim, Heidelberg-Handschuhsheim, Heidelberg-Handschuhsheim	8.68613, 49.42774	kartoffel	k a r t o ff e l	katoffl	k a t o ff l	2
+126	MH J3/1, MH J3/2	II_59_0077	Handschuhsheim, Heidelberg-Handschuhsheim, Heidelberg-Handschuhsheim	8.68613, 49.42774	kartoffel	k a r t o ff e l	kartoffl	k a r t o ff l	1
+127	MH R5, MH R4	II_60_0042	Leimen, Leimen	8.68891, 49.34902	kadoffl	k a d o ff l	kardoffl	k a r d o ff l	1
+128	KST e1	III_18_0022	Nussloch, Nussloch	8.69576, 49.32301	katoffl	k a t o ff l	kartoffl	k a r t o ff l	1
+129	KST e1	III_18_0022	Nussloch, Nussloch	8.69576, 49.32301	kartoffl	k a r t o ff l	katoffl	k a t o ff l	1
+130	KST P3/4, KST P3/3	III_23_0040, III_23_0052, III_23_0045, III_23_0049	Pforzheim, Pforzheim	8.70025, 48.89013	kardoffl	k a r d o ff l	kartoffel	k a r t o ff e l	2
+131	KST P3/4, KST P3/3	III_23_0040, III_23_0052, III_23_0045, III_23_0049	Pforzheim, Pforzheim	8.70025, 48.89013	kardoffl	k a r d o ff l	kartoffl	k a r t o ff l	1
+132	KST P3/4, KST P3/3	III_23_0040, III_23_0052, III_23_0045, III_23_0049	Pforzheim, Pforzheim	8.70025, 48.89013	kardoffl	k a r d o ff l	kartoffli	k a r t o ff l i	2
+133	KST f1	III_18_0041, III_18_0037, III_18_0039, III_18_0040, III_18_0038	Eschelbronn, Eschelbronn	8.86825, 49.3202	kartoffel	k a r t o ff e l	kartoffl	k a r t o ff l	1
+134	KST f10	III_18_0043, III_18_0044	Daisbach, Daisbach	8.87705, 49.2938	kadoffl	k a d o ff l	kardoffl	k a r d o ff l	1
+135	KST f10	III_18_0043, III_18_0044	Daisbach, Daisbach	8.87705, 49.2938	kadoffl	k a d o ff l	kartoffel	k a r t o ff e l	3
+136	MH K8	II_59_0097	Neckarhäuserhof, Neckarhäuserhof	8.88191, 49.41513	kartoffel	k a r t o ff e l	kardoffel	k a r d o ff e l	1
+137	MH K8	II_59_0097	Neckarhäuserhof, Neckarhäuserhof	8.88191, 49.41513	kartoffel	k a r t o ff e l	kardoffle	k a r d o ff l e	3
+138	MH S11	II_60_0067	Haag, Haag	8.92912, 49.39429	gĕdŏffl	g ĕ d ŏ ff l	gĕdoffel	g ĕ d o ff e l	2
+139	MH S11	II_60_0067	Haag, Haag	8.92912, 49.39429	gĕdŏffl	g ĕ d ŏ ff l	gĕdoffl	g ĕ d o ff l	1
+140	MH K5	II_59_0093, II_59_0094	Pleutersbach, Pleutersbach	8.95293, 49.45367	kadoffl	k a d o ff l	katoffl	k a t o ff l	1
+141	MH K5	II_59_0093, II_59_0094	Pleutersbach, Pleutersbach	8.95293, 49.45367	kadoffl	k a d o ff l	kadoffel	k a d o ff e l	1
+142	MH K6/2, MH K6/1	II_59_0096	Allemühl, Allemühl	8.95618, 49.42613	gedoffl	g e d o ff l	gdoffl	g d o ff l	1
+143	MH K6/2, MH K6/1	II_59_0096	Allemühl, Allemühl	8.95618, 49.42613	katoffel	k a t o ff e l	gdoffl	g d o ff l	4
+144	MH C1	II_58_0102	Friedrichsdorf, Friedrichsdorf	9.054, 49.52034	gedoffel	g e d o ff e l	kartoffel	k a r t o ff e l	4
+145	MH C1	II_58_0102	Friedrichsdorf, Friedrichsdorf	9.054, 49.52034	kadoffel	k a d o ff e l	kartoffel	k a r t o ff e l	2
+146	KST g10	III_18_0063	Kälbertshausen, Kälbertshausen	9.06276, 49.31724	kadoffel	k a d o ff e l	kardoffel	k a r d o ff e l	1
+147	KST g10	III_18_0063	Kälbertshausen, Kälbertshausen	9.06276, 49.31724	kadoffel	k a d o ff e l	kadoffl	k a d o ff l	1
+148	KST g4	III_18_0061	Siegelsbach, Siegelsbach	9.08942, 49.27263	kadoffel	k a d o ff e l	kartoffel	k a r t o ff e l	2
+149	KST g4	III_18_0061	Siegelsbach, Siegelsbach	9.08942, 49.27263	kardoffel	k a r d o ff e l	kartoffel	k a r t o ff e l	1
+150	MH T11	II_60_0079	Diedesheim, Diedesheim	9.11367, 49.34933	kardoffel	k a r d o ff e l	kartoffel	k a r t o ff e l	1
+151	MH T13	II_60_0081, II_60_0082	Mosbach, Mosbach	9.14619, 49.35501	kadoffl	k a d o ff l	kartoffel	k a r t o ff e l	3
+152	MH o5	II_89_0011, II_89_0010, II_89_0009	Sachsenhausen, Sachsenhausen	9.49147, 49.73223	kadoffl	k a d o ff l	kardoffl	k a r d o ff l	1
+153	MH o5	II_89_0011, II_89_0010, II_89_0009	Sachsenhausen, Sachsenhausen	9.49147, 49.73223	kadoffl	k a d o ff l	katoffl	k a t o ff l	1
+154	MH o5	II_89_0011, II_89_0010, II_89_0009	Sachsenhausen, Sachsenhausen	9.49147, 49.73223	kadoffl	k a d o ff l	kadoffel	k a d o ff e l	1
+155	MH x8	II_90_0015	Tauberbischofsheim, Tauberbischofsheim	9.66553, 49.62352	kartoffel	k a r t o ff e l	kartoffle	k a r t o ff l e	2
+156	MH x8	II_90_0015	Tauberbischofsheim, Tauberbischofsheim	9.66553, 49.62352	kardoffel	k a r d o ff e l	kartoffle	k a r t o ff l e	3

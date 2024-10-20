@@ -1,0 +1,61 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	TÜB c1	na	Obertsrot und Hilpertsau	8.34633, 48.74303	amm	na	999	amm	na	999	Amme	na	999
+1	Ma f1/2	na	Mannheim-Sandhofen	8.44789, 49.5433	oͣm	na	999	amm	na	999	Amme	na	999
+2	Ma h1/2	II_59_0048, II_59_0061, II_59_0059, II_59_0040	Mannheim, Mannheim	8.46678, 49.4865	amm	amme, åmm, omm, amm	0	amm	amme, amm	0	Amme	Amme	0
+3	KST c2	na	Oberhausen	8.48324, 49.26035	amme	na	999	amme	na	999	Amme	na	999
+4	Ma h2/3, Ma h2/2	II_59_0064	Neckarau, Mannheim	8.49104, 49.45335	amm	amm	0	amm	amm	0	Amme	Amme	0
+5	MH z4/2	II_58_0065, II_58_0066	Mannheim-Käfertal, Käferthal	8.51715, 49.51259	amm	amme, amm	0	amm	amme, amm	0	Amme	Amme	0
+6	KST d8	na	Waghäusel	8.51733, 49.25118	amme	na	999	amme	na	999	Amme	na	999
+7	MH H10/1	na	Rheinau	8.53056, 49.42924	amm	na	999	amm	na	999	Amme	na	999
+8	MH H2	na	Feudenheim	8.53299, 49.4864	amm	na	999	amm	na	999	Amme	na	999
+9	MH H1	na	Wennheim-Wallstadt	8.5484, 49.4957	amm	na	999	amm	na	999	Amme	na	999
+10	MH H6	na	Seckenheim	8.56313, 49.46724	amm	na	999	amm	na	999	Amme	na	999
+11	MH H3	II_59_0069	Ilvesheim, Ilvesheim	8.56668, 49.47129	amm	amme	1	amm	amme	1	Amme	Amme	0
+12	MH Q2	II_60_0035, II_60_0034	Schwetzingen, Schwetzingen	8.57064, 49.38567	åmm	amm	1	amm	amm	0	Amme	Amme	0
+13	MH H7	na	Mannheim-Friedrichsfeld	8.57534, 49.44026	åmm	na	999	amm	na	999	Amme	na	999
+14	MH Q6	na	Oftersheim	8.58107, 49.36823	amm	na	999	amm	na	999	Amme	na	999
+15	MH z3	na	Heddesheim	8.60327, 49.50529	amm	na	999	amm	na	999	Amme	na	999
+16	KST d5	na	Walldorf	8.64294, 49.3028	amm	na	999	amm	na	999	Amme	na	999
+17	MH R1/2	na	Heidelberg-Pfaffengrund	8.64698, 49.40282	amm	na	999	amm	na	999	Amme	na	999
+18	MH Q5	II_60_0038	Sandhausen, Sandhausen	8.65837, 49.34236	amm	amm	0	amm	amm	0	Amme	Amme	0
+19	MH z2	na	Großsachsen	8.6595, 49.51193	amm	na	999	amm	na	999	Amme	na	999
+20	MH J1	II_59_0071	Schrießheim, Schriesheim	8.66514, 49.47649	amm	amm	0	amm	amm	0	Amme	Amme	0
+21	MH J3/2, MH J3/1	II_59_0077	Handschuhsheim, Heidelberg-Handschuhsheim, Heidelberg-Handschuhsheim	8.68613, 49.42774	amm	amm	0	amm	amm	0	Amme	Amme	0
+22	MH R3	II_60_0041	Heidelberg-Rohrbach, Heidelberg-Rohrbach	8.69, 49.38005	amm	amm	0	amm	amm	0	Amme	Amme	0
+23	KST e2/2, KST e2/1	III_18_0036	Wiesloch, Wiesloch	8.70178, 49.29504	amm	amm	0	amm	amm	0	Amme	Amme	0
+24	MH J7	II_59_0081	Altenbach / Schriesheim, Altenbach	8.73843, 49.48622	amm	amm	0	amm	amm	0	Amme	Amme	0
+25	MH R11	na	Gaiberg	8.75015, 49.36606	amm	na	999	amm	na	999	Amme	na	999
+26	MH J5	na	Peterstal (keine eigene GID, gleiche wie Wilhelmsfeld)	8.75548, 49.44624	åmm	na	999	amm	na	999	Amme	na	999
+27	MH R7	na	Gauangelloch	8.75579, 49.34078	amm	na	999	amm	na	999	Amme	na	999
+28	MH J13	na	Schönau bei Heidelberg	8.80977, 49.43706	amm	na	999	amm	na	999	Amme	na	999
+29	MH J11	na	Heddesbach	8.82774, 49.48208	amm	na	999	amm	na	999	Amme	na	999
+30	MH K1	II_59_0085	Brombach (bei Hirschhorn), Brombach	8.8675, 49.48863	amm	amm	0	amm	amm	0	Amme	Amme	0
+31	KST n3	na	Reihen	8.91628, 49.21715	åmme	na	999	amme	na	999	Amme	na	999
+32	MH K2	na	Igelsbach	8.94534, 49.46217	amm	na	999	amm	na	999	Amme	na	999
+33	KST g8	III_18_0058	Wollenberg, Wollenberg	9.03453, 49.29152	amm	amme	1	amm	amme	1	Amme	Amme	0
+34	MH L3	II_59_0100	Schollbrunn, Schollbrunn	9.07962, 49.43431	amm	amm	0	amm	amm	0	Amme	Amme	0
+35	MH U10	na	Sattelbach	9.16732, 49.40849	amme	na	999	amme	na	999	Amme	na	999
+36	MH D4	na	Mudau-Langenelz	9.20495, 49.51744	amme	na	999	amme	na	999	Amme	na	999
+37	MH U8	II_60_0089	Billigheim, Billigheim	9.25406, 49.34748	amme	amme	0	amme	amme	0	Amme	Amme	0
+38	MH g5	na	Wertheim-Eichel	9.54093, 49.76546	amm	na	999	amm	na	999	Amme	na	999
+39	MH x8	na	Tauberbischofsheim	9.66553, 49.62352	amm	na	999	amm	na	999	Amme	na	999
+40	MH q3	na	Werbachhausen	9.67954, 49.67946	amm	na	999	amm	na	999	Amme	na	999
+41	na	III_21_0003	Karlsruhe-Rüppurr	8.406, 48.97394	na	amme	999	na	amme	999	na	Amme	999
+42	na	III_21_0002	Karlsruhe	8.40919, 49.01038	na	amme	999	na	amme	999	na	Amme	999
+43	na	III_19_0005	Philippsburg	8.45298, 49.235	na	amm	999	na	amm	999	na	Amme	999
+44	na	III_18_0017	Neulußheim	8.522, 49.29291	na	amm	999	na	amm	999	na	Amme	999
+45	na	II_60_0033	Ketsch	8.52432, 49.3678	na	amme	999	na	amme	999	na	Amme	999
+46	na	II_60_0032	Brühl	8.53485, 49.3951	na	amm	999	na	amm	999	na	Amme	999
+47	na	II_60_0036	Plankstadt	8.59271, 49.39179	na	amm	999	na	amm	999	na	Amme	999
+48	na	II_59_0070	Ladenburg	8.61098, 49.47244	na	omm	999	na	amm	999	na	Amme	999
+49	na	II_59_0075	Wieblingen	8.64805, 49.42539	na	amm	999	na	amm	999	na	Amme	999
+50	na	II_58_0072	Sulzbach	8.661, 49.57763	na	amm	999	na	amm	999	na	Amme	999
+51	na	II_58_0077	Oberflockenbach	8.73109, 49.51102	na	amm	999	na	amm	999	na	Amme	999
+52	na	II_59_0080	Wilhelmsfeld	8.7544, 49.47018	na	amm	999	na	amm	999	na	Amme	999
+53	na	II_60_0051	Schlierbach	8.76062, 49.41501	na	amm	999	na	amm	999	na	Amme	999
+54	na	II_60_0050	Wiesenbach	8.80354, 49.36103	na	amm	999	na	amm	999	na	Amme	999
+55	na	II_59_0083	Altneudorf	8.80481, 49.46366	na	amm	999	na	amm	999	na	Amme	999
+56	na	III_35_0052	Zoznegg	9.04053, 47.89958	na	amme	999	na	amme	999	na	Amme	999
+57	na	II_60_0081	Mosbach	9.14619, 49.35501	na	amm	999	na	amm	999	na	Amme	999
+58	na	II_58_0106	Mörschenhardt	9.17211, 49.56893	na	amme	999	na	amme	999	na	Amme	999
+59	na	II_55_0129, II_55_0128	Freudenberg	9.32533, 49.75145	na	amm	999	na	amm	999	na	Amme	999

@@ -1,0 +1,9 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Co M10	na	Morzweiler (Mortzwiller)	7.04125, 47.73832	heftgufa	na	999	heftgufe	na	999	Heftgufe	na	999
+1	Co x 4	na	Weiler	7.07073, 47.84351	heftgufā	na	999	heftgufe	na	999	Heftgufe	na	999
+2	Co r 5	III_13_0112	Gundolsheim, Gundolsheim	7.2942, 47.92837	heftguf	heftguuf	1	heftguf	heftguf	0	Heftgufe	Heftgufe	0
+3	Co Va 7	na	Niederhagental (Hagenthal-le-Bas)	7.47691, 47.52383	heftkufe	na	999	heftgufe	na	999	Heftgufe	na	999
+4	na	III_14_0005	Felleringen	6.98613, 47.89621	na	heftguf	999	na	heftguf	999	na	Heftgufe	999
+5	na	III_11_0010	Meisengott	7.26349, 48.3533	na	heftguff	999	na	heftguf	999	na	Heftgufe	999
+6	na	III_13_0115	Meienheim	7.35924, 47.91132	na	heftguf	999	na	heftguf	999	na	Heftgufe	999
+7	na	III_15_0040	Eschenzweiler	7.39812, 47.71239	na	heftgufa	999	na	heftgufe	999	na	Heftgufe	999

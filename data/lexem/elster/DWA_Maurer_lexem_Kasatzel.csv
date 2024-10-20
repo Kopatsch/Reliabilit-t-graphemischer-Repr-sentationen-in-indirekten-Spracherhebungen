@@ -1,0 +1,85 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Stra G 2	III_11_0004	Breitenbach, Breitenbach	7.2921, 48.36514	kasatzel	kasatzel	0	kasatsel	kasatsel	0	Kasatzel	Kasatzel	0
+1	Stra V 3	III_12_0003	Tannenkirch (Thannenkirch), Tannenkirch	7.30397, 48.22949	kāsatzel	kaasatzel	2	kasatsel	kasatsel	0	Kasatzel	Kasatzel	0
+2	Stra s 1/2	na	Oberhaslach	7.33046, 48.5499	kaasåtsel	na	999	kasatsel	na	999	Kasatzel	na	999
+3	Stra t 9	III_10_0014	Heiligenberg, Heiligenberg	7.3916, 48.53799	kāsatzel	kasozel	3	kasatsel	kasatsel	0	Kasatzel	Kasatzel	0
+4	Stra H 6, Stra A 5	III_10_0094	Bernhardsweiler (Bernardvillé), Bernhardsweiler	7.40011, 48.36706	kasnātsel, käsaͣ̈tzl	kasnatzel	2	käsatsel, kasnatsel	kasnatsel	0	Kasatzel	Kasatzel	0
+5	Stra t 5	III_10_0015	Dinsheim (Dinsheim-Sur-Bruche), Dinsheim	7.4273, 48.54254	kasatzel	kasatzel	0	kasatsel	kasatsel	0	Kasatzel	Kasatzel	0
+6	Stra t 10	III_10_0017	Gressweiler, Gressweiler	7.43186, 48.53571	kasatzel	kaasatzel	1	kasatsel	kasatsel	0	Kasatzel	Kasatzel	0
+7	Stra A 6/1, Stra A 6/2	na	Ottrott	7.43298, 48.46056	kasnoͣtzl, kasnoͣzl	na	999	kasnatsel	na	999	Kasatzel	na	999
+8	Stra W 6	III_12_0015, III_12_0016	Illhäusern (Illhaeusern), Illhäusern	7.43355, 48.18466	kasåtzel	kasâtzel	1	kasatsel	kasatsel	0	Kasatzel	Kasatzel	0
+9	Stra t 1	III_10_0005	Balbronn, Balbronn	7.43736, 48.58406	kasåtzel	käsatzel	2	kasatsel	käsatsel	1	Kasatzel	Kasatzel	0
+10	Stra A 3/1	na	Börsch (Boersch)	7.43994, 48.47577	kasatzel	na	999	kasatsel	na	999	Kasatzel	na	999
+11	Stra t 11	III_10_0021	Rosenweiler, Rosenweiler	7.4409, 48.50587	kåsnåzl	käsatzel	4	kasatsel	käsatsel	1	Kasatzel	Kasatzel	0
+12	Stra H 4	na	Eichhofen (Eichhoffen)	7.44268, 48.38403	käsatzel	na	999	käsatsel	na	999	Kasatzel	na	999
+13	Stra m 9/2	III_9_0009	Wasselnheim (Wasselonne), Wasselnheim	7.44724, 48.63718	kasatzel	käsatzel	1	kasatsel	käsatsel	1	Kasatzel	Kasatzel	0
+14	Hag V 12	na	Rosenweiler-Dettweiler	7.45083, 48.76772	kāratzel	na	999	karatsel	na	999	Kasatzel	na	999
+15	Stra H 2/3	III_11_0013	Barr, Barr	7.45244, 48.40651	kaaso͜atzl	kâsâtzel	6	kasoatsel	kasatsel	1	Kasatzel	Kasatzel	0
+16	Stra t 2/1, Stra t 2/2	III_10_0008	Bergbieten, Bergbieten	7.45869, 48.57632	kasåtzel, kasatzel	kasåtzel	0	kasatsel	kasatsel	0	Kasatzel	Kasatzel	0
+17	Stra t 3	III_10_0009	Dangolsheim, Dangolsheim	7.46645, 48.57212	kasazel	kasatzel	1	kasatsel	kasatsel	0	Kasatzel	Kasatzel	0
+18	Stra H 1	III_11_0012	Gertweiler (Gertwiller), Gertweiler	7.46795, 48.4111	kāsātzel	kasatzel	2	kasatsel	kasatsel	0	Kasatzel	Kasatzel	0
+19	Stra A 1/2, Stra A 1/3, Stra A 1/1	III_10_0087	Rosheim, Rosheim	7.46905, 48.49622	kăsnātzel , kanåtzel, kasnatzel	kasnazel	1	kasnatsel, kanatsel	kasnatsel	0	Kasatzel	Kasatzel	0
+20	Stra H 10	III_11_0015	St. Peter (Saint-Pierre), St. Peter	7.47022, 48.38171	kāsatzel	kasatzel	1	kasatsel	kasatsel	0	Kasatzel	Kasatzel	0
+21	Stra A 4	III_10_0093	Oberehnheim (Obernai), Oberehnheim	7.48507, 48.4622	kåsåtzel	kaznåzl	5	kasatsel	kasnatsel	1	Kasatzel	Kasatzel	0
+22	Stra t 8	III_10_0020	Dorlisheim, Dorlisheim	7.48538, 48.52471	kasatzel	kasatzel	0	kasatsel	kasatsel	0	Kasatzel	Kasatzel	0
+23	Stra t 15/2	III_10_0010	Sulzbad (soultz-Les-Bains), Sulzbad	7.48699, 48.572	kasatzel	kāsãtzel	2	kasatsel	kasatsel	0	Kasatzel	Kasatzel	0
+24	Stra m 13	III_9_0018	Odratzheim, Odratzheim	7.48778, 48.60108	kasatzel	kasazel	1	kasatsel	kasatsel	0	Kasatzel	Kasatzel	0
+25	Stra H 9	III_11_0014	Stotzheim, Stotzheim	7.48841, 48.37831	kasatzel	kasatzel	0	kasatsel	kasatsel	0	Kasatzel	Kasatzel	0
+26	Stra A 9	III_11_0011	Burgheim (Bourgheim), Burgheim	7.49064, 48.41936	kasatzel	kasatzel	0	kasatsel	kasatsel	0	Kasatzel	Kasatzel	0
+27	Stra t 7	III_10_0019	Molsheim, Molsheim	7.49067, 48.54038	kasåtzel	kasåtzel	0	kasatsel	kasatsel	0	Kasatzel	Kasatzel	0
+28	Stra m 14	III_9_0021	Scharrachbergheim, Scharrachbergheim	7.49581, 48.593	kasozl	kaseozl	1	kasatsel	kaseatsel	1	Kasatzel	Kasatzel	0
+29	Stra m 12	III_9_0014	Kirchheim, Kirchheim	7.49624, 48.60963	kasåtzel	kasåtzel	0	kasatsel	kasatsel	0	Kasatzel	Kasatzel	0
+30	Stra A 2	na	Bischofsheim (Bischoffsheim)	7.49675, 48.48669	kāsnátzel, kāsnátzl	na	999	kasnatsel	na	999	Kasatzel	na	999
+31	Stra H 8	III_11_0027	Zellweiler (Zellwiller), Zellweiler	7.49786, 48.39782	kasatzel	kasatzel	0	kasatsel	kasatsel	0	Kasatzel	Kasatzel	0
+32	Stra u 7	III_10_0011	Avolsheim, Avolsheim	7.50043, 48.56159	kasdå̄tzel	kasdatzel	2	kasdatsel	kasdatsel	0	Kasatzel	Kasatzel	0
+33	Stra u 1	III_9_0026	Dahlenheim, Dahlenheim	7.50654, 48.58628	kasnåtzel	kasnåtzel	0	kasnatsel	kasnatsel	0	Kasatzel	Kasatzel	0
+34	Stra u 18	III_10_0024	Wolxheim, Wolxheim	7.51077, 48.56903	kasåtzel	kasatzel	1	kasatsel	kasatsel	0	Kasatzel	Kasatzel	0
+35	Stra f 19	III_8_0061	Willgottheim, Willgottheim	7.51166, 48.67082	käsatzel	käseatzel	1	käsatsel	käseatsel	1	Kasatzel	Kasatzel	0
+36	Stra B 7	III_10_0102, III_10_0103	Walf (Valff)), Walf	7.52068, 48.42151	kasatzel	kasotzel, kasatzel	0	kasatsel	kasatsel	0	Kasatzel	Kasatzel	0
+37	Stra u 13	III_10_0040	Altdorf (Altorf), Altdorf	7.52793, 48.52186	kasåtzel	käsatzel	2	kasatsel	käsatsel	1	Kasatzel	Kasatzel	0
+38	Stra u 6/2	III_10_0025	Ergersheim, Ergersheim	7.52806, 48.56941	kāsnatzl	kasnatzel	2	kasnatsel	kasnatsel	0	Kasatzel	Kasatzel	0
+39	Stra B 1	III_10_0038	Griesheim (Griesheim-Près-Molsheim), Griesheim	7.53227, 48.50237	kasatzel	kasnatzel	1	kasatsel	kasnatsel	1	Kasatzel	Kasatzel	0
+40	Stra u 8	III_10_0026	Dachstein, Dachstein	7.53229, 48.56055	kasnatzel	kasnazel	1	kasnatsel	kasnatsel	0	Kasatzel	Kasatzel	0
+41	Stra B 5	III_10_0101	Meistratzheim, Meistratzheim	7.54397, 48.44858	kasatzl	käsatzel	2	kasatsel	käsatsel	1	Kasatzel	Kasatzel	0
+42	Stra n 4	na	Neugartheim und Ittlenheim	7.54562, 48.6548	kasatzel	na	999	kasatsel	na	999	Kasatzel	na	999
+43	Stra J 11	III_11_0036	Sermersheim, Sermersheim	7.55199, 48.34632	kasåtzel	kasatzel	1	kasatsel	kasatsel	0	Kasatzel	Kasatzel	0
+44	Stra u 2/1	III_9_0025	Osthofen, Osthofen	7.55672, 48.58641	kasåtzel	kasatzel	1	kasatsel	kasatsel	0	Kasatzel	Kasatzel	0
+45	Stra u 2/2	na	Fürdenheim	7.56378, 48.61325	käså̄tzel	na	999	käsatsel	na	999	Kasatzel	na	999
+46	Stra B 4	III_10_0099	Krautergersheim, Krautergersheim	7.56557, 48.47613	kasatzel	kasazel	1	kasatsel	kasatsel	0	Kasatzel	Kasatzel	0
+47	Stra u 12	III_10_0037	Duttlenheim, Düttlenheim	7.56596, 48.52454	kasatzel	kasatzel	0	kasatsel	kasatsel	0	Kasatzel	Kasatzel	0
+48	Stra J 3	III_11_0034	Kerzfeld (Kertzfeld), Kerzfeld	7.57276, 48.37779	kaasatzel	kaasatzel	0	kasatsel	kasatsel	0	Kasatzel	Kasatzel	0
+49	Stra B 2	III_10_0098	Innenheim, Innenheim	7.57348, 48.49644	kasatzel	kasatzel	0	kasatsel	kasatsel	0	Kasatzel	Kasatzel	0
+50	Stra J 10	na	Hüttenheim (Huttenheim)	7.57814, 48.35799	kasatzel	na	999	kasatsel	na	999	Kasatzel	na	999
+51	Stra J 2	III_11_0029	Westhausen (Westhouse), Westhausen	7.58855, 48.39622	kāsåtzel	käsatzel	2	kasatsel	käsatsel	1	Kasatzel	Kasatzel	0
+52	Stra u 11	III_10_0036	Düppigheim und Duttlenheim (Duppigheim), Düppigheim	7.58968, 48.52813	kasnatzel	kasatzel	1	kasnatsel	kasatsel	1	Kasatzel	Kasatzel	0
+53	Stra J 4/1, Stra J 4/2, Stra J 4/3	III_11_0033	Benfeld, Benfeld	7.59385, 48.37263	kasåtzel, kasātzel, kāsåtzel	kasatzel	1	kasatsel	kasatsel	0	Kasatzel	Kasatzel	0
+54	Stra J 1	III_11_0028	Uttenheim, Uttenheim	7.5965, 48.41075	kasatzel	kasatzel	0	kasatsel	kasatsel	0	Kasatzel	Kasatzel	0
+55	Stra u 14	na	Bläsheim	7.60783, 48.50535	kaasåtzel	na	999	kasatsel	na	999	Kasatzel	na	999
+56	Stra J 5	III_11_0032	Sand, Sand	7.61417, 48.38275	kasatzel	kasatzel	0	kasatsel	kasatsel	0	Kasatzel	Kasatzel	0
+57	Stra B 9	III_10_0106	Schäfersheim (Schaeffersheim), Schäfersheim	7.6199, 48.42864	kāsatzel	käsatzel	1	kasatsel	käsatsel	1	Kasatzel	Kasatzel	0
+58	Stra J 6	na	Matzenheim	7.62677, 48.39642	kasatzel	na	999	kasatsel	na	999	Kasatzel	na	999
+59	Stra J 8	III_11_0039	Herbsheim, Herbsheim	7.6323, 48.3467	kāsåtzel	kasatzel	2	kasatsel	kasatsel	0	Kasatzel	Kasatzel	0
+60	Stra f 10	na	Rumersheim	7.6354, 48.69228	kasatzel	na	999	kasatsel	na	999	Kasatzel	na	999
+61	Stra J 7	III_11_0031	Osthausen (Osthouse), Osthausen	7.63886, 48.40167	kasåtzl	kasatzl	1	kasatsel	kasatsel	0	Kasatzel	Kasatzel	0
+62	Stra B 11	III_10_0107	Limersheim, Limersheim	7.64596, 48.45465	kasåzl	kasazel	2	kasatsel	kasatsel	0	Kasatzel	Kasatzel	0
+63	Stra B 10	III_10_0105	Erstein, Erstein	7.66295, 48.4211	kaasa̰tsel	kasåtzel	4	kasatsel	kasatsel	0	Kasatzel	Kasatzel	0
+64	Stra B 3	III_10_0109	Lipsheim, Lipsheim	7.66966, 48.49284	kāsatzel	kasatzel	1	kasatsel	kasatsel	0	Kasatzel	Kasatzel	0
+65	Stra o 5	III_9_0044	Pfulgriesheim, Pfulgriesheim	7.67069, 48.64279	kasatzel	kasatzel	0	kasatsel	kasatsel	0	Kasatzel	Kasatzel	0
+66	Stra C 4	III_10_0112	Hipsheim, Hipsheim	7.67249, 48.46706	kasatzel	kasatzel	0	kasatsel	kasatsel	0	Kasatzel	Kasatzel	0
+67	Stra C 1/2, Stra C 1/1	III_10_0110	Fegersheim, Fegersheim	7.67959, 48.4897	kasåtzel	kasazel	2	kasatsel	kasatsel	0	Kasatzel	Kasatzel	0
+68	Stra v 7	na	Eckbolsheim	7.68725, 48.57932	kasatzel	na	999	kasatsel	na	999	Kasatzel	na	999
+69	Stra v 4, Stra v 5	III_10_0042	Illkirch-Grafenstaden, Illkirch-Grafenstaden	7.71183, 48.5288	kāsåtzel, kasatzel	käsatzel	1	kasatsel	käsatsel	1	Kasatzel	Kasatzel	0
+70	Hag Y 3	III_7_0096	Schirrhein, Schirrhein	7.90562, 48.80154	kiratzel	käsnazel	4	kiratsel	käsnatsel	3	Kasatzel	Kasatzel	0
+71	na	III_11_0082	Leberau	7.28169, 48.2709	na	kasatzel	999	na	kasatsel	999	na	Kasatzel	999
+72	na	III_12_0087	Logelbach	7.30991, 48.0865	na	käsazel	999	na	käsatsel	999	na	Kasatzel	999
+73	na	III_11_0092	St. Petersholz	7.36093, 48.3272	na	kasatzel	999	na	kasatsel	999	na	Kasatzel	999
+74	na	III_9_0008	Allenweiler	7.37795, 48.65555	na	käsatzel	999	na	käsatsel	999	na	Kasatzel	999
+75	na	III_8_0041	Maursmünster	7.38108, 48.69056	na	kabatzel	999	na	kabatsel	999	na	Kasatzel	999
+76	na	III_10_0013	Still	7.4048, 48.54953	na	kasatzel	999	na	kasatsel	999	na	Kasatzel	999
+77	na	III_10_0018	Mutzig	7.45043, 48.53927	na	kasa˚tzel	999	na	kasatsel	999	na	Kasatzel	999
+78	na	III_11_0098	Ebersheim	7.50132, 48.30759	na	käsatzel	999	na	käsatsel	999	na	Kasatzel	999
+79	na	III_12_0018	Mussig	7.52018, 48.23003	na	kasatzel	999	na	kasatsel	999	na	Kasatzel	999
+80	na	III_10_0104	Bolsenheim	7.6099, 48.42013	na	kasatzel	999	na	kasatsel	999	na	Kasatzel	999
+81	na	III_10_0033	Enzheim	7.63634, 48.53413	na	kasatzel	999	na	kasatsel	999	na	Kasatzel	999
+82	na	III_9_0027	Wolfisheim	7.66606, 48.58281	na	käsatzel	999	na	käsatsel	999	na	Kasatzel	999
+83	na	III_9_0069, III_9_0064	Straßburg	7.73609, 48.58523	na	käsâtzel, käsatzel	999	na	käsatsel	999	na	Kasatzel	999

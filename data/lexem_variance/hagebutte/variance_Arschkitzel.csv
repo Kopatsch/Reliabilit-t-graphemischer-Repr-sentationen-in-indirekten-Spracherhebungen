@@ -1,0 +1,46 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_maurer_align	item_DWA	item_DWA_align	Levenshtein_item
+0	Hag A 1	III_4_0077	Dambach, Dambach	7.63179, 49.00256	årschkitzle	å r sch k i tz l e	årschkitzel	å r sch k i tz e l	2
+1	Hag C 8	III_4_0088	Klimbach (Climbach), Klimbach	7.85041, 49.01803	arschkitzel	a r sch k i tz e l	årschkitzel	å r sch k i tz e l	1
+2	Hag K 20	III_5_0086	Drachenbronn, Drachenbronn	7.87037, 48.98626	årschkitzle	å r sch k i tz l e	årschkizle	å r sch k i z l e	1
+3	Hag C 1	III_4_0100	Weißenburg-Weiler, Weissenburg-Weiler	7.91271, 49.0377	ŏschkitzle	ŏ sch k i tz l e	årschkitzle	å r sch k i tz l e	2
+4	Hag C 6	III_4_0092	Steinselz (Steinseltz), Steinselz	7.93035, 49.0109	arschkitzel	a r sch k i tz e l	arschkitzle	a r sch k i tz l e	2
+5	Hag C 2	III_4_0093	Weißenburg (Wissembourg), Weißenburg	7.9521, 49.03733	arschkitzel	a r sch k i tz e l	arschkitzle	a r sch k i tz l e	2
+6	Hag K 4	III_5_0098	Oberseebach, Oberseebach	7.98947, 48.9672	aschkitzler	a sch k i tz l e r	ârschkilzle	â r sch k i l z l e	4
+7	KST L1	III_5_0111	Bühl (Buhl), Bühl	8.00666, 48.91753	arschkitzel	a r sch k i tz e l	arschkitzle	a r sch k i tz l e	2
+8	KST D11	III_5_0110, III_5_0112	Trimbach, Trimbach	8.0182, 48.94347	årschkitzler	å r sch k i tz l e r	arschkitzler	a r sch k i tz l e r	1
+9	KST D14	III_5_0113	Eberbach-Selz, Eberbach-Selz	8.06718, 48.92481	arschkitzel	a r sch k i tz e l	aschkitzl	a sch k i tz l	2
+10	KST D9	III_5_0124	Oberlauterbach, Oberlauterbach	8.07041, 48.94851	aͤrschkitzel	a ͤ r sch k i tz e l	arschkitzl	a r sch k i tz l	2
+11	KST D3/1, KST D3/3	III_5_0121	Niederlauterbach, Niederlauterbach	8.10398, 48.97233	arschkitzel	a r sch k i tz e l	arschkitzle	a r sch k i tz l e	2
+12	KST D7	III_5_0116	Münchhausen (Munchhausen), Münchhausen	8.14635, 48.92142	oaschkitzlä	o a sch k i tz l ä	oaschkitzle	o a sch k i tz l e	1
+13	KST x 1	III_4_0114	Daxlanden, Daxlanden	8.33737, 49.0022	aschkitzele	a sch k i tz e l e	arschkitzele	a r sch k i tz e l e	1
+14	KST k3	III_19_0008	Huttenheim, Huttenheim	8.46955, 49.1967	ārschkitzl	ā r sch k i tz l	aschkitzlin	a sch k i tz l i n	4
+15	KST l9	III_19_0011, III_19_0009, III_19_0010	Neudorf, Neudorf	8.49692, 49.17524	aschkitzler	a sch k i tz l e r	arschkitzler	a r sch k i tz l e r	1
+16	KST l1	III_19_0013	Wiesental, Wiesental	8.51962, 49.22472	arschkitzl	a r sch k i tz l	arschkitzel	a r sch k i tz e l	1
+17	MH Q7	II_60_0033	Ketsch, Ketsch	8.52432, 49.3678	ärschkitzl	ä r sch k i tz l	arschkitzel	a r sch k i tz e l	2
+18	KST d1	III_18_0015	Hockenheim, Hockenheim	8.54755, 49.31857	oarschkitzel	o a r sch k i tz e l	arschkitzl	a r sch k i tz l	2
+19	MH Q4	II_60_0037	Eppelheim, Eppelheim	8.62885, 49.40164	arschkutzel	a r sch k u tz e l	ŏ̄rschkuzl	ŏ ̄ r sch k u z l	4
+20	MH H9	II_59_0075	Heidelberg-Wieblingen, Wieblingen	8.64805, 49.42539	oschkitzl	o sch k i tz l	aoschkitzel	a o sch k i tz e l	2
+21	MH H11	II_58_0068	Leutershausen, Leutershausen	8.65616, 49.49821	āschkitzl	ā sch k i tz l	o͜artschkitzeln	o ͜ a r t sch k i tz e l n	7
+22	MH z2	II_58_0069	Großsachsen, Grosssachsen	8.6595, 49.51193	arschkitzel	a r sch k i tz e l	arschkitzler	a r sch k i tz l e r	2
+23	MH J1	II_59_0071	Schrießheim, Schriesheim	8.66514, 49.47649	åschkitzl	å sch k i tz l	aschkitzle	a sch k i tz l e	2
+24	MH A3	II_58_0070	Hohensachsen, Hohensachsen	8.66935, 49.51919	aschkizl	a sch k i z l	aschkitzl	a sch k i tz l	1
+25	MH A1	II_58_0073	Weinheim, Weinheim	8.67068, 49.55495	aschkitzel	a sch k i tz e l	aʳschkitzel	a ʳ sch k i tz e l	1
+26	KST e10	III_18_0024	Malschenberg, Malschenberg	8.67996, 49.25599	āschkitzl	ā sch k i tz l	aschkitzl	a sch k i tz l	1
+27	KST m1	III_19_0022	Malsch , Malsch <Maleck>	8.68153, 49.24579	aschkizl	a sch k i z l	aschkitzl	a sch k i tz l	1
+28	MH R3	II_60_0041	Heidelberg-Rohrbach, Heidelberg-Rohrbach	8.69, 49.38005	aschkitzel	a sch k i tz e l	arschkitzel	a r sch k i tz e l	1
+29	KST m2	III_19_0023	Rettigheim, Rettigheim	8.6981, 49.24111	aichkitzalen	a i ch k i tz a l e n	arschkitzel	a r sch k i tz e l	5
+30	KST e9	III_18_0025	Rauenberg, Rauenberg	8.70096, 49.27036	oaschkitzlin	o a sch k i tz l i n	arschkitzle	a r sch k i tz l e	4
+31	MH A4	II_58_0076	Rippenweier, Rippenweier	8.70861, 49.50646	aaschkitzel	aa sch k i tz e l	aschkitzel	a sch k i tz e l	1
+32	MH A5	II_58_0077	Oberflockenbach, Oberflockenbach	8.73109, 49.51102	åschkitzl	å sch k i tz l	aᵒschkitzel	a ᵒ sch k i tz e l	3
+33	MH A6	II_58_0091	Steinklingen, Steinklingen	8.74393, 49.51166	āschkizzel	ā sch k i zz e l	aoschkitzln	a o sch k i tz l n	5
+34	MH J6	II_59_0080	Wilhelmsfeld, Wilhelmsfeld	8.7544, 49.47018	åschkitzeln	å sch k i tz e l n	arschkitzel	a r sch k i tz e l	3
+35	MH J4	II_59_0079	Ziegelhausen, Ziegelhausen	8.75688, 49.41876	aaschkitzel	aa sch k i tz e l	arschkitzerlin	a r sch k i tz e r l i n	4
+36	MH R10	II_60_0050	Wiesenbach, Wiesenbach	8.80354, 49.36103	aaschkitzl̠	aa sch k i tz l ̠	arschkitzl	a r sch k i tz l	2
+37	MH J12	II_59_0083	Altneudorf, Altneudorf	8.80481, 49.46366	åschkitzel	å sch k i tz e l	aaschkitzln	aa sch k i tz l n	4
+38	MH K1	II_59_0085	Brombach (bei Hirschhorn), Brombach	8.8675, 49.48863	oaschkitzle	o a sch k i tz l e	oarschkitzel	o a r sch k i tz e l	3
+39	KST D3/1, KST D3/3	III_5_0121	Niederlauterbach, Niederlauterbach	8.10398, 48.97233	arschkitzel	a r sch k i tz e l	arschkitzle	a r sch k i tz l e	2
+40	KST D4	III_5_0120, III_5_0119	Scheibenhard, Scheibenhardt, Scheibenhard	8.13481, 48.97663	arschkitzel	a r sch k i tz e l	āschkitzle	ā sch k i tz l e	4
+41	MH H2	II_59_0067	Feudenheim, Feudenheim	8.53299, 49.4864	arschkitzl	a r sch k i tz l	arschkitzel	a r sch k i tz e l	1
+42	MH Q4	II_60_0037	Eppelheim, Eppelheim	8.62885, 49.40164	arschkutzel	a r sch k u tz e l	arschkitzler	a r sch k i tz l e r	3
+43	MH Q4	II_60_0037	Eppelheim, Eppelheim	8.62885, 49.40164	arschkutzel	a r sch k u tz e l	ŏ̄rschkuzl	ŏ ̄ r sch k u z l	4
+44	MH J3/1, MH J3/2	II_59_0077	Handschuhsheim, Heidelberg-Handschuhsheim, Heidelberg-Handschuhsheim	8.68613, 49.42774	oarschkitzle	o a r sch k i tz l e	arschkitzel	a r sch k i tz e l	3

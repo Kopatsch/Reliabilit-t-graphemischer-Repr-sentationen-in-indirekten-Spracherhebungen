@@ -1,0 +1,8 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_maurer_align	item_DWA	item_DWA_align	Levenshtein_item
+0	Stra R 11	III_11_0110	Kappel a. Rh., Kappel a. Rh.	7.74182, 48.29235	steckgiefli	s t e ck g ie f l i	stäckgehfle	s t ä ck g e h f l e	4
+1	Co K7	III_14_0155	Schönenberg, Schönenberg	7.88227, 47.79265	schdeckgifli	sch d e ck g i f l i	steckgüfli	s t e ck g ü f l i	4
+2	Co R7	III_15_0075	Häg-Rohrberg, Rohrberg	7.90412, 47.7181	schteckgöfli	sch t e ck g ö f l i	steckgüfli	s t e ck g ü f l i	3
+3	Co K9	III_14_0162	Tunau, Tunau	7.92311, 47.78574	schdeckgīfli	sch d e ck g ī f l i	steckgüfli	s t e ck g ü f l i	4
+4	KST M1	III_6_0097	Steinmauern, Steinmauern	8.19956, 48.90045	steckgiefel	s t e ck g ie f e l	steckgifel	s t e ck g i f e l	1
+5	TUTT T10	III_16_0163	Breitenfeld, Breitenfeld	8.30617, 47.65178	steckgüffeli	s t e ck g ü ff e l i	steckgũffeli	s t e ck g ũ ff e l i	1
+6	TUTT C10	III_35_0059	Mühlingen, Mühlingen	9.01554, 47.91191	steckklifli	s t e ckk l i f l i	steckglifli	s t e ck g l i f l i	1

@@ -1,0 +1,9 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Co X 10	III_16_0106	Maulburg , Maulburg	7.77782, 47.64075	bärammele	bärammele	0	bärammle	bärammle	0	Bäramm(e)le	Bäramm(e)le	0
+1	Co R11	III_15_0083	Gersbach, Gersbach	7.93271, 47.69725	bärammele	bärammele	0	bärammle	bärammle	0	Bäramm(e)le	Bäramm(e)le	0
+2	TUTT S8	na	Rüsswihl	8.07093, 47.63063	beromel	na	999	bärammel	na	999	Bäramm(e)le	na	999
+3	TUTT T7	na	Waldshut	8.21445, 47.6237	bärommele	na	999	bärammle	na	999	Bäramm(e)le	na	999
+4	na	III_16_0095	Brombach	7.69236, 47.63395	na	bärammele	999	na	bärammle	999	na	Bäramm(e)le	999
+5	na	III_16_0116	Kürnberg	7.86873, 47.6649	na	bäramelle	999	na	bärammle	999	na	Bäramm(e)le	999
+6	na	III_16_0139	Rotzel	8.06151, 47.59473	na	härammele	999	na	härammle	999	na	Bäramm(e)le	999
+7	na	III_15_0123	Bannholz	8.167, 47.67614	na	bäramele	999	na	bärammle	999	na	Bäramm(e)le	999

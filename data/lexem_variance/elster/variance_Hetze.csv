@@ -1,0 +1,62 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_maurer_align	item_DWA	item_DWA_align	Levenshtein_item
+0	KST G4	III_22_0017	Wilferdingen, Wilferdingen	8.57281, 48.9487	hetz	h e tz	hätz	h ä tz	1
+1	KST G8	III_22_0019, III_22_0018, III_22_0024	Königsbach, Stein, Königsbach	8.61207, 48.96515	häz	h ä z	hātze	h ā tz e	3
+2	KST H4	III_22_0025	Eisingen, Eisingen	8.66865, 48.94773	hêtz	h ê tz	hätz	h ä tz	1
+3	KST t8	III_20_0040	Zaisenhausen, Zaisenhausen	8.81712, 49.10745	hetza	h e tz a	hätza	h ä tz a	1
+4	KST B1	III_21_0033	Kürnbach, Kürnbach	8.84279, 49.07732	hädze	h ä d z e	hatze	h a tz e	2
+5	KST u5	III_20_0163, III_20_0045, III_20_0044, III_20_0042, III_20_0043	Sulzfeld, Sulzfeld	8.85671, 49.10336	häddza	h ä dd z a	häza	h ä z a	2
+6	KST n10	III_20_0046	Adelshofen, Adelshofen	8.89073, 49.16806	hätze	h ä tz e	hatzer	h a tz e r	2
+7	KST u3	III_20_0050, III_20_0049, III_20_0047, III_20_0051	Eppingen, Eppingen	8.9098, 49.13704	hetzä	h e tz ä	hedza	h e d z a	2
+8	KST n9	III_19_0046	Ittlingen, Ittlingen	8.93691, 49.19224	heze	h e z e	hetze	h e tz e	1
+9	KST u2	III_20_0057	Stebbach, Stebbach	8.96448, 49.14676	hätzä	h ä tz ä	hätza	h ä tz a	1
+10	MH M1	II_59_0120	Einbach, Waldhausen/Einbach	9.24238, 49.48477	hatze	h a tz e	hätze	h ä tz e	1
+11	MH M10	II_59_0115	Heidersbach, Heidersbach	9.2468, 49.45517	hätz	h ä tz	hätze	h ä tz e	1
+12	MH Y3	III_18_0075	Herbolzheim, Herbolzheim	9.26007, 49.28376	hetzä	h e tz ä	hätze	h ä tz e	2
+13	MH U4	II_60_0085	Mittelschefflenz, Mittelschefflenz	9.27967, 49.40042	hätze	h ä tz e	hetze	h e tz e	1
+14	MH U3	II_59_0124	Oberschefflenz, Oberschefflenz	9.28249, 49.41626	häze	h ä z e	hätze	h ä tz e	1
+15	MH U7	II_60_0090	Waldmühlbach, Waldmühlbach	9.28262, 49.36078	hétze	h é tz e	hetze	h e tz e	1
+16	MH N3	II_59_0123	Seckach, Seckach	9.33368, 49.44238	hütze	h ü tz e	hätz	h ä tz	2
+17	STU h1	III_24_0080	Stetten/Remstal, Stetten/Remstal	9.34045, 48.79285	herza	h e r z a	härza	h ä r z a	1
+18	MH N2	II_92_0003	Schlierstadt, Schlierstadt	9.36816, 49.45257	hetze	h e tz e	hätz	h ä tz	2
+19	MH V1	II_93_0003	Adlesheim, Adlesheim	9.39101, 49.40289	hetze	h e tz e	heze	h e z e	1
+20	MH E3	II_91_0002	Rinschheim, Rinschheim	9.39249, 49.51369	hätz	h ä tz	hetz	h e tz	1
+21	MH N8	II_92_0001	Götzingen, Götzingen	9.39465, 49.49693	hätze	h ä tz e	hetze	h e tz e	1
+22	MH V5	II_93_0004	Korb, Korb	9.39732, 49.35594	hätz	h ä tz	hez	h e z	2
+23	MH f2	II_88_0005	Boxtal, Boxtal	9.40146, 49.76416	hetze	h e tz e	hätze	h ä tz e	1
+24	MH w4	II_90_0005	Höpfingen, Höpfingen	9.42753, 49.60185	häx	h ä x	hätz	h ä tz	2
+25	MH N7	II_92_0009	Sindolsheim, Sindolsheim	9.45384, 49.48715	hetz	h e tz	hetze	h e tz e	1
+26	MH N6	II_92_0133	Bronnacker, Bronnacker	9.48305, 49.4446	hätz	h ä tz	hetz	h e tz	1
+27	MH O1	II_92_0010	Hohenstadt, Hohenstadt	9.51685, 49.49168	hätz	h ä tz	hätze	h ä tz e	1
+28	MH p1	II_89_0018	Waldenhausen, Waldenhausen	9.52298, 49.74357	hätse	h ä t s e	hätze	h ä tz e	1
+29	MH x7	II_90_0009	Schweinberg, Schweinberg	9.52459, 49.61864	hätz	h ä tz	hätze	h ä tz e	1
+30	MH F5	II_91_0011	Eubigheim, Eubigheim	9.53977, 49.5018	hatze	h a tz e	hätze	h ä tz e	1
+31	MH O3	II_92_0012	Berolzheim, Berolzheim	9.54042, 49.4749	hätze	h ä tz e	hätz	h ä tz	1
+32	MH W2	II_93_0011	Ballenberg, Ballenberg	9.55086, 49.40093	hetz	h e tz	hetze	h e tz e	1
+33	MH F2	II_91_0009	Brehmen, Brehmen	9.55454, 49.56839	hätze	h ä tz e	hetz	h e tz	2
+34	MH x6	II_90_0012	Königheim, Königheim	9.59419, 49.61802	hätze	h ä tz e	hätz	h ä tz	1
+35	MH p12	II_89_0020	Dietenhan, Dietenhan	9.6066, 49.74297	hatze	h a tz e	hatza	h a tz a	1
+36	MH W5	II_93_0020	Neunstetten, Neunstetten	9.61267, 49.41114	häds	h ä d s	hätz	h ä tz	2
+37	MH W7	II_93_0022	Krautheim, Krautheim	9.63369, 49.39159	hetz	h e tz	hetze	h e tz e	1
+38	MH x2	II_90_0020, II_90_0018, II_90_0019, II_90_0017	Hochhausen, Hochhausen	9.63526, 49.6621	hätze	h ä tz e	hätz	h ä tz	1
+39	MH P2	II_92_0040	Schweigern, Schweigern	9.66576, 49.49224	hez	h e z	hetz	h e tz	1
+40	MH y4	II_90_0021	Dittigheim, Dittigheim	9.67647, 49.61035	hatze	h a tz e	hatz	h a tz	1
+41	MH G2	II_91_0017	Lauda, Lauda	9.70203, 49.5702	hetze	h e tz e	hätz	h ä tz	2
+42	MH G13	II_91_0021	Sachsenflur, Sachsenflur	9.71, 49.52377	hätz	h ä tz	hetz	h e tz	1
+43	MH G3	II_91_0026	Gerlachsheim, Gerlachsheim	9.71775, 49.57998	hätze	h ä tz e	hetze	h e tz e	1
+44	MH G4	II_91_0025	Marbach, Marbach	9.7264, 49.56581	hätz	h ä tz	hätze	h ä tz e	1
+45	MH y1	II_89_0036	Großrinderfeld, Grossrinderfeld	9.73405, 49.66558	herz	h e r z	herze	h e r z e	1
+46	MH G7/1	II_91_0032	Oberbalbach, Oberbalbach	9.7938, 49.53997	hetsa	h e t s a	hätza	h ä tz a	2
+47	KST G8	III_22_0019, III_22_0018, III_22_0024	Königsbach, Stein, Königsbach	8.61207, 48.96515	häz	h ä z	hātz	h ā tz	2
+48	KST G8	III_22_0019, III_22_0018, III_22_0024	Königsbach, Stein, Königsbach	8.61207, 48.96515	häz	h ä z	hätz	h ä tz	1
+49	KST G8	III_22_0019, III_22_0018, III_22_0024	Königsbach, Stein, Königsbach	8.61207, 48.96515	häz	h ä z	hātze	h ā tz e	3
+50	KST u5	III_20_0163, III_20_0045, III_20_0044, III_20_0042, III_20_0043	Sulzfeld, Sulzfeld	8.85671, 49.10336	häddza	h ä dd z a	hätze	h ä tz e	3
+51	KST u5	III_20_0163, III_20_0045, III_20_0044, III_20_0042, III_20_0043	Sulzfeld, Sulzfeld	8.85671, 49.10336	häddza	h ä dd z a	hätza	h ä tz a	2
+52	KST u5	III_20_0163, III_20_0045, III_20_0044, III_20_0042, III_20_0043	Sulzfeld, Sulzfeld	8.85671, 49.10336	häddza	h ä dd z a	häza	h ä z a	2
+53	KST u3	III_20_0050, III_20_0049, III_20_0047, III_20_0051	Eppingen, Eppingen	8.9098, 49.13704	hetzä	h e tz ä	hetzer	h e tz e r	2
+54	KST u3	III_20_0050, III_20_0049, III_20_0047, III_20_0051	Eppingen, Eppingen	8.9098, 49.13704	hetzä	h e tz ä	hädza	h ä d z a	3
+55	KST u3	III_20_0050, III_20_0049, III_20_0047, III_20_0051	Eppingen, Eppingen	8.9098, 49.13704	hetzä	h e tz ä	hedza	h e d z a	2
+56	MH Y3	III_18_0075	Herbolzheim, Herbolzheim	9.26007, 49.28376	hätz	h ä tz	hätze	h ä tz e	1
+57	MH Y3	III_18_0075	Herbolzheim, Herbolzheim	9.26007, 49.28376	hetzä	h e tz ä	hätze	h ä tz e	2
+58	MH O5	II_92_0020, II_92_0019	Schwabhausen, Schwabhausen	9.60196, 49.45569	hetz	h e tz	hätze	h ä tz e	2
+59	MH x2	II_90_0020, II_90_0018, II_90_0019, II_90_0017	Hochhausen, Hochhausen	9.63526, 49.6621	hätze	h ä tz e	hätz	h ä tz	1
+60	MH p7	II_89_0031, II_89_0030, II_89_0032	Werbach, Werbach	9.63871, 49.67029	hätz	h ä tz	hatz	h a tz	1

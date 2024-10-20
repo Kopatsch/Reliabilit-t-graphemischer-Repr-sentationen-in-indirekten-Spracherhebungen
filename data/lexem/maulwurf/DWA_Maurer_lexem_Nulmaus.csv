@@ -1,0 +1,18 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Stra Y 14	na	Hecklingen	7.76731, 48.16962	niêlmüs	na	999	nielmüs	na	999	Nulmaus	na	999
+1	Co f 11	na	Teningen	7.80344, 48.12897	nüelmüs	na	999	nüelmüs	na	999	Nulmaus	na	999
+2	Co u 20	na	Sölden	7.80967, 47.93307	nuelmus	na	999	nuelmus	na	999	Nulmaus	na	999
+3	TUTT S12	na	Unteralpfen	8.13573, 47.64543	nuelmūs	na	999	nuelmus	na	999	Nulmaus	na	999
+4	TUTT T8	na	Gurtweil	8.24698, 47.64159	nuehlmūs	na	999	nuelmus	na	999	Nulmaus	na	999
+5	TUTT i3	na	Urach	8.25368, 48.00477	nuelmus	na	999	nuelmus	na	999	Nulmaus	na	999
+6	TUTT F6	na	Bettmaringen	8.36102, 47.75368	nūhlmūß	na	999	nuhlmus	na	999	Nulmaus	na	999
+7	TUTT F5	na	Oberwangen u, Unterwangen	8.3775, 47.7761	nuelmūs	na	999	nuelmus	na	999	Nulmaus	na	999
+8	TUTT r3	na	Hubertshofen	8.38827, 47.96002	nuelmus	na	999	nuelmus	na	999	Nulmaus	na	999
+9	TUTT U2	na	Rechberg	8.39987, 47.6501	nuelmus	na	999	nuelmus	na	999	Nulmaus	na	999
+10	na	III_12_0123	Amoltern	7.67629, 48.12873	na	nielmus	999	na	nielmus	999	na	Nulmaus	999
+11	na	III_13_0069	Wittental	7.94267, 48.00437	na	nuelmus	999	na	nuelmus	999	na	Nulmaus	999
+12	na	III_15_0123	Bannholz	8.167, 47.67614	na	nuelmus	999	na	nuelmus	999	na	Nulmaus	999
+13	na	III_38_0011	Griessen	8.4114, 47.62774	na	nuelmus	999	na	nuelmus	999	na	Nulmaus	999
+14	na	III_34_0014	Grüningen	8.47107, 47.98253	na	nuolmus	999	na	nuelmus	999	na	Nulmaus	999
+15	na	III_36_0013	Blumegg	8.49815, 47.80904	na	nulmus	999	na	nulmus	999	na	Nulmaus	999
+16	na	III_36_0020	Tengen	8.66036, 47.81721	na	nuelmuus	999	na	nuelmus	999	na	Nulmaus	999

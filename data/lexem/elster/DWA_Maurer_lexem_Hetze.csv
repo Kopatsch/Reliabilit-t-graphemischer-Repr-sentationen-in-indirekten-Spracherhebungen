@@ -1,0 +1,135 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	KST O2	na	Auerbach	8.53163, 48.91379	hätz	na	999	hets	na	999	Hetze	na	999
+1	KST G5	na	Nöttingen	8.56916, 48.93008	hetz	na	999	hets	na	999	Hetze	na	999
+2	KST G4	III_22_0017	Wilferdingen, Wilferdingen	8.57281, 48.9487	hetz	hätz	1	hets	hets	0	Hetze	Hetze	0
+3	KST O4	III_23_0021	Ellmendingen, Ellmendingen	8.5761, 48.90131	hätz	hätz	0	hets	hets	0	Hetze	Hetze	0
+4	KST G8	III_22_0019, III_22_0024, III_22_0018	Königsbach, Stein, Königsbach	8.61207, 48.96515	häz	hātze, hātz, hätz	1	hets	hets, hatse, hats	0	Hetze	Hetze	0
+5	KST H4	III_22_0025	Eisingen, Eisingen	8.66865, 48.94773	hêtz	hätz	1	hets	hets	0	Hetze	Hetze	0
+6	KST A5	na	Bretten	8.70657, 49.03456	hetze	na	999	hetse	na	999	Hetze	na	999
+7	KST A4	na	Gölshausen	8.72322, 49.04608	hätzå	na	999	hetse	na	999	Hetze	na	999
+8	KST A9	na	Ruit	8.72435, 49.00924	hetze	na	999	hetse	na	999	Hetze	na	999
+9	KST t8	III_20_0040	Zaisenhausen, Zaisenhausen	8.81712, 49.10745	hetza	hätza	1	hetse	hetse	0	Hetze	Hetze	0
+10	KST n11	na	Elsenz	8.83766, 49.17408	hatze	na	999	hetse	na	999	Hetze	na	999
+11	KST B1	III_21_0033	Kürnbach, Kürnbach	8.84279, 49.07732	hädze	hatze	2	hetse	hatse	1	Hetze	Hetze	0
+12	KST u5	III_20_0043, III_20_0042, III_20_0163, III_20_0045, III_20_0044	Sulzfeld, Sulzfeld	8.85671, 49.10336	häddza	hätze, hätza, häza	2	hetse	hetse	0	Hetze	Hetze	0
+13	KST n10	III_20_0046	Adelshofen, Adelshofen	8.89073, 49.16806	hätze	hatzer	2	hetse	hatse	1	Hetze	Hetze	0
+14	KST u3	III_20_0051, III_20_0050, III_20_0049, III_20_0047	Eppingen, Eppingen	8.9098, 49.13704	hetzä	hetzer, hedza, hädza	2	hetse	hetse, hatse	0	Hetze	Hetze	0
+15	KST n9	III_19_0046	Ittlingen, Ittlingen	8.93691, 49.19224	heze	hetze	1	hetse	hetse	0	Hetze	Hetze	0
+16	KST u2	III_20_0057	Stebbach, Stebbach	8.96448, 49.14676	hätzä	hätza	1	hetse	hetse	0	Hetze	Hetze	0
+17	KST u1	na	Gemmingen	8.98358, 49.15633	hätza	na	999	hetse	na	999	Hetze	na	999
+18	KST g11	na	Flinsbach	8.9996, 49.30946	hetze	na	999	hetse	na	999	Hetze	na	999
+19	KST g9	III_18_0057	Bargen, Bargen	9.02233, 49.30537	hetze	hetze	0	hetse	hetse	0	Hetze	Hetze	0
+20	KST v1	III_20_0066	Schluchtern, Schluchtern	9.1026, 49.14843	hätze	hätze	0	hetse	hetse	0	Hetze	Hetze	0
+21	MH T11	II_60_0079	Diedesheim, Diedesheim	9.11367, 49.34933	hetze	hetze	0	hetse	hetse	0	Hetze	Hetze	0
+22	MH U1	na	Neckarburken	9.165, 49.37662	hä̆tze	na	999	hetse	na	999	Hetze	na	999
+23	MH M6	II_59_0110	Krumbach, Krumbach	9.18402, 49.45323	hetze	hetze	0	hetse	hetse	0	Hetze	Hetze	0
+24	MH U2	II_60_0084	Dallau, Dallau	9.19192, 49.38655	hetze	hetze	0	hetse	hetse	0	Hetze	Hetze	0
+25	MH M5	na	Limbach	9.21181, 49.46142	hetz	na	999	hets	na	999	Hetze	na	999
+26	MH M2	na	Laudenberg	9.21457, 49.48066	hettze	na	999	hetse	na	999	Hetze	na	999
+27	MH U11	II_60_0088	Sulzbach, Sulzbach	9.22127, 49.35156	hätze	hätze	0	hetse	hetse	0	Hetze	Hetze	0
+28	MH U9	II_60_0094	Auerbach, Auerbach	9.22666, 49.39927	hätze	hätze	0	hetse	hetse	0	Hetze	Hetze	0
+29	MH M9	II_59_0114	Rittersbach, Rittersbach	9.23597, 49.42445	hätzä	hätzä	0	hetse	hetse	0	Hetze	Hetze	0
+30	MH M1	II_59_0120	Einbach, Waldhausen/Einbach	9.24238, 49.48477	hatze	hätze	1	hatse	hetse	1	Hetze	Hetze	0
+31	MH M10	II_59_0115	Heidersbach, Heidersbach	9.2468, 49.45517	hätz	hätze	1	hets	hetse	1	Hetze	Hetze	0
+32	MH Y3	III_18_0075	Herbolzheim, Herbolzheim	9.26007, 49.28376	hetzä, hätz	hätze	1	hets, hetse	hetse	0	Hetze	Hetze	0
+33	MH Y2	III_18_0074	Neudenau, Neudenau	9.27037, 49.2923	hätze	hätze	0	hetse	hetse	0	Hetze	Hetze	0
+34	MH U5	II_60_0086	Unterschefflenz, Unterschefflenz	9.27076, 49.39154	hetze	hetze	0	hetse	hetse	0	Hetze	Hetze	0
+35	MH U4	II_60_0085	Mittelschefflenz, Mittelschefflenz	9.27967, 49.40042	hätze	hetze	1	hetse	hetse	0	Hetze	Hetze	0
+36	MH U3	II_59_0124	Oberschefflenz, Oberschefflenz	9.28249, 49.41626	häze	hätze	1	hetse	hetse	0	Hetze	Hetze	0
+37	MH U7	II_60_0090	Waldmühlbach, Waldmühlbach	9.28262, 49.36078	hétze	hetze	1	hetse	hetse	0	Hetze	Hetze	0
+38	MH M13	II_59_0122	Großeicholzheim, Großeicholzheim	9.28966, 49.44361	hetze	hetze	0	hetse	hetse	0	Hetze	Hetze	0
+39	MH M12	na	Bödigheim	9.31522, 49.47408	hetz	na	999	hets	na	999	Hetze	na	999
+40	MH E1	na	Hainstadt	9.33082, 49.53905	hetz	na	999	hets	na	999	Hetze	na	999
+41	MH N3	II_59_0123	Seckach, Seckach	9.33368, 49.44238	hütze	hätz	2	hütse	hets	2	Hetze	Hetze	0
+42	STU h1	III_24_0080	Stetten/Remstal, Stetten/Remstal	9.34045, 48.79285	herza	härza	1	hertse	hertse	0	Hetze	Hetze	0
+43	MH E2	II_91_0001	Hettingen, Hettingen	9.36644, 49.5194	hätze	hätze	0	hetse	hetse	0	Hetze	Hetze	0
+44	MH N2	II_92_0003	Schlierstadt, Schlierstadt	9.36816, 49.45257	hetze	hätz	2	hetse	hets	1	Hetze	Hetze	0
+45	MH N4/2	na	Zimmern	9.37304, 49.43313	hätz	na	999	hets	na	999	Hetze	na	999
+46	MH o1	na	Rauenberg	9.38407, 49.74117	hetze	na	999	hetse	na	999	Hetze	na	999
+47	MH V1	II_93_0003	Adlesheim, Adlesheim	9.39101, 49.40289	hetze	heze	1	hetse	hetse	0	Hetze	Hetze	0
+48	MH E3	II_91_0002	Rinschheim, Rinschheim	9.39249, 49.51369	hätz	hetz	1	hets	hets	0	Hetze	Hetze	0
+49	MH N8	II_92_0001	Götzingen, Götzingen	9.39465, 49.49693	hätze	hetze	1	hetse	hetse	0	Hetze	Hetze	0
+50	MH V5	II_93_0004	Korb, Korb	9.39732, 49.35594	hätz	hez	2	hets	hets	0	Hetze	Hetze	0
+51	MH N10/1, MH N10/2	na	Hemsbach	9.40014, 49.42726	hätz	na	999	hets	na	999	Hetze	na	999
+52	MH f2	II_88_0005	Boxtal, Boxtal	9.40146, 49.76416	hetze	hätze	1	hetse	hetse	0	Hetze	Hetze	0
+53	MH N11	II_92_0005	Bofsheim, Bofsheim	9.41226, 49.4714	hätz	hätz	0	hets	hets	0	Hetze	Hetze	0
+54	MH V3	na	Leibenstadt	9.42028, 49.36861	hetz	na	999	hets	na	999	Hetze	na	999
+55	MH w4	II_90_0005	Höpfingen, Höpfingen	9.42753, 49.60185	häx	hätz	2	heks	hets	1	Hetze	Hetze	0
+56	MH V4	na	Unterkessach	9.43829, 49.34571	hätz	na	999	hets	na	999	Hetze	na	999
+57	MH E4	II_91_0003	Altheim, Altheim	9.4436, 49.51915	hätz	hätz	0	hets	hets	0	Hetze	Hetze	0
+58	MH N7	II_92_0009	Sindolsheim, Sindolsheim	9.45384, 49.48715	hetz	hetze	1	hets	hetse	1	Hetze	Hetze	0
+59	MH o4	na	Hundheim	9.46691, 49.69109	hätz	na	999	hets	na	999	Hetze	na	999
+60	MH w3	II_90_0007	Hardheim, Hardheim	9.47457, 49.60804	hätz	hätz	0	hets	hets	0	Hetze	Hetze	0
+61	MH N9	II_92_0008	Rosenberg, Rosenberg	9.4752, 49.45583	hetze	hetze	0	hetse	hetse	0	Hetze	Hetze	0
+62	MH N6	II_92_0133	Bronnacker, Bronnacker	9.48305, 49.4446	hätz	hetz	1	hets	hets	0	Hetze	Hetze	0
+63	STU u2	III_26_0084	Bissingen/Teck, Bissingen-Teck	9.49128, 48.60024	herz	herz	0	hertse	herts	1	Hetze	Hetze	0
+64	MH E8	na	Erfeld	9.49597, 49.55416	häze	na	999	hetse	na	999	Hetze	na	999
+65	MH O2	II_92_0011	Hirschlanden, Hirschlanden	9.50074, 49.47297	hetz	hetz	0	hets	hets	0	Hetze	Hetze	0
+66	MH W11	II_93_0010	Merchingen, Merchingen	9.50633, 49.4003	hetz	hetz	0	hets	hets	0	Hetze	Hetze	0
+67	MH O1	II_92_0010	Hohenstadt, Hohenstadt	9.51685, 49.49168	hätz	hätze	1	hets	hetse	1	Hetze	Hetze	0
+68	MH W1	na	Hüngheim	9.51823, 49.41257	hetze	na	999	hetse	na	999	Hetze	na	999
+69	MH p1	II_89_0018	Waldenhausen, Waldenhausen	9.52298, 49.74357	hätse	hätze	1	hetse	hetse	0	Hetze	Hetze	0
+70	MH x7	II_90_0009	Schweinberg, Schweinberg	9.52459, 49.61864	hätz	hätze	1	hets	hetse	1	Hetze	Hetze	0
+71	MH F1	na	Pülfringen	9.52624, 49.58149	heze	na	999	hetse	na	999	Hetze	na	999
+72	MH p2	II_89_0022	Reicholzheim, Reicholzheim	9.53393, 49.72663	hätze	hätze	0	hetse	hetse	0	Hetze	Hetze	0
+73	MH F5	II_91_0011	Eubigheim, Eubigheim	9.53977, 49.5018	hatze	hätze	1	hetse	hetse	0	Hetze	Hetze	0
+74	MH O3	II_92_0012	Berolzheim, Berolzheim	9.54042, 49.4749	hätze	hätz	1	hetse	hets	1	Hetze	Hetze	0
+75	MH W2	II_93_0011	Ballenberg, Ballenberg	9.55086, 49.40093	hetz	hetze	1	hets	hetse	1	Hetze	Hetze	0
+76	MH F2	II_91_0009	Brehmen, Brehmen	9.55454, 49.56839	hätze	hetz	2	hetse	hets	1	Hetze	Hetze	0
+77	MH g4	II_88_0022	Bettingen, Bettingen	9.5642, 49.77261	hatze	hatze	0	hatse	hatse	0	Hetze	Hetze	0
+78	MH O4	II_92_0013	Schillingstadt, Schillingstadt	9.57461, 49.46035	hetz	hetz	0	hets	hets	0	Hetze	Hetze	0
+79	MH x5	II_90_0013	Gissigheim, Gissigheim	9.58726, 49.59451	hätze	hätze	0	hetse	hetse	0	Hetze	Hetze	0
+80	MH O8	II_91_0012	Uiffingen, Uiffingen	9.59227, 49.50171	hetz	hetz	0	hets	hets	0	Hetze	Hetze	0
+81	MH x6	II_90_0012	Königheim, Königheim	9.59419, 49.61802	hätze	hätz	1	hetse	hets	1	Hetze	Hetze	0
+82	MH O9	II_92_0022	Angeltürn, Angeltürn	9.59726, 49.48572	hätze	hätze	0	hetse	hetse	0	Hetze	Hetze	0
+83	MH p8	na	Gamburg	9.59986, 49.69382	hātze	na	999	hetse	na	999	Hetze	na	999
+84	MH O5	II_92_0020, II_92_0019	Schwabhausen, Schwabhausen	9.60196, 49.45569	hetz	hätze, hetz	0	hets	hets, hetse	0	Hetze	Hetze	0
+85	MH p12	II_89_0020	Dietenhan, Dietenhan	9.6066, 49.74297	hatze	hatza	1	hatse	hatse	0	Hetze	Hetze	0
+86	MH p10	na	Höhefeld	9.60905, 49.71271	hätze	na	999	hetse	na	999	Hetze	na	999
+87	MH W5	II_93_0020	Neunstetten, Neunstetten	9.61267, 49.41114	häds	hätz	2	hets	hets	0	Hetze	Hetze	0
+88	MH F7	na	Kupprichhausen-Lengenrieden	9.62002, 49.52627	häz	na	999	hets	na	999	Hetze	na	999
+89	MH O10	II_92_0025, II_92_0024	Wölchingen, Wölchingen	9.63011, 49.48494	hetz	hetz	0	hets	hets	0	Hetze	Hetze	0
+90	MH W7	II_93_0022	Krautheim, Krautheim	9.63369, 49.39159	hetz	hetze	1	hets	hetse	1	Hetze	Hetze	0
+91	MH x2	II_90_0017, II_90_0020, II_90_0018, II_90_0019	Hochhausen, Hochhausen	9.63526, 49.6621	hätze	hätze, hätz	0	hetse	hets, hetse	0	Hetze	Hetze	0
+92	MH x4	II_90_0014	Dittwar, Dittwar	9.63593, 49.58974	hätze	hätze	0	hetse	hetse	0	Hetze	Hetze	0
+93	MH p7	II_89_0031, II_89_0030, II_89_0032	Werbach, Werbach	9.63871, 49.67029	hätz	hatz, hätz	0	hets	hets, hats	0	Hetze	Hetze	0
+94	MH O11	II_92_0026	Boxberg, Boxberg	9.64298, 49.48181	hetz	hetz	0	hets	hets	0	Hetze	Hetze	0
+95	MH x3	II_90_0016	Impfingen, Impfingen	9.65946, 49.64719	hätze	hätze	0	hetse	hetse	0	Hetze	Hetze	0
+96	MH P2	II_92_0040	Schweigern, Schweigern	9.66576, 49.49224	hez	hetz	1	hets	hets	0	Hetze	Hetze	0
+97	MH y4	II_90_0021	Dittigheim, Dittigheim	9.67647, 49.61035	hatze	hatz	1	hatse	hats	1	Hetze	Hetze	0
+98	MH G11	na	Oberschüpf	9.67687, 49.52252	hädds	na	999	hets	na	999	Hetze	na	999
+99	MH G12	II_91_0020	Unterschüpf, Unterschüpf	9.68922, 49.51437	hätz	hätz	0	hets	hets	0	Hetze	Hetze	0
+100	MH G2	II_91_0017	Lauda, Lauda	9.70203, 49.5702	hetze	hätz	2	hetse	hets	1	Hetze	Hetze	0
+101	MH G13	II_91_0021	Sachsenflur, Sachsenflur	9.71, 49.52377	hätz	hetz	1	hets	hets	0	Hetze	Hetze	0
+102	MH P1	na	Dainbach-Herold	9.71553, 49.49662	hetze	na	999	hetse	na	999	Hetze	na	999
+103	MH G3	II_91_0026	Gerlachsheim, Gerlachsheim	9.71775, 49.57998	hätze	hetze	1	hetse	hetse	0	Hetze	Hetze	0
+104	MH G4	II_91_0025	Marbach, Marbach	9.7264, 49.56581	hätz	hätze	1	hets	hetse	1	Hetze	Hetze	0
+105	MH G9	II_91_0022	Königshofen, Königshofen	9.73105, 49.54759	hätze	hätze	0	hetse	hetse	0	Hetze	Hetze	0
+106	MH y1	II_89_0036	Großrinderfeld, Grossrinderfeld	9.73405, 49.66558	herz	herze	1	herts	hertse	1	Hetze	Hetze	0
+107	MH y6	na	Grünsfeld	9.74656, 49.6066	hätz	na	999	hets	na	999	Hetze	na	999
+108	MH q4	II_89_0040	Gerchsheim, Gerchsheim	9.78301, 49.70681	harze	harze	0	hartse	hartse	0	Hetze	Hetze	0
+109	MH y10	II_89_0042	Ilmspan, Ilmspan	9.79016, 49.66609	härz	härz	0	herts	herts	0	Hetze	Hetze	0
+110	MH G7/1	II_91_0032	Oberbalbach, Oberbalbach	9.7938, 49.53997	hetsa	hätza	2	hetse	hetse	0	Hetze	Hetze	0
+111	MH q5	na	Schönfeld	9.80069, 49.67702	härz	na	999	herts	na	999	Hetze	na	999
+112	MH ya1/1, MH ya1/2	na	Oberwittighausen	9.85164, 49.62585	harz, haertz	na	999	harts, herts	na	999	Hetze	na	999
+113	na	III_12_0009	St. Pilt	7.38445, 48.24184	na	atzel	999	na	ats	999	na	Hetze	999
+114	na	II_59_0051	Mannheim	8.46678, 49.4865	na	hätze	999	na	hetse	999	na	Hetze	999
+115	na	II_60_0092	Oftersheim	8.58107, 49.36823	na	atz	999	na	ats	999	na	Hetze	999
+116	na	III_18_0051	Neckarbischofsheim	8.96103, 49.29275	na	hetze	999	na	hetse	999	na	Hetze	999
+117	na	III_19_0061	Babstadt	9.05798, 49.24212	na	hetze	999	na	hetse	999	na	Hetze	999
+118	na	II_59_0107	Robern	9.16265, 49.45394	na	hetze	999	na	hetse	999	na	Hetze	999
+119	na	II_59_0113	Muckental	9.20231, 49.42474	na	hätze	999	na	hetse	999	na	Hetze	999
+120	na	II_59_0116	Scheringen	9.23513, 49.46663	na	hetze	999	na	hetse	999	na	Hetze	999
+121	na	III_26_0090	Nürtingen	9.34192, 48.62663	na	hätz	999	na	hets	999	na	Hetze	999
+122	na	II_92_0002	Eberstadt	9.3666, 49.47727	na	hetz	999	na	hets	999	na	Hetze	999
+123	na	II_92_0007, II_92_0006	Osterburken	9.42838, 49.4308	na	hetz, hetze	999	na	hets, hetse	999	na	Hetze	999
+124	na	II_91_0007	Gerichtstetten	9.5049, 49.53499	na	hätz	999	na	hets	999	na	Hetze	999
+125	na	II_89_0019	Urphar	9.5706, 49.74798	na	häza	999	na	hetse	999	na	Hetze	999
+126	na	II_93_0015	Winzenhofen	9.57229, 49.35628	na	hätz	999	na	hets	999	na	Hetze	999
+127	na	II_92_0016	Windischbuch	9.62194, 49.43593	na	hetz	999	na	hets	999	na	Hetze	999
+128	na	II_89_0021	Kembach	9.62461, 49.74217	na	hatza	999	na	hatse	999	na	Hetze	999
+129	na	II_92_0028	Bobstadt	9.67398, 49.46607	na	hätz	999	na	hets	999	na	Hetze	999
+130	na	II_91_0018	Beckstein	9.70422, 49.54668	na	hetze	999	na	hetse	999	na	Hetze	999
+131	na	II_89_0037	Steinbach	9.72212, 49.71075	na	hazä	999	na	hatse	999	na	Hetze	999
+132	na	II_91_0023	Unterbalbach	9.74711, 49.52779	na	häze	999	na	hetse	999	na	Hetze	999
+133	na	II_91_0029	Messelhausen	9.7887, 49.5756	na	hetze	999	na	hetse	999	na	Hetze	999

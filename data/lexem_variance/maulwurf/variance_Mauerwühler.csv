@@ -1,0 +1,18 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_maurer_align	item_DWA	item_DWA_align	Levenshtein_item
+0	KST g11	III_18_0053	Flinsbach, Flinsbach	8.9996, 49.30946	mauerwieler	m a u e r w ie l e r	mauewihler	m a u e w i h l e r	2
+1	KST g7	III_18_0059	Untergimern, Untergimern	9.00947, 49.27049	mauarewihler	m a u a r e w i h l e r	maurwühler	m a u r w ü h l e r	3
+2	KST g9	III_18_0057	Bargen, Bargen	9.02233, 49.30537	maurerwihler	m a u r e r w i h l e r	maurewühler	m a u r e w ü h l e r	2
+3	KST g8	III_18_0058	Wollenberg, Wollenberg	9.03453, 49.29152	maurerwühler	m a u r e r w ü h l e r	maurewühler	m a u r e w ü h l e r	1
+4	KST g6	III_18_0060	Obergimpern, Obergimpern	9.04013, 49.25574	maurerwiehler	m a u r e r w ie h l e r	maurewühler	m a u r e w ü h l e r	3
+5	KST o4	III_19_0061	Babstadt, Babstadt	9.05798, 49.24212	mauererwühler	m a u e r e r w ü h l e r	mauerwühler	m a u e r w ü h l e r	2
+6	KST g10	III_18_0063	Kälbertshausen, Kälbertshausen	9.06276, 49.31724	maurewieler	m a u r e w ie l e r	maurewīhler	m a u r e w ī h l e r	2
+7	KST g3	III_18_0062	Hüffenhardt, Hüffenhardt	9.08386, 49.2913	mauerewihle	m a u e r e w i h l e	maurewiehler	m a u r e w ie h l e r	3
+8	KST g4	III_18_0061	Siegelsbach, Siegelsbach	9.08942, 49.27263	maurewieler	m a u r e w ie l e r	maurewühler	m a u r e w ü h l e r	2
+9	KST g1	III_18_0064	Hochhausen, Hochhausen	9.1008, 49.323	mauerwieler	m a u e r w ie l e r	maurewühler	m a u r e w ü h l e r	4
+10	KST o3	III_19_0058, III_19_0057	Bad Rappenau, Bad Rappenau	9.10212, 49.24032	maurewiihla	m a u r e w ii h l a	maurerwieler	m a u r e r w ie l e r	5
+11	KST g2	III_18_0065	Neckarzimmern, Neckarzimmern	9.1329, 49.31835	maurewiehler	m a u r e w ie h l e r	maurewihla	m a u r e w i h l a	3
+12	KST g14	III_18_0069	Heinsheim, Heinsheim	9.14778, 49.26416	mauerwühler	m a u e r w ü h l e r	mauerewühler	m a u e r e w ü h l e r	1
+13	KST g4	III_18_0061	Siegelsbach, Siegelsbach	9.08942, 49.27263	maurewiele	m a u r e w ie l e	maurewühler	m a u r e w ü h l e r	3
+14	KST g4	III_18_0061	Siegelsbach, Siegelsbach	9.08942, 49.27263	maurewieler	m a u r e w ie l e r	maurewühler	m a u r e w ü h l e r	2
+15	KST o3	III_19_0058, III_19_0057	Bad Rappenau, Bad Rappenau	9.10212, 49.24032	maurewiihla	m a u r e w ii h l a	maurewühler	m a u r e w ü h l e r	4
+16	KST o3	III_19_0058, III_19_0057	Bad Rappenau, Bad Rappenau	9.10212, 49.24032	maurewiihla	m a u r e w ii h l a	maurerwieler	m a u r e r w ie l e r	5

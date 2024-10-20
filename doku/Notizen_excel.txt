@@ -1,0 +1,104 @@
+Auffälligkeiten Fragebögen:
+
+- DWA Bogennamen "ungeodnet", "ungeodnet2"
+
+Info:
+- Belegunterscheidung auch innerhalb eines Lexems
+- X zu ch aufgelöst
+- S zu sch aufgelöst
+- Klammern zu Einzelbelegen aufgelöst
+- manche Menschen schreiben Beispielsätze in die Datei
+- Leerzeichen aus zusammenhängenden Worten entfernt
+- wenn ersichtlich, um Pluralformen bereinigt
+- bei eckigen Klammern Inhalt der Klammern ignoriert
+- item um Sonderzeichen bereinigt
+- eckige Klammern als Buchstabe über Buchstabe gewertet, wenn nicht möglich, dann weggelassen
+- II_59_0042 mit Angabe zum Kraichgau (Kraichgau gelöscht, weil andere Ortsangabe)
+- Stra m 9/1 immer 3 Angaben (3 unterschiedliche Orte) -> na gewertet
+- Co c 11 immer die französisch-wallonisch mundartliche Angabe -> na gewertet
+- Hag W 16 oft doppelt Aufgeführt ohne Anmerkung
+- MH K6, Hag V 1 oft in zwei geteilt ohne Anmerkung
+- Gefühl: Qualität der Transliteration der DWA Bögen ist schlechter als die der Maurer Bögen
+
+Ameise
+- Tutt N4 Wurm=meisle(n)
+- TUTT L3 Bär|amsel
+- TÜB x4
+- KST D2 Saach_emsa
+- Co X 15 Umbaössaö
+- III_35_0052 Amo-is
+- III_34_0027 I-mose
+- III_18_0076 El-mes
+- II_92_0018 E-imes
+- II_60_0050 e'méhns
+- II_59_0047 Amäns, ameis, A<o>meis
+- II_60_0035, II_60_0034
+- III_36_0055 Amboosa va. umboosa (Korrektur sagt U-)
+- 3000, nach Fragebogen sortiert
+
+
+Begräbnis
+- III_15_0078 ;icht
+- III_21_0026 [Horn, Schmarrn]
+- KST n6 d# Leicht
+- Stra m 9/1 1. 2. 3.
+- III_17_0006- 21, 41, 55, 59, III_4_0087 alle Bögen zweimal mit unterschiedlichen lfd Nummern
+
+Deichsel
+- Hag Y 7 Disch-schel
+- SIG r1 Di=echsel
+- TUTT v1 De-iksel
+- TUTT F1 Diach-sel
+- TUTT Sa 4 Diech=sle
+- Co r 9 D! Lander
+- Co W 4,5 D!Dichsle
+- III_10_0135 Dissel, Deichsel
+- III_14_0160 Die<ä>chsle
+- III_15_0048 Diexle
+- III_35_0049 Diechl, Diechsl
+- KST L3
+- MH J5 Die Bann
+- Hag V 1 doppelt
+
+Elster
+- Co n 4 Ägeschte
+
+Gurke
+- m̄ -> wird zu mm -> wieder rückgängig gemacht
+- III_17_0006- 21, 36, 41, 55, 59, III_4_0087 alle Bögen zweimal, lfd Nummern immer na
+
+Hebamme:
+- m mit Strich darüber immer durch mm ersetzt -> wieder rückgängig gemacht
+
+Kartoffel
+- Hag J 4
+- m mit Strich zu mm -> wieder rückgängig
+- bei drei Varianten oft die dritte nicht aufgeschrieben
+
+Stecknadel:
+- g(on)ff -> gonff
+
+Ziege:
+- hs -> immer zu ß gemacht -> wieder rückgängig
+- III_17_0006-8, 10- 21, 36, 41, 55, 59, III_4_0087 alle Bögen doppelt, aber identisch
+
+Zimmerfliege:
+- m(ou)ck -> mouck
+- m(on)k -> monk
+
+
+To Do:
+
+x- Ziege: in org Spalte hs zu ß machen -> Sütterlin Schreibweise
+
+x- Maulwurf: Leere Zeilen bei Maulwurf noch einmal nachschauen
+
+x- Apostrophe Entfernen
+
+x- Stra m 9/1 wieder einfügen (3. Wort)
+
+x- Kartoffel: II_59_0042 Angabe im Kraichgau entfernen
+
+x- Hag W 16, MH K6, Hag V 1 wieder als 2 Varianten aufnehmen
+
+x- Kartoffel Daten korrigieren

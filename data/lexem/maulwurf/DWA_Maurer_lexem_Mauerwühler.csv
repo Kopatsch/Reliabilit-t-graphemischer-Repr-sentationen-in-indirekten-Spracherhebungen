@@ -1,0 +1,20 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	KST g11	III_18_0053	Flinsbach, Flinsbach	8.9996, 49.30946	mauerwieler	mauewihler	2	mauerwiler	mauewiler	1	Mauerwühler	Mauerwühler	0
+1	KST g7	III_18_0059	Untergimern, Untergimern	9.00947, 49.27049	mauarewihler	maurwühler	3	mauerewiler	mauerwüler	2	Mauerwühler	Mauerwühler	0
+2	KST g9	III_18_0057	Bargen, Bargen	9.02233, 49.30537	maurerwihler	maurewühler	2	maurerwiler	maurewüler	2	Mauerwühler	Mauerwühler	0
+3	KST g8	III_18_0058	Wollenberg, Wollenberg	9.03453, 49.29152	maurerwühler	maurewühler	1	maurerwüler	maurewüler	1	Mauerwühler	Mauerwühler	0
+4	KST g6	III_18_0060	Obergimpern, Obergimpern	9.04013, 49.25574	maurerwiehler	maurewühler	3	maurerwiler	maurewüler	2	Mauerwühler	Mauerwühler	0
+5	KST o4	III_19_0061	Babstadt, Babstadt	9.05798, 49.24212	mauererwühler	mauerwühler	2	mauererwüler	mauerwüler	2	Mauerwühler	Mauerwühler	0
+6	KST g10	III_18_0063	Kälbertshausen, Kälbertshausen	9.06276, 49.31724	maurewieler	maurewīhler	2	maurewiler	maurewiler	0	Mauerwühler	Mauerwühler	0
+7	KST g3	III_18_0062	Hüffenhardt, Hüffenhardt	9.08386, 49.2913	mauerewihle	maurewiehler	3	mauerewile	maurewiler	2	Mauerwühler	Mauerwühler	0
+8	KST g4	III_18_0061	Siegelsbach, Siegelsbach	9.08942, 49.27263	maurewiele, maurewieler	maurewühler	2	maurewiler	maurewüler	1	Mauerwühler	Mauerwühler	0
+9	MH T10	na	Obrigheim	9.09608, 49.35186	mauerwühler	na	999	mauerwüler	na	999	Mauerwühler	na	999
+10	KST g1	III_18_0064	Hochhausen, Hochhausen	9.1008, 49.323	mauerwieler	maurewühler	4	mauerwiler	maurewüler	3	Mauerwühler	Mauerwühler	0
+11	KST o3	III_19_0057, III_19_0058	Bad Rappenau, Bad Rappenau	9.10212, 49.24032	maurewiihla	maurewühler, maurerwieler	4	maurewiler	maurerwüler, maurerwiler	1	Mauerwühler	Mauerwühler	0
+12	KST g5	na	Zimmerhof	9.1218, 49.25206	maurewühler	na	999	maurewüler	na	999	Mauerwühler	na	999
+13	KST g2	III_18_0065	Neckarzimmern, Neckarzimmern	9.1329, 49.31835	maurewiehler	maurewihla	3	maurewiler	maurewiler	0	Mauerwühler	Mauerwühler	0
+14	KST g13	na	Neckarmühlbach	9.13604, 49.28364	mauerwühler	na	999	mauerwüler	na	999	Mauerwühler	na	999
+15	KST g14	III_18_0069	Heinsheim, Heinsheim	9.14778, 49.26416	mauerwühler	mauerewühler	1	mauerwüler	mauerewüler	1	Mauerwühler	Mauerwühler	0
+16	MH Y4	III_18_0076	Stein am Kocher, Stein	9.29954, 49.26198	mauerwühler	mauerwühler	0	mauerwüler	mauerwüler	0	Mauerwühler	Mauerwühler	0
+17	na	II_60_0079	Diedesheim	9.11367, 49.34933	na	maurewühler	999	na	maurewüler	999	na	Mauerwühler	999
+18	na	III_18_0066	Hassmersheim	9.14257, 49.30049	na	mauerwühler	999	na	mauerwüler	999	na	Mauerwühler	999

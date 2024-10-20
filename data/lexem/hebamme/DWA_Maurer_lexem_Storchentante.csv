@@ -1,0 +1,4 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	MH v2	II_57_0138	Rippberg, Rippberg	9.29762, 49.62253	storchetante	storchetante	0	storchetante	storchetante	0	Storchentante	Storchentante	0
+1	na	III_17_0045, III_17_0046	Rheinfelden	7.78875, 47.55945	na	storchetante, storchätande	999	na	storchetante	999	na	Storchentante	999
+2	na	III_35_0052	Zoznegg	9.04053, 47.89958	na	storchentante	999	na	storchentante	999	na	Storchentante	999

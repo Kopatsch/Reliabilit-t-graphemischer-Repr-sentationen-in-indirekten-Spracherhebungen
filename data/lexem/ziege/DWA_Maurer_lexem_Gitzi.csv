@@ -1,0 +1,5 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Co P6	na	Tannenkirch	7.6103, 47.71116	gizzi	na	999	gitzi	na	999	Gitzi	na	999
+1	TUTT P4	na	Gotttmadingen	8.77716, 47.73498	gitzi	na	999	gitzi	na	999	Gitzi	na	999
+2	TUTT C9	na	Hoppetenzell	9.00808, 47.89295	gitzi	na	999	gitzi	na	999	Gitzi	na	999
+3	na	III_17_0046	Rheinfelden	7.78875, 47.55945	na	gitz	999	na	gitz	999	na	Gitzi	999

@@ -1,0 +1,12 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	KST F14/2	III_22_0004, III_22_0006	Ettlingen, Ettlingen	8.40245, 48.94247	häddel	häddel	0	heddel	heddel	0	Haddel	Haddel	0
+1	MH V1	na	Adlesheim	9.39101, 49.40289	haddel	na	999	haddel	na	999	Haddel	na	999
+2	STU XIII 1	na	(Bad) Schussenried	9.65803, 48.0041	hadl	na	999	haddel	na	999	Haddel	na	999
+3	na	III_11_0050	Oberweier	7.89815, 48.37746	na	hadl	999	na	haddel	999	na	Haddel	999
+4	na	III_20_0009	Friedrichstal	8.48091, 49.10481	na	hetl	999	na	heddel	999	na	Haddel	999
+5	na	III_20_0035, III_20_0037	Flehingen	8.78694, 49.0869	na	hettel	999	na	heddel	999	na	Haddel	999
+6	na	III_34_0119	Emmingen	8.85302, 47.92883	na	häddl	999	na	heddel	999	na	Haddel	999
+7	na	III_18_0048, III_18_0047	Sinsheim	8.87357, 49.25387	na	heddel	999	na	heddel	999	na	Haddel	999
+8	na	III_36_0057, III_36_0055	Liggeringen	9.02698, 47.77495	na	hadl, haddl	999	na	haddel	999	na	Haddel	999
+9	na	III_36_0079	Leustetten	9.29433, 47.80634	na	hettel	999	na	heddel	999	na	Haddel	999
+10	na	II_57_0138	Rippberg	9.29762, 49.62253	na	hattel	999	na	haddel	999	na	Haddel	999

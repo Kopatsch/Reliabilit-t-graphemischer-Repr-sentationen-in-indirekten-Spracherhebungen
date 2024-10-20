@@ -1,0 +1,279 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_maurer_align	item_DWA	item_DWA_align	Levenshtein_item
+0	Co E6	III_14_0093	Leimbach, Leimbach	7.09999, 47.79305	schdecknodla	sch d e ck n o d l a	stecknodla	s t e ck n o d l a	3
+1	Hag F 3	III_5_0044	Ratzweiler (Ratzwiller), Ratzweiler	7.23978, 48.95501	stecknådel	s t e ck n å d e l	stecknādel	s t e ck n ā d e l	1
+2	Stra l 3	III_9_0005	Engental, Engental	7.30153, 48.63467	stecknoudel	s t e ck n o u d e l	schteggnodel	sch t e gg n o d e l	5
+3	Stra e 2/2	III_8_0029	Zabern, Zabern	7.36605, 48.73948	stecknodel	s t e ck n o d e l	stecknadel	s t e ck n a d e l	1
+4	Hag O 2	III_6_0038	Wimmenau, Wimmenau	7.41957, 48.91035	stecknodel	s t e ck n o d e l	stegnodel	s t e g n o d e l	2
+5	Stra H 12	III_11_0021	Ittersweiler (Itterswiller), Ittersweiler	7.4322, 48.36386	stecknodel	s t e ck n o d e l	stecknadel	s t e ck n a d e l	1
+6	Hag G 3	III_5_0058	Reipertsweiler (Reipertswiller), Reipertsweiler	7.46373, 48.93214	stecknodel	s t e ck n o d e l	stecknadel	s t e ck n a d e l	1
+7	Stra n 1	III_9_0037	Winzenheim (Wintzenheim-Kochersberg), Winzenheim	7.51469, 48.65916	schtecknudel	sch t e ck n u d e l	stecknudel	s t e ck n u d e l	2
+8	Co m 3	III_13_0038	Ihringen, Ihringen	7.64554, 48.04572	stecknōdle	s t e ck n ō d l e	stecknodla	s t e ck n o d l a	2
+9	Co B4	III_14_0049	Ballrechten-Dottingen, Ballrechten	7.70076, 47.86061	stecknodel	s t e ck n o d e l	stecknodle	s t e ck n o d l e	2
+10	Hag Q 2	III_6_0070	Eberbach , Eberbach	7.71711, 48.91154	schtecknodl	sch t e ck n o d l	stecknodel	s t e ck n o d e l	3
+11	Co u 5	III_13_0136	Norsingen, Norsingen	7.72683, 47.93837	stecknoadl	s t e ck n o a d l	stecknodle	s t e ck n o d l e	2
+12	Co X 8	III_16_0099	Höllstein, Höllstein	7.74574, 47.63943	schtecknōdlĕ	sch t e ck n ō d l ĕ	schtecknoodlä	sch t e ck n oo d l ä	3
+13	Stra K 2	III_11_0042	Ottenheim, Ottenheim	7.75477, 48.38593	stäcknodel	s t ä ck n o d e l	stecknodl	s t e ck n o d l	2
+14	Co u 9	III_13_0140	Ebringen, Ebringen	7.77981, 47.95761	stecknodle	s t e ck n o d l e	stecknadel	s t e ck n a d e l	3
+15	Co Xa 3	III_17_0045, III_17_0044, III_17_0046	Rheinfelden-Stadt (Baden), Rheinfelden	7.78875, 47.55945	stecknådel	s t e ck n å d e l	stecknodle	s t e ck n o d l e	3
+16	Stra C 6	III_10_0115	Dundenheim, Dundenheim	7.81569, 48.44904	stecknodel	s t e ck n o d e l	stecknodl	s t e ck n o d l	1
+17	Stra w 1	III_10_0049	Neumühl, Neumühl	7.84392, 48.57012	stecknodel	s t e ck n o d e l	schdecknodel	sch d e ck n o d e l	3
+18	Co R6	III_15_0077	Atzenbach, Atzenbach <+ Riedichen>	7.8735, 47.71532	stecknådle	s t e ck n å d l e	stecknodel	s t e ck n o d e l	3
+19	Stra D 17	III_10_0131, III_10_0133	Schutterwald, Schutterwald	7.88679, 48.45347	stecknodl	s t e ck n o d l	stecknodel	s t e ck n o d e l	1
+20	Hag C 1	III_4_0100	Weißenburg-Weiler, Weissenburg-Weiler	7.91271, 49.0377	stecknŏdel	s t e ck n ŏ d e l	schtecknodl	sch t e ck n o d l	4
+21	Stra D 3	III_10_0130	Weier, Weier	7.91766, 48.49812	stecknodel	s t e ck n o d e l	stecknodl	s t e ck n o d l	1
+22	Co v 8	III_13_0150	Oberried, Oberried	7.94506, 47.93146	schteknodle	sch t e k n o d l e	schtecknodle	sch t e ck n o d l e	1
+23	Hag C 2	III_4_0094, III_4_0093	Weißenburg (Wissembourg), Weißenburg	7.9521, 49.03733	stecknådel	s t e ck n å d e l	stecknadel	s t e ck n a d e l	1
+24	Co g 2	III_12_0139	Waldkirch, Waldkirch	7.96049, 48.09361	stecknodle	s t e ck n o d l e	stecknadel	s t e ck n a d e l	3
+25	Stra D 9	III_10_0125	Zell-Weierbach (Weierbach), Zell-Weierbach	7.98174, 48.47408	stecknodel	s t e ck n o d e l	stecknadel	s t e ck n a d e l	1
+26	TÜB h8	III_9_0097	Renchen, Renchen	8.01285, 48.58724	stecknodel	s t e ck n o d e l	stecknodl	s t e ck n o d l	1
+27	TÜB h1/2	III_9_0103	Gamshurst, Gamshurst	8.0187, 48.66413	stecknådel	s t e ck n å d e l	stecknodel	s t e ck n o d e l	1
+28	TÜB p10	III_10_0077	Bottenau/Oberkirch, Bottenau	8.04409, 48.5298	stecknadel	s t e ck n a d e l	stecknodel	s t e ck n o d e l	1
+29	TÜB p1	III_10_0072	Ulm Kr. Offenburg, Ulm	8.05069, 48.57993	stecknodel	s t e ck n o d e l	stegnodel	s t e g n o d e l	2
+30	TÜB w5	III_10_0140	Haigerach, Haigerach	8.05467, 48.42157	stecknådel	s t e ck n å d e l	stecknodl	s t e ck n o d l	2
+31	TÜB p2	III_10_0073	Haslach, Haslach	8.05661, 48.56552	stecknodle	s t e ck n o d l e	stecknodel	s t e ck n o d e l	2
+32	TUTT D1	III_14_0170	Menzenschwand, Merzenschwand	8.07059, 47.81749	stecknodel	s t e ck n o d e l	schtecknodel	sch t e ck n o d e l	2
+33	TÜB h10	III_9_0099	Oberachern, Oberachern	8.08066, 48.6193	stecknodl	s t e ck n o d l	stecknodel	s t e ck n o d e l	1
+34	TÜB a7	III_8_0105	Balzhofen, Balzhofen	8.09765, 48.71247	stecknadl	s t e ck n a d l	stecknodel	s t e ck n o d e l	2
+35	KST L3	III_6_0088	Schaffhausen (Schaffhouse-près-Selz), Schaffhausen	8.10006, 48.9087	stecknudel	s t e ck n u d e l	stecknadel	s t e ck n a d e l	1
+36	TUTT w6	III_14_0074	Altglashütten, Altglashütten	8.11016, 47.85701	stecknodel	s t e ck n o d e l	stecknodle	s t e ck n o d l e	2
+37	TÜB S6	III_12_0063, III_12_0064	Oberprechtal, Oberprechtal	8.12114, 48.20548	schdecknodel	sch d e ck n o d e l	schtecknaᵒdle	sch t e ck n a ᵒ d l e	5
+38	TÜB w3	III_10_0078	Ramsbach, Ramsbach	8.14144, 48.49573	stecknodel	s t e ck n o d e l	schteknodel	sch t e k n o d e l	3
+39	TÜB h13	III_9_0096, III_9_0095	Neusatz , Neusatz	8.14904, 48.65879	schdeggnodel	sch d e gg n o d e l	schdegnodel	sch d e g n o d e l	1
+40	TÜB b9	III_8_0112, III_8_0113	Bühlertal-Hof, Bühlertal, Bühlertal-Hof	8.19194, 48.68215	stecknoͣdel	s t e ck n o ͣ d e l	stecknodel	s t e ck n o d e l	1
+41	TÜB T2	III_12_0073	Reichenbach, Reichenbach	8.22958, 48.21343	stecknodle	s t e ck n o d l e	stecknadle	s t e ck n a d l e	1
+42	TUTT q8	III_13_0161	Rudenberg, Rudenberg	8.23807, 47.9196	stecknodle	s t e ck n o d l e	schdecknodle	sch d e ck n o d l e	3
+43	KST T14/3, KST T14/4, KST T14/1	III_7_0131	Baden-Baden-West, Baden-Baden , Baden-Baden, Baden-Baden Weststadt	8.24094, 48.76273	stecknådel	s t e ck n å d e l	stecknadel	s t e ck n a d e l	1
+44	TÜB M8	III_11_0154	Kirnbach, Kirnbach	8.24598, 48.26194	schtecknodle	sch t e ck n o d l e	stecknodle	s t e ck n o d l e	2
+45	TÜB M2	III_11_0148	Langenbach, Langenbach	8.25164, 48.3205	stecknådel	s t e ck n å d e l	stecknodel	s t e ck n o d e l	1
+46	TÜB M1	III_11_0149	Sankt Roman, St. Roman	8.2924, 48.33187	stecknådel	s t e ck n å d e l	stecknodel	s t e ck n o d e l	1
+47	TUTT T13	III_16_0165	Oberlauchringen, Oberlauchringen	8.32685, 47.62036	stecknodel	s t e ck n o d e l	stecknadel	s t e ck n a d e l	1
+48	KST N1	III_6_0101, III_6_0100, III_6_0102	Malsch, Malsch	8.3345, 48.88047	stecknodel	s t e ck n o d e l	schtecknadel	sch t e ck n a d e l	3
+49	TÜB N2	III_30_0008	Schiltach, Schiltach	8.34259, 48.29033	schdecknådl	sch d e ck n å d l	schtecknoadl	sch t e ck n o a d l	3
+50	TÜB k1	III_26_0001	Raumünzach, Raumänzach	8.34869, 48.63918	stecknådel	s t e ck n å d e l	stecknädel	s t e ck n ä d e l	1
+51	KST U1	III_24_0001	Michelbach, Michelbach	8.35062, 48.8186	schdegnådl	sch d e g n å d l	stecknodl	s t e ck n o d l	6
+52	KST F13	III_22_0002	Bruchhausen bei Ettlingen, Bruchhausen	8.371, 48.92716	schdecknoddel	sch d e ck n o dd e l	stecknoddl	s t e ck n o dd l	4
+53	TUTT c2	III_32_0002	Peterzell, Peterzell	8.37425, 48.13255	schtecknodel	sch t e ck n o d e l	stecknodle	s t e ck n o d l e	4
+54	KST F2	III_22_0001	Bulach, Bulach	8.38244, 48.9868	stegnodl	s t e g n o d l	schdeggnoddl	sch d e gg n o d d l	5
+55	TUTT y10	III_35_0005	Unadingen, Unadingen	8.40711, 47.88128	stecknodl	s t e ck n o d l	stecknadel	s t e ck n a d e l	2
+56	KST N11	III_23_0013	Schielberg, Schielberg	8.44945, 48.84311	stecknoddel	s t e ck n o dd e l	stecknaddel	s t e ck n a dd e l	1
+57	KST k2	III_19_0005	Philippsburg, Philippsburg	8.45298, 49.235	schdecknodel	sch d e ck n o d e l	schtecknodl	sch t e ck n o d l	2
+58	TUTT F8	III_36_0149	Weizen, Weizen	8.46354, 47.77888	schdegchnoͦ̅dle	sch d e g ch n o ͦ ̅ d l e	stecknodel	s t e ck n o d e l	9
+59	TUTT c7	III_32_0008	Obereschach, Obereschach	8.46928, 48.10596	stecknade	s t e ck n a d e	schtecknoadle	sch t e ck n o a d l e	4
+60	KST c1	III_18_0010	Rheinhausen, Rheinhausen	8.47341, 49.28141	schdĕ̠gnōdl	sch d ĕ ̠ g n ō d l	stecknadel	s t e ck n a d e l	8
+61	KST z6	III_21_0014, III_21_0015	Berghausen, Berghausen	8.52712, 49.00389	schdeggnoddel	sch d e gg n o d d e l	steggnoddl	s t e gg n o d d l	4
+62	MH Q1	II_60_0032	Brühl, Brühl	8.53485, 49.3951	stecknodel	s t e ck n o d e l	schteggnodl	sch t e gg n o d l	5
+63	KST s8	III_20_0022, III_20_0021	Untergrombach, Untergrombach	8.55318, 49.0861	stecknodel	s t e ck n o d e l	stecknadel	s t e ck n a d e l	1
+64	MH H3	II_59_0069	Ilvesheim, Ilvesheim	8.56668, 49.47129	stecknodl	s t e ck n o d l	stecknadel	s t e ck n a d e l	2
+65	KST d4	III_18_0018	Reilingen, Reilingen	8.56943, 49.29368	stecknodl	s t e ck n o d l	stecknadl	s t e ck n a d l	1
+66	MH Q2	II_60_0035, II_60_0034	Schwetzingen, Schwetzingen	8.57064, 49.38567	steggnodl	s t e gg n o d l	schdeggnoodl	sch d e gg n o o d l	4
+67	MH Q3	II_60_0036	Plankstadt, Plankstadt	8.59271, 49.39179	stecknodl	s t e ck n o d l	stecknodel	s t e ck n o d e l	1
+68	MH z3	II_58_0067	Heddesheim, Heddesheim	8.60327, 49.50529	schdecknohl	sch d e ck n o h l	stecknadel	s t e ck n a d e l	6
+69	TUTT G5	III_36_0026	Uttenhofen, Uttenhofen	8.63235, 47.80782	stecknådle	s t e ck n å d l e	stecknodle	s t e ck n o d l e	1
+70	KST G11	III_22_0023	Ersingen, Ersingen	8.63492, 48.93324	schdeggnoddl	sch d e gg n o d d l	schdegnoddl	sch d e g n o dd l	1
+71	KST l6	III_19_0016	Stettfeld, Stettfeld	8.64516, 49.18353	stecknodl	s t e ck n o d l	schdeggnodl	sch d e gg n o d l	5
+72	TUTT s4	III_34_0028	Geisingen, Geisingen	8.65129, 47.93283	stecknodla	s t e ck n o d l a	stecknodle	s t e ck n o d l e	1
+73	KST P2	III_23_0030	Brötzingen, Pforzheim-Brötzingen	8.66799, 48.889	schdecknådel	sch d e ck n å d e l	schdecknodel	sch d e ck n o d e l	1
+74	KST A7	III_21_0024	Rinklingen , Rinklingen	8.6832, 49.03485	stecknodl	s t e ck n o d l	schtecknodl	sch t e ck n o d l	2
+75	MH R3	II_60_0041	Heidelberg-Rohrbach, Heidelberg-Rohrbach	8.69, 49.38005	steggnodel	s t e gg n o d e l	steggnodl	s t e gg n o d l	1
+76	KST P3/3, KST P3/1	III_23_0043, III_23_0037, III_23_0052, III_23_0040, III_23_0045, III_23_0041, III_23_0049, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	stecknodel	s t e ck n o d e l	stecknadel	s t e ck n a d e l	1
+77	KST H3	III_22_0029	Göbrichen, Göbrichen	8.70848, 48.95808	stecknottel	s t e ck n o tt e l	stecknodel	s t e ck n o d e l	2
+78	KST e11	III_18_0026	Rotenberg, Rotenberg	8.71207, 49.25813	stecknodl	s t e ck n o d l	stecknodel	s t e ck n o d e l	1
+79	KST e3	III_18_0027	Baiertal, Baiertal	8.73772, 49.30253	stecknådl	s t e ck n å d l	stecknadel	s t e ck n a d e l	2
+80	MH J6	II_59_0080	Wilhelmsfeld, Wilhelmsfeld	8.7544, 49.47018	stecknodel	s t e ck n o d e l	schdecknodl	sch d e ck n o d l	4
+81	KST e4	III_18_0032	Schatthausen, Schatthausen	8.75841, 49.319	stecknōdl	s t e ck n ō d l	stecknodl	s t e ck n o d l	1
+82	TUTT t3	III_34_0029	Möhringen, Möhringen	8.75916, 47.96779	stecknōdel	s t e ck n ō d e l	stecknodel	s t e ck n o d e l	1
+83	MH R14	II_60_0051	Schlierbach, Schlierbach	8.76062, 49.41501	schdecknōdl	sch d e ck n ō d l	stecknolle	s t e ck n o ll e	6
+84	TUTT A8	III_35_0029	Anselfingen, Anselfingen	8.76516, 47.84558	stecknådle	s t e ck n å d l e	stecknadle	s t e ck n a d l e	1
+85	TUTT H11	III_36_0029, III_36_0028, III_36_0027	Weiterdingen, Weiterdingen	8.76917, 47.79954	stecknodel	s t e ck n o d e l	stecknodle	s t e ck n o d l e	2
+86	MH R12	II_60_0044	Waldhilsbach, Waldhilsbach	8.77179, 49.3721	steggnōdel	s t e gg n ō d e l	stecknadel	s t e ck n a d e l	3
+87	TUTT A9	III_35_0030, III_35_0031	Neuhausen (b. Engen), Neuhausen	8.77423, 47.8379	stecknodla	s t e ck n o d l a	stecknodel	s t e ck n o d e l	2
+88	MH R9	II_60_0046	Bammental, Bammental	8.77604, 49.35511	stecknodel	s t e ck n o d e l	stecknodl	s t e ck n o d l	1
+89	KST e14	III_18_0030	Eschelbach, Eschelbach	8.78417, 49.24823	steggnodl	s t e gg n o d l	schteggnodel	sch t e gg n o d e l	3
+90	MH R13	II_60_0045	Neckargemünd, Neckargemünd	8.79751, 49.39508	stecknadel	s t e ck n a d e l	stecknodel	s t e ck n o d e l	1
+91	MH R10	II_60_0050	Wiesenbach, Wiesenbach	8.80354, 49.36103	stecknoodl	s t e ck n oo d l	schdecknoodl	sch d e ck n oo d l	3
+92	TUTT A6	III_35_0035	Bittelbrunn (Aach), Bittelbrunn	8.81087, 47.86719	schdecknōdle	sch d e ck n ō d l e	stecknodel	s t e ck n o d e l	6
+93	TUTT J1	III_36_0043	Volkertshausen, Volkertshausen	8.863, 47.82187	stecknōadle	s t e ck n ō a d l e	stecknodle	s t e ck n o d l e	2
+94	KST f1	III_18_0041, III_18_0037, III_18_0039, III_18_0040, III_18_0038	Eschelbronn, Eschelbronn	8.86825, 49.3202	stecknodel	s t e ck n o d e l	stecknadel	s t e ck n a d e l	1
+95	KST n13	III_19_0037	Weiler, Weiler	8.87587, 49.20862	stecknodl	s t e ck n o d l	stecknadel	s t e ck n a d e l	2
+96	MH K8	II_59_0097	Neckarhäuserhof, Neckarhäuserhof	8.88191, 49.41513	stecknodl	s t e ck n o d l	stecknodel	s t e ck n o d e l	1
+97	MH S3	II_60_0054	Waldwimmersbach, Waldwimmersbach	8.89219, 49.37538	stecknodel	s t e ck n o d e l	stecknadel	s t e ck n a d e l	1
+98	MH S14	II_60_0058	Epfenbach, Epfenbach	8.91088, 49.33719	stecknodel	s t e ck n o d e l	schdegnodl	sch d e g n o d l	6
+99	MH S11	II_60_0067	Haag, Haag	8.92912, 49.39429	schdĕgnōdl	sch d ĕ g n ō d l	schdegnōdĕl	sch d e g n ō d ĕ l	2
+100	TUTT X2	III_38_0025	Wangen, Wangen	8.93161, 47.6599	stecknoadel	s t e ck n o a d e l	stecknôdle	s t e ck n ô d l e	4
+101	MH K5	II_59_0094	Pleutersbach, Pleutersbach	8.95293, 49.45367	schdegnodl	sch d e g n o d l	stecknodel	s t e ck n o d e l	6
+102	MH K6/2	II_59_0096	Allemühl, Allemühl	8.95618, 49.42613	stecknodel	s t e ck n o d e l	schdecknodl	sch d e ck n o d l	4
+103	TUTT u2	III_34_0045	Unterschwandorf, Unterschwandorf	8.99628, 47.95028	stecknådl	s t e ck n å d l	stecknodel	s t e ck n o d e l	2
+104	MH K4	II_59_0095	Rockenau, Rockenau	8.99904, 49.44673	schdeggnōdel	sch d e gg n ō d e l	stecknadel	s t e ck n a d e l	6
+105	KST g11	III_18_0053	Flinsbach, Flinsbach	8.9996, 49.30946	stecknodel	s t e ck n o d e l	stecknoodel	s t e ck n oo d e l	1
+106	TUTT K8	III_36_0045	Möggingen, Möggingen	9.00337, 47.76589	stecknōadel	s t e ck n ō a d e l	stecknodle	s t e ck n o d l e	4
+107	TUTT C9	III_35_0060	Hoppetenzell, Hoppetenzell	9.00808, 47.89295	stecknodl	s t e ck n o d l	stecknodel	s t e ck n o d e l	1
+108	MH T16	II_60_0070	Breitenbronn, Breitenbronn	9.02197, 49.36483	schdegnodel	sch d e g n o d e l	schtecknodl	sch t e ck n o d l	4
+109	KST g9	III_18_0057	Bargen, Bargen	9.02233, 49.30537	stecknodel	s t e ck n o d e l	stecknadel	s t e ck n a d e l	1
+110	TUTT K6	III_36_0054	Bodman, Bodman	9.02835, 47.80402	stecknodl	s t e ck n o d l	stecknadel	s t e ck n a d e l	2
+111	KST g8	III_18_0058	Wollenberg, Wollenberg	9.03453, 49.29152	stecknodel	s t e ck n o d e l	stecknadel	s t e ck n a d e l	1
+112	TUTT C5	III_35_0055	Winterspüren, Winterspüren	9.05857, 47.85618	stecknådel	s t e ck n å d e l	stecknodel	s t e ck n o d e l	1
+113	KST g10	III_18_0063	Kälbertshausen, Kälbertshausen	9.06276, 49.31724	stecknōdel	s t e ck n ō d e l	schdecknōdl	sch d e ck n ō d l	4
+114	MH T17	II_60_0075	Neckargerach, Neckargerach	9.0708, 49.40101	schdeggnodl	sch d e gg n o d l	stecknodel	s t e ck n o d e l	6
+115	TUTT R2	III_37_0031	Kaltbrunn, Kaltbrunn	9.07201, 47.73526	stecknodla	s t e ck n o d l a	stecknodel	s t e ck n o d e l	2
+116	TUTT K12	III_36_0058	Langenrain, Langenrain	9.07596, 47.76281	stecknådel	s t e ck n å d e l	stecknodel	s t e ck n o d e l	1
+117	TUTT K3	III_36_0066	Bonndorf, Bonndorf	9.09477, 47.82968	stecknoͣdel	s t e ck n o ͣ d e l	stecknodel	s t e ck n o d e l	1
+118	MH T10	II_60_0078	Obrigheim, Obrigheim	9.09608, 49.35186	stecknodl	s t e ck n o d l	stecknadel	s t e ck n a d e l	2
+119	KST g1	III_18_0064	Hochhausen, Hochhausen	9.1008, 49.323	stecknōdl	s t e ck n ō d l	stecknadel	s t e ck n a d e l	2
+120	TUTT R1	III_37_0036	Dettingen, Dettingen	9.117, 47.73485	stecknodl	s t e ck n o d l	stecknodel	s t e ck n o d e l	1
+121	TUTT K2	III_36_0065	Nesselwangen, Nesselwangen	9.11824, 47.81683	stecknodel	s t e ck n o d e l	stecknodl	s t e ck n o d l	1
+122	TUTT v8	III_34_0060	Rast, Rast	9.12126, 47.93997	stecknådel	s t e ck n å d e l	stecknodle	s t e ck n o d l e	3
+123	MH C2	II_58_0104	Reisenbach, Reisenbach	9.12415, 49.50336	sticknōdl	s t i ck n ō d l	schdeggnodel	sch d e gg n o d e l	8
+124	MH L5	II_59_0108	Fahrenbach, Fahrenbach	9.14987, 49.43091	stecknōdel	s t e ck n ō d e l	stecknodel	s t e ck n o d e l	1
+125	MH C3	II_58_0110	Scheidental, Scheidental	9.15106, 49.50744	stecknå̠del	s t e ck n å ̠ d e l	schdegnodel	sch d e g n o d e l	7
+126	MH U1	II_60_0083	Neckarburken, Neckarburken	9.165, 49.37662	schdeggnodl	sch d e gg n o d l	schdecknodl	sch d e ck n o d l	2
+127	MH M6	II_59_0110	Krumbach, Krumbach	9.18402, 49.45323	schdeggnodl	sch d e gg n o d l	schdeknodel	sch d e k n o d e l	3
+128	MH D3	II_58_0108	Mudau, Mudau	9.20615, 49.53336	schdegnodl	sch d e g n o d l	stecknodl	s t e ck n o d l	5
+129	SIG n3	III_36_0076	Hohenbodmann, Hohenbodmann	9.21042, 47.82312	schdegnådl	sch d e g n å d l	stecknodl	s t e ck n o d l	6
+130	MH M5	II_59_0117	Limbach, Limbach	9.21181, 49.46142	stecknedelle	s t e ck n e d e ll e	stecknodel	s t e ck n o d e l	3
+131	SIG q7	III_36_0074	Deisendorf, Deisendorf	9.21621, 47.76835	stecknōdel	s t e ck n ō d e l	stecknoadle	s t e ck n o a d l e	4
+132	MH U11	II_60_0088	Sulzbach, Sulzbach	9.22127, 49.35156	stecknōdl	s t e ck n ō d l	stecknodl	s t e ck n o d l	1
+133	MH U9	II_60_0094	Auerbach, Auerbach	9.22666, 49.39927	schtecknodel	sch t e ck n o d e l	stecknodl	s t e ck n o d l	3
+134	SIG n8	III_36_0077	Lippertsreute, Lippertsreute	9.23743, 47.80427	stecknodel	s t e ck n o d e l	stecknadel	s t e ck n a d e l	1
+135	SIG q3	III_37_0041	Oberuhldingen, Oberuhldingen	9.24549, 47.73557	stecknōdĕl	s t e ck n ō d ĕ l	stecknôdl	s t e ck n ô d l	2
+136	MH M10	II_59_0115	Heidersbach, Heidersbach	9.2468, 49.45517	schtecknodel	sch t e ck n o d e l	sticknoodel	s t i ck n oo d e l	4
+137	MH U3	II_59_0124	Oberschefflenz, Oberschefflenz	9.28249, 49.41626	stecknodl	s t e ck n o d l	stecknoodel	s t e ck n oo d e l	2
+138	SIG n13	III_36_0085	Mimmenausen, Mimmenausen	9.2852, 47.76025	stecknödel	s t e ck n ö d e l	stecknodel	s t e ck n o d e l	1
+139	SIG n12	III_36_0081	Salem, Salem	9.28599, 47.77663	stecknodel	s t e ck n o d e l	stecknadel	s t e ck n a d e l	1
+140	MH D9	II_57_0143	Hornbach (Hettingenbeuern), Hornbach	9.29012, 49.591	stecknodel	s t e ck n o d e l	sticknodel	s t i ck n o d e l	1
+141	SIG q10	III_37_0048	Hagnau, Hagnau	9.31963, 47.67634	schdecknodel	sch d e ck n o d e l	stecknodel	s t e ck n o d e l	3
+142	SIG n10	III_36_0073	Beuren, Beuren	9.32135, 47.80541	stegnoădl	s t e g n o ă d l	stecknoădla	s t e ck n o ă d l a	3
+143	SIG o1	III_36_0088	Betenbrunn, Betenbrunn	9.34649, 47.8185	schtecknådl	sch t e ck n å d l	stecknodel	s t e ck n o d e l	4
+144	MH o8/2, MH o8/1	II_89_0005	Ebenheid, Ebenheid	9.36095, 49.7158	stecknadel	s t e ck n a d e l	stecknod̄el	s t e ck n o d ̄ e l	2
+145	SIG o3	III_36_0098	Lellwangen, Lellwangen	9.36523, 47.79833	stecknoadel	s t e ck n o a d e l	stecknodel	s t e ck n o d e l	1
+146	MH E2	II_91_0001	Hettingen, Hettingen	9.36644, 49.5194	stecknodel	s t e ck n o d e l	stecknadel	s t e ck n a d e l	1
+147	SIG u1	III_38_0026	Immenstaad, Immenstaad	9.3675, 47.66625	stecknodl	s t e ck n o d l	stecknodel	s t e ck n o d e l	1
+148	MH N2	II_92_0003	Schlierstadt, Schlierstadt	9.36816, 49.45257	schtecknodel	sch t e ck n o d e l	schdegnoodel	sch d e g n oo d e l	4
+149	MH N4/2, MH N4/1	II_92_0004	Zimmern, Zimmern	9.37304, 49.43313	schtecknödala	sch t e ck n ö d a l a	schtecknoodel	sch t e ck n oo d e l	4
+150	SIG l2	III_35_0080	Illmensee, Illmensee	9.37456, 47.86209	stecknōdle	s t e ck n ō d l e	stecknodl	s t e ck n o d l	2
+151	MH o1	II_89_0016	Rauenberg, Rauenberg	9.38407, 49.74117	stecknodel	s t e ck n o d e l	stecknoudel	s t e ck n o u d e l	1
+152	MH V2	II_93_0002	Sennfeld, Sennfeld	9.38438, 49.38045	schdecknodel	sch d e ck n o d e l	schtecknodel	sch t e ck n o d e l	1
+153	SIG o2	III_36_0089	Deggenhausen, Deggenhausen	9.3844, 47.80143	stecknodel	s t e ck n o d e l	stecknodle	s t e ck n o d l e	2
+154	MH w7	II_90_0003	Wettersdorf, Wettersdorf	9.38743, 49.63075	schtecknadel	sch t e ck n a d e l	schticknodel	sch t i ck n o d e l	2
+155	MH V1	II_93_0003	Adlesheim, Adlesheim	9.39101, 49.40289	schdecknodl	sch d e ck n o d l	schdeggnodl	sch d e gg n o d l	2
+156	SIG r4	III_37_0057	Riedheim, Riedheim	9.41014, 47.70429	stecknōdel	s t e ck n ō d e l	stecknodel	s t e ck n o d e l	1
+157	MH N5	II_92_0007, II_92_0006	Osterburken, Osterburken	9.42838, 49.4308	stecknodel	s t e ck n o d e l	stecknadel	s t e ck n a d e l	1
+158	MH w2	II_90_0006	Dornberg, Dornberg	9.42843, 49.62542	stecknodel	s t e ck n o d e l	schtecknodel	sch t e ck n o d e l	2
+159	SIG o6	III_36_0096	Urnau, Urnau	9.43083, 47.76354	stecknodel	s t e ck n o d e l	stecknodĕl	s t e ck n o d ĕ l	1
+160	MH E4	II_91_0003	Altheim, Altheim	9.4436, 49.51915	schdecknōdel	sch d e ck n ō d e l	stecknodel	s t e ck n o d e l	4
+161	MH E5	II_91_0004	Waldstetten, Waldstetten	9.44893, 49.5647	stegnodel	s t e g n o d e l	stecknodel	s t e ck n o d e l	2
+162	MH f3	II_88_0014	Grünenwört, Grünenwört	9.47135, 49.77438	stecknodel	s t e ck n o d e l	stecknadel	s t e ck n a d e l	1
+163	MH w3	II_90_0007	Hardheim, Hardheim	9.47457, 49.60804	stecknådel	s t e ck n å d e l	stecknadel	s t e ck n a d e l	1
+164	MH E6	II_91_0123, II_91_0005	Bretzingen, Bretzingen	9.48682, 49.57826	stecknådel	s t e ck n å d e l	stecknadel	s t e ck n a d e l	1
+165	MH E8	II_91_0006	Erfeld, Erfeld	9.49597, 49.55416	schdecknadel	sch d e ck n a d e l	schdegnodel	sch d e g n o d e l	3
+166	MH O2	II_92_0011	Hirschlanden, Hirschlanden	9.50074, 49.47297	stecknoodel	s t e ck n oo d e l	stecknodel	s t e ck n o d e l	1
+167	MH p4	II_89_0013	Dörlesberg, Dörlesberg	9.501, 49.71273	stecknodel	s t e ck n o d e l	stecknadel	s t e ck n a d e l	1
+168	MH W11	II_93_0010	Merchingen, Merchingen	9.50633, 49.4003	stecknodl	s t e ck n o d l	stecknodel	s t e ck n o d e l	1
+169	MH p5	II_89_0024	Külsheim, Külsheim	9.5236, 49.66947	stecknådel	s t e ck n å d e l	stecknodel	s t e ck n o d e l	1
+170	MH x7	II_90_0009	Schweinberg, Schweinberg	9.52459, 49.61864	stecknoodl	s t e ck n oo d l	stecknodel	s t e ck n o d e l	2
+171	MH F1	II_91_0008	Pülfringen, Pülfringen	9.52624, 49.58149	stecknodel	s t e ck n o d e l	schdecknodel	sch d e ck n o d e l	3
+172	MH p2	II_89_0022	Reicholzheim, Reicholzheim	9.53393, 49.72663	stecknådel	s t e ck n å d e l	stecknadel	s t e ck n a d e l	1
+173	MH F5	II_91_0011	Eubigheim, Eubigheim	9.53977, 49.5018	stecknodl	s t e ck n o d l	schtecknodl	sch t e ck n o d l	2
+174	MH O3	II_92_0012	Berolzheim, Berolzheim	9.54042, 49.4749	schtecknodl	sch t e ck n o d l	stecknodel	s t e ck n o d e l	3
+175	MH W2	II_93_0011	Ballenberg, Ballenberg	9.55086, 49.40093	schdecknådel	sch d e ck n å d e l	stecknodel	s t e ck n o d e l	4
+176	MH F2	II_91_0009	Brehmen, Brehmen	9.55454, 49.56839	schteknodl	sch t e k n o d l	schtecknodel	sch t e ck n o d e l	2
+177	MH O7	II_92_0014	Oberwittstadt, Oberwittstadt	9.55565, 49.43027	stecknådel	s t e ck n å d e l	stecknadel	s t e ck n a d e l	1
+178	MH p13	II_89_0019	Urphar, Urphar	9.5706, 49.74798	schdecknodl	sch d e ck n o d l	stecknodel	s t e ck n o d e l	4
+179	MH W4	II_93_0019	Oberndorf, Oberndorf	9.59181, 49.40817	stecknōdel	s t e ck n ō d e l	stecknoodel	s t e ck n oo d e l	2
+180	MH x6	II_90_0012	Königheim, Königheim	9.59419, 49.61802	schdeggnōdel	sch d e gg n ō d e l	stecknodel	s t e ck n o d e l	6
+181	MH O9	II_92_0022	Angeltürn, Angeltürn	9.59726, 49.48572	stecknodel	s t e ck n o d e l	schdegnodl	sch d e g n o d l	6
+182	MH O5	II_92_0019, II_92_0021	Schwabhausen, Schwabhausen	9.60196, 49.45569	schdeggnodel	sch d e gg n o d e l	steggnoh₌del	s t e gg n o h ₌ d e l	5
+183	MH p12	II_89_0020	Dietenhan, Dietenhan	9.6066, 49.74297	stecknōdl	s t e ck n ō d l	stecknodl	s t e ck n o d l	1
+184	MH W8	II_93_0018	Gommersdorf, Gommersdorf	9.61253, 49.36877	stecknōdel	s t e ck n ō d e l	schdecknoodel	sch d e ck n oo d e l	5
+185	MH W5	II_93_0020	Neunstetten, Neunstetten	9.61267, 49.41114	schdeggnōdl	sch d e gg n ō d l	schtecknodel	sch t e ck n o d e l	5
+186	MH p9	II_89_0027	Niklashausen, Niklashausen	9.6175, 49.70453	stecknōdel	s t e ck n ō d e l	stecknôdl	s t e ck n ô d l	2
+187	MH g1	II_88_0024	Dertingen über Wertheim a.M., Dertingen	9.61957, 49.7665	stecknaadel	s t e ck n aa d e l	stecknōădl	s t e ck n ō ă d l	3
+188	MH F7	II_91_0013	Kupprichhausen-Lengenrieden, Kupprichhausen u. Lengenrieden	9.62002, 49.52627	stecknodel	s t e ck n o d e l	stecknoedel	s t e ck n o e d e l	1
+189	MH p11a/2, MH p11a/1	II_89_0021	Kembach, Kembach	9.62461, 49.74217	stecknodel	s t e ck n o d e l	stecknodl	s t e ck n o d l	1
+190	MH O10	II_92_0023, II_92_0025, II_92_0024	Wölchingen, Wölchingen	9.63011, 49.48494	stecknoͦdel	s t e ck n o ͦ d e l	stecknodel	s t e ck n o d e l	1
+191	MH x2	II_90_0020, II_90_0018, II_90_0019	Hochhausen, Hochhausen	9.63526, 49.6621	schdecknodel	sch d e ck n o d e l	stecknodel	s t e ck n o d e l	3
+192	MH F8	II_91_0015	Heckfeld, Heckfeld	9.63713, 49.55077	stecknoͤdl	s t e ck n o ͤ d l	stecknodel	s t e ck n o d e l	2
+193	MH p7	II_89_0031, II_89_0032	Werbach, Werbach	9.63871, 49.67029	stecknodel	s t e ck n o d e l	stecknadel	s t e ck n a d e l	1
+194	MH x3	II_90_0016	Impfingen, Impfingen	9.65946, 49.64719	stecknådel	s t e ck n å d e l	schtecknōdel	sch t e ck n ō d e l	3
+195	MH P2	II_92_0040	Schweigern, Schweigern	9.66576, 49.49224	schdegnodl	sch d e g n o d l	schdeggnōdel	sch d e gg n ō d e l	3
+196	MH X1	II_93_0023	Klepsau, Klepsau	9.67156, 49.38805	stecknodel	s t e ck n o d e l	stecknadel	s t e ck n a d e l	1
+197	MH y4	II_90_0021	Dittigheim, Dittigheim	9.67647, 49.61035	stecknōdel	s t e ck n ō d e l	stecknodel	s t e ck n o d e l	1
+198	MH G11	II_91_0019	Oberschüpf, Oberschüpf	9.67687, 49.52252	schtecknodel	sch t e ck n o d e l	stecknodl	s t e ck n o d l	3
+199	MH P4	II_92_0030, II_92_0031, II_92_0029, II_92_0032	Assamstadt, Assamstadt	9.68738, 49.42689	stecknodel	s t e ck n o d e l	stecknadel	s t e ck n a d e l	1
+200	MH G10	II_91_0018	Beckstein, Beckstein	9.70422, 49.54668	stecknodl	s t e ck n o d l	stecknodel	s t e ck n o d e l	1
+201	MH P1	II_92_0027	Dainbach-Herold, Dainbach	9.71553, 49.49662	stecknodl	s t e ck n o d l	stecknodel	s t e ck n o d e l	1
+202	MH G3	II_91_0026	Gerlachsheim, Gerlachsheim	9.71775, 49.57998	steggnōdel	s t e gg n ō d e l	schdeggnoodel	sch d e gg n o o d e l	5
+203	MH G4	II_91_0025	Marbach, Marbach	9.7264, 49.56581	stecknāͦdel	s t e ck n ā ͦ d e l	stechnoodel	s t e ch n oo d e l	3
+204	MH G9	II_91_0022	Königshofen, Königshofen	9.73105, 49.54759	stecknodel	s t e ck n o d e l	stecknadel	s t e ck n a d e l	1
+205	MH y1	II_89_0036	Großrinderfeld, Grossrinderfeld	9.73405, 49.66558	stecknādl	s t e ck n ā d l	stecknodl	s t e ck n o d l	1
+206	MH G5	II_91_0027	Kützbrunn, Kützbrunn	9.76136, 49.58159	schdegnoadel	sch d e g n o a d e l	stecknodel	s t e ck n o d e l	6
+207	MH y10	II_89_0042	Ilmspan, Ilmspan	9.79016, 49.66609	stecknodel	s t e ck n o d e l	stecknoadl	s t e ck n o a d l	2
+208	MH G7/2, MH G7/1	II_91_0032	Oberbalbach, Oberbalbach	9.7938, 49.53997	stecknodel	s t e ck n o d e l	schdeknôdl	sch d e k n ô d l	6
+209	MH ya2	II_90_0028	Unterwittighausen, Unterwittighausen	9.83878, 49.61344	stecknådl	s t e ck n å d l	stecknadel	s t e ck n a d e l	2
+210	Stra l 3	III_9_0005	Engental, Engental	7.30153, 48.63467	stecknodel	s t e ck n o d e l	schteggnondel	sch t e gg n o n d e l	5
+211	Stra l 3	III_9_0005	Engental, Engental	7.30153, 48.63467	stecknodel	s t e ck n o d e l	schteggnodel	sch t e gg n o d e l	4
+212	Stra l 3	III_9_0005	Engental, Engental	7.30153, 48.63467	stecknoudel	s t e ck n o u d e l	schteggnondel	sch t e gg n o n d e l	5
+213	Stra l 3	III_9_0005	Engental, Engental	7.30153, 48.63467	stecknoudel	s t e ck n o u d e l	schteggnodel	sch t e gg n o d e l	5
+214	Stra e 2/2	III_8_0029	Zabern, Zabern	7.36605, 48.73948	stecknodel	s t e ck n o d e l	stecknadel	s t e ck n a d e l	1
+215	Co Xa 3	III_17_0045, III_17_0044, III_17_0046	Rheinfelden-Stadt (Baden), Rheinfelden	7.78875, 47.55945	stecknådl	s t e ck n å d l	stecknodel	s t e ck n o d e l	2
+216	Co Xa 3	III_17_0045, III_17_0044, III_17_0046	Rheinfelden-Stadt (Baden), Rheinfelden	7.78875, 47.55945	stecknådl	s t e ck n å d l	stecknodle	s t e ck n o d l e	2
+217	Co Xa 3	III_17_0045, III_17_0044, III_17_0046	Rheinfelden-Stadt (Baden), Rheinfelden	7.78875, 47.55945	stecknådel	s t e ck n å d e l	stecknodel	s t e ck n o d e l	1
+218	Co Xa 3	III_17_0045, III_17_0044, III_17_0046	Rheinfelden-Stadt (Baden), Rheinfelden	7.78875, 47.55945	stecknådel	s t e ck n å d e l	stecknodle	s t e ck n o d l e	3
+219	TÜB S6	III_12_0063, III_12_0064	Oberprechtal, Oberprechtal	8.12114, 48.20548	schdecknodel	sch d e ck n o d e l	schdegnodle	sch d e g n o d l e	4
+220	TÜB S6	III_12_0063, III_12_0064	Oberprechtal, Oberprechtal	8.12114, 48.20548	schdecknodel	sch d e ck n o d e l	schtecknaᵒdle	sch t e ck n a ᵒ d l e	5
+221	TÜB b9	III_8_0112, III_8_0113	Bühlertal-Hof, Bühlertal, Bühlertal-Hof	8.19194, 48.68215	stecknoͣdel	s t e ck n o ͣ d e l	stecknodl	s t e ck n o d l	2
+222	TÜB b9	III_8_0112, III_8_0113	Bühlertal-Hof, Bühlertal, Bühlertal-Hof	8.19194, 48.68215	stecknoͣdel	s t e ck n o ͣ d e l	stecknodel	s t e ck n o d e l	1
+223	KST T14/3, KST T14/4, KST T14/1	III_7_0131	Baden-Baden-West, Baden-Baden , Baden-Baden, Baden-Baden Weststadt	8.24094, 48.76273	schdeggnådl	sch d e gg n å d l	stecknadel	s t e ck n a d e l	7
+224	KST T14/3, KST T14/4, KST T14/1	III_7_0131	Baden-Baden-West, Baden-Baden , Baden-Baden, Baden-Baden Weststadt	8.24094, 48.76273	stecknådel	s t e ck n å d e l	stecknadel	s t e ck n a d e l	1
+225	KST N1	III_6_0101, III_6_0100, III_6_0102	Malsch, Malsch	8.3345, 48.88047	stecknodel	s t e ck n o d e l	schtecknodel	sch t e ck n o d e l	2
+226	KST N1	III_6_0101, III_6_0100, III_6_0102	Malsch, Malsch	8.3345, 48.88047	stecknodel	s t e ck n o d e l	schtecknadel	sch t e ck n a d e l	3
+227	Ma h2/1, Ma h2/2	II_59_0064	Neckarau, Mannheim-Neckarau, Mannheim	8.49104, 49.45335	stecknådl	s t e ck n å d l	stecknodel	s t e ck n o d e l	2
+228	KST z6	III_21_0014, III_21_0015	Berghausen, Berghausen	8.52712, 49.00389	schdeggnoddel	sch d e gg n o d d e l	steggnoddel	s t e gg n o d d e l	3
+229	KST z6	III_21_0014, III_21_0015	Berghausen, Berghausen	8.52712, 49.00389	schdeggnoddel	sch d e gg n o d d e l	steggnoddl	s t e gg n o d d l	4
+230	KST s8	III_20_0022, III_20_0021	Untergrombach, Untergrombach	8.55318, 49.0861	stecknodel	s t e ck n o d e l	stecknodl	s t e ck n o d l	1
+231	KST s8	III_20_0022, III_20_0021	Untergrombach, Untergrombach	8.55318, 49.0861	stecknodel	s t e ck n o d e l	stecknadel	s t e ck n a d e l	1
+232	MH R5, MH R4	II_60_0042	Leimen, Leimen	8.68891, 49.34902	stecknådl	s t e ck n å d l	stecknodl	s t e ck n o d l	1
+233	KST P3/3, KST P3/1	III_23_0043, III_23_0037, III_23_0052, III_23_0040, III_23_0045, III_23_0041, III_23_0049, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	schdecknoͦdl	sch d e ck n o ͦ d l	schdecknodel	sch d e ck n o d e l	2
+234	KST P3/3, KST P3/1	III_23_0043, III_23_0037, III_23_0052, III_23_0040, III_23_0045, III_23_0041, III_23_0049, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	schdecknoͦdl	sch d e ck n o ͦ d l	stecknòdel	s t e ck n ò d e l	6
+235	KST P3/3, KST P3/1	III_23_0043, III_23_0037, III_23_0052, III_23_0040, III_23_0045, III_23_0041, III_23_0049, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	schdecknoͦdl	sch d e ck n o ͦ d l	stecknodel	s t e ck n o d e l	5
+236	KST P3/3, KST P3/1	III_23_0043, III_23_0037, III_23_0052, III_23_0040, III_23_0045, III_23_0041, III_23_0049, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	schdecknoͦdl	sch d e ck n o ͦ d l	stegnodl	s t e g n o d l	6
+237	KST P3/3, KST P3/1	III_23_0043, III_23_0037, III_23_0052, III_23_0040, III_23_0045, III_23_0041, III_23_0049, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	schdecknoͦdl	sch d e ck n o ͦ d l	stecknadel	s t e ck n a d e l	6
+238	KST P3/3, KST P3/1	III_23_0043, III_23_0037, III_23_0052, III_23_0040, III_23_0045, III_23_0041, III_23_0049, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	stecknodel	s t e ck n o d e l	schdecknodel	sch d e ck n o d e l	3
+239	KST P3/3, KST P3/1	III_23_0043, III_23_0037, III_23_0052, III_23_0040, III_23_0045, III_23_0041, III_23_0049, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	stecknodel	s t e ck n o d e l	stecknòdel	s t e ck n ò d e l	1
+240	KST P3/3, KST P3/1	III_23_0043, III_23_0037, III_23_0052, III_23_0040, III_23_0045, III_23_0041, III_23_0049, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	stecknodel	s t e ck n o d e l	stegnodl	s t e g n o d l	3
+241	KST P3/3, KST P3/1	III_23_0043, III_23_0037, III_23_0052, III_23_0040, III_23_0045, III_23_0041, III_23_0049, III_23_0046	Pforzheim, Pforzheim	8.70025, 48.89013	stecknodel	s t e ck n o d e l	stecknadel	s t e ck n a d e l	1
+242	KST m11	III_19_0025, III_19_0024, III_19_0026	Östringen, Östringen	8.7137, 49.22037	stecknodel	s t e ck n o d e l	stecknodl	s t e ck n o d l	1
+243	TUTT H11	III_36_0029, III_36_0028, III_36_0027	Weiterdingen, Weiterdingen	8.76917, 47.79954	stecknodel	s t e ck n o d e l	schdecknodlä	sch d e ck n o d l ä	5
+244	TUTT H11	III_36_0029, III_36_0028, III_36_0027	Weiterdingen, Weiterdingen	8.76917, 47.79954	stecknodel	s t e ck n o d e l	stecknodle	s t e ck n o d l e	2
+245	KST f1	III_18_0041, III_18_0037, III_18_0039, III_18_0040, III_18_0038	Eschelbronn, Eschelbronn	8.86825, 49.3202	stecknodel	s t e ck n o d e l	stecknodel 	s t e ck n o d e l 	1
+246	KST f1	III_18_0041, III_18_0037, III_18_0039, III_18_0040, III_18_0038	Eschelbronn, Eschelbronn	8.86825, 49.3202	stecknodel	s t e ck n o d e l	stecknadel	s t e ck n a d e l	1
+247	MH S11	II_60_0067	Haag, Haag	8.92912, 49.39429	schdĕgnōdel	sch d ĕ g n ō d e l	schdegnōdĕl	sch d e g n ō d ĕ l	2
+248	MH S11	II_60_0067	Haag, Haag	8.92912, 49.39429	schdĕgnōdl	sch d ĕ g n ō d l	schdegnōdĕl	sch d e g n ō d ĕ l	2
+249	TUTT K7	III_36_0057, III_36_0055, III_36_0056	Liggeringen, Liggeringen	9.02698, 47.77495	stecknodel	s t e ck n o d e l	stecknodl	s t e ck n o d l	1
+250	TUTT K7	III_36_0057, III_36_0055, III_36_0056	Liggeringen, Liggeringen	9.02698, 47.77495	stecknodel	s t e ck n o d e l	stecknoedl	s t e ck n o e d l	2
+251	KST g10	III_18_0063	Kälbertshausen, Kälbertshausen	9.06276, 49.31724	stecknōdel	s t e ck n ō d e l	schdecknōdel	sch d e ck n ō d e l	3
+252	KST g10	III_18_0063	Kälbertshausen, Kälbertshausen	9.06276, 49.31724	stecknōdel	s t e ck n ō d e l	schdecknōdl	sch d e ck n ō d l	4
+253	MH T13	II_60_0081, II_60_0082	Mosbach, Mosbach	9.14619, 49.35501	stecknodel	s t e ck n o d e l	stecknodl	s t e ck n o d l	1
+254	MH M5	II_59_0117	Limbach, Limbach	9.21181, 49.46142	stecknådel	s t e ck n å d e l	stecknodel	s t e ck n o d e l	1
+255	MH M5	II_59_0117	Limbach, Limbach	9.21181, 49.46142	stecknedelle	s t e ck n e d e ll e	stecknodel	s t e ck n o d e l	3
+256	MH w1	II_90_0001	Reichenhardsachsen, Reichenhardsachsen	9.34508, 49.64003	schtecknodel	sch t e ck n o d e l	stecknodel	s t e ck n o d e l	2
+257	MH o8/2, MH o8/1	II_89_0005	Ebenheid, Ebenheid	9.36095, 49.7158	schdecknōdel	sch d e ck n ō d e l	stecknod̄el	s t e ck n o d ̄ e l	5
+258	MH o8/2, MH o8/1	II_89_0005	Ebenheid, Ebenheid	9.36095, 49.7158	stecknadel	s t e ck n a d e l	stecknod̄el	s t e ck n o d ̄ e l	2
+259	MH N4/2, MH N4/1	II_92_0004	Zimmern, Zimmern	9.37304, 49.43313	stecknōdel	s t e ck n ō d e l	schtecknoodel	sch t e ck n oo d e l	4
+260	MH N4/2, MH N4/1	II_92_0004	Zimmern, Zimmern	9.37304, 49.43313	schtecknödala	sch t e ck n ö d a l a	schtecknoodel	sch t e ck n oo d e l	4
+261	MH f3	II_88_0014	Grünenwört, Grünenwört	9.47135, 49.77438	stecknodel	s t e ck n o d e l	stegnodel	s t e g n o d e l	2
+262	MH f3	II_88_0014	Grünenwört, Grünenwört	9.47135, 49.77438	stecknodel	s t e ck n o d e l	stecknadel	s t e ck n a d e l	1
+263	MH E6	II_91_0123, II_91_0005	Bretzingen, Bretzingen	9.48682, 49.57826	stecknådel	s t e ck n å d e l	stecknodel	s t e ck n o d e l	1
+264	MH E6	II_91_0123, II_91_0005	Bretzingen, Bretzingen	9.48682, 49.57826	stecknådel	s t e ck n å d e l	stecknadel	s t e ck n a d e l	1
+265	MH O9	II_92_0022	Angeltürn, Angeltürn	9.59726, 49.48572	stecknödele	s t e ck n ö d e l e	schdegnodl	sch d e g n o d l	8
+266	MH O9	II_92_0022	Angeltürn, Angeltürn	9.59726, 49.48572	stecknodel	s t e ck n o d e l	schdegnodl	sch d e g n o d l	6
+267	MH O5	II_92_0019, II_92_0021	Schwabhausen, Schwabhausen	9.60196, 49.45569	schdeggnodel	sch d e gg n o d e l	stecknodel	s t e ck n o d e l	5
+268	MH O5	II_92_0019, II_92_0021	Schwabhausen, Schwabhausen	9.60196, 49.45569	schdeggnodel	sch d e gg n o d e l	steggnoh₌del	s t e gg n o h ₌ d e l	5
+269	MH O6	II_92_0015, II_92_0018, II_92_0017	Windischbuch, Windischbuch	9.62194, 49.43593	stecknodel	s t e ck n o d e l	steggnodl	s t e gg n o d l	3
+270	MH O10	II_92_0023, II_92_0025, II_92_0024	Wölchingen, Wölchingen	9.63011, 49.48494	stecknoͦdel	s t e ck n o ͦ d e l	schdecknodel	sch d e ck n o d e l	4
+271	MH O10	II_92_0023, II_92_0025, II_92_0024	Wölchingen, Wölchingen	9.63011, 49.48494	stecknoͦdel	s t e ck n o ͦ d e l	stegnadel	s t e g n a d e l	4
+272	MH O10	II_92_0023, II_92_0025, II_92_0024	Wölchingen, Wölchingen	9.63011, 49.48494	stecknoͦdel	s t e ck n o ͦ d e l	stecknodel	s t e ck n o d e l	1
+273	MH p7	II_89_0031, II_89_0032	Werbach, Werbach	9.63871, 49.67029	stecknodel	s t e ck n o d e l	stecknadel	s t e ck n a d e l	1
+274	MH P4	II_92_0030, II_92_0031, II_92_0029, II_92_0032	Assamstadt, Assamstadt	9.68738, 49.42689	stecknodel	s t e ck n o d e l	stecknoedel	s t e ck n o e d e l	1
+275	MH P4	II_92_0030, II_92_0031, II_92_0029, II_92_0032	Assamstadt, Assamstadt	9.68738, 49.42689	stecknodel	s t e ck n o d e l	stecknadel	s t e ck n a d e l	1
+276	MH G7/2, MH G7/1	II_91_0032	Oberbalbach, Oberbalbach	9.7938, 49.53997	schdegnodel	sch d e g n o d e l	schdeknôdl	sch d e k n ô d l	3
+277	MH G7/2, MH G7/1	II_91_0032	Oberbalbach, Oberbalbach	9.7938, 49.53997	stecknodel	s t e ck n o d e l	schdeknôdl	sch d e k n ô d l	6

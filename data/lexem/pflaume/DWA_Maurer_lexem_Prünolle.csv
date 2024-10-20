@@ -1,0 +1,4 @@
+	Fragebogen_maurer	Fragebogen_DWA	Ort	Koordinaten	item_maurer	item_DWA	Levenshtein_item	phontype_maurer	phontype_DWA	Levenshtein_phontype	lextype_maurer	lextype_DWA	Levenshtein_lextype
+0	Co d 2	na	Munzenheim (Muntzenheim)	7.47318, 48.10199	prünolle	na	999	prünolle	na	999	Prünolle	na	999
+1	Stra Q 6	III_11_0103	Müttersholz (Muttersholtz), Muttersholz	7.53321, 48.2674	brünōl	brünol	1	prünolle	prünolle	0	Prünolle	Prünolle	0
+2	Co P8	III_15_0045	Bamlach, Bamlach	7.54942, 47.71753	brunolle	brunollen	1	prünolle	prünolle	0	Prünolle	Prünolle	0
